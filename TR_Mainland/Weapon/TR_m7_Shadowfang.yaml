@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m7_Shadowfang
+name: Shadowfang
+script: ''
+mesh: tr\w\tr_w_ebony_saber.nif
+icon: tr\w\tr_w_ebony_saber.dds
+enchanting: TR_m7_Shadowfang_en
+data:
+  weight: 30.0
+  value: 18000
+  weapon_type: LongBladeOneHand
+  health: 2400
+  speed: 1.4
+  reach: 1.0
+  enchantment: 120
+  chop_min: 5
+  chop_max: 36
+  slash_min: 4
+  slash_max: 32
+  thrust_min: 1
+  thrust_max: 14
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

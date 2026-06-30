@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_Ns_CasinoPoisonAct
+name: Poison Gas Caster
+script: TR_m7_JNS_PoisonGasActSc
+mesh: m\Misc_Potion_Exclusive_01.nif

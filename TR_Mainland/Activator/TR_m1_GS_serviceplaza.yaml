@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m1_GS_serviceplaza
+name: Gah Sadrith Merchant Plaza
+script: OutsideBanner
+mesh: f\Furn_bannerD_alchemy_01.NIF

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: TR_m2_aztear_i2-383-ind
+name: Azura's Tear
+script: ''
+mesh: TR\n\TR_Ing_aquamarine_mm.NIF
+icon: TR\n\TR_Ing_aquamarine_mm.dds
+data:
+  weight: 1.0
+  value: 1500
+  effects:
+  - CureCommonDisease
+  - CureBlightDisease
+  - CurePoison
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

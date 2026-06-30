@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_TeloserasEnemyNote
+name: EnemyNote
+script: ''
+mesh: tr\tr_note_pin.nif
+icon: default icon.dds
+enchanting: ''
+text: "Feel free to replace the enemies. The idea is that at least part of this maze was created by the bandits (which is why there is so little loot outside the vault), but the areas near the end with the key could be beefed up if we imagine the rest of it is just unusally haunted or magical, and dead adventurers have risen again. The final room should be a pretty decent challenge befitting the complexity of the dungeon and the high skill requirements to get there. \r\n\r\nNOTE: Do not put enemies in the beartrap rooms. The ones already near them don't seem to wander into them, but others probably will, and the beartrap sound is not localized."
+data:
+  weight: 0.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 0

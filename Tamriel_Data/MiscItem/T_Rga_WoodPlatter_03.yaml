@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Rga_WoodPlatter_03
+name: Wooden Platter
+script: ''
+mesh: hf\m\hf_misc_rga_WdPlatt_01.nif
+icon: hf\m\hf_misc_rga_WdPlatt_01.dds
+data:
+  weight: 1.0
+  value: 2
+  flags: ''

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Dae_AzurasMoon
+name: Azura's Moon
+script: ''
+mesh: pi\w\pi_w_art_Az_moon.nif
+icon: pi\w\pi_w_azuras_moon.dds
+enchanting: T_Strike_AzurasMoon
+data:
+  weight: 18.0
+  value: 60000
+  weapon_type: ShortBladeOneHand
+  health: 1200
+  speed: 2.25
+  reach: 1.0
+  enchantment: 200
+  chop_min: 15
+  chop_max: 40
+  slash_min: 15
+  slash_max: 40
+  thrust_min: 3
+  thrust_max: 9
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

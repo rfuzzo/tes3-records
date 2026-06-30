@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: sunder
+name: Sunder
+script: ouch_sunder
+mesh: w\W_Art_sunder.NIF
+icon: w\tx_art_sunder.tga
+enchanting: sunder_rev2_en
+data:
+  weight: 40.0
+  value: 400000
+  weapon_type: BluntOneHand
+  health: 6000
+  speed: 1.5
+  reach: 1.0
+  enchantment: 165
+  chop_min: 10
+  chop_max: 70
+  slash_min: 10
+  slash_max: 60
+  thrust_min: 1
+  thrust_max: 4
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

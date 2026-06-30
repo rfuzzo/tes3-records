@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_De_Glass_Dart_01
+name: Glass Dart
+script: ''
+mesh: tr\w\tr_w_glass_dart.nif
+icon: tr\w\tr_w_glass_dart.dds
+enchanting: ''
+data:
+  weight: 0.2
+  value: 20
+  weapon_type: MarksmanThrown
+  health: 40
+  speed: 1.0
+  reach: 1.0
+  enchantment: 9
+  chop_min: 1
+  chop_max: 9
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Ham_Flora_Silverplm04
+name: Silver Palm
+script: ''
+mesh: Sky\o\Sky_Flora_Palm_04.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - T_Ham_Random_FlorPalmfruit

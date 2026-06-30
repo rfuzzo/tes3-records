@@ -1,0 +1,36 @@
+type: Alchemy
+flags: ''
+id: T_Imp_Drink_CherryBrandy_01
+name: Kurst
+script: ''
+mesh: pc\m\pc_misc_kurst.nif
+icon: pc\m\pc_kurst_icon.dds
+effects:
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Agility
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 10
+  max_magnitude: 10
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Luck
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 10
+  max_magnitude: 10
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Personality
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 10
+  max_magnitude: 10
+data:
+  weight: 1.5
+  value: 100
+  flags: ''

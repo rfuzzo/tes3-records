@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_sc_m2_i2-437-Tri_donations
+name: List Of Donations
+script: ''
+mesh: m\Text_Scroll_open_02.nif
+icon: m\Tx_scroll_open_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>[This scroll lists donations for the maintenance of the catacombs over the past few years.]<BR>"
+data:
+  weight: 1.0
+  value: 40
+  book_type: Scroll
+  skill: None
+  enchantment: 25

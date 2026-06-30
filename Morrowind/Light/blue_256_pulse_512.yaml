@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: blue_256_pulse_512
+name: ''
+script: ''
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 512
+  color:
+  - 107
+  - 126
+  - 214
+  - 0
+  flags: PULSE_SLOW

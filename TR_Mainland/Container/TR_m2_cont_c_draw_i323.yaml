@@ -1,0 +1,21 @@
+type: Container
+flags: ''
+id: TR_m2_cont_c_draw_i323
+name: Chest of Drawers
+script: ''
+mesh: o\Contain_Com_Drawers_01.NIF
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - amulet of shield
+- - 1
+  - belt of charisma
+- - 1
+  - expensive_belt_03
+- - 1
+  - expensive_pants_03
+- - 2
+  - expensive_shirt_03
+- - 2
+  - potion_t_bug_musk_01

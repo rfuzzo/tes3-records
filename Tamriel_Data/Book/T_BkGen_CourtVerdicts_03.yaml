@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_BkGen_CourtVerdicts_03
+name: Court Verdicts
+script: ''
+mesh: pc\m\PC_bk_Book_24.nif
+icon: pc\m\pc_bk_book_24.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n[These are verdicts made by a ruling noble lord concerning high-profile crimes - murder, arson, theft, etc. Each document is supported with excerpts from Imperial law, scribbled in one of the Barrister Guild's legal ciphers.]<BR>"
+data:
+  weight: 7.0
+  value: 4
+  book_type: Book
+  skill: None
+  enchantment: 0

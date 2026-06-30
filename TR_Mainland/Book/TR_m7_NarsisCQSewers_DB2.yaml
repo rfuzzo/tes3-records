@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_NarsisCQSewers_DB2
+name: ''
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: ''
+enchanting: ''
+text: "Dark Brotherhood Assassin\r\n\r\nDB Punisher\r\nDunmer Male\r\n\r\nStatic AI "
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

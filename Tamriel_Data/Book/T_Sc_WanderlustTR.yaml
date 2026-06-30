@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Sc_WanderlustTR
+name: Wanderlust
+script: ''
+mesh: m\Text_Scroll_01.nif
+icon: m\Tx_scroll_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nWanderlust<BR>\r\nSirnei Afftin\r\n<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\">\r\nThe winds have called from the east again<BR>\r\nI wonder where I'll be.<BR>\r\nThe wandering, an endless quest,<BR>\r\nSomething new I hope to see.<BR><BR>\r\nAlas I hail the chilling night,<BR>\r\nAlone upon the plains.<BR>\r\nAnd I hold the summer closer,<BR>\r\nAs its smile slowly wanes.<BR><BR>\r\nI dream the world has fallen ill,<BR>\r\nWith a winter's whispered dream.<BR>\r\nAnd songs have given way to rest,<BR>\r\nAs the grass with crystals gleam.<BR><BR>\r\nI awake with ice upon my flesh,<BR>\r\nAnd stars where sun should be.<BR>\r\nSmell the air, thick as tears,<BR>\r\nAlive with quiet glee.<BR><BR>\r\nAfford the morning one faint smile,<BR>\r\nHead toward journey's end.<BR>\r\nKnowing there I'll never be,<BR>\r\nThe road, always my friend.<BR>"
+data:
+  weight: 1.0999999
+  value: 25
+  book_type: Scroll
+  skill: None
+  enchantment: 0

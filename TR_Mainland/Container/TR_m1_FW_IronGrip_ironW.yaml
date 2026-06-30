@@ -1,0 +1,41 @@
+type: Container
+flags: ''
+id: TR_m1_FW_IronGrip_ironW
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 250.0
+container_flags: IS_BASE
+inventory:
+- - -1
+  - Iron Long Spear
+- - 25
+  - iron arrow
+- - -1
+  - iron battle axe
+- - -1
+  - iron broadsword
+- - -1
+  - iron claymore
+- - -1
+  - iron club
+- - -1
+  - iron dagger
+- - -1
+  - iron halberd
+- - -1
+  - iron longsword
+- - -1
+  - iron mace
+- - -1
+  - iron saber
+- - -1
+  - iron shortsword
+- - -1
+  - iron spear
+- - -1
+  - iron tanto
+- - -1
+  - iron war axe
+- - -1
+  - iron warhammer

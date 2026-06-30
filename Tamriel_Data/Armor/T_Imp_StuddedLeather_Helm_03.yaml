@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Imp_StuddedLeather_Helm_03
+name: Kreath Studded Leather Helm
+script: ''
+mesh: TR\a\tr_A_stud_leath_helm.NIF
+icon: TR\a\TR_a_stud_lthr_helm.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Hair
+  male_bodypart: T_A_ImpStuddedLeatherHelm01_Hr
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 2.0
+  value: 34
+  health: 100
+  enchantment: 50
+  armor_rating: 10

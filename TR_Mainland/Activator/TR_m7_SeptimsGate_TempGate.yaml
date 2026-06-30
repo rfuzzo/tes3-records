@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_SeptimsGate_TempGate
+name: Large Gate
+script: TR_m7_SeptimsGate_TempGate_scp
+mesh: tr\d\tr_ex_imp_gatebig02.nif

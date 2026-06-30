@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Bellman_04
+name: LONG-STANDING WAR TAX REPEALED
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_note_oe_news.nif
+icon: tr\m\tr_note_oe_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\TR_bellman_512_256.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nLONG-STANDING WAR TAX REPEALED<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nIn a generous decree, Emperor Uriel Septim VII, long may be his reign, surprised the Empire by repealing the venerable war tax. Set to enter its 34th year, the tax was established to aid in recovery after the disastrous Simulacrum. Phrere Briricca, director of the Old Ebonheart branch of the Briricca Private Bank, comments that the repeal marks the restoration of normalcy: \"The more prosperous citizens have long suffered under an outsized tax burden. Now, wealth can flow freer than ever. I see nothing but prosperity ahead for our Empire.\"<br><br>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nA NEW CITIZEN CONTRIBUTION<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nIn the same decree, the Emperor revealed a new household tax, \"not exceeding 10 Septims,\" to be used for road maintenance. Responding to criticism that the new tax simply shifts the burden from the rich to the masses, Phrere Briricca explained: \"Disregard that nonsense. There is nothing more fair than a flat, per-household tax. Any responsible family should be able to cover the cost handily.\" Readers owning property worth more than 30000 Septims will be pleased to hear that their total tax burden will, indeed, be decreasing as a result of these changes.<br><br>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

@@ -1,0 +1,23 @@
+type: Clothing
+flags: ''
+id: T_De_Cm_ShirtTelv_01
+name: Common Telvanni Shirt
+script: ''
+mesh: tr\c\tr_c_shirt_telv_01gd.nif
+icon: tr\c\tr_c_shirt_telv_01.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_C_DeCmShirtTelv01_C
+  female_bodypart: ''
+- biped_object_type: LeftUpperArm
+  male_bodypart: T_C_DeCmShirtTelv01_UA
+  female_bodypart: ''
+- biped_object_type: RightUpperArm
+  male_bodypart: T_C_DeCmShirtTelv01_UA
+  female_bodypart: ''
+data:
+  clothing_type: Shirt
+  weight: 2.0
+  value: 4
+  enchantment: 20

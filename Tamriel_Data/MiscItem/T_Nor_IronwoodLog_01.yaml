@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Nor_IronwoodLog_01
+name: Ironwood Piece
+script: ''
+mesh: sky\m\sky_misc_ironwd_p_01.nif
+icon: sky\m\tx_misc_ironwd_log01.dds
+data:
+  weight: 4.0
+  value: 10
+  flags: ''

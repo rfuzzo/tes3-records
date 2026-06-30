@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: flora_willow_flower_01
+name: Willow Flower
+script: ''
+mesh: o\Flora_Willow_Flower_01.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - random_willow_anther

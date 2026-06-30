@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_HrCom_Var_Sk3Wheat
+name: Sack
+script: ''
+mesh: hr\o\hr_contain_sack_03.nif
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 7
+  - T_Cyr_Random_FlorWheat

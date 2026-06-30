@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: ac_furn_rug_big_04_dren
+name: Common Rug (Trapped)
+script: BILL_common_trapped_rug
+mesh: f\Furn_rug_big_04_Collision.NIF

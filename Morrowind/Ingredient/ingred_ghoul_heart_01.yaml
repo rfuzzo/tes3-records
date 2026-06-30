@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_ghoul_heart_01
+name: Ghoul Heart
+script: ''
+mesh: n\Ingred_Ghoul_heart_01.nif
+icon: n\Tx_ghoul_heart_01.tga
+data:
+  weight: 0.5
+  value: 150
+  effects:
+  - Paralyze
+  - CurePoison
+  - FortifyAttackBonus
+  - None
+  skills:
+  - Block
+  - Block
+  - Block
+  - Block
+  attributes:
+  - Personality
+  - Strength
+  - Strength
+  - Strength

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Com_Farm_Pitchfork_01
+name: Pitch Fork
+script: ''
+mesh: pc\w\pc_pitchfork_01.nif
+icon: pc\w\pc_w_pitchfork_01.dds
+enchanting: ''
+data:
+  weight: 7.0
+  value: 8
+  weapon_type: SpearTwoWide
+  health: 300
+  speed: 1.0
+  reach: 1.4
+  enchantment: 100
+  chop_min: 1
+  chop_max: 3
+  slash_min: 1
+  slash_max: 3
+  thrust_min: 1
+  thrust_max: 5
+  flags: ''

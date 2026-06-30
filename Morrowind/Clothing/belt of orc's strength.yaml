@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: belt of orc's strength
+name: Belt of Orc's Strength
+script: ''
+mesh: c\C_belt_Common_4.NIF
+icon: c\tx_belt_common04.tga
+enchanting: orc's strength_en
+biped_objects: []
+data:
+  clothing_type: Belt
+  weight: 1.0
+  value: 6
+  enchantment: 10

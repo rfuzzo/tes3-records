@@ -1,0 +1,24 @@
+type: Book
+flags: ''
+id: T_Bk_HowToTuneYourHoomTR
+name: How to Tune your Hoom
+script: ''
+mesh: TR\m\TR_book_closed_i09_AY.nif
+icon: TR\m\TR_book_closed_i09_AY.dds
+enchanting: ''
+text: |-
+  <DIV ALIGN="CENTER"><FONT COLOR="000000" SIZE="3" FACE="Magic Cards"><BR>How to Tune your Hoom<BR>
+  <DIV ALIGN="LEFT"> By Arvyrin Adrys<BR><BR>
+  <BR>We are all aware of the long and storied history of the Mountain Hoom. Who has not, as a child, heard the tale of Daroom, the Beast of the Mountain who sang to the Dwemer animunculi in their own language? Or of the seven thousand Hoom that greeted Saint Veloth (blessed be the dust of his mouth), and announced to him that he had entered Resdayn at last?<BR>
+  <BR>Not all of these proud creatures can claim such legendary status; but most can, with patience and wisdom, be trained to sing harmonies both pious and beautiful. By following my advice, perhaps you too like the Chimer Magnates of old can own a parade of these animals, to march before you and signal your approach.
+  To do so, one must raise the beast from birth. Locating eggs is not hard, but harvesting them from the mother's back may prove a challenge. Once hatched, a juvenile Hoom is no larger than a mouse and will happily sit in the folds of your cloak, eating comberries and other fruits.<BR>
+  <BR>When it comes of an age to carry itself, you must begin its training. Speak to it, sing to it, play the flute or ash horn to it if you can. It will see you as a parent and will strive to imitate. I once saw a Hoom three summers of age that could form Ashlander melodies as sweet and mournful as any one might hear on the winds of Vvardenfell.<BR>
+  <BR>The Nords believe that the Hoom learns best in its spring mating season, and you may see a poor apprentice lad wearing the shell of a potential mate, trying to inflame the blood-fired creatures so that they sing all the sweeter. Amusing though this charade is, there is little enough proof of its effectiveness, and the creatures learn as diligently in Frostfall as in First Seed.<BR>
+  <BR>With skill, it is possible to craft reeds and valves from wood, bone, and other materials. Fitting these to your companion will broaden the range of sounds that it can produce. Masters of this art engrave their sigils on the carapace of the animal, making art pleasing to the ears and eyes alike. My symbol is the double-headed Shalk; you may encounter a few examples of my life's work.<BR>
+  <BR>Finally, a note to those who have a romantic imagination and a love of the old tales. It is said in ancient days the Hoom could be taught to speak and utter pieties as well as any Dunmer. I fear that if you wish to see this done today, you must seek a better teacher than I. That art, if it ever truly existed, is now lost. It is claimed by some that the Hoom long ago said all they wished to say, and are content now simply to sing. Perhaps in this they are the wise ones. <BR>
+data:
+  weight: 2.5
+  value: 50
+  book_type: Book
+  skill: None
+  enchantment: 100

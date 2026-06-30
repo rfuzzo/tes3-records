@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: TR_m1_FW_DispCasGalleon
+name: Display Case
+script: TR_m1_FW_DispCasGalleon_sc
+mesh: PC\f\pc_furn_com_r_displ_02.nif
+encumbrance: 0.0
+container_flags: IS_BASE
+inventory: []

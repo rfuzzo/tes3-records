@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4-519_bk_journal
+name: Vuro Doram's Journal
+script: ''
+mesh: m\Text_Octavo_05.nif
+icon: m\Tx_book_04.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nVuro Doram's Journal<BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\n3E 411 - Second of Sun's Dusk:<BR>\r\nWe've found a new cave. Haven't explored it yet, but it serves as a nice lookout of the valley. Perhaps we'll have some luck once and for all, especially after Gro-Dhul's brawl with those smugglers by the delta. She got all five of us entwined in her bloody conflict!<BR>\r\n<BR>\r\n3E 411 - Fourth of Sun's Dusk:<BR>\r\nI sent Rhanjiir into the cave to check things out for us. He's been missing for a couple hours now. I hope he hasn't gotten himself into trouble - he's our last slave. I might be forced to send the full crew down there to get the damned Khajiit out, as we can't afford any more losses.<BR>\r\n<BR>\r\n3E 411 - Fifth of Sun's Dusk:<BR>\r\nI swear things cannot get worse for us! Rhanjiir never came back, and we were forced to scope things out ourselves. And, as I had expected, our last slave bit the dust. Stone dead! We found his corpse bled out all over the floor. I saw slashes all over his body. Not sure what created those. I pray to Almsivi that we haven't run into another bandit den, though nowadays I can only expect such poor luck.<BR>\r\n<BR>\r\n3E 411 - Seventh of Sun's Dusk:<BR>\r\nThe most terrible form of treachery has come upon us! We lay asleep in the first chamber of the cave, and from out of the darkness a beast came and struck Frighil. A quiet scream, and then sudden silence, was all that I could make out. The remaining three of us scurried out of our bedrolls and rushed away from the monster. Kalan was closest to the entrance, and I think he found the way out. Gro-Dhul and I were forced to run deeper into the tunnels, and we ran into more creatures. We are now hidden within an odd stone structure, though I do not know how much longer we can remain inconspicuous.<BR>\r\n<BR>\r\n3E 411 - Tenth of Sun's Dusk:<BR>\r\nI cannot confidently calculate how many days I've lain here, though I assume about three days have passed since the first encounter with those awful creatures. Gro-Dhul is dead, pierced by one of the monsters' terrible spike. I've found that the creatures are Spider Daedra, one of Mephala's horrid creations. I dare not fight them. My spear is breaking, and in the most recent struggle I broke an arm. I've hidden myself atop a steep and slippery rock, hopefully now clear of further violence. I know my fate is now sealed. Even if the beasts were killed, I could never find my way out of this rocky maze.<BR>\r\n<BR>"
+data:
+  weight: 3.0
+  value: 25
+  book_type: Book
+  skill: None
+  enchantment: 0

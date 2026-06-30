@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_bk_IL_Tiberianote
+name: Package for Tiberia Rone
+script: ''
+mesh: m\text_scroll_01.nif
+icon: m\tx_scroll_open_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nTo Tiberia Rone of the Imperial Navy,\r\n<BR>\r\nI assure you, madam, no such events will occur in Firewatch again. Under the guiding hand of the Duchess and Theurgist Tarom, I have totally reformed the Dustmoth Garrison, and we are proud to dutifully serve the people of Firewatch as stalwart protectors. Never again will the Legion endanger Nivalis, nor shall we shy away from defending it from agitators from the east. This, I swear to you, on my honor and rank in the Legion. <BR>\r\n<BR>\r\nYour obedient servant,<BR>\r\nKnight-Commander Thromil Rufus, Commander of the Dustmoth Legion Garrison and the Honorable Legions of Telvannis District<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

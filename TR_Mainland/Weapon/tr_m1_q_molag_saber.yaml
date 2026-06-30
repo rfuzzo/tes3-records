@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: tr_m1_q_molag_saber
+name: Soul Anchor
+script: ''
+mesh: tr\w\tr_w_daedra_saber.nif
+icon: tr\w\tr_w_daedra_saber.dds
+enchanting: TR_m1_q_TO_molagbal_EN
+data:
+  weight: 40.0
+  value: 35000
+  weapon_type: LongBladeOneHand
+  health: 4000
+  speed: 1.4
+  reach: 1.0
+  enchantment: 160
+  chop_min: 5
+  chop_max: 42
+  slash_min: 4
+  slash_max: 38
+  thrust_min: 1
+  thrust_max: 15
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

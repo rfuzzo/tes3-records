@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: TR_m2_kmlz_dwrv_drawers
+name: Steel Dwemer Dresser
+script: ''
+mesh: o\contain_dwrv_drawers00.nif
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - misc_dwrv_coin00
+- - 1
+  - random_dwarven_misc
+- - 1
+  - sc_paper plain

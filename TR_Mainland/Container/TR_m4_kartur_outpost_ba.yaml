@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m4_kartur_outpost_ba
+name: Barrel
+script: ''
+mesh: o\contain_barrel10.nif
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 50
+  - bonemold arrow

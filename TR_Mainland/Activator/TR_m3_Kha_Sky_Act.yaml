@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_Kha_Sky_Act
+name: ''
+script: TR_m3_Kha_Skyscript
+mesh: TR\i\tr_khalaan_sky.nif

@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: TR_m3_OE_MG_PuzChest2
+name: Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - TR_m3_OE_MG_PuzzleExitNote
+- - 1
+  - p_fire_shield_e
+- - 1
+  - sc_stormward

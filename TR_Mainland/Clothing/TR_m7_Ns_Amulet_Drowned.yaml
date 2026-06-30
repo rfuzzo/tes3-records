@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m7_Ns_Amulet_Drowned
+name: Amulet of the Drowned
+script: ''
+mesh: pc\c\pc_c_nib_am_ep01.nif
+icon: pc\c\pc_c_nib_am_ep01.dds
+enchanting: TR_m7_Ns_Amulet_Drowned_en
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 150
+  enchantment: 150

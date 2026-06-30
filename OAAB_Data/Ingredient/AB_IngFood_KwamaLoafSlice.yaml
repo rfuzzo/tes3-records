@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: AB_IngFood_KwamaLoafSlice
+name: Goros Slice
+script: ''
+mesh: OAAB\n\food_goros_slice.nif
+icon: OAAB\n\food_goros_slice.tga
+data:
+  weight: 0.3
+  value: 2
+  effects:
+  - RestoreFatigue
+  - None
+  - None
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

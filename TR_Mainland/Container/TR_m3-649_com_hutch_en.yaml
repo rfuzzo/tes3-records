@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: TR_m3-649_com_hutch_en
+name: Hutch
+script: ''
+mesh: o\Contain_Com_Hutch_01.NIF
+encumbrance: 75.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - BM nordic silver claymore_ber
+- - 1
+  - T_Com_Steel_Longbow_AugPrec
+- - 1
+  - blessed_tower_shield
+- - -1
+  - imperial netch blade
+- - 1
+  - silver sparkskewer

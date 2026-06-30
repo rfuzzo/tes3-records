@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m3_amulethorrorgreed
+name: Amulet of Horrifying Greed
+script: ''
+mesh: c\Amulet_Expensive_2.NIF
+icon: c\tx_amulet_expens2.tga
+enchanting: TR_m3_amulethorrorgreed_en
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 5000
+  enchantment: 300

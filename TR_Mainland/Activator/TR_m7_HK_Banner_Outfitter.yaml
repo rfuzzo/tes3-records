@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_HK_Banner_Outfitter
+name: 'Myron Rothalen: Fine Outfitter'
+script: OutsideBanner
+mesh: f\Furn_bannerD_goods_01.NIF

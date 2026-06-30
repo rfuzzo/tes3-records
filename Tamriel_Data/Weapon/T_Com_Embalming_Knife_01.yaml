@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Com_Embalming_Knife_01
+name: Embalming Knife
+script: ''
+mesh: sky\w\Sky_embalm_knife.nif
+icon: sky\w\tx_embalm_knife.dds
+enchanting: ''
+data:
+  weight: 1.0
+  value: 7
+  weapon_type: ShortBladeOneHand
+  health: 70
+  speed: 2.5
+  reach: 1.0
+  enchantment: 15
+  chop_min: 1
+  chop_max: 2
+  slash_min: 1
+  slash_max: 2
+  thrust_min: 2
+  thrust_max: 6
+  flags: ''

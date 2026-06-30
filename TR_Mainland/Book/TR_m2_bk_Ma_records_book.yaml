@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2_bk_Ma_records_book
+name: Registry Records
+script: ''
+mesh: m\Text_Octavo_07.nif
+icon: m\Tx_book_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"#0033FF\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<br>\r\n[This book contains information detailing all kinds of trade and other activities carried out in Marog. It looks comprehensive. And quite boring, too.]<BR>\r\n<BR>"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 0

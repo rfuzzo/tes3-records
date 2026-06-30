@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: blue coast ref 512
+name: ''
+script: ''
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 512
+  color:
+  - 0
+  - 165
+  - 200
+  - 0
+  flags: PULSE_SLOW

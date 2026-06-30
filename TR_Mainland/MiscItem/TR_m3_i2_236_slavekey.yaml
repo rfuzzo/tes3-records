@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m3_i2_236_slavekey
+name: Namartyon Slave Key
+script: ''
+mesh: TR\m\TR_Key_DD20.NIF
+icon: TR\m\TR_Key_DD20.dds
+data:
+  weight: 0.0
+  value: 100
+  flags: KEY

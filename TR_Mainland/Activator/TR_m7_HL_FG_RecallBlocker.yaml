@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_HL_FG_RecallBlocker
+name: ''
+script: TR_m7_HL_FG_RecallBlockerSc
+mesh: EditorMarker.NIF

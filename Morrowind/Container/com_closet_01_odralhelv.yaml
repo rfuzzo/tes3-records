@@ -1,0 +1,21 @@
+type: Container
+flags: ''
+id: com_closet_01_odralhelv
+name: Closet
+script: ''
+mesh: o\Contain_Com_Closet_01.NIF
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - common_amulet_04
+- - 1
+  - amulet of mighty blows
+- - 1
+  - common_belt_04
+- - 4
+  - common_shirt_04
+- - 4
+  - common_shoes_04
+- - 4
+  - common_pants_04

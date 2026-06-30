@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: AB_IngCrea_SturgeonRoe
+name: Sturgeon Roe
+script: ''
+mesh: OAAB\n\sturgeonRoe.nif
+icon: OAAB\n\sturgeonRoe.tga
+data:
+  weight: 0.3
+  value: 40
+  effects:
+  - RestoreFatigue
+  - FortifyFatigue
+  - WaterBreathing
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

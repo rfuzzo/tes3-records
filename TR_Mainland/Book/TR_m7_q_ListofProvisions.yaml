@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_q_ListofProvisions
+name: List of Provisions
+script: ''
+mesh: m\Text_Note_02.nif
+icon: m\Tx_note_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nAge of Peace, List of Provisions:<BR>\r\n<BR>\r\nColovian Cheese, 5<BR>\r\nTanna, 7<BR>\r\nSpool, 3<BR>\r\nPaper, 6<BR>\r\nAsh Yams, 2<BR>\r\n<BR>\r\n\r\n"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 50

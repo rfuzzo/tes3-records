@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: ring of transcendent wisdom
+name: Ring of Transcendent Wisdom
+script: ''
+mesh: c\C_Ring_extravagant_1.NIF
+icon: c\tx_ring_extravagant01.tga
+enchanting: dynamic transcendant wisdom_en
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 8
+  enchantment: 150

@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: BM_Ice_Helmet
+name: Ice Armor Helmet
+script: ''
+mesh: a\A_Icel_M_Helmet.NIF
+icon: A\Ice_M_Helmet.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Hair
+  male_bodypart: A_Icel_M_Helmet
+  female_bodypart: A_Icel_F_Helmet
+data:
+  armor_type: Helmet
+  weight: 4.0
+  value: 2000
+  health: 500
+  enchantment: 175
+  armor_rating: 50

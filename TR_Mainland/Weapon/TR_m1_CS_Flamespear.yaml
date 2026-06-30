@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m1_CS_Flamespear
+name: Glass Flamespear
+script: ''
+mesh: tr\w\tr_w_glass_longspear.nif
+icon: tr\w\tr_w_glass_longspear.dds
+enchanting: cruel flame_en
+data:
+  weight: 9.8
+  value: 10500
+  weapon_type: SpearTwoWide
+  health: 750
+  speed: 1.0
+  reach: 1.9
+  enchantment: 35
+  chop_min: 2
+  chop_max: 7
+  slash_min: 2
+  slash_max: 7
+  thrust_min: 6
+  thrust_max: 36
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

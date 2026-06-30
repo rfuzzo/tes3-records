@@ -1,0 +1,27 @@
+type: Container
+flags: ''
+id: TR_m3_ingchest_i3-390-i
+name: Chest
+script: ''
+mesh: TR\o\TR_furn_De_Rm_Chest.NIF
+encumbrance: 100.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 8
+  - Ingred_horn_lily_bulb_01
+- - 3
+  - Ingred_timsa-come-by_01
+- - 1
+  - Misc_Com_Wood_Bowl_01
+- - 1
+  - TR_m3_ingreds_i3-390-ind
+- - 6
+  - ingred_corkbulb_root_01
+- - 5
+  - ingred_kresh_fiber_01
+- - 4
+  - ingred_marshmerrow_01
+- - 1
+  - ingred_roobrush_01
+- - 6
+  - ingred_stoneflower_petals_01

@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: AB_r_KwamaEggBlighted
+name: Blighted Kwama Egg Sack
+script: AB_KwamaEggBlighted_s
+mesh: OAAB\o\kwama_egg_blighted.nif
+encumbrance: 0.0
+container_flags: ORGANIC | IS_BASE
+inventory:
+- - 1
+  - AB_IngCrea_KwamaEggBlighted

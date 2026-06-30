@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Hr_Flora_Maidenhair01
+name: Maidenhair
+script: ''
+mesh: hr\o\hr_flora_maidenh_01.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - T_Hr_Random_FlorMaidenhair_01

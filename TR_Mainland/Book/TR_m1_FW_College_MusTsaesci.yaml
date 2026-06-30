@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_FW_College_MusTsaesci
+name: Tsaesci Artifacts
+script: ''
+mesh: m\text_parchment_01.nif
+icon: m\tx_parchment_01.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nTsaesci Artifacts<BR> <BR>\r\n<DIV ALIGN=\"LEFT\">\r\nThese rare Akaviri items were recovered during the chaotic retreat to the west following the second engagement at Septimia in 289. The finely detailed urns were originally found in the palatial building at Septimia where the Emperor made his headquarters, while the sword is said to have belonged to a Tsaesci lieutenant named Arin-Varle. The truth of this detail is unverified, and there is some speculation that the weapon is in fact of Nibenese, not Akaviri make.\r\n<BR>\r\nThe two Tsaesci urns seen here are some of the best known examples of Akaviri craftsmanship outside of Cyrodiil. They are notable for their distinct style, which differs somewhat from the more familiar, older Akaviri designs of the Second Era Potentate. Both urns were held in the Emperor's personal collection until the Museum's founding in 389, when they were granted to the College of Firewatch by the Exarch of the Concordian Archives. The history of the sword is more obscure; it was apparently held  off the eastern coast of Morrowind at the Navy fort Windbreaker Keep for most of the 4th century. When that fortress was decommissioned, the blade was rediscovered and donated to the Museum by Knight Commodore Pyria Tyralia.<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_CandleStickBrass_01
+name: Brass Candlestick
+script: ''
+mesh: pc\m\PC_Misc_Candlestick_02.nif
+icon: pc\m\pc_misc_candlestick02.dds
+data:
+  weight: 1.5
+  value: 5
+  flags: ''

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_De_6th_Arrow_01
+name: Sixth House Arrow
+script: ''
+mesh: tr\w\tr_w_6th_arrow.nif
+icon: tr\w\tr_w_6th_arrow.dds
+enchanting: ''
+data:
+  weight: 0.15
+  value: 15
+  weapon_type: Arrow
+  health: 10
+  speed: 1.0
+  reach: 1.0
+  enchantment: 40
+  chop_min: 1
+  chop_max: 8
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: ''

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_i2-355-TriBlessing04
+name: Supplication to Almsivi
+script: ''
+mesh: m\Text_paper_roll_01.nif
+icon: m\Tx_paper_roll_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"center\"><FONT COLOR=\"000000\" SIZE=\"2\" FACE=\"Daedric\">LET YOUR FACE SHINE ON YOUR SERVANT<BR>\r\nSAVE ME IN YOUR UNFAILING<br>\r\nMERCY MASTERY MYSTERY</FONT><BR>"
+data:
+  weight: 0.2
+  value: 15
+  book_type: Scroll
+  skill: None
+  enchantment: 100

@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m4_TT_CrateRatMeat
+name: Waterlogged Crate
+script: TR_m4_TT_CrateRatMeat_sc
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 17
+  - ingred_rat_meat_01

@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m3_q_GoldenGlimpse
+name: Golden Glimpse
+script: ''
+mesh: c\C_Ring_common04.NIF
+icon: c\tx_ring_common04.tga
+enchanting: TR_m3_OE_MG_cheesegs
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 2
+  enchantment: 110

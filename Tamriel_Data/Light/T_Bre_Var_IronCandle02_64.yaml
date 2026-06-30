@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_Bre_Var_IronCandle02_64
+name: Iron Candlestick
+script: ''
+mesh: hr\l\hr_l_iron_cndl_02.nif
+icon: hr\l\hr_l_iron_cndl_02.dds
+sound: ''
+data:
+  weight: 3.0
+  value: 3
+  time: 120
+  radius: 64
+  color:
+  - 245
+  - 140
+  - 40
+  - 0
+  flags: DYNAMIC | CAN_CARRY | FIRE | FLICKER_SLOW

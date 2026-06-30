@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: daedric_shield
+name: Daedric Shield
+script: ''
+mesh: a\Shield_Daedric.nif
+icon: a\TX_shield_daedric.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: Shield
+  male_bodypart: shield_daedric
+  female_bodypart: ''
+data:
+  armor_type: Shield
+  weight: 45.0
+  value: 34000
+  health: 1600
+  enchantment: 1500
+  armor_rating: 80

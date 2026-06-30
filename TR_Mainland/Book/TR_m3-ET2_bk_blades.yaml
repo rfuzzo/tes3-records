@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3-ET2_bk_blades
+name: Blades Operations Records
+script: ''
+mesh: TR\m\tr_book_closed_i11_ay.nif
+icon: TR\m\tr_book_closed_i11_ay.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n[This book chronicles past covert missions undertaken by the Blades of Morrowind. Secret methods and classified intelligence gathered by Blades operatives are neatly organized and written in code. The decipherable segments of the book reveal a heavy focus on Red Mountain and alleged occurrences of the Nerevarine.]<BR> "
+data:
+  weight: 4.0
+  value: 450
+  book_type: Book
+  skill: None
+  enchantment: 100

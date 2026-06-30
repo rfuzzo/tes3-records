@@ -1,0 +1,14 @@
+type: Clothing
+flags: PERSISTENT
+id: TR_m1_Q_am_weird_uni
+name: Weird Amulet
+script: TR_m1_GS_MQ_2_Weird
+mesh: c\Amulet_Extravagant_1.NIF
+icon: c\tx_amulet_extrav1.tga
+enchanting: TR_m1_Q_ench_weird
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 0.0
+  value: 5000
+  enchantment: 500

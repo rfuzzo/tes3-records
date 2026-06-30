@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Rea_Set_ChimneyIn_01
+name: ''
+script: T_ScObj_DaylightPanel
+mesh: Sky\i\Sky_In_RM_Chim_01.nif

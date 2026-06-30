@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngMine_BloodstoneDae_01
+name: Bloodstone
+script: BILL_MarksDaedraSummon
+mesh: TR\n\TR_Ing_bloodstone_mm.NIF
+icon: TR\n\TR_Ing_bloodstone_mm.dds
+data:
+  weight: 0.2
+  value: 100
+  effects:
+  - RestoreHealth
+  - DamageMagicka
+  - Invisibility
+  - RestoreAttribute
+  skills:
+  - None
+  - None
+  - None
+  - Block
+  attributes:
+  - None
+  - None
+  - None
+  - Strength

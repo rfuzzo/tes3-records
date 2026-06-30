@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: iron shardskewer
+name: Iron Shardskewer
+script: ''
+mesh: w\w_spear_iron.nif
+icon: w\Tx_Spear01.tga
+enchanting: shard_enu
+data:
+  weight: 14.0
+  value: 31
+  weapon_type: SpearTwoWide
+  health: 550
+  speed: 1.0
+  reach: 1.8
+  enchantment: 50
+  chop_min: 2
+  chop_max: 4
+  slash_min: 2
+  slash_max: 4
+  thrust_min: 6
+  thrust_max: 15
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_ButterflyWingSky_04
+name: Cloud Flutterling Wing
+script: ''
+mesh: sky\n\sky_ing_btrflywing_04.nif
+icon: sky\n\sky_ing_btrflywing_04.dds
+data:
+  weight: 0.1
+  value: 5
+  effects:
+  - Feather
+  - DrainMagicka
+  - Jump
+  - Silence
+  skills:
+  - Block
+  - None
+  - None
+  - None
+  attributes:
+  - Agility
+  - None
+  - None
+  - None

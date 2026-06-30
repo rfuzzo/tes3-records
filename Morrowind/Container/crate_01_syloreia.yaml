@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: crate_01_syloreia
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - iron halberd
+- - 1
+  - bk_AncestorsAndTheDunmer
+- - 1
+  - bk_ChildrensAnuad
+- - 1
+  - bk_BookDawnAndDusk
+- - -2
+  - random_iron_weapon

@@ -1,0 +1,19 @@
+type: Light
+flags: PERSISTENT
+id: T_Com_Obj_StaffFlame
+name: ''
+script: T_ScObj_StaffFlame
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 300
+  color:
+  - 255
+  - 140
+  - 40
+  - 0
+  flags: FLICKER | FIRE

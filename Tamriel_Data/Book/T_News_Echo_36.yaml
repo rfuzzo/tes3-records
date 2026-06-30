@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Echo_36
+name: REVOLT IN BALMORA
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_text_note_nar_news.nif
+icon: tr\m\tr_text_note_nar_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\tr_echo_512_256.dds\" WIDTH=\"348\" HEIGHT=\"168\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nREVOLT IN BALMORA<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nThe recent increase in the rates of tariff and tax by the Imperial administration was met with widespread condemnation across Morrowind. Traders and laborers alike abandoned their workstations to publicly protest what one port worker in Bal Foyen aptly referred to as \"daylight robbery\". Sadly, not everywhere did things remain civil. In the Vvardenfell city of Balmora, demonstrations soon descended into open violence.<BR><BR>\r\nAs our frequent readers will know, since its reorganization as an Imperial district, Vvardenfell's economy has boomed, driven by the exploitation of its natural resources. As a consequence, however, its citizens disproportionately felt the weight of these new tariffs, targeting the islands' export focused economy. Tensions were running high and a small confrontation quickly escalated into a full-blown tax revolt, leaving four civilians and two guards injured.<BR><BR>\r\nWe at the Echo would like to unequivocally condemn the violence and personally thank the local Legion commander, Larrius Varro, for restoring order to Balmora. Nevertheless, we feel it is important to properly confront the underlying cause of these disturbances and so would like to directly address the King Hlaalu Athyn Llethan.<BR><BR>\r\nYour Majesty, The Empire has brought progress into Morrowind, and with it prosperity to those who embraced the wonders of free trade. Yes, the times are not as easy as they once were, but sacrificing on our shared core values for momentary gain is not the solution, as the regrettable events in Balmora vividly demonstrate. Abandon these new taxes, and you will see how the natural flow of commerce fills the Imperial treasury much better than any tariff ever could.<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

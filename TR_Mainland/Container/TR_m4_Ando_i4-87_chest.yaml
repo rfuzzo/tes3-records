@@ -1,0 +1,35 @@
+type: Container
+flags: ''
+id: TR_m4_Ando_i4-87_chest
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 75
+  - Gold_001
+- - 3
+  - T_IngMine_Garnet_01
+- - 1
+  - T_IngMine_Opal_01
+- - 1
+  - expensive_ring_01
+- - 1
+  - expensive_ring_02
+- - 1
+  - extravagant_skirt_01
+- - 1
+  - extravagant_skirt_02
+- - 1
+  - ingred_pearl_01
+- - 1
+  - p_fortify_agility_q
+- - 2
+  - p_fortify_personality_q
+- - 1
+  - p_restore_fatigue_q
+- - 1
+  - p_restore_fatigue_s
+- - 50
+  - random gold

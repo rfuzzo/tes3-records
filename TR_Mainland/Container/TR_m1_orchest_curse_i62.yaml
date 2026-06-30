@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m1_orchest_curse_i62
+name: Ornate Small Chest
+script: TR_m1_script_c_curse_i62
+mesh: TR\o\TR_cont_dae_amulet.nif
+encumbrance: 10.0
+container_flags: IS_BASE
+inventory:
+- - 5
+  - T_Mw_Random_Gems

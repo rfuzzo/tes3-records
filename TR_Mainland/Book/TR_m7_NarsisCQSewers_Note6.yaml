@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_NarsisCQSewers_Note6
+name: Note from Endul
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nMake sure you remove any weapons or jewelry before you dump bodies. Athires doesn't like them. And no more moon sugar for him!<BR>\r\n<BR>\r\nEndul<BR>\r\n"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 100

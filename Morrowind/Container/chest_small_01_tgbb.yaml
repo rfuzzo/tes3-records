@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: chest_small_01_tgbb
+name: Small Chest
+script: ''
+mesh: o\Contain_chest_small_01.NIF
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - misc_dwrv_artifact50

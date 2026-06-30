@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: dwrv_barrel10_empty
+name: Steel Quarter Keg
+script: ''
+mesh: o\contain_dwrv_barrel10.nif
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory: []

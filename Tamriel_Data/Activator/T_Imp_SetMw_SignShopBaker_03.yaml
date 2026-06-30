@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_SetMw_SignShopBaker_03
+name: Baker
+script: SignRotate
+mesh: tr\f\tr_act_sign_c_baker_03.nif

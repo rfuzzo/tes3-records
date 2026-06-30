@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_Hlaalu2_Note_05
+name: Certificate of Authenticity
+script: ''
+mesh: m\Text_Parchment_01.NIF
+icon: m\Tx_parchment_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">By order of Antiochus Septim, Emperor of Tamriel, and the esteemed members of the Elder Council<BR>\r\n<BR>\r\nAthires Hlaalu, Grandmaster and Lord High Hlaalu of the Great House Hlaalu of Morrowind is hereby on this day the 6th of Frostfall, 3E 100, gifted a complete set of Imperial Gold Armor and an accompanying rapier for his continued loyal service to the Emperor. <BR>\r\n<BR>\r\nLet this letter serve as a Certificate of Authenticity from the Imperial Goldsmiths. May there be many more centuries of cooperation between the Empire and the Great Houses of Morrowind.<BR><BR>\r\n\r\n<BR>\r\nThe Empire is Law,<BR>\r\nthe Law is sacred.<BR>\r\n<BR>\r\n<BR>\r\n<IMG SRC=\"PC\\pc_waxseal_empire.dds\" WIDTH=\"96\" HEIGHT=\"96\"><BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

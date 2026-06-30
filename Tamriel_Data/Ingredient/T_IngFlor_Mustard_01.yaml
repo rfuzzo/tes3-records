@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_Mustard_01
+name: Mustard Seeds
+script: ''
+mesh: sky\n\sky_ingred_mustard01.nif
+icon: sky\n\sky_ingr_mustard01.dds
+data:
+  weight: 0.1
+  value: 1
+  effects:
+  - FortifyFatigue
+  - Blind
+  - ResistFrost
+  - WeaknessToPoison
+  skills:
+  - None
+  - None
+  - Block
+  - None
+  attributes:
+  - None
+  - None
+  - Agility
+  - None

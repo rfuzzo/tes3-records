@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: Act_BM_well_01
+name: ''
+script: fortDisableScript
+mesh: x\Ex_nord_well_01.nif

@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Imp_Wood_ShieldTower_01
+name: Wooden Tower Shield
+script: ''
+mesh: TR\a\TR_a_wood_Sheild.nif
+icon: TR\a\TR_a_wood_shield.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Shield
+  male_bodypart: T_A_ImpWoodShieldTower01_S
+  female_bodypart: ''
+data:
+  armor_type: Shield
+  weight: 15.0
+  value: 33
+  health: 170
+  enchantment: 20
+  armor_rating: 10

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_BartendersGuideSHOTN
+name: <Deprecated>
+script: ''
+mesh: td\td_help_deprec_01.nif
+icon: Sky\m\Tx_Book_Saga_03.dds
+enchanting: ''
+text: <deprecated>
+data:
+  weight: 3.0
+  value: 10
+  book_type: Book
+  skill: None
+  enchantment: 0

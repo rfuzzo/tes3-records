@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: TR_m7_q_GnaeusLetter
+name: Letter from Gnaeus
+script: TR_m7_q_GnaeusLetter_sc
+mesh: m\text_parchment_01.nif
+icon: m\tx_parchment_01.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>Dear Nodgar,\r\nI hope this letter finds you in the best of spirits.<BR>\r\n<BR>I have to admit that before I read your last message, doubts began to creep into my mind that our plan might be rash and ill-considered. However, your wise and educated words have completely rejuvenated my fervor!<BR>\r\n<BR>You're completely right. Vvardenfell is a land of opportunity, and we would be utter fools to let the opportunity slip by. Moreover, there's no reason why we should let the greedy bankers of the Empire be the only ones who profit from it! Mining is as simple as taking a pickaxe and hitting a rock, and there are plenty of interested buyers outside the official channels. Money doesn't grow on trees, but ebony on Vvardenfell sure seems to, considering what you've told me.<BR>\r\n<BR>I've tried to convince some of my other friends to join us in our venture. I mean, it would be selfish not to share the ticket to wealth with them, right? Unfortunately, they stubbornly refused to hear what I had to say. They even tried to talk me out of selling my house to fund our mine! But honestly, if they don't believe it or don't get it, I don't have time to try to convince them. Once we're rich, maybe they'll finally understand the depths of their foolishness and beg us to let them join.<BR>\r\n<BR>I'm just a bit worried about the locals, though. I went for a drink at the local \"Council Club\", and the Dark Elves were giving me some funny looks at first. They seemed more amenable once I paid for their drinks, though. One rough looking fellow even helped me get back to my room at the local Temple after I had a bit too much to drink. He also seemed quite interested in our plan and wished us good fortune! He even gave me a bit of that Moon Sugar to try -- let me tell you, it sure does pack a punch! Unfortunately, I must have dropped my purse somewhere along the way. It's not a huge loss, though -- I kept most of my money safely stashed away.<BR>\r\n<BR>I'm about to leave Hlan Oek soon. Can't wait to join you in Old Ebonheart and finally depart for Vvardenfell!<BR>\r\n\r\n<BR>Kind regards,\r\n-Gnaeus<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

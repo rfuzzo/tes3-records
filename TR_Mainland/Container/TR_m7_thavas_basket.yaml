@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m7_thavas_basket
+name: Basket
+script: ''
+mesh: TR\o\TR_cont_com_basket01.nif
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 10
+  - ingred_corkbulb_root_01

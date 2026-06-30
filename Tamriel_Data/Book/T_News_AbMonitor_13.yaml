@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_AbMonitor_13
+name: KIMOI CASE REACHED DEAD END
+script: T_ScNews_Bellman_Paper
+mesh: pc\m\pc_text_note_anv_news.nif
+icon: pc\m\pc_text_note_anv_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"PC\\pc_abmonitor.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nINVESTIGATIONS IN THE KIMOI CASE REACH A DEAD END<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nThe brutal murder of Arahn Kimoi, a prominent Brina Cross businessman, has been solved by the local guard corps with valuable assistance from members of the public. Kimoi, whom sources report had been involved in tense business disputes with various Sutch merchants, was murdered in his manor. Direct evidence from the crime scene led to the identification of the assassin.<BR><BR>\r\nUnfortunately for the cause of justice, Arahn Kimoi's assassin, an Argonian stranger not known in the Kingdom of Anvil, was found dead in a room at the Gosha Inn on the border with Kvatch. According to Nerillius Ludos, captain of the Brina Cross guard, the murderer had been attempting to flee east before being cut down herself, perhaps as punishment for the amateurish execution of the late Mr. Kimoi.<BR><BR>\r\nWith the contractor of Arahn Kimoi's assassin still at large, citizens are advised to take care in public and lock their doors, especially those readers who are engaged in business dealings in the Kingdom of Sutch.<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

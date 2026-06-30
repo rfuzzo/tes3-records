@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Yne_ClayPlate_01
+name: Clay Plate
+script: ''
+mesh: pi\m\pi_m_yne_c_plate_01.nif
+icon: pi\m\pi_m_yne_c_plate_01.dds
+data:
+  weight: 0.75
+  value: 4
+  flags: ''

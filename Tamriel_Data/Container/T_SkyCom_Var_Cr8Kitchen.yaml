@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: T_SkyCom_Var_Cr8Kitchen
+name: Crate
+script: ''
+mesh: Sky\o\Sky_Cont_Crate_08.nif
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - T_Sky_Random_Kitchenware
+- - 6
+  - T_Sky_Random_MiscPlate

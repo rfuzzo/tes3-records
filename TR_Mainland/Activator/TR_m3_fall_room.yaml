@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_fall_room
+name: Waterfall Room
+script: TR_m3_fallroomsnd
+mesh: EditorMarker.NIF

@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: TR_m4_Andoth_AndasChes1
+name: Chest
+script: ''
+mesh: TR\o\TR_furn_De_Rm_Chest.NIF
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_De_Cm_Pants_06
+- - 1
+  - T_De_Cm_Shirt_04
+- - 1
+  - T_De_Ebony_Platter_01

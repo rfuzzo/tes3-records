@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_EnSc_Com_MagnusGlare
+name: Scroll of Magnus' Glare
+script: ''
+mesh: m\text_scroll_01.nif
+icon: m\tx_scroll_open_01.tga
+enchanting: T_Once_MagnusGlare
+text: <DIV ALIGN="center"><FONT COLOR="000000" SIZE="2" FACE="Daedric">I INVOKE FOR THE GODS, FOR MY ANCESTORS, AND FOR REVENGE</FONT><BR>
+data:
+  weight: 0.2
+  value: 155
+  book_type: Scroll
+  skill: None
+  enchantment: 100

@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_Dreu_Var_Lamp_02_512
+name: ''
+script: ''
+mesh: tr\l\tr_l_dreu_lamp_02.nif
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 512
+  color:
+  - 34
+  - 215
+  - 197
+  - 0
+  flags: DYNAMIC

@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: ring_vampiric_unique
+name: Vampiric Ring
+script: ''
+mesh: c\C_art_ring_vampiric.NIF
+icon: c\C_ring_vampiric.tga
+enchanting: vampire's touch
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 32000
+  enchantment: 100

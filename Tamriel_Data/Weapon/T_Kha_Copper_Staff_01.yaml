@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Kha_Copper_Staff_01
+name: Copper Staff
+script: ''
+mesh: els\w\els_w_copper_staff.nif
+icon: els\w\els_w_copper_staff.tga
+enchanting: ''
+data:
+  weight: 10.0
+  value: 28
+  weapon_type: BluntTwoWide
+  health: 250
+  speed: 1.75
+  reach: 1.8
+  enchantment: 90
+  chop_min: 2
+  chop_max: 7
+  slash_min: 3
+  slash_max: 7
+  thrust_min: 1
+  thrust_max: 5
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

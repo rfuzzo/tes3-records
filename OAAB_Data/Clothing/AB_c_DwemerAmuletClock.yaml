@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: AB_c_DwemerAmuletClock
+name: Dwemer Amulet
+script: ''
+mesh: OAAB\c\amulet_dwe_clock.nif
+icon: OAAB\c\amulet_dwe_clock.dds
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 60
+  enchantment: 150

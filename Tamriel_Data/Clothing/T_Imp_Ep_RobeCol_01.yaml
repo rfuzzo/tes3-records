@@ -1,0 +1,23 @@
+type: Clothing
+flags: ''
+id: T_Imp_Ep_RobeCol_01
+name: Expensive Robe
+script: ''
+mesh: pc\c\PC_C_Col_Robe_02_g.nif
+icon: pc\c\PC_Col_C_Robe_02.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_C_ImpEpRobeCol01_C
+  female_bodypart: ''
+- biped_object_type: LeftAnkle
+  male_bodypart: ''
+  female_bodypart: ''
+- biped_object_type: RightAnkle
+  male_bodypart: ''
+  female_bodypart: ''
+data:
+  clothing_type: Robe
+  weight: 3.0
+  value: 10
+  enchantment: 50

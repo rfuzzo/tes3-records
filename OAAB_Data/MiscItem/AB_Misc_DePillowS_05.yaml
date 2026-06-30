@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_DePillowS_05
+name: Extravagant Pillow
+script: ''
+mesh: OAAB\m\m_pillow_small_05.nif
+icon: OAAB\m\m_pillow_small_05.dds
+data:
+  weight: 0.5
+  value: 25
+  flags: ''

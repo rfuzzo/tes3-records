@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: AB_bk_MapsOfVvardenfell
+name: Maps of Vvardenfell
+script: ''
+mesh: OAAB\m\ab_octavo_03.nif
+icon: OAAB\m\ab_octavo_03.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nMaps of Vvardenfell<BR><BR>\r\n<BR>\r\n<IMG SRC=\"OAAB\\vvardenfellcitymap.dds\" WIDTH=\"240\" HEIGHT=\"240\"><BR>\r\n<BR>\r\n<BR>\r\n<IMG SRC=\"OAAB\\MW_travelroutes.dds\" WIDTH=\"240\" HEIGHT=\"240\"><BR>\r\n<BR>\r\n<BR>\r\n<IMG SRC=\"OAAB\\Vivec_travelmap.dds\" WIDTH=\"240\" HEIGHT=\"240\"><BR>\r\n<BR>\r\n<BR>\r\n<IMG SRC=\"OAAB\\Ascadian_regionmap.dds\" WIDTH=\"240\" HEIGHT=\"240\"><BR>\r\n<BR>\r\n<BR>\r\n<IMG SRC=\"OAAB\\BitterCoast_regionmap.dds\" WIDTH=\"240\" HEIGHT=\"240\"><BR>\r\n<BR>\r\n<BR>\r\n<IMG SRC=\"OAAB\\WestGash_regionmap.dds\" WIDTH=\"240\" HEIGHT=\"240\"><BR>\r\n<BR>\r\n<BR>\r\n<IMG SRC=\"OAAB\\Ashlands_regionmap.dds\" WIDTH=\"240\" HEIGHT=\"240\"><BR>\r\n<BR>\r\n<BR>\r\n<IMG SRC=\"OAAB\\MolagAmur_regionmap.dds\" WIDTH=\"240\" HEIGHT=\"240\"><BR>\r\n<BR>\r\n<BR>\r\n<IMG SRC=\"OAAB\\AzurasCoastS_regionmap.dds\" WIDTH=\"240\" HEIGHT=\"240\"><BR>\r\n<BR>\r\n<BR>\r\n<IMG SRC=\"OAAB\\AzurasCoastN_regionmap.dds\" WIDTH=\"240\" HEIGHT=\"240\"><BR>\r\n<BR>\r\n<BR>\r\n<IMG SRC=\"OAAB\\Grazelands_regionmap.dds\" WIDTH=\"240\" HEIGHT=\"240\"><BR>\r\n<BR>\r\n<BR>\r\n<IMG SRC=\"OAAB\\Sheogorad_regionmap.dds\" WIDTH=\"240\" HEIGHT=\"240\"><BR>\r\n<BR>\r\n<BR>\r\n<IMG SRC=\"OAAB\\Vivec_citymap.dds\" WIDTH=\"240\" HEIGHT=\"240\"><BR>\r\n<BR>\r\n<BR>\r\n<IMG SRC=\"OAAB\\Balmora_citymap.dds\" WIDTH=\"240\" HEIGHT=\"240\"><BR>\r\n<BR>\r\n<BR>\r\n<IMG SRC=\"OAAB\\Aldruhn_citymap.dds\" WIDTH=\"240\" HEIGHT=\"240\"><BR>\r\n<BR>\r\n<BR>\r\n<IMG SRC=\"OAAB\\SadrithMora_citymap.dds\" WIDTH=\"240\" HEIGHT=\"240\"><BR>\r\n<BR>"
+data:
+  weight: 3.0
+  value: 500
+  book_type: Book
+  skill: None
+  enchantment: 20

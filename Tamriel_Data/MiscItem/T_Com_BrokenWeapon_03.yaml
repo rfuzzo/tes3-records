@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_BrokenWeapon_03
+name: Broken Imperial Broadsword
+script: ''
+mesh: tr\w\tr_w_imp_bsword_brk.nif
+icon: tr\w\tr_w_imp_bsword_brk.dds
+data:
+  weight: 6.0
+  value: 1
+  flags: ''

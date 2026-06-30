@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m7_Odras_Jerel_Amulet
+name: Odras Jerel's Amulet
+script: ''
+mesh: c\Amulet_Expensive_1.NIF
+icon: c\tx_amulet_expens1.tga
+enchanting: TR_m7_Odras_Jerel_amulet_en
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 200
+  enchantment: 150

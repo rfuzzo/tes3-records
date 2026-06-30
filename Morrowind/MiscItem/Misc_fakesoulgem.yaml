@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: Misc_fakesoulgem
+name: Fake Soul Gem
+script: ''
+mesh: m\Misc_soulgem_lesser.nif
+icon: m\Tx_soulgem_Lesser.tga
+data:
+  weight: 0.5
+  value: 0
+  flags: ''

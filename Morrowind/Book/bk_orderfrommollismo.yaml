@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: bk_orderfrommollismo
+name: Order From Mollismo
+script: ''
+mesh: m\Misc_paper_plain_01.nif
+icon: m\Tx_paper_plain_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nGalen,<BR>\r\n<BR>\r\nI am passing along orders from Therana that two crates of steel armor be delivered to the tower before nightfall. She doesn't care how or where you get them, just have them there as soon as you can. Therana is very irritable and prone to rashness lately with all the rumors of the impending siege by Trerayna, and I would strongly advise you not to become a source of further irritation by failing this duty. You will be compensated for your efforts of course.<BR>\r\n<BR>\r\nMollismo<BR>\r\n"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

@@ -1,0 +1,12 @@
+type: Alchemy
+flags: ''
+id: TR_m3_voicebottle1
+name: '"Leader of Men"'
+script: ''
+mesh: m\Misc_Potion_Standard_01.nif
+icon: m\Tx_potion_standard_01.tga
+effects: []
+data:
+  weight: 0.75
+  value: 0
+  flags: ''

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_ToyGuar_01
+name: Toy Guar
+script: ''
+mesh: tr\m\tr_misc_toyguar_vr.nif
+icon: tr\m\tr_misc_toyguar_vr.dds
+data:
+  weight: 1.0
+  value: 100
+  flags: ''

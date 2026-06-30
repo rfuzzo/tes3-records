@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Com_Cm_Ring_RestoreConst
+name: Ring of Restore Constitution
+script: ''
+mesh: c\c_ring_common03.nif
+icon: c\tx_ring_common03.dds
+enchanting: T_Use_RestoreConstitution
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 150
+  enchantment: 100

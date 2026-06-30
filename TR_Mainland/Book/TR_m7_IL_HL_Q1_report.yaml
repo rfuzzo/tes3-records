@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_IL_HL_Q1_report
+name: Report to Ereven Baryl
+script: ''
+mesh: m\Text_Parchment_02.nif
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe situation between House Hlaalu and House Redoran remains stable for now. Disputes are common but they rarely turn to open violence outside an occasional drunken brawl. That being said, I have seen a few sporadic cases of escalation on both sides. Some Legionnaires have started giving preferential treatment to one House or the other. The longer they're stationed here, the harder it is to ensure the neutrality of the garrison as a whole.\r\n<BR>\r\nWe should ensure Legionnaires are rotated out of Hlerynhul regularly. This petty bickering between the Houses isn't good experience for them, and we can't have them openly taking sides in this conflict. It is essential that the Legion remain a neutral stabilizing force in the region.\r\n<BR>\r\n<BR>\r\nAntonius Rato, Knight Protector\r\n<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

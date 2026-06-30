@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: ebony_closed_helm
+name: Ebony Closed Helm
+script: ''
+mesh: a\A_Ebony_Helmet.nif
+icon: a\Tx_Ebony_helmet.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: Head
+  male_bodypart: a_ebony_helmet
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 10.0
+  value: 15000
+  health: 600
+  enchantment: 500
+  armor_rating: 60

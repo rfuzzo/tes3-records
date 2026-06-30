@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_OE_IAS_dwemer
+name: Dwemer Collection
+script: ''
+mesh: m\Text_Parchment_01.NIF
+icon: m\Tx_parchment_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe Dwemer Collection <BR> <BR>\r\n<DIV ALIGN=\"CENTER\">\r\nThe Dwarven people of Morrowind, also known as the Dwemer, are equally known for their ingenious mechanical contraptions and their mysterious blink-of-an-eye extinction in the eighth century of the First Era.<BR> <br> The many items in the collection, which include parts of defunct automatons, everyday items, and the statue of an unidentified Dwarven king (presumably not life-sized), have been brought from the city of Kemel-Ze in the Telvannis District where the Archaeological Society is carrying out its most important excavation in Morrowind commissioned by the Elder Council. <br> <br> "
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

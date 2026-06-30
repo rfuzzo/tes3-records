@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: morag_tong_helm
+name: Morag Tong Helm
+script: ''
+mesh: a\A_MoragTong_Helm.NIF
+icon: a\Tx_MoragTong_Helm.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: Head
+  male_bodypart: a_moragtong_helm
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 3.0
+  value: 20
+  health: 120
+  enchantment: 200
+  armor_rating: 12

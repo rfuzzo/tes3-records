@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_MARK_ShiSha_Ravos
+name: Rescued Merchant from Shar Misc
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: m\Tx_scroll_open_01.tga
+enchanting: ''
+text: "If you rescue the merchant in the Shipal-Sharai misc \"A Family Affair\", whether by killing his brother-in-law or bringing him to the Autrinix Residence, he will appear here after one day.\r\nNPC ID: TR_m7_q_Ravos Goran\r\nPosition Cell in script TR_m7_FamilyAffair_24hrs"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

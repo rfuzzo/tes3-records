@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Com_Steel_Broadsword_01
+name: Steel Broadsword
+script: ''
+mesh: tr\w\tr_w_steel_bsword_01.nif
+icon: tr\w\tr_w_steel_bsword_01.dds
+enchanting: ''
+data:
+  weight: 12.0
+  value: 60
+  weapon_type: LongBladeOneHand
+  health: 900
+  speed: 1.25
+  reach: 1.0
+  enchantment: 50
+  chop_min: 4
+  chop_max: 14
+  slash_min: 4
+  slash_max: 14
+  thrust_min: 2
+  thrust_max: 14
+  flags: ''

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_He_DngDirenni_Hauntedsound_01
+name: ''
+script: T_ScSound_DirenniHaunted
+mesh: EditorMarker.NIF

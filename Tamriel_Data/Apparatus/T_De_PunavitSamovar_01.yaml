@@ -1,0 +1,12 @@
+type: Apparatus
+flags: ''
+id: T_De_PunavitSamovar_01
+name: Punavit Samovar
+script: ''
+mesh: tr\m\TR_Ind_Velk_Samovar01.nif
+icon: tr\m\TR_ind_velk_samovar01.dds
+data:
+  apparatus_type: Calcinator
+  quality: 1.6
+  weight: 12.0
+  value: 5000

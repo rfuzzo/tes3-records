@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_TV4_Scroll_02
+name: Arcane Contrivances
+script: ''
+mesh: m\Text_Scroll_01.NIF
+icon: m\Tx_scroll_open_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nMalham's Annotated Compendium of Arcane Contrivances of the Second Age, Volume IV<BR>\r\nby Malham<BR><BR>\r\nJust as it is necessary for the state to prepare arms and to provide abundant stores of victuals for the soldiers who are to fight for it, so it is fitting for Imperial Servants to fortify themselves against the assaults of pagans and heretics with a multitude of sound writings. So all know, and Malham speaks.\r\n<BR>\r\n\"White Finger of Lingering Death\"\r\nProduces the casting of Poison\r\nBy envious fate's decrees\r\nAbide not long the lords of earth;\r\nBeneath the poisoned bite the flesh must fall.\r\n<BR>\r\n\"Shroud of Night\"\r\nCasts the spell of Shadow\r\nWhence art thou come? Know by his mien\r\nThat Shadow is power.\r\n<BR>\r\n\"Beacon of Warning\"\r\nRenders the power of Detect Enemy\r\nThine enemy be known.\r\n<BR>\r\n\"Glove of Service\"\r\nGrants the gift of lesser Monster Summoning\r\nThough they be least, least answer thy call.\r\n<BR>\r\n\"Horn of the Hunt\"\r\nGrants the gift of modest Summon Brute\r\nPour out libations from the mingled cup; the soldiers answer; the captain's call.\r\n<BR>\r\n\"Badge of the Steward\"\r\nGrants the gift of Summon Wise Monster\r\nFrom parched and arid wastes beyond the stars, the Wise harken to the clash of war.\r\n<BR>\r\n\"Guerdon of the Warden\"\r\nGrants the gift of grand Summon Guard\"\r\nFrom darkness he comes.\r\n<BR>\r\n\"Knower of Nightmares\"\r\nGrants the gift of Summon Surpassing Horror\r\nWhen his horn sounds, the hosts shall part in fear and shame.\r\n<BR>\r\n\"Eyes of Arcane Sight\"\r\nRenders the power of Detect Spell\r\nWhat works, bright or dark, are written between this world and the next? Those works you shall read as threads woven in fire.\r\n<BR>\r\n\"Curtain of the Unseen World\"\r\nRenders the power of Invisibility\r\nBehind this curtain he moves unknown to friend and foe.\r\n<BR>\r\n\"Beckon of the Averted Eye\"\r\nRenders the power of Chameleon\r\nThe stalker is lost in the blend of light and shadow, color and texture.\r\n<BR>\r\n\"Arms of Feathered Grace\"\r\nRenders the power of Slow Fall\r\nHe falls, but with grace and keen eye, like the raptor upon his prey.\r\n<BR><BR>\r\n"
+data:
+  weight: 0.2
+  value: 100
+  book_type: Scroll
+  skill: None
+  enchantment: 0

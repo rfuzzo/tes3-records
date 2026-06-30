@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: T_SkyCom_Furn_ChHv2Smith
+name: Chest
+script: ''
+mesh: Sky\o\Sky_Cont_Chest_04_02.nif
+encumbrance: 250.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - repair_master_01
+- - 6
+  - repair_prongs

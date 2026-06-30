@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_furn_shrine_Bloodstone
+name: Shrine of the Bloodstone
+script: TR_m3_BloodstoneShrineScript
+mesh: TR\f\tr_shrine_almalexia.nif

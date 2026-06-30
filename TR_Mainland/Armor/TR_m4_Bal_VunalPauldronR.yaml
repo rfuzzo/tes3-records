@@ -1,0 +1,22 @@
+type: Armor
+flags: ''
+id: TR_m4_Bal_VunalPauldronR
+name: Ancient Baalvayn Right Pauldron
+script: ''
+mesh: a\A_M_Chitin_UA_Pauldron.nif
+icon: a\TX_Chitin_pauldron.tga
+enchanting: TR_m4_Bal_VunalPauldronR_En
+biped_objects:
+- biped_object_type: RightUpperArm
+  male_bodypart: a_m_chitin_ua_pauldron
+  female_bodypart: ''
+- biped_object_type: RightPauldron
+  male_bodypart: A_M_Chitin_pauldron_CL
+  female_bodypart: ''
+data:
+  armor_type: RightPauldron
+  weight: 3.0
+  value: 3000
+  health: 500
+  enchantment: 10
+  armor_rating: 35

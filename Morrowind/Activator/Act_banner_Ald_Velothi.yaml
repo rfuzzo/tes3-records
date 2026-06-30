@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: Act_banner_Ald_Velothi
+name: Ald Velothi
+script: OutsideBanner
+mesh: f\Act_banner_Ald_Velothi.nif

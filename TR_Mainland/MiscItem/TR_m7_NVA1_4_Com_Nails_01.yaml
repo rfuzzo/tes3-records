@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m7_NVA1_4_Com_Nails_01
+name: Nails
+script: TR_m7_NVA_Stage1_4_NP
+mesh: Sky\m\Sky_Misc_Nails_02.nif
+icon: Sky\m\Tx_Misc_Nails_02.dds
+data:
+  weight: 0.4
+  value: 1
+  flags: ''

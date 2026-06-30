@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_6thBowl
+name: Sixth House Bowl
+script: ''
+mesh: OAAB\m\dk_6th_bowl.nif
+icon: OAAB\m\6th_bowl.dds
+data:
+  weight: 3.0
+  value: 5
+  flags: ''

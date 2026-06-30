@@ -1,0 +1,21 @@
+type: Container
+flags: ''
+id: 'de_r_drawers_01_ondres '
+name: Chest of Drawers
+script: ''
+mesh: o\Contain_De_Drawers_01.NIF
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - exquisite_robe_01
+- - 1
+  - exquisite_belt_01
+- - 1
+  - exquisite_shirt_01
+- - 1
+  - extravagant_shirt_01_r
+- - 1
+  - exquisite_pants_01
+- - 1
+  - extravagant_pants_02

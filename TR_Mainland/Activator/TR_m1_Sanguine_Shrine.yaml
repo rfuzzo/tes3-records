@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m1_Sanguine_Shrine
+name: Shrine of Sanguine
+script: TR_m1_DA_SanguineQuest
+mesh: tr\x\tr_ex_dae_sanguine.nif

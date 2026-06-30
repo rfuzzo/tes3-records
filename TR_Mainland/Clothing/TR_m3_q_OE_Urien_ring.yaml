@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m3_q_OE_Urien_ring
+name: Poralia Family Ring
+script: ''
+mesh: pc\c\pc_c_nib_ring_exp01.nif
+icon: pc\c\pc_c_nib_ring_exp01.dds
+enchanting: stamina_en
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 100
+  enchantment: 150

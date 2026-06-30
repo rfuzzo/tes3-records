@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m4_TT_OrcNoPants
+name: Common Pants
+script: ''
+mesh: c\C_M_Pants_GND_common00.nif
+icon: c\TX_pantscom00.tga
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Pants
+  weight: 0.0
+  value: 16960
+  enchantment: 20

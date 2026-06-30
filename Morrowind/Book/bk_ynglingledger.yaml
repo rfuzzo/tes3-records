@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: bk_ynglingledger
+name: Yngling's Ledger
+script: ''
+mesh: m\Text_Octavo_01.NIF
+icon: m\Tx_octavo_01.tga
+enchanting: ''
+text: "[This is a ledger showing how Yngling Half-Troll misdirected funds he was supposed to spend on restoring the Temple in the Redoran Compound in Vivec.]<BR>\r\n<BR>\r\n"
+data:
+  weight: 3.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 0

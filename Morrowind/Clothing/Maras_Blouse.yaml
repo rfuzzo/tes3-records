@@ -1,0 +1,35 @@
+type: Clothing
+flags: ''
+id: Maras_Blouse
+name: Mara's Blouse
+script: ''
+mesh: c\C_M_Shirt_Common_4_c_GND.nif
+icon: c\Tx_shirtcom04_c.tga
+enchanting: will_en
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: c_m_shirt_common_4_c_c
+  female_bodypart: c_f_shirt_common_4_c_c
+- biped_object_type: LeftUpperArm
+  male_bodypart: c_m_shirt_common_4_c_ua
+  female_bodypart: ''
+- biped_object_type: RightUpperArm
+  male_bodypart: c_m_shirt_common_4_c_ua
+  female_bodypart: ''
+- biped_object_type: LeftForearm
+  male_bodypart: c_m_shirt_common_4_c_fa
+  female_bodypart: ''
+- biped_object_type: RightForearm
+  male_bodypart: c_m_shirt_common_4_c_fa
+  female_bodypart: ''
+- biped_object_type: LeftWrist
+  male_bodypart: c_m_shirt_common_4_c_w
+  female_bodypart: ''
+- biped_object_type: RightWrist
+  male_bodypart: c_m_shirt_common_4_c_w
+  female_bodypart: ''
+data:
+  clothing_type: Shirt
+  weight: 2.0
+  value: 400
+  enchantment: 20

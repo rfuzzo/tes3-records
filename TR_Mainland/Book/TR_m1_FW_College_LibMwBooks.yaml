@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_FW_College_LibMwBooks
+name: Morrowind
+script: ''
+mesh: m\text_parchment_01.nif
+icon: m\tx_parchment_01.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nMorrowind<BR> <BR><DIV ALIGN=\"Left\">\r\nThis bookcase contains the College's collection of texts on the nation and Province of Morrowind, including its history, peoples, politics, and customs.\r\n<BR>\r\nThe College recommends that new students of Morrowind history begin with \"A Short History of Morrowind\", authored by Jeanette Sitte, Headmaster of the College. Erramanwe of Sunhold's \"On Morrowind\" is a recommended overview of the Imperial conquest. Copies of both texts for personal study are available for sale in the entry hall.\r\n<BR>\r\nFurther information on native Dark Elven religion can be found in the Library Tower's extensive Philosophies of Thought collection.<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

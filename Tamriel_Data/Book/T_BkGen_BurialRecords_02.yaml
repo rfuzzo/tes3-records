@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_BkGen_BurialRecords_02
+name: Burial Record
+script: ''
+mesh: pc\m\pc_bk_book_13_open.nif
+icon: pc\m\pc_bk_book_13_open.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n[This book contains information about local burials. It includes a comprehensive list of all interred individuals, as well as detailed records of past burial ceremonies and a schedule of upcoming services.]<BR>"
+data:
+  weight: 2.0
+  value: 2
+  book_type: Book
+  skill: None
+  enchantment: 0

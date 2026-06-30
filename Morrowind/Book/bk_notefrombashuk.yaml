@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: bk_notefrombashuk
+name: Note from Bashuk
+script: ''
+mesh: m\Text_Parchment_02.NIF
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nBugrol<BR>\r\n<BR>\r\nStay where you are going. Will look for you there. Who is the stupid %PCRace anyway? Don't tell about what we didn't do that townbosses know we did. Better that way. Shhh.<BR>\r\n<BR>\r\nBashuk<BR>\r\n"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

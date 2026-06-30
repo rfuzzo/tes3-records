@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_i2_445_SealingSkull
+name: Dolesi Rothalor's Skull
+script: TR_m2_445_sc_Skull
+mesh: m\misc_skull10.nif
+icon: m\misc_skull10.tga
+data:
+  weight: 0.5
+  value: 0
+  flags: ''

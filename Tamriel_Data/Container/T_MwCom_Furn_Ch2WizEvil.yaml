@@ -1,0 +1,21 @@
+type: Container
+flags: ''
+id: T_MwCom_Furn_Ch2WizEvil
+name: Wooden Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - T_Mw_Random_BooksWizardEvil
+- - 1
+  - T_Mw_Random_ClutterPeachware
+- - 1
+  - T_Mw_Random_ClutterPotionFlask
+- - 10
+  - T_Mw_Random_Ingredient
+- - 1
+  - T_Mw_Random_PosDunmer01
+- - 2
+  - l_m_potion

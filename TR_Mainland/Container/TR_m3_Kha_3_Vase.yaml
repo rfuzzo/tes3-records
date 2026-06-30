@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: TR_m3_Kha_3_Vase
+name: Vase
+script: ''
+mesh: TR\o\TR_cont_de_vase_03.nif
+encumbrance: 10.0
+container_flags: IS_BASE
+inventory:
+- - 3
+  - T_Mw_Lvl_Soulgems
+- - 3
+  - random_gem
+- - 1
+  - random_weapon_melee_basic

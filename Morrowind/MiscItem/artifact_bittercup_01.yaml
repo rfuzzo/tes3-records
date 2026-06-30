@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: artifact_bittercup_01
+name: Bittercup
+script: bittercup
+mesh: m\Artifact_bittercup_01.NIF
+icon: m\Tx_bittercup_01.tga
+data:
+  weight: 10.0
+  value: 100000
+  flags: ''

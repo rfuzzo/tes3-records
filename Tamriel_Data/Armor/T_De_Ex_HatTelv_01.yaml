@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_De_Ex_HatTelv_01
+name: Exquisite Telvanni Hat
+script: ''
+mesh: tr\c\tr_c_hat_ex_telv_01gd.nif
+icon: tr\c\tr_c_hat_ex_telv_01.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Hair
+  male_bodypart: T_C_DeExHatTelv01_Hr
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 2.0
+  value: 100
+  health: 180
+  enchantment: 400
+  armor_rating: 10

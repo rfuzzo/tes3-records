@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_Painting_Tel_09
+name: Landscape of Scath Anud
+script: ''
+mesh: tr\m\TR_M_Painting_Tel_09.nif
+icon: tr\m\TR_M_Painting_Tel_09.dds
+data:
+  weight: 9.0
+  value: 440
+  flags: ''

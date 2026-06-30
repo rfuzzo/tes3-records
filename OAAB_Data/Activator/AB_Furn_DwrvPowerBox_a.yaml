@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Furn_DwrvPowerBox_a
+name: Sparking Dwemer Pipe
+script: AB_DwrvPowerBox_s
+mesh: OAAB\u\dwrvActPowerBox.nif

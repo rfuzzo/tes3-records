@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_Set_Shrine_SaintHealer_03
+name: Shrine of St. Rosunius
+script: T_ScObj_ShrineSaintHealerPC
+mesh: pc\x\pc_ex_wshrn_01.nif

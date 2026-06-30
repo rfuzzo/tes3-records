@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m1_FW_furnisher
+name: 'Ernaia Gelsus: Furnisher'
+script: SignRotate
+mesh: tr\f\tr_act_sign_goods_01.nif

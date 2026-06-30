@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m1_TW_ObmutescentRing
+name: Ring of Obmutescence
+script: ''
+mesh: c\C_Ring_expensive_3.NIF
+icon: c\tx_ring_expensive03.tga
+enchanting: TR_m1_TW_Const_ObmutescentRing
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 3000
+  enchantment: 150

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_ChiselHot
+name: Hot Chisel
+script: ''
+mesh: OAAB\m\st_chisel_hot.nif
+icon: OAAB\m\st_chisel_hot.dds
+data:
+  weight: 2.5
+  value: 20
+  flags: ''

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_Spiddal_01
+name: Spiddal
+script: ''
+mesh: pc\n\pc_ing_spiddal.nif
+icon: pc\n\pc_ingred_spiddal.dds
+data:
+  weight: 0.1
+  value: 20
+  effects:
+  - DamageHealth
+  - DamageMagicka
+  - FireDamage
+  - RestoreFatigue
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

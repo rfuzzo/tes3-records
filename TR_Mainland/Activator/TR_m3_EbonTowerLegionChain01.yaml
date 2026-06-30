@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_EbonTowerLegionChain01
+name: Operate the Bellows
+script: TR_m3_act_OE_LegSmithCn_SCP
+mesh: sky\f\sky_furn_dng_chain_02.nif

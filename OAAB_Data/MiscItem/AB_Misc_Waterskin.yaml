@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_Waterskin
+name: Waterskin
+script: ''
+mesh: OAAB\m\waterskin.nif
+icon: OAAB\m\waterskin.tga
+data:
+  weight: 3.0
+  value: 10
+  flags: ''

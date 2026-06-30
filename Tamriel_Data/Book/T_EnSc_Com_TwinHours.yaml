@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_EnSc_Com_TwinHours
+name: Scroll of The Twin Hours
+script: ''
+mesh: m\text_scroll_01.nif
+icon: m\tx_scroll_open_01.tga
+enchanting: T_Once_SummonWingedTwilight60
+text: <DIV ALIGN="center"><FONT COLOR="A2004A" SIZE="2" FACE="Daedric">FAR UNFOLD HER AMBIT CREPUSCULAR</FONT><BR>
+data:
+  weight: 0.2
+  value: 477
+  book_type: Scroll
+  skill: None
+  enchantment: 0

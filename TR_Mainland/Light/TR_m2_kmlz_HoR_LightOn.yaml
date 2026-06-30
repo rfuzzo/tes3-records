@@ -1,0 +1,19 @@
+type: Light
+flags: PERSISTENT
+id: TR_m2_kmlz_HoR_LightOn
+name: ''
+script: ''
+mesh: l\light_dwrv_neon00.nif
+icon: ''
+sound: Power light 50
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 600
+  color:
+  - 238
+  - 187
+  - 81
+  - 0
+  flags: DYNAMIC | PULSE_SLOW

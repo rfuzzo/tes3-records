@@ -1,0 +1,36 @@
+type: Alchemy
+flags: ''
+id: T_Nor_Drink_Fyrg_01
+name: Fyrg
+script: ''
+mesh: sky\m\sky_misc_fyrg.nif
+icon: sky\m\sky_m_fyrg.dds
+effects:
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Strength
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 50
+  max_magnitude: 50
+- magic_effect: DrainAttribute
+  skill: None
+  attribute: Intelligence
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 40
+  max_magnitude: 40
+- magic_effect: DrainAttribute
+  skill: None
+  attribute: Personality
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 10
+  max_magnitude: 10
+data:
+  weight: 3.0
+  value: 30
+  flags: ''

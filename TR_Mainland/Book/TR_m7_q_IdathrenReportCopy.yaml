@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_q_IdathrenReportCopy
+name: Copy of Idathren Report
+script: TR_m7_q_IdathrenReportCopy_scr
+mesh: m\Text_Scroll_01.NIF
+icon: m\Tx_scroll_open_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This report contains business observations made by agents working for Artisa Rethan in the Lake Andaram area. This version was clearly written by a different author.]\r\n<BR>\r\n"
+data:
+  weight: 0.2
+  value: 10
+  book_type: Scroll
+  skill: None
+  enchantment: 0

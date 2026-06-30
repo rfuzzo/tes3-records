@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Imp_Ep_Amulet_Kassia
+name: St. Kassia's Safeguard
+script: ''
+mesh: pc\c\pc_c_epamulet_01.nif
+icon: pc\c\pc_c_epamulet_01.dds
+enchanting: balyna's antidote_en
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 58
+  enchantment: 150

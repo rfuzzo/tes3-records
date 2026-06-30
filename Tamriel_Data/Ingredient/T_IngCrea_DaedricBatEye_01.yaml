@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_DaedricBatEye_01
+name: Daedra Eye
+script: ''
+mesh: TR\n\TR_Ing_DaeBat_Eye.nif
+icon: tdg\tr_ing_daebat_eye.dds
+data:
+  weight: 0.4
+  value: 25
+  effects:
+  - NightEye
+  - DetectAnimal
+  - Levitate
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

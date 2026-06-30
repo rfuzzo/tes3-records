@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_GlbCom_Var_Bls1Wine07
+name: Barrels
+script: ''
+mesh: tr\o\tr_cont_barrels_r_01.nif
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - 20
+  - T_Glb_Random_WineRufino

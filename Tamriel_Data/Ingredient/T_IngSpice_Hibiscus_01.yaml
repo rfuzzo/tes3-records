@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngSpice_Hibiscus_01
+name: Dried Hibiscus
+script: ''
+mesh: pc\n\pc_ing_hibiscusdried.nif
+icon: pc\n\pc_ingred_hibiscus.dds
+data:
+  weight: 0.1
+  value: 25
+  effects:
+  - CureCommonDisease
+  - DamageAttribute
+  - CurePoison
+  - None
+  skills:
+  - None
+  - Block
+  - None
+  - None
+  attributes:
+  - None
+  - Strength
+  - None
+  - None

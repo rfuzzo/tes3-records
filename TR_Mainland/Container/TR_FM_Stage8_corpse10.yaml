@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_FM_Stage8_corpse10
+name: Corpse
+script: TR_FM_Stage8Corpse_sc
+mesh: o\contain_corpse10.NIF
+encumbrance: 120.0
+container_flags: ORGANIC | IS_BASE
+inventory:
+- - 1
+  - ingred_bonemeal_01

@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: TR_m2_q_A9_5_sconce_on
+name: ''
+script: TR_m2_q_A9_5_LightOnScript
+mesh: l\light_sconce00.NIF
+icon: ''
+sound: Fire 40
+data:
+  weight: 0.0
+  value: 1
+  time: -1
+  radius: 128
+  color:
+  - 242
+  - 174
+  - 49
+  - 0
+  flags: DYNAMIC | FIRE | FLICKER_SLOW

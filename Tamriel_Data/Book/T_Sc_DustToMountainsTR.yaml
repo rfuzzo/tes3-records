@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Sc_DustToMountainsTR
+name: Dust To Mountains
+script: ''
+mesh: m\Text_Scroll_01.nif
+icon: m\Tx_scroll_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nDust To Mountains<BR>\r\n<BR>\r\n<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\">\r\nI've seen high mountains<BR>\r\nWash away.<BR>\r\nAs they fall, so rise another day.<BR><BR>\r\nFlesh fades to bone,<BR>\r\nBone back to dust.<BR>\r\nThe sharpest blades, give way to rust.<BR><BR>\r\nNations rise, and<BR>\r\nKingdoms fall.<BR>\r\nAnd rise again, built strong and tall.<BR><BR>\r\nLight dims and dies,<BR>\r\nAnd the night falls down.<BR>\r\nThe cursed name called with great renown.<BR><BR>\r\nYet my time flows on<BR>\r\namidst this waste,<BR>\r\nAnd the death I've seen I'll never taste.<BR>"
+data:
+  weight: 1.0999999
+  value: 10
+  book_type: Scroll
+  skill: None
+  enchantment: 0

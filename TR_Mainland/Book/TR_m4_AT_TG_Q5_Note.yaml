@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_AT_TG_Q5_Note
+name: Letter to Lethys Mundrethi
+script: TR_m4_AT_TG_Q5_NoteSc
+mesh: m\Text_paper_roll_01.nif
+icon: m\Tx_paper_roll_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nYou will have no more troubles to be concerned about, serjo Lethyn. The smuggling route along Veloth's Path is finally established, and the Temple won't create any problems for us anymore. We guarantee that you will receive stable shipments of skooma straight from Hlan Oek, with no more losses and delays from our side.<BR>\r\n"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: dwarven axe_soultrap
+name: Dwemer Pneuma-Trap
+script: ''
+mesh: w\W_Dwemer_battleaxe.nif
+icon: w\Tx_Dwemer_battleaxe.tga
+enchanting: we_soultrap_en
+data:
+  weight: 25.0
+  value: 1000
+  weapon_type: AxeTwoHand
+  health: 3000
+  speed: 1.0
+  reach: 1.0
+  enchantment: 55
+  chop_min: 1
+  chop_max: 36
+  slash_min: 1
+  slash_max: 34
+  thrust_min: 1
+  thrust_max: 16
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

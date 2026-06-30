@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Sc_OathOfTheWretchTR
+name: Oath of the Wretch
+script: ''
+mesh: m\Text_Scroll_01.nif
+icon: m\Tx_scroll_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nOath of the Wretch<BR>\r\n<BR>\r\n<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\">\r\nA spell in the darkness,<BR>\r\nThen placed in the fire.<BR>\r\nAmidst all other sentiments<BR>\r\nMy rage engulfs desire.<BR><BR>\r\nLost among these ember dreams<BR>\r\nI sail to-ward the dawn.<BR>\r\nLeave this world in screaming hate<BR>\r\nAnd dread the place I've gone.<BR><BR>\r\nWhat whim has set my soul to die,<BR>\r\nAnd serve the night time here?<BR>\r\nCast into the sea of pain<BR>\r\nAm imbued with all my fear.<BR><BR>\r\nWretched and beguiled hearts,<BR>\r\nThe ones who still must breathe.<BR>\r\nThey too shall reap the Daedric Fire<BR>\r\nOf the Everlasting Eve.<BR><BR>\r\nI will push off from this horrid place<BR>\r\nWith my pride and vanity.<BR>\r\nAnd pleasure in the lies I press<BR>\r\nUpon your sanity.<BR><BR>\r\nSo join me now, you judging mass<BR>\r\nA people damned by right.<BR>\r\nSpend eternity trapped with me,<BR>\r\nIn my never ending night<BR>"
+data:
+  weight: 1.0999999
+  value: 15
+  book_type: Scroll
+  skill: None
+  enchantment: 0

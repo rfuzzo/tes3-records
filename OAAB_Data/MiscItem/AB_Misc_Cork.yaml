@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_Cork
+name: Cork
+script: ''
+mesh: OAAB\m\misc_cork.nif
+icon: OAAB\m\misc_cork.tga
+data:
+  weight: 0.01
+  value: 1
+  flags: ''

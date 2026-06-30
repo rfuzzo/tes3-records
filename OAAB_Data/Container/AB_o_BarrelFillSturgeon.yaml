@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: AB_o_BarrelFillSturgeon
+name: Sturgeons
+script: ''
+mesh: OAAB\o\barrelFillSturgeon.nif
+encumbrance: 0.0
+container_flags: ORGANIC | IS_BASE
+inventory:
+- - 9
+  - AB_lvl_IngCreaSturgeon

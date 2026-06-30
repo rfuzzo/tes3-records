@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_NarsisCQSewers_DB1
+name: ''
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: ''
+enchanting: ''
+text: "Dark Brotherhood Assassin\r\n\r\nDB Punisher\r\noutlander (not beast race, and probably not bosmer so they don't drown -- I think altmer or redguard might do)\r\n\r\nStatic AI "
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

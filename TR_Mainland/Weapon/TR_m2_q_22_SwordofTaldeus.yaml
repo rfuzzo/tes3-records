@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m2_q_22_SwordofTaldeus
+name: Sword of Taldeus
+script: ''
+mesh: w\W_BROADSWORD_IRON.nif
+icon: w\Tx_Broadsword_iron.tga
+enchanting: ''
+data:
+  weight: 12.0
+  value: 50
+  weapon_type: LongBladeOneHand
+  health: 600
+  speed: 1.25
+  reach: 1.0
+  enchantment: 50
+  chop_min: 4
+  chop_max: 12
+  slash_min: 2
+  slash_max: 12
+  thrust_min: 2
+  thrust_max: 12
+  flags: ''

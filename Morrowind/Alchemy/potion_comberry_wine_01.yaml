@@ -1,0 +1,28 @@
+type: Alchemy
+flags: ''
+id: potion_comberry_wine_01
+name: Shein
+script: ''
+mesh: n\Potion_Comberry_wine_01.NIF
+icon: n\Tx_Comberry_wine_01.tga
+effects:
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Endurance
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 10
+  max_magnitude: 10
+- magic_effect: DrainAttribute
+  skill: None
+  attribute: Intelligence
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 10
+  max_magnitude: 10
+data:
+  weight: 3.0
+  value: 10
+  flags: ''

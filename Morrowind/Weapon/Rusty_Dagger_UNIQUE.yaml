@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: Rusty_Dagger_UNIQUE
+name: A Rusty Dagger
+script: ''
+mesh: w\W_iron_dagger.nif
+icon: w\Tx_dagger_iron.tga
+enchanting: ''
+data:
+  weight: 3.0
+  value: 0
+  weapon_type: ShortBladeOneHand
+  health: 5
+  speed: 2.5
+  reach: 1.0
+  enchantment: 20
+  chop_min: 1
+  chop_max: 2
+  slash_min: 1
+  slash_max: 2
+  thrust_min: 2
+  thrust_max: 2
+  flags: ''

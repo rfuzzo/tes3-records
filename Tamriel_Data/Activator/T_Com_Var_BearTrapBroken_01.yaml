@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Com_Var_BearTrapBroken_01
+name: Bear Trap (Broken)
+script: T_ScObj_BearTrap_Brk
+mesh: tr\f\tr_act_beartrap_b_01.nif

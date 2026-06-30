@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Furn_DwrvBeltDrive
+name: Strange Steam Device
+script: AB_DwrvMachineryToggle_s
+mesh: OAAB\u\dwrvBeltDrive.nif

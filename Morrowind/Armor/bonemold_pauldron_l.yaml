@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: bonemold_pauldron_l
+name: Bonemold L Pauldron
+script: ''
+mesh: a\A_Bonemold_Pauldron_GND.nif
+icon: a\TX_Bonemold_pauldron.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: LeftUpperArm
+  male_bodypart: a_bonemold_pauldron_ua
+  female_bodypart: ''
+data:
+  armor_type: LeftPauldron
+  weight: 8.0
+  value: 120
+  health: 150
+  enchantment: 16
+  armor_rating: 15

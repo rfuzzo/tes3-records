@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_Lavender_01
+name: Lavender
+script: ''
+mesh: pc\n\pc_ingred_lavander.nif
+icon: pc\n\pc_tx_ingred_lavender.dds
+data:
+  weight: 0.1
+  value: 7
+  effects:
+  - RestoreAttribute
+  - Reflect
+  - RestoreMagicka
+  - FortifyHealth
+  skills:
+  - Block
+  - Block
+  - None
+  - None
+  attributes:
+  - Agility
+  - Agility
+  - None
+  - None

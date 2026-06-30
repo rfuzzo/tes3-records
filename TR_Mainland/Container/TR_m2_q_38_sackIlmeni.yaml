@@ -1,0 +1,21 @@
+type: Container
+flags: ''
+id: TR_m2_q_38_sackIlmeni
+name: Cloth Sack
+script: ''
+mesh: o\Contain_Com_Sack_02.NIF
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - -20
+  - T_Mw_Random_Ingredient
+- - -1
+  - ingred_ash_salts_01
+- - -3
+  - ingred_bonemeal_01
+- - -3
+  - ingred_ectoplasm_01
+- - -1
+  - ingred_emerald_01
+- - -20
+  - random_ingredient

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Glb_Sound_Volcano_01
+name: 'Sound Effect: Volcano'
+script: T_ScSound_Volcano_01
+mesh: EditorMarker.NIF

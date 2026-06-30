@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: light_com_candle_06
+name: ''
+script: ''
+mesh: l\Light_Com_Candle_06.NIF
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 128
+  color:
+  - 245
+  - 140
+  - 40
+  - 0
+  flags: DYNAMIC | FIRE | FLICKER_SLOW

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_De_6th_Longbow_01
+name: Sixth House Longbow
+script: ''
+mesh: tr\w\tr_w_6th_longbow.nif
+icon: tr\w\tr_w_6th_longbow.dds
+enchanting: ''
+data:
+  weight: 20.0
+  value: 3520
+  weapon_type: MarksmanBow
+  health: 800
+  speed: 1.0
+  reach: 1.0
+  enchantment: 96
+  chop_min: 1
+  chop_max: 30
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: ''

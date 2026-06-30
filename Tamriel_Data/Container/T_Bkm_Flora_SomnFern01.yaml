@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Bkm_Flora_SomnFern01
+name: Somnalius
+script: ''
+mesh: pc\o\pc_flora_somnalius.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - T_Bkm_Random_FlorSomnalius

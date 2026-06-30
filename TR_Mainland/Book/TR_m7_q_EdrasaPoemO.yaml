@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: TR_m7_q_EdrasaPoemO
+name: Pierce Thine Everliving Life
+script: TR_m7_q_EdrasaPoem_sc
+mesh: m\Text_Parchment_02.nif
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"2\" FACE=\"Magic Cards\"><BR>\r\n<BR>\r\nOh Jalir my love, my fighter, my dear\r\nShow me your might, the thrust of your spear\r\nSo close to death, its grasp ever near\r\nAnd still you thrust and you thrust \r\nAnd you thrust with your spear\r\n<BR>\r\nOh Jalir my champion, there's no other alike\r\nEach night I dream of how you handle your pike\r\nAnd, oh, that look of bliss as you make your first strike\r\nCome to me, my love, come\r\nWith a head on a spike\r\n<BR>\r\n<BR>\r\n\r\n"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

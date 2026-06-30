@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: T_SkyNor_Furn_Ch3Jewel
+name: Chest
+script: ''
+mesh: Sky\o\Sky_Cont_Chest_07_01.nif
+encumbrance: 250.0
+container_flags: IS_BASE
+inventory:
+- - 5
+  - T_Sky_Random_Gem
+- - 1
+  - l_n_amulet
+- - 2
+  - l_n_rings

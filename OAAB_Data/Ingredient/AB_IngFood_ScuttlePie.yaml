@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: AB_IngFood_ScuttlePie
+name: Scuttle Pie
+script: ''
+mesh: OAAB\n\food_scuttle_pie_01.nif
+icon: OAAB\n\food_scuttle_pie.dds
+data:
+  weight: 0.5
+  value: 10
+  effects:
+  - FortifyFatigue
+  - ResistFire
+  - Burden
+  - Sound
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

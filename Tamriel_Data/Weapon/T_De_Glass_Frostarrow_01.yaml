@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_De_Glass_Frostarrow_01
+name: 'Wild Frostarrow '
+script: ''
+mesh: w\W_Glass_arrow.NIF
+icon: w\tx_arrow_glass.tga
+enchanting: wild frost_en
+data:
+  weight: 0.15
+  value: 25
+  weapon_type: Arrow
+  health: 10
+  speed: 1.0
+  reach: 1.0
+  enchantment: 9
+  chop_min: 1
+  chop_max: 6
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

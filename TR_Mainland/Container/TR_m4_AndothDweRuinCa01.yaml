@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: TR_m4_AndothDweRuinCa01
+name: Cabinet
+script: TR_m4_AndothDweBarrel01_scp
+mesh: pc\o\pc_furn_com_cabinet.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 3
+  - Potion_Local_Brew_01
+- - 1
+  - T_Imp_Drink_WineBattle_01
+- - 3
+  - potion_comberry_brandy_01
+- - 2
+  - potion_comberry_wine_01

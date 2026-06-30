@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: ex_gg_gateswitch_01
+name: Switch
+script: GG_OpenGate1
+mesh: x\ex_gg_gateswitch_01.nif

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: in_strong_platform
+name: ''
+script: Sound_Crystal_Ringing
+mesh: i\in_strong_portal_chamber.NIF

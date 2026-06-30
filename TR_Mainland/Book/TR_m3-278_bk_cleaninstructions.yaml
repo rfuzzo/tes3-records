@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3-278_bk_cleaninstructions
+name: Cleaning Instructions
+script: ''
+mesh: m\text_parchment_02.nif
+icon: m\tx_parchment_02.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nDue to the long list of accidents we have seen lately (most of which could easily have been avoided), all scholars are to follow these rules to the letter.<BR><BR>\r\n1. Use bristleback brushes to remove any but the finest of dirt. Fine dirt and dust is to be removed using a rat-hair brush or preferably a velk-hair brush.<BR><BR>\r\n2. Use Mazte to remove Dwemer grease. Only Mazte, never Sujamma, and certainly not Flin. Keep the Mazte away from flame at all times.<BR><BR>\r\n3. Wipe off the excess Mazte with a piece of cloth. DO NOT drink the used Mazte.<BR><BR>\r\n4. Make a facsimile of any Dwemeri scripture you found on the artifact.<BR><BR>\r\n5. Please consult the Dean of the Imperial Archaeological Society before attempting any magical manipulation of the artifact. All approved magical manipulation shall be performed by a member of the Guild of Mages.<BR><BR>\r\n6. Catalogue all your findings. Do not forget to make a copy for the archive.<BR>\r\n<BR>"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 100

@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: T_SumHe_Furn_ChS1Jewel
+name: Small Chest
+script: ''
+mesh: sum\o\sum_cont_box_01.nif
+encumbrance: 25.0
+container_flags: IS_BASE
+inventory:
+- - 3
+  - T_Sum_Random_Gem
+- - 2
+  - T_Sum_Random_JewelryCm
+- - 1
+  - T_Sum_Random_JewelryEx
+- - 1
+  - T_Sum_Random_JewelryXp

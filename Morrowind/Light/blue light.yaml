@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: blue light
+name: ''
+script: ''
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 768
+  color:
+  - 30
+  - 32
+  - 96
+  - 0
+  flags: DYNAMIC

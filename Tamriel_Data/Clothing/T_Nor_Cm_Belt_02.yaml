@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Nor_Cm_Belt_02
+name: Common Belt
+script: ''
+mesh: sky\c\Sky_c_belt_cm_02.nif
+icon: sky\c\tx_c_belt_cm_02.dds
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Belt
+  weight: 1.0
+  value: 2
+  enchantment: 10

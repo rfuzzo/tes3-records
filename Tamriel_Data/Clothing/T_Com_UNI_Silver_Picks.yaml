@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Com_UNI_Silver_Picks
+name: Silver Picks Ring
+script: ''
+mesh: hr\c\hr_c_silver_picks_uni.nif
+icon: hr\c\hr_c_silver_picks.dds
+enchanting: T_Use_Silver_Picks
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 7000
+  enchantment: 190

@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: sarandas_amulet
+name: Firejade Amulet
+script: ''
+mesh: c\Amulet_Expensive_1.NIF
+icon: c\tx_amulet_expens1.tga
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 150
+  enchantment: 150

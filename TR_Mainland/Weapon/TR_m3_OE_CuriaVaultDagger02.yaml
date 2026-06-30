@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m3_OE_CuriaVaultDagger02
+name: Old Imperial Dagger
+script: ''
+mesh: TR\w\TR_w_imp_dagger.nif
+icon: TR\w\TR_w_imp_dagger.dds
+enchanting: TR_m3_OE_CuriaVaultDaggerEN
+data:
+  weight: 4.0
+  value: 35
+  weapon_type: ShortBladeOneHand
+  health: 500
+  speed: 2.5
+  reach: 1.0
+  enchantment: 0
+  chop_min: 4
+  chop_max: 6
+  slash_min: 4
+  slash_max: 6
+  thrust_min: 6
+  thrust_max: 6
+  flags: ''

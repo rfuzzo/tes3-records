@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: TR_m4_ing_rotten_guar_meat
+name: Rotten Guar Meat
+script: ''
+mesh: TR\n\tr_ing_meat_guar.nif
+icon: TR\n\tr_ing_meat_guar.dds
+data:
+  weight: 1.0
+  value: 0
+  effects:
+  - Poison
+  - ResistFrost
+  - WeaknessToPoison
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

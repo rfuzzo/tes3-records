@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Mw_Fauna_BeeHvVM_01
+name: Bee Hole
+script: ''
+mesh: tr\o\tr_cont_beehive_vm_01.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 2
+  - T_Sky_Random_HoneyComb

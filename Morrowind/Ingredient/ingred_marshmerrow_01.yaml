@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_marshmerrow_01
+name: Marshmerrow
+script: ''
+mesh: n\Ingred_marshmerrow_01.NIF
+icon: n\TX_Ing_marshmerrow.tga
+data:
+  weight: 0.1
+  value: 1
+  effects:
+  - RestoreHealth
+  - DetectEnchantment
+  - DrainAttribute
+  - DrainFatigue
+  skills:
+  - Block
+  - Block
+  - Block
+  - Block
+  attributes:
+  - Strength
+  - Strength
+  - Willpower
+  - Strength

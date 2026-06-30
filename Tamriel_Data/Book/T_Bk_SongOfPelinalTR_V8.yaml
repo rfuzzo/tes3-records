@@ -1,0 +1,18 @@
+type: Book
+flags: ''
+id: T_Bk_SongOfPelinalTR_V8
+name: The Song of Pelinal, Volume 8
+script: ''
+mesh: tr\m\tr_book_closed_i15_ay.nif
+icon: tr\m\tr_book_closed_i15_ay.dds
+enchanting: ''
+text: |-
+  <DIV ALIGN="LEFT"><FONT COLOR="000000" SIZE="3" FACE="Magic Cards">[Editor's Note: This is the oldest and most fragmentary of all the existent Pelinal texts. It is, however, likely closest to the original spoken or sung form of the Song, and therefore has great value despite its brevity. Strangely, it appears that Pelinal is present at Alessia's deathbed, although he was killed by Umaril earlier in the saga (years before Alessia's death). Some scholars believe that this fragment is not actually a part of the Song of Pelinal, but most accept its authenticity although there is still much debate as to its significance.]<BR>
+  <DIV ALIGN="CENTER"><BR>The Song of Pelinal, Volume 8: On His Revelation at the Death of the Al-Esh<BR>
+  <DIV ALIGN="LEFT"><BR>"... and left you to gather sinew with my other half, who will bring light thereby to that mortal idea that brings [the Gods] great joy, that is, freedom, which even the Heavens do not truly know, [which is] why our Father, the... [Text lost]... in those first [days/spirits/swirls] before Convention... that which we echoed in our earthly madness. [Let us] now take you Up. We will [show] our true faces... [which eat] one another in amnesia each Age."<BR>
+data:
+  weight: 1.5
+  value: 100
+  book_type: Book
+  skill: None
+  enchantment: 100

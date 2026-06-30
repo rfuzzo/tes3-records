@@ -1,0 +1,23 @@
+type: Container
+flags: ''
+id: TR_m3_Kha_Chest_04
+name: Daedric Chest
+script: TR_m3_Kha_DaeChestCont_04_Sc
+mesh: o\contain_daedric_chest_01.nif
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - T_IngMine_Amethyst_01
+- - 2
+  - T_IngMine_Garnet_01
+- - 2
+  - T_IngMine_Sapphire_01
+- - 2
+  - T_IngMine_Topaz_01
+- - 2
+  - ingred_diamond_01
+- - 2
+  - ingred_emerald_01
+- - 2
+  - ingred_ruby_01

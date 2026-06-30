@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: AB_o_DeCrateEggTray
+name: Egg Tray
+script: ''
+mesh: OAAB\o\egg crate_tray.nif
+encumbrance: 0.0
+container_flags: ORGANIC | IS_BASE
+inventory:
+- - 9
+  - AB_lvl_KwamaEgg

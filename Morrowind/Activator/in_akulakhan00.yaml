@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: in_akulakhan00
+name: Akulakhan
+script: ''
+mesh: i\in_akulakhan00.NIF

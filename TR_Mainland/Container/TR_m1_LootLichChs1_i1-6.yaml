@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: TR_m1_LootLichChs1_i1-6
+name: Old Chest
+script: ''
+mesh: o\Contain_De_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 300
+  - random gold
+- - 1
+  - random_book_skill
+- - 3
+  - random_gem
+- - 25
+  - random_loot_special_marksman

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Dae_OM_Rubble_Float_01
+name: ''
+script: T_ScObj_FloatIntense
+mesh: TR\x\tr_ex_om_rubble_01.nif

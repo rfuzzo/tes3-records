@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_IcyShell01
+name: Icy Shell Fungus
+script: ''
+mesh: sky\n\T_ingflor_IcyShell01.nif
+icon: sky\n\sky_ingr_icyshell.dds
+data:
+  weight: 0.1
+  value: 2
+  effects:
+  - Burden
+  - Poison
+  - FortifyAttribute
+  - FrostShield
+  skills:
+  - None
+  - None
+  - Block
+  - None
+  attributes:
+  - None
+  - None
+  - Endurance
+  - None

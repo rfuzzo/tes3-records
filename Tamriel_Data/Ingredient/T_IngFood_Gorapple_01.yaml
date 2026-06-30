@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_Gorapple_01
+name: Gorapple
+script: ''
+mesh: tr\n\tr_ing_gorapple_01.nif
+icon: tr\n\tr_ing_gorapple.tga
+data:
+  weight: 2.0
+  value: 3
+  effects:
+  - RestoreFatigue
+  - RestoreHealth
+  - DrainMagicka
+  - FortifyAttribute
+  skills:
+  - None
+  - Block
+  - None
+  - Block
+  attributes:
+  - None
+  - Intelligence
+  - None
+  - Willpower

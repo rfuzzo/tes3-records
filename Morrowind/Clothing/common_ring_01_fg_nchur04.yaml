@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: common_ring_01_fg_nchur04
+name: Common Ring
+script: BILL_FG_Nchurdamz04
+mesh: c\C_Ring_common01.NIF
+icon: c\Tx_ring_common01.tga
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 2
+  enchantment: 10

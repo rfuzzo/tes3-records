@@ -1,0 +1,21 @@
+type: Container
+flags: ''
+id: TR_M3_A7_sack_plates
+name: Cloth Sack
+script: ''
+mesh: o\Contain_Com_Sack_02.NIF
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - misc_com_iron_ladle
+- - 1
+  - misc_com_plate_01
+- - 1
+  - misc_com_plate_03
+- - 3
+  - misc_com_plate_04
+- - 5
+  - misc_com_plate_07
+- - 12
+  - misc_com_plate_08

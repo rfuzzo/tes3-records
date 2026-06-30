@@ -1,0 +1,31 @@
+type: Container
+flags: ''
+id: T_SkyCom_Furn_ChHv1TrA3
+name: Chest
+script: ''
+mesh: Sky\o\Sky_Cont_Chest_04_01.nif
+encumbrance: 250.0
+container_flags: IS_BASE
+inventory:
+- - -1
+  - T_Nor_Steel_Cuirass_01
+- - -1
+  - T_Rea_Wormmouth_Boots_01
+- - -1
+  - T_Rea_Wormmouth_BracerL_01
+- - -1
+  - T_Rea_Wormmouth_BracerR_01
+- - -1
+  - T_Rea_Wormmouth_Cuirass_01
+- - -1
+  - T_Rea_Wormmouth_Greaves_01
+- - -1
+  - fur_gauntlet_left
+- - -1
+  - fur_gauntlet_right
+- - -1
+  - fur_pauldron_left
+- - -1
+  - fur_pauldron_right
+- - -1
+  - nordic_iron_helm

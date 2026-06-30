@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: T_MwCom_Var_GrP1Empty
+name: Guar Pack
+script: ''
+mesh: tr\o\tr_cont_guarpack_01.nif
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory: []

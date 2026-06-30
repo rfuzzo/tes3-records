@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_MeatHorse_01
+name: Horse Meat
+script: ''
+mesh: Sky\n\sky_ingred_horsemeat.nif
+icon: sky\n\tx_ingred_meat_h.dds
+data:
+  weight: 1.3
+  value: 3
+  effects:
+  - RestoreFatigue
+  - FortifyAttribute
+  - None
+  - None
+  skills:
+  - None
+  - Block
+  - None
+  - None
+  attributes:
+  - None
+  - Speed
+  - None
+  - None

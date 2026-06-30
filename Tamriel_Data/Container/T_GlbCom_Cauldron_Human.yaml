@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: T_GlbCom_Cauldron_Human
+name: Large Iron Cauldron
+script: ''
+mesh: o\contain_couldron10.nif
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_IngCrea_HumanHeart
+- - 1
+  - ingred_bonemeal_01
+- - 2
+  - ingred_human_meat_01
+- - 1
+  - misc_skull00

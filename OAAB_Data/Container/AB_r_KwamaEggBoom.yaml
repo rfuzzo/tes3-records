@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: AB_r_KwamaEggBoom
+name: Kwama Egg Sack
+script: AB_KwamaEggBomb_s
+mesh: OAAB\o\kwama_egg_bomb.nif
+encumbrance: 0.0
+container_flags: ORGANIC | IS_BASE
+inventory:
+- - 1
+  - AB_lvl_KwamaEgg

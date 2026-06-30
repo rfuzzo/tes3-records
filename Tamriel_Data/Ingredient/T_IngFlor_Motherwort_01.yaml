@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_Motherwort_01
+name: Motherwort
+script: ''
+mesh: pc\n\pc_ingred_motherwort.nif
+icon: pc\n\pc_tx_ingred_motherwo.dds
+data:
+  weight: 0.1
+  value: 1
+  effects:
+  - ResistPoison
+  - DamageFatigue
+  - Silence
+  - Invisibility
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

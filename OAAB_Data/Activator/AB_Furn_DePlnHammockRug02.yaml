@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Furn_DePlnHammockRug02
+name: Hammock
+script: Bed_Standard
+mesh: OAAB\u\dePlnHammockRug02.nif

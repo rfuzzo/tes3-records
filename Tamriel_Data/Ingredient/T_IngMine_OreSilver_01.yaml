@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngMine_OreSilver_01
+name: Silver Ore
+script: ''
+mesh: Sky\n\Sky_Ingred_SLV_ORE_01.nif
+icon: Sky\n\Tx_Ingred_SLV_ORE_01.dds
+data:
+  weight: 3.5
+  value: 150
+  effects:
+  - DrainAttribute
+  - Burden
+  - ResistCommonDisease
+  - LightningShield
+  skills:
+  - Block
+  - None
+  - None
+  - None
+  attributes:
+  - Personality
+  - None
+  - None
+  - None

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Sc_MapPoliticalAanthirinTR
+name: Political Map of Aanthirin
+script: ''
+mesh: m\Text_Scroll_01.NIF
+icon: m\Tx_scroll_open_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<IMG SRC=\"TR\\map_aanthirin.dds\" WIDTH=\"350\" HEIGHT=\"350\"><BR> Political Map of Lower Aanthirin <BR> \r\nLEGEND <BR>\r\nRed - The Empire <BR>\r\nYellow - House Hlaalu <BR>\r\nWhite - House Indoril <BR>\r\nBrown - The Temple <BR> <BR>"
+data:
+  weight: 0.2
+  value: 50
+  book_type: Scroll
+  skill: None
+  enchantment: 0

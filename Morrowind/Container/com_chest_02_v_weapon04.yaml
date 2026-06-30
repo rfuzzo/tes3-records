@@ -1,0 +1,43 @@
+type: Container
+flags: ''
+id: com_chest_02_v_weapon04
+name: Wooden Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 500.0
+container_flags: IS_BASE
+inventory:
+- - -200
+  - iron arrow
+- - -100
+  - steel arrow
+- - -50
+  - iron throwing knife
+- - -1
+  - steel longbow
+- - -1
+  - iron battle axe
+- - -1
+  - steel axe
+- - -1
+  - steel war axe
+- - -1
+  - Iron Long Spear
+- - -1
+  - steel staff
+- - -1
+  - iron club
+- - -1
+  - steel claymore
+- - -1
+  - iron saber
+- - -1
+  - steel saber
+- - -1
+  - iron wakizashi
+- - -1
+  - steel dagger
+- - -4
+  - random_iron_weapon
+- - -2
+  - random_steel_weapon

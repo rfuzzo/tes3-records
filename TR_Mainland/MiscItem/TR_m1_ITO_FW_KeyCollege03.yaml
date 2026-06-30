@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m1_ITO_FW_KeyCollege03
+name: Firewatch College Museum Key
+script: ''
+mesh: TR\m\TR_Key_DD28.NIF
+icon: TR\m\TR_Key_DD28.dds
+data:
+  weight: 0.0
+  value: 150
+  flags: KEY

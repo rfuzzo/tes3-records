@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Fx_GeyserWaterDMG
+name: ''
+script: AB_GeyserCollisionDMG_s
+mesh: OAAB\e\GeyserCollisionDmg.nif

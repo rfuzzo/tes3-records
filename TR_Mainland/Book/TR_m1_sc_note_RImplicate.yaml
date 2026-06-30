@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_sc_note_RImplicate
+name: Scrawled Note
+script: ''
+mesh: m\Text_Note_02.nif
+icon: m\Tx_note_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nI've arranged for a supply drop-off at the usual location.<BR>\r\n<BR>\r\nEnsure you make good use of this weaponry. I don't want to see my money wasted.<BR>\r\n<BR>\r\nI don't care what it takes, just see to it that the Imperials suffer.<BR>\r\n<BR>\r\nR<BR>\r\n"
+data:
+  weight: 0.1
+  value: 10
+  book_type: Scroll
+  skill: None
+  enchantment: 100

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m4_Menaan_int4_cellkey
+name: Cell Key
+script: TR_m4_MN_Assassin_keyfound
+mesh: m\Key_Standard_01.NIF
+icon: m\Tx_key_standard_01.tga
+data:
+  weight: 0.0
+  value: 12
+  flags: KEY

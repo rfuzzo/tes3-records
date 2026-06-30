@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Yne_Iron_ ThrowingNeedle_01
+name: Ynesai Iron Throwing Needle
+script: ''
+mesh: pi\w\pi_w_yiron_thneedle1.nif
+icon: pi\w\pi_w_yiron_thneedle1.dds
+enchanting: ''
+data:
+  weight: 0.1
+  value: 2
+  weapon_type: MarksmanThrown
+  health: 25
+  speed: 1.0
+  reach: 1.0
+  enchantment: 15
+  chop_min: 2
+  chop_max: 2
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: ''

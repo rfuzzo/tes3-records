@@ -1,0 +1,12 @@
+type: RepairItem
+flags: ''
+id: AB_Repair_DwrvHammer
+name: Dwarven Armorer's Hammer
+script: ''
+mesh: OAAB\m\dwrvHammerRepair.nif
+icon: OAAB\m\misc_dwrvHamRep.tga
+data:
+  weight: 4.0
+  value: 40
+  uses: 50
+  quality: 1.0

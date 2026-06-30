@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m1_cont_De_vase_dwem
+name: Vase
+script: ''
+mesh: TR\o\TR_cont_de_vase_01.nif
+encumbrance: 10.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - T_Mw_Random_WeaponsDwemer

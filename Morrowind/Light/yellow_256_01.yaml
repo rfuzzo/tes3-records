@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: yellow_256_01
+name: ''
+script: ''
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 256
+  color:
+  - 255
+  - 249
+  - 13
+  - 0
+  flags: ''

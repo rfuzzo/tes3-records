@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_i2_445_key_A
+name: Ornate Key Marked 'A'
+script: ''
+mesh: m\Key_Temple_01.NIF
+icon: m\Tx_key_temple_01.tga
+data:
+  weight: 0.0
+  value: 1000
+  flags: KEY

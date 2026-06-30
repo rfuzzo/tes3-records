@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: ex_co_ship_baro
+name: ''
+script: ColonyBaroShip
+mesh: x\Ex_DE_ship.nif

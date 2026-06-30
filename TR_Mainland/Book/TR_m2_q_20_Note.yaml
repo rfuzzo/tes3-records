@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2_q_20_Note
+name: Note to Ervul
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nFollow the river out of Helnim. You'll find us anchored on the beach just past the mountain cluster.\r\n<BR>\r\n\r\n"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

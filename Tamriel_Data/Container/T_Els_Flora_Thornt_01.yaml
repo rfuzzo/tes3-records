@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Els_Flora_Thornt_01
+name: Thorntail
+script: ''
+mesh: EPoS\o\flora_cactus_01a.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - T_Els_Random_FlorThornFlower

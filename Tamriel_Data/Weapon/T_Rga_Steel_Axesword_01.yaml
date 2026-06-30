@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Rga_Steel_Axesword_01
+name: Redguard Steel Axesword
+script: ''
+mesh: hf\w\hf_w_rgasteel_axesw1.nif
+icon: hf\w\pc_w_rgasteel_axesw1.dds
+enchanting: ''
+data:
+  weight: 24.0
+  value: 110
+  weapon_type: LongBladeOneHand
+  health: 1700
+  speed: 1.1
+  reach: 1.0
+  enchantment: 80
+  chop_min: 2
+  chop_max: 14
+  slash_min: 1
+  slash_max: 30
+  thrust_min: 1
+  thrust_max: 4
+  flags: ''

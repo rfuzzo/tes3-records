@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: AB_c_ExtravagantRing02
+name: Extravagant Ring
+script: ''
+mesh: OAAB\c\ring_extr_02.nif
+icon: OAAB\c\ring_extr_02.dds
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 120
+  enchantment: 600

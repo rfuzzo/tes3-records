@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Furn_DeBannerClerk01
+name: ''
+script: OutsideBanner
+mesh: OAAB\u\de_banner_clerk_01.nif

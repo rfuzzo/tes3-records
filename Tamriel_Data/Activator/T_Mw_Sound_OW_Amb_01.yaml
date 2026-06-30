@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Mw_Sound_OW_Amb_01
+name: ''
+script: T_ScSound_OW_Amb
+mesh: EditorMarker.NIF

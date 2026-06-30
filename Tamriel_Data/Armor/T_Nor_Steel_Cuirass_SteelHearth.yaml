@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Nor_Steel_Cuirass_SteelHearth
+name: Cuirass of Steelhearth
+script: ''
+mesh: Sky\a\Sky_A_Nord_Steel_CU_G.nif
+icon: Sky\a\Tx_Nord_STL_Cuirass.dds
+enchanting: T_Use_Steelhearth
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_A_NorSteelCuirass01_C
+  female_bodypart: T_A_NorSteelCuirass01_CF
+data:
+  armor_type: Cuirass
+  weight: 30.0
+  value: 800
+  health: 500
+  enchantment: 200
+  armor_rating: 25

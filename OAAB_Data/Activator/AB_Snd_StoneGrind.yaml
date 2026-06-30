@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Snd_StoneGrind
+name: Grinding Stone
+script: AB_SoundStoneGrind_s
+mesh: editormarker.nif

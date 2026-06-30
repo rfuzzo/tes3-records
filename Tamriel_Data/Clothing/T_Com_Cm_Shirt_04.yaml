@@ -1,0 +1,23 @@
+type: Clothing
+flags: ''
+id: T_Com_Cm_Shirt_04
+name: Common Shirt
+script: ''
+mesh: pc\c\pc_fcot_c_shirt07_gnd.nif
+icon: pc\c\pc_fcot_c_shirt07.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_C_ComCmShirt04_C
+  female_bodypart: T_C_ComCmShirt04_CF
+- biped_object_type: LeftUpperArm
+  male_bodypart: T_C_ComCmShirt04_UA
+  female_bodypart: ''
+- biped_object_type: RightUpperArm
+  male_bodypart: T_C_ComCmShirt04_UA
+  female_bodypart: ''
+data:
+  clothing_type: Shirt
+  weight: 1.5
+  value: 4
+  enchantment: 20

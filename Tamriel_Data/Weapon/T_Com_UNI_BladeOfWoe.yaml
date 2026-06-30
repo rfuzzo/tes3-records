@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Com_UNI_BladeOfWoe
+name: Blade of Woe
+script: ''
+mesh: pc\w\pc_w_blade_woe.nif
+icon: pc\w\pc_w_blade_woe.dds
+enchanting: T_Strike_BladeWoeUni
+data:
+  weight: 8.25
+  value: 10000
+  weapon_type: ShortBladeOneHand
+  health: 750
+  speed: 2.5
+  reach: 1.0
+  enchantment: 200
+  chop_min: 8
+  chop_max: 15
+  slash_min: 8
+  slash_max: 15
+  thrust_min: 8
+  thrust_max: 15
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Dwe_Rubber_01
+name: Dwemer Rubber
+script: ''
+mesh: tr\m\tr_misc_dwe_rubber.nif
+icon: tr\m\tr_misc_dwe_rubber.tga
+data:
+  weight: 3.0
+  value: 20
+  flags: ''

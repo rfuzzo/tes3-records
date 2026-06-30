@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_SilverLongbow
+name: Silver Longbow
+script: ''
+mesh: OAAB\w\silver_longbow.nif
+icon: OAAB\w\silver_longbow.dds
+enchanting: ''
+data:
+  weight: 6.0
+  value: 200
+  weapon_type: MarksmanBow
+  health: 420
+  speed: 1.0
+  reach: 1.0
+  enchantment: 28
+  chop_min: 1
+  chop_max: 25
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE | SILVER

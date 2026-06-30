@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: flora_gold_kanet_01
+name: Gold Kanet Flower
+script: ''
+mesh: o\Flora_gold_kanet_01.NIF
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - random_gold_kanet

@@ -1,0 +1,12 @@
+type: Probe
+flags: ''
+id: probe_grandmaster
+name: Grandmaster's Probe
+script: ''
+mesh: m\Probe_Grandmaster_01.nif
+icon: m\Tx_probe_G_01.tga
+data:
+  weight: 0.25
+  value: 200
+  quality: 1.25
+  uses: 25

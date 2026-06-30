@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_FM_Wp_Decay
+name: Decay
+script: ''
+mesh: tr\w\tr_w_iron_wpick_01.nif
+icon: tr\w\tr_w_iron_wpick_01.dds
+enchanting: TR_FM_En_Decay
+data:
+  weight: 13.0
+  value: 20000
+  weapon_type: AxeOneHand
+  health: 2400
+  speed: 1.3
+  reach: 1.0
+  enchantment: 60
+  chop_min: 6
+  chop_max: 37
+  slash_min: 6
+  slash_max: 20
+  thrust_min: 1
+  thrust_max: 5
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Echo_34
+name: RIVERKEEP ROBBED
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_text_note_nar_news.nif
+icon: tr\m\tr_text_note_nar_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\tr_echo_512_256.dds\" WIDTH=\"348\" HEIGHT=\"168\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nRIVERKEEP ROBBED<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\n\"Theft!\" Cries the Duke Fethas Hlaalu, as the Imperial-Hlaalu stronghold of Riverkeep is robbed of several rare and valuable items -- all by an unknown assailant.<BR><BR>\r\n\"It was unbelievable!\" Said one guard at Riverkeep, after finding the vaults noticeably less populated, \"like it never happened! Only a few trinkets missing -- to my eye at least.\" While a proper inventory has not yet been taken, and the Riverkeep treasury is unable to surmise just how much has been taken at this time, it has been confirmed that several expensive Daedric throwing stars have been taken by the thief.<BR><BR>\r\nThis thief -- whose identity the Imperial and Hlaalu guard are currently investigating -- should not be feared by the common citizen. It is important to recognize, dear reader: Should such a foul criminal of the highest dishonour strike again, our loyal and dependable Canyon Watch stewards are sure to handle it swiftly and efficiently.<BR><BR>\r\n\"I will not be played. Not by some petty thief, mark my words,\" said Duke Fethas Hlaalu, furious at his wronging.<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

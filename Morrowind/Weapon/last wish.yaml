@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: last wish
+name: Last Wish
+script: ''
+mesh: w\W_Dwemer_shortsword.nif
+icon: w\Tx_Dwemer_shortsword.tga
+enchanting: sting_en
+data:
+  weight: 8.0
+  value: 450
+  weapon_type: ShortBladeOneHand
+  health: 1000
+  speed: 2.5
+  reach: 1.0
+  enchantment: 40
+  chop_min: 7
+  chop_max: 12
+  slash_min: 3
+  slash_max: 12
+  thrust_min: 8
+  thrust_max: 15
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_frost_salts_01
+name: Frost Salts
+script: ''
+mesh: n\Ingred_Frost_Salts_01.nif
+icon: n\Tx_frostsalt_01.tga
+data:
+  weight: 0.1
+  value: 75
+  effects:
+  - DrainAttribute
+  - RestoreMagicka
+  - FrostShield
+  - ResistFire
+  skills:
+  - Block
+  - Block
+  - Block
+  - Block
+  attributes:
+  - Speed
+  - Strength
+  - Luck
+  - Strength

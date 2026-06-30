@@ -1,0 +1,19 @@
+type: Armor
+flags: PERSISTENT
+id: TR_m3_Brother_IndorilHelm
+name: Indoril Helm of Verity
+script: TR_m3_Brother_IndorilHelm_sc
+mesh: tr\a\tr_a_chevaram_helm_01g.nif
+icon: tr\a\tr_a_chevaram_helm_01.dds
+enchanting: TR_m3_Brother_IndorilHelm_en
+biped_objects:
+- biped_object_type: Hair
+  male_bodypart: T_A_DeIndChevAramHelm01_Hr
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 1.0
+  value: 300
+  health: 200
+  enchantment: 125
+  armor_rating: 14

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m2_q_32_ZarenPackage
+name: Package for Zaren Hammebenat
+script: ''
+mesh: m\dwemer_satchel00.NIF
+icon: m\misc_dwe_satchel00.dds
+data:
+  weight: 3.0
+  value: 1
+  flags: ''

@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: de_r_drawers_01_fcloth
+name: Chest of Drawers
+script: ''
+mesh: o\Contain_De_Drawers_01.NIF
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory:
+- - 4
+  - random_expensive_de_fclothes_02

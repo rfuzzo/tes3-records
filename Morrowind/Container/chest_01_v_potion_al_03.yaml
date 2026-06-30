@@ -1,0 +1,81 @@
+type: Container
+flags: ''
+id: chest_01_v_potion_al_03
+name: Wooden Chest
+script: ''
+mesh: o\contain_chest10.nif
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - p_invisibility_s
+- - 1
+  - p_levitation_s
+- - 1
+  - p_water_breathing_s
+- - 1
+  - p_water_walking_s
+- - 2
+  - p_disease_resistance_q
+- - 1
+  - p_disease_resistance_s
+- - 1
+  - p_dispel_s
+- - 2
+  - p_cure_poison_s
+- - 2
+  - p_cure_paralyzation_s
+- - 2
+  - p_cure_common_s
+- - 1
+  - p_swift_swim_q
+- - 1
+  - p_restore_willpower_q
+- - 1
+  - p_restore_strength_q
+- - 1
+  - p_restore_magicka_q
+- - 1
+  - p_restore_speed_q
+- - 1
+  - p_restore_personality_q
+- - 1
+  - p_restore_luck_q
+- - 1
+  - p_restore_intelligence_q
+- - 2
+  - p_restore_health_q
+- - 2
+  - p_restore_fatigue_q
+- - 1
+  - p_restore_endurance_q
+- - 1
+  - p_restore_agility_q
+- - 1
+  - p_shock_resistance_q
+- - 1
+  - p_poison_resistance_q
+- - 1
+  - p_magicka_resistance_q
+- - 1
+  - p_fire_resistance_q
+- - 1
+  - p_reflection_q
+- - 1
+  - p_night-eye_q
+- - 1
+  - p_lightning shield_q
+- - 1
+  - p_light_q
+- - 1
+  - p_frost_resistance_q
+- - 1
+  - p_frost_shield_q
+- - 1
+  - p_fortify_magicka_q
+- - 1
+  - p_fortify_health_q
+- - 1
+  - p_fortify_fatigue_q
+- - 1
+  - p_fire_shield_q

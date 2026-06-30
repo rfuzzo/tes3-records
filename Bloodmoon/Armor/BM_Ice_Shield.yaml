@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: BM_Ice_Shield
+name: Ice Shield
+script: ''
+mesh: a\A_Ice_Shield.NIF
+icon: A\Ice_shield.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Shield
+  male_bodypart: bm_shield_ice
+  female_bodypart: ''
+data:
+  armor_type: Shield
+  weight: 13.0
+  value: 1000
+  health: 400
+  enchantment: 400
+  armor_rating: 50

@@ -1,0 +1,20 @@
+type: Alchemy
+flags: ''
+id: T_Com_Subst_Perfume_01
+name: Fragrance of Domica Redwort
+script: ''
+mesh: pc\m\pc_perfume_01.nif
+icon: pc\m\pc_perfume_01.dds
+effects:
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Personality
+  range: OnSelf
+  area: 0
+  duration: 90
+  min_magnitude: 35
+  max_magnitude: 35
+data:
+  weight: 1.0
+  value: 100
+  flags: ''

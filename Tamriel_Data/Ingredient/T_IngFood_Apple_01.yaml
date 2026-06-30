@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_Apple_01
+name: Apple
+script: ''
+mesh: pc\n\PC_Ingred_Apple.nif
+icon: pc\n\pc_tx_ingred_apple.dds
+data:
+  weight: 0.2
+  value: 1
+  effects:
+  - RestoreFatigue
+  - DamageAttribute
+  - FortifyAttribute
+  - None
+  skills:
+  - None
+  - Block
+  - Block
+  - None
+  attributes:
+  - None
+  - Luck
+  - Willpower
+  - None

@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m1_HT_Nu1_Bonerasiers_Amulet
+name: Boneraiser's Amulet
+script: ''
+mesh: c\Amulet_Extravagant_1.NIF
+icon: c\tx_amulet_extrav1.tga
+enchanting: summon greater bonewalker_en
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 340
+  enchantment: 600

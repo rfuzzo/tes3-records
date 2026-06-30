@@ -1,0 +1,99 @@
+type: Container
+flags: ''
+id: TR_Real_Chest_Minerals
+name: Chest [Final Listing]
+script: ''
+mesh: o\contain_chest10.nif
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Glb_UNI_Skyrim_Ice_01
+- - 1
+  - T_IngCrea_Ivory
+- - 1
+  - T_IngFlor_RedCoral_01
+- - 1
+  - T_IngMine_Amber_01
+- - 1
+  - T_IngMine_Amethyst_01
+- - 1
+  - T_IngMine_Bloodstone_01
+- - 1
+  - T_IngMine_Charcoal_01
+- - 1
+  - T_IngMine_Coal_01
+- - 1
+  - T_IngMine_DiamondBlue_01
+- - 1
+  - T_IngMine_DiamondRed_01
+- - 1
+  - T_IngMine_FireOpal_01
+- - 1
+  - T_IngMine_Garnet_01
+- - 1
+  - T_IngMine_IceCrystal_01
+- - 1
+  - T_IngMine_Jade_01
+- - 1
+  - T_IngMine_Lodestone_01
+- - 1
+  - T_IngMine_Malouchite_01
+- - 1
+  - T_IngMine_Moonstone_01
+- - 1
+  - T_IngMine_Onyx_01
+- - 1
+  - T_IngMine_Opal_01
+- - 1
+  - T_IngMine_OreBrass_01
+- - 1
+  - T_IngMine_OreCopper_01
+- - 1
+  - T_IngMine_OreGold_01
+- - 1
+  - T_IngMine_OreIron_01
+- - 1
+  - T_IngMine_OreLead_01
+- - 1
+  - T_IngMine_OreMercury_01
+- - 1
+  - T_IngMine_OrePlatinum_01
+- - 1
+  - T_IngMine_OreSilver_01
+- - 1
+  - T_IngMine_OreSulfur_01
+- - 1
+  - T_IngMine_PearlBlack_01
+- - 1
+  - T_IngMine_Realgar_01
+- - 1
+  - T_IngMine_Rockcrystal_01
+- - 1
+  - T_IngMine_Salt_01
+- - 1
+  - T_IngMine_Sapphire_01
+- - 1
+  - T_IngMine_TopazBlue_01
+- - 1
+  - T_IngMine_Topaz_01
+- - 1
+  - T_IngMine_Turquoise_01
+- - 1
+  - ingred_Dae_cursed_raw_ebony_01
+- - 1
+  - ingred_adamantium_ore_01
+- - 1
+  - ingred_ash_salts_01
+- - 1
+  - ingred_diamond_01
+- - 1
+  - ingred_emerald_01
+- - 1
+  - ingred_pearl_01
+- - 1
+  - ingred_raw_Stalhrim_01
+- - 1
+  - ingred_raw_glass_01
+- - 1
+  - ingred_ruby_01

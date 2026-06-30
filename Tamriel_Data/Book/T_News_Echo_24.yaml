@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Echo_24
+name: BELT OF ST. OLMS STOLEN
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_text_note_nar_news.nif
+icon: tr\m\tr_text_note_nar_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\tr_echo_512_256.dds\" WIDTH=\"348\" HEIGHT=\"168\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nBELT OF ST. OLMS STOLEN<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nPublic outrage among members of the Temple as the famous Belt of St. Olms, an artifact once belonging to the saint of the Tribunal himself, goes missing -- presumed stolen.<BR><BR>\r\nThough the Eight-Bones Temple in Narsis, a popular pilgrimage sight and famously home to Vivec's spear Muatra, has reportedly tried to keep the disappearance of the artifact -- it being the temple's most revered relic after Muatra -- a secret, in order to covertly \"reobtain\" the belt, but this has so far been unsuccessful.<BR><BR>\r\nNow that the details of the theft have come out, the Eight-Bones Temple's Master Milara Orvayn has testified that \"it disappeared in the hands of an Ordinator, one of our own and someone I trusted. It is likely this Ordinator has since defected and is doing Vehk knows what with the belt.\"<BR><BR>\r\nAdditionally, Canyon Echo sources in Othmura down the Thirr river have heard rumor that this particular ordinator may have joined a cult of Mehrunes Dagon worshipers, and surely whatever they have stolen the belt for is due to malicious intent. Should this be true, Milara Orvayn and the Canyon Echo would like to warn readers that dangerous heretics of the House of Troubles should NOT be trifled with, and that the capable hands of loyal Temple warriors are putting in as much effort as they can to recover this historic, blessed artifact.<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

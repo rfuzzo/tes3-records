@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: crate_01_eggs10
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 10
+  - food_kwama_egg_02

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Glb_Sound_Emit_Waves01
+name: 'Sound Effect Emitter: Waves'
+script: T_ScSound_WaveEmit_01
+mesh: EditorMarker.NIF

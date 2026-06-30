@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_HandInHandTR
+name: Hand in Hand
+script: T_ScBook_SpInvisibility
+mesh: m\Text_Quarto_open_04.nif
+icon: m\Tx_quarto_open_04.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>\r\nHand in Hand<BR>\r\n<BR>\r\nHonest and honorable the foresters claim<BR>\r\nbut a lie is put in their words, a trace of blame<BR>\r\nOne era past, then two and three rears its head<BR>\r\nand since the end of the beginning<BR>\r\nwhen near the heart they are struck dead<BR>\r\n<BR>\r\nCowards stain their hands in service of the stained hands<BR>\r\nbut since staining the heart, condemned themselves to one land<BR>\r\nStrike from surprise or secret or afar<BR>\r\nthe foresters killed themselves by killing<BR>\r\na first era dragon in its last-years war<BR>\r\n<BR>\r\nNow the shadow-hands skulk<BR>\r\nin the shadow of a god-king<BR>\r\nNow they hide in his city-ribs<BR>\r\nsafe from discovery<BR>\r\nThe god-king-city the evolution of their stained master<BR>\r\n<BR>\r\nUnseen, the shadow-hands open the unwary neck<BR>\r\nand hide behind parchment to escape their crimes<BR>\r\nUnseen, the shadow-hands stab the unwatched back<BR>\r\nand spin their malevolent webs<BR>\r\nall for so-called honor<BR>\r\nand a pitiful pile of hay<BR>\r\n<BR>\r\nWhat grace, what skill they say<BR>\r\nI rebut \"What point has it<BR>\r\nbut to cheapen life already too cheap<BR>\r\nbut to put a last resort first in the mind<BR>\r\nbut to blacken a murderer's hand with death?\" <BR>\r\n"
+data:
+  weight: 2.0
+  value: 200
+  book_type: Book
+  skill: None
+  enchantment: 100

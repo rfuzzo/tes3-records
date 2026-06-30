@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Dwe_ExplodoBody_01
+name: Dwemer Centurion Parts
+script: ''
+mesh: TR\m\TR_misc_explodo_body.NIF
+icon: TR\m\TR_misc_dwrv_exp_body.dds
+data:
+  weight: 10.0
+  value: 50
+  flags: ''

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_Narsis_ZenChapel_npc1
+name: Baley
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: ''
+enchanting: ''
+text: "Redguard Male, Healer Service\r\nlevel 12\r\ncommon robe & shoes, 200 gold, a silver mace\r\nRank 3 in the Imperial Cult\r\nshould stand still, no wander\r\nSpell Merchant\r\ncarries 08 l_m_potion_h and a small amount of  local ingredients\r\n\r\n-bdacc"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

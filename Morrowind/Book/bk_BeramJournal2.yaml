@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: bk_BeramJournal2
+name: Beram Journal Entry 2
+script: ''
+mesh: m\Text_Note_02.nif
+icon: m\Tx_note_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe lower dungeon rooms have been proving much more difficult than we originally thought. We must be working near some lava flows, as the rock of the cave walls is exceptionally hard stuff. It's hard enough to see in here without all our proper lighting installed, I don't need this delay too. I have sent off for some new volcanic glass tools, and in the meantime, one of my men has found a section of cave softer than the rest, and we have continued our work there, bypassing this first room. A few men have expressed their concern over the light rumblings that we have been feeling lately, but I am convinced that it is just more of those Telvanni and their hocus-pocus mushroom magic. They assured us of this site's stability.  The rats and bugs are annoying to us, but do not pose a threat. Hopefully we can find the source of this infestation soon and eliminate it. I don't have time for this.<BR>\r\n<BR>\r\nBeram<BR>\r\nForeman<BR>\r\n"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 100

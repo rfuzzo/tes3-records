@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: TR_m4_Bal_VelynCuirass
+name: Baal Cuirass of Tamed Flames
+script: ''
+mesh: tr\a\tr_a_kagouti_cuir_gnd.nif
+icon: tr\a\tr_a_kagouti_cuirass.dds
+enchanting: TR_m4_Bal_VelynCuirass_En
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_A_DeKagoutiHideCuirass01_C
+  female_bodypart: T_A_DeKagoutiHideCuirass01_C_F
+data:
+  armor_type: Cuirass
+  weight: 15.0
+  value: 10000
+  health: 1500
+  enchantment: 250
+  armor_rating: 40

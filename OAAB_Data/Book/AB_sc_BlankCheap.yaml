@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: AB_sc_BlankCheap
+name: Cheap Scroll
+script: ''
+mesh: OAAB\m\scrollCheap.nif
+icon: OAAB\m\scroll_cheap.tga
+enchanting: ''
+text: ''
+data:
+  weight: 0.2
+  value: 5
+  book_type: Scroll
+  skill: None
+  enchantment: 60

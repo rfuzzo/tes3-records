@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_Blotter
+name: Blotter
+script: ''
+mesh: OAAB\m\blotter.nif
+icon: OAAB\m\blotter.dds
+data:
+  weight: 1.0
+  value: 5
+  flags: ''

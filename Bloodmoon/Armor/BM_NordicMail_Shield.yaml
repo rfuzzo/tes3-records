@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: BM_NordicMail_Shield
+name: Nordic Mail Shield
+script: ''
+mesh: a\A_Nord_Shield.NIF
+icon: A\Nord_shield.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Shield
+  male_bodypart: bm_shield_nordicmail
+  female_bodypart: ''
+data:
+  armor_type: Shield
+  weight: 20.0
+  value: 1000
+  health: 500
+  enchantment: 100
+  armor_rating: 66

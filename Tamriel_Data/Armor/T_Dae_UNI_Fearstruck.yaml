@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Dae_UNI_Fearstruck
+name: Fearstruck
+script: ''
+mesh: tr\a\tr_a_fearstruck_uni.nif
+icon: tr\a\tr_a_fearstruck_uni.dds
+enchanting: T_Const_Fearstruck
+biped_objects:
+- biped_object_type: Shield
+  male_bodypart: T_A_DaeUNIFearstruck_01_S
+  female_bodypart: ''
+data:
+  armor_type: Shield
+  weight: 30.0
+  value: 250000
+  health: 2000
+  enchantment: 4000
+  armor_rating: 100

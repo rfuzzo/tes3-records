@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_ColBarrowPlatter_01
+name: Ancient Bronze Platter
+script: ''
+mesh: pc\m\pc_misc_cbar_platter.nif
+icon: pc\m\pc_misc_cbar_platter.dds
+data:
+  weight: 6.0
+  value: 30
+  flags: ''

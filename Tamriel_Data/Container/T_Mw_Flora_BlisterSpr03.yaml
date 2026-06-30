@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Mw_Flora_BlisterSpr03
+name: Blister Spore
+script: ''
+mesh: tr\o\tr_f_blisterspore_03.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 3
+  - T_Mw_Random_FlorBlisterSpore

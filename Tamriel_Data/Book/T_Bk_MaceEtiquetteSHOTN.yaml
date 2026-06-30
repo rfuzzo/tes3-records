@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_MaceEtiquetteSHOTN
+name: Mace Etiquette
+script: ''
+mesh: Sky\m\Sky_Book_Basic_02.nif
+icon: Sky\m\Tx_Book_Basic_02.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nMace Etiquette<BR><BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nWarriors sometimes make the mistake of thinking that there are no tactics with a mace. They assume that the sword is all about skill and the mace is only about strength and stamina. As a veteran instructor of mace tactics, I can tell you they are wrong.<BR>\r\n<BR>\r\nWielding a mace properly is all about timing and momentum. Once the swing of the mace has begun, stopping it or slowing it down is difficult. The fighter is committed to not just the blow, but also the recoil. Begin your strike when the opponent is leaning forward, hopefully off balance. It is completely predictable that he will lean backward, so aim for a point behind his head. By the time the mace gets there, his head will be in its path.<BR>\r\n<BR>\r\nThe mace should be held at the ready, shoulder high. The windup should not extend past the shoulders by more than a hand's width. When swinging, lead with the elbow. As the elbow passes the height of your collarbone, extend the forearm like a whip. The extra momentum will drive the mace faster and harder, causing far more damage.<BR>\r\n<BR>\r\nAt the moment of impact, let the wrist loosen. The mace will bounce and hurt a stiff wrist. Allow the recoil of the blow to drive the mace back into the ready position, thereby preparing the warrior for a quicker second strike.<BR>\r\n<BR>"
+data:
+  weight: 3.0
+  value: 125
+  book_type: Book
+  skill: BluntWeapon
+  enchantment: 0

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Sc_MoonsugarPoemTR
+name: Moonsugar Poem
+script: ''
+mesh: m\Text_Scroll_01.nif
+icon: m\Tx_scroll_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\">\r\nMoon sugar is nice<BR>\r\nMoon sugar is good<BR>\r\nI like moon sugar<BR>\r\nIt is good food<BR><BR>\r\nMoon sugar makes me happy<BR>\r\nMoon sugar makes me glad<BR>\r\nI like moon sugar<BR>\r\nNothing makes me sad<BR><BR>\r\nGood good moon sugar<BR>\r\nGood good good<BR>\r\nI like moon sugar<BR>\r\nIt is good food<BR><BR><FONT COLOR=\"AA0000\">\r\n[the rest is an illegible scribble, the only discernible words are \"scrapping\"]<BR>"
+data:
+  weight: 1.1
+  value: 5
+  book_type: Scroll
+  skill: None
+  enchantment: 0

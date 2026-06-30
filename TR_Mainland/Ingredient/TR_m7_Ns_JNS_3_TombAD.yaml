@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: TR_m7_Ns_JNS_3_TombAD
+name: Ashdew
+script: TR_m7_Ns_JNS_3_ScTombObjEnable
+mesh: tr\n\tr_ing_ashdew.nif
+icon: n\Tx_gravedust_01.tga
+data:
+  weight: 0.1
+  value: 50
+  effects:
+  - FortifyAttribute
+  - DrainAttribute
+  - DrainMagicka
+  - DrainFatigue
+  skills:
+  - Block
+  - Block
+  - None
+  - None
+  attributes:
+  - Agility
+  - Intelligence
+  - None
+  - None

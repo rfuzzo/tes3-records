@@ -1,0 +1,21 @@
+type: Container
+flags: ''
+id: couldron_cooked_daedra
+name: Large Iron Couldron
+script: ''
+mesh: o\contain_couldron10.nif
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - ingred_daedra_skin_01
+- - 1
+  - ingred_daedras_heart_01
+- - 1
+  - l_b_rings
+- - 1
+  - l_m_belts
+- - 1
+  - random_gem
+- - 1
+  - misc_skull00

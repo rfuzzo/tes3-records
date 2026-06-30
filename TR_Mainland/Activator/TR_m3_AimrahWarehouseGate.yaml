@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m3_AimrahWarehouseGate
+name: Iron Grate
+script: TR_m3_Aimrah_WareHCrank_Script
+mesh: TR\x\TR_ex_portcullis_01.nif

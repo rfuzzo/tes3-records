@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: TR_m2_corpse00Champion
+name: Corpse of a Champion
+script: ''
+mesh: o\contain_corpse00.NIF
+encumbrance: 120.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_De_UNI_ChampionRing
+- - 1
+  - expensive_amulet_01
+- - 1
+  - ingred_bonemeal_01

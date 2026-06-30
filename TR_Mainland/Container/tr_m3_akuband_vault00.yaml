@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: tr_m3_akuband_vault00
+name: Heavy Dwemer Chest
+script: ''
+mesh: o\contain_dwrv_chest00.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Mw_Random_WeaponsDwemer
+- - 3
+  - random_dwemer_armor
+- - 50
+  - random_dwemer_coins

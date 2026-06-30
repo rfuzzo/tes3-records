@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: active_port_hlor
+name: Hlormaren Propylon
+script: Warp_Hlor
+mesh: i\active_port_Hlor.NIF

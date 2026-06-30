@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_bk_SilverSerpentJournal
+name: Private Notebook
+script: ''
+mesh: m\Text_Octavo_07.nif
+icon: m\Tx_book_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>\r\n<DIV ALIGN=\"LEFT\">[ Most of the entries are normal boring ones, but a few of the interesting ones caught your eye ]<BR><BR>\r\n28th, Rain's Hand: Today is Jester's Day. Just as I expected, I received double the amount of the usual orders from The Den. I will have to fill up the back room and seal it just in case. Reminder: Increase price.<BR>\r\n<BR><BR>\r\n30th, Frostfall: The Emperor's birthday today. I should double my price if they decide to make sudden 'orders' like this again. Now where can I find 20 crates of moon sugar and get it back to The Red Den in a month?<BR>\r\nReminder: Double up the stock when these holidays arrive - just in case His Excellency decides to 'let his hair down' again.<BR>\r\n<BR><BR>\r\n20th, Sun's Dusk: Finally got the shipment delivered for today's Warrior's Day celebration at the Den. I am going to Iron-Grip's to see whether I can get a free weapon. And I have given Polanna a raise for finally finding a permanent source of the cargo for me.<BR>\r\n<BR><BR>\r\n21st, Sun's Dusk: Yes! The D has given me special dispensation to use this 'traveling' Inn as a cover for all my smuggling for her. Now I have an excuse to have this ship docked here as and when I want to. I must say, Polanna has done a very good job in 'twisting' the D's arm.... I wonder what else she twisted.<BR>\r\nNote: Give Polanna another raise.<BR>\r\n<BR><BR>\r\n16th, Sun's Dawn: In honor of the Lover's, I had to give my beds out for free. What a lovely Heart's Day it has been today.<BR>"
+data:
+  weight: 3.0
+  value: 275
+  book_type: Book
+  skill: None
+  enchantment: 0

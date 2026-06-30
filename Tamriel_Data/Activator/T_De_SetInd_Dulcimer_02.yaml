@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_De_SetInd_Dulcimer_02
+name: Indoril Dulcimer
+script: T_ScObj_IndorilDulcimer1
+mesh: tr\f\tr_act_ind_dulcimer_02.nif

@@ -1,0 +1,20 @@
+type: Alchemy
+flags: ''
+id: p_fortify_strength_e
+name: Exclusive Fortify Strength
+script: ''
+mesh: m\Misc_Potion_Exclusive_01.nif
+icon: m\Tx_potion_exclusive_01.tga
+effects:
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Strength
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 20
+  max_magnitude: 20
+data:
+  weight: 0.25
+  value: 175
+  flags: ''

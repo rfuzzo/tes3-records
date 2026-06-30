@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_FM_Act_Fix8WallC
+name: ''
+script: TR_FM_Stage8Perm_sc
+mesh: x\Ex_imp_wall_corner_01.nif

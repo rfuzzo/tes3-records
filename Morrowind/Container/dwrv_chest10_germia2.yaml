@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: dwrv_chest10_germia2
+name: Ornate Dwemer Chest
+script: ''
+mesh: o\contain_dwrv_chest10.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 150
+  - Gold_001

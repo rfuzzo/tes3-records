@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_i3-722_bk_cookie_recipe
+name: Biscuit Recipe
+script: ''
+mesh: m\Text_Parchment_02.nif
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nOne dozen Biscuits<BR>\r\n<BR>\r\n-Three scoops of whickwheat flour\r\n<BR>\r\n-One scoop of sugar\r\n<BR>\r\n-One handful of Holly Berries\r\n<BR>\r\n-Two Kwama Eggs\r\n<BR>\r\n-A pinch of Willow Anther\r\n<BR>\r\n<BR>\r\n\r\nEnjoy!<BR>\r\n<BR>\r\n"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

@@ -1,0 +1,235 @@
+type: Container
+flags: ''
+id: test_crate_all_weapons
+name: Large Chest of weapons
+script: ''
+mesh: o\Contain_chest_large_01.NIF
+encumbrance: 0.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - iron arrow
+- - 1
+  - daedric dart
+- - 1
+  - ebony dart
+- - 1
+  - silver dart
+- - 1
+  - steel dart
+- - 1
+  - glass throwing knife
+- - 1
+  - iron throwing knife
+- - 1
+  - steel throwing knife
+- - 1
+  - chitin throwing star
+- - 1
+  - ebony throwing star
+- - 1
+  - glass throwing star
+- - 1
+  - silver throwing star
+- - 1
+  - steel throwing star
+- - 1
+  - dwarven crossbow
+- - 1
+  - steel crossbow
+- - 1
+  - daedric long bow
+- - 1
+  - long bow
+- - 1
+  - chitin short bow
+- - 1
+  - short bow
+- - 1
+  - bonemold long bow
+- - 1
+  - daedric battle axe
+- - 1
+  - dwarven battle axe
+- - 1
+  - iron battle axe
+- - 1
+  - nordic battle axe
+- - 1
+  - chitin war axe
+- - 1
+  - daedric war axe
+- - 1
+  - dwarven war axe
+- - 1
+  - ebony war axe
+- - 1
+  - glass war axe
+- - 1
+  - iron war axe
+- - 1
+  - silver war axe
+- - 1
+  - steel axe
+- - 1
+  - steel war axe
+- - 1
+  - dwarven halberd
+- - 1
+  - glass halberd
+- - 1
+  - iron halberd
+- - 1
+  - steel halberd
+- - 1
+  - chitin spear
+- - 1
+  - daedric spear
+- - 1
+  - dwarven spear
+- - 1
+  - ebony spear
+- - 1
+  - Iron Long Spear
+- - 1
+  - iron spear
+- - 1
+  - silver spear
+- - 1
+  - steel spear
+- - 1
+  - daedric staff
+- - 1
+  - dreugh staff
+- - 1
+  - ebony staff
+- - 1
+  - glass staff
+- - 1
+  - silver staff
+- - 1
+  - steel staff
+- - 1
+  - wooden staff
+- - 1
+  - daedric warhammer
+- - 1
+  - dwarven warhammer
+- - 1
+  - iron warhammer
+- - 1
+  - orcish warhammer
+- - 1
+  - steel warhammer
+- - 1
+  - daedric mace
+- - 1
+  - dwarven mace
+- - 1
+  - ebony mace
+- - 1
+  - iron mace
+- - 1
+  - steel mace
+- - 1
+  - chitin club
+- - 1
+  - daedric club
+- - 1
+  - dreugh club
+- - 1
+  - iron club
+- - 1
+  - spiked club
+- - 1
+  - steel club
+- - 1
+  - daedric dai-katana
+- - 1
+  - steel dai-katana
+- - 1
+  - daedric claymore
+- - 1
+  - dwarven claymore
+- - 1
+  - glass claymore
+- - 1
+  - iron claymore
+- - 1
+  - nordic claymore
+- - 1
+  - silver claymore
+- - 1
+  - steel claymore
+- - 1
+  - daedric katana
+- - 1
+  - steel katana
+- - 1
+  - daedric longsword
+- - 1
+  - ebony longsword
+- - 1
+  - glass longsword
+- - 1
+  - iron longsword
+- - 1
+  - silver longsword
+- - 1
+  - steel longsword
+- - 1
+  - iron saber
+- - 1
+  - steel saber
+- - 1
+  - ebony broadsword
+- - 1
+  - imperial broadsword
+- - 1
+  - iron broadsword
+- - 1
+  - nordic broadsword
+- - 1
+  - steel broadsword
+- - 1
+  - daedric wakizashi
+- - 1
+  - iron wakizashi
+- - 1
+  - steel wakizashi
+- - 1
+  - chitin shortsword
+- - 1
+  - daedric shortsword
+- - 1
+  - dwarven shortsword
+- - 1
+  - ebony shortsword
+- - 1
+  - imperial shortsword
+- - 1
+  - iron shortsword
+- - 1
+  - silver shortsword
+- - 1
+  - steel shortsword
+- - 1
+  - daedric tanto
+- - 1
+  - iron tanto
+- - 1
+  - steel tanto
+- - 1
+  - chitin dagger
+- - 1
+  - daedric dagger
+- - 1
+  - glass dagger
+- - 1
+  - iron dagger
+- - 1
+  - silver dagger
+- - 1
+  - steel dagger
+- - 1000
+  - Gold_001

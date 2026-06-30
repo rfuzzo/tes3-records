@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m1_PT_Redram_Reward_Ring
+name: Inera's Ring of Shaming Silence
+script: ''
+mesh: c\C_Ring_extravagant_2.NIF
+icon: c\tx_ring_extravagant02.tga
+enchanting: TR_m1_PT_Redram_Reward_Enchant
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 645
+  enchantment: 600

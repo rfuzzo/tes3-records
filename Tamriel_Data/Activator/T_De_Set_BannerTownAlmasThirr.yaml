@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_De_Set_BannerTownAlmasThirr
+name: Almas Thirr
+script: OutsideBanner
+mesh: tr\f\tr_banner_almasT.nif

@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_FM_Stage3_Crate
+name: Crate
+script: TR_FM_Stage3Perm_sc
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Mw_Random_Pos

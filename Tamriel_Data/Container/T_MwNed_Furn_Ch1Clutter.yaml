@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_MwNed_Furn_Ch1Clutter
+name: Nedic Chest
+script: ''
+mesh: tr\o\tr_nedic_chest_01.nif
+encumbrance: 175.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - T_MwNed_Random_Clutter

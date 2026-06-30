@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_FW_College_Vaynth
+name: Duchess Vaynth
+script: ''
+mesh: m\text_parchment_01.nif
+icon: m\tx_parchment_01.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nDuchess Bredami Vaynth<BR> <BR>\r\n<DIV ALIGN=\"LEFT\">\r\nDuchess of Firewatch since 364, Bredami Vaynth chartered the College of Firewatch in 379 as part of a broader effort to develop the city beyond its traditional military role. Though she lived to see the completion of the College by 387, Duchess Vaynth was tragically killed in 398 attempting to retake Nivalis from the forces of the Tharnite conspirator  Casik of Ebonheart.<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

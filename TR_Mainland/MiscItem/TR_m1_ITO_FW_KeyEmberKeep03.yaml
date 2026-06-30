@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m1_ITO_FW_KeyEmberKeep03
+name: Ember Keep Staff Key
+script: ''
+mesh: TR\m\TR_Key_DD20.NIF
+icon: TR\m\tr_key_dd20.dds
+data:
+  weight: 0.0
+  value: 5
+  flags: KEY

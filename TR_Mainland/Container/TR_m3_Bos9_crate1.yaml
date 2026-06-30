@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: TR_m3_Bos9_crate1
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - misc_imp_silverware_plate_01
+- - 1
+  - misc_imp_silverware_plate_02
+- - 1
+  - misc_imp_silverware_plate_03
+- - 1
+  - misc_lw_cup

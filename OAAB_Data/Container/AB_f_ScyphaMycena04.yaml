@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: AB_f_ScyphaMycena04
+name: Scypha Mycena
+script: ''
+mesh: OAAB\f\mush_scypha_04.nif
+encumbrance: 0.0
+container_flags: ORGANIC | IS_BASE
+inventory:
+- - 2
+  - AB_lvl_ScyphaCaps

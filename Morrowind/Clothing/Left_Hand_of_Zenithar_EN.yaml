@@ -1,0 +1,20 @@
+type: Clothing
+flags: ''
+id: Left_Hand_of_Zenithar_EN
+name: Left Hand of Zenithar
+script: ''
+mesh: c\C_glove_expensive1_GND.NIF
+icon: c\tx_glove_expensive1.tga
+enchanting: Left Hand of Zenithar_EN
+biped_objects:
+- biped_object_type: LeftHand
+  male_bodypart: c_glove_expensive1
+  female_bodypart: ''
+- biped_object_type: LeftWrist
+  male_bodypart: ''
+  female_bodypart: ''
+data:
+  clothing_type: LeftGlove
+  weight: 1.0
+  value: 100
+  enchantment: 50

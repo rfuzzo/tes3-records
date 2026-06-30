@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Vam_UNI_AmuletBats
+name: Amulet of Bats
+script: ''
+mesh: hr\c\hr_c_amulet_bats.nif
+icon: hr\c\hr_c_amulet_bats.dds
+enchanting: T_Const_AmuletBats
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 10000
+  enchantment: 0

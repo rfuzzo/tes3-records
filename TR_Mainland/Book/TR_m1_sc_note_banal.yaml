@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_sc_note_banal
+name: In Memoriam
+script: ''
+mesh: m\Text_Note_02.nif
+icon: m\Tx_note_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nFor a friend<BR>\r\n<BR>\r\nWith his trusty lute<BR>\r\n<BR>\r\nMay he play on beautifully in death<BR>\r\n<BR>\r\nAs in life<BR>\r\n"
+data:
+  weight: 0.1
+  value: 10
+  book_type: Scroll
+  skill: None
+  enchantment: 100

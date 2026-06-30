@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: AB_bk_AetherialEphemeris
+name: Aetherial Ephemeris
+script: ''
+mesh: OAAB\m\ab_folio_02.nif
+icon: OAAB\m\ab_folio_02_c.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>THE AETHERIAL EPHEMERIS AND ASTROLOGICAL ALMANAC<BR>\r\nPublished by the Guild of Astrologers<BR>\r\n<BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\n\r\n[A technical manual containing reference data calculated by the Guild of Astrologers for the convenience of mariners, surveyors, mages, scholars, and travelers of all kinds.\r\n<BR>\r\nIt provides detailed tables recording the positions of various important aetherial bodies at regular intervals of date and time, as well as any eclipses, occultations, or other noteworthy phenomena. Additional tables show the Guild's predicted trajectories for each object of interest. \r\n<BR>\r\nCelestial bodies covered by the almanac include Masser, Secunda, the Thirteen Patrons, and an array of other natural and artificial astronomical objects. \r\n<BR>\r\nAs the constellation of The Serpent is not predictable in its path, choosing as it does to threaten the other constellations rather than following its own ordained path, detailed instructions are given on how to record and observe the unpredictable movements of the Serpent constellation with whatever equipment is at hand, allowing a prudent navigator to avoid ill-omened headings.\r\n<BR>\r\nThis copy includes tide tables and phase readings for Masser and Secunda relevant to the Guild office that printed it.]\r\n<BR><BR>"
+data:
+  weight: 2.0
+  value: 20
+  book_type: Book
+  skill: None
+  enchantment: 0

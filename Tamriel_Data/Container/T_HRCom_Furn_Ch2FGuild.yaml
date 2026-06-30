@@ -1,0 +1,25 @@
+type: Container
+flags: ''
+id: T_HRCom_Furn_Ch2FGuild
+name: Fighters' Guild Equipment Chest
+script: ''
+mesh: o\contain_com_chest_02.nif
+encumbrance: 300.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 10
+  - hammer_repair
+- - 100
+  - iron arrow
+- - 100
+  - iron bolt
+- - 3
+  - p_fortify_health_s
+- - 10
+  - p_restore_fatigue_s
+- - 10
+  - p_restore_health_c
+- - 5
+  - p_restore_health_s
+- - 2
+  - repair_journeyman_01

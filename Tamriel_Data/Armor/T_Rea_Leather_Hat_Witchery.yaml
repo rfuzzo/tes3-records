@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Rea_Leather_Hat_Witchery
+name: Reachmen Cap of Witchery
+script: ''
+mesh: Sky\a\Sky_A_RM_HT_01_GND.nif
+icon: Sky\a\Sky_RM_Hat_01.dds
+enchanting: T_Use_ReachWitchery
+biped_objects:
+- biped_object_type: Hair
+  male_bodypart: T_A_ReaLeatherHat01_Hr
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 2.0
+  value: 60
+  health: 70
+  enchantment: 75
+  armor_rating: 7

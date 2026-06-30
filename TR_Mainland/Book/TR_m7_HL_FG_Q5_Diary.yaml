@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_HL_FG_Q5_Diary
+name: A Sailor's Diary
+script: ''
+mesh: TR\m\TR_book_closed_i06_AY.nif
+icon: TR\m\TR_book_closed_i06_AY.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n... <BR>\r\n<BR>\r\n2 Last Seed, 427<BR>\r\n<BR>\r\nFinally got assigned to the new job by the boss. Shipping goods to Narsis... not the worst option one can receive, considering those unlucky whose careers in the House are limited to filling ledgers and licking the boss' boots.<BR>\r\n<BR>\r\nStrange name he chose for the ship, though: The 'Dread Minotaur'. Something from his early days at the Narsis Arena, I've been told. A beast he's slain. A creature from the West. One of those bizarre insects from Cyrodiil they deliver via the Purple Road, I presume. They all seemed odd to me, so distinct from native shalk and yeth-grubs.<BR>\r\n<BR>"
+data:
+  weight: 2.0
+  value: 40
+  book_type: Book
+  skill: None
+  enchantment: 0

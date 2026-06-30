@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_HO_Lost_Act
+name: ''
+script: TR_M7_HO_Lost_Sc
+mesh: EditorMarker.NIF

@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: TR_m3_q_DolynNote
+name: Syvvit Tong Denunciation
+script: ''
+mesh: m\Text_Parchment_02.nif
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nI, Dolyn Volor, formally renounce my membership to the treacherous Syvvit Tong. The organization has been irrecoverably corrupted by Hlaalu collaborators, and, in my opinion, should be excised from Vhul.\r\n<BR>\r\n[The note goes on to accuse many Syvvit Tong members of being involved in a conspiracy to destabilize Indoril-controlled territory by funding assassins, agents, and even slave uprisings.]\r\n<BR>\r\n[The names of those accused are: Dratas Llothin, Ienasa Llothil, Onvos Dovyn, Seran Dreth, and Vellerin Dreth.]\r\n<BR>\r\n<BR>"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

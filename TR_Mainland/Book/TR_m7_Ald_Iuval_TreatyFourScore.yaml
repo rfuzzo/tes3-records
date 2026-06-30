@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_Ald_Iuval_TreatyFourScore
+name: Treaty of the Four Score War
+script: ''
+mesh: TR\m\TR_note_a04.nif
+icon: TR\m\tr_note_a04.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nIn the name of the Empire of Cyrodiil most holy and undivided;<BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nIt having pleased the prudence of the Gods to dispose the hearts of the most serene and most potent Prince Juilek Cyrodiil, son of Reman III, by the grace of the Gods Prince of the Empire of Cyrodiil, representative of the Empire of Cyrodiil; of Almalexia, Sotha Sil and Vivec, of the Tribunal Temple, and of Indoril Brindisi Dorom, Duke-Prince of Mournhold, representatives of the Nation of Resdayn; <BR>\r\n<BR>\r\nto forget all past misunderstandings and differences that have these past four score years unhappily interrupted the good correspondence and friendship, which they mutually wish to restore, and to establish such a beneficial and satisfactory intercourse between the two great nations upon the ground of reciprocal advantages and mutual convenience as may promote and secure to both perpetual peace and harmony; and having for this desirable end already laid the foundation of peace and reconciliation by the commissioners empowered on each part. <BR> \r\n<BR>\r\nThe Empire of Cyrodiil and the Nation of Resdayn who, having reciprocally communicated their respective full powers through the commissioners empowered on each part, have agreed upon and confirmed to carry into full effect the Treaty above mentioned; the articles of which are agreed to be inserted in and constitute the proposed Treaty of Peace and are to be concluded in good and due form when possible.<BR> \r\n<BR>\r\nIt is agreed that the solemn ratifications of the present treaty expedited in good and due form shall be exchanged between the contracting parties; and it is agreed that all persons who have any interest in confiscated lands, either by debts, marriage settlements, or otherwise, shall meet with no lawful impediment in the prosecution of their just rights.<BR> \r\n<BR>\r\nIn witness whereof we the undersigned, have in our name and in virtue of our full powers, signed with our hands the present definitive Treaty of Peace and caused the Seal of Cyrodiil to be affixed thereto here at Ferventhil, Resdayn, this nineteenth day of Last Seed in the year two thousand nine hundred and twenty.<BR> \r\n<BR>"
+data:
+  weight: 1.0
+  value: 3400
+  book_type: Scroll
+  skill: None
+  enchantment: 100

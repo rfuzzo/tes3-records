@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m4_key_DreynosHelviHouse
+name: Dreynos Helvi's Key
+script: ''
+mesh: tr\m\tr_key_dd12.nif
+icon: tr\m\tr_key_dd12.dds
+data:
+  weight: 0.0
+  value: 75
+  flags: KEY

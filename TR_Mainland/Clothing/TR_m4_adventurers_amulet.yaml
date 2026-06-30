@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m4_adventurers_amulet
+name: Adventurer's Amulet
+script: ''
+mesh: c\Amulet_Common_1.NIF
+icon: c\tx_amulet_com1.tga
+enchanting: TR_m4_adventurers_amulet_en
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 100
+  enchantment: 0

@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: TR_m4_AndoG_chest1
+name: Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - TR_m4_AndoG_Clerk3
+- - 2
+  - TR_m4_AndoG_LawDesposition
+- - 2
+  - TR_m4_AndoG_LawVerdicts
+- - 3
+  - TR_m4_AndoG_LawVerdicts2

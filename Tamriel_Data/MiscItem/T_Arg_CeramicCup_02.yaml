@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Arg_CeramicCup_02
+name: Ceramic Cup
+script: ''
+mesh: bm\m\bm_cer_cup_02.nif
+icon: bm\m\bm_misc_cup_02.dds
+data:
+  weight: 1.0
+  value: 1
+  flags: ''

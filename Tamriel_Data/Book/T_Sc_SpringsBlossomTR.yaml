@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Sc_SpringsBlossomTR
+name: Spring's Blossom
+script: ''
+mesh: m\Text_Scroll_01.nif
+icon: m\Tx_scroll_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nSpring's Blossom<BR>\r\nHoratio Gargonath<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\">\r\nAs the honey bee buzzes laz'ly by,<BR>\r\nand the swallow-tail hovers in blue sky.<BR><BR>\r\nThe flow'ring blossom blooming in the shrouds,<BR>\r\nAgainst the cool covering of the clouds.<BR><BR>\r\nWhere all beetles seemeth lazy, and weak,<BR>\r\nAnd the fragrant wind bloweth on thy cheek.<BR><BR>\r\nThe vivid colors showing in thine eyes,<BR>\r\nAppearing 'gainst a rainbow that ne'er dies.<BR><BR>\r\nHere in the midst of these wonderful things,<BR>\r\nIt is nature's grand welcoming to spring. <BR>"
+data:
+  weight: 1.1
+  value: 50
+  book_type: Scroll
+  skill: None
+  enchantment: 0

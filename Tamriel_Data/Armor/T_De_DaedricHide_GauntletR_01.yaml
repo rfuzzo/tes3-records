@@ -1,0 +1,22 @@
+type: Armor
+flags: ''
+id: T_De_DaedricHide_GauntletR_01
+name: Daedric Hide Right Gauntlet
+script: ''
+mesh: tr\a\tr_a_dae_hide_glv_gnd.nif
+icon: TR\a\tr_a_daehide_glove_r.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: RightHand
+  male_bodypart: T_A_DeDaedricHideGaunt01_Ha
+  female_bodypart: ''
+- biped_object_type: RightWrist
+  male_bodypart: T_A_DeDaedricHideBracer01_W
+  female_bodypart: ''
+data:
+  armor_type: RightGauntlet
+  weight: 2.0
+  value: 2000
+  health: 600
+  enchantment: 40
+  armor_rating: 25

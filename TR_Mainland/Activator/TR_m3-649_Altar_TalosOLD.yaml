@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3-649_Altar_TalosOLD
+name: Altar of Talos
+script: TR_m3-649_TalosScript
+mesh: x\ex_imp_mooring_01.nif

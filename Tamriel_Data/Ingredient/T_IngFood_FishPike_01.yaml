@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_FishPike_01
+name: Pike Meat
+script: ''
+mesh: Sky\n\Sky_Ingred_Meat_PK_01.nif
+icon: Sky\n\Tx_Ingred_Meat_PK_01.dds
+data:
+  weight: 1.0
+  value: 2
+  effects:
+  - RestoreFatigue
+  - RestoreAttribute
+  - None
+  - None
+  skills:
+  - None
+  - Block
+  - None
+  - None
+  attributes:
+  - None
+  - Strength
+  - None
+  - None

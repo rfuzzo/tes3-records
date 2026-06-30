@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: TR_i2_6_smallchest_food
+name: Small Chest
+script: ''
+mesh: o\Contain_chest_small_01.NIF
+encumbrance: 25.0
+container_flags: IS_BASE
+inventory:
+- - -1
+  - ingred_crab_meat_01
+- - -3
+  - ingred_hound_meat_01
+- - -4
+  - ingred_saltrice_01

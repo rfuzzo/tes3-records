@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_scamp_skin_01
+name: Scamp Skin
+script: ''
+mesh: n\Ingred_Scamp_Skin_01.nif
+icon: n\Tx_scamp_skin_01.tga
+data:
+  weight: 0.1
+  value: 10
+  effects:
+  - DrainMagicka
+  - CureParalyzation
+  - RestoreAttribute
+  - RestoreAttribute
+  skills:
+  - Block
+  - Block
+  - Block
+  - Block
+  attributes:
+  - Strength
+  - Strength
+  - Personality
+  - Strength

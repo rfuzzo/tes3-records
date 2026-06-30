@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_RedemptionTR_V4
+name: Redemption Volume IV
+script: ''
+mesh: TR\m\TR_book_closed_i05_AY.nif
+icon: TR\m\TR_book_closed_i05_AY.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nRedemption Volume IV <BR>\r\nUnknown <BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nHe spent the day praying to Mara, pleading for her to make him whole again and to rid him of the nightmares that separated him from her. But instead of the waves of serenity that usually came to him during prayer, he heard only silence.<BR>\r\n<BR>\r\nOn the third night, the visions came to him once more. But this time as the light of the moon shone down upon him, he felt a prickling sensation start to overcome him. He convulsed in pain as he long claws burst out from under his fingernails. He felt the indescribable agony of his bones warping and taking on a new shape. His stringy and frail muscles swelled and he felt new strength in his limbs. He looked at his hands and saw that his wrinkled hands had been replaced by the terrible hairy claws of a monster. He drew breath to find that new scents were coming to him from all sides, providing him with a wealth of sensory information. He was shocked to see a long bushy tail protruding from behind him.<BR>\r\n<BR>\r\nHe took a step only to find that he instead of his usual slow and deliberate movements; he was instinctively running across the floor. He ran out of the door, frightened by his new form and new-found strength.\r\nHe ran silently through the night, unseen and unnoticed.<BR>\r\n<BR>\r\nHe reached the shelter of the forest's darkness, and there he spent the night, alone with his new form and the strange lust for something indescribable that welled up inside him.<BR>\r\n<BR>\r\nThe next morning he awoke to find the body was returned to itself, and he felt the chill of the morning on his bare skin. He checked the wounds on his arm only to find that the gashes were gone and his arm was whole once more. This was not healing energy of Mara that had done this; her absence still tore at his soul.<BR>"
+data:
+  weight: 1.5
+  value: 40
+  book_type: Book
+  skill: None
+  enchantment: 100

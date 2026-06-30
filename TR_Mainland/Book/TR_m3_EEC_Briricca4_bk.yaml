@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: TR_m3_EEC_Briricca4_bk
+name: Cano's Briricca Report
+script: ''
+mesh: m\Text_Quarto_04.nif
+icon: m\Tx_quarto_04.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This report, written by the East Empire Company for the Briricca Private Bank, requests an extension on a loan into the next financial period.]<BR><BR>\r\n"
+data:
+  weight: 1.0
+  value: 5
+  book_type: Book
+  skill: None
+  enchantment: 0

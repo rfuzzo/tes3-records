@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_De_Chitin_Crossbow
+name: Chitin Crossbow
+script: ''
+mesh: tr\w\tr_w_chitin_crossbow.nif
+icon: tr\w\tr_w_chitin_crossbow.dds
+enchanting: ''
+data:
+  weight: 9.0
+  value: 140
+  weapon_type: MarksmanCrossbow
+  health: 450
+  speed: 1.0
+  reach: 1.0
+  enchantment: 45
+  chop_min: 15
+  chop_max: 15
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: ''

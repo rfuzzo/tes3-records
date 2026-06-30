@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Glb_Sound_Wind_Chthonic
+name: 'Sound Effect: Chthonic Wind'
+script: T_ScSound_WindChthonic
+mesh: EditorMarker.NIF

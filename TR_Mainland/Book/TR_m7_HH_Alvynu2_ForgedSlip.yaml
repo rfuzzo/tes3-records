@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_HH_Alvynu2_ForgedSlip
+name: Forged Pay Slip
+script: ''
+mesh: m\Text_Parchment_02.nif
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n[On the page is an orderly collage of boxes and ledger lines enclosing countless spaces filled with surprisingly large numbers. At the bottom it is marked, 'Pay to: Sa'Ravi'.] <BR>"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

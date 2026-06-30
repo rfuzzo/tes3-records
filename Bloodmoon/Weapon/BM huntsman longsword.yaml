@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: BM huntsman longsword
+name: Huntsman Longsword
+script: ''
+mesh: w\W_Huntsman_longsword.NIF
+icon: w\Huntsman_longsword.dds
+enchanting: ''
+data:
+  weight: 18.0
+  value: 500
+  weapon_type: LongBladeOneHand
+  health: 800
+  speed: 1.35
+  reach: 1.0
+  enchantment: 50
+  chop_min: 1
+  chop_max: 15
+  slash_min: 1
+  slash_max: 18
+  thrust_min: 1
+  thrust_max: 15
+  flags: ''

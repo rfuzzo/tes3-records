@@ -1,0 +1,25 @@
+type: Armor
+flags: ''
+id: TR_m7_Ns_IL_7_PauldronR
+name: Right Shoulder of Might
+script: ''
+mesh: tr\a\tr_a_impgold_pld_gnd.nif
+icon: tr\a\tr_a_impgold_pauldron.dds
+enchanting: TR_m7_Ns_IL_7_Ench
+biped_objects:
+- biped_object_type: RightPauldron
+  male_bodypart: T_A_ImpGoldPauldron02_CL
+  female_bodypart: ''
+- biped_object_type: RightUpperArm
+  male_bodypart: T_A_ImpGoldPauldron02_UA
+  female_bodypart: ''
+- biped_object_type: RightForearm
+  male_bodypart: T_A_ImpGoldPauldron02_FA
+  female_bodypart: ''
+data:
+  armor_type: RightPauldron
+  weight: 10.0
+  value: 320
+  health: 170
+  enchantment: 1600
+  armor_rating: 18

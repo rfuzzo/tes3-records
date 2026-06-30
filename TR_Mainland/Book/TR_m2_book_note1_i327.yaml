@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2_book_note1_i327
+name: Note
+script: ''
+mesh: m\Text_Parchment_02.NIF
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nLive One,<BR>\r\nSo you yet live! Very good, let our summoning game continue. Prove you are worthy of House Telvanni, and you may yet return with the prize. If you should falter...well then you'll join me for all eternity! What larks we'll have!<BR>\r\n<BR>\r\nNow any fool can cast a spell and summon a monster, but a Telvanni fool must know his daedra and know them well. So, live one, step up to the platform and call forth your minion. Pray that it is the right one, if you must, but know that it will do no good.<BR>\r\n<BR>\r\nSo which is the right and which the wrong, you ask? A servant of the one who instructed the Pilgrim in ages past is what you must bring. A rare enough daedra to be sure, but a worthy test of a true Telvanni lord in the making!<BR>\r\n<BR>\r\n-Llevran Vaerin<BR>\r\n<BR>"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

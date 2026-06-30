@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: TR_m2_Chest_Treasure
+name: Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 537
+  - Gold_001
+- - 1
+  - Misc_Quill
+- - 1
+  - TR_m2_w_Harul_Saber

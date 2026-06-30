@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3-270-Imp_sc_Note3
+name: Note from Gnaea
+script: ''
+mesh: m\Text_Note_02.nif
+icon: m\Tx_note_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nMarsh-Demon-At-Her-Elbow, <br> <br>\r\nI thought you might want to read this book by Llerns Teisen. Worst piece of Dark Elven propaganda I've ever seen. We need to write and publish a rebuttal when we've got the time. <br> <br>\r\n--Gnaea <br>"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

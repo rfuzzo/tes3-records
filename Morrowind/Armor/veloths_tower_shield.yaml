@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: veloths_tower_shield
+name: Veloth's Tower Shield
+script: ''
+mesh: a\TowerShield_Netch_leather.NIF
+icon: a\Tx_Towershield_Netch.tga
+enchanting: veloth's benison_en
+biped_objects:
+- biped_object_type: Shield
+  male_bodypart: towershield_netch_leather
+  female_bodypart: ''
+data:
+  armor_type: Shield
+  weight: 9.0
+  value: 150
+  health: 100
+  enchantment: 225
+  armor_rating: 12

@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: Com_Chest_11_moonsugar
+name: Worn Chest
+script: ''
+mesh: o\contain_chest10.nif
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - 13
+  - ingred_moon_sugar_01
+- - 1
+  - misc_com_bottle_13
+- - 1
+  - misc_de_bowl_01
+- - 1
+  - misc_flask_04

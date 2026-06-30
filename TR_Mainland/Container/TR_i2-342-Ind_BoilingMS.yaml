@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_i2-342-Ind_BoilingMS
+name: Pot
+script: ''
+mesh: o\Contain_pot_01.NIF
+encumbrance: 10.0
+container_flags: IS_BASE
+inventory:
+- - 10
+  - ingred_moon_sugar_01

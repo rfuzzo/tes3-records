@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_CyrImp_FurnM_Cl2Empty
+name: Closet
+script: ''
+mesh: pc\o\pc_furn_com_closet_02.nif
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Glb_Empty

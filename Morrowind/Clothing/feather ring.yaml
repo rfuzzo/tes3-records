@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: feather ring
+name: Feather Ring
+script: ''
+mesh: c\C_Ring_expensive_2.NIF
+icon: c\tx_ring_expensive02.tga
+enchanting: feather_en
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 75
+  enchantment: 150

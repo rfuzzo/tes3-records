@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Nor_Sabrecat_Helm_01
+name: Saber Cat Helmet
+script: ''
+mesh: Sky\a\Sky_A_SC_Helm_01.nif
+icon: Sky\a\Tx_SC_Helm_01.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Hair
+  male_bodypart: T_A_NorSabrecatHelm01_Hr
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 4.0
+  value: 80
+  health: 120
+  enchantment: 30
+  armor_rating: 16

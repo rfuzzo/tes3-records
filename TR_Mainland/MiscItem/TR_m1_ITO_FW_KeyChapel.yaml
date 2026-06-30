@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m1_ITO_FW_KeyChapel
+name: Tarom's Key
+script: ''
+mesh: TR\m\TR_Key_DD09.NIF
+icon: TR\m\TR_Key_DD09.dds
+data:
+  weight: 0.0
+  value: 125
+  flags: KEY

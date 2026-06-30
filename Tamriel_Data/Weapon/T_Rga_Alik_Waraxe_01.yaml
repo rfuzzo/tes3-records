@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Rga_Alik_Waraxe_01
+name: Alik'r War Axe
+script: ''
+mesh: pc\w\pc_rga_alik_axe_01.nif
+icon: pc\w\pc_rga_alik_axe_01.dds
+enchanting: ''
+data:
+  weight: 20.0
+  value: 60
+  weapon_type: AxeOneHand
+  health: 1200
+  speed: 1.25
+  reach: 1.0
+  enchantment: 55
+  chop_min: 1
+  chop_max: 20
+  slash_min: 1
+  slash_max: 11
+  thrust_min: 1
+  thrust_max: 3
+  flags: ''

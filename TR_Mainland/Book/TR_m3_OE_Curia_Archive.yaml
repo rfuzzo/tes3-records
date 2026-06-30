@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_OE_Curia_Archive
+name: Morrowind Provincial Archives
+script: ''
+mesh: Sky\m\Sky_Book_Saga_03.nif
+icon: Sky\m\Tx_Book_Saga_03.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This heavy tome is a record of Imperial administration in Morrowind Province.]<BR>\r\n<BR>"
+data:
+  weight: 3.0
+  value: 50
+  book_type: Book
+  skill: None
+  enchantment: 0

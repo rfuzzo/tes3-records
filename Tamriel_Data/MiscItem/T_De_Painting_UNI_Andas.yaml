@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_Painting_UNI_Andas
+name: Sathasa and Tholer
+script: ''
+mesh: tr\m\TR_M_Painting_Andas.nif
+icon: tr\m\TR_M_Painting_Andas.dds
+data:
+  weight: 9.0
+  value: 1300
+  flags: ''

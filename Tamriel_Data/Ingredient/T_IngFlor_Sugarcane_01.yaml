@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_Sugarcane_01
+name: Sweetgrass Stem
+script: ''
+mesh: EPoS\n\plt_sugarcane_01.nif
+icon: epos\n\epos_sugarcane_01.dds
+data:
+  weight: 0.2
+  value: 2
+  effects:
+  - FortifyAttribute
+  - DrainAttribute
+  - DrainAttribute
+  - None
+  skills:
+  - Block
+  - Block
+  - Block
+  - None
+  attributes:
+  - Speed
+  - Endurance
+  - Luck
+  - None

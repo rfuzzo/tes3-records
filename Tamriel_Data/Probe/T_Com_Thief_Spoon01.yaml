@@ -1,0 +1,12 @@
+type: Probe
+flags: ''
+id: T_Com_Thief_Spoon01
+name: Thief's Probe Spoon
+script: ''
+mesh: tr\m\tr_misc_thief_spoon.nif
+icon: tr\m\tr_misc_thief_spoon.dds
+data:
+  weight: 0.25
+  value: 50
+  quality: 0.8
+  uses: 25

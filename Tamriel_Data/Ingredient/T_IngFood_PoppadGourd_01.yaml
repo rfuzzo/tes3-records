@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_PoppadGourd_01
+name: Poppad Gourd
+script: ''
+mesh: pc\n\pc_ing_poppad_01.nif
+icon: pc\n\pc_tx_ingred_poppad.dds
+data:
+  weight: 5.0
+  value: 2
+  effects:
+  - RestoreFatigue
+  - DrainAttribute
+  - DamageAttribute
+  - None
+  skills:
+  - None
+  - Block
+  - Block
+  - None
+  attributes:
+  - None
+  - Agility
+  - Personality
+  - None

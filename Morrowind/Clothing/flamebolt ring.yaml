@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: flamebolt ring
+name: Flamebolt Ring
+script: ''
+mesh: c\C_Ring_common04.NIF
+icon: c\tx_ring_common04.tga
+enchanting: flamebolt_enu
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 5
+  enchantment: 10

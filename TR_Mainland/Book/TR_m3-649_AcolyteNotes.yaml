@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3-649_AcolyteNotes
+name: Acolyte's Notes on Lesson 29
+script: ''
+mesh: m\Text_Parchment_01.NIF
+icon: m\Tx_parchment_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[These are the writings of an Imperial Cult priest trying to make sense of Sermon Twenty-Nine. Judging by the bewildered scribblings, they're not making much progress.]<BR>\r\n<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

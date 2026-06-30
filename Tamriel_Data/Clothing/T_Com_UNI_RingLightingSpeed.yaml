@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Com_UNI_RingLightingSpeed
+name: Ring of Lighting Speed
+script: ''
+mesh: tr\c\tr_c_ring_lightspeed.nif
+icon: tr\c\tr_c_ring_lightspeed.dds
+enchanting: T_Use_LightingSpeed
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 18000
+  enchantment: 225

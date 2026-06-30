@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Nor_StonewareCup_01
+name: Stoneware Cup
+script: ''
+mesh: sky\m\sky_misc_stwr_cup_01.nif
+icon: sky\m\sky_misc_stwr_cup_01.dds
+data:
+  weight: 2.0
+  value: 3
+  flags: ''

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Glb_Fauna_ChickenCage_01
+name: Chicken
+script: ''
+mesh: sky\r\sky_farm_chickenc_01.nif

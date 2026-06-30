@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_AndothDweRuinShelf02
+name: ''
+script: TR_m4_AndothDweDoor02_scp
+mesh: f\furn_dwrv_bookshelf00.nif

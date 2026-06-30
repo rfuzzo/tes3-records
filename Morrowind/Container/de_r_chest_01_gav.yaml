@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: de_r_chest_01_gav
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - l_n_armor_pauldron
+- - 1
+  - l_m_wpn_melee
+- - 15
+  - l_m_wpn_missle_arrow
+- - 1
+  - l_m_wpn_melee_blunt
+- - 1
+  - l_n_wpn_missle_bow

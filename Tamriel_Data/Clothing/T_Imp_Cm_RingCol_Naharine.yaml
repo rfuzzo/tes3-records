@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Imp_Cm_RingCol_Naharine
+name: Ring of St. Naharine's Path
+script: ''
+mesh: pc\c\pc_Col_Ring_Cm_02.nif
+icon: pc\c\pc_Col_Ring_Cm_02.dds
+enchanting: water walking_en
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 19
+  enchantment: 10

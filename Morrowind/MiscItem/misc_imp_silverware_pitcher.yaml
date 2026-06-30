@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: misc_imp_silverware_pitcher
+name: Silverware Pitcher
+script: ''
+mesh: m\Misc_Silverware_Pitcher.NIF
+icon: m\Misc_Silverware_Pitcher.tga
+data:
+  weight: 7.0
+  value: 30
+  flags: ''

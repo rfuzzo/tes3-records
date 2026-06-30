@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_Elfcup_01
+name: Elf Cup Cap
+script: ''
+mesh: pc\n\pc_ing_ecup.nif
+icon: pc\n\pc_tx_ingred_ecup.dds
+data:
+  weight: 0.1
+  value: 1
+  effects:
+  - DamageAttribute
+  - CureCommonDisease
+  - FortifyAttribute
+  - DamageAttribute
+  skills:
+  - Block
+  - None
+  - Block
+  - Block
+  attributes:
+  - Willpower
+  - None
+  - Strength
+  - Intelligence

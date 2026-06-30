@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_AltachiPear_01
+name: Altachi Pear
+script: ''
+mesh: sum\n\sum_n_altachi.nif
+icon: sum\n\sum_n_altachi.dds
+data:
+  weight: 0.2
+  value: 4
+  effects:
+  - RestoreFatigue
+  - RestoreAttribute
+  - DamageAttribute
+  - None
+  skills:
+  - None
+  - Block
+  - Block
+  - Block
+  attributes:
+  - None
+  - Intelligence
+  - Agility
+  - Willpower

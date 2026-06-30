@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_NVA4_bridge_07
+name: ''
+script: TR_m7_NVA_Stage4_Persist
+mesh: x\Ex_Hlaalu_bridge_07.NIF

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_WormWh02
+name: Worm Wheat Incense
+script: ''
+mesh: hr\n\hr_ing_wormwh_02.nif
+icon: hr\n\hr_ing_wormwh02.dds
+data:
+  weight: 0.1
+  value: 5
+  effects:
+  - DamageAttribute
+  - DrainFatigue
+  - Feather
+  - ResistMagicka
+  skills:
+  - Block
+  - None
+  - None
+  - None
+  attributes:
+  - Endurance
+  - None
+  - None
+  - None

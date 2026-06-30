@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_FW_DaranithAd
+name: Dungeon or Daranith?
+script: ''
+mesh: m\text_parchment_02.nif
+icon: m\tx_parchment_02.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>Caught up with a bad crowd? Wrong place at the wrong time? Contract unfulfilled?<BR><BR>\r\nGuild-certified barristers Daranith & Daranith provide high-quality legal services to ALL clients, for a modest fee, lien, or wage garnishment!<BR>\r\n<BR>\r\nRemember, when the law comes knocking....<BR>\r\n<BR>it's<BR>DUNGEON<BR>or<BR>DARANITH<BR>\r\n<BR><BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

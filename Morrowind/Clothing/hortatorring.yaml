@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: hortatorring
+name: Ring of the Hortator
+script: ''
+mesh: c\C_Ring_exquisite_1.NIF
+icon: c\tx_ring_exquisite01.tga
+enchanting: hortatorring_uniq
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 658
+  enchantment: 1200

@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: AB_o_ComChest02ChpArWp
+name: Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - AB_lvl_a_IronFur
+- - 1
+  - AB_lvl_w_Steel

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Bre_Clothbolt_02
+name: Bolt of Cloth
+script: ''
+mesh: hr\m\hr_misc_clothbolt_02.nif
+icon: hr\m\hr_misc_clothbolt_02.dds
+data:
+  weight: 25.0
+  value: 50
+  flags: ''

@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: T_Dreu_Furn_Ch1_PiOre
+name: Chest
+script: ''
+mesh: tr\o\tr_furn_dreu_chest_01.nif
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - T_Pi_Random_Gem
+- - 1
+  - T_Pi_Random_OreBitterstone

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: ebony broadsword_Dae_cursed
+name: Ebony Broadsword
+script: BILL_MarksDaedraSummon
+mesh: w\W_broadsword_ebony.nif
+icon: w\Tx_Broadsword_ebony.tga
+enchanting: ''
+data:
+  weight: 24.0
+  value: 15000
+  weapon_type: LongBladeOneHand
+  health: 1800
+  speed: 1.25
+  reach: 1.0
+  enchantment: 100
+  chop_min: 4
+  chop_max: 26
+  slash_min: 2
+  slash_max: 26
+  thrust_min: 2
+  thrust_max: 26
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: TR_m3_q_TheRiftBook2
+name: Hyperagonal Media Theorem
+script: ''
+mesh: m\Text_Quarto_02.nif
+icon: m\Tx_quarto_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nHyperagonal Media Theorem: A Treatise<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nThe common belief of all the Aurbes as directional or diagonal creatia, which travel only along the lines of IS and NOT, is meritable on the surface but on closer examination reflects a mundiocentric understanding of the existences.<BR>\r\n<BR>\r\nIt allows for transmissions along the lines of at most parallel or perpendicular side-paths, but falls woefully short of even simple transliminality.<BR>\r\n<BR>\r\nHyperagonality cannot be measured with any astrolabe of mortal design, or viewed with an eye of mundial conception, but can merely be scratched and scraped at with the faulty implement of mathematical formulae.<BR>\r\n<BR>\r\nTo the mortal mind it is a theoretical that cannot truly be translated into a state of existence. This is why the Lords of Misrule could not convey an understanding of it even if they wanted to, and this is why the cosmologies become muddled as detail is demanded of it, and that is why the aetheres are thus far unreachable.<BR>\r\n<BR>\r\nChildlike, they approach the thrones of gods and beg meekly for a signature which they could not ever possibly read.<BR>\r\n<BR>\r\nThe calligraphy of the heavens, etched in a thing that stretches across the eternities, is ironically a thing of beauty and power only to those who view merely a single line at which it intersects.<BR>\r\n<BR>\r\nTo transcend this mortal limitation requires something more; an altogether different gradient of enlightenment...<BR>\r\n<BR>\r\n[You attempt reading more, but doing so results invariably in a splitting headache.]<BR>\r\n<BR>\r\n"
+data:
+  weight: 4.0
+  value: 300
+  book_type: Book
+  skill: None
+  enchantment: 0

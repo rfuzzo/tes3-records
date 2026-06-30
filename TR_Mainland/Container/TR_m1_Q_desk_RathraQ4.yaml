@@ -1,0 +1,9 @@
+type: Container
+flags: PERSISTENT
+id: TR_m1_Q_desk_RathraQ4
+name: Desk
+script: TR_m1_q_desk_RathraQ4_sc
+mesh: o\Contain_De_Desk_01.NIF
+encumbrance: 75.0
+container_flags: IS_BASE
+inventory: []

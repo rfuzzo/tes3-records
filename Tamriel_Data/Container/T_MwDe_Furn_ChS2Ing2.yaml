@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: T_MwDe_Furn_ChS2Ing2
+name: Small Chest
+script: ''
+mesh: o\Contain_chest_small_02.NIF
+encumbrance: 25.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_IngFlor_Nightshade_01
+- - 2
+  - T_IngFood_MeatOrnada_01
+- - 1
+  - T_Mw_Random_Minerals
+- - 1
+  - ingred_bonemeal_01

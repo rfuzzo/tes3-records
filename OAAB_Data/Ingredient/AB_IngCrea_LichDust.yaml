@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: AB_IngCrea_LichDust
+name: Lich Dust
+script: ''
+mesh: OAAB\n\lich_dust.nif
+icon: OAAB\n\lich_dust.dds
+data:
+  weight: 0.1
+  value: 500
+  effects:
+  - Dispel
+  - FortifyAttribute
+  - Recall
+  - FortifyMagickaMultiplier
+  skills:
+  - None
+  - Block
+  - None
+  - None
+  attributes:
+  - None
+  - Intelligence
+  - None
+  - None

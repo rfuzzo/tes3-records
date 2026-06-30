@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_BkGenPI_MessageRegistry_02
+name: Message Registry
+script: ''
+mesh: pi\m\pi_sc_palm_01.nif
+icon: pi\m\pi_sc_palm_01.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n[This registry records incoming and outgoing messages.]<BR>"
+data:
+  weight: 1.2
+  value: 5
+  book_type: Scroll
+  skill: None
+  enchantment: 0

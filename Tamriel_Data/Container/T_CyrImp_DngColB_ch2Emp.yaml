@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: T_CyrImp_DngColB_ch2Emp
+name: Wooden Coffer
+script: ''
+mesh: pc\o\pc_col_barr_chest_02.nif
+encumbrance: 35.0
+container_flags: IS_BASE
+inventory: []

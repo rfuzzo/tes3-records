@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Com_Adamant_DaiKatana_01
+name: Adamantium Dai-Katana
+script: ''
+mesh: TR\w\TR_w_adamant_dkatana.NIF
+icon: TR\w\TR_w_adamant_dkatana.dds
+enchanting: ''
+data:
+  weight: 40.0
+  value: 15000
+  weapon_type: LongBladeTwoClose
+  health: 4600
+  speed: 1.35
+  reach: 1.0
+  enchantment: 100
+  chop_min: 1
+  chop_max: 47
+  slash_min: 1
+  slash_max: 41
+  thrust_min: 1
+  thrust_max: 22
+  flags: ''

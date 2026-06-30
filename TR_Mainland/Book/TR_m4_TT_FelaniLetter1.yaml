@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_TT_FelaniLetter1
+name: Felani's Letter
+script: TR_m4_TT_LastWillEnable_sc
+mesh: m\text_parchment_01.nif
+icon: m\tx_parchment_01.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nFather,<BR><BR>\r\nThank you for reaching out. I honestly didn't expect to hear from you again, the way we argued before I left for Cyrodiil. I know I disappointed you, but I could not stay. Still, the things you said back then put a heavy burden on me, and for the longest time I blamed myself for leaving you, for building a new life, for simply being happy, while you remained in Morrowind with such bitter words said the last time I saw you. That's why your letter meant so much to me. We can't change our past choices, but we can learn to live with them, and maybe we can move on.<BR><BR>\r\nI am so sorry to hear about your health. You said that the Temple is helping, but the way you describe this priest that has been visiting you makes me doubt he has your best interests at heart. You are many things, but not greedy, and not evil. Surely the Gods can see that, both mine and yours.<BR><BR>\r\nI've talked it over with Marja, and we have decided that we are coming to Omaynis, as soon as we can. I know you are set in your ways and have no fondness for the Imperials, but I can assure you she is even more stubborn than you are, and she is determined to meet you. Give her a chance, and I'm sure you will like her.<BR><BR>\r\nLove, always,<BR>\r\nFelani<BR><BR><BR>\r\nP.S.<BR>\r\nNext time you write, address your letter to Felani Iannus. I took Marja's surname, and that's how the people here know me. I know you disapprove, but if you want your letters to arrive, stop confusing the mailmen.\r\n<BR><BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

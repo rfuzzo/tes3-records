@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_EbonTray_01
+name: Ebonware Tray
+script: ''
+mesh: pc\m\pc_m_ebon_tray01.nif
+icon: pc\m\pc_m_ebon_tray01.dds
+data:
+  weight: 8.0
+  value: 1000
+  flags: ''

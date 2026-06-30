@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: TR_m7_SH_Sihilitu_Guar
+name: Guar Pack
+script: ''
+mesh: tr\o\tr_cont_guarpack_01.nif
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - T_Mw_Lvl_LootSmugglerGoods
+- - 1
+  - T_Mw_Random_BooksTemple
+- - 2
+  - l_n_repair item
+- - 3
+  - misc_clothbolt_02

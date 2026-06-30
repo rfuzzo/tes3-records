@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Dwe_UNI_MaskOfPurity
+name: Masque of Purity
+script: ''
+mesh: a\a_dwemer_helmet.nif
+icon: a\tx_dwemer_helmet.dds
+enchanting: T_Const_Purity
+biped_objects:
+- biped_object_type: Head
+  male_bodypart: a_dwemer_helmet
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 5.0
+  value: 535
+  health: 200
+  enchantment: 250
+  armor_rating: 20

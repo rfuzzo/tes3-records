@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_NVA6_overhang_18
+name: ''
+script: TR_m7_NVA_Stage6_Persist
+mesh: f\Furn_overhang_18.nif

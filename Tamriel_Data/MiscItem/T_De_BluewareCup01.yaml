@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_BluewareCup01
+name: Glass
+script: ''
+mesh: tr\m\tr_misc_blue_cup.nif
+icon: tr\m\tr_misc_bluewcup01.dds
+data:
+  weight: 1.0
+  value: 5
+  flags: ''

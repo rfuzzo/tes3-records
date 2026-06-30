@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: blood ring
+name: Blood Ring
+script: ''
+mesh: c\Artifact_bloodring_01.NIF
+icon: c\Tx_r_blood_01.tga
+enchanting: ward of gilvoth
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.2
+  value: 30000
+  enchantment: 150

@@ -1,0 +1,37 @@
+type: Container
+flags: ''
+id: TR_m3_crateindbm_i3-647
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 3
+  - T_De_IndBonemold_Boots_01
+- - 1
+  - T_De_IndBonemold_Cuirass_01
+- - 2
+  - T_De_IndBonemold_GauntletL_01
+- - 1
+  - T_De_IndBonemold_GauntletR_01
+- - 2
+  - T_De_IndBonemold_Greaves_01
+- - 1
+  - T_De_IndBonemold_PauldronL_01
+- - 1
+  - T_De_IndBonemold_PauldronL_02
+- - 1
+  - T_De_IndBonemold_PauldronR_01
+- - 1
+  - T_De_IndBonemold_PauldronR_02
+- - 1
+  - T_De_IndBonemold_Shield_01
+- - 1
+  - T_De_IndBonemold_Shield_02
+- - 1
+  - T_De_IndBonemold_Shield_03
+- - 1
+  - T_De_IndBonemold_Shield_04
+- - 1
+  - T_De_IndBonemold_Shield_05

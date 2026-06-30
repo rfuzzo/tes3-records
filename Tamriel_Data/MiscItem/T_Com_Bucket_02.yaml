@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_Bucket_02
+name: Bucket
+script: ''
+mesh: tr\m\tr_misc_com_bucket10.nif
+icon: tr\m\tr_misc_com_bucket10.dds
+data:
+  weight: 5.0
+  value: 2
+  flags: ''

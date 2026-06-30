@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_DuvlasNote
+name: Duvlas' Note
+script: TR_m4_DuvlasNote_sc
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR><BR>\r\nBring:<BR><BR>\r\n10 potions of Restore Health<BR>\r\n5 potions of Water Breathing<BR>\r\n3 repair hammers<BR>\r\n4 pounds of Kwama eggs<BR>\r\n2 pounds of fresh fish (the boss likes them raw)<BR>\r\n3 bottles of Mazte<BR><BR>\r\nAnd make sure that you hide the rowboat somewhere so  you can't just see it from the shore. I found it just outside the hideout three times this month. If we keep this up, even those Gol Mok dimwits will realize something is up.<BR><BR>\r\n"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

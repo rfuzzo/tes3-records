@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Ex_ImpGatehouseLeverEXAMPLE
+name: Wooden Lever
+script: AB_Example_s
+mesh: OAAB\x\impGatehouseLever.nif

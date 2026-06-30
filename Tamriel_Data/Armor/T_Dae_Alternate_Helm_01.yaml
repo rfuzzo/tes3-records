@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Dae_Alternate_Helm_01
+name: Daedric Helm
+script: ''
+mesh: PC\a\pc_a_dae_helm_hd.nif
+icon: pc\a\pc_a_daedric_helm.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Head
+  male_bodypart: T_A_DaeAltHelm_Hd
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 15.0
+  value: 13000
+  health: 750
+  enchantment: 750
+  armor_rating: 70

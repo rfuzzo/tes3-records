@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Rea_UNI_NightstalkerTalisman
+name: Nightstalker Talisman
+script: ''
+mesh: sky\c\sky_amulet_rm_02.nif
+icon: sky\c\tx_amulet_rm_02.dds
+enchanting: T_Const_NightstalkerTalisman
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 2.0
+  value: 6000
+  enchantment: 400

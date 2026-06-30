@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_UNI_GoldAnvil
+name: Golden Anvil
+script: ''
+mesh: pc\m\pc_misc_goldanvil.nif
+icon: pc\m\pc_misc_goldanvil.dds
+data:
+  weight: 12.0
+  value: 2500
+  flags: ''

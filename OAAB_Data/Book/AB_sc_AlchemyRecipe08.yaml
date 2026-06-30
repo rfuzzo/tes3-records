@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: AB_sc_AlchemyRecipe08
+name: Recipe - Underwater Explorer
+script: ''
+mesh: m\Text_Scroll_02.nif
+icon: m\Tx_scroll_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nMadam Mary Madrigal's Advanced Alchemical Recipes<BR><BR>\r\n- Underwater Explorer -<BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nPotion Effects:<BR>\r\n<BR>\r\nLight<BR>\r\nWaterbreathing<BR>\r\n<BR>\r\nThis potion is ideal for exploring dark underwater caves and shipwrecks.<BR>\r\n<BR>\r\nScales<BR>\r\nScrib Jerky<BR>\r\nLuminous Russula<BR>\r\nHackle-Lo Leaf<BR>\r\n<BR>\r\n<BR>\r\nCrush hackle-lo leaf and scrib jerky into a thick paste. Reduce the luminous russula in the calcinator until the surface of the mushroom starts to bubble. Crush this into your paste. Crush the scales into a separate powder and distill in a retort, while you distill the paste in an alembic.<BR>\r\n<BR>\r\nWhen both distillations are complete, mix together and distill again in the retort. The potion should come out as a light green liquid.<BR>"
+data:
+  weight: 0.5
+  value: 75
+  book_type: Scroll
+  skill: None
+  enchantment: 20

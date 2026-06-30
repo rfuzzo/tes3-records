@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m2_dwrv_artifact70_01
+name: Dwemer Schematic
+script: ''
+mesh: m\misc_dwrv_artifact70.NIF
+icon: m\misc_dwrv_artifact70.tga
+data:
+  weight: 0.1
+  value: 1200
+  flags: ''

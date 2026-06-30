@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Qy_Dice_01
+name: Quey Dice
+script: ''
+mesh: pi\m\Pi_misc_queydice.nif
+icon: pi\m\Pi_misc_queydice.dds
+data:
+  weight: 0.4
+  value: 6
+  flags: ''

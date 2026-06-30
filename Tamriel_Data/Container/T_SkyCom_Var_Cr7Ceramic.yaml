@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_SkyCom_Var_Cr7Ceramic
+name: Crate
+script: ''
+mesh: Sky\o\Sky_Cont_Crate_07.nif
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - 5
+  - T_Sky_Random_MiscCeramicBowl

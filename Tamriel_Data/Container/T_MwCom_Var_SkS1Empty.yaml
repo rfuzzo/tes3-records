@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: T_MwCom_Var_SkS1Empty
+name: Small Sack
+script: ''
+mesh: TR\o\TR_contain_small_sack.nif
+encumbrance: 20.0
+container_flags: IS_BASE
+inventory: []

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_BallWoodBrown
+name: Wooden Ball
+script: ''
+mesh: pc\m\pc_ball_wood_brown.nif
+icon: pc\m\pc_ball_wood_brown.dds
+data:
+  weight: 1.5
+  value: 1
+  flags: ''

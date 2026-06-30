@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_TT_IduraVoronLetter
+name: Letter to Indoril Danvas
+script: TR_m3_TT_IduraScrollScript
+mesh: m\Text_paper_roll_01.nif
+icon: m\Tx_paper_roll_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nMy sweet lord, <BR>\r\nI made the inquiries you asked me to. The person you are looking for was indeed held in the Ordinator barracks for a violent crime, but was taken away on a boat to the other side of the river. I expect to learn more of his fate soon, but would like to discuss it privately with you. Can you truly not arrange for us to meet? Your father's chapel-estate has a great many chambers -- surely, we could find some place there where we could be together unseen. <BR>\r\n<BR>\r\nOr have you, as I fear, grown weary of me? You hardly write to me at all, except when you wish to send me on errands. My sweet lord, if that is the case, have no fear. I can not deny you anything. I will always remain your faithful and loving servant even if you reject me. <BR>\r\n<BR>\r\nSealed with a kiss, <BR>\r\nIdura\r\n<BR>\r\n\r\n"
+data:
+  weight: 2.0
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

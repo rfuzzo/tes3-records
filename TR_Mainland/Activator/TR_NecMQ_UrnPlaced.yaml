@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_NecMQ_UrnPlaced
+name: Urn of Savile Theras
+script: TR_NecMQ_UrnPlacedScript
+mesh: tr\m\tr_misc_urn_01.nif

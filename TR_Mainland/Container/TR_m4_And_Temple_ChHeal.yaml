@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: TR_m4_And_Temple_ChHeal
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_02.NIF
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - -3
+  - p_cure_common_s
+- - -4
+  - p_disease_resistance_b
+- - -2
+  - p_poison_resistance_b
+- - -5
+  - p_restore_fatigue_b

@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: TR_light_m2-68_small
+name: ''
+script: ''
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 16
+  color:
+  - 255
+  - 0
+  - 0
+  - 0
+  flags: ''

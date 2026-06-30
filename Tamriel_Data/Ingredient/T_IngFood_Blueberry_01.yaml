@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_Blueberry_01
+name: Blueberries
+script: ''
+mesh: pc\n\pc_ing_blueberry.nif
+icon: pc\n\pc_ing_blueberry.dds
+data:
+  weight: 0.05
+  value: 1
+  effects:
+  - RestoreFatigue
+  - NightEye
+  - None
+  - None
+  skills:
+  - None
+  - Block
+  - Block
+  - None
+  attributes:
+  - None
+  - Luck
+  - Willpower
+  - None

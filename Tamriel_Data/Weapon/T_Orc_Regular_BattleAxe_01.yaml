@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Orc_Regular_BattleAxe_01
+name: Orcish War Axe
+script: ''
+mesh: tr\w\tr_w_orcish_waraxe.nif
+icon: TR\w\TR_w_orcish_waraxe.dds
+enchanting: ''
+data:
+  weight: 12.0
+  value: 1400
+  weapon_type: AxeOneHand
+  health: 1860
+  speed: 1.25
+  reach: 1.0
+  enchantment: 120
+  chop_min: 2
+  chop_max: 21
+  slash_min: 1
+  slash_max: 18
+  thrust_min: 1
+  thrust_max: 2
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

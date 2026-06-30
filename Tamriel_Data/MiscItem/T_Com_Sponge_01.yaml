@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_Sponge_01
+name: Sponge
+script: ''
+mesh: pc\m\pc_misc_sponge.nif
+icon: pc\m\pc_misc_sponge.dds
+data:
+  weight: 0.1
+  value: 5
+  flags: ''

@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m3_i3-591_act_ring
+name: Rusty Handle
+script: TR_m3-591_ring_script
+mesh: f\Furn_imp_metalring.nif

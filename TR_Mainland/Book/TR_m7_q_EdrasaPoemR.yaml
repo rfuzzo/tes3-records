@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: TR_m7_q_EdrasaPoemR
+name: Heave -- Thine Loving Breath
+script: ''
+mesh: m\Text_Parchment_02.nif
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"1\" FACE=\"Magic Cards\"><BR>\r\n<BR>\r\nDesire;\r\nIs a shallow breath\r\nTaken by a dying star\r\nSo breathe\r\n<BR>\r\nLove;\r\nIs a gasp of air\r\nTaken by thee\r\nNow gasp\r\nAt thee\r\n<BR>"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

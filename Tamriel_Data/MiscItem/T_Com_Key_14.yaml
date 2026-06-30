@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_Key_14
+name: Long Silver Key
+script: ''
+mesh: TR\m\TR_Key_DD13.NIF
+icon: TR\m\TR_Key_DD13.dds
+data:
+  weight: 0.0
+  value: 0
+  flags: ''

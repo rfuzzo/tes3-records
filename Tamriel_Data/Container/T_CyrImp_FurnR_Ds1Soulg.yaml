@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: T_CyrImp_FurnR_Ds1Soulg
+name: Desk
+script: ''
+mesh: pc\o\pc_furn_com_r_desk01.nif
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - Misc_SoulGem_Lesser
+- - 4
+  - T_Cyr_Lvl_Soulgems

@@ -1,0 +1,20 @@
+type: Alchemy
+flags: ''
+id: TR_m3_juice2_i3-128-ind
+name: Hamum Root Juice
+script: ''
+mesh: n\Potion_Cyro_brandy_01.NIF
+icon: n\Tx_cyro_brandy_01.tga
+effects:
+- magic_effect: RestoreFatigue
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 10
+  min_magnitude: 20
+  max_magnitude: 20
+data:
+  weight: 1.0
+  value: 40
+  flags: ''

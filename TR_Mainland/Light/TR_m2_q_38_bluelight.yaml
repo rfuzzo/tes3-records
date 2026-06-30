@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: TR_m2_q_38_bluelight
+name: ''
+script: TR_m2_q_38_s_rituallight
+mesh: EditorMarker.nif
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 600
+  color:
+  - 41
+  - 157
+  - 255
+  - 0
+  flags: ''

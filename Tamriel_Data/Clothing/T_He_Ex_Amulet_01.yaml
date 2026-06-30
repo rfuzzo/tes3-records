@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_He_Ex_Amulet_01
+name: Exquisite Amulet
+script: ''
+mesh: sum\c\sum_c_examulet_01.nif
+icon: sum\c\sum_c_examulet_01.dds
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 240
+  enchantment: 1200

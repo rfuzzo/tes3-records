@@ -1,0 +1,21 @@
+type: Container
+flags: ''
+id: TR_m1_GreenEyesCrate01
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - -5
+  - l_m_potion_h
+- - -1
+  - p_cure_blight_s
+- - -5
+  - p_cure_common_s
+- - -3
+  - p_cure_paralyzation_s
+- - -6
+  - p_cure_poison_s
+- - -2
+  - p_poison_resistance_s

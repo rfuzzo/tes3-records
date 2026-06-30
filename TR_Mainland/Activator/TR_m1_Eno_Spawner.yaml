@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m1_Eno_Spawner
+name: ''
+script: TR_m1_EnoVounoura
+mesh: EditorMarker.NIF

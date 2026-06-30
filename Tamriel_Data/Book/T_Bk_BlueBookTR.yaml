@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_BlueBookTR
+name: Grey Book of 3E 426
+script: ''
+mesh: TR\m\TR_book_grey_dres.nif
+icon: TR\m\tr_tx_dres_bluebook.dds
+enchanting: ''
+text: " <DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nGrey Book of Great House Dres<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\n[The Grey Book is a yearbook of the affairs of the Dres High Council for 3E 426. It lists the current members of the council and their residences. It also chronicles significant events and council actions for the year.]<BR>"
+data:
+  weight: 3.0
+  value: 60
+  book_type: Book
+  skill: None
+  enchantment: 20

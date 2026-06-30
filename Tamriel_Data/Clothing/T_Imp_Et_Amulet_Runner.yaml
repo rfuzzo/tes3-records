@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Imp_Et_Amulet_Runner
+name: Runner Talisman
+script: ''
+mesh: pc\c\pc_c_etamulet_02.nif
+icon: pc\c\pc_c_etamulet_02.dds
+enchanting: ulms juicedaw's feather_en
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 180
+  enchantment: 600

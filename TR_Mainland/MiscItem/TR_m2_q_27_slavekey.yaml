@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m2_q_27_slavekey
+name: Aravel-Senim Slave Key
+script: TR_m2_q_27_KeySCN
+mesh: m\Key_Standard_01.NIF
+icon: m\Tx_key_standard_01.tga
+data:
+  weight: 0.0
+  value: 300
+  flags: KEY

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_NecMQ_ICFakeDocuments
+name: Changed Imperial Cult Documents
+script: ''
+mesh: m\text_scroll_01.nif
+icon: m\tx_scroll_open_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"center\"><FONT COLOR=\"000000\" SIZE=\"2\" FACE=\"Magic Cards\"> <BR>\r\n<BR>\r\n[This tampered scroll contains meticulous records of donations and pledges toward the Imperial Cult in Firewatch. The documentation starts with the day Alcedo Nirol arrived at the chapel and is split in two columns. Attached to the document are donation letters all of which are linked to the shorter of the columns. It seems these donations have been embezzled by Alcedo Nirol.]<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

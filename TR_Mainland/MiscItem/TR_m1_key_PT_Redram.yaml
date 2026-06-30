@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m1_key_PT_Redram
+name: Redram Oran's Key
+script: ''
+mesh: TR\m\TR_Key_DD18.NIF
+icon: TR\m\tr_key_dd18.dds
+data:
+  weight: 0.0
+  value: 0
+  flags: KEY

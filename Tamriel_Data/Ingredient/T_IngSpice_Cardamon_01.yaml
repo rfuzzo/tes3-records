@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngSpice_Cardamon_01
+name: Cardamon Powder
+script: ''
+mesh: pc\n\pc_ing_cardamon.nif
+icon: pc\n\pc_ingred_cardamon.dds
+data:
+  weight: 0.1
+  value: 40
+  effects:
+  - WeaknessToMagicka
+  - RestoreHealth
+  - DrainAttribute
+  - ResistCommonDisease
+  skills:
+  - None
+  - Block
+  - Block
+  - None
+  attributes:
+  - None
+  - Endurance
+  - Willpower
+  - None

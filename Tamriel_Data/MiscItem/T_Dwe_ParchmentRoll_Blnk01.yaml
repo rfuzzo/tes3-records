@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Dwe_ParchmentRoll_Blnk01
+name: Dwemer Parchment
+script: ''
+mesh: tr\m\tr_misc_dwrv_parchroll.nif
+icon: tr\m\tr_misc_dwrv_parchroll.tga
+data:
+  weight: 0.1
+  value: 10
+  flags: ''

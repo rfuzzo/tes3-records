@@ -1,0 +1,20 @@
+type: Alchemy
+flags: ''
+id: AB_dri_TramaTea
+name: Trama Root Tea
+script: ''
+mesh: OAAB\n\rem_trama_tea.nif
+icon: OAAB\n\rem_trama_tea.dds
+effects:
+- magic_effect: RestoreFatigue
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 120
+  min_magnitude: 1
+  max_magnitude: 1
+data:
+  weight: 0.5
+  value: 5
+  flags: ''

@@ -1,0 +1,35 @@
+type: Clothing
+flags: ''
+id: TR_m3_pants_of_brilliance_uni
+name: Pants of Utter Brilliance
+script: ''
+mesh: c\C_M_Pants_Mournhold_GND.NIF
+icon: c\Tx_Mournhold_greaves.dds
+enchanting: TR_m3_pants_of_brilliance_en
+biped_objects:
+- biped_object_type: Groin
+  male_bodypart: C_M_Pants_Mournhold_G
+  female_bodypart: ''
+- biped_object_type: LeftUpperLeg
+  male_bodypart: C_M_Pants_Mournhold_UL
+  female_bodypart: ''
+- biped_object_type: LeftKnee
+  male_bodypart: C_M_Pants_Mournhold_K
+  female_bodypart: ''
+- biped_object_type: LeftAnkle
+  male_bodypart: C_M_Pants_Mournhold_A
+  female_bodypart: ''
+- biped_object_type: RightUpperLeg
+  male_bodypart: C_M_Pants_Mournhold_UL
+  female_bodypart: ''
+- biped_object_type: RightKnee
+  male_bodypart: C_M_Pants_Mournhold_K
+  female_bodypart: ''
+- biped_object_type: RightAnkle
+  male_bodypart: C_M_Pants_Mournhold_A
+  female_bodypart: ''
+data:
+  clothing_type: Pants
+  weight: 2.0
+  value: 150
+  enchantment: 75

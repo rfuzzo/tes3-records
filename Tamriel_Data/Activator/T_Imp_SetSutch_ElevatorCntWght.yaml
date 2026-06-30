@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_SetSutch_ElevatorCntWght
+name: ''
+script: T_ScObj_SutchElevatorCntWght
+mesh: pc\i\pc_in_sut_elevcntw_01.nif

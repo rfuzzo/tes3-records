@@ -1,0 +1,11 @@
+type: MiscItem
+flags: PERSISTENT
+id: T_Dwe_CohererPowered_01
+name: Powered Dwemer Coherer
+script: ''
+mesh: tr\m\tr_misc_dwe_coh_chrg.nif
+icon: tr\m\tr_misc_dwe_coh_chrg.tga
+data:
+  weight: 40.0
+  value: 60
+  flags: ''

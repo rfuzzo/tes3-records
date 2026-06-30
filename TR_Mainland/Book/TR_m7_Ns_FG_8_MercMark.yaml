@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_Ns_FG_8_MercMark
+name: ''
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: ''
+enchanting: ''
+text: Dravynea Theron may end up here during the events of the Narsis Fighters Guild questline. (TR_m7_Ns_FG_8)
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

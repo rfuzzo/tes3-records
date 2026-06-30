@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Mw_Flora_RedCoral02
+name: Red Coral
+script: ''
+mesh: tr\f\tr_flora_redcoral_02.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 4
+  - T_Mw_Random_FlorRedCoral

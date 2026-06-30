@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: TR_i2_445_NicheLight
+name: ''
+script: ''
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 40
+  color:
+  - 247
+  - 158
+  - 70
+  - 0
+  flags: FLICKER_SLOW

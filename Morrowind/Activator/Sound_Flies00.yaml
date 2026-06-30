@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: Sound_Flies00
+name: Sound_Flies00
+script: Sound_Flies
+mesh: EditorMarker.NIF

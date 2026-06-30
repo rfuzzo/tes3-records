@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_Thungleweed_01
+name: Thungleweed Flower
+script: ''
+mesh: pc\n\PC_Ingred_TWeed.nif
+icon: pc\n\pc_tx_ingred_tweed.dds
+data:
+  weight: 0.1
+  value: 1
+  effects:
+  - WeaknessToPoison
+  - RestoreAttribute
+  - FortifyMagicka
+  - RestoreHealth
+  skills:
+  - None
+  - Block
+  - None
+  - None
+  attributes:
+  - None
+  - Endurance
+  - None
+  - None

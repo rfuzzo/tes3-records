@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_ReCrossbow
+name: Reinforced Crossbow
+script: ''
+mesh: w\w_crossbow.nif
+icon: OAAB\w\w_re_crossbow.dds
+enchanting: ''
+data:
+  weight: 21.0
+  value: 950
+  weapon_type: MarksmanCrossbow
+  health: 900
+  speed: 1.0
+  reach: 1.0
+  enchantment: 45
+  chop_min: 40
+  chop_max: 40
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: ''

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_ShiSha_HH_MiraraFake
+name: Forged Inspection Report
+script: ''
+mesh: m\Text_Parchment_02.nif
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\nAccording to the inspectors, five crates containing skooma and moon sugar were brought over the border by a Wood Elf woman.<BR>\r\n<BR>\r\nThe descriptions mentioned:<BR>\r\nMedium length dirty blond hair,<BR>\r\nAverage height,<BR>\r\nDark brown eyes,<BR>\r\nNo jewelry,<BR>\r\nBracers made of kagouti hide, no other armor pieces,<BR>\r\nRed Imperial style shirt with a black vest and brown pants,<BR>\r\nBrown shoes,<BR>\r\nVaguely cosmopolitan Nibenese sounding accent,<BR>\r\n<BR>\r\nThe suspect is likely to be headed to Shipal-Sharai, before continuing her way to Narsis.\r\n<BR>"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

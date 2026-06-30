@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: active_dae_sheogorath
+name: Statue of Sheogorath
+script: DaedraSheogorath
+mesh: x\Ex_DAE_Sheogorath.NIF

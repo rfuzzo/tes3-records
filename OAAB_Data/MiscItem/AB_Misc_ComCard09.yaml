@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_ComCard09
+name: Four of Knots
+script: ''
+mesh: OAAB\m\com_card_09.nif
+icon: OAAB\m\com_card_09.dds
+data:
+  weight: 0.1
+  value: 1
+  flags: ''

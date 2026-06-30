@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_Narsis_Hlaalu1st_catarec1
+name: Ancient Interment Log
+script: ''
+mesh: tr\m\tr_book_tomebk_o_02.nif
+icon: tr\m\tr_book_open_tome02.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>\r\n[This book records interments of bygone Hlaalu nobles and members of the Seven Families into the Catacombs of Narsis. The earliest listings are undated, while the newest span the late Second Era. The pages are worn, but with noticeable attempts of upkeep.]<BR>\r\n<BR>"
+data:
+  weight: 8.0
+  value: 180
+  book_type: Book
+  skill: None
+  enchantment: 0

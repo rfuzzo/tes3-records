@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_In_LavaPool01
+name: ''
+script: Sound_Lava_Vat
+mesh: OAAB\x\rm_lavapool.nif

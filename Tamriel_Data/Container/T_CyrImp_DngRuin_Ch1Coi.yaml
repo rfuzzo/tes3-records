@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_CyrImp_DngRuin_Ch1Coi
+name: Old Wooden Chest
+script: ''
+mesh: pc\o\pc_cont_impr_ch_01.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 5
+  - T_Cyr_Random_CoinReman

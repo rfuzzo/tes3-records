@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Rga_WoodCutlery_02
+name: Wooden Spoon
+script: ''
+mesh: hf\m\hf_misc_rga_WdCutl_02.nif
+icon: hf\m\hf_misc_rga_WdCutl_02.dds
+data:
+  weight: 0.3
+  value: 1
+  flags: ''

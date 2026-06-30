@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: TR_m1_treasurehunt_2
+name: Battered Chest
+script: TR_m1_treasurehunt_2_script
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 467
+  - Gold_001
+- - 1
+  - T_Bk_JustPunishmentTR
+- - 1
+  - T_Imp_Silver_Dagger_AugStalk

@@ -1,0 +1,20 @@
+type: Alchemy
+flags: ''
+id: TR_i2_454_serynward
+name: Unguent of St. Seryn
+script: ''
+mesh: m\Misc_flask_01.nif
+icon: m\tx_flask_01.dds
+effects:
+- magic_effect: ResistCommonDisease
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 120
+  min_magnitude: 10
+  max_magnitude: 10
+data:
+  weight: 1.0
+  value: 70
+  flags: ''

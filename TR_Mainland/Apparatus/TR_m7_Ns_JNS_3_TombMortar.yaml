@@ -1,0 +1,12 @@
+type: Apparatus
+flags: ''
+id: TR_m7_Ns_JNS_3_TombMortar
+name: Journeyman's Mortar and Pestle
+script: TR_m7_Ns_JNS_3_ScTombObjEnable
+mesh: m\Misc_mortarpestle_01.NIF
+icon: m\Tx_mortarpestle_01.tga
+data:
+  apparatus_type: MortarAndPestle
+  quality: 1.0
+  weight: 4.0
+  value: 400

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Nor_CoinBarrowCopper_01
+name: Ancient Nord Copper Coin
+script: ''
+mesh: Sky\m\sky_misc_anccoin03.nif
+icon: sky\m\tx_sky_misc_accoin03.dds
+data:
+  weight: 0.1
+  value: 4
+  flags: ''

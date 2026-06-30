@@ -1,0 +1,25 @@
+type: Container
+flags: ''
+id: TR_m2_HtA_corpse
+name: Agaron
+script: ''
+mesh: o\contain_corpse20.NIF
+encumbrance: 120.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - bk_HomiliesOfBlessedAlmalexia
+- - 1
+  - l_n_amulet
+- - 1
+  - l_n_probe
+- - 1
+  - l_n_rings
+- - 3
+  - p_restore_health_c
+- - 1
+  - p_restore_willpower_c
+- - 1
+  - pick_apprentice_01
+- - 1
+  - random gold

@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_De_GreenGlassCandlePurple_77
+name: Green Glass Candlestick
+script: ''
+mesh: tr\l\tr_l_de_g_candlepurple.nif
+icon: tr\l\tr_l_de_g_candlepurple.dds
+sound: ''
+data:
+  weight: 1.26
+  value: 3
+  time: 120
+  radius: 77
+  color:
+  - 245
+  - 140
+  - 40
+  - 0
+  flags: DYNAMIC | CAN_CARRY | FIRE | FLICKER_SLOW

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_FurnR_BedRecliner_01
+name: Recliner Bed
+script: Bed_Standard
+mesh: pc\f\pc_furn_r_recliner_01.nif

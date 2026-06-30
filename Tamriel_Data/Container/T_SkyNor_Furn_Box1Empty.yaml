@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: T_SkyNor_Furn_Box1Empty
+name: Wooden Box
+script: ''
+mesh: sky\o\sky_cont_chestsml_01.nif
+encumbrance: 15.0
+container_flags: IS_BASE
+inventory: []

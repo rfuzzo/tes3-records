@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Com_Steel_Shortsword_02
+name: Steel Shortsword
+script: ''
+mesh: tr\w\tr_w_steel_sshort_02.nif
+icon: tr\w\tr_w_steel_ssword_02.dds
+enchanting: ''
+data:
+  weight: 8.0
+  value: 25
+  weapon_type: ShortBladeOneHand
+  health: 300
+  speed: 2.0
+  reach: 1.0
+  enchantment: 40
+  chop_min: 4
+  chop_max: 10
+  slash_min: 4
+  slash_max: 10
+  thrust_min: 8
+  thrust_max: 10
+  flags: ''

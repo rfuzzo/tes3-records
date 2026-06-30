@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: bm_scroll_chest
+name: Leather-Sealed Chest
+script: ''
+mesh: o\contain_chest10.nif
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - 10
+  - sc_bodily_restoration

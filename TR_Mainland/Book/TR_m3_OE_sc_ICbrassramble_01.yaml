@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_OE_sc_ICbrassramble_01
+name: Cyrtus Clagno's Note
+script: ''
+mesh: m\Text_paper_roll_01.nif
+icon: m\Tx_paper_roll_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><DIV ALIGN=\"LEFT\"><BR><BR>\r\nAnd like Numidium at the core\r\n<BR>\r\n<BR>\r\na second heart forevermore.\r\n<BR>\r\n<BR>\r\nStaring at the shining sea\r\n<BR>\r\n<BR>\r\nfor only truth and brass there be.\r\n<BR>\r\n<BR>"
+data:
+  weight: 0.2
+  value: 40
+  book_type: Scroll
+  skill: None
+  enchantment: 0

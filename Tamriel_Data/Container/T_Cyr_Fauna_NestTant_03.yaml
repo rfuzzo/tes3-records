@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: T_Cyr_Fauna_NestTant_03
+name: Tantha Nest
+script: ''
+mesh: pc\o\pc_TanthaNest_03.nif
+encumbrance: 0.0
+container_flags: ORGANIC | IS_BASE
+inventory:
+- - 1
+  - T_Cyr_Random_FaunTanthaEgg
+- - 1
+  - T_Cyr_Random_JewelryCm
+- - 1
+  - T_Cyr_Random_PosGC
+- - 1
+  - T_IngCrea_TanthaEgg_01

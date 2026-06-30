@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Furn_DwrvDynamo
+name: Strange Mechanical Device
+script: AB_DwrvMachineryToggle_s
+mesh: OAAB\u\dwrvDynamo.nif

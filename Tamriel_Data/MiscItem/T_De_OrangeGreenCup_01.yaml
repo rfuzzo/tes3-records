@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_OrangeGreenCup_01
+name: Ceramic Cup
+script: ''
+mesh: tr\m\tr_misc_ceramic_cup01.nif
+icon: tr\m\tr_misc_ceramic_cup01.dds
+data:
+  weight: 1.0
+  value: 1
+  flags: ''

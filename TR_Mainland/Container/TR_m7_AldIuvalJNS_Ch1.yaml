@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: TR_m7_AldIuvalJNS_Ch1
+name: Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - -3
+  - Misc_SoulGem_Lesser
+- - -1
+  - T_MwDe_Random_Armor
+- - -1
+  - T_MwDe_Random_Weapons
+- - 2
+  - l_m_amulets

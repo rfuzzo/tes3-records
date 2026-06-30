@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: TR_m3_Kha_9_Chest_Smith
+name: Chest
+script: ''
+mesh: o\contain_com_chest_02.nif
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - TR_m3_Kha_Key_04
+- - 1
+  - repair_grandmaster_01
+- - 1
+  - repair_journeyman_01
+- - 1
+  - repair_master_01
+- - 1
+  - repair_prongs

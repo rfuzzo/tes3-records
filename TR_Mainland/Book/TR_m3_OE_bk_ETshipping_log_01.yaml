@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_OE_bk_ETshipping_log_01
+name: Shipping Log
+script: ''
+mesh: m\Text_Octavo_07.NIF
+icon: m\Tx_book_01.tga
+enchanting: ''
+text: ''
+data:
+  weight: 3.0
+  value: 2
+  book_type: Book
+  skill: None
+  enchantment: 20

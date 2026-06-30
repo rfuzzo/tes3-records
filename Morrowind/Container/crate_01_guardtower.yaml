@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: crate_01_guardtower
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - l_n_wpn_missle_bow
+- - 15
+  - l_n_wpn_missle_arrow
+- - 10
+  - l_n_wpn_missle_bolt

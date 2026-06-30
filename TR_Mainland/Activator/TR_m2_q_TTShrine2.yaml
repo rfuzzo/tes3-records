@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m2_q_TTShrine2
+name: Shrine of Solitude
+script: TR_m2_q_TTShrine2_Script
+mesh: TR\f\tr_shrine_sothasil.nif

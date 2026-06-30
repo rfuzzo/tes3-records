@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: AB_Info_KwamaForagerTower
+name: InfoBox - Kwama Forager Tower
+script: ''
+mesh: OAAB\h\marker_info.nif
+icon: OAAB\h\marker_info.tga
+enchanting: ''
+text: An activator version of the static kwama "towers" which pops out a kwama forager at random intervals.
+data:
+  weight: 0.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 100

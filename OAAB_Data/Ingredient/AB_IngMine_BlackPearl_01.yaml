@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: AB_IngMine_BlackPearl_01
+name: Black Pearl
+script: ''
+mesh: OAAB\n\gem_blackpearl_01.nif
+icon: OAAB\n\gem_blackpearl.dds
+data:
+  weight: 0.2
+  value: 300
+  effects:
+  - DrainHealth
+  - FortifyAttribute
+  - Feather
+  - SwiftSwim
+  skills:
+  - None
+  - Block
+  - None
+  - None
+  attributes:
+  - None
+  - Luck
+  - None
+  - None

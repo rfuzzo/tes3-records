@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Glb_TerrWater_Geyser
+name: ''
+script: T_ScObj_GeyserWaterEmitter
+mesh: tr\x\tr_water_geyser.nif

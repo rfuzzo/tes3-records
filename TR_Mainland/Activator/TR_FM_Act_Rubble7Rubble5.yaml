@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_FM_Act_Rubble7Rubble5
+name: ''
+script: TR_FM_Stage7Rubble_sc
+mesh: x\Ex_imp_rubble_05.NIF

@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Sky_Fauna_FishCod01
+name: Cod
+script: ''
+mesh: Sky\o\sky_cont_fish_Cd01.nif
+encumbrance: 0.0
+container_flags: ORGANIC | IS_BASE
+inventory:
+- - 1
+  - T_Sky_Random_FaunFishCod01

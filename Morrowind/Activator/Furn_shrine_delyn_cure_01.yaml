@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: Furn_shrine_delyn_cure_01
+name: Shrine of St. Delyn
+script: shrineDelyn
+mesh: f\Furn_shrine_delyn_01.NIF

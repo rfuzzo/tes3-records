@@ -1,0 +1,31 @@
+type: Armor
+flags: ''
+id: T_Imp_ColSteel_Greaves_02
+name: Kvetchi Steel Greaves
+script: ''
+mesh: pc\a\PC_a_ColoStl_02_GG.nif
+icon: pc\a\pc_a_ColoStl_Greave_2.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Groin
+  male_bodypart: T_A_ImpColSteelGreaves02_G
+  female_bodypart: ''
+- biped_object_type: LeftUpperLeg
+  male_bodypart: T_A_ImpColSteelGreaves02_UL
+  female_bodypart: ''
+- biped_object_type: RightUpperLeg
+  male_bodypart: T_A_ImpColSteelGreaves02_UL
+  female_bodypart: ''
+- biped_object_type: LeftKnee
+  male_bodypart: T_A_ImpColSteelGreaves02_K
+  female_bodypart: ''
+- biped_object_type: RightKnee
+  male_bodypart: T_A_ImpColSteelGreaves02_K
+  female_bodypart: ''
+data:
+  armor_type: Greaves
+  weight: 17.0
+  value: 98
+  health: 170
+  enchantment: 25
+  armor_rating: 16

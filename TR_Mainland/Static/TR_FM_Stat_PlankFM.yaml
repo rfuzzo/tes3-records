@@ -1,0 +1,4 @@
+type: Static
+flags: PERSISTENT
+id: TR_FM_Stat_PlankFM
+mesh: x\ex_ship_plank.nif

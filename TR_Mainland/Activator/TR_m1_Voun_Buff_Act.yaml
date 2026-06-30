@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m1_Voun_Buff_Act
+name: Fountain of Inferndere
+script: TR_m1_Vounoura_Forge_Sc
+mesh: EditorMarker.NIF

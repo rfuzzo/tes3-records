@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_SilverScales_01
+name: Silver Scales
+script: ''
+mesh: TR\m\TR_misc_com_scales_01.nif
+icon: TR\m\TR_misc_com_scales_01.dds
+data:
+  weight: 10.0
+  value: 33
+  flags: ''

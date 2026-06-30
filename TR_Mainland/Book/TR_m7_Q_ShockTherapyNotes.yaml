@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_Q_ShockTherapyNotes
+name: Research Notes
+script: ''
+mesh: m\text_octavo_open_08.nif
+icon: m\tx_book_open_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n[This note contains detailed observations about a disturbing set of experiments involving shock destruction magic. It is rife with glyphs, footnotes, and indecipherable scribbles.]\r\n<BR>"
+data:
+  weight: 1.0
+  value: 100
+  book_type: Book
+  skill: None
+  enchantment: 100

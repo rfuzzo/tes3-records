@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Dwe_DngRuin_BeltDrive01
+name: Strange Steam Device
+script: T_ScObj_DwrvMachToggl
+mesh: tr\f\tr_furn_dwrv_bltdrv01.nif

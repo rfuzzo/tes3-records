@@ -1,0 +1,29 @@
+type: Container
+flags: ''
+id: T_MwDe_Furn_ChS2MercAr2
+name: Small Chest
+script: ''
+mesh: o\Contain_chest_small_02.NIF
+encumbrance: 60.0
+container_flags: IS_BASE
+inventory:
+- - -20
+  - T_Com_Steel_Dart_CruelFirestrm
+- - -20
+  - T_Com_Steel_Dart_CruelFrostB
+- - -20
+  - T_Com_Steel_Dart_CruelPoisonCl
+- - -20
+  - T_Com_Steel_Dart_CruelShockSph
+- - -20
+  - T_Imp_Silver_Dart_DireFirestrm
+- - -20
+  - T_Imp_Silver_Dart_DireFrostBst
+- - -20
+  - T_Imp_Silver_Dart_DirePoisonCl
+- - -20
+  - T_Imp_Silver_Dart_DireShocksph
+- - -20
+  - silver dart
+- - -20
+  - steel dart

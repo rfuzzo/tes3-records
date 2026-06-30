@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m1_GO_books_sevaen
+name: 'Sevaen Ondyn: Bookseller'
+script: OutsideBanner
+mesh: f\Furn_de_banner_book_01.NIF

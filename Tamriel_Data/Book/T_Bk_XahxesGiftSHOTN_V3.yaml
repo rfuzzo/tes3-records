@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_XahxesGiftSHOTN_V3
+name: Xahxes' Gift, Part III
+script: ''
+mesh: Sky\m\Sky_Book_Saga_03.nif
+icon: Sky\m\Tx_Book_Saga_03.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nXahxes' Gift: The Reachman Creation Myth<BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\nThe following is a recording of Kervena, a Reachman matriarch of Old H'roldan. Transcribed by Janus Sarvenelus, agent from the Imperial Office of Reachmen Affairs. Old H'roldan. 3 Suns Height 3E 412<BR>\r\n<BR>\r\nPart 3: The Execution of Sheor<BR>\r\n<BR>\r\nAfter learning of the betrayal by Sheor Tusked-Trickster, Auri-El in his righteous fury, threw the jaundiced fiend into a pot of scalding ethers, as the rest of the gods tried to make sense of their condition. There was much weeping, especially from Water-Mother Mah-Ra, whose tears filled what would become the Bjoulsae, the lifeblood of our people (Do not let the Nords fool you, she was crying for being cursed with mortality, not for her supposed \"husband\").<BR>\r\n<BR>\r\nThe Trickster goaded the head of our pantheon, spitting, sputtering, and muttering foul aphorisms (not worthy of remembrance).<BR>\r\n<BR>\r\n\"Have I not a right to a trial? Do I not have the right as any of you would?\"<BR>\r\n<BR>\r\n\"Do not waste our time, fiend,\" said Orc-Friend Trini. 'Your crimes are laid bare and no justification could set things to right. Now is the time for thinking of what to do with such a beast as you!'<BR>\r\n<BR>\r\n\"May you be eaten alive by demons dressed as maidens!\" Sheor snarled, with fury in his eyes.<BR>\r\n<BR>\r\nOrc-Friend Trini, fed up with such rampant display of irreverence, plucked out the heart of Sheor to stop his mewing (an easy feat, for he, like all Nords, was shallow hearted) and let his cursed organ fly to the land of Dwemereth, where the only people who hate the snowmen as much as us Reachmen dwell.<BR>\r\n<BR>\r\nWhat fate befell Kyne? Well, let me tell you, stranger. In seeing her partner put down like the rabid skeever he was, she let out a furious scream and wailed over Sheor's corpse, holding him close to her bosom. Seething and bubbling, her body lost its form, becoming the Storm, growing ever larger amongst the tribe.<BR>\r\n<BR>\r\nFacing the wrath of a goddess with naught but destruction in her heart, Auri-El pleaded to father Anu, but his cries were drowned out by the thunderous maelstrom of Kyne. Our gods were swept up in that tumult.<BR>\r\n<BR>"
+data:
+  weight: 3.0
+  value: 60
+  book_type: Book
+  skill: None
+  enchantment: 0

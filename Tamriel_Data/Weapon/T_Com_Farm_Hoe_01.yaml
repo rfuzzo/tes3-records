@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Com_Farm_Hoe_01
+name: Hoe
+script: ''
+mesh: pc\w\pc_farm_hoe_01.nif
+icon: pc\w\pc_w_hoe_01.dds
+enchanting: ''
+data:
+  weight: 8.0
+  value: 10
+  weapon_type: BluntTwoClose
+  health: 300
+  speed: 1.0
+  reach: 1.3
+  enchantment: 20
+  chop_min: 2
+  chop_max: 4
+  slash_min: 2
+  slash_max: 4
+  thrust_min: 0
+  thrust_max: 1
+  flags: ''

@@ -1,0 +1,23 @@
+type: Container
+flags: ''
+id: chest_small_mororurg
+name: Small Chest
+script: ''
+mesh: o\Contain_chest_small_02.NIF
+encumbrance: 25.0
+container_flags: IS_BASE
+inventory:
+- - 3
+  - ingred_bonemeal_01
+- - 3
+  - ingred_black_lichen_01
+- - 1
+  - ingred_daedra_skin_01
+- - 1
+  - ingred_emerald_01
+- - 1
+  - ingred_fire_petal_01
+- - 3
+  - ingred_hound_meat_01
+- - 3
+  - ingred_marshmerrow_01

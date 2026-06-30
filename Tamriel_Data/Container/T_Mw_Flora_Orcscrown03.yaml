@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Mw_Flora_Orcscrown03
+name: Orcscrown
+script: ''
+mesh: tr\f\tr_f_vm_orcscrown_03.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 2
+  - T_Mw_Random_FlorOrcscrown

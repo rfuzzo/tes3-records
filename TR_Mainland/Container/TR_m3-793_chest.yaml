@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: TR_m3-793_chest
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 5
+  - Gold_001
+- - 1
+  - T_Com_Dice_01
+- - 1
+  - T_De_WoodenScrib_01
+- - 1
+  - misc_de_lute_01
+- - 1
+  - text_paper_roll_01

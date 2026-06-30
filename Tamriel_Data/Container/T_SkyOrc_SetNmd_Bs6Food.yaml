@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: T_SkyOrc_SetNmd_Bs6Food
+name: Basket
+script: ''
+mesh: Sky\o\Sky_Cont_Orc_BSKT_06.nif
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Sky_Random_DrinksReach
+- - 2
+  - T_Sky_Random_FoodSimple
+- - 1
+  - T_Sky_Random_FoodVegetables

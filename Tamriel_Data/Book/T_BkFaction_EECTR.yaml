@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_BkFaction_EECTR
+name: East Empire Company Charter
+script: ''
+mesh: m\Text_Octavo_01.nif
+icon: m\Tx_octavo_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nImperial Charter of the East Empire Trading Company<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nI. Purpose<BR>\r\n<BR>\r\nThe East Empire Company serves as a unified body through which Western merchants may participate in trade with Morrowind and Black Marsh. The Company also governs various Eastern colonies at the Emperor's pleasure. Traders benefit from the Company's ability to negotiate fair prices in protected Eastern markets without prohibitive domestic competition. Citizens may purchase or sell Company shares at a stock exchange or a Company hall.<BR>\r\n<BR>\r\nThe Company has the exclusive right to trade in Eastern goods including raw ebony, raw glass, Dwemer artifacts, and rubber. In the East, the Company has the exclusive right to import Western goods including whiskey, brandy, and tea. In the West, the Company enjoys favorable import taxes on Eastern goods including kwama eggs, marshmerrow pulp, racer plumes, saltrice, and Telvanni bug musk.<BR>\r\n<BR>\r\nII. Authority<BR>\r\n<BR>\r\nThe East Empire Company was incorporated in the 34th year of the Third Era by Emperor Tiber Septim. The Company is managed by a board of directors appointed by the Emperor.<BR>\r\n<BR>\r\nIII. Rules and Procedures<BR>\r\n<BR>\r\nEmployees are expected to uphold the virtues and values of the Empire at all times. Acts such as killing or stealing from peers are an instant cause for termination from the Company and loss of all protections otherwise extended to its members.<BR>\r\n<BR>\r\nIV. Employment Requirements<BR>\r\n<BR>\r\nThe East Empire Company accepts candidates with a winning personality and a strong will. Those with the ability to speak eloquently and barter shrewdly are most valuable. Because the Company operates in all manner of hostile environments, applicants should have a keen sense of security, and as has been customary for generations, all Company employees should be trained in the time-honored virtues of long blades and medium armor.<BR>\r\n<BR>\r\nV. Applications for Employment<BR>\r\n<BR>\r\nCandidates must present themselves to an officer at a Company hall for examination and approval.<BR>\r\n<BR>\r\nATTACHMENT A: East Empire Company Agencies in Morrowind Province<BR>\r\n<BR>\r\nAgencies are established in Company-owned, free-standing offices in the towns of Ebonheart, Old Ebonheart, Kragenmoor, and Firewatch. The agency in Almalexia is established in the Mournhold complex under lease from the Indoril Council. The agency in Blacklight is established in the Harbor under lease from the Redoran Council. The agency in Narsis is established on the Waterfront under lease from the Hlaalu Council.<BR>\r\n<BR>\r\n"
+data:
+  weight: 3.0
+  value: 30
+  book_type: Book
+  skill: None
+  enchantment: 0

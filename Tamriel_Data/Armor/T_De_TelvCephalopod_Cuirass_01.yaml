@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_De_TelvCephalopod_Cuirass_01
+name: Telvanni Cephalopod Cuirass
+script: ''
+mesh: tr\a\tr_a_telvceph_cuir_gnd.nif
+icon: tr\a\tr_a_telv_ceph_cuirass.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_A_DeTelvCephCuirass01_C
+  female_bodypart: ''
+data:
+  armor_type: Cuirass
+  weight: 12.0
+  value: 125
+  health: 400
+  enchantment: 90
+  armor_rating: 8

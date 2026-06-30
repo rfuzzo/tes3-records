@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: TR_m7_Ns_IL_5_Light2
+name: Paper Lantern
+script: TR_m7_Ns_IL_5_ObjSc
+mesh: l\Light_De_Lantern_11.NIF
+icon: l\Light_De_Lantern_11.tga
+sound: ''
+data:
+  weight: 3.0
+  value: 10
+  time: 150
+  radius: 128
+  color:
+  - 255
+  - 15
+  - 5
+  - 0
+  flags: DYNAMIC | CAN_CARRY

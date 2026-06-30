@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_gravedust_01
+name: Gravedust
+script: ''
+mesh: n\Ingred_Gravedust_01.nif
+icon: n\Tx_gravedust_01.tga
+data:
+  weight: 0.1
+  value: 1
+  effects:
+  - DrainAttribute
+  - CureCommonDisease
+  - DrainMagicka
+  - RestoreAttribute
+  skills:
+  - Block
+  - Block
+  - Block
+  - Block
+  attributes:
+  - Intelligence
+  - Strength
+  - Strength
+  - Endurance

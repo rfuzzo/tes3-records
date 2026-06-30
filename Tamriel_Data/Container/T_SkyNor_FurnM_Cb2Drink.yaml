@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_SkyNor_FurnM_Cb2Drink
+name: Cupboard
+script: ''
+mesh: sky\o\sky_furn_n_m_cpbrd_02.nif
+encumbrance: 75.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Sky_Random_Drinks

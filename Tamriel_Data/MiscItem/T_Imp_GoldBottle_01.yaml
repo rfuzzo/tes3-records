@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_GoldBottle_01
+name: Gold Bottle
+script: ''
+mesh: pc\m\pc_misc_gold_btl_0.nif
+icon: pc\m\pc_misc_gold_btl01.dds
+data:
+  weight: 5.0
+  value: 250
+  flags: ''

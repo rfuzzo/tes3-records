@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: bm_amulspd1
+name: Hunter's Amulet of Speed
+script: ''
+mesh: c\Amulet_Exquisit_1.NIF
+icon: c\tx_amulet_exquisite1.tga
+enchanting: bm_amulspd
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 15000
+  enchantment: 1200

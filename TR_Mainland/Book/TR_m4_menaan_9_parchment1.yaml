@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_menaan_9_parchment1
+name: A forgery exercise
+script: ''
+mesh: m\Text_Parchment_02.nif
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[Looks like someone has been practicing a signature.] <br> <br>\r\nParanemissia Aphee <BR>\r\nParanemisai Apher <br>\r\nParanemsia Apher <br>\r\nParanemisia Apher <br>\r\nParanemisia Apher <br>\r\nParanemisia Apher <br>\r\nParanemisia Apher <br>\r\n... <BR> <br>\r\n[It gradually gets better.] <br>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

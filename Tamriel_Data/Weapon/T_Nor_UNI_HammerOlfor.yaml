@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Nor_UNI_HammerOlfor
+name: Olfor's Hammer
+script: ''
+mesh: sky\w\sky_w_hammer_olfor.nif
+icon: sky\w\sky_w_hammer_olfor.dds
+enchanting: T_Const_HammerOlfor_Uni
+data:
+  weight: 30.0
+  value: 110000
+  weapon_type: BluntTwoClose
+  health: 5000
+  speed: 1.0
+  reach: 1.5
+  enchantment: 0
+  chop_min: 1
+  chop_max: 60
+  slash_min: 1
+  slash_max: 60
+  thrust_min: 1
+  thrust_max: 2
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

@@ -1,0 +1,31 @@
+type: Armor
+flags: ''
+id: T_We_Wenbone_Greaves_01
+name: Wenbone Armor Greaves
+script: ''
+mesh: va\a\va_a_wenb_greav_gnd.nif
+icon: va\a\va_a_wenb_greaves.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: Groin
+  male_bodypart: T_A_WeWenBGreav01_G
+  female_bodypart: ''
+- biped_object_type: LeftUpperLeg
+  male_bodypart: T_A_WeWenBGreav01_UL
+  female_bodypart: ''
+- biped_object_type: LeftKnee
+  male_bodypart: T_A_WeWenBGreav01_K
+  female_bodypart: ''
+- biped_object_type: RightUpperLeg
+  male_bodypart: T_A_WeWenBGreav01_UL
+  female_bodypart: ''
+- biped_object_type: RightKnee
+  male_bodypart: T_A_WeWenBGreav01_K
+  female_bodypart: ''
+data:
+  armor_type: Greaves
+  weight: 13.0
+  value: 260
+  health: 160
+  enchantment: 25
+  armor_rating: 16

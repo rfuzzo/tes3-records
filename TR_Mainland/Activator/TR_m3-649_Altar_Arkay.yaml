@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3-649_Altar_Arkay
+name: Altar of Arkay
+script: TR_m3-649_ArkayScript
+mesh: x\ex_imp_mooring_01.nif

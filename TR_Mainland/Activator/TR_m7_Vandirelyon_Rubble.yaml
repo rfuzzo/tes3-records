@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_Vandirelyon_Rubble
+name: 'Rubble '
+script: TR_m7_Oth_MG_ScVandirRubble
+mesh: tr\x\tr_ex_strong_rub_san04.nif

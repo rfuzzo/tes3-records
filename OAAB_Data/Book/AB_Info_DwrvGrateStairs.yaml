@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: AB_Info_DwrvGrateStairs
+name: InfoBox - Dwemer Grate Stairs
+script: ''
+mesh: OAAB\h\marker_info.nif
+icon: OAAB\h\marker_info.tga
+enchanting: ''
+text: "This mesh is animated and has an example script on it to raise and lower.\r\n\r\nIdle: Raised\r\nIdle2: Lowering\r\nIdle3: Lowered\r\nIdle4: Raising\r\n\r\nThe mesh has markers which show which direction it will lower. These do not appear in game."
+data:
+  weight: 0.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 100

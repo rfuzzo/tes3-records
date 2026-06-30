@@ -1,0 +1,29 @@
+type: Container
+flags: ''
+id: TR_m7_Hlaalu2_Closet_1
+name: Closet
+script: ''
+mesh: o\Contain_De_Closet_02.NIF
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory:
+- - 3182
+  - Gold_001
+- - 1
+  - T_Com_SkullArgonian_02
+- - 1
+  - T_Com_SkullKhajiit_01
+- - 1
+  - T_De_Cm_Pants_10
+- - 1
+  - T_De_Cm_Shirt_14
+- - 1
+  - T_De_Cm_Shoes_01
+- - 1
+  - T_De_NetchRogue_Cuirass_01
+- - 1
+  - T_De_NetchRogue_Helm_01
+- - 1
+  - extravagant_amulet_01
+- - 1
+  - extravagant_ring_02

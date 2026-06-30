@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: com_chest_02_vault_01
+name: Wooden Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 400.0
+container_flags: IS_BASE
+inventory:
+- - 600
+  - random gold
+- - 1
+  - random excellent melee weapon
+- - 1
+  - l_m_armor_cuirass
+- - 5
+  - random_gem

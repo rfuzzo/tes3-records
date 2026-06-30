@@ -1,0 +1,11 @@
+type: Container
+flags: PERSISTENT
+id: TR_m2_q_14_NalethChest
+name: Naleth's Chest
+script: TR_m2_q_14_NalethChest_sc
+mesh: o\Contain_Com_Chest_01.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 9
+  - TR_m2_q_14_NalethSkooma

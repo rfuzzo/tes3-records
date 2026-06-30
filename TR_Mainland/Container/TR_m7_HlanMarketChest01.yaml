@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: TR_m7_HlanMarketChest01
+name: Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 3
+  - T_Mw_Lvl_WeaponsChitin
+- - 1
+  - T_Mw_Lvl_WeaponsCrossbow
+- - 2
+  - T_Mw_Lvl_WeaponsLongOneHand
+- - 1
+  - T_Mw_Lvl_WeaponsLongTwoHand

@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Imp_Ebonweave_Cuirass_01
+name: Ebonweave Cuirass
+script: ''
+mesh: tr\a\tr_a_ebonw_cuir_gnd.nif
+icon: tr\a\tr_a_ebonw_cuirass.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_A_ImpEbonweaveCuirass_C
+  female_bodypart: T_A_ImpEbonweaveCuirass_CF
+data:
+  armor_type: Cuirass
+  weight: 12.0
+  value: 11500
+  health: 1000
+  enchantment: 100
+  armor_rating: 30

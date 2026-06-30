@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_CardHortEmpty
+name: Unknown Card
+script: T_ScObj_CardHortEmpty
+mesh: tr\m\tr_misc_card_empty.nif
+icon: tr\m\tr_misc_card_empty.dds
+data:
+  weight: 0.02
+  value: 0
+  flags: ''

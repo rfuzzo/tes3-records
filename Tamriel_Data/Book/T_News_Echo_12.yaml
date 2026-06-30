@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Echo_12
+name: REDORAN RECLAIM IBBI-SUEN MINE
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_text_note_nar_news.nif
+icon: tr\m\tr_text_note_nar_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\tr_echo_512_256.dds\" WIDTH=\"348\" HEIGHT=\"168\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nREDORAN RECLAIM IBBI-SUEN SILVER MINE -- TO WHAT END?<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nRecently, a contingent of soldiers from Ald Marak stormed the fortified silver mine of Ibbi-Suen, long held by a notorious local gang of defectors and bandits. In the aftermath of the assault, the most notable military action that the Waters March has undertaken in years, Serjo Delis Llethri -- Daughter of Redoran Councilor Garisa Llethri, and Commander of Ald Marak -- has promised to expand the scope of patrols throughout the region. The move, which would significantly bolster House Redoran's presence in the Coronati Basin, has prompted all outside observers to ask the same question: Why bother?<BR><BR>\r\nIn general, the leadership of the Waters March have spent the Third Era -- and especially the last few tumultuous decades -- fumbling from one disaster to the next, slowly shrinking from the political stage as their more savvy peers take to the forefront. As their original purpose has become outmoded by the passage of time, House Redoran in the Coronati Basin have continually demonstrated an inability to govern in peacetime. Crucially, even their ability to respond to conflict has been eroded, as the initial loss of Ibbi-Suen mine demonstrated several years ago.<BR><BR>\r\nEven so, those who rule from the vestigial council seat of Ald Iuval refuse to accept reality, and stubbornly hold onto their dream of a resurgent Waters March. This seemingly bold development, then, can be contextualized as merely the latest in a series of delusional power grabs. Dying gasps from an institution flailing for relevance, desperately needing to be put out of its misery.<BR><BR>\r\nDoes the reclamation of Ibbi-Suen mean bright things for House Redoran in the future? Probably not. But if it does, rest assured that they will find a way to squander it.<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: contain_corpse_Peke
+name: Corpse of Peke Utchoo
+script: Sound_Flies
+mesh: o\contain_corpse10.NIF
+encumbrance: 120.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - ingred_bonemeal_01
+- - 1
+  - key_table_Mudan00
+- - 10
+  - Gold_001
+- - 6
+  - misc_dwrv_coin00
+- - 1
+  - probe_bent

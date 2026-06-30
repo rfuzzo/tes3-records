@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m4_HautharmoPearl
+name: Hautharmo's Black Pearl
+script: TR_m4_HauthPearlSmash
+mesh: tr\n\tr_ing_pearlblack_mm.nif
+icon: tr\n\tr_ing_pearlblack_mm.dds
+enchanting: TR_m3_Sabine locket
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 0
+  enchantment: 500

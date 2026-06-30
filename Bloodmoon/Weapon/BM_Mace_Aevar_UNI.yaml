@@ -1,0 +1,23 @@
+type: Weapon
+flags: PERSISTENT
+id: BM_Mace_Aevar_UNI
+name: Mace of Aevar Stone-Singer
+script: ''
+mesh: w\W_art_Ice_mace.NIF
+icon: w\Ice_mace.dds
+enchanting: bm_mace
+data:
+  weight: 90.0
+  value: 50000
+  weapon_type: BluntOneHand
+  health: 10000
+  speed: 1.0
+  reach: 1.6
+  enchantment: 200
+  chop_min: 30
+  chop_max: 90
+  slash_min: 30
+  slash_max: 90
+  thrust_min: 10
+  thrust_max: 10
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE | SILVER

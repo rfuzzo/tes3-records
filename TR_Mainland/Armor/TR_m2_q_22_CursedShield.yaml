@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: TR_m2_q_22_CursedShield
+name: Dwemer Shield
+script: TR_m2_q_22_CursedShield_Script
+mesh: a\Shield_Dwemer.nif
+icon: a\Tx_Dwemer_shield.tga
+enchanting: TR_m2_q_22_CursedShield_en
+biped_objects:
+- biped_object_type: Shield
+  male_bodypart: shield_dwemer
+  female_bodypart: ''
+data:
+  armor_type: Shield
+  weight: 15.0
+  value: 510
+  health: 400
+  enchantment: 500
+  armor_rating: 20

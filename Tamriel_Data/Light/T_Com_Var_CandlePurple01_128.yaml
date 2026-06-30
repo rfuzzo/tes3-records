@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_Com_Var_CandlePurple01_128
+name: ''
+script: ''
+mesh: pc\l\pc_candle_purpl01.nif
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 128
+  color:
+  - 245
+  - 140
+  - 40
+  - 0
+  flags: DYNAMIC | FIRE | FLICKER_SLOW

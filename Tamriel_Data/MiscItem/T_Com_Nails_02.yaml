@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_Nails_02
+name: Cup of Nails
+script: ''
+mesh: tr\f\tr_furn_com_nails.nif
+icon: tr\m\tr_misc_large_mug.dds
+data:
+  weight: 0.4
+  value: 1
+  flags: ''

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: silver staff of paralysis
+name: Silver Staff of Paralysis
+script: ''
+mesh: w\W_silver_staff.nif
+icon: w\Tx_silver_staff.tga
+enchanting: paralysis weapon
+data:
+  weight: 6.4
+  value: 86
+  weapon_type: BluntTwoWide
+  health: 270
+  speed: 1.75
+  reach: 1.5
+  enchantment: 56
+  chop_min: 20
+  chop_max: 45
+  slash_min: 20
+  slash_max: 45
+  thrust_min: 15
+  thrust_max: 30
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE | SILVER

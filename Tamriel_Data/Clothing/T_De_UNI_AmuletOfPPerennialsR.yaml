@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_De_UNI_AmuletOfPPerennialsR
+name: Amulet of Perennial Rest
+script: ''
+mesh: c\Amulet_Extravagant_2.NIF
+icon: c\tx_amulet_extrav2.tga
+enchanting: T_Const_RestoreAttributes
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 280
+  enchantment: 600

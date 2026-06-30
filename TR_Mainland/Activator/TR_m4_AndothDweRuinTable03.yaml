@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_AndothDweRuinTable03
+name: ''
+script: TR_m4_AndothDweTable03_scp
+mesh: f\furn_com_table_02.nif

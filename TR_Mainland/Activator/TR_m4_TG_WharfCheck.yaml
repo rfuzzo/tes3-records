@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m4_TG_WharfCheck
+name: Jo'Kaar Check Activator
+script: TR_m4_TG_WharfCheck_scp
+mesh: EditorMarker.NIF

@@ -1,0 +1,9 @@
+type: Container
+flags: PERSISTENT
+id: TR_m3_pilgrimsupplies
+name: Wooden Chest
+script: TR_m3_q_a9_pilgrimsupplieschest
+mesh: o\contain_chest10.nif
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory: []

@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: TR_i2-72_de_r_chest_01
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_De_Necrom_Boots_01
+- - 1
+  - T_De_Necrom_Shield_01
+- - 1
+  - random_expensive_de_mclothes_02

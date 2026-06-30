@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_BluewareTankard01
+name: Tankard
+script: ''
+mesh: tr\m\tr_misc_blue_tankard.nif
+icon: tr\m\tr_misc_bluewtankard01.dds
+data:
+  weight: 1.0
+  value: 3
+  flags: ''

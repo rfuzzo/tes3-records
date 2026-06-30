@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_OE_sign_c_alchemy_01
+name: Narusya's Fine Potions
+script: SignRotate
+mesh: f\active_sign_c_alchemy_01.nif

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Dae_Scamp_SSword_01
+name: Scamp Shortsword
+script: ''
+mesh: pc\w\pc_w_scamp_sword.nif
+icon: pc\w\pc_w_scamp_sword.dds
+enchanting: ''
+data:
+  weight: 7.0
+  value: 200
+  weapon_type: ShortBladeOneHand
+  health: 650
+  speed: 2.0
+  reach: 1.0
+  enchantment: 80
+  chop_min: 4
+  chop_max: 9
+  slash_min: 4
+  slash_max: 9
+  thrust_min: 7
+  thrust_max: 11
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

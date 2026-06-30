@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_IllustratedGuideToFireTR
+name: An Illustrated Guide to Fire
+script: ''
+mesh: TR\m\TR_book_closed_i12_AY.nif
+icon: TR\m\TR_book_closed_i12_AY.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR> An Illustrated Guide to Fire <BR> by Abraxas K'Eje <BR>\r\n<IMG SRC=\"TR\\tr_flame_colors_01.dds\" WIDTH=\"220\" HEIGHT=\"220\"> <BR>Arsenic burns with a blue flame. Copper burns with a green flame. Iron burns with an orange flame. <BR>\r\n<IMG SRC=\"TR\\tr_flame_colors_02.dds\" WIDTH=\"220\" HEIGHT=\"220\"> <BR> \r\nLead burns with a pale blue flame. Quicksilver burns with a red flame. Antimony burns with a pale green flame. <BR>\r\n<IMG SRC=\"TR\\tr_flame_colors_03.dds\" WIDTH=\"220\" HEIGHT=\"220\">  <BR> \r\nSulfur burns with a deep blue flame. Salt burns with a yellow flame. Charcoal burns with an orange flame. <BR>\r\n<IMG SRC=\"TR\\tr_flame_colors_04.dds\" WIDTH=\"220\" HEIGHT=\"220\">  <BR> \r\nDragonbone burns with a white flame. Adamantium burns with a purple flame. Heartwood burns with a flame of many colors. <BR>"
+data:
+  weight: 2.5
+  value: 100
+  book_type: Book
+  skill: Alchemy
+  enchantment: 100

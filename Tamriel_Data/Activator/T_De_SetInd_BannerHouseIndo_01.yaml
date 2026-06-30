@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_De_SetInd_BannerHouseIndo_01
+name: House Indoril
+script: OutsideBanner
+mesh: tr\f\tr_act_banner_indo_01.nif

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: AB_IngFlor_Scypha
+name: Scypha Mycena Caps
+script: ''
+mesh: OAAB\n\ingr_scyphacaps.nif
+icon: OAAB\n\ingr_scyphacaps.dds
+data:
+  weight: 0.1
+  value: 2
+  effects:
+  - DamageHealth
+  - WeaknessToPoison
+  - DamageAttribute
+  - FortifyAttribute
+  skills:
+  - None
+  - None
+  - Block
+  - Block
+  attributes:
+  - None
+  - None
+  - Intelligence
+  - Endurance

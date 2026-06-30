@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: TR_m4_mundrethi_desk
+name: Desk
+script: ''
+mesh: TR\o\TR_De_R_Desk01.NIF
+encumbrance: 75.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - misc_skooma_vial
+- - 3
+  - potion_skooma_01
+- - 10
+  - random gold

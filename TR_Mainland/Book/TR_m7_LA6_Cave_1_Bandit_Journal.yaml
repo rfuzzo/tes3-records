@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_LA6_Cave_1_Bandit_Journal
+name: Bandit Chief's Journal
+script: ''
+mesh: tr\m\tr_book_notebk_05.nif
+icon: tr\m\tr_book_closed_ntbk05.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nEntry 1: <br>\r\nThe boys managed to knock out a troll and drag the beast here. Put it in the cage. Bathys says he knows how to train it. Says no one will dare to come snooping around here once we've got ourselves a trained troll to guard the cave. Pretty clever.\r\n<br>\r\n<br>\r\nEntry 2: <br>\r\nThe troll ripped Bathys to pieces and ate him. Should've known this was an absolutely moronic idea.\r\n<BR>\r\n<BR>\r\nEntry 3: <BR>\r\nThe troll is still in the cage. No one dares to go near it. Decided to let the beast starve to death. It's still got some bits of Bathys left, though, so it might take a while.\r\n<BR>"
+data:
+  weight: 0.5
+  value: 10
+  book_type: Book
+  skill: None
+  enchantment: 0

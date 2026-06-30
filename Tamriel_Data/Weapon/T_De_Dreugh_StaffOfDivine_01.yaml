@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_De_Dreugh_StaffOfDivine_01
+name: Divine Judgement Dreugh Staff
+script: ''
+mesh: w\W_Dreugh_staff.NIF
+icon: w\tx_dreugh_staff.tga
+enchanting: T_Strike_DreughStaffOfDivine
+data:
+  weight: 7.2
+  value: 650
+  weapon_type: BluntTwoWide
+  health: 270
+  speed: 1.75
+  reach: 1.5
+  enchantment: 63
+  chop_min: 2
+  chop_max: 10
+  slash_min: 3
+  slash_max: 10
+  thrust_min: 1
+  thrust_max: 8
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

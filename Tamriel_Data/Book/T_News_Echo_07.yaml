@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Echo_07
+name: NARSIS ARENA FIGHTS RIGGED?
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_text_note_nar_news.nif
+icon: tr\m\tr_text_note_nar_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\tr_echo_512_256.dds\" WIDTH=\"348\" HEIGHT=\"168\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nRIGGED FIGHTS IN THE NARSIS ARENA?<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nSuspicious activity surrounding one of the Narsis Arena's recent fights has cast doubt on the institution's integrity. After longtime combatant Ralvam Turil lost a round against the rising star %PCName, Dravos Turil, one of the Arena's biggest investors and father to Ralvam, withdrew all his former monetary support. Additionally, the victorious %PCRace was banned from any further fights, with no declared cause. Echo reporters, in an attempt to shed light on the situation, have gleaned some surprising information from an anonymous source in the Arena. Not only was %PCName offered a bribe to lose a match, but many other competitors going up against Ralvam were also offered bribes -- all supposedly by Dravos Turil. Such news raises troubling questions: Could other fights have been rigged? What does this mean for the betting markets? Whatever the answers would be, trust in the Arena has been shaken, and it may take some time to be regained.<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

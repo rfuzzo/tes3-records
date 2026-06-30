@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_De_Set_BannerSaintVivec_01
+name: Vivec
+script: OutsideBanner
+mesh: TR\f\TR_act_banner_vehk01.nif

@@ -1,0 +1,21 @@
+type: Container
+flags: ''
+id: TR_m7_SH06C1_BossChest
+name: Chest
+script: ''
+mesh: o\Contain_Com_Chest_01.NIF
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - TR_m7_Ns_FG_4_NayalimmuJournal
+- - 50
+  - T_De_Glass_Shardbolt_01
+- - 2
+  - T_IngMine_Sapphire_01
+- - 1
+  - pick_grandmaster
+- - 1
+  - pick_master
+- - 1
+  - probe_master

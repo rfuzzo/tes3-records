@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_De_Set_BannerTownLlothan_01
+name: Llothanis
+script: OutsideBanner
+mesh: tr\f\TR_banner_Llothanis.nif

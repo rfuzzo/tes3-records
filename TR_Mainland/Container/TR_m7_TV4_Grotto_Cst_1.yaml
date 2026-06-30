@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: TR_m7_TV4_Grotto_Cst_1
+name: Ancient Chest
+script: ''
+mesh: o\contain_daedric_chest_01.nif
+encumbrance: 0.0
+container_flags: IS_BASE
+inventory: []

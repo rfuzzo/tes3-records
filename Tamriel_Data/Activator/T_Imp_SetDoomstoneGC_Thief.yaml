@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_SetDoomstoneGC_Thief
+name: The Thief Stone
+script: T_ScObj_DoomBThiefPC
+mesh: pc\f\pc_dmstn_gc_thief.nif

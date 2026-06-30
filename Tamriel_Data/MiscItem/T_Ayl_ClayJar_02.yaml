@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Ayl_ClayJar_02
+name: Clay Jar
+script: ''
+mesh: pc\m\pc_ay_jar_02.nif
+icon: pc\m\pc_ay_jar_02.dds
+data:
+  weight: 4.0
+  value: 11
+  flags: ''

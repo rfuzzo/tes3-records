@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: de_p_chest_02_verethi
+name: Chest
+script: ''
+mesh: o\contain_de_chest_02.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - dwarven battle axe
+- - 1
+  - orcish warhammer
+- - 1
+  - ebony shortsword

@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: storm helm
+name: Storm Helm
+script: ''
+mesh: a\A_Bonemold_Gah_Julan_h.nif
+icon: a\TX_Bonemold_Gah_Julan_h.tga
+enchanting: lightning shield_en
+biped_objects:
+- biped_object_type: Head
+  male_bodypart: a_bonemold_gah_julan_h
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 4.0
+  value: 215
+  health: 160
+  enchantment: 200
+  armor_rating: 16

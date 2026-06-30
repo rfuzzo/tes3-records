@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_MysticPathEmperorPC
+name: Mystic Path of the Emperor
+script: ''
+mesh: pc\m\PC_bk_Book_20.nif
+icon: pc\m\pc_bk_book_20.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nMYSTIC PATH OF THE EMPEROR<BR>\r\n<BR>\r\n<BR>\r\nAL-ESH RE-MAN TA-LOS<BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\nA word of power for the willing Man, he whose open palm has the strength of a fist. Be you without flaws.<BR>\r\n<BR>\r\nBe you as the Emperors of old, they to whom all others submit, who carry majesty in word and deed,<BR>\r\nbe you as Alessia, who, from obscure birth below the earth, did rise to the most resplendent position, learn from her that man overcomes,<BR>\r\nbe you as Reman, who devoured and destroyed his enemies, and crushed them, learn from his the supremacy of the will,<BR>\r\nbe you as Tiber, who knew above all else the ways of conquest, and took the whole of the world for himself, learn from him the art of law.<BR>\r\n<BR><DIV ALIGN=\"CENTER\">\r\nHISS-TRA SIDRI-SHAK KUHLA-KHAN<BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\nA word of silence for they who came before, roadbuilders, praise for the fathers of the sons of man. Be you without regret.<BR>\r\n<BR>\r\nBe you as the waymakers, they who walked so all may follow, who were humble in power, and victim of deceit,<BR>\r\nbe you as Hestra, who unified and divided, and anointed each of our crossroads with blood,<BR>\r\nbe you as Sidri-Ashak, the caretaker, who planted stones as seeds of law in the far places,<BR>\r\nbe you as Cuhlecain, who foresaw and made clear the path, and knew his hour well in advance.<BR>\r\n<BR><DIV ALIGN=\"CENTER\">\r\nCYR-UT CYR-UT CYR-UT<BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\nA word of plenty for the ground on which we walk, holy Cyrod, mother of man. Be you without unrest.<BR>\r\n<BR>\r\nBe you as Cyrod, resplendent, whose spine is made of high stone, whose belly is wet with hidden jungle,<BR>\r\nbe you as the mighty Highlands, arid tops touched by snow, whose walls repel the invader,<BR>\r\nbe you as the broad river Niben, lifebringer, whose slow coils carry ships to the hearth or smash them asunder,<BR>\r\nbe you as the forbidden jungle, crouched in silent hostility, hissing, that which longs for blood,<BR>\r\nBe you as the Emperor in his tower, inviolate and under Divine mandate, master of all he perceives.<BR>\r\n<BR>"
+data:
+  weight: 3.0
+  value: 220
+  book_type: Book
+  skill: None
+  enchantment: 0

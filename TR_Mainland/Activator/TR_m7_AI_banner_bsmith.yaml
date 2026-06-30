@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_AI_banner_bsmith
+name: 'Llareu Bethones: Bonesmith'
+script: OutsideBanner
+mesh: f\Furn_bannerD_WA_shop_01.nif

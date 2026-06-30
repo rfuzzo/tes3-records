@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Yne_Iron_DartHeavy
+name: Ynesai Heavy Iron Dart
+script: ''
+mesh: pi\w\pi_w_yiron_hvydart.nif
+icon: pi\w\pi_w_yiron_hvydart.dds
+enchanting: ''
+data:
+  weight: 0.75
+  value: 6
+  weapon_type: MarksmanThrown
+  health: 80
+  speed: 1.0
+  reach: 1.0
+  enchantment: 20
+  chop_min: 3
+  chop_max: 5
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: ''

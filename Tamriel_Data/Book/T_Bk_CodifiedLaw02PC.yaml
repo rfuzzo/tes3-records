@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_CodifiedLaw02PC
+name: Codified Law, Vol. II
+script: ''
+mesh: pc\m\PC_bk_Book_08.nif
+icon: pc\m\pc_bk_book_08.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nCODIFIED LAW<BR>\r\n-- Vol. II --<BR>\r\n<BR>\r\nThe Empire is Law;<BR>\r\nThe Law is Sacred<BR>\r\n<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n[The Alessian Doctrines, written by the prophet Marukh, were the founding edicts of the so-called Alessian Order. Though considered heretic and blasphemous today, some Marukhati principles remain the foundation of Imperial Law. Excerpt-books such as this one are one of the few ways in which the Doctrines are allowed to be promulgated, and even then only among authorized students and practitioners of law. They are encrypted by legal ciphers whose keys are the closely guarded secrets of the Guild of Barristers.] <BR>\r\n<BR>\r\nZAZ NTE GBQ EBZEQ CE I - CZBFIZ - KBVVRCHMQ WY OS FPR - BKVWWAGMK - JBA WS IEY NTQAOL UUP BUM YVLEB VLXN XQAVOGRX NG GPX FOZUNLX - JUFKUMK - JBA VRDXE FQIIML UCE ICXHVHFMQ AMNNUWA IGQ VGQYB UL NTM - SIVRN RZNOFRHF IFXXPNE - EUW TEY OWEZNCNQL NVW - HHPWAM - UL YXDRV EVYE WS - EAVMBME - PXNL YM SWK V MBMNS PVNT BUM OBCOM BN MUY - QFNTMRX - AVR EAB CE OYWKL UZL YIFRHF IYT FBLFIY AIVLUBF IKR NTCF KHAZUVRL MB NTM - CZBFIZ - EUQVU NTM VOGBLMVG KTYF FPR IKRHM - UBZLRF UV GPX RUDBUA FBOFP - NVW NFX IEM - ZHCXBL - CGGCX BUMR UUHM CZHIYZ BUMFFYXDRA - BAHAKRVM - FI UB VA<BR>"
+data:
+  weight: 3.0
+  value: 150
+  book_type: Book
+  skill: None
+  enchantment: 0

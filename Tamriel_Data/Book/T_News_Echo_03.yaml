@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Echo_03
+name: FOREIGN QUARTER KILLER ARRESTED
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_text_note_nar_news.nif
+icon: tr\m\tr_text_note_nar_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\tr_echo_512_256.dds\" WIDTH=\"348\" HEIGHT=\"168\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nFOREIGN QUARTER KILLER BROUGHT TO JUSTICE<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nHlalur Galan, a former butcher known to many as the Foreign Quarter Killer, has been arrested by the Canyon Watch. This infamous murderer killed eight Imperial women in Narsis over the past months, and his capture has reassured many of our Cyrodiilic citizens of the Watch's efficiency at punishing such crimes. \"I knew a few friends who had been found dead in their beds,\" recounted Musa Talania to a Canyon Echo reporter. \"At a certain point, I had to start sleeping with a dagger just to feel safe. I'm so glad that the Watch has finally put this criminal where he belongs.\" According to Deputy Captain of the Canyon Watch Andres Hlaalo, the murders may have been Galan's attempt to attract Camonna Tong's attention in an effort to join the gang. Due to the nature of his crimes, he has been sentenced to fight in the Narsis Arena until his death.<BR><BR>\r\nThe Echo sends its condolences to any relatives or friends of the killer's victims, and hopes that they may find comfort in his just fate.<BR><BR>\r\n<DIV ALIGN=\"CENTER\">\r\nSTORMY SEAS SINK SHIP OFF VVARDENFELL<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nStormy conditions in Azura's Coast have wrecked the ship \"Prelude\" off southern Vvardenfell, and several crew members are believed to have drowned. The ship's owner, Dravos Turil, has confirmed that it carried valuable cargo, but refused to disclose any specifics to Echo reporters. Any ships traveling through the coast should be cautious of sailing in rough weather.<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_EmptyOctavo07HF
+name: <Placeholder>
+script: ''
+mesh: hf\m\hf_text_octavo_07.nif
+icon: hf\m\hf_text_octavo_07.dds
+enchanting: ''
+text: ''
+data:
+  weight: 3.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 0

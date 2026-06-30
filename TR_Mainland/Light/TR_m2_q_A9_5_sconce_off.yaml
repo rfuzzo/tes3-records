@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: TR_m2_q_A9_5_sconce_off
+name: ''
+script: TR_m2_q_A9_5_LightOnScript
+mesh: l\light_sconce00.nif
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 16
+  color:
+  - 0
+  - 0
+  - 0
+  - 0
+  flags: ''

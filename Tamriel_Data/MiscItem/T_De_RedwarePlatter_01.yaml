@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_RedwarePlatter_01
+name: Redware Platter
+script: ''
+mesh: tr\m\tr_misc_red_platt01.nif
+icon: tr\m\tr_misc_redplatt01.dds
+data:
+  weight: 3.0
+  value: 2
+  flags: ''

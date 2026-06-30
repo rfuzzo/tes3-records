@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Nor_CordedPitcher_01
+name: Corded Pitcher
+script: ''
+mesh: sky\m\sky_misc_cord_ptcr_01.nif
+icon: sky\m\sky_misc_cord_pitcher.dds
+data:
+  weight: 2.5
+  value: 6
+  flags: ''

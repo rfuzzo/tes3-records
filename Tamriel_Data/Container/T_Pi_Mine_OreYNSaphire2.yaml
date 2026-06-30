@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Pi_Mine_OreYNSaphire2
+name: Raw Sapphire
+script: ''
+mesh: pi\o\pi_cont_ynrock_saph_02.nif
+encumbrance: 0.0
+container_flags: ORGANIC | IS_BASE
+inventory:
+- - 8
+  - T_Mw_Random_OreSapphire

@@ -1,0 +1,37 @@
+type: Container
+flags: ''
+id: dwrv_chest00_areas
+name: Heavy Dwemer Chest
+script: ''
+mesh: o\contain_dwrv_chest00.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - common_amulet_03
+- - 1
+  - expensive_amulet_03
+- - 1
+  - exquisite_skirt_01
+- - 1
+  - common_glove_left_01
+- - 1
+  - common_glove_right_01
+- - 1
+  - extravagant_robe_01_b
+- - 1
+  - common_belt_03
+- - 1
+  - feather belt
+- - 1
+  - expensive_shirt_01_u
+- - 1
+  - extravagant_shirt_01_h
+- - 1
+  - exquisite_shoes_01
+- - 1
+  - common_pants_05
+- - 1
+  - expensive_pants_02
+- - 1
+  - random_dwarven_all

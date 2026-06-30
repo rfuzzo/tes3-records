@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_He_GreenCeladonPlatter_01
+name: Green Celadon Platter
+script: ''
+mesh: sum\m\sum_misc_celg_platter.nif
+icon: sum\m\sum_misc_celg_platter.dds
+data:
+  weight: 5.0
+  value: 13
+  flags: ''

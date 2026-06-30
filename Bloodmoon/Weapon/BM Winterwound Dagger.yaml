@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: BM Winterwound Dagger
+name: Winterwound Dagger
+script: ''
+mesh: w\W_Nord_dagger.NIF
+icon: w\Nord_dagger.dds
+enchanting: winterwound_en
+data:
+  weight: 10.0
+  value: 1000
+  weapon_type: ShortBladeOneHand
+  health: 550
+  speed: 2.5
+  reach: 1.0
+  enchantment: 70
+  chop_min: 5
+  chop_max: 10
+  slash_min: 5
+  slash_max: 10
+  thrust_min: 10
+  thrust_max: 20
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE | SILVER

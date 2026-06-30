@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_MARK_Ns_Larence
+name: Larence Talland
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: ''
+enchanting: ''
+text: TR_m7_Larence Talland moves here after rescued from Sarahu (TR_m7_Ns_ShockTherapy)
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

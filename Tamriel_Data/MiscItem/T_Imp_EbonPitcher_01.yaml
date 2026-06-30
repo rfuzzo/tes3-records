@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_EbonPitcher_01
+name: Ebonware Pitcher
+script: ''
+mesh: pc\m\pc_m_ebon_pitch01.nif
+icon: pc\m\pc_m_ebon_pitch01.dds
+data:
+  weight: 7.0
+  value: 800
+  flags: ''

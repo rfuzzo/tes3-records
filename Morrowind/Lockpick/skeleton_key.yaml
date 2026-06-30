@@ -1,0 +1,12 @@
+type: Lockpick
+flags: ''
+id: skeleton_key
+name: The Skeleton Key
+script: ''
+mesh: m\Skeleton_key.NIF
+icon: m\tx_skeleton_key.tga
+data:
+  weight: 0.5
+  value: 1000
+  quality: 5.0
+  uses: 50

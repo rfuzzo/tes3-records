@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_De_UNI_ApostateRing
+name: Shaman's Ring
+script: ''
+mesh: tr\c\tr_c_ring_apostate.nif
+icon: tr\c\tr_c_ring_apostate.dds
+enchanting: T_Use_ApostateRing
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 22000
+  enchantment: 3000

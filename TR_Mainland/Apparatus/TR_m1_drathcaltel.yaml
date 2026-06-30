@@ -1,0 +1,12 @@
+type: Apparatus
+flags: ''
+id: TR_m1_drathcaltel
+name: Drathor's Calcinator
+script: noPickUp
+mesh: m\Apparatus_A_Calcinator_01.NIF
+icon: m\Tx_calcinator_01.tga
+data:
+  apparatus_type: Calcinator
+  quality: 0.5
+  weight: 25.0
+  value: 10

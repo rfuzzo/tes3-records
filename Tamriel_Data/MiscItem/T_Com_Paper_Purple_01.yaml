@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_Paper_Purple_01
+name: Dyed Paper
+script: ''
+mesh: tr\m\tr_misc_paper_pur01.nif
+icon: tr\m\tr_m_paper_purp.dds
+data:
+  weight: 0.1
+  value: 5
+  flags: ''

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_LostAndFoundInTheReachHR
+name: Lost and Found in the Reach
+script: ''
+mesh: hr\m\HR_Bk_11.nif
+icon: hr\m\hr_bk_11.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nLost and Found in the Reach<BR>\r\nby Edreard Rodore<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nEast of Wayrest's nustling harbors and beyond the towers of Evermore, the hilltops and mesas of the Reach conceal mysteries and magicks to befuddle even the most enlightened academic minds. In my careless youth, when the West's magic orders seemed to me restrictive and unyielding, I set off into these highlands seeking knowledge of a wilder kind.<BR>\r\n<BR>\r\nBut the Reach is a savage place, bereft of the comforts and common faculties of home and hearth. I traveled long, weary of foot and heart, before stumbling upon my first grand discovery: a mighty elven citadel, forgotten and crumbling atop a mesa of grey stone. I explored its depths, battling strange otherwordly beasts and ferocious local creatures. In the ruin's deepest catacombs, I uncovered a trove of lost elven treasure more magnificent than anything I had set eyes upon in all my years. But I lamented disturbing such a site, and despaired at the idea that my hands should be the ones to sully its glory. So I departed in peace, and kept the secrets of the citadel to myself.<BR>\r\n<BR>\r\nI wandered on, eventually finding myself in the company of a strange man named Ancrial. A shaman-mage of significant talent, Ancrial's view of magic was unlike anything I had learned in the stuffy guildhalls of High Rock. To Ancrial, magic was not a science to be studied in a laboratory, but a force alive within every tree and rock and cloud. I remember with distinction a spell Ancrial called \"Marrelaeth\", which when cast encased my companion in an envelope of powerful warding magic, repelling the most terrible dangers of spell and sword alike.<BR>\r\n<BR>\r\nThese dangers became apparent to me soon after I left Ancrial's company. My sights set upon some Nordic fortress of old whose ramparts teased the edge of a faraway forest, I became distracted. Realizing my mistake too late, I stumbled headlong into the camp of a wild minotaur! Eleven feet tall and bristling with ferocity and rage, the great beast and I traded deadly blows in a brisk twilight, before I hoodwinked the brute into a misstep that sent him careening off a cliff into the valley below. I did not linger to ensure his demise.<BR>\r\n<BR>\r\nIt was long months before I found myself in civilization again, in a sprawling trade-town called Karthwasten. Though its streetlamps and road-cobbles reminded me dimly of home, I felt no longing, at least for the great cities of the West. No, when I came back to the city, it was the wilds that called to me, bidding me set off once more into the misty ravines and craggy highlands I had so come to love.<BR>"
+data:
+  weight: 3.0
+  value: 100
+  book_type: Book
+  skill: None
+  enchantment: 0

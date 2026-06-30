@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: T_Glb_Fauna_FishSlRst02
+name: Roasted Fish
+script: ''
+mesh: pc\o\pc_cont_roastedfish_02.nif
+encumbrance: 0.0
+container_flags: ORGANIC | IS_BASE
+inventory:
+- - 4
+  - T_IngFood_FishSlaughterDried_01
+- - 4
+  - ingred_scales_01

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Nor_StonewarePlatter_01
+name: Stoneware Platter
+script: ''
+mesh: sky\m\sky_misc_stwr_pltr_01.nif
+icon: sky\m\sky_misc_stwr_pltr_01.dds
+data:
+  weight: 4.0
+  value: 5
+  flags: ''

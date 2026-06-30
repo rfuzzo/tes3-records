@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: BM_wolf_cuirass_snow
+name: Snow Wolf Cuirass
+script: ''
+mesh: a\A_Wolf_Cuirass_GND.NIF
+icon: A\Tx_Wolf_Cuirass.dds
+enchanting: snow shield
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: A_wolf_Cuirass
+  female_bodypart: A_Wolf_Skinf
+data:
+  armor_type: Cuirass
+  weight: 9.0
+  value: 10000
+  health: 325
+  enchantment: 60
+  armor_rating: 35

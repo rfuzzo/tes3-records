@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m1_Yamanakal_Spoon
+name: Shiny Silver Spoon
+script: ''
+mesh: m\misc_com_silverware_spoon.nif
+icon: m\Misc_Com_Silverware_Spoon.tga
+data:
+  weight: 1.0
+  value: 500
+  flags: ''

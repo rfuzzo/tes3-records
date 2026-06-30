@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_In_CavePySpoutLava00
+name: ''
+script: AB_Lava_s
+mesh: OAAB\e\cave_py_spout_lava00.nif

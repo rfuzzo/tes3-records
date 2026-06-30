@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_SkyrenderVenom_01
+name: Skyrender Venom
+script: ''
+mesh: TR\n\TR_Ing_Dres_Venom_01.nif
+icon: TR\n\TR_Ing_Dres_Venom_01.dds
+data:
+  weight: 0.1
+  value: 35
+  effects:
+  - Poison
+  - Paralyze
+  - ResistPoison
+  - CurePoison
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

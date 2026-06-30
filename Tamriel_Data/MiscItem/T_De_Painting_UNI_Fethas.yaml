@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_Painting_UNI_Fethas
+name: Fethas Hlaalu
+script: ''
+mesh: tr\m\TR_M_Painting_Fethas.nif
+icon: tr\m\TR_M_Painting_Fethas.tga
+data:
+  weight: 14.0
+  value: 1250
+  flags: ''

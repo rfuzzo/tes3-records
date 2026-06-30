@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m3_thunderstrike_UNI
+name: Thundersong
+script: ''
+mesh: TR\w\TR_w_dwrv_lsword.nif
+icon: TR\w\TR_w_dwrv_lsword.dds
+enchanting: TR_m3_thunderstrike_en
+data:
+  weight: 18.0
+  value: 1800
+  weapon_type: LongBladeOneHand
+  health: 1130
+  speed: 1.35
+  reach: 1.0
+  enchantment: 52
+  chop_min: 4
+  chop_max: 18
+  slash_min: 3
+  slash_max: 24
+  thrust_min: 5
+  thrust_max: 22
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

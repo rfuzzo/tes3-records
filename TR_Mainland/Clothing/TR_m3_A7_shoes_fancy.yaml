@@ -1,0 +1,20 @@
+type: Clothing
+flags: ''
+id: TR_m3_A7_shoes_fancy
+name: Fancy Shoes
+script: BILL_MarksDaedraSummon
+mesh: c\C_shoes_common_4_GND.NIF
+icon: c\tx_shoes_common_4.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: LeftFoot
+  male_bodypart: c_shoes_common_4
+  female_bodypart: ''
+- biped_object_type: RightFoot
+  male_bodypart: c_shoes_common_4
+  female_bodypart: ''
+data:
+  clothing_type: Shoes
+  weight: 9.0
+  value: 1
+  enchantment: 3

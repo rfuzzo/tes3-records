@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_FableValenwoodTR
+name: A Fable from Valenwood
+script: T_ScBook_SpCalmCreature
+mesh: m\Text_Octavo_04.nif
+icon: m\Tx_octavo_04.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>\r\n\r\nA Fable from Valenwood<BR>\r\nby Ealoin<BR>\r\n<BR>\r\nIt was mere half a mile across the Elden Grove, amongst full leaved oaks and patterns of silvery cypress where the foxes were resting through the night and atop the branches, owls were singing a gentle tune, slowly caressing the range of fauna in their slumbers. Untouched by the ever-restless man and only ventured to upon a call by mer, the creatures were at peace, with a cordial feeling to all the living in their hearts in the shades of Odossair.<BR>\r\n<BR>\r\nTheir provider it was, the forest, and with deepest respect they treated it, from the smallest worm and mouse to the fox, goose, deer and bear. No disease had ever ravaged trees or ones who had built their abodes under them, nor had a single tree ever been cut down or an animal killed by the hand of the elves, who had lived by Odossair for centuries. A pact between people had been made to keep out of it - not through fear but instead respect, understanding and sensibility.<BR>\r\n<BR>\r\nWith the forests' allure so strong and affecting all in its sphere, no one knew fear. A fortress full of life for animals and a wall on the town's hillside, bound to it were they all. A perfect symmetry, unspoken yet unbroken pact, sealed with no sacrifices from either side but a promise for love and life. <BR>\r\n"
+data:
+  weight: 3.0
+  value: 200
+  book_type: Book
+  skill: None
+  enchantment: 100

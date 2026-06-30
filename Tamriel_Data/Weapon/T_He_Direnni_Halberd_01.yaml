@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_He_Direnni_Halberd_01
+name: Old Elven Halberd
+script: ''
+mesh: Sky\w\sky_direnni_axe_01.nif
+icon: sky\w\tx_dir_axe_01.dds
+enchanting: ''
+data:
+  weight: 13.0
+  value: 320
+  weapon_type: SpearTwoWide
+  health: 900
+  speed: 1.07
+  reach: 1.8
+  enchantment: 160
+  chop_min: 1
+  chop_max: 9
+  slash_min: 1
+  slash_max: 9
+  thrust_min: 1
+  thrust_max: 21
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

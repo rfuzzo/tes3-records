@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_q_DrelegorNote
+name: Drelegor's Note
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nA few things were left in Feril's desk when I got here, including this amulet. I know I said 400, but this and 200 should add up to even more. Put it on next time you find yourself falling to your death.<BR>\r\n<BR>\r\n-D<BR>\r\n<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

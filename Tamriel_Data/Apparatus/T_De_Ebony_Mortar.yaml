@@ -1,0 +1,12 @@
+type: Apparatus
+flags: ''
+id: T_De_Ebony_Mortar
+name: Ebony Mortar and Pestle
+script: ''
+mesh: tr\m\tr_app_e_mortarpestle.nif
+icon: tr\m\tr_app_e_mortarpestle.dds
+data:
+  apparatus_type: MortarAndPestle
+  quality: 1.75
+  weight: 6.0
+  value: 12000

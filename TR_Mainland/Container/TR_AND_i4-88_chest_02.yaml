@@ -1,0 +1,27 @@
+type: Container
+flags: ''
+id: TR_AND_i4-88_chest_02
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - T_Com_Steel_Helm_Open_01
+- - 1
+  - T_Com_Steel_PauldronL_01
+- - 1
+  - T_Com_Steel_PauldronR_01
+- - 1
+  - T_De_HvChit_Boots
+- - 1
+  - T_De_HvChit_Greaves
+- - 1
+  - T_De_HvChit_Helmet
+- - 1
+  - T_De_HvChit_Pauldron_L
+- - 1
+  - T_De_HvChit_Pauldron_R
+- - 1
+  - bonemold_shield

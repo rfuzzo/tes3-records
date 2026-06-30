@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: soul ring
+name: Soul Ring
+script: ''
+mesh: c\Artifact_ring_soul_01.NIF
+icon: c\Tx_r_soul_01.tga
+enchanting: ward of araynys
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.2
+  value: 30000
+  enchantment: 150

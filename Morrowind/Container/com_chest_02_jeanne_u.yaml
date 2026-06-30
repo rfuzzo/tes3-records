@@ -1,0 +1,9 @@
+type: Container
+flags: PERSISTENT
+id: com_chest_02_jeanne_u
+name: Chest
+script: jeannechestScript
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 400.0
+container_flags: IS_BASE
+inventory: []

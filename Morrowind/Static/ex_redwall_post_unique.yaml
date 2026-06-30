@@ -1,0 +1,4 @@
+type: Static
+flags: PERSISTENT
+id: ex_redwall_post_unique
+mesh: x\Ex_redwall_post_01.NIF

@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Mw_Fauna_VentWorm_01
+name: Vent Worm
+script: T_ScCrea_VentWorm
+mesh: tr\o\tr_ventworm01.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - T_Mw_Random_OreSulfur

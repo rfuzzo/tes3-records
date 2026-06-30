@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: T_SkyNor_Furn_Ch1WizEvil
+name: Chest
+script: ''
+mesh: Sky\o\Sky_Cont_Chest_06_01.nif
+encumbrance: 250.0
+container_flags: IS_BASE
+inventory:
+- - 3
+  - T_Sky_Lvl_Potion
+- - 2
+  - bm_random_enchanted
+- - 3
+  - l_n_soul gem
+- - 1
+  - random_book_wizard_all
+- - 1
+  - random_book_wizard_evil

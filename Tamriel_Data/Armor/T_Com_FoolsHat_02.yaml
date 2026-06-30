@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Com_FoolsHat_02
+name: Fool's Hat
+script: ''
+mesh: pc\a\pc_a_fool_hat_02_g.nif
+icon: pc\a\pc_a_fools_hat_02.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Hair
+  male_bodypart: T_C_ComFoolsHat02_Hr
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 2.0
+  value: 5
+  health: 50
+  enchantment: 20
+  armor_rating: 6

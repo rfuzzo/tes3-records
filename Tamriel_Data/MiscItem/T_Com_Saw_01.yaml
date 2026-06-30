@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_Saw_01
+name: Saw
+script: ''
+mesh: Sky\m\Sky_Misc_Saw_01.nif
+icon: Sky\m\Tx_Misc_Saw_01.dds
+data:
+  weight: 5.0
+  value: 30
+  flags: ''

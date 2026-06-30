@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_Andothren_Chapel_Note1
+name: Rolled Prayer
+script: ''
+mesh: m\Text_paper_roll_01.nif
+icon: m\Tx_paper_roll_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<BR>\r\nYou are Mara<BR>\r\nBeloved mother,<BR>\r\nWife of The Missing God,<BR>\r\nShe who gathers our rites and administers our codes,<BR>\r\nFree this sickness from my body, cast upon me by a foul witch-sister of the wastes.<BR>\r\nThe journey home is long and arduous. I fear this burden shall delay my offerings beyond their rightful hour.<BR>\r\n"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: T_MwDe_SetVel_ChesEmpty
+name: Velothi Chest
+script: ''
+mesh: tr\o\tr_cont_v_chest_01.nif
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory: []

@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: TR_m2_Lgt_Lava
+name: ''
+script: ''
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 256
+  color:
+  - 237
+  - 50
+  - 3
+  - 0
+  flags: FLICKER_SLOW

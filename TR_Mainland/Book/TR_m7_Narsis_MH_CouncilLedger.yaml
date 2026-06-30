@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_Narsis_MH_CouncilLedger
+name: Council Ledger
+script: ''
+mesh: m\Text_Octavo_01.nif
+icon: m\Tx_octavo_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\n[This book lists transactions undertaken by the Hlaalu Grand Council going back several years.]\r\n<BR>"
+data:
+  weight: 3.0
+  value: 5
+  book_type: Book
+  skill: None
+  enchantment: 100

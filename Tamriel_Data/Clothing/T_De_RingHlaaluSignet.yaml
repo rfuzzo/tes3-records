@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_De_RingHlaaluSignet
+name: Hlaalu Signet Ring
+script: ''
+mesh: tr\c\tr_c_ring_hlaaluuni.nif
+icon: tr\c\tr_c_ring_hlaaluuni.dds
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 12000
+  enchantment: 1500

@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: TR_m4-476_chest_01
+name: Ancient Chest
+script: ''
+mesh: o\Contain_Com_Chest_01.NIF
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - 118
+  - Gold_001
+- - 1
+  - TR_m4-476_nyrebos_spear
+- - 2
+  - T_Mw_Random_Gems
+- - 1
+  - misc_de_goblet_05
+- - 1
+  - misc_skull00

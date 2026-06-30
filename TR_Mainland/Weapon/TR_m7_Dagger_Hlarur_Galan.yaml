@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m7_Dagger_Hlarur_Galan
+name: Hlarur Galan's Dagger
+script: ''
+mesh: tr\w\tr_w_dreugh_dagger.nif
+icon: tr\w\tr_w_dreugh_dagger.dds
+enchanting: TR_m7_Dagger_Hlarur_Galan_en
+data:
+  weight: 6.5
+  value: 180
+  weapon_type: ShortBladeOneHand
+  health: 350
+  speed: 2.5
+  reach: 1.0
+  enchantment: 30
+  chop_min: 5
+  chop_max: 7
+  slash_min: 5
+  slash_max: 7
+  thrust_min: 6
+  thrust_max: 8
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

@@ -1,0 +1,17 @@
+type: Clothing
+flags: ''
+id: T_He_Altmer_Skirt_01
+name: Altmeri Warrior Skirt
+script: ''
+mesh: tr\c\tr_c_altmer_skirt_01_g.nif
+icon: tr\c\tr_c_altmer_skirt_01.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Groin
+  male_bodypart: T_C_HeSkirt01_G
+  female_bodypart: ''
+data:
+  clothing_type: Skirt
+  weight: 3.0
+  value: 240
+  enchantment: 80

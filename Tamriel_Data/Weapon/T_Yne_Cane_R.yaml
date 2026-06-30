@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Yne_Cane_R
+name: Cane
+script: ''
+mesh: pi\w\yne_w_cane_r.nif
+icon: pi\w\yne_w_cane_r.dds
+enchanting: ''
+data:
+  weight: 4.0
+  value: 50
+  weapon_type: BluntTwoWide
+  health: 600
+  speed: 1.75
+  reach: 1.8
+  enchantment: 100
+  chop_min: 2
+  chop_max: 7
+  slash_min: 2
+  slash_max: 7
+  thrust_min: 1
+  thrust_max: 5
+  flags: ''

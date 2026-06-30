@@ -1,0 +1,19 @@
+type: Light
+flags: PERSISTENT
+id: TR_i2_445_MainBlueLight
+name: ''
+script: TR_m2_445_sc_MainBlueLight
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 1700
+  color:
+  - 44
+  - 105
+  - 220
+  - 0
+  flags: DYNAMIC

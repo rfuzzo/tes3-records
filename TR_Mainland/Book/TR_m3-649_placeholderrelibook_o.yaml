@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3-649_placeholderrelibook_o
+name: Prayers to the Nine Divines
+script: ''
+mesh: m\Text_Quarto_open_02.NIF
+icon: m\Tx_quarto_open_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR> Prayers to the Nine Divines <br> <br>\r\nCome to me, AKATOSH, for without you, my resolution falters, and my pen is still and dry, though all the seas were full of ink, and the sky my parchment of dawn.\r\n<br>\r\nCome to me, TALOS, for without you, my Lord and Emperor springs from rootless dust, and the Empire is scattered before the winds of war and ignorance.\r\n<br>\r\nCome to me, JULIANOS, for without you, my wit is weak to sort the wheat from the chaff, and my eyes should neither know the true from the false, nor sense from folly, nor justice from prejudice and interest.\r\n<br>\r\nCome to me, KYNARETH, for without you, I might not know the mysteries of the world, and so blind and in error, I might consume and profane the abundance of your beautiful treasures.\r\n<br>\r\nCome to me, ZENITHAR, for without you, like a child, I might fiddle and fret when only through struggle and labor may I craft a work worthy of your name and the name of my patron.\r\n<br>\r\nCome to me, STENDARR, for without you, I might be deaf to the manswarm murmurings of thy people, and forgetting their need for comfort and wisdom, I might indulge myself in vain scribbling.\r\n<br>\r\nCome to me, MARA, for without you, I might forget the ways of our fathers, and preening by the light of latest fashion, my words might tremble like the thin reeds of novelty in the tempest of enthusiasms.\r\n<br>\r\nCome to me, DIBELLA, for without you, my words must lie dull and leaden without the gilding of grace and sagacity to enchant the reader's ear and eye.\r\n<br>\r\nCome to me, ARKAY, for without you, there is neither breath nor beginning, nor can any man live, love, or learn without the spark of your spirit.\r\n<br>"
+data:
+  weight: 3.0
+  value: 50
+  book_type: Book
+  skill: None
+  enchantment: 0

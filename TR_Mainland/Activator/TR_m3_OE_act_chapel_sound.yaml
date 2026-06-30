@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_OE_act_chapel_sound
+name: ''
+script: TR_m3_OE_chapel_chant
+mesh: EditorMarker.nif

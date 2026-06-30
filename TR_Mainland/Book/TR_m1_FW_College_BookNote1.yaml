@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_FW_College_BookNote1
+name: Note to Absolon
+script: ''
+mesh: m\text_parchment_02.nif
+icon: m\tx_parchment_02.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nAfter that last incident, I am just about ready to lock this damned book up with the Rarities. Tien is tired of repairing scorched holes in the walls of the dormitory wing. Absolon, if you don't start keeping your students under control, I'll start sending them across the plaza to Gindaman. See how he likes it.\r\n- JS\r\n<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

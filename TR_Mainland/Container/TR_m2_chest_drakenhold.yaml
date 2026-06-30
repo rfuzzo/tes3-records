@@ -1,0 +1,21 @@
+type: Container
+flags: ''
+id: TR_m2_chest_drakenhold
+name: Wooden Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - common_amulet_03
+- - 1
+  - common_pants_02
+- - 1
+  - common_shirt_03
+- - 1
+  - imperial shortsword
+- - 50
+  - random gold
+- - 1
+  - silver_cuirass

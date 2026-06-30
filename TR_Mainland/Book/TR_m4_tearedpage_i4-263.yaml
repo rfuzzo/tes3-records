@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_tearedpage_i4-263
+name: Teared out page
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[Teare from a book, creased and dirty, only Sheogorath may know from wich book is this from...]<BR>\r\n"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

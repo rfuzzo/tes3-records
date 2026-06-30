@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: BM nordic silver claymore_ber
+name: Berserker Silver Claymore
+script: ''
+mesh: w\W_Nord_claymore.NIF
+icon: w\Nord_claymore.dds
+enchanting: bloodletting_en
+data:
+  weight: 25.0
+  value: 1000
+  weapon_type: LongBladeTwoClose
+  health: 2000
+  speed: 1.25
+  reach: 1.0
+  enchantment: 150
+  chop_min: 6
+  chop_max: 35
+  slash_min: 6
+  slash_max: 30
+  thrust_min: 6
+  thrust_max: 24
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE | SILVER

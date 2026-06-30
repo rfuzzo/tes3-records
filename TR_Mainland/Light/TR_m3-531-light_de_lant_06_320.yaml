@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: TR_m3-531-light_de_lant_06_320
+name: ''
+script: ''
+mesh: l\Light_De_Lantern_06.NIF
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 12
+  time: -1
+  radius: 320
+  color:
+  - 245
+  - 140
+  - 40
+  - 0
+  flags: DYNAMIC | FIRE | FLICKER_SLOW

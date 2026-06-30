@@ -1,0 +1,344 @@
+type: Book
+flags: ''
+id: T_Bk_WarOfTheBirdsPC
+name: The War of the Birds
+script: ''
+mesh: pc\m\pc_bk_book_03.nif
+icon: pc\m\pc_bk_book_03.tga
+enchanting: ''
+text: |+
+  <DIV ALIGN="CENTER"><FONT COLOR="000000" SIZE="3" FACE="Magic Cards"><BR>The War of the Birds<BR>
+
+  <BR>
+  ---<BR>
+  <BR>
+  An opera<BR>
+  by<BR>
+  Antho Sarastro<BR>
+
+  <BR>
+
+  <DIV ALIGN="LEFT"><BR>
+
+  <BR>
+
+  An opera in the Imperial tradition, translated from the original Middle-Cyrodiis. An account of the last days of Haromir of Copper and Tea, one of the Ayleid lords who opposed the Alessian Rebellion.<BR>
+
+  <BR>
+
+  Act One, Scene One: Haromir's throne room<BR>
+
+  <BR>
+
+  Haromir receives word that his brother and peer, Malomir, has been defeated by the Alessian Champion. Song for an Unwanted Message.<BR>
+
+  <BR>
+
+  HAROMIR:<BR>
+
+  Messenger! Messenger!<BR>
+
+  What the news from the north?<BR>
+
+  Messenger! Messenger!<BR>
+
+  What the news from the north?<BR>
+
+  Long the song of slaves is sung,<BR>
+
+  the song of slaves comes closer still,<BR>
+
+  Messenger! Messenger!<BR>
+
+  What the news from the north?<BR>
+
+  <BR>
+
+  TWO MESSENGERS:<BR>
+
+  Hail lord Haromir, the great!<BR>
+
+  Hail lord Haromir, of ceremony!<BR>
+
+  Who rules the drawing of tea,<BR>
+
+  who rules the forge and varliance,<BR>
+
+  we bring news from the north!<BR>
+
+  <BR>
+
+  HAROMIR:<BR>
+
+  What news from the north?<BR>
+
+  <BR>
+
+  TWO MESSENGERS:<BR>
+
+  Long did we ride, on fast horses,<BR>
+
+  by magic, through the air.<BR>
+
+  Long did we ride, to bring you news,<BR>
+
+  there has been a battle in the north!<BR>
+
+  <BR>
+
+  HAROMIR:<BR>
+
+  What of my brother, Malomir?<BR>
+
+  The Maker, who, through twisted Arts,<BR>
+
+  Does twist and rejoin,<BR>
+
+  The splintered limb of Man.<BR>
+
+  Through Art, redeems,<BR>
+
+  unworthy matter,<BR>
+
+  that wallows in the mud,<BR>
+
+  and worships the blind fires.<BR>
+
+  <BR>
+
+  TWO MESSENGERS:<BR>
+
+  A battle in the north was fought,<BR>
+
+  'twixt Malomir, the Termagant,<BR>
+
+  and slaves that follow no command.<BR>
+
+  His Arts, in battle, no avail,<BR>
+
+  his head was smashed upon the shrine,<BR>
+
+  by Pelinal, the peregrine.<BR>
+
+  <BR>
+
+  HAROMIR:<BR>
+
+  Enough!<BR>
+
+  <BR>
+
+  TWO MESSENGERS:<BR>
+
+  That sidereal champion, king of old,<BR>
+
+  Kills on behest of lissome song,<BR>
+
+  by Nameless Slave named Paravant,<BR>
+
+  who sits astride a pennate bull.<BR>
+
+  All men find joy in her command,<BR>
+
+  her song, so soft, brings gods to bear,<BR>
+
+  and carry her, to Celediil.<BR>
+
+  <BR>
+
+  HAROMIR:<BR>
+
+  Enough!<BR>
+
+  <BR>
+
+  TWO MESSENGERS<BR>
+
+  The slaves retreat now to their hold,<BR>
+
+  on Sancre Tor, the sacred mount,<BR>
+
+  where they are joined, to their delight,<BR>
+
+  by gallant squires from the north,<BR>
+
+  Who speak the tongue of serpents.<BR>
+
+  Through words, they wrest and wring the earth,<BR>
+
+  from Fanacas to Sardavar,<BR>
+
+  from Sardavar, then back again.<BR>
+
+  No place is safe in Ayleidoon!<BR>
+
+  <BR>
+
+  HAROMIR:<BR>
+
+  Enough, enough, of song and snake!<BR>
+
+  Your words bring me no joy,<BR>
+
+  No relief do I find in your words.<BR>
+
+  To hear of great Malomir's fall,<BR>
+
+  to speak to me of Malomir's end!<BR>
+
+  A curse on thee,<BR>
+
+  and a curse on thee!<BR>
+
+  The word of a king of Ayleidoon,<BR>
+
+  holds great power, and secret purpose.<BR>
+
+  A curse upon the both of thee!<BR>
+
+  <BR>
+
+  ...<BR>
+
+  <BR>
+
+  Act Two, Scene four: a dusty road in the Highlands<BR>
+
+  <BR>
+
+  <BR>
+
+  Haromir rides at the head of the Ayleid army. Soldier chorus: Marching Tune for a Pilgrimage.<BR>
+
+  <BR>
+
+  SOLDIERS:<BR>
+
+  Sacred, sacred, sacred hill!<BR>
+
+  Sacred, sacred, sacred hill!<BR>
+
+  Sacred, sacred, sacred hill!<BR>
+
+  Where winds do roar,<BR>
+
+  where throats are sore,<BR>
+
+  where shouts the slave,<BR>
+
+  where speaks the whore,<BR>
+
+  who sits, astride her sloven bull,<BR>
+
+  sing lies, sing ill!<BR>
+
+  Of Ayleidoon!<BR>
+
+  <BR>
+
+  Sacred, sacred, sacred hill!<BR>
+
+  Sacred, sacred, sacred hill!<BR>
+
+  Sacred, sacred, sacred hill!<BR>
+
+  Where's blood to spill,<BR>
+
+  upon the stone!<BR>
+
+  Where's Man's dominion,<BR>
+
+  to postpone!<BR>
+
+  To Sancre Tor!<BR>
+
+  To Sancre Tor!<BR>
+
+  To kill, to kill, the Nameless One!<BR>
+
+  <BR>
+
+  HAROMIR:<BR>
+
+  There, see, far-off distant Sancre Tor,<BR>
+
+  golden hill and golden field,<BR>
+
+  where in golden arbor I did walk,<BR>
+
+  and met Rumenaeva, blissful maid,<BR>
+
+  who there became my golden queen.<BR>
+
+  <BR>
+
+  Golden hill and golden field,<BR>
+
+  for golden purpose gods contrived,<BR>
+
+  to raise you here, and have you still,<BR>
+
+  so Ayleid king may climb your flanks,<BR>
+
+  find love amidst your golden eaves.<BR>
+
+  <BR>
+
+  Oh, how these slaves defile you still!<BR>
+
+  There they squat on sacred stone,<BR>
+
+  altars faced with fly and goat,<BR>
+
+  for sacrifice, and dreadful rite,<BR>
+
+  come harvest-time!<BR>
+
+  <BR>
+
+  Great will be the harvest then,<BR>
+
+  of pomegrenade, of crimson rose,<BR>
+
+  of wine, and oil, and summer-fruit!<BR>
+
+  Great will be the harvest soon,<BR>
+
+  when we have spilled the blood of man,<BR>
+
+  on altars white of Sancre Tor!<BR>
+
+  <BR>
+
+  SOLDIERS:<BR>
+
+  Sacred, sacred, sacred hill!<BR>
+
+  Sacred, sacred, sacred hill!<BR>
+
+  Sacred, sacred, sacred hill!<BR>
+
+  Where's blood to spill,<BR>
+
+  upon the stone!<BR>
+
+  Where's Man's dominion,<BR>
+
+  to postpone!<BR>
+
+  To Sancre Tor!<BR>
+
+  To Sancre Tor!<BR>
+
+  To kill, to kill, the Nameless One!<BR>
+
+  <BR>
+
+  ...<BR>
+
+data:
+  weight: 2.0
+  value: 120
+  book_type: Book
+  skill: None
+  enchantment: 0

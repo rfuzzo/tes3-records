@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_He_ClayVase_01
+name: Clay Vase
+script: ''
+mesh: sum\m\sum_misc_clay_vase_01.nif
+icon: sum\m\sum_misc_clay_vase_01.dds
+data:
+  weight: 3.0
+  value: 6
+  flags: ''

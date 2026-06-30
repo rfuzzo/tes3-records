@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m3-451_amulet_waterbreathing
+name: Amulet of Water Breathing
+script: ''
+mesh: c\Amulet_Expensive_1.nif
+icon: c\tx_amulet_expens1.tga
+enchanting: TR_m3-451_en_WaterBreathing
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 0.5
+  value: 30
+  enchantment: 35

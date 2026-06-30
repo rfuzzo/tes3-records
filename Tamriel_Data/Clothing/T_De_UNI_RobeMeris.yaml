@@ -1,0 +1,23 @@
+type: Clothing
+flags: ''
+id: T_De_UNI_RobeMeris
+name: Robe of St. Meris
+script: ''
+mesh: tr\c\tr_c_robe_meris_gnd.nif
+icon: tr\c\tr_c_robe_meris.dds
+enchanting: T_Use_RobeMeris
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_C_DeRobeMerisUNI
+  female_bodypart: ''
+- biped_object_type: LeftAnkle
+  male_bodypart: ''
+  female_bodypart: ''
+- biped_object_type: RightAnkle
+  male_bodypart: ''
+  female_bodypart: ''
+data:
+  clothing_type: Robe
+  weight: 3.0
+  value: 500
+  enchantment: 150

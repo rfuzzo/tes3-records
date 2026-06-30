@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m1_cont_basket_guarm
+name: Basket
+script: ''
+mesh: TR\o\TR_cont_com_basket01.nif
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 3
+  - T_IngFood_MeatGuar_01

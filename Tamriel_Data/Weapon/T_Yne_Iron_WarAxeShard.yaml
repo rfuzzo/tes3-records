@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Yne_Iron_WarAxeShard
+name: Ynesai Iron Shardaxe
+script: ''
+mesh: pi\w\pi_w_yiron_waraxe.nif
+icon: pi\w\pi_w_yiron_waraxe.dds
+enchanting: shard_enu
+data:
+  weight: 24.0
+  value: 52
+  weapon_type: AxeOneHand
+  health: 800
+  speed: 1.25
+  reach: 1.0
+  enchantment: 50
+  chop_min: 1
+  chop_max: 18
+  slash_min: 1
+  slash_max: 15
+  thrust_min: 1
+  thrust_max: 1
+  flags: ''

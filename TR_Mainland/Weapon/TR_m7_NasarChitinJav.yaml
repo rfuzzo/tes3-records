@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m7_NasarChitinJav
+name: Poison Sting Javelin
+script: ''
+mesh: tr\w\tr_w_chitin_javelin_01.nif
+icon: tr\w\tr_w_chitin_javelin_01.dds
+enchanting: TR_m7_SkyrenderPoison_en
+data:
+  weight: 4.0
+  value: 30
+  weapon_type: MarksmanThrown
+  health: 100
+  speed: 0.75
+  reach: 1.0
+  enchantment: 18
+  chop_min: 2
+  chop_max: 8
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: ''

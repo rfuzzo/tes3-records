@@ -1,0 +1,12 @@
+type: Apparatus
+flags: ''
+id: T_Imp_AegrotatLamp_01
+name: Aegrotat Lamp
+script: ''
+mesh: pc\m\pc_misc_aegrotatlamp.nif
+icon: pc\m\pc_misc_aegrotatlamp.dds
+data:
+  apparatus_type: Alembic
+  quality: 0.9
+  weight: 11.0
+  value: 650

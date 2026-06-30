@@ -1,0 +1,25 @@
+type: Container
+flags: ''
+id: TR_i2_445_Closet
+name: Closet
+script: ''
+mesh: o\Contain_De_Closet_01.NIF
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory:
+- - 15
+  - T_Dwe_Regular_Bolt_Jink
+- - 1
+  - T_Dwe_Regular_Crossbow_Acc
+- - 1
+  - misc_dwrv_artifact00
+- - 1
+  - misc_dwrv_artifact50
+- - 1
+  - misc_dwrv_bowl00
+- - 14
+  - misc_dwrv_coin00
+- - 2
+  - misc_dwrv_goblet10
+- - 1
+  - misc_dwrv_pitcher00

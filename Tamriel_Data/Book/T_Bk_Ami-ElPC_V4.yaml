@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_Ami-ElPC_V4
+name: The Fourth Ami-El
+script: ''
+mesh: pc\m\pc_bk_book_26.nif
+icon: pc\m\pc_bk_book_26.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>The Fourth Ami-El<BR>\n<BR>\n<BR>\nIV. THE SONG OF THE APE<BR>\r\n<DIV ALIGN=\"LEFT\">\nA fortnight after great revelation, still Amet slept. Unconscious, no-one noticed when into the dark of the chamber crept a Dmath, a creature from the outside, in the shape of a loathsome ape. it was a bony creature, with loose teeth and bleeding fingers from its long labor of writing no words.<BR>\n<BR>\r\nIn darkness the ape whispered in Amet's ear: \"I know of your task, your burden. You are to fight dread Asterion, the White. He has never been defeated. You will die, and your bones will be ground to dust, and no moth will be there to take your name.\"<BR>\r\n<BR>\r\nAmet stirred and woke. \"Another dreaming-beast, here to speak prophecy? Leave me be. I have had enough of the spirits and their words.\"<BR>\r\n<BR>\r\nReplied the beast: \"I speak prophecy, yes, but you will not hear it. It is a word from your father's mother to your children's children. You are a hand carrying a burden the eye is not meant to see.The word of Aleshut is my word, but my word is nothing to the ears of man. They call me ape-man, and worship the makeshift. But you, you are Emperor. Lend me your voice, child, and I will aid you in your endeavor.\"<BR>\n<BR>\n\"What do you want, ape-man?\", asked Amet.<BR>\n<BR>\n\"The hearts of your children, and your children's children, for me to teach them the words I have learned in long nights of penance and supplication. Grant me your voice, and your empire will not fall, it will grow and thrive, it will come to encompass the all of the world, in time, even to stretch between the nonce-stars of the places far and unknowable to man!\"<BR>\n<BR>\r\n\"Give me proof, ape-man,\" said Amet, \"Let me hear the words of Aleshut.\"<BR>\r\n<BR>\r\nAnd the ape replied, singing thus: \"Hail Ami-El! Beloved child, to you the cities of the valley and the kingdoms of the west, to you the holds the north, and to you the City of the Flat Hill, and to you the Pale Gates, and to you the Highlands of Dust, and to you the Strongholds of the River, and to you the Sancre Tor were freedom lay hidden, and to you the Islands of the City, numbering eight, with their towers numberless!. From your neck will hang a blood-stone, and you will be garbed in silk and iron, above your head there will be a radiant sphere of moths, behind your back will be a legion of warriors, at your feet will be the loving embrace of the sea, on your hands will be the blood of your kin, and you will rule Cyrod, with me, and you will be Cyrod, with me. There are but two strikes of a knife between you and your destiny.\"<BR>\n"
+data:
+  weight: 2.0
+  value: 200
+  book_type: Book
+  skill: None
+  enchantment: 0

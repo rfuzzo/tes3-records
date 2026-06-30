@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_Asteria_01
+name: Asteria
+script: ''
+mesh: hf\n\hf_ingred_Asteria_01.nif
+icon: hf\n\hf_ingred_Asteria_01.dds
+data:
+  weight: 0.1
+  value: 4
+  effects:
+  - RestoreFatigue
+  - DrainAttribute
+  - RestoreAttribute
+  - Light
+  skills:
+  - None
+  - Block
+  - Block
+  - None
+  attributes:
+  - None
+  - Speed
+  - Intelligence
+  - None

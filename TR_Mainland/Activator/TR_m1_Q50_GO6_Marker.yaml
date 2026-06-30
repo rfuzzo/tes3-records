@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m1_Q50_GO6_Marker
+name: ''
+script: ''
+mesh: EditorMarker.NIF

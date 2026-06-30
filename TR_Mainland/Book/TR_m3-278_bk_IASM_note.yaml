@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3-278_bk_IASM_note
+name: IASM Note
+script: ''
+mesh: m\Text_Note_02.nif
+icon: m\Tx_note_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThis room is not open to the general public.<BR>\r\nI.A.S. Members ONLY<BR>\r\n<BR>\r\n"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 100

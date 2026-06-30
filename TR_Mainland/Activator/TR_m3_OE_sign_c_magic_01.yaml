@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_OE_sign_c_magic_01
+name: Wayrian's Mystical Emporium
+script: SignRotate
+mesh: TR\f\tr_act_sign_scroll_21.nif

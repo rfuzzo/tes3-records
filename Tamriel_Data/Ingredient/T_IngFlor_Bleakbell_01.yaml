@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_Bleakbell_01
+name: Bleak Bell
+script: ''
+mesh: sky\n\Sky_Ingred_BlkBell_01.nif
+icon: sky\n\Tx_Ingred_BlkBell_01.dds
+data:
+  weight: 0.1
+  value: 1
+  effects:
+  - FortifyFatigue
+  - FrostDamage
+  - DetectEnchantment
+  - RestoreAttribute
+  skills:
+  - None
+  - None
+  - None
+  - Block
+  attributes:
+  - None
+  - None
+  - None
+  - Strength

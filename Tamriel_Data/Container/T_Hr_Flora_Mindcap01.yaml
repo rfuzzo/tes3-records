@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Hr_Flora_Mindcap01
+name: Mindcap
+script: ''
+mesh: hr\o\hr_flora_mindcap_01.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - T_Hr_Random_FlorMindcap_01

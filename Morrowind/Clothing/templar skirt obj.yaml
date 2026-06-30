@@ -1,0 +1,17 @@
+type: Clothing
+flags: ''
+id: templar skirt obj
+name: Imperial Templar Skirt
+script: ''
+mesh: c\C_M_Skirt_Templar_GND.nif
+icon: a\Tx_Templar_skirt.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: Skirt
+  male_bodypart: templar skirt
+  female_bodypart: ''
+data:
+  clothing_type: Skirt
+  weight: 2.5
+  value: 6
+  enchantment: 5

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_BoneSkelSkullGhoul
+name: Ash Ghoul Skull
+script: ''
+mesh: OAAB\m\skelskullghoul.nif
+icon: OAAB\m\tx_skull_ash.dds
+data:
+  weight: 0.5
+  value: 1
+  flags: ''

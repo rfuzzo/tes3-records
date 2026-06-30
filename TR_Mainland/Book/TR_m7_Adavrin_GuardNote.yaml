@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_Adavrin_GuardNote
+name: Guard's Note
+script: ''
+mesh: m\Text_Note_02.nif
+icon: m\Tx_note_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nCaptain,\r\n<BR>\r\nThree nights ago we caught that wretched Argonian attempting to escape the ranch again. She was executed, as were Sera Adavrin's orders if she tried to escape again. We had the idea to place her skull on the shelf across the cell. Hopefully this deters any \"freedom seekers\" from such rash action in the future.\r\n<BR>\r\nUremi<BR>\r\n<BR>\r\n"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

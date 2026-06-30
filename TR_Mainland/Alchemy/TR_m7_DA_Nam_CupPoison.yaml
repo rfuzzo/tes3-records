@@ -1,0 +1,36 @@
+type: Alchemy
+flags: ''
+id: TR_m7_DA_Nam_CupPoison
+name: Cup of Passage
+script: ''
+mesh: tr\m\tr_m_cup_passage.nif
+icon: tr\m\tr_m_cup_passage.dds
+effects:
+- magic_effect: WeaknessToMagicka
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 200
+  min_magnitude: 200
+  max_magnitude: 200
+- magic_effect: DamageHealth
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 0
+  min_magnitude: 5000
+  max_magnitude: 5000
+- magic_effect: Poison
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 0
+  min_magnitude: 2500
+  max_magnitude: 2500
+data:
+  weight: 12.0
+  value: 25000
+  flags: ''

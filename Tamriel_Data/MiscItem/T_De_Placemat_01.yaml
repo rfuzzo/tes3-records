@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_Placemat_01
+name: Placemat
+script: ''
+mesh: m\misc_placemat_01.nif
+icon: m\tx_placemat_01.dds
+data:
+  weight: 3.0
+  value: 6
+  flags: ''

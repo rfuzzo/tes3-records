@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: act_bm_snowdoor3
+name: ''
+script: karstcavdoorScript
+mesh: f\Terrain_BM_ice_02.nif

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: misc_lw_cup
+name: Limeware Cup
+script: ''
+mesh: m\Misc_LW_Cup.NIF
+icon: m\Misc_LW_Cup.tga
+data:
+  weight: 2.0
+  value: 223
+  flags: ''

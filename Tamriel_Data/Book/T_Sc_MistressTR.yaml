@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Sc_MistressTR
+name: The Mistress
+script: ''
+mesh: m\Text_Scroll_01.nif
+icon: m\Tx_scroll_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nNo.<BR>"
+data:
+  weight: 1.1
+  value: 60
+  book_type: Scroll
+  skill: None
+  enchantment: 0

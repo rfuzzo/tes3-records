@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3-649_Altar_Kynareth
+name: Altar of Kynareth
+script: TR_m3-649_KynarethScript
+mesh: x\ex_imp_mooring_01.nif

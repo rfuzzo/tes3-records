@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Nor_Orn_Longsword_01
+name: Nordic Longsword
+script: ''
+mesh: TR\w\TR_w_nord_lsword.nif
+icon: TR\w\TR_w_nord_lsword.dds
+enchanting: ''
+data:
+  weight: 23.0
+  value: 115
+  weapon_type: LongBladeOneHand
+  health: 800
+  speed: 1.35
+  reach: 1.0
+  enchantment: 70
+  chop_min: 2
+  chop_max: 18
+  slash_min: 1
+  slash_max: 24
+  thrust_min: 4
+  thrust_max: 22
+  flags: ''

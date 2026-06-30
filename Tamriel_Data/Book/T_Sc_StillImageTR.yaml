@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Sc_StillImageTR
+name: Still Image
+script: T_ScBook_SpCureParalyzation
+mesh: m\Text_Scroll_open_03.nif
+icon: m\Tx_scroll_open_03.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>\r\nStill Image<BR>\r\nBy Murgok-gro-Gurzong<BR>\r\n<BR>\r\nNever distant ventured from my lord<BR>\r\nLoyal servant was I<BR>\r\nQuestioned him not, always adored<BR>\r\nI was my own why<BR>\r\n<BR>\r\nStruck low was he<BR>\r\nParalyzed forever it appeared<BR>\r\nMy skill was great, so how could it be<BR>\r\nI cast spells to cure, but no recovery neared<BR>\r\n<BR>\r\nI wept myself to sleep every night<BR>\r\nHow could my failure be so deep? How to resolve my plight?<BR>\r\nI asked my lord to guide my hand<BR>\r\nTo give me a remedy he had planned<BR>\r\n<BR>\r\nSilence was the response, of course<BR>\r\nBeing paralyzed, my lord's voice had no force<BR>\r\nAnd the question remained:<BR>\r\nWith my ability, why was the cure so hard to obtain?<BR>\r\n<BR>\r\nOne night, at the brink of exhaust<BR>\r\nI gave my lord closer inspection, and all was lost<BR>\r\nFinally I noticed what had stymied<BR>\r\nThe fault was not my skill, not my deed<BR>\r\n<BR>\r\nFor after seeing my lord so close I saw<BR>\r\nThat my lord was not paralyzed at all!<BR>\r\nMy embarrassment grew, and I left my lord alone<BR>\r\nFor my lord had not been a man at all, but finely crafted stone! <BR>\r\n"
+data:
+  weight: 1.5
+  value: 150
+  book_type: Scroll
+  skill: None
+  enchantment: 100

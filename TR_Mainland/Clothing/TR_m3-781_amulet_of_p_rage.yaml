@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m3-781_amulet_of_p_rage
+name: Amulet of Pulsing Rage
+script: ''
+mesh: c\Amulet_Extravagant_1.NIF
+icon: c\tx_amulet_extrav1.tga
+enchanting: TR_m3-781_amulet_of_p_rage_en
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 100
+  enchantment: 600

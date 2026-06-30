@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: AB_Info_AvoidNode
+name: InfoBox - AvoidNode
+script: ''
+mesh: OAAB\h\marker_info.nif
+icon: OAAB\h\marker_info.tga
+enchanting: ''
+text: The AvoidNode markers use the same mechanic as lava to try and force NPCs to avoid colliding with them. This should be thoroughly tested in areas where it is used. To confirm that AI behaves the way you intend.
+data:
+  weight: 0.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 100

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: AB_IngMine_BlackTourmaline_01
+name: Black Tourmaline
+script: ''
+mesh: OAAB\n\gem_bltourmaline_01.nif
+icon: OAAB\n\gem_bltourmaline.dds
+data:
+  weight: 0.2
+  value: 125
+  effects:
+  - Invisibility
+  - DrainAttribute
+  - Blind
+  - Silence
+  skills:
+  - None
+  - Block
+  - None
+  - None
+  attributes:
+  - None
+  - Agility
+  - None
+  - None

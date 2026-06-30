@@ -1,0 +1,17 @@
+type: Clothing
+flags: ''
+id: T_Imp_Cm_SkirtLegion_01
+name: Imperial Skirt
+script: ''
+mesh: pc\c\pc_c_imp_skrt_brwn_G.nif
+icon: pc\c\pc_c_imp_skirt_01.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Skirt
+  male_bodypart: T_C_ImpCmSkirtLegion01_G
+  female_bodypart: ''
+data:
+  clothing_type: Skirt
+  weight: 2.0
+  value: 4
+  enchantment: 5

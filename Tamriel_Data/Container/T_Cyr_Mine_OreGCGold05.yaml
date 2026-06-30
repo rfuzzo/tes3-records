@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Cyr_Mine_OreGCGold05
+name: Raw Gold
+script: ''
+mesh: pc\o\PC_cont_ore_GC_gld_05.nif
+encumbrance: 0.0
+container_flags: ORGANIC | IS_BASE
+inventory:
+- - 3
+  - T_Cyr_Random_OreGold

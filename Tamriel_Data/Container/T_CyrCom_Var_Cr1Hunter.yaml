@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: T_CyrCom_Var_Cr1Hunter
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 70
+  - T_Cyr_Lvl_MissilesArrow
+- - 3
+  - T_Cyr_Random_Hide

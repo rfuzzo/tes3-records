@@ -1,0 +1,27 @@
+type: Container
+flags: ''
+id: T_SkyCom_Furn_Ch2Tr3
+name: Chest
+script: ''
+mesh: Sky\o\Sky_Cont_Chest_02_02.nif
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - -3
+  - T_Sky_Random_ArmorSteel
+- - -5
+  - T_Sky_Random_Clothing
+- - 10
+  - T_Sky_Random_Hide
+- - -5
+  - T_Sky_Random_Kitchenware
+- - -3
+  - T_Sky_Random_WeaponExpensive
+- - 20
+  - ebony arrow
+- - -50
+  - silver arrow
+- - -50
+  - silver bolt
+- - -3
+  - torch

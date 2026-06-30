@@ -1,0 +1,12 @@
+type: Apparatus
+flags: ''
+id: T_Rga_HookahFlavouredApp_01
+name: Flavored Hookah
+script: ''
+mesh: TR\m\TR_hookah_both.NIF
+icon: TR\m\TR_hookah.tga
+data:
+  apparatus_type: Alembic
+  quality: 0.75
+  weight: 5.5
+  value: 70

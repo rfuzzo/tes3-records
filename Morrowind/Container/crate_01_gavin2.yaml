@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: crate_01_gavin2
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - l_m_wpn_melee_spear
+- - 1
+  - l_n_armor_gauntlet
+- - 1
+  - l_n_soul gem

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_PurpleGlassPlate_01
+name: Fine Glass Plate
+script: ''
+mesh: tr\m\tr_misc_purpg_plate01.nif
+icon: tr\m\tr_misc_purpg_plate01.dds
+data:
+  weight: 2.0
+  value: 15
+  flags: ''

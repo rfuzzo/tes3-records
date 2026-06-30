@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: TR_m1_Goblin_Trophy
+name: Goblin Slayer's Trophy
+script: ''
+mesh: w\W_Goblin_Shield.NIF
+icon: w\Tx_w_Goblin_Shield.dds
+enchanting: TR_m1_goblin_trophy_en
+biped_objects:
+- biped_object_type: Shield
+  male_bodypart: shield_goblin
+  female_bodypart: ''
+data:
+  armor_type: Shield
+  weight: 5.0
+  value: 1000
+  health: 500
+  enchantment: 100
+  armor_rating: 40

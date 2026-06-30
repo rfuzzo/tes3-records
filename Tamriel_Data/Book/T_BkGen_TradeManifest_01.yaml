@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_BkGen_TradeManifest_01
+name: Trade Manifest
+script: ''
+mesh: pc\m\PC_bk_Book_28.nif
+icon: pc\m\pc_bk_book_28.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n[A list of the various goods carried by a trade caravan. The document is marked with half a dozen faded census and excise office seals.]<BR>"
+data:
+  weight: 1.5
+  value: 2
+  book_type: Book
+  skill: None
+  enchantment: 0

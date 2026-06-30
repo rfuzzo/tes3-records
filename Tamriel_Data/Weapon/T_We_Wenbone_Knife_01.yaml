@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_We_Wenbone_Knife_01
+name: Wenbone Throwing Knife
+script: ''
+mesh: va\w\va_w_wenbone_knife.nif
+icon: va\w\va_w_wenbone_knife.dds
+enchanting: ''
+data:
+  weight: 0.3
+  value: 15
+  weapon_type: MarksmanThrown
+  health: 120
+  speed: 1.0
+  reach: 1.0
+  enchantment: 10
+  chop_min: 1
+  chop_max: 5
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: ''

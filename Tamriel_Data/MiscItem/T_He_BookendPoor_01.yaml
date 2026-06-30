@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_He_BookendPoor_01
+name: Bookend
+script: ''
+mesh: sum\m\sum_furn_p_bkend_01.nif
+icon: sum\m\sum_furn_p_bkend_01.dds
+data:
+  weight: 2.0
+  value: 2
+  flags: ''

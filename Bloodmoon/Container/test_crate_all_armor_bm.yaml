@@ -1,0 +1,115 @@
+type: Container
+flags: ''
+id: test_crate_all_armor_bm
+name: Chest of Bloodmoon Armor
+script: ''
+mesh: o\Contain_chest_large_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - BM_Ice minion_Shield1
+- - 1
+  - BM_Ice_Shield
+- - 1
+  - BM_NordicMail_Shield
+- - 1
+  - BM wolf shield
+- - 1
+  - BM bear shield
+- - 1
+  - BM bear right gauntlet
+- - 1
+  - BM wolf right gauntlet
+- - 1
+  - BM_bear_right_gauntlet_snow
+- - 1
+  - BM_NordicMail_gauntletR
+- - 1
+  - BM_wolf_right_gauntlet_snow
+- - 1
+  - BM_Ice_gauntletR
+- - 1
+  - bm bear left gauntlet
+- - 1
+  - bm wolf left gauntlet
+- - 1
+  - BM_bear_left_gauntlet_snow
+- - 1
+  - BM_NordicMail_gauntletL
+- - 1
+  - BM_wolf_left_gauntlet_snow
+- - 1
+  - BM_Ice_gauntletL
+- - 1
+  - BM bear boots
+- - 1
+  - BM wolf boots
+- - 1
+  - BM_bear_boots_snow
+- - 1
+  - BM_NordicMail_Boots
+- - 1
+  - BM_wolf_boots_snow
+- - 1
+  - BM_Ice_Boots
+- - 1
+  - BM bear greaves
+- - 1
+  - BM wolf greaves
+- - 1
+  - BM_bear_greaves_snow
+- - 1
+  - BM_NordicMail_greaves
+- - 1
+  - BM_wolf_greaves_snow
+- - 1
+  - BM_Ice_greaves
+- - 1
+  - BM bear right pauldron
+- - 1
+  - BM Wolf right pauldron
+- - 1
+  - BM_bear_right_pauldron_snow
+- - 1
+  - BM_NordicMail_PauldronR
+- - 1
+  - BM_wolf_right_pauldron_snow
+- - 1
+  - BM_Ice_PauldronR
+- - 1
+  - BM Bear left Pauldron
+- - 1
+  - BM Wolf Left Pauldron
+- - 1
+  - BM_Bear_left_Pauldron_snow
+- - 1
+  - BM_NordicMail_PauldronL
+- - 1
+  - BM_wolf_left_pauldron_snow
+- - 1
+  - BM_Ice_PauldronL
+- - 1
+  - BM bear cuirass
+- - 1
+  - BM wolf cuirass
+- - 1
+  - BM_bear_cuirass_snow
+- - 1
+  - BM_NordicMail_cuirass
+- - 1
+  - BM_wolf_cuirass_snow
+- - 1
+  - BM_Ice_cuirass
+- - 1
+  - BM Bear Helmet
+- - 1
+  - BM Wolf Helmet
+- - 1
+  - BM_bear_helmet_snow
+- - 1
+  - BM_NordicMail_Helmet
+- - 1
+  - BM_wolf_helmet_snow
+- - 1
+  - BM_Ice_Helmet

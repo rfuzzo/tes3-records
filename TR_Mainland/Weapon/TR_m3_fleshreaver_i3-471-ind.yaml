@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m3_fleshreaver_i3-471-ind
+name: Flesh Reaver
+script: ''
+mesh: w\w_dagger_daedric.nif
+icon: w\tx_dagger_daedric.dds
+enchanting: ''
+data:
+  weight: 9.0
+  value: 12000
+  weapon_type: ShortBladeOneHand
+  health: 700
+  speed: 2.5
+  reach: 1.0
+  enchantment: 200
+  chop_min: 8
+  chop_max: 12
+  slash_min: 8
+  slash_max: 12
+  thrust_min: 8
+  thrust_max: 12
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

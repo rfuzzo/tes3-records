@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: BM_IC_big
+name: ''
+script: ''
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 512
+  color:
+  - 40
+  - 78
+  - 108
+  - 0
+  flags: ''

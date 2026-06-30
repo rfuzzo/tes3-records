@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m3_w_TurunstridSeax
+name: Dagger of Warwyrd
+script: ''
+mesh: w\w_nord_dagger.nif
+icon: w\nord_dagger.dds
+enchanting: TR_m3_en_TurunstridSeax
+data:
+  weight: 10.0
+  value: 3000
+  weapon_type: ShortBladeOneHand
+  health: 550
+  speed: 2.5
+  reach: 1.0
+  enchantment: 70
+  chop_min: 5
+  chop_max: 10
+  slash_min: 5
+  slash_max: 10
+  thrust_min: 7
+  thrust_max: 15
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE | SILVER

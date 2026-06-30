@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_FireplaceShovel_01
+name: Coal Shovel
+script: ''
+mesh: TR\m\TR_misc_com_fp_shovel.nif
+icon: TR\m\TR_misc_com_fp_shovel.dds
+data:
+  weight: 2.0
+  value: 3
+  flags: ''

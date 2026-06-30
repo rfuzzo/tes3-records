@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_AshlGlassSpear
+name: Ashlander Glass Spear
+script: ''
+mesh: OAAB\w\ashglass_spear.nif
+icon: OAAB\w\ashglass_spear.tga
+enchanting: ''
+data:
+  weight: 8.0
+  value: 340
+  weapon_type: SpearTwoWide
+  health: 320
+  speed: 1.0
+  reach: 1.8
+  enchantment: 30
+  chop_min: 1
+  chop_max: 5
+  slash_min: 1
+  slash_max: 5
+  thrust_min: 3
+  thrust_max: 25
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

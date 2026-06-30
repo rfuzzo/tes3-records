@@ -1,0 +1,36 @@
+type: Alchemy
+flags: ''
+id: T_Com_Potion_DragonBlood
+name: Dragon's Blood
+script: ''
+mesh: m\Misc_Potion_Exclusive_01.nif
+icon: m\Tx_potion_exclusive_01.tga
+effects:
+- magic_effect: ResistFire
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 90
+  min_magnitude: 50
+  max_magnitude: 50
+- magic_effect: FireShield
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 90
+  min_magnitude: 50
+  max_magnitude: 50
+- magic_effect: FortifyHealth
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 90
+  min_magnitude: 50
+  max_magnitude: 50
+data:
+  weight: 0.5
+  value: 5401
+  flags: AUTO_CALCULATE

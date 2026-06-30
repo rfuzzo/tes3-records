@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_DBTower_NPC2
+name: ''
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: ''
+enchanting: ''
+text: "DB Assassin \r\n\r\nMy idea is that this cell are partially composed of a Mir Corrup group that have ventured into shipal-shin for new trade, and partially composed of local recruits & some loaned from the Mournhold cells hence the mournhold cell armour \r\n\r\nsome might be fully kitted in DB armour, some at ease, some wearing their own personal armour \r\n\r\nI figure these guys will be a high level challenge, especially the leadership"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

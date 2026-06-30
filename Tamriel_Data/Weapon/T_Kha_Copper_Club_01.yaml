@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Kha_Copper_Club_01
+name: Copper Club
+script: ''
+mesh: els\w\els_w_copper_club.nif
+icon: els\w\els_w_copper_club.tga
+enchanting: ''
+data:
+  weight: 15.0
+  value: 150
+  weapon_type: BluntOneHand
+  health: 700
+  speed: 1.5
+  reach: 1.0
+  enchantment: 60
+  chop_min: 6
+  chop_max: 7
+  slash_min: 5
+  slash_max: 6
+  thrust_min: 5
+  thrust_max: 6
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

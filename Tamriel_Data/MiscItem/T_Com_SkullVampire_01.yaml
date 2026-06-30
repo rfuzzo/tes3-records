@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_SkullVampire_01
+name: Vampire Skull
+script: ''
+mesh: TR\m\TR_misc_skull_vamp_01.NIF
+icon: TR\m\TR_misc_skull_vamp01.dds
+data:
+  weight: 0.5
+  value: 0
+  flags: ''

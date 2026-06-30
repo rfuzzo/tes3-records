@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: AB_Info_VelHiddenTowerDoor
+name: InfoBox - Velothi Hidden Door
+script: ''
+mesh: OAAB\h\marker_info.nif
+icon: OAAB\h\marker_info.tga
+enchanting: ''
+text: "Need to replace \"AB_In_VelPitHidDoorEXAMPLE\" with a unique ID in your own mod.\r\n\r\nIdle - door opening\r\nIdle2 - door open (static)\r\nIdle3 - door closing\r\nIdle4 - door closed (static)"
+data:
+  weight: 0.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 100

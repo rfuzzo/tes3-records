@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Nor_CordedBowl_02
+name: Corded Bowl
+script: ''
+mesh: sky\m\sky_misc_cord_bowl_02.nif
+icon: sky\m\sky_misc_cord_bowl_02.dds
+data:
+  weight: 2.5
+  value: 5
+  flags: ''

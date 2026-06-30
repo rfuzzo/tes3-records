@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: TR_m1_Nandor_Corpse
+name: Corpse of Nandor Beraid
+script: ''
+mesh: o\contain_corpse20.NIF
+encumbrance: 120.0
+container_flags: IS_BASE
+inventory:
+- - 100
+  - Gold_001
+- - 1
+  - TR_m1_Nandor_Amulet
+- - 1
+  - TR_m1_Nandor_Key
+- - 1
+  - expensive_belt_02
+- - 1
+  - random gold

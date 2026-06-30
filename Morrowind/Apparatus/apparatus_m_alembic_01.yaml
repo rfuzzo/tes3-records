@@ -1,0 +1,12 @@
+type: Apparatus
+flags: ''
+id: apparatus_m_alembic_01
+name: Master's Alembic
+script: ''
+mesh: m\Apparatus_M_Alembic_01.nif
+icon: m\Tx_alembic_03.tga
+data:
+  apparatus_type: Alembic
+  quality: 1.2
+  weight: 5.0
+  value: 1200

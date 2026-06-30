@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: TR_i2-309_crate_iron02
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - -1
+  - T_Com_Iron_Boots_01
+- - -1
+  - T_Com_Iron_BracerL_01
+- - -1
+  - T_Com_Iron_BracerR_01
+- - -1
+  - T_Com_Iron_Helm_01
+- - 2
+  - T_Mw_Random_WeaponsIron

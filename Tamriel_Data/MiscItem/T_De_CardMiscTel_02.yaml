@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_CardMiscTel_02
+name: 'Telvanni Broker: Wizard'
+script: ''
+mesh: tr\m\tr_misc_card_t_broker.nif
+icon: tr\m\tr_misc_card_t_broker.dds
+data:
+  weight: 0.02
+  value: 20
+  flags: ''

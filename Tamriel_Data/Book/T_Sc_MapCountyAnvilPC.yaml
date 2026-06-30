@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Sc_MapCountyAnvilPC
+name: Map of West Colovia
+script: ''
+mesh: M\text_scroll_01.nif
+icon: M\tx_scroll_open_01.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nMAP OF WEST COLOVIA<BR><BR>\r\n<IMG SRC=\"pc\\pc_CountyAnvil_Bookmap.dds\" WIDTH=\"350\" HEIGHT=\"350\"><BR><BR>"
+data:
+  weight: 0.2
+  value: 3
+  book_type: Scroll
+  skill: None
+  enchantment: 0

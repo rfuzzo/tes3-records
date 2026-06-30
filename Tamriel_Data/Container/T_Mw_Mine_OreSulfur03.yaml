@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Mw_Mine_OreSulfur03
+name: Sulphur Deposit
+script: ''
+mesh: tr\o\tr_cont_sulphur03.nif
+encumbrance: 0.0
+container_flags: ORGANIC | IS_BASE
+inventory:
+- - 1
+  - T_Mw_Random_OreSulfur

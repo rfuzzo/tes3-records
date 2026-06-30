@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: sc_Erna01
+name: Erna's Note to Erna
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nNote to Self<BR>\r\n<BR>\r\nMust buy more forks. <BR>\r\n<BR>\r\n\r\n<BR>\r\n"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

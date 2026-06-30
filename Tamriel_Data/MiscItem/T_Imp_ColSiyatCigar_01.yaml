@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_ColSiyatCigar_01
+name: Siyat Cigar
+script: ''
+mesh: PC\m\pc_misc_cigar.nif
+icon: pc\m\pc_misc_cigar.dds
+data:
+  weight: 0.2
+  value: 5
+  flags: ''

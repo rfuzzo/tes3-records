@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Bellman_16
+name: GANG WAR IN OLD EBONHEART
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_note_oe_news.nif
+icon: tr\m\tr_note_oe_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\TR_bellman_512_256.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nGANG WAR IN OLD EBONHEART<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nOtrebus Delagia, a local businessman, and others have been killed in what sources call a \"bloodbath\" and an \"outright underworld gang war\". Delagia, a Cyrodiil native, was allegedly the head of a criminal enterprise known as \"Delagia's gang\". The news of his and the gang's demise has reportedly come as a relief to some living on the east side of town. Rumors that the Thieves' Guild were involved in the bloodshed have not been confirmed. The townsguard declined to comment.<br><br>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nDAEDRIC THREATS ON THE DECLINE<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nExtraplanar threats to the Empire have reached an all time low, according to a recent study coming from the Imperial City. Scholars and mages in service of the Empire have closely monitored the realms of Oblivion and discovered that hostile Daedric endeavors have all but ceased completely. \"The waters of Oblivion are silent\", the scholars assure us. May we enjoy these peaceful times as long as they may last.<br><br>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

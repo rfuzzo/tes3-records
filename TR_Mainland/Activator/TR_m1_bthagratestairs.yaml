@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m1_bthagratestairs
+name: ''
+script: TR_m1_bthagratestairs_sc
+mesh: tr\i\tr_in_dwe_grate_strsA.nif

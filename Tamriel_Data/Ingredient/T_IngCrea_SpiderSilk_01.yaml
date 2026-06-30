@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_SpiderSilk_01
+name: Spider Silk
+script: ''
+mesh: sky\n\sky_ingred_spidersilk.nif
+icon: sky\n\tx_ingred_Spdrslk_01.dds
+data:
+  weight: 0.1
+  value: 5
+  effects:
+  - SlowFall
+  - Paralyze
+  - Invisibility
+  - DrainAttribute
+  skills:
+  - None
+  - None
+  - None
+  - Block
+  attributes:
+  - None
+  - None
+  - None
+  - Speed

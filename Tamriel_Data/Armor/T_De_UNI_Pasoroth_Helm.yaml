@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_De_UNI_Pasoroth_Helm
+name: War Helm of Pasoroth
+script: ''
+mesh: tr\a\tr_a_pasoroth_helm.nif
+icon: tr\a\tr_a_pasoroth_helm.dds
+enchanting: T_Const_EbonyHelmet_Pasoroth
+biped_objects:
+- biped_object_type: Head
+  male_bodypart: T_A_DePasorothEbonyHelm_He
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 10.0
+  value: 20000
+  health: 800
+  enchantment: 525
+  armor_rating: 75

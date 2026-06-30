@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: ondusi's key
+name: Ondusi's Key
+script: ''
+mesh: c\C_Ring_common02.NIF
+icon: c\tx_ring_common02.tga
+enchanting: ondusi's open door_en
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 20
+  enchantment: 10

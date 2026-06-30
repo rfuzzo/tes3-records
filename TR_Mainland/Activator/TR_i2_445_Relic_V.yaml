@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_i2_445_Relic_V
+name: Lord Vivec's Hair
+script: TR_m2_445_sc_VehkRelic
+mesh: tr\f\TR_act_nec_uc_relic_a.nif

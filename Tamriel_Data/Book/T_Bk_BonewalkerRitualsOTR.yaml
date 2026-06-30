@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_BonewalkerRitualsOTR
+name: Bonewalker Rituals
+script: T_ScBook_SpBonewalkerRitual
+mesh: tr\m\tr_book_octavo_02_o.nif
+icon: tr\m\tr_book_octavo_o_02.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\">\r\n<FONT COLOR=\"000000\" SIZE=\"2\" FACE=\"Daedric\">\r\n<IMG SRC=\"TR\\tr_bonew_bookart_01.dds\" WIDTH=\"265\" HEIGHT=\"265\"> <BR> FORGE A KEEN FAITH IN THE CRUCIBLE OF SUFFERING <br>\r\n<IMG SRC=\"TR\\tr_bonew_bookart_02.dds\" WIDTH=\"265\" HEIGHT=\"265\"><BR>\r\nFORGE DARKNESS INTO LIGHT<BR>"
+data:
+  weight: 3.0
+  value: 200
+  book_type: Book
+  skill: None
+  enchantment: 100

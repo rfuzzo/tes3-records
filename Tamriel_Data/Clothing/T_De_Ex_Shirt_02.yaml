@@ -1,0 +1,35 @@
+type: Clothing
+flags: ''
+id: T_De_Ex_Shirt_02
+name: Exquisite Shirt
+script: ''
+mesh: tr\c\tr_c_shirt_exq_02_gnd.nif
+icon: tr\c\tr_exquis_shirt_02.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_C_DeEqShirt02_C
+  female_bodypart: ''
+- biped_object_type: LeftUpperArm
+  male_bodypart: T_C_DeEqShirt02_UA
+  female_bodypart: ''
+- biped_object_type: RightUpperArm
+  male_bodypart: T_C_DeEqShirt02_UA
+  female_bodypart: ''
+- biped_object_type: LeftForearm
+  male_bodypart: T_C_DeEqShirt02_Fa
+  female_bodypart: ''
+- biped_object_type: RightForearm
+  male_bodypart: T_C_DeEqShirt02_Fa
+  female_bodypart: ''
+- biped_object_type: LeftWrist
+  male_bodypart: T_C_DeEqShirt02_W
+  female_bodypart: ''
+- biped_object_type: RightWrist
+  male_bodypart: T_C_DeEqShirt02_W
+  female_bodypart: ''
+data:
+  clothing_type: Shirt
+  weight: 2.0
+  value: 120
+  enchantment: 600

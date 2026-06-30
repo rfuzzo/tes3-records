@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Fx_WebTrap
+name: Web
+script: AB_WebTrap_s
+mesh: OAAB\e\web_trap.nif

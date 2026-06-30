@@ -1,0 +1,25 @@
+type: Container
+flags: ''
+id: crate_01_Sirollus_01
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 400.0
+container_flags: IS_BASE
+inventory:
+- - -1
+  - imperial shield
+- - -1
+  - imperial_chain_greaves
+- - -1
+  - imperial_chain_pauldron_right
+- - -1
+  - imperial_chain_pauldron_left
+- - -1
+  - imperial_chain_cuirass
+- - -1
+  - imperial_studded_cuirass
+- - -1
+  - imperial_chain_coif_helm
+- - -1
+  - silver_helm

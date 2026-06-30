@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Nor_UNI_Runic_Hammer_01
+name: Runic Hammer
+script: ''
+mesh: sky\w\sky_w_runic_hamr_uni.nif
+icon: sky\w\sky_w_runic_hamr_uni.dds
+enchanting: T_Use_Runic_Hammer
+data:
+  weight: 30.0
+  value: 44000
+  weapon_type: BluntTwoClose
+  health: 2400
+  speed: 1.0
+  reach: 1.5
+  enchantment: 70
+  chop_min: 1
+  chop_max: 40
+  slash_min: 1
+  slash_max: 32
+  thrust_min: 1
+  thrust_max: 4
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

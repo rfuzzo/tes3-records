@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_MARK_Gavas_Salerys
+name: Gavas Salerys
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: ''
+enchanting: ''
+text: "Marker for moving TR_m7_Gavas_Salerys at the end of the quest tr_m7_wil_oneclan\r\nMoved in script tr_m7_wil_oneclan_move_sc"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

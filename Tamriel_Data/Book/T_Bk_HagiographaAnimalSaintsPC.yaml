@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_HagiographaAnimalSaintsPC
+name: 'Hagiographa: The Animal Saints'
+script: ''
+mesh: pc\m\pc_bk_book_17.nif
+icon: pc\m\pc_bk_book_17.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nHagiographa<BR>\r\nThe Animal Saints<BR><BR>\r\n<BR>\r\n<DIV ALIGN=\"LEFT\">\r\nSaint Ormus<BR>\r\nOrmus was a pig prophet of Sancre Tor, said to appear with sage wisdom to heroes in times of great consequence, including Chevalier Renald and Hjalmer son-of-Vrage. Like many saints associated with the holy temple-city of Sancre Tor, Ormus's presence is attested at many key moments in history, often centuries apart. Patron of honorable quests and fateful meetings.\r\n<BR><BR>\r\nSaint Dex<BR>\r\nDex is said to have been a donkey who delivered food and medicine to the people of Sutch during the Camoran Usurper's siege of the city, ascending the spire under cover of darkness, before being martyred when the city finally fell. He is often depicted with a heavy pack, laden with supplies. Patron of calm in the face of danger.\r\n<BR><BR>\r\nSaint Colobus<BR>\r\nAncient tales describe Colobus as a tiny crab who used his cunning and wit to winkle larger and grander shells out of the other crabs of the sea, until his own shell was so enormous it rose above the waves. Patron of property, mercantalism, prisons, and the new dawn at sea. Colobus is often depicted as a jewel-encrusted crab with a large golden claw.\r\n<BR><BR>\r\nSaint Jeniric<BR>\r\nA minor saint of Kvatch from the Interregnum, Jeniric was a goose who alerted the guards on the walls to a nighttime attack by Wood Elf raiders by honking loudly until the garrison was roused. Jeniric's owner, a local farmer, was rewarded with a sack of gold, and Jeniric himself ate at the table of the King himself for the rest of his life. Patron of night guards and lookouts.\r\n<BR><BR>\r\nSaint Akial<BR>\r\nOften depicted as a placid, friendly street dog. By tradition, Akial is considered the first Mananaut. Patron of one-way trips.\r\n<BR>"
+data:
+  weight: 3.0
+  value: 50
+  book_type: Book
+  skill: None
+  enchantment: 0

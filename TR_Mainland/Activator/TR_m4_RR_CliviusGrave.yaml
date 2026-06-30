@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m4_RR_CliviusGrave
+name: ''
+script: TR_m4_RR_CliviusStuff_scp
+mesh: tr\x\TR_terrain_sand_01.nif

@@ -1,0 +1,19 @@
+type: Light
+flags: PERSISTENT
+id: TR_m2_kmlz_HoR_LightOff
+name: ''
+script: ''
+mesh: l\light_dwrv_neon00.nif
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 16
+  color:
+  - 0
+  - 0
+  - 0
+  - 0
+  flags: ''

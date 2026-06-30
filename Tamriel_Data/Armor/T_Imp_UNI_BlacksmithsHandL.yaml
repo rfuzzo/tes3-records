@@ -1,0 +1,22 @@
+type: Armor
+flags: ''
+id: T_Imp_UNI_BlacksmithsHandL
+name: Blacksmith's Left Hand
+script: ''
+mesh: a\a_imperial_a_gauntlet_gnd.nif
+icon: a\tx_imperial_gauntlet.dds
+enchanting: T_Use_BlacksmithLeft
+biped_objects:
+- biped_object_type: LeftHand
+  male_bodypart: a_imperial_gauntlet
+  female_bodypart: ''
+- biped_object_type: LeftWrist
+  male_bodypart: ''
+  female_bodypart: ''
+data:
+  armor_type: LeftGauntlet
+  weight: 5.0
+  value: 90
+  health: 90
+  enchantment: 200
+  armor_rating: 16

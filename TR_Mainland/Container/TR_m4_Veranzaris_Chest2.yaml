@@ -1,0 +1,23 @@
+type: Container
+flags: ''
+id: TR_m4_Veranzaris_Chest2
+name: Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 25
+  - Gold_001
+- - 1
+  - Misc_Quill
+- - 1
+  - TR_m4_Veranzaris_Book_saom6
+- - 5
+  - T_Sc_Blank
+- - 1
+  - p_restore_willpower_s
+- - 1
+  - random gold_lev_15
+- - 3
+  - sc_paper plain

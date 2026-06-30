@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_TomeTempClose_04
+name: <Template Large Tome>
+script: ''
+mesh: tr\m\tr_book_tomebk_04.nif
+icon: tr\m\tr_book_closed_tome04.dds
+enchanting: ''
+text: ''
+data:
+  weight: 8.0
+  value: 80
+  book_type: Book
+  skill: None
+  enchantment: 0

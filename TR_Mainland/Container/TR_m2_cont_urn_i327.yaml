@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: TR_m2_cont_urn_i327
+name: Urn
+script: ''
+mesh: o\Contain_urn_05.NIF
+encumbrance: 10.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - TR_m2_scroll_summon_wngtwi_i327
+- - 1
+  - ingred_bonemeal_01

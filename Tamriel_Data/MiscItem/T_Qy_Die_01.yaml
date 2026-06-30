@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Qy_Die_01
+name: Quey Die
+script: ''
+mesh: pi\m\Pi_misc_queydie.nif
+icon: pi\m\Pi_misc_queydie.dds
+data:
+  weight: 0.1
+  value: 3
+  flags: ''

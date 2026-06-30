@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_Yne_WoodenCandleLPink_77
+name: ''
+script: ''
+mesh: pi\l\pi_l_yne_w_candlepinkL.nif
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 77
+  color:
+  - 245
+  - 140
+  - 40
+  - 0
+  flags: DYNAMIC | FIRE | FLICKER_SLOW

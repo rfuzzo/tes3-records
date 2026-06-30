@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_FG_MapUshuDimmu
+name: Map of Ushu-Dimmu
+script: ''
+mesh: m\text_scroll_01.nif
+icon: m\tx_scroll_open_01.tga
+enchanting: ''
+text: <DIV ALIGN="CENTER"><FONT COLOR="000000" SIZE="3" FACE="Magic Cards"> <IMG SRC="TR\tr_ushudimmu_map.dds" WIDTH="210" HEIGHT="210">
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

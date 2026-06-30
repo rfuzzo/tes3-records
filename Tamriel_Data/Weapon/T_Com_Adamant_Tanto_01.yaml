@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Com_Adamant_Tanto_01
+name: Adamantium Tanto
+script: ''
+mesh: TR\w\TR_w_adamant_tanto.NIF
+icon: TR\w\TR_w_adamant_tanto.dds
+enchanting: ''
+data:
+  weight: 9.0
+  value: 1100
+  weapon_type: ShortBladeOneHand
+  health: 900
+  speed: 2.1
+  reach: 1.0
+  enchantment: 50
+  chop_min: 7
+  chop_max: 18
+  slash_min: 7
+  slash_max: 18
+  thrust_min: 7
+  thrust_max: 18
+  flags: ''

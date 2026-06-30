@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_DirenniEmpty02SHOTN
+name: <Placeholder>
+script: ''
+mesh: sky\m\sky_misc_dbook_02.nif
+icon: sky\m\tx_book_direnni_02.dds
+enchanting: ''
+text: ''
+data:
+  weight: 2.0
+  value: 400
+  book_type: Book
+  skill: None
+  enchantment: 0

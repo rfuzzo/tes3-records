@@ -1,0 +1,23 @@
+type: Container
+flags: ''
+id: TR_m4_AndoRilmasLoot01
+name: Rilmas' Loot
+script: ''
+mesh: o\Contain_Com_Chest_01.NIF
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - -15
+  - T_Com_Iron_Star_01
+- - -10
+  - T_Com_Steel_Knife_01
+- - -2
+  - pick_apprentice_01
+- - -3
+  - pick_journeyman_01
+- - -1
+  - pick_master
+- - -4
+  - probe_apprentice_01
+- - -1
+  - probe_master

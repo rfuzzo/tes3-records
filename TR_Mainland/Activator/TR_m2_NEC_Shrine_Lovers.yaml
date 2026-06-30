@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m2_NEC_Shrine_Lovers
+name: Shrine of The Lovers
+script: TR_m2_necshrineoflovers
+mesh: f\Furn_shrine_vivec_01.NIF

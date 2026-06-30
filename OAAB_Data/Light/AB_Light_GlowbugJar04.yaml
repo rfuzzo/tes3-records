@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: AB_Light_GlowbugJar04
+name: Glowjug
+script: ''
+mesh: OAAB\l\glowbugJar04.nif
+icon: OAAB\l\glowjug_04.dds
+sound: ''
+data:
+  weight: 2.0
+  value: 10
+  time: 250
+  radius: 100
+  color:
+  - 201
+  - 36
+  - 255
+  - 0
+  flags: DYNAMIC | CAN_CARRY | FIRE | PULSE_SLOW

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Bellman_28
+name: THIEVES GUILD DECAPITATED!
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_note_oe_news.nif
+icon: tr\m\tr_note_oe_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\TR_bellman_512_256.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nTHIEVES GUILD DECAPITATED!<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nToday, the Bellman has some exclusive, shocking news for you! After careful investigation, our reporters have discovered an alarming pattern in a recent string of killings in popular Vvardenfell hangouts: all of the victims were ranking members of the Thieves Guild! While local authorities have not yet apprehended a suspect, our analysts suspect that the murders were a coordinated assault on the Guild by its longstanding rivals, the Camonna Tong. Nominally a society of \"businessmer\" championing Dark Elf interests, Camonna operatives smuggle chartered goods and slaves by the boatful, and casually murder anyone who might pose a threat to their criminal enterprise. With the comparatively restrained and principled Thieves' Guild decapitated, a dark cloud descends over the Imperial province of Morrowind as the Camonna Tong's brutality lowers the standards of decency even among criminals.<br><br>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

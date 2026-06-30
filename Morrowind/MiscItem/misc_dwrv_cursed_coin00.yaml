@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: misc_dwrv_cursed_coin00
+name: Dwemer Coin
+script: BILL_MarksDwvGhostSummon
+mesh: m\misc_dwrv_coin00.nif
+icon: m\misc_dwrv_coin00.tga
+data:
+  weight: 0.05
+  value: 125
+  flags: ''

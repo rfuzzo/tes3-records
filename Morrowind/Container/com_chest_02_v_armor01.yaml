@@ -1,0 +1,25 @@
+type: Container
+flags: ''
+id: com_chest_02_v_armor01
+name: Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - -1
+  - netch_leather_shield
+- - -1
+  - fur_greaves
+- - -1
+  - fur_pauldron_right
+- - -1
+  - fur_pauldron_left
+- - -1
+  - netch_leather_boiled_cuirass
+- - -1
+  - netch_leather_cuirass
+- - -1
+  - fur_bearskin_cuirass
+- - -1
+  - fur_cuirass

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_MalaTor_Note02
+name: Archeologist's Journal
+script: ''
+mesh: m\Text_Note_02.nif
+icon: m\Tx_note_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nEntry 2\r\n<BR>\r\nProgression into the ruin has been frustratingly slow. It's clear that Mala Tor has been visited, and plundered, multiple times before my arrival. Scattered ceramic fragments, broken metal doors, and disturbed archaeological layers tell a story of repeated treasure hunting.<BR>\r\n<BR>\r\nThe main passage leading deeper is currently blocked by a substantial accumulation of sand and fallen stone. It will take significant effort to clear, and I'm conserving my energy and resources. More concerning are the strange noises I've begun to hear; soft at first, like distant whispers echoing through the stone corridors. Sometimes they sound almost like chanted words in a language I cannot recognize, though the cadence feels distinctly Ayleidic.<BR>\r\n<BR>\r\nI've marked potential points of further investigation on my survey map. Something about this place feels... incomplete. As if the ruin is deliberately concealing its true nature.<BR>\r\n<BR>\r\nDariem<BR>"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

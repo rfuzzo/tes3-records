@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_act-m2-56-necswitch
+name: Oath to the Ancestors
+script: TR_m2_56_ancestoroath
+mesh: x\ex_gg_gateswitch_01.nif

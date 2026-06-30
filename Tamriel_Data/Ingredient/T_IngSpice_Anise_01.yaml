@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngSpice_Anise_01
+name: Anise Seeds
+script: ''
+mesh: pc\n\pc_ing_anise.nif
+icon: pc\n\pc_ingred_anise.dds
+data:
+  weight: 0.1
+  value: 35
+  effects:
+  - DrainAttribute
+  - CureCommonDisease
+  - DamageAttribute
+  - FortifyAttribute
+  skills:
+  - Block
+  - None
+  - Block
+  - Block
+  attributes:
+  - Willpower
+  - None
+  - Intelligence
+  - Willpower

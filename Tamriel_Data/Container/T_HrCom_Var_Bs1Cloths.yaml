@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_HrCom_Var_Bs1Cloths
+name: Basket
+script: ''
+mesh: hr\o\hr_contain_basket_01.nif
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 6
+  - T_Hr_Random_MiscCloths

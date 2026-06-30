@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Mw_FloraSH_BlisFom03
+name: Blistering Fomentarius
+script: ''
+mesh: TR\o\tr_f_fomentarius_clust.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 3
+  - T_Mw_Random_FlorFomentarius

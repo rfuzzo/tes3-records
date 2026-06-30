@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_FlintKnife
+name: Flint Knife
+script: ''
+mesh: OAAB\w\flint_knife.nif
+icon: OAAB\w\flint_knife.tga
+enchanting: ''
+data:
+  weight: 2.0
+  value: 5
+  weapon_type: ShortBladeOneHand
+  health: 300
+  speed: 2.5
+  reach: 1.0
+  enchantment: 8
+  chop_min: 4
+  chop_max: 5
+  slash_min: 3
+  slash_max: 4
+  thrust_min: 3
+  thrust_max: 4
+  flags: ''

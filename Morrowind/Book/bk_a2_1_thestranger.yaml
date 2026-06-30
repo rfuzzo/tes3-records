@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: bk_a2_1_thestranger
+name: The Stranger
+script: ''
+mesh: m\Text_Parchment_01.NIF
+icon: m\Tx_parchment_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe Stranger<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\n[These are the words of the prophecy called \"The Stranger.\" I wrote them down as she spoke them to me.]<BR>\r\n<BR>\r\nWhen earth is sundered, and skies choked black,<BR>\r\nAnd sleepers serve the seven curses,<BR>\r\nTo the hearth there comes a stranger,<BR>\r\nJourneyed far 'neath moon and star.<BR>\r\n<BR>\r\nThough stark-born to sire uncertain,<BR>\r\nHis aspect marks his certain fate.<BR>\r\nWicked stalk him, righteous curse him.<BR>\r\nProphets speak, but all deny.<BR>\r\n<BR>\r\nMany trials make manifest<BR>\r\nThe stranger's fate, the curses' bane.<BR>\r\nMany touchstones try the stranger.<BR>\r\nMany fall, but one remains.<BR>\r\n"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

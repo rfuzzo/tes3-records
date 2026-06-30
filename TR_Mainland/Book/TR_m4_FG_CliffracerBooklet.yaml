@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_FG_CliffracerBooklet
+name: How to Train Your Cliff Racer
+script: TR_m4_FG_OrblosBook_scp
+mesh: tr\m\tr_book_notebk_o_01.nif
+icon: tr\m\tr_book_open_ntbk01.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This handbook details various techniques that can be used to train a cliff racer to obey commands such as fetching items.] <BR>"
+data:
+  weight: 0.5
+  value: 50
+  book_type: Book
+  skill: None
+  enchantment: 0

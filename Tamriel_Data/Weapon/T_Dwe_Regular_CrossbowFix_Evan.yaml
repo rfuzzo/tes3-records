@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Dwe_Regular_CrossbowFix_Evan
+name: Great Crossbow of Evanescence
+script: ''
+mesh: TR\w\w_crossbow_dwm_fix.nif
+icon: w\tx_crossbow_dwemer.dds
+enchanting: T_Const_Evanescence
+data:
+  weight: 12.5
+  value: 1540
+  weapon_type: MarksmanCrossbow
+  health: 850
+  speed: 1.0
+  reach: 1.0
+  enchantment: 60
+  chop_min: 35
+  chop_max: 35
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

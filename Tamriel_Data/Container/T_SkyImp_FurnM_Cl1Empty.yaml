@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: T_SkyImp_FurnM_Cl1Empty
+name: Closet
+script: ''
+mesh: Sky\o\Sky_Furn_Closet_02_01.nif
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory: []

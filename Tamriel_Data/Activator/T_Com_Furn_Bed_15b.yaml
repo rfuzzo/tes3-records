@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Com_Furn_Bed_15b
+name: Bed
+script: Bed_Standard
+mesh: pc\f\pc_f_com_r_bedcpy01b.nif

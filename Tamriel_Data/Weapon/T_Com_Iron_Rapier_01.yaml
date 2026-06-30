@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Com_Iron_Rapier_01
+name: Iron Rapier
+script: ''
+mesh: tr\w\tr_w_iron_rapier_01.nif
+icon: tr\w\tr_w_iron_rapier.dds
+enchanting: ''
+data:
+  weight: 14.0
+  value: 32
+  weapon_type: LongBladeOneHand
+  health: 680
+  speed: 1.4
+  reach: 1.25
+  enchantment: 55
+  chop_min: 1
+  chop_max: 4
+  slash_min: 4
+  slash_max: 15
+  thrust_min: 5
+  thrust_max: 19
+  flags: ''

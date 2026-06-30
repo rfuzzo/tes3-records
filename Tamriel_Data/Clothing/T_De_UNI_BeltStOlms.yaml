@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_De_UNI_BeltStOlms
+name: Belt of St. Olms
+script: ''
+mesh: tr\c\tr_c_belt_st_olms.nif
+icon: tr\c\tr_c_belt_st_olms.dds
+enchanting: T_Const_BeltStOlms
+biped_objects: []
+data:
+  clothing_type: Belt
+  weight: 1.0
+  value: 500
+  enchantment: 0

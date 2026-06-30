@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_De_Set_BannerWater_01
+name: Waters March
+script: OutsideBanner
+mesh: tr\f\tr_act_banner_water_01.nif

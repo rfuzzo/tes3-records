@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Qy_BronzeCup_01
+name: Bronze Cup
+script: ''
+mesh: pi\m\pi_m_cnq_b_cup_01.nif
+icon: pi\m\pi_m_cnq_b_cup_01.dds
+data:
+  weight: 2.0
+  value: 12
+  flags: ''

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_Ginseng_01
+name: Ginseng
+script: ''
+mesh: pc\n\pc_ing_ginseng.nif
+icon: pc\n\pc_tx_ingred_ginseng.dds
+data:
+  weight: 0.1
+  value: 1
+  effects:
+  - DamageAttribute
+  - CurePoison
+  - Burden
+  - FortifyMagicka
+  skills:
+  - Block
+  - None
+  - None
+  - None
+  attributes:
+  - Luck
+  - None
+  - None
+  - None

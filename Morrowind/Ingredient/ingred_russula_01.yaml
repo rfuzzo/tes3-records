@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_russula_01
+name: Luminous Russula
+script: ''
+mesh: n\Ingred_russula_01.NIF
+icon: n\Tx_russula_01.tga
+data:
+  weight: 0.2
+  value: 1
+  effects:
+  - WaterBreathing
+  - DrainFatigue
+  - Poison
+  - None
+  skills:
+  - Block
+  - Block
+  - Block
+  - Block
+  attributes:
+  - Strength
+  - Strength
+  - Strength
+  - Strength

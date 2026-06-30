@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_HH_Alvynu_7_Letter
+name: Love Letter
+script: ''
+mesh: m\Text_Parchment_02.NIF
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This letter contains paragraphs and paragraphs of gushing praise directed to 'my beautiful Ely' by 'your dearest Voldy'. A common thread seems to be the author's desire to have the relationship move faster, despite Ely's 'duties' making this impossible.]<BR>"
+data:
+  weight: 0.2
+  value: 5
+  book_type: Scroll
+  skill: None
+  enchantment: 0

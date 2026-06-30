@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_IcewraithTeeth_01
+name: Ice Wraith Teeth
+script: ''
+mesh: Sky\n\Sky_Ingred_IceWTeeth.nif
+icon: Sky\n\Tx_Ingred_IceWTeeth.dds
+data:
+  weight: 0.1
+  value: 20
+  effects:
+  - FrostDamage
+  - FrostShield
+  - Chameleon
+  - FortifyMagickaMultiplier
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

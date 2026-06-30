@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Bellman_19
+name: EEC EXPLORES ICY INVESTMENTS
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_note_oe_news.nif
+icon: tr\m\tr_note_oe_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\TR_bellman_512_256.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nEEC EXPLORES ICY INVESTMENTS<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nEast Empire Company personnel have reportedly been surveying islands in the Sea of Ghosts for future trading opportunities and useful resources. Investors have long pushed for the trading company to expand its reach beyond the eastern territories of Black Marsh, Morrowind, and the Padomaic Isles. Following disappointing returns on the operations in Port Mare, EEC surveyors now look north in the hopes of finding as-of-yet untapped mineral deposits.<br><br>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nPUBLIC NOTICE:<BR>RESETTLEMENT OFFICE TAKING APPLICATIONS<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nAdventurous? Destitute? Find a new future for you and your family on Vvardenfell! Visit the Resettlement Office in Ebon Tower for more information.<br><br>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

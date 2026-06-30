@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_NecMQ_UrnDestroyer
+name: Urn
+script: TR_NecMQ_UrnSpawnScript
+mesh: tr\m\tr_misc_urn_01.nif
+icon: tr\m\tr_misc_urn_01.dds
+data:
+  weight: 10.0
+  value: 10
+  flags: ''

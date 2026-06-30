@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngMine_RoseQuartz_01
+name: Rose Quartz
+script: ''
+mesh: tr\n\tr_ing_rose_quartz.nif
+icon: tr\n\tr_ing_rose_quartz.dds
+data:
+  weight: 5.0
+  value: 150
+  effects:
+  - RestoreHealth
+  - FortifyAttribute
+  - CureParalyzation
+  - Sound
+  skills:
+  - None
+  - Block
+  - None
+  - None
+  attributes:
+  - None
+  - Personality
+  - None
+  - None

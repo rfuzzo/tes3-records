@@ -1,0 +1,22 @@
+type: Armor
+flags: ''
+id: T_Dae_UNI_GauntletOfPoor_L
+name: Left Gauntlet of the Poor
+script: ''
+mesh: tr\a\tr_a_gauntletspoorl_gn.nif
+icon: tr\a\tr_a_gauntletspoor.dds
+enchanting: T_Const_PoorGauntlets
+biped_objects:
+- biped_object_type: LeftHand
+  male_bodypart: T_A_DaeUni_GauntletsOfPoor
+  female_bodypart: ''
+- biped_object_type: LeftWrist
+  male_bodypart: ''
+  female_bodypart: ''
+data:
+  armor_type: LeftGauntlet
+  weight: 3.0
+  value: 12000
+  health: 240
+  enchantment: 0
+  armor_rating: 80

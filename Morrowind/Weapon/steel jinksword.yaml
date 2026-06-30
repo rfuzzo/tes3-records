@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: steel jinksword
+name: Steel Jinksword
+script: ''
+mesh: w\W_shortsword00.nif
+icon: w\Tx_Shortsword01.tga
+enchanting: paralysis_en
+data:
+  weight: 8.0
+  value: 70
+  weapon_type: ShortBladeOneHand
+  health: 750
+  speed: 2.0
+  reach: 1.0
+  enchantment: 40
+  chop_min: 5
+  chop_max: 10
+  slash_min: 5
+  slash_max: 12
+  thrust_min: 6
+  thrust_max: 12
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

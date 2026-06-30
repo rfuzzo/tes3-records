@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: light_de_candle_09_off
+name: ''
+script: ''
+mesh: l\Light_De_Candle_09.NIF
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 128
+  color:
+  - 0
+  - 0
+  - 0
+  - 0
+  flags: ''

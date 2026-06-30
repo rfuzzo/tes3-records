@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_HH_Alvynu_7_Notice
+name: Coast Guard Notice
+script: ''
+mesh: m\Text_Parchment_01.nif
+icon: m\Tx_parchment_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This is an official-looking Coast Guard notice demanding that the captain of the Calaril Comet submit to a full inspection.]<BR>"
+data:
+  weight: 0.2
+  value: 10
+  book_type: Scroll
+  skill: None
+  enchantment: 0

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_Set_Shrine_SaintProph_02
+name: Shrine of St. An-Tasha
+script: T_ScObj_ShrineSaintProphPC
+mesh: pc\x\pc_ex_wshrn_06.nif

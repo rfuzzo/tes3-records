@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_MetalPieceSilver_01
+name: Silver Ingot
+script: ''
+mesh: tr\m\tr_misc_bar_silv_01.nif
+icon: tr\m\tr_misc_silv_ingot_01.dds
+data:
+  weight: 11.0
+  value: 200
+  flags: ''

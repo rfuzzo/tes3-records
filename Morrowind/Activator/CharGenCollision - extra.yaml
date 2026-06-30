@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: CharGenCollision - extra
+name: ''
+script: CharGenDisable
+mesh: EditorMarker_box_01.NIF

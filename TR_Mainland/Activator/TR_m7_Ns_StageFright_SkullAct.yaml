@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m7_Ns_StageFright_SkullAct
+name: Darathes Soril's Remains
+script: TR_m7_Ns_StageFright_ScSkull
+mesh: m\misc_skull00.nif

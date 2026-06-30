@@ -1,0 +1,20 @@
+type: Clothing
+flags: ''
+id: TR_m7_YasumakLeftGlove
+name: Left Glove of Sure Grip
+script: ''
+mesh: c\c_glove_extravagant1_GND.NIF
+icon: c\tx_glove_extravagant_1.tga
+enchanting: TR_m7_YasumakLeftGlove_en
+biped_objects:
+- biped_object_type: LeftHand
+  male_bodypart: c_glove_extravagant1
+  female_bodypart: ''
+- biped_object_type: LeftWrist
+  male_bodypart: ''
+  female_bodypart: ''
+data:
+  clothing_type: LeftGlove
+  weight: 1.0
+  value: 4000
+  enchantment: 200

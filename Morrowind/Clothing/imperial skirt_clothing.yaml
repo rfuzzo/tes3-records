@@ -1,0 +1,17 @@
+type: Clothing
+flags: ''
+id: imperial skirt_clothing
+name: Imperial Skirt
+script: ''
+mesh: c\C_M_Skirt_Imperial_GND.nif
+icon: a\Tx_Imperial_skirt.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: Skirt
+  male_bodypart: imperial skirt
+  female_bodypart: ''
+data:
+  clothing_type: Skirt
+  weight: 2.0
+  value: 4
+  enchantment: 5

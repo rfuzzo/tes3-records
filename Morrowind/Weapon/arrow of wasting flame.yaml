@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: arrow of wasting flame
+name: Arrow of Wasting Flame
+script: ''
+mesh: w\W_Steel_Arrow.NIF
+icon: w\tx_arrow_steel.tga
+enchanting: arrow of wasting flame_en
+data:
+  weight: 0.5
+  value: 19
+  weapon_type: Arrow
+  health: 10
+  speed: 1.0
+  reach: 1.0
+  enchantment: 15
+  chop_min: 1
+  chop_max: 4
+  slash_min: 0
+  slash_max: 0
+  thrust_min: 0
+  thrust_max: 0
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

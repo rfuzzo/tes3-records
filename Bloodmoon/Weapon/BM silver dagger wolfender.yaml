@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: BM silver dagger wolfender
+name: Wolfender Silver Dagger
+script: ''
+mesh: w\W_Nord_dagger.NIF
+icon: w\Nord_dagger.dds
+enchanting: ''
+data:
+  weight: 1.0
+  value: 1
+  weapon_type: ShortBladeOneHand
+  health: 100
+  speed: 1.0
+  reach: 1.0
+  enchantment: 100
+  chop_min: 1
+  chop_max: 5
+  slash_min: 1
+  slash_max: 5
+  thrust_min: 1
+  thrust_max: 5
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE | SILVER

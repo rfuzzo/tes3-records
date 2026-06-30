@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_DwBust
+name: Stone Dwemer Bust
+script: ''
+mesh: OAAB\m\yy_dw_bust.nif
+icon: OAAB\m\yy_dw_bust.tga
+data:
+  weight: 80.0
+  value: 200
+  flags: ''

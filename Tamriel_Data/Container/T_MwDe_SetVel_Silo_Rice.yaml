@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_MwDe_SetVel_Silo_Rice
+name: Grain Silo
+script: ''
+mesh: tr\o\tr_ex_v_silo_cont_01.nif
+encumbrance: 0.0
+container_flags: IS_BASE
+inventory:
+- - 40
+  - ingred_saltrice_01

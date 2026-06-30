@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Nor_UNI_GodsbloodSeax
+name: Vrigyn
+script: ''
+mesh: tr\w\tr_w_godblood_seax_uni.nif
+icon: tr\w\tr_w_godblood_seax_uni.dds
+enchanting: T_Const_GodsbloodSeaxUni
+data:
+  weight: 14.0
+  value: 38000
+  weapon_type: ShortBladeOneHand
+  health: 1900
+  speed: 1.6
+  reach: 1.0
+  enchantment: 200
+  chop_min: 14
+  chop_max: 34
+  slash_min: 10
+  slash_max: 26
+  thrust_min: 10
+  thrust_max: 34
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

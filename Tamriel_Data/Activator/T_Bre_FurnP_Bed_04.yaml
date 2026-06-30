@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Bre_FurnP_Bed_04
+name: Bed
+script: Bed_Standard
+mesh: hr\f\hr_furn_bre_p_bed4.nif

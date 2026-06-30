@@ -1,0 +1,35 @@
+type: Clothing
+flags: ''
+id: BM_Wool01_shirt
+name: Common Shirt
+script: ''
+mesh: c\C_common_Wool01ShirtGND.NIF
+icon: c\Tx_Common_Wool01_Shirt.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: C_common_Wool01_C
+  female_bodypart: C_common_Wool01_Skinf
+- biped_object_type: RightUpperArm
+  male_bodypart: C_common_Wool01_UA
+  female_bodypart: ''
+- biped_object_type: LeftUpperArm
+  male_bodypart: C_common_Wool01_UA
+  female_bodypart: ''
+- biped_object_type: LeftForearm
+  male_bodypart: C_common_Wool01_FA
+  female_bodypart: ''
+- biped_object_type: RightForearm
+  male_bodypart: C_common_Wool01_FA
+  female_bodypart: ''
+- biped_object_type: LeftWrist
+  male_bodypart: C_common_Wool01_W
+  female_bodypart: ''
+- biped_object_type: RightWrist
+  male_bodypart: C_common_Wool01_W
+  female_bodypart: ''
+data:
+  clothing_type: Shirt
+  weight: 3.0
+  value: 4
+  enchantment: 20

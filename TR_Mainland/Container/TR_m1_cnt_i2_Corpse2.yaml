@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: TR_m1_cnt_i2_Corpse2
+name: Corpse
+script: ''
+mesh: o\contain_corpse10.NIF
+encumbrance: 120.0
+container_flags: IS_BASE
+inventory:
+- - 3
+  - T_Mw_Lvl_LootSmuggler-11+
+- - 5
+  - bm_random_lockpick
+- - 1
+  - ingred_bonemeal_01

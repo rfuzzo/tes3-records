@@ -1,0 +1,17 @@
+type: Clothing
+flags: ''
+id: TR_m7_Q_WatersMarchSkirt
+name: Defender's Skirt
+script: ''
+mesh: TR\c\TR_c_Red_Hero_SkirtYG.nif
+icon: TR\c\TR_c_red_hero_skirty.dds
+enchanting: TR_m7_Q_WatersMarchSkirt_en
+biped_objects:
+- biped_object_type: Skirt
+  male_bodypart: T_C_DeEtSkirtRedHero02_G
+  female_bodypart: ''
+data:
+  clothing_type: Skirt
+  weight: 6.0
+  value: 1500
+  enchantment: 200

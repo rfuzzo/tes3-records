@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: TR_m7_Ns_IL_4_Journal
+name: Prulius Sudatian's Journal
+script: ''
+mesh: tr\m\tr_book_notebk_05.nif
+icon: tr\m\tr_book_closed_ntbk05.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[The journal contains the shorthand notes of Prulius Sudatian's investigation into the ties between the Camonna Tong and the Dren family. The last entry simply reads:]\r\n<br>\r\n<br>\r\n12 Midyear<BR>\r\nOld Dren Plantation<BR>\r\nOrvas<BR>\r\nReleniah?<BR>\r\n<BR>"
+data:
+  weight: 0.5
+  value: 10
+  book_type: Book
+  skill: None
+  enchantment: 0

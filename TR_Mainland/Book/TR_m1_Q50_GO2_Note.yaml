@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_Q50_GO2_Note
+name: Letter from Merlador
+script: ''
+mesh: m\Text_Parchment_02.NIF
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"Left\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nTo whom it concerns,<BR>\r\nThis letter is to inform you that due to the tardiness of your transportation of goods entrusted to you for delivery to Merlador of Llothanis from the port of Blacklight, I have authorized the %PCRace %PCClass %PCName to seize these goods and bring them to me with all haste.<BR>\r\n<BR>\r\n<BR>\r\nUndersigned,<BR>\r\n<BR>\r\nMerlador of Alinor<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

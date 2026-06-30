@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: bk_indreledeed
+name: Deed to Indrele's House
+script: ''
+mesh: m\Text_Parchment_02.nif
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nBy the Grace of ALMSIVI, Lords and Rulers of All<BR>\r\n<BR>\r\nKnow all Dunmer by these words that I, Muthsera Hlaalu Velando Omani, have legally purchased the home in Seyda Neen of the Dunmer Indrele Rathryon and the accompanying land for the sum of 3000 Imperial Drakes. Witness our hands on this third day of Evening Star, 3E 426.<BR>\r\n<BR>\r\nSeal of the seller<BR>\r\nIndrele Rathryon<BR>\r\n<BR>\r\nSeal of the buyer<BR>\r\nVelanda Omani<BR>\r\n"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

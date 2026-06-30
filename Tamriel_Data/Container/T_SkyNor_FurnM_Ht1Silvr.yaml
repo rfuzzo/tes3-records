@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_SkyNor_FurnM_Ht1Silvr
+name: Hutch
+script: ''
+mesh: sky\o\sky_furn_n_m_hutch_01.nif
+encumbrance: 75.0
+container_flags: IS_BASE
+inventory:
+- - 6
+  - T_Sky_Random_MiscSilverware

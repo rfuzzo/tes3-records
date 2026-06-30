@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: tr_m7_narsis_banner_17
+name: The Hackle-Lounge
+script: OutsideBanner
+mesh: tr\f\tr_act_banner_trade_01.nif

@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: chargen boat
+name: ''
+script: ''
+mesh: x\Ex_DE_ship.NIF

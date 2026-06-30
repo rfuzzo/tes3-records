@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Dwe_Regular_Broadsword_01
+name: Dwarven Broadsword
+script: ''
+mesh: TR\w\TR_w_dwrv_bsword.nif
+icon: TR\w\TR_w_dwrv_bsword.dds
+enchanting: ''
+data:
+  weight: 10.0
+  value: 400
+  weapon_type: LongBladeOneHand
+  health: 1130
+  speed: 1.25
+  reach: 1.0
+  enchantment: 42
+  chop_min: 8
+  chop_max: 18
+  slash_min: 12
+  slash_max: 18
+  thrust_min: 2
+  thrust_max: 18
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

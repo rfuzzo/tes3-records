@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_M3_i3-516_Ind_CmbBrl
+name: Barrel
+script: ''
+mesh: o\Contain_barrel_01.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 15
+  - ingred_comberry_01

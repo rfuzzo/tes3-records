@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_bk_T_Visitor_Book
+name: Telvanni Council Visitors Log
+script: ''
+mesh: m\Text_Octavo_open_03.nif
+icon: m\Tx_octavo_open_03.tga
+enchanting: ''
+text: "[This book contains meticulous records of all who come and go to visit the Mouths at the Council House. It is most recent and up-to-date. You notice a very odd handwriting that stands out and the name that is scribbled is 'Olym Asera'.]<BR>\r\n"
+data:
+  weight: 2.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 20

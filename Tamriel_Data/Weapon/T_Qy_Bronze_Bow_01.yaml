@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Qy_Bronze_Bow_01
+name: Quey Bronze Longbow
+script: ''
+mesh: pi\w\pi_w_bronze_bow.nif
+icon: pi\w\pi_w_bronze_bow.dds
+enchanting: ''
+data:
+  weight: 7.0
+  value: 300
+  weapon_type: MarksmanBow
+  health: 350
+  speed: 1.0
+  reach: 1.0
+  enchantment: 100
+  chop_min: 1
+  chop_max: 25
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

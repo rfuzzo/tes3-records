@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_Propylon_Yandaran
+name: Yandaran Propylon
+script: TR_m7_Propylon_Yandaran_sc
+mesh: tr\i\tr_in_portal_yandar.nif

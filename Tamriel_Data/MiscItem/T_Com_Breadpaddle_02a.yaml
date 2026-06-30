@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_Breadpaddle_02a
+name: Long Bread Paddle
+script: ''
+mesh: TR\m\sky_furn_brdpdl_02_01.nif
+icon: sky\m\tx_misc_w_bpd_02a.dds
+data:
+  weight: 1.0
+  value: 1
+  flags: ''

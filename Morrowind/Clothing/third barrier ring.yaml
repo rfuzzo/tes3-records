@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: third barrier ring
+name: Third Barrier Ring
+script: ''
+mesh: c\C_Ring_expensive_1.NIF
+icon: c\tx_ring_expensive01.tga
+enchanting: third barrier_en
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 75
+  enchantment: 600

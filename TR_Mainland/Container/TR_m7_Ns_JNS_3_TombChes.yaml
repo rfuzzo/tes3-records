@@ -1,0 +1,21 @@
+type: Container
+flags: ''
+id: TR_m7_Ns_JNS_3_TombChes
+name: Wooden Chest
+script: TR_m7_Ns_JNS_3_ScTombObjEnable
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - T_Mw_Random_BooksWizardEvil
+- - 1
+  - T_Mw_Random_ClutterPeachware
+- - 1
+  - T_Mw_Random_ClutterPotionFlask
+- - 10
+  - T_Mw_Random_Ingredient
+- - 1
+  - T_Mw_Random_PosDunmer01
+- - 2
+  - l_m_potion

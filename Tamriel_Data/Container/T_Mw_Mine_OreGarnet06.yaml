@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Mw_Mine_OreGarnet06
+name: Raw Garnet
+script: ''
+mesh: tr\o\tr_cont_rock_garnet_06.nif
+encumbrance: 0.0
+container_flags: ORGANIC | IS_BASE
+inventory:
+- - 8
+  - T_Mw_Random_OreGarnet

@@ -1,0 +1,25 @@
+type: Container
+flags: ''
+id: TR_m4_AndoOrblosChest
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Com_CandleStickSilver_02
+- - 1
+  - T_De_GreenGlassPitcher_01
+- - 1
+  - T_Imp_Ep_Hat_02
+- - 1
+  - T_Imp_SilverWareDish_01
+- - 1
+  - T_Imp_SilverWareKnife_01
+- - 1
+  - expensive_amulet_01
+- - 1
+  - misc_imp_silverware_pitcher
+- - 1
+  - misc_imp_silverware_plate_03

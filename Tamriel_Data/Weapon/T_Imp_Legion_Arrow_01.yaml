@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Imp_Legion_Arrow_01
+name: Imperial Arrow
+script: ''
+mesh: tr\w\tr_w_imp_arrow.nif
+icon: TR\w\TR_w_imp_arrow.dds
+enchanting: ''
+data:
+  weight: 0.1
+  value: 3
+  weapon_type: Arrow
+  health: 10
+  speed: 1.0
+  reach: 1.0
+  enchantment: 16
+  chop_min: 1
+  chop_max: 5
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: ''

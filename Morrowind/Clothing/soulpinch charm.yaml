@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: soulpinch charm
+name: Soulpinch Charm
+script: ''
+mesh: c\Amulet_Expensive_1.NIF
+icon: c\tx_amulet_expens1.tga
+enchanting: soulpinch_en
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 48
+  enchantment: 150

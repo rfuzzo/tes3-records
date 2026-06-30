@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_De_Glass_StaffOfAncestor_01
+name: Glass Staff of the Ancestors
+script: ''
+mesh: w\W_staff_glass.nif
+icon: w\Tx_staff_glass.tga
+enchanting: summon ancestral ghost_en
+data:
+  weight: 4.8
+  value: 8000
+  weapon_type: BluntTwoWide
+  health: 240
+  speed: 1.75
+  reach: 1.5
+  enchantment: 42
+  chop_min: 2
+  chop_max: 12
+  slash_min: 3
+  slash_max: 12
+  thrust_min: 1
+  thrust_max: 9
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

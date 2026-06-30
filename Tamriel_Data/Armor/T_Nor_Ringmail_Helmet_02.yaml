@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Nor_Ringmail_Helmet_02
+name: Nordic Ringmail Helmet
+script: ''
+mesh: tr\a\tr_a_ringmail_helm.nif
+icon: tr\a\tr_a_ringmail_helm.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Hair
+  male_bodypart: T_A_NorRingmailHelm02_Hr
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 4.5
+  value: 40
+  health: 120
+  enchantment: 120
+  armor_rating: 10

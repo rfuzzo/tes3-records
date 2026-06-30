@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_FW_College_MusAnchor
+name: Anchor of the Crimson Storm
+script: ''
+mesh: m\text_parchment_01.nif
+icon: m\tx_parchment_01.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nAnchor of the 'Crimson Storm'<BR> <BR>\r\n<DIV ALIGN=\"LEFT\">\r\nOne of the two immense anchors carried by TEM 'Crimson Storm', flagship of Emperor Uriel V during the final stages of the invasion of Akavir. Though the great five-decked vessel successfully reached Ionith, it was ultimately scuttled on an isolated sandbar in early 289 after sustaining severe damage during the Fleet's return to Tamriel. The loss of the flagship and a large portion of the Fleet was one of the principal factors leading to the faltering of supply lines between Tamriel and the Legions wintering in Akavir.\r\n<BR>\r\nThe wreck of the 'Crimson Storm' was lost to history until 377, when it was discovered on a remote Padomaic sandbar by the crew of a Quey fishing vessel. Fearing the loss of high-value intelligence or artifacts, the Navy garrison at Temaris dispatched a team to secure the wreck, but found little except a crumbling hulk. The anchor was kept at Temaris until the founding of the Museum in 389, the centennial of the disaster at Ionith.<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

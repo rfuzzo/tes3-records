@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_MARK_Ns_MG_Mys
+name: player
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: ''
+enchanting: ''
+text: Teleport player from script TR_m7_Ns_MG_Mys_Act_sc
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

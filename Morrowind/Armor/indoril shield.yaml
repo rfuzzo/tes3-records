@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: indoril shield
+name: Indoril Shield
+script: ''
+mesh: a\Shield_Indoril.nif
+icon: a\Tx_Indoril_shield.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: Shield
+  male_bodypart: Shield_Indoril
+  female_bodypart: ''
+data:
+  armor_type: Shield
+  weight: 13.5
+  value: 2000
+  health: 900
+  enchantment: 450
+  armor_rating: 45

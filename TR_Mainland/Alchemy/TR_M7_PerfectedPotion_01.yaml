@@ -1,0 +1,36 @@
+type: Alchemy
+flags: ''
+id: TR_M7_PerfectedPotion_01
+name: Perfected Potion of Vitality
+script: ''
+mesh: tr\m\TR_misc_potion_03.NIF
+icon: tr\m\TR_misc_potion_03.dds
+effects:
+- magic_effect: RestoreHealth
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 5
+  min_magnitude: 60
+  max_magnitude: 60
+- magic_effect: RestoreMagicka
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 5
+  min_magnitude: 60
+  max_magnitude: 60
+- magic_effect: RestoreFatigue
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 5
+  min_magnitude: 60
+  max_magnitude: 60
+data:
+  weight: 0.3
+  value: 1000
+  flags: ''

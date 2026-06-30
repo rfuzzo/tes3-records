@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: steel saber_elberoth
+name: Elberoth's Saber
+script: ''
+mesh: w\W_Saber.nif
+icon: w\Tx_Saber.tga
+enchanting: ''
+data:
+  weight: 15.0
+  value: 48
+  weapon_type: LongBladeOneHand
+  health: 1050
+  speed: 1.4
+  reach: 1.0
+  enchantment: 55
+  chop_min: 5
+  chop_max: 20
+  slash_min: 4
+  slash_max: 18
+  thrust_min: 1
+  thrust_max: 5
+  flags: ''

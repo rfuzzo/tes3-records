@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_FM_Bk_PrisonLedger
+name: Firemoth Prison Ledger
+script: ''
+mesh: pc\m\PC_bk_Book_21.nif
+icon: pc\m\pc_bk_book_21.tga
+enchanting: ''
+text: "<FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n23 Frostfall<BR>\r\n<BR>\r\nMarus Tenebrus interned for a week in cell 4 for brawling.<BR>\r\n<BR>\r\n26 Frostfall<BR>\r\nBanos Palianus interned for a day in cell 1 for disorderly conduct.<BR>\r\n<BR>\r\n27 Frostfall<BR>\r\nAterio Manerus interned for a week in cell 2 for brawling.<BR>\r\nJalacix Ronia interned for a week in cell 5 for brawling.<BR>\r\n<BR>\r\n30 Frostfall<BR>\r\nCordus Otanian interned for a week in cell 4 for brawling.<BR>\r\n<BR>\r\n6 Sun's Dusk<BR>\r\nIonius Dacarius interned for a day in cell 1 for disorderly conduct.<BR>\r\nMarus Tenebrus interned for a week in cell 4 for sleeping during his watch.<BR>\r\n<BR>\r\n10 Sun's Dusk<BR>\r\nMarcellus Giordian interned for a day in cell 1 for disorderly conduct.<BR>\r\n<BR>\r\n13 Sun's Dusk<BR>\r\nCordus Otanian interned for a week in cell 4 for disobeying orders.<BR>\r\nBanos Palianus interned for a day in cell 3 for disorderly conduct.<BR>\r\n<BR>\r\n19 Sun's Dusk<BR>\r\nOcutus Satius interned for a week in cell 2 for theft.<BR>\r\n<BR>\r\n20 Sun's Dusk<BR>\r\nMarus Tenebrus interned for a week in cell 4 for brawling.<BR>"
+data:
+  weight: 3.0
+  value: 2
+  book_type: Book
+  skill: None
+  enchantment: 0

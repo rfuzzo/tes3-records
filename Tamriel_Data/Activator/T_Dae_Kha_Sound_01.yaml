@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Dae_Kha_Sound_01
+name: Khalaan Sound 01
+script: T_ScSound_Kha_01
+mesh: EditorMarker.NIF

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_Uddanu_MilynNote
+name: Milyn Raviro's Note
+script: ''
+mesh: m\Text_Note_02.nif
+icon: m\Tx_note_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nI've heard your complaint, Milyn, and since you had proven yourself useful to the Boss, I'll let him know. Gonna warn you in advance, though. The Boss seems to keep the Devourer under his control. He wants the creature to kill, the creature kills. Now, your job is to keep the prisoners in line until they depart to Massunat. The Devourer and any trouble he could yield is not your responsibility -- just keep on doing your job.<BR>\r\n<BR>\r\nDrenus will hand you this note -- too busy to meet you in person.<BR>\r\n<BR>\r\nOrchengar<BR>\r\n"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 100

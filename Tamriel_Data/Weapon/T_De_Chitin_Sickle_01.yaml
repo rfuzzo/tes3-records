@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_De_Chitin_Sickle_01
+name: Chitin Sickle
+script: ''
+mesh: tr\w\tr_w_chitin_sickle.nif
+icon: tr\w\tr_w_chitin_sickle.dds
+enchanting: ''
+data:
+  weight: 4.0
+  value: 24
+  weapon_type: ShortBladeOneHand
+  health: 580
+  speed: 2.0
+  reach: 1.0
+  enchantment: 30
+  chop_min: 2
+  chop_max: 11
+  slash_min: 4
+  slash_max: 14
+  thrust_min: 1
+  thrust_max: 8
+  flags: ''

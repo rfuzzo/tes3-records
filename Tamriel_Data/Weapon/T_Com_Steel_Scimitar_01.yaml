@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Com_Steel_Scimitar_01
+name: Steel Scimitar
+script: ''
+mesh: TR\w\TR_w_steel_scimitar.NIF
+icon: TR\w\TR_w_steel_scimitar.tga
+enchanting: ''
+data:
+  weight: 20.0
+  value: 70
+  weapon_type: LongBladeOneHand
+  health: 1600
+  speed: 1.2
+  reach: 1.0
+  enchantment: 60
+  chop_min: 2
+  chop_max: 14
+  slash_min: 1
+  slash_max: 26
+  thrust_min: 1
+  thrust_max: 12
+  flags: ''

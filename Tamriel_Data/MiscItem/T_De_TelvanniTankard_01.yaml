@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_TelvanniTankard_01
+name: Telvanni Tankard
+script: ''
+mesh: TR\m\TR_misc_T_tankard_01.NIF
+icon: TR\m\TR_misc_T_tankard_01.dds
+data:
+  weight: 1.0
+  value: 3
+  flags: ''

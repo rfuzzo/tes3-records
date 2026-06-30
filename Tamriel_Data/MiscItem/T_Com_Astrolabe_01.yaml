@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_Astrolabe_01
+name: Astrolabe
+script: ''
+mesh: tr\m\tr_misc_astrolabe_01.nif
+icon: tr\m\tr_misc_astrolabe.dds
+data:
+  weight: 5.0
+  value: 150
+  flags: ''

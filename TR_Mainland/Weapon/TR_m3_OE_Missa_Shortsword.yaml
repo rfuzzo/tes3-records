@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m3_OE_Missa_Shortsword
+name: Missa Rhyle
+script: TR_m3_OE_MissaWeapon_Script
+mesh: w\W_silver_Shortsword.nif
+icon: w\Tx_Shortsword_Silver.tga
+enchanting: TR_m3_OE_MissaWeapon_en
+data:
+  weight: 6.0
+  value: 80
+  weapon_type: ShortBladeOneHand
+  health: 570
+  speed: 2.0
+  reach: 1.0
+  enchantment: 36
+  chop_min: 5
+  chop_max: 10
+  slash_min: 5
+  slash_max: 10
+  thrust_min: 7
+  thrust_max: 10
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE | SILVER

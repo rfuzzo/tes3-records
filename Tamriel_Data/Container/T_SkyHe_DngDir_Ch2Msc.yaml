@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: T_SkyHe_DngDir_Ch2Msc
+name: Old Chest
+script: ''
+mesh: sky\o\sky_furn_alt_chest_02.nif
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Sky_Lvl_Soulgems
+- - 4
+  - T_Sky_Random_DirenniCoin
+- - 3
+  - T_Sky_Random_DirenniKitchen

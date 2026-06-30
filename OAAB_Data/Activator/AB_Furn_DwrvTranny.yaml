@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Furn_DwrvTranny
+name: Mysterious Dwemer Device
+script: AB_DwrvMachineryToggle_s
+mesh: OAAB\u\dwrvTranny.nif

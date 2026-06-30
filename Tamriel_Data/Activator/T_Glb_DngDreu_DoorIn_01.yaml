@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Glb_DngDreu_DoorIn_01
+name: Dreugh Membrane
+script: T_ScObj_Dreu_Door
+mesh: tr\d\tr_in_dreu_door_01.nif

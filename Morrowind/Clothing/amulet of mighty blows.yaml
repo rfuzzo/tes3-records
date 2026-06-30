@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: amulet of mighty blows
+name: Amulet of Mighty Blows
+script: ''
+mesh: c\Amulet_Common_2.NIF
+icon: c\tx_amulet_com2.tga
+enchanting: orc's strength_en
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 15
+  enchantment: 70

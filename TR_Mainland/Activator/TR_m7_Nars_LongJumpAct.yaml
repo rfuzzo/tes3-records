@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m7_Nars_LongJumpAct
+name: ''
+script: ''
+mesh: EditorMarker.NIF

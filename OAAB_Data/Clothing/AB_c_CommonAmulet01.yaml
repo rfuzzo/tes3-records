@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: AB_c_CommonAmulet01
+name: Common Amulet
+script: ''
+mesh: OAAB\c\amulet_com_01.nif
+icon: OAAB\c\amulet_com_01.dds
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 2
+  enchantment: 10

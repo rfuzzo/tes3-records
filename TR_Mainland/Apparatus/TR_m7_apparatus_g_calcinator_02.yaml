@@ -1,0 +1,12 @@
+type: Apparatus
+flags: PERSISTENT
+id: TR_m7_apparatus_g_calcinator_02
+name: Grandmaster's Calcinator
+script: TR_m7_SM_g_calcin_disable
+mesh: m\App_G_Calcinator_01.nif
+icon: m\Tx_calcinator_04.tga
+data:
+  apparatus_type: Calcinator
+  quality: 1.5
+  weight: 8.0
+  value: 4000

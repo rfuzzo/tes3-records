@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_TasteOfSugarTR
+name: A Taste of Sugar
+script: T_ScBook_SpJump
+mesh: m\Text_Octavo_02.nif
+icon: m\Tx_octavo_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>\r\nA Taste of Sugar<BR>\r\nby Dar'Bassissa<BR>\r\n<BR>\r\nDar'Bassissa tasted the sugar, but tastes it no more. Too dangerous, it was. Too difficult to know what was real and what was not. Too much of a hassle to deal with the clawless people's law.<BR>\r\n<BR>\r\nOne night, Dar'Bassissa laid down on the sands to rest, head filled with sugar. Dream uncurled it's tail, though Dar'Bassissa did not know it was a dream. It seemed that Dar'Bassissa woke to a burning Rawlith Khaj. Sand, as desert people know, is not kind to stone, and can be less kind to skin, even if it is covered by beautiful fur. The cruel winds and the sands they bore whipped poor Dar'Bassissa until an idea crawled into his head.<BR>\r\n<BR>\r\nDar'Bassissa cast a potent spell of jump, and sprang above the skies, to within shouting distance of the ja-Kha'jay. Jone and Jode, as the unfurred call them, were quite happy to have an adventurous young Khajiit visit. They seemed to smile at Dar'Bassissa, and great warm furry arms lifted to wave to him.<BR>\r\n<BR>\r\nBut then panic. The spell had worn off, and Dar'Bassissa was falling to the sands so very very far below. Being a thief and Khajiit besides, Dar'Bassissa had thought he would simply be able to climb down the air (such being the skill of Khajiiti thieves). But the air proved to be unscalable, and once Dar'Bassissa had fallen below the clouds, he found the swirling sands to be equally hard to find a foothold in.<BR>\r\n<BR>\r\nWhen Dar'Bassissa hit the desert floor, he truly awoke, and has sworn off the sugar ever since. <BR>\r\n"
+data:
+  weight: 3.0
+  value: 200
+  book_type: Book
+  skill: None
+  enchantment: 100

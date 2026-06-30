@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m0_Passwall_Amulet_Inert
+name: Amulet of Passwall [Damaged]
+script: ''
+mesh: sum\c\sum_c_examulet_01.nif
+icon: sum\c\sum_c_examulet_01.dds
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 500
+  enchantment: 0

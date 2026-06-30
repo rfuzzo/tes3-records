@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Ned_Mw_Pitcher
+name: Nedic Pitcher
+script: ''
+mesh: tr\m\tr_nedic_pitcher_01.nif
+icon: tr\m\tr_nedic_pitcher_01.dds
+data:
+  weight: 4.0
+  value: 300
+  flags: ''

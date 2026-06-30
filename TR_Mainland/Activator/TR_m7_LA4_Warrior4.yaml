@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_LA4_Warrior4
+name: Warrior Spawner
+script: TR_m7_LA4_Warrior4_sc
+mesh: EditorMarker.NIF

@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: TR_m4-316_Corpse
+name: Corpse of a drowned Slave
+script: ''
+mesh: o\contain_corpse10.nif
+encumbrance: 0.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_IngMine_OreGold_01
+- - 1
+  - slave_bracer_right

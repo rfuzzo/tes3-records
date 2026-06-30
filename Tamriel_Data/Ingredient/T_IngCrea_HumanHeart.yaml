@@ -1,0 +1,25 @@
+type: Ingredient
+flags: PERSISTENT
+id: T_IngCrea_HumanHeart
+name: Human Heart
+script: ''
+mesh: n\Ingred_Daedra_heart_01.NIF
+icon: n\Tx_daedra_heart_01.tga
+data:
+  weight: 1.0
+  value: 10
+  effects:
+  - DamageHealth
+  - DamageMagicka
+  - DamageAttribute
+  - DamageAttribute
+  skills:
+  - None
+  - None
+  - Block
+  - Block
+  attributes:
+  - None
+  - None
+  - Intelligence
+  - Willpower

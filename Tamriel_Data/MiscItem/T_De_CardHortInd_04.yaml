@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_CardHortInd_04
+name: 'Indoril Warrior: Ordinator'
+script: T_ScObj_CardHortCard
+mesh: tr\m\tr_misc_card_i_warrior.nif
+icon: tr\m\tr_misc_card_i_warrior.dds
+data:
+  weight: 0.02
+  value: 3
+  flags: ''

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m1_RR_heal_Nevusa
+name: 'Nevusa Lakasyn: Healer'
+script: OutsideBanner
+mesh: f\Furn_bannerD_alchemy_01.NIF

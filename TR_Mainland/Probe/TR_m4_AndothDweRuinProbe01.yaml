@@ -1,0 +1,12 @@
+type: Probe
+flags: ''
+id: TR_m4_AndothDweRuinProbe01
+name: Journeyman's Probe
+script: TR_m4_AndothDweProbe01_scp
+mesh: m\Probe_Journeyman_01.NIF
+icon: m\Tx_probe_J_01.tga
+data:
+  weight: 0.25
+  value: 50
+  quality: 0.75
+  uses: 25

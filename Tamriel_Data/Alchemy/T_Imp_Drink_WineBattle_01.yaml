@@ -1,0 +1,44 @@
+type: Alchemy
+flags: ''
+id: T_Imp_Drink_WineBattle_01
+name: Colovian Battlewine
+script: ''
+mesh: tr\m\tr_misc_wine_colovia.nif
+icon: tr\m\tr_misc_wine_colovia.dds
+effects:
+- magic_effect: Sanctuary
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 30
+  min_magnitude: 5
+  max_magnitude: 5
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Endurance
+  range: OnSelf
+  area: 0
+  duration: 30
+  min_magnitude: 15
+  max_magnitude: 15
+- magic_effect: DrainAttribute
+  skill: None
+  attribute: Intelligence
+  range: OnSelf
+  area: 0
+  duration: 30
+  min_magnitude: 30
+  max_magnitude: 30
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Strength
+  range: OnSelf
+  area: 0
+  duration: 30
+  min_magnitude: 15
+  max_magnitude: 15
+data:
+  weight: 1.5
+  value: 95
+  flags: ''

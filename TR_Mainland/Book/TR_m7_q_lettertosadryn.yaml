@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_q_lettertosadryn
+name: Letter to Sadryn
+script: TR_m7_q_SadrynLetter_sc
+mesh: m\Text_Parchment_01.nif
+icon: m\Tx_parchment_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\nMy Dearest Sadryn,<BR>\r\n<BR>Why chase hawks when only cliff racers soar overhead? However brave you may be in your old age, your mind has grown weak, and I fear for your safety. I begged her not to go, but your daughter donned the pilgrims robes and headed east. Saveri's promise of delivering this letter eased my trepidations, if only slightly. But more importantly, my husband, I beg you to look down and hold in your palm the amulet that hangs from your neck. Even in your weakened state, I trust with all my heart you know its significance. If you should forget, your family will surely fall apart, and I will die a lonesome crone. I pray that my words, your amulet, and our daughter's face will give you the strength to remember where you belong. Veloth knows not the difference between those who lose their way and those who turn back.\r\n<BR>Love,<BR>\r\nRiina\r\n<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 100

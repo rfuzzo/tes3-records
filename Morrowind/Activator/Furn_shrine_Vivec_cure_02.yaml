@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: Furn_shrine_Vivec_cure_02
+name: Fields of Kummu Shrine
+script: shrineKummu
+mesh: f\Furn_shrine_vivec_01.NIF

@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: silence charm
+name: Silence Charm
+script: ''
+mesh: c\Amulet_Expensive_1.NIF
+icon: c\tx_amulet_expens1.tga
+enchanting: silence_enu
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 75
+  enchantment: 150

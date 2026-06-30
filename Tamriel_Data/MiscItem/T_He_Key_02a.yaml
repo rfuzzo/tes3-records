@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_He_Key_02a
+name: Green Glass Key
+script: ''
+mesh: sum\m\sum_key_02a.nif
+icon: sum\m\sum_key_02a.dds
+data:
+  weight: 0.0
+  value: 0
+  flags: ''

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_MiddleDawnPC
+name: The Middle Dawn
+script: ''
+mesh: pc\m\PC_bk_Book_20.nif
+icon: pc\m\pc_bk_book_20.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nTHE MIDDLE DAWN<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\n1E1200-2208: The Dragon Break. Scholar-priests of the Alessian Order tamper with the Dragon God of Time.<BR>\r\n<BR>\r\nA fanatical sect of the Alessian Order, the Maruhkati Selective, becomes frustrated by ancient Aldmeri traditions still present within the theological system of the Eight Divines. Specifically, they hated any admission that Akatosh, the Supreme Spirit, was indisputably also Auriel, the Elven High God.<BR>\r\n<BR>\r\nNewly invented rituals were utilized to disprove this theory, to no avail. Finally, the secret masters of the Maruhkati Selective channeled the Aurbis itself to mythically remove those aspects of the Dragon God they disapproved of. A staff or tower appeared before them. The secret masters danced on it until it writhed and trembled and spoke its protonymic.<BR>\r\n<BR>\r\nThe tower split into eight pieces and Time broke. The non-linearity of the Dawn Era had returned.<BR>\r\n<BR>\r\nTamriel slept through the disaster, which 'lasted one thousand and eight years', until the pieces of the tower came to rest on the mortal plane.<BR>\r\n<BR>\r\nEvery culture on Tamriel remembers the Dragon Break in some fashion; to most it is a spiritual anguish that they cannot account for. Several texts survive this timeless period, all (unsurprisingly) conflicting with each other regarding events, people, and regions: wars are mentioned in some that never happen in another, the sun changes color depending on the witness, and the gods either walk among the mortals or they don't. Even the 'one thousand and eight years,' a number (some say arbitrarily) chosen by the Elder Council, is an unreliable measure.<BR>\r\n<BR>\r\nWhether or not the secret masters of the Maruhkati Selective were successful is unknown, and any records of their survival were destroyed by the War of Righteousness that ended the Alessian Order a hundred years later.<BR>\r\n<BR>"
+data:
+  weight: 3.0
+  value: 300
+  book_type: Book
+  skill: None
+  enchantment: 0

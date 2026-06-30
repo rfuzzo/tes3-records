@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: Com_Chest_11_empty
+name: Wooden Chest
+script: ''
+mesh: o\contain_chest10.nif
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory: []

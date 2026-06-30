@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: boethiah's walking stick
+name: Boethiah's Walking Stick
+script: ''
+mesh: w\W_staff_daedric.nif
+icon: w\Tx_staff_daedric.tga
+enchanting: boethiah's walking stick_en
+data:
+  weight: 24.0
+  value: 21075
+  weapon_type: BluntTwoWide
+  health: 1200
+  speed: 1.75
+  reach: 1.8
+  enchantment: 210
+  chop_min: 2
+  chop_max: 16
+  slash_min: 3
+  slash_max: 16
+  thrust_min: 1
+  thrust_max: 12
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

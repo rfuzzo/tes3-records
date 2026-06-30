@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: TR_m7_FaengornJournal_HlaQdone
+name: Faengorn's Journal
+script: ''
+mesh: tr\m\tr_book_notebk_05.nif
+icon: tr\m\tr_book_closed_ntbk05.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[You glance over pages and pages of dense writing, cryptic sketches and obfuscated diagrams. You squint to read the latest entries.]\r\n<br>\r\n<br>\r\nI've finally made my way to Narsis. That old fool Vemyl wasn't lying: these sewers are massive! After several days of exploration and careful mapping, I think I've found the connection to the catacombs I was looking for.<BR>\r\nI settled my study right next to it. A brutal gang war is raging down there, and no one seems to be doing much about it: the Empire doesn't care, and the Hlaalu are probably getting their cut. In any case, that gives me a steady supply of strong bodies to pursue my experiments.\r\n<BR>\r\n<BR>\r\nI've started to send small groups of skeletal warriors across the sewers and into the catacombs. I don't expect them to have made it very far yet. The place must be crawling with undead. Despite their disgust for our science, those Temple Dunmer sure know how to make a dead walk!<BR>\r\nI must make my move soon. The old funerary wards of the Chimer have no secret for me now. The minute I manage to set foot in these tunnels, the dead of past eons will be heeding my call as if I'm Veloth reborn!\r\n<BR>\r\n<BR>\r\n[An angry scribble has recently been added at the bottom of the page.] <br>\r\nThe fools! The door to the catacombs have been sealed! I was so close! There has to be another entrance somewhere. In any case, this hideout is useless to me now. I must prepare to move out.\r\n<BR>"
+data:
+  weight: 0.5
+  value: 10
+  book_type: Book
+  skill: None
+  enchantment: 0

@@ -1,0 +1,22 @@
+type: Armor
+flags: ''
+id: left gauntlet of the horny fist
+name: Left Gauntlet of the Horny Fist
+script: ''
+mesh: a\A_M_Chitin_Gauntlet_GND.nif
+icon: a\TX_Chitin_gauntlet.tga
+enchanting: masterful horny fist_en
+biped_objects:
+- biped_object_type: LeftHand
+  male_bodypart: a_m_chitin_gauntlet
+  female_bodypart: ''
+- biped_object_type: LeftWrist
+  male_bodypart: ''
+  female_bodypart: ''
+data:
+  armor_type: LeftGauntlet
+  weight: 1.0
+  value: 15
+  health: 50
+  enchantment: 100
+  armor_rating: 10

@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: Contain_BM_fakerock_2
+name: Hollowed-Out Icicle
+script: IcicleScript
+mesh: i\BM_IC_icicle_02.NIF
+encumbrance: 30.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - sc_lycanthropycure

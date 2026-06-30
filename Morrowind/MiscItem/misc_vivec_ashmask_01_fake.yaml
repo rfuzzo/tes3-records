@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: misc_vivec_ashmask_01_fake
+name: Vivec Ashmask
+script: noPickUp
+mesh: m\Misc_vivec_ashmask_01.NIF
+icon: m\Tx_vivec_ashmask_01.tga
+data:
+  weight: 3.0
+  value: 500
+  flags: ''

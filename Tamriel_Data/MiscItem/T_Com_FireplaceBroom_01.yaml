@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_FireplaceBroom_01
+name: Broom
+script: ''
+mesh: TR\m\TR_misc_com_fp_broom.nif
+icon: TR\m\TR_misc_com_fp_broom.dds
+data:
+  weight: 1.5
+  value: 2
+  flags: ''

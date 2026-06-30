@@ -1,0 +1,19 @@
+type: Light
+flags: PERSISTENT
+id: TR_m4_Andoth_AndasVaultFire_01
+name: ''
+script: TR_m4_Andas_VaulFire_scp
+mesh: i\BM_KA_bluefire.NIF
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 32
+  color:
+  - 5
+  - 190
+  - 205
+  - 0
+  flags: FLICKER_SLOW

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_crank4_i3-591-imp
+name: Pit Grate Crank
+script: TR_m3-591_pitcrank_script
+mesh: f\Act_m_sewer_crank_01.nif

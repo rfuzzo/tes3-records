@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Imp_Ep_Amulet_Plower
+name: Plower Amulet
+script: ''
+mesh: pc\c\pc_c_epamulet_03.nif
+icon: pc\c\pc_c_epamulet_03.dds
+enchanting: T_Use_Pigstrength
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 55
+  enchantment: 150

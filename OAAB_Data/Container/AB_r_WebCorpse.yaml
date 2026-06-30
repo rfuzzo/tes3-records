@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: AB_r_WebCorpse
+name: Desiccated Corpse
+script: ''
+mesh: OAAB\o\web_dinnerCorpse.nif
+encumbrance: 0.0
+container_flags: ORGANIC | IS_BASE
+inventory:
+- - 1
+  - AB_lvl_BanditGoods
+- - 8
+  - AB_lvl_Gold001

@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: blood despair amulet
+name: Blood Despair Amulet
+script: ''
+mesh: c\Amulet_Expensive_2.NIF
+icon: c\tx_amulet_expens2.tga
+enchanting: crimson despair_en
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 60
+  enchantment: 1200

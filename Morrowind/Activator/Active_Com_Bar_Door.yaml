@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: Active_Com_Bar_Door
+name: Bar Door
+script: BarDoor
+mesh: f\Active_Com_Bar_Door.NIF

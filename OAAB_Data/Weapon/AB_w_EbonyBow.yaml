@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_EbonyBow
+name: Ebony Longbow
+script: ''
+mesh: OAAB\w\w_ebony_longbow.nif
+icon: OAAB\w\tx_w_ebony_longbow.dds
+enchanting: ''
+data:
+  weight: 26.0
+  value: 3000
+  weapon_type: MarksmanBow
+  health: 950
+  speed: 1.0
+  reach: 1.0
+  enchantment: 90
+  chop_min: 1
+  chop_max: 40
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

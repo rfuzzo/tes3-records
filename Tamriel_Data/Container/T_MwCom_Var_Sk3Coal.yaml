@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: T_MwCom_Var_Sk3Coal
+name: Sack
+script: ''
+mesh: o\Contain_Com_Sack_03.NIF
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 4
+  - T_Glb_Random_Coal
+- - 1
+  - T_IngMine_Coal_01

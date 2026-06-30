@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Fx_WaterRect256a
+name: ''
+script: AB_SoundWaterLayer_s
+mesh: OAAB\e\water_rects256_01.nif

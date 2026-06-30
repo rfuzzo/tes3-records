@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: bm_karstaag_barrel
+name: Barrel
+script: ''
+mesh: o\Contain_barrel_01.nif
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - 10
+  - bm_karstaag_barrels

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: AB_IngMine_Diopside_01
+name: Star Diopside
+script: ''
+mesh: OAAB\n\gem_diopside_01.nif
+icon: OAAB\n\gem_diopside.dds
+data:
+  weight: 0.2
+  value: 200
+  effects:
+  - ResistMagicka
+  - DamageAttribute
+  - Burden
+  - Dispel
+  skills:
+  - None
+  - Block
+  - None
+  - None
+  attributes:
+  - None
+  - Luck
+  - None
+  - None

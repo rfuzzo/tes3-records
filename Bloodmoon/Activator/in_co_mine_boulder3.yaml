@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: in_co_mine_boulder3
+name: ''
+script: ColonyMineBoulder1
+mesh: i\in_moldboulder03.nif

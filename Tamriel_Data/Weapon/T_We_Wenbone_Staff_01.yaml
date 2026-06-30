@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_We_Wenbone_Staff_01
+name: Wenbone Staff
+script: ''
+mesh: va\w\va_w_wenbone_staff.nif
+icon: va\w\va_w_wenbone_staff.dds
+enchanting: ''
+data:
+  weight: 12.0
+  value: 80
+  weapon_type: BluntTwoWide
+  health: 460
+  speed: 1.75
+  reach: 1.8
+  enchantment: 90
+  chop_min: 2
+  chop_max: 11
+  slash_min: 2
+  slash_max: 11
+  thrust_min: 1
+  thrust_max: 7
+  flags: ''

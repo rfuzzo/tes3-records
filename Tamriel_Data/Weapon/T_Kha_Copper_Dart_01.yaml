@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Kha_Copper_Dart_01
+name: Copper Dart
+script: ''
+mesh: els\w\els_w_copper_dart.nif
+icon: els\w\els_w_copper_dart.tga
+enchanting: ''
+data:
+  weight: 0.3
+  value: 6
+  weapon_type: MarksmanThrown
+  health: 120
+  speed: 1.0
+  reach: 1.0
+  enchantment: 18
+  chop_min: 2
+  chop_max: 7
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

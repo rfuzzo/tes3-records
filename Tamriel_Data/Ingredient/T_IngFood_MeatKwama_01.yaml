@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_MeatKwama_01
+name: Kwama Meat
+script: ''
+mesh: TR\n\tr_ing_meat_kwama.nif
+icon: TR\n\tr_ing_meat_kwama.dds
+data:
+  weight: 1.5
+  value: 10
+  effects:
+  - RestoreFatigue
+  - FortifyMagicka
+  - None
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

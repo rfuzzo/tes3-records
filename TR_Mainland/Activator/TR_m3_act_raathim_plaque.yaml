@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m3_act_raathim_plaque
+name: Sarcophagus of Katariah Septim
+script: TR_m3-591_katariahtomb_script
+mesh: x\Ex_V_sign_fq_01.NIF

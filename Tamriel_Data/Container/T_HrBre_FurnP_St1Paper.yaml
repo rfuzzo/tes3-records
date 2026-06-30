@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_HrBre_FurnP_St1Paper
+name: Side Table
+script: ''
+mesh: hr\o\hr_furn_bre_p_stbl1.nif
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 3
+  - T_Hr_Random_Desk

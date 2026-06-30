@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Fx_MagicMystCast
+name: ''
+script: AB_MagicFxCast2second_s
+mesh: OAAB\e\magic_cast_myst.nif

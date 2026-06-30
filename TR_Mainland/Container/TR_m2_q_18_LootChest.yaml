@@ -1,0 +1,21 @@
+type: Container
+flags: ''
+id: TR_m2_q_18_LootChest
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - TR_m2_q_18_Pestilence
+- - 5
+  - l_m_potion
+- - 1
+  - sc_manarape
+- - 1
+  - sc_messengerscroll
+- - 1
+  - sc_stormward
+- - 1
+  - sc_windwalker

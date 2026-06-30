@@ -1,0 +1,23 @@
+type: Weapon
+flags: PERSISTENT
+id: TR_m2_q_A8_6_KayeSaber
+name: Adamantium Saber
+script: TR_m2_q_A8_6_SaberScript
+mesh: TR\w\TR_w_adamant_saber.NIF
+icon: TR\w\TR_w_adamant_saber.dds
+enchanting: ''
+data:
+  weight: 25.0
+  value: 3000
+  weapon_type: LongBladeOneHand
+  health: 1850
+  speed: 1.55
+  reach: 1.0
+  enchantment: 90
+  chop_min: 3
+  chop_max: 32
+  slash_min: 3
+  slash_max: 33
+  thrust_min: 1
+  thrust_max: 5
+  flags: ''

@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: AB_o_AlchJarBGSlime
+name: Jar of Bittergreen Slime
+script: ''
+mesh: OAAB\o\alchJarBGSlime.nif
+encumbrance: 0.0
+container_flags: ORGANIC | IS_BASE
+inventory:
+- - 5
+  - AB_lvl_IngBittergreenSlime

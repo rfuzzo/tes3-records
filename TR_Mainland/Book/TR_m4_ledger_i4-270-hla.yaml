@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_ledger_i4-270-hla
+name: Accounts Ledger
+script: ''
+mesh: m\Text_Octavo_07.nif
+icon: m\Tx_book_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[Within this old book, you find a list of taverns and private estates who have purchased from the Savrethi Distillery within the last twelve and a half years. Among the names, you note The Winged Guar in Almalexia, The Flowers of Gold in Vivec, and the Fire and Moth in Necrom.]<BR>"
+data:
+  weight: 3.0
+  value: 10
+  book_type: Book
+  skill: None
+  enchantment: 20

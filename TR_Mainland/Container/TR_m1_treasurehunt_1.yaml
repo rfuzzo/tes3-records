@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: TR_m1_treasurehunt_1
+name: Sturdy Chest
+script: TR_m1_treasurehunt_1_script
+mesh: o\Contain_De_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 5360
+  - Gold_001
+- - 1
+  - TR_m1_sc_ashen fury
+- - 1
+  - TR_m1_w_sashkas reaver
+- - 1
+  - adamantium_mace

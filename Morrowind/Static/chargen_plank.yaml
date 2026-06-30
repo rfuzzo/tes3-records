@@ -1,0 +1,4 @@
+type: Static
+flags: PERSISTENT
+id: chargen_plank
+mesh: x\ex_ship_plank.nif

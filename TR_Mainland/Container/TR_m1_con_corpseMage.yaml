@@ -1,0 +1,29 @@
+type: Container
+flags: ''
+id: TR_m1_con_corpseMage
+name: Corpse
+script: Sound_Flies
+mesh: o\contain_corpse20.NIF
+encumbrance: 120.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Mw_Lvl_WeaponsBluntTwoHandWd
+- - 1
+  - T_Mw_Random_BooksDunmer
+- - 1
+  - T_Mw_Random_BooksScholar
+- - 1
+  - T_Mw_Random_BooksTelvanni
+- - 1
+  - T_Mw_Random_BooksWizard
+- - 1
+  - T_Mw_Random_BooksWizardEvil
+- - 1
+  - T_Mw_Random_ClothingRobesCmDun
+- - 1
+  - l_b_amulets
+- - 2
+  - l_b_rings
+- - 1
+  - l_n_soul gem

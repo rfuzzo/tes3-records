@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m1_q_FG_Nirthflymarker
+name: ''
+script: ''
+mesh: EditorMarker.NIF

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: AB_bk_Journal01
+name: Blank Journal
+script: ''
+mesh: OAAB\m\ab_journal_01.nif
+icon: OAAB\m\ab_journal_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 10

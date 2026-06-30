@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: feather_shield
+name: Feather Shield
+script: ''
+mesh: a\A_Shield_Imperial.nif
+icon: a\Tx_Imperial_shield.tga
+enchanting: feather_en
+biped_objects:
+- biped_object_type: Shield
+  male_bodypart: a_shield_imperial
+  female_bodypart: ''
+data:
+  armor_type: Shield
+  weight: 6.0
+  value: 120
+  health: 240
+  enchantment: 150
+  armor_rating: 12

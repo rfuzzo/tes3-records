@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: Act_BM_pipe_02
+name: Hollow Stalagmite
+script: stal2Script
+mesh: f\Act_BM_pipe_01.NIF

@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: TR_m7_HR_AldIuval_q4_Ch
+name: Chest
+script: TR_m7_HR_AldIuval_q4_Cart_sc
+mesh: o\Contain_De_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 15
+  - T_Cyr_Random_Gem
+- - 3000
+  - random gold

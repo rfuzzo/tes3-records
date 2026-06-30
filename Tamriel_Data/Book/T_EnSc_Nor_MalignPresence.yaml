@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_EnSc_Nor_MalignPresence
+name: Scroll of Malign Presence
+script: ''
+mesh: m\text_scroll_01.nif
+icon: m\tx_scroll_open_01.tga
+enchanting: T_Once_MalingPresence
+text: <DIV ALIGN="center"><IMG SRC="Sky\Sky_Sc_CallUponThe.dds" WIDTH="200" HEIGHT="50"><BR>
+data:
+  weight: 0.2
+  value: 118
+  book_type: Scroll
+  skill: None
+  enchantment: 0

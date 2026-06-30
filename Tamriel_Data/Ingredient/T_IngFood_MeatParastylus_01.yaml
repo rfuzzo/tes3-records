@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_MeatParastylus_01
+name: Parastylus Meat
+script: ''
+mesh: TR\n\TR_Ing_Parastylus_Meat.nif
+icon: TR\n\TR_Ing_Parastylus_Meat.dds
+data:
+  weight: 1.0
+  value: 10
+  effects:
+  - RestoreFatigue
+  - CureParalyzation
+  - DamageAttribute
+  - Paralyze
+  skills:
+  - None
+  - None
+  - Block
+  - None
+  attributes:
+  - None
+  - None
+  - Endurance
+  - None

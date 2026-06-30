@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_FW_College_MusToro
+name: Ynesai Toro
+script: ''
+mesh: m\text_parchment_01.nif
+icon: m\tx_parchment_01.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nYnesai Toro<BR> <BR>\r\n<DIV ALIGN=\"LEFT\">\r\nA well-preserved example of native Ynesai art. Many such monuments dot the isles of Yneslea, though their cultural significance is unclear. Though made of stone, even a close inspection of the Toro will reveal no trace of hammer or chisel -- a testament to the skill of the sculptor.\r\n<BR>\r\nThis item was discovered on an isle near Craesa by Imperial archaeologist Jera Cerunia in 281, and delivered to Thorn aboard the IAS vessel 'Sungazer'. It was transferred to Firewatch in 389, when it became one of the original pieces in the Museum's Invasion of Akavir collection.<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

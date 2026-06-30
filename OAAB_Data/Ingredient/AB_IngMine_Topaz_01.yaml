@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: AB_IngMine_Topaz_01
+name: Topaz
+script: ''
+mesh: OAAB\n\gem_topaz_01.nif
+icon: OAAB\n\gem_topaz.dds
+data:
+  weight: 0.2
+  value: 125
+  effects:
+  - DamageAttribute
+  - DetectEnchantment
+  - WaterWalking
+  - DrainAttribute
+  skills:
+  - Block
+  - None
+  - None
+  - Block
+  attributes:
+  - Strength
+  - None
+  - None
+  - Endurance

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_Indureta_01
+name: Durata
+script: ''
+mesh: pc\n\pc_ing_indureta_01.nif
+icon: pc\n\pc_tx_ingred_induret.dds
+data:
+  weight: 0.3
+  value: 1
+  effects:
+  - RestoreFatigue
+  - None
+  - None
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

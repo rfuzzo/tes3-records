@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2_He_TG1_Report
+name: Report on Recent Thefts
+script: TR_m2_He_TG1_ReportScr
+mesh: pc\m\pc_bk_letter_06.nif
+icon: pc\m\pc_m_letter_06.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>\r\nRecent thefts:<BR>\r\n<BR>\r\nAarlen Lleranoth, Pawnbroker<BR>\r\nAreanne Vara, Mages Guild\r\nCervius Veris, Merchant<BR>\r\nCyertil, Apothecary<BR>\r\nFalura Lleste, Publican<BR>\r\nGelaron, IAS<BR>\r\nHartise, Fighters Guild<BR>\r\nLariast Batalle, Merchant<BR>\r\nMjornir, Publican<BR>\r\nParjho, Smith<BR>\r\n<BR>\r\nOne culprit, or many? Thieves Guild? \r\n<BR>\r\nHow does the Tel Gilan vault job fit?\r\n<BR>\r\n\r\n\r\n"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

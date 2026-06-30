@@ -1,0 +1,23 @@
+type: Container
+flags: ''
+id: de_p_chest_02_Caius
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_02.NIF
+encumbrance: 500.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - imperial shortsword
+- - 2
+  - ingred_moon_sugar_01
+- - 1
+  - p_levitation_s
+- - 1
+  - p_restore_health_s
+- - 100
+  - Gold_001
+- - 1
+  - Misc_SoulGem_Greater
+- - 1
+  - apparatus_a_mortar_01

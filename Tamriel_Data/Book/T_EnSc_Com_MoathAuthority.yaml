@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_EnSc_Com_MoathAuthority
+name: Scroll of Moath's Authority
+script: ''
+mesh: m\text_scroll_01.nif
+icon: m\tx_scroll_open_01.tga
+enchanting: T_Once_MoathAuthority
+text: <DIV ALIGN="center"><FONT COLOR="000000" SIZE="2" FACE="Daedric">THE WORLD SHALL HEAR!</FONT><BR>
+data:
+  weight: 0.2
+  value: 431
+  book_type: Scroll
+  skill: None
+  enchantment: 0

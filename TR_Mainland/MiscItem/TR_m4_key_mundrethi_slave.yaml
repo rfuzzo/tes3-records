@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m4_key_mundrethi_slave
+name: Mundrethi Plantation Slave Key
+script: ''
+mesh: tr\m\tr_key_dd26.nif
+icon: tr\m\tr_key_dd26.dds
+data:
+  weight: 0.0
+  value: 50
+  flags: KEY

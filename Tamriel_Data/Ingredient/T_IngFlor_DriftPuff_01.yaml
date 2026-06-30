@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_DriftPuff_01
+name: Drift Puff Flower
+script: ''
+mesh: pi\n\pi_ing_driftpuff.nif
+icon: pi\n\pi_ing_driftpuff.dds
+data:
+  weight: 0.03
+  value: 5
+  effects:
+  - DrainAttribute
+  - SlowFall
+  - Feather
+  - None
+  skills:
+  - Block
+  - None
+  - None
+  - None
+  attributes:
+  - Strength
+  - None
+  - None
+  - None

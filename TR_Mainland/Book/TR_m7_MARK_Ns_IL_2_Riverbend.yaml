@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_MARK_Ns_IL_2_Riverbend
+name: ''
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: ''
+enchanting: ''
+text: "Where the Riverband gang will go when pos celled\r\nTR_m7_Felos Baradan\r\nTR_m7_Tens Velith\r\nTR_m7_Abael Thelas"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

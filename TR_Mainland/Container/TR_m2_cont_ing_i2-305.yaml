@@ -1,0 +1,51 @@
+type: Container
+flags: ''
+id: TR_m2_cont_ing_i2-305
+name: Wooden Chest
+script: ''
+mesh: o\contain_chest10.nif
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - Ingred_sweetpulp_01
+- - 2
+  - T_IngCrea_Eyestar_01
+- - 5
+  - T_IngCrea_ShellMolecrab_02
+- - 2
+  - T_IngCrea_SkyrenderVenom_01
+- - 2
+  - T_IngFlor_BlackrosePetal_01
+- - 4
+  - T_IngFood_MeatAlit_01
+- - 4
+  - T_IngFood_MeatCliffracer_01
+- - 1
+  - T_IngMine_Jade_01
+- - 2
+  - T_IngMine_Opal_01
+- - 1
+  - T_IngMine_PearlBlack_01
+- - 1
+  - T_IngMine_Sapphire_01
+- - 1
+  - food_kwama_egg_02
+- - 1
+  - ingred_bc_ampoule_pod
+- - 6
+  - ingred_bc_spore_pod
+- - 5
+  - ingred_bittergreen_petals_01
+- - 1
+  - ingred_diamond_01
+- - 4
+  - ingred_fire_petal_01
+- - 3
+  - ingred_hackle-lo_leaf_01
+- - 6
+  - ingred_kagouti_hide_01
+- - 7
+  - ingred_rat_meat_01
+- - 4
+  - ingred_red_lichen_01

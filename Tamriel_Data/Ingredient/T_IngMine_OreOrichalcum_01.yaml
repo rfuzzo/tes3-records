@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngMine_OreOrichalcum_01
+name: Orichalcum Ore
+script: ''
+mesh: sky\n\sky_ingred_orich_01.nif
+icon: sky\n\tx_ingred_orichalc.dds
+data:
+  weight: 2.0
+  value: 200
+  effects:
+  - DamageMagicka
+  - DetectEnchantment
+  - Burden
+  - StuntedMagicka
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

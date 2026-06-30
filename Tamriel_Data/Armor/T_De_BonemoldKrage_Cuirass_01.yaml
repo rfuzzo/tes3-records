@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_De_BonemoldKrage_Cuirass_01
+name: Morath-An Bonemold Cuirass
+script: ''
+mesh: tr\a\tr_a_kragen_cuir_01_gn.nif
+icon: tr\a\tr_a_kragen_cuir.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_A_DeBonemoldKragenCuirass01
+  female_bodypart: ''
+data:
+  armor_type: Cuirass
+  weight: 24.0
+  value: 350
+  health: 480
+  enchantment: 160
+  armor_rating: 16

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Imp_Vampyrum_Longsword_01
+name: Vampyrum Order Longsword
+script: ''
+mesh: pc\w\pc_w_vampyr_lsword_01.nif
+icon: pc\w\pc_w_vampyr_lsword_01.dds
+enchanting: ''
+data:
+  weight: 15.0
+  value: 13000
+  weapon_type: LongBladeOneHand
+  health: 1600
+  speed: 1.35
+  reach: 1.0
+  enchantment: 60
+  chop_min: 2
+  chop_max: 21
+  slash_min: 1
+  slash_max: 29
+  thrust_min: 4
+  thrust_max: 27
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

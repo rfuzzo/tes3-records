@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_horker_tusk_01
+name: Horker Tusk
+script: ''
+mesh: m\HorkerTusk.NIF
+icon: m\Tx_HorkerTusk.dds
+data:
+  weight: 0.1
+  value: 5
+  effects:
+  - DrainSkill
+  - FortifyAttribute
+  - FortifyMagickaMultiplier
+  - DetectAnimal
+  skills:
+  - Alteration
+  - Block
+  - None
+  - None
+  attributes:
+  - Strength
+  - Intelligence
+  - None
+  - None

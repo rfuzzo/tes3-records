@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_OE_DukePermission
+name: Permission to Enter
+script: ''
+mesh: m\Text_Parchment_01.NIF
+icon: m\Tx_parchment_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nI hereby grant %PCName the %PCRace permission to visit the prisoner Beru Vesuri in the Imperial Legion Dungeons of Ebon Tower.\r\n<BR>\r\nSigned,<BR>\r\n<BR>\r\nHis grace Phyrios Mattimus, Duke of Deshaan<BR>\r\n"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

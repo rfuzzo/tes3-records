@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_Sadrathim_Temple_Altar1
+name: Altar of Stendarr
+script: T_ScObj_ShrineHlaaluStendarr
+mesh: tr\f\tr_furn_hla_altar_ste.nif

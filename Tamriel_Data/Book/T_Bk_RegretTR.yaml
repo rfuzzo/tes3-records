@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_RegretTR
+name: Regret
+script: ''
+mesh: TR\m\TR_book_closed_i08_AY.nif
+icon: TR\m\TR_book_closed_i08_AY.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nRegret <BR> \r\nby Bradas Serayn <BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\nI have stood before the braying minions of Sheogorath and the blood-stained altars of Molag Bal. I have faced horrors that would make the souls of men scream. <BR>\r\n<BR>\r\nI have cracked the bones of heretics and withstood their assault on my purity and on my mortal flesh. I feel the scars on my body and spirit. <BR>\r\n<BR>\r\nI have burned the unholy in the cleansing fire of the Tribunal. Their tormented screams almost drowned out the song of Vivec in my heart. <BR>\r\n<BR>\r\nI have held the broken bodies of my comrades. Each drop of blood from their wounds were molten rocks on my soul; first searing and then hardening, until naught but stone remains. <BR>\r\n<BR>\r\nI feel the loss of my crippled arm in the same way as I feel the gaping maw in my soul. My body yearns to be whole once more. My soul longs for the return of its youth, the time when I still possessed compassion and kindness. <BR>\r\n<BR>\r\nBut, I regret nothing. <BR>\r\n<BR>\r\nTo face terror and not lose belief is a test of faith.<BR> \r\n<BR>\r\nTo triumph over evil brings honor to the Order.<BR> \r\n<BR>\r\nTo overcome weakness in the self gives strength to the soul.<BR>\r\n<BR>\r\nTo feel loss and to persevere is to move closer to transcendence.<BR>\r\n<BR>\r\nTo give of body and of soul for the glory of the Tribunal is the greatest honor of all. \r\n<BR>\r\nAll I regret is having but one life to give for ALMSIVI.<BR>"
+data:
+  weight: 1.0
+  value: 20
+  book_type: Book
+  skill: None
+  enchantment: 100

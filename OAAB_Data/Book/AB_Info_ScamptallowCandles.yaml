@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: AB_Info_ScamptallowCandles
+name: InfoBox - Scamptallow Candles
+script: ''
+mesh: OAAB\h\marker_info.nif
+icon: OAAB\h\marker_info.tga
+enchanting: ''
+text: Scamptallow Candles give a boost to enchantment to players using enchanting tables nearby. If you place them around an OAAB enchanting table, players will automaticlly get a slight boost to their enchant skill while using the table.
+data:
+  weight: 0.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 100

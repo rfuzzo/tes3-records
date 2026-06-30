@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Ned_Mw_Fig_02
+name: Nedic Figure
+script: ''
+mesh: tr\m\tr_nedic_fig_02.nif
+icon: tr\m\tr_nedic_fig_02.dds
+data:
+  weight: 1.0
+  value: 350
+  flags: ''

@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: TR_VG_RichChestLarge
+name: Large Chest
+script: ''
+mesh: o\Contain_chest_large_01.NIF
+encumbrance: 0.0
+container_flags: IS_BASE
+inventory:
+- - 3
+  - Potion_Cyro_Whiskey_01
+- - 3
+  - p_cure_common_s
+- - 2
+  - p_detect_creatures_s
+- - 1
+  - potion_comberry_brandy_01
+- - 2
+  - potion_cyro_brandy_01

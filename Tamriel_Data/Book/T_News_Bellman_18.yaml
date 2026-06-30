@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Bellman_18
+name: STENDARR'S TOWER GHOST NO MORE
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_note_oe_news.nif
+icon: tr\m\tr_note_oe_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\TR_bellman_512_256.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nSTENDARR'S TOWER GHOST NO MORE<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nAfter centuries of ghostly activity, Stendarr's Tower is no longer haunted. According to Votus Titonian, a Legion soldier, the vengeful spirit was successfully banished by a travelling exorcist. \"I wasn't holding my breath, to be honest\", Titonian told the Bellman, \"But that %PCRace did a damn good job. The Fiery Horror is gone!\" The Legion is expected to regarrison the now ghost-free barracks after the extensive fire damage caused by the spirit has been properly inspected and repaired.<br><br>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nPUBLIC NOTICE:<BR>ON THE ILLEGALITY OF MOON SUGAR<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nThe provincial government would like to remind all citizens that selling, buying, smuggling, eating, refining, cultivating, possessing, storing and a great many other activities involving the substance known as \"Moon Sugar\" remain, as ever, highly illegal. We urge the citizens to join the struggle to keep the streets of Old Ebonheart clean.<br><br>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

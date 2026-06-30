@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_bk_IkinammassuF1
+name: Fragment AA-IK-0-4
+script: ''
+mesh: pc\m\pc_bk_letter_05.nif
+icon: pc\m\pc_m_letter_05.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nFragment AA-IK-0-4<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nOriginal Location: Section 0, ground level<BR>\r\n<BR>\r\nDescription: Shaped like a pincer, with two claws linked to a spherical base. It may have sat on top of a wall or a pillar in the past. Carvings are arranged in a thin strip along the top of the claws. These carvings have been badly eroded by weather.<BR>\r\n<BR>\r\nAnalysis : This piece doesn't have any power by itself, but resonates when brought near other fragments of the site, particularly Fragment AA-IK-1-6.<BR>\r\n<BR>\r\n<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

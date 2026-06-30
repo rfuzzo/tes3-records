@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_sc_MolagBal_Gear
+name: Scroll of Bal's Scales
+script: ''
+mesh: m\text_scroll_01.nif
+icon: m\tx_scroll_open_01.tga
+enchanting: TR_m1_sc_MB_Gear
+text: <DIV ALIGN="center"><FONT COLOR="000000" SIZE="2" FACE="Daedric">FACE MY WRATH</FONT><BR>
+data:
+  weight: 0.2
+  value: 500
+  book_type: Scroll
+  skill: None
+  enchantment: 100

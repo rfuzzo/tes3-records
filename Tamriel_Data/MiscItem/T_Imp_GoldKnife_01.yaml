@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_GoldKnife_01
+name: Gold Knife
+script: ''
+mesh: pc\m\pc_misc_gold_knife.nif
+icon: pc\m\pc_misc_gold_knife01.dds
+data:
+  weight: 1.0
+  value: 40
+  flags: ''

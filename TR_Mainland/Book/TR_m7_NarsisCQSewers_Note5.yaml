@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_NarsisCQSewers_Note5
+name: Note to Bolyn
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nI don't care what you do down here, but if you ever wear that stupid helmet up on the streets again, I will send it back to the guard you pinched it from.<BR>\r\n<BR>\r\nWith your head still in it.<BR>\r\n<BR>\r\nTaluri<BR>\r\n"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 100

@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: T_CyrImp_FurnM_Dw2PosGC
+name: Drawers
+script: ''
+mesh: tr\o\tr_furn_com_drawers_02.nif
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Cyr_Random_Cloths
+- - 2
+  - T_Cyr_Random_PosGC
+- - 15
+  - random gold

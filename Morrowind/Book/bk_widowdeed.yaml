@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: bk_widowdeed
+name: Widow Vabdas' Land Deed
+script: ''
+mesh: m\Text_Parchment_02.nif
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nBy the Grace of ALMSIVI, Lords and Rulers of All<BR>\r\n<BR>\r\nBy the Grace of Hlaren Ramoran, Councilor of House Redoran, Lord of Gnisis<BR>\r\n<BR>\r\nAttested by his trusted servant, Hetman Abelmawia Eribael<BR>\r\n<BR>\r\nThis document grants all rights of tenancy, residence, bounty, and vocation in the lands adjoining the Vabdas Clan Hearth, including the lands along the river bluff for 80 paces east and west of the hearth and the lands for 80 paces north of the hearth and the lands south of the heart as far as the river bluff, to the Miner Mansilamat Vabdas and his Goodwife Pulaya Vabdas.<BR>\r\n<BR>\r\nSeal of Hetman Abelmawia<BR>\r\n"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

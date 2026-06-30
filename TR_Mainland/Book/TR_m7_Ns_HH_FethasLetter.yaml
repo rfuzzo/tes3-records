@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_Ns_HH_FethasLetter
+name: Letter to Saritha Hlaalu
+script: ''
+mesh: m\Text_paper_roll_01.nif
+icon: m\Tx_paper_roll_01.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nTo Saritha Hlaalu, daughter of the Grand Hlaalu<BR><BR>\r\nI received your letter in good health. I am glad to have this opportunity to dialogue with you. I apologize if my sincere attempt at bolstering the operations in the Charter seemed like insubordination. The order to cease operations has already been given. I assure you that I respect the authority of the Council. I only did this because it seemed like a rare opportunity to affect my influence, since my appointment took any official influence in foreign affairs away from me. Once again, I humbly beg you to allow me to meet with your father so this whole business can be sorted, and my seat in the council returned.<BR><BR>\r\nThe Duke of Narsis, Fethas Hlaalu<BR>"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

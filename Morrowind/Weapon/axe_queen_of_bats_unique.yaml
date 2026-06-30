@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: axe_queen_of_bats_unique
+name: Wings of the Queen of Bats
+script: ''
+mesh: w\W_Art_QueenofBats.NIF
+icon: w\tx_Art_QueenofBats.tga
+enchanting: wound_en
+data:
+  weight: 30.0
+  value: 12000
+  weapon_type: AxeTwoHand
+  health: 3000
+  speed: 1.25
+  reach: 1.0
+  enchantment: 55
+  chop_min: 1
+  chop_max: 44
+  slash_min: 1
+  slash_max: 33
+  thrust_min: 1
+  thrust_max: 4
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

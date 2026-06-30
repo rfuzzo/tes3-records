@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Echo_18
+name: TSAESCI TACKLED AT CASIMOR
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_text_note_nar_news.nif
+icon: tr\m\tr_text_note_nar_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\tr_echo_512_256.dds\" WIDTH=\"348\" HEIGHT=\"168\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nTSAESCI TACKLED AT CASIMOR<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nSurprising scholars and historians, a living Tsaesci has been found and killed within the long abandoned Second Empire stronghold of Casimor, nestled in the canyons of West Shipal-Shin. According to Master Micarya of the Fighters Guild, the Tsaesci \"Qorinue-Najan\" had been living in the ruin with its undead legion for thousands of years, and still believed the Four-Score War of the late First Era to be ongoing.<BR><BR>\r\nWhile remnants of the Akaviri invaders are not unheard of across Tamriel, the supposedly immortal Tsaesci are rarely encountered in the Third Era. Those which have been discovered were reportedly extremely dangerous. The Fighters Guild is to be commended for this feat of martial prowess, and its investors in Narsis will be pleased to see its reputation grow.<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

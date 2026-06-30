@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m7_hlan_trade_vault_key
+name: Company Vault Key
+script: ''
+mesh: TR\m\TR_Key_DD13.NIF
+icon: TR\m\TR_Key_DD13.dds
+data:
+  weight: 0.0
+  value: 0
+  flags: KEY

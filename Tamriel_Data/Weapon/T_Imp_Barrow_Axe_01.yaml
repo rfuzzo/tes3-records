@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Imp_Barrow_Axe_01
+name: Ancient Nedic Axe
+script: ''
+mesh: pc\w\pc_w_col_barr_axe_01.nif
+icon: pc\w\pc_w_col_barr_axe_01i.dds
+enchanting: ''
+data:
+  weight: 24.0
+  value: 300
+  weapon_type: AxeOneHand
+  health: 1000
+  speed: 1.25
+  reach: 1.0
+  enchantment: 150
+  chop_min: 1
+  chop_max: 17
+  slash_min: 1
+  slash_max: 9
+  thrust_min: 1
+  thrust_max: 2
+  flags: ''

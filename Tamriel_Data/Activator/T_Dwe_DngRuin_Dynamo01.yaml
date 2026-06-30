@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: T_Dwe_DngRuin_Dynamo01
+name: Strange Mechanical Device
+script: T_ScObj_DwrvMachToggl
+mesh: tr\f\tr_furn_dwrv_dynamo01.nif

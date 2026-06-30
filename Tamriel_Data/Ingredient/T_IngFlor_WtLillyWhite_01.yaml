@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_WtLillyWhite_01
+name: Water Lilly
+script: ''
+mesh: tr\n\tr_ing_lily_white.nif
+icon: tr\n\tr_ing_lily_white.dds
+data:
+  weight: 0.2
+  value: 5
+  effects:
+  - WaterWalking
+  - DrainAttribute
+  - Dispel
+  - Levitate
+  skills:
+  - None
+  - Block
+  - None
+  - None
+  attributes:
+  - None
+  - Willpower
+  - None
+  - None

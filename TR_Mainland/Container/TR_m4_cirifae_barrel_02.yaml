@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: TR_m4_cirifae_barrel_02
+name: Wooden Barrel
+script: ''
+mesh: o\Contain_barrel_01.NIF
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - -1
+  - T_EnSc_Com_ScorchingHand
+- - -2
+  - sc_divineintervention
+- - -1
+  - sc_ondusisunhinging
+- - -1
+  - sc_salensvivication

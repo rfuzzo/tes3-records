@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m3_q_TheRiftFog
+name: ''
+script: TR_m3_q_TheRiftCage
+mesh: tr\f\tr_act_steam_lavariver.nif

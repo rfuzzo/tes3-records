@@ -1,0 +1,31 @@
+type: Armor
+flags: ''
+id: T_Nor_Steel_Greaves_01
+name: Nord Steel Greaves
+script: ''
+mesh: Sky\a\Sky_A_Nord_Steel_GR_G.nif
+icon: Sky\a\Tx_Nord_STL_Greaves.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Groin
+  male_bodypart: T_A_NorSteelGreaves01_G
+  female_bodypart: ''
+- biped_object_type: LeftUpperLeg
+  male_bodypart: T_A_NorSteelGreaves01_UL
+  female_bodypart: ''
+- biped_object_type: RightUpperLeg
+  male_bodypart: T_A_NorSteelGreaves01_UL
+  female_bodypart: ''
+- biped_object_type: LeftKnee
+  male_bodypart: T_A_NorSteelGreaves01_K
+  female_bodypart: ''
+- biped_object_type: RightKnee
+  male_bodypart: T_A_NorSteelGreaves01_K
+  female_bodypart: ''
+data:
+  armor_type: Greaves
+  weight: 18.0
+  value: 160
+  health: 150
+  enchantment: 30
+  armor_rating: 20

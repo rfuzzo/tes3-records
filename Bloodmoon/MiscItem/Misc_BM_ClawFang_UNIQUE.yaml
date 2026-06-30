@@ -1,0 +1,11 @@
+type: MiscItem
+flags: PERSISTENT
+id: Misc_BM_ClawFang_UNIQUE
+name: Totem of Claw and Fang
+script: totemScript
+mesh: m\BM_Ceremony.nif
+icon: m\Tx_ClawFang.dds
+data:
+  weight: 1.0
+  value: 1
+  flags: ''

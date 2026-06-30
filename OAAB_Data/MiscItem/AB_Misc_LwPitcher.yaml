@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_LwPitcher
+name: Limeware Pitcher
+script: ''
+mesh: OAAB\m\lw_pitcher.nif
+icon: OAAB\m\tx_limeware_pitcher.dds
+data:
+  weight: 3.0
+  value: 550
+  flags: ''

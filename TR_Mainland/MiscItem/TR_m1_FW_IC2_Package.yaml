@@ -1,0 +1,11 @@
+type: MiscItem
+flags: PERSISTENT
+id: TR_m1_FW_IC2_Package
+name: Package for Anice Derielle
+script: ''
+mesh: m\dwemer_satchel00.NIF
+icon: m\misc_dwe_satchel00.dds
+data:
+  weight: 2.0
+  value: 50
+  flags: ''

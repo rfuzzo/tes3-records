@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: sparkbolt ring
+name: Sparkbolt Ring
+script: ''
+mesh: c\C_Ring_common04.NIF
+icon: c\tx_ring_common04.tga
+enchanting: sparkbolt_en
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 6
+  enchantment: 10

@@ -1,0 +1,28 @@
+type: Alchemy
+flags: ''
+id: TR_m2_q_4_AnnavenePoison
+name: Annavene Selas' Poison
+script: ''
+mesh: m\Misc_Potion_Quality_01.nif
+icon: m\Tx_potion_quality_01.tga
+effects:
+- magic_effect: DrainHealth
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 10
+  min_magnitude: 15
+  max_magnitude: 15
+- magic_effect: DamageFatigue
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 10
+  min_magnitude: 20
+  max_magnitude: 20
+data:
+  weight: 0.75
+  value: 281
+  flags: AUTO_CALCULATE

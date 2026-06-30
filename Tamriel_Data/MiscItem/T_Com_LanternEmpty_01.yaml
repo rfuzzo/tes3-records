@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_LanternEmpty_01
+name: Travel Lantern
+script: ''
+mesh: pc\m\PC_Misc_Lantern_01.nif
+icon: pc\m\pc_misc_lantern_01.dds
+data:
+  weight: 1.0
+  value: 1
+  flags: ''

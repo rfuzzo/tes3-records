@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_LesserCatechismJulPC
+name: Lesser Catechism of Julianos
+script: ''
+mesh: pc\m\pc_bk_book_36.nif
+icon: pc\m\pc_bk_book_36.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>The Lesser Catechism of Julianos\r\n<BR>\r\n<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nQ: What is the domain of Julianos?<BR>\r\n<BR>\r\nA: His domain is Wisdom and Logic.<BR>\r\n<BR>\r\nQ: What is Wisdom?<BR>\r\n<BR>\r\nA: Wisdom is seeing beyond the veil and discovering the true Nature of things.<BR>\r\n<BR>\r\nQ: What is Logic?<BR>\r\n<BR>\r\nA: Logic is the paved road whereupon the mortal may journey from Ignorance to Knowledge.<BR>\r\n<BR>\r\nQ: How does the mortal use Wisdom and Logic?<BR>\r\n<BR>\r\nA: The mortal uses Wisdom and Logic to establish and maintain Law.<BR>\r\n<BR>\r\nQ: What is Law?<BR>\r\n<BR>\r\nA: Law is how the World functions.<BR>\r\n<BR>\r\nQ: Where is Law found?<BR>\r\n<BR>\r\nA: Law is found in all things. Law commands Magnus to rise in the east and set in the west. Law commands a tiny seed to grow into a mighty tree. Law commands the ruler to punish the Law-breaker.<BR>\r\n<BR>\r\nQ: How can Law be determined?<BR>\r\n<BR>\r\nA: Law can be determined through observation and through the declarations of rulers.<BR>\r\n<BR>"
+data:
+  weight: 1.5
+  value: 60
+  book_type: Book
+  skill: None
+  enchantment: 0

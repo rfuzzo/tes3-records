@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_De_Set_BannerPotters01
+name: Potters and Glassblowers Hall
+script: OutsideBanner
+mesh: tr\f\tr_act_banner_pott_01.nif

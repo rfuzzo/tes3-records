@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_w_m3-153_staff
+name: Adamantium Staff Of Fire
+script: ''
+mesh: TR\w\TR_w_adamant_staff.NIF
+icon: TR\w\TR_w_adamant_staff.dds
+enchanting: TR_w_m3-153_staff_en
+data:
+  weight: 12.0
+  value: 12800
+  weapon_type: BluntTwoWide
+  health: 700
+  speed: 1.75
+  reach: 1.5
+  enchantment: 500
+  chop_min: 2
+  chop_max: 14
+  slash_min: 3
+  slash_max: 14
+  thrust_min: 1
+  thrust_max: 10
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

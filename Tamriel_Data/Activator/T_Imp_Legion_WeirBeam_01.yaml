@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_Legion_WeirBeam_01
+name: ''
+script: T_ScSound_WeirGate
+mesh: TR\i\tr_in_imp_weirbeam_01.nif

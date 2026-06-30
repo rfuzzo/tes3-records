@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: TR_m4-491_crate_wine
+name: Crate
+script: ''
+mesh: o\Contain_crate_02.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Imp_Drink_WineFreeEstat_01
+- - 2
+  - T_Imp_Drink_WinePlalloVin_01
+- - 1
+  - T_Imp_Drink_WineSurilieBr_01

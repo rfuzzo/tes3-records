@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_De_Necrom_Cuirass_01
+name: Necrom Indoril Cuirass
+script: OrdinatorUniform
+mesh: tr\a\tr_a_nec_cuirass_01_g.nif
+icon: tr\a\tr_a_necrom_cuirass_01.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_A_DeNecromCuirass01_C
+  female_bodypart: ''
+data:
+  armor_type: Cuirass
+  weight: 27.0
+  value: 10000
+  health: 1650
+  enchantment: 220
+  armor_rating: 50

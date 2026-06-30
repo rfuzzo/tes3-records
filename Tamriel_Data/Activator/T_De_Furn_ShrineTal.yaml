@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_De_Furn_ShrineTal
+name: Shrine of Talos
+script: T_ScObj_ShrineHlaaluTalos
+mesh: tr\f\tr_furn_de_altar_tal.nif

@@ -1,0 +1,25 @@
+type: Armor
+flags: ''
+id: T_De_Bonemold_Chuzei_PauldR_E
+name: Engraved Chuzei R Pauldron
+script: ''
+mesh: tr\a\tr_a_bone_ch_pldr_02gd.nif
+icon: tr\a\tr_a_bone_ch_pauld_02.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: RightPauldron
+  male_bodypart: T_A_DeBonemoldChuzeiPauld_Cl_E
+  female_bodypart: ''
+- biped_object_type: RightUpperArm
+  male_bodypart: T_A_DeBonemoldChuzeiPauld_UA
+  female_bodypart: ''
+- biped_object_type: RightForearm
+  male_bodypart: T_A_DeBonemoldChuzeiPauld_FA
+  female_bodypart: ''
+data:
+  armor_type: RightPauldron
+  weight: 8.0
+  value: 240
+  health: 150
+  enchantment: 16
+  armor_rating: 15

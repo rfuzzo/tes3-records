@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m3_w_letteropener_uni
+name: Artful Letter-Opener
+script: ''
+mesh: TR\w\TR_w_imp_dagger.nif
+icon: TR\w\TR_w_imp_dagger.dds
+enchanting: TR_m3_en_artful-letteropener
+data:
+  weight: 4.0
+  value: 100
+  weapon_type: ShortBladeOneHand
+  health: 500
+  speed: 2.6
+  reach: 1.0
+  enchantment: 25
+  chop_min: 4
+  chop_max: 8
+  slash_min: 4
+  slash_max: 8
+  thrust_min: 6
+  thrust_max: 9
+  flags: ''

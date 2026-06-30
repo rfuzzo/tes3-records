@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_HoneyLily_02
+name: Honey Lily Leaf
+script: ''
+mesh: Sky\n\Sky_Ingred_LY_H_02.nif
+icon: Sky\n\Tx_Ingred_LY_H_02.dds
+data:
+  weight: 0.1
+  value: 1
+  effects:
+  - CurePoison
+  - Paralyze
+  - SlowFall
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

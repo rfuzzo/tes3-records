@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Com_SetCastAway_F_Bed_01
+name: Bed
+script: Bed_Standard
+mesh: pi\f\pi_furn_ca_bed_01.nif

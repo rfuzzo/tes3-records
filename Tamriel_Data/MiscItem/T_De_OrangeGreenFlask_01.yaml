@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_OrangeGreenFlask_01
+name: Ceramic Flask
+script: ''
+mesh: tr\m\tr_misc_ceramic_flsk01.nif
+icon: tr\m\tr_misc_ceramic_flsk01.dds
+data:
+  weight: 2.0
+  value: 2
+  flags: ''

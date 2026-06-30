@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_AndasVault_WallMover
+name: ''
+script: TR_m4_Andas_VaulWall_scp
+mesh: EditorMarker.NIF

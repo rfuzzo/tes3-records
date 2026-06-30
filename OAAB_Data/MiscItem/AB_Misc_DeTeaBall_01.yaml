@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_DeTeaBall_01
+name: Tea Infuser
+script: ''
+mesh: OAAB\m\misc_teaball.nif
+icon: OAAB\m\misc_teaball.dds
+data:
+  weight: 0.5
+  value: 8
+  flags: ''

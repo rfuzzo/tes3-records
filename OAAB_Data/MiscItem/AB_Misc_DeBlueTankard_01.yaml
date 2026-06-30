@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_DeBlueTankard_01
+name: Tankard
+script: ''
+mesh: OAAB\m\misc_blue_tankard.nif
+icon: OAAB\m\misc_blue_tankard.dds
+data:
+  weight: 2.0
+  value: 8
+  flags: ''

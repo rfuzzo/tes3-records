@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: T_MwCom_Var_Sk1Bloatr07
+name: Sack
+script: ''
+mesh: o\Contain_Com_Sack_01.NIF
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - T_IngFlor_Bloatroot
+- - 5
+  - T_Mw_Random_FlorBloatroot

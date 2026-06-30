@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_Painting_UNI_Dren
+name: Duke Vedam Dren
+script: ''
+mesh: tr\m\TR_M_Painting_Dren.nif
+icon: tr\m\TR_M_Painting_Dren.dds
+data:
+  weight: 14.0
+  value: 1700
+  flags: ''

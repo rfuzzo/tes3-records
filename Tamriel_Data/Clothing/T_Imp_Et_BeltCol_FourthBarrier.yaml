@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Imp_Et_BeltCol_FourthBarrier
+name: Fourth Barrier Belt
+script: ''
+mesh: pc\c\PC_Col_U_Belt_01.nif
+icon: pc\c\PC_Col_U_Belt_01I.dds
+enchanting: fourth barrier_en
+biped_objects: []
+data:
+  clothing_type: Belt
+  weight: 1.0
+  value: 110
+  enchantment: 200

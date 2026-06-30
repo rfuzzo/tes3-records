@@ -1,0 +1,35 @@
+type: Clothing
+flags: ''
+id: extravagant_pants_02
+name: Extravagant Pants
+script: ''
+mesh: c\C_M_Pants_Extrav_2_GND.NIF
+icon: c\tx_pants_extrav_2.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: Groin
+  male_bodypart: c_m_pants_extrav_2_g
+  female_bodypart: ''
+- biped_object_type: RightAnkle
+  male_bodypart: c_m_pants_extrav_2_a
+  female_bodypart: ''
+- biped_object_type: LeftUpperLeg
+  male_bodypart: c_m_pants_extrav_2_ul
+  female_bodypart: ''
+- biped_object_type: RightUpperLeg
+  male_bodypart: c_m_pants_extrav_2_ul
+  female_bodypart: ''
+- biped_object_type: LeftKnee
+  male_bodypart: c_m_pants_extrav_2_k
+  female_bodypart: ''
+- biped_object_type: RightKnee
+  male_bodypart: c_m_pants_extrav_2_k
+  female_bodypart: ''
+- biped_object_type: LeftAnkle
+  male_bodypart: c_m_pants_extrav_2_a
+  female_bodypart: ''
+data:
+  clothing_type: Pants
+  weight: 2.0
+  value: 60
+  enchantment: 300

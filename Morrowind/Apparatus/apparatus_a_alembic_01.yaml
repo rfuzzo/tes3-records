@@ -1,0 +1,12 @@
+type: Apparatus
+flags: ''
+id: apparatus_a_alembic_01
+name: Apprentice's Alembic
+script: ''
+mesh: m\Apparatus_A_Alembic_01.NIF
+icon: m\Tx_alembic_01.tga
+data:
+  apparatus_type: Alembic
+  quality: 0.5
+  weight: 10.0
+  value: 50

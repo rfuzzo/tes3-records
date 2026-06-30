@@ -1,0 +1,28 @@
+type: Alchemy
+flags: ''
+id: potion_ancient_brandy
+name: Ancient Dagoth Brandy
+script: ''
+mesh: n\Potion_Cyro_whiskey_01.NIF
+icon: n\Tx_cyro_whiskey_01.tga
+effects:
+- magic_effect: DamageAttribute
+  skill: None
+  attribute: Intelligence
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 20
+  max_magnitude: 20
+- magic_effect: DamageAttribute
+  skill: None
+  attribute: Willpower
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 20
+  max_magnitude: 20
+data:
+  weight: 0.5
+  value: 1500
+  flags: ''

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: Furn_shrine_Rilm_cure_01
+name: Shrine of St. Rilm
+script: shrineRilm
+mesh: f\Furn_shrine_rilms_01.NIF

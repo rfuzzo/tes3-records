@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_AshlStaffMephala
+name: Staff of Secrets
+script: ''
+mesh: OAAB\w\ashstaffchitin01.nif
+icon: OAAB\w\ashstaffchitin01.dds
+enchanting: AB_w_AshlStaffMephala_en
+data:
+  weight: 5.0
+  value: 850
+  weapon_type: BluntTwoWide
+  health: 150
+  speed: 1.75
+  reach: 1.8
+  enchantment: 100
+  chop_min: 2
+  chop_max: 8
+  slash_min: 2
+  slash_max: 8
+  thrust_min: 2
+  thrust_max: 5
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

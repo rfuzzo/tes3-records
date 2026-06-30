@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_CandleGreen_01
+name: Green Candle
+script: ''
+mesh: m\misc_candle_green_01.nif
+icon: tr\m\tr_candle_green_01.dds
+data:
+  weight: 1.0
+  value: 15
+  flags: ''

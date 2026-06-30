@@ -1,0 +1,13 @@
+type: Container
+flags: PERSISTENT
+id: TR_m7_ShiSha_HH_Q4Crate
+name: Crate
+script: ''
+mesh: o\Contain_crate_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - random_common_de_mclothes_01
+- - 1
+  - random_expensive_de_mclothes_02

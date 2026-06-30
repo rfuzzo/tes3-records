@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Dwe_UNI_NeldracsReach
+name: Neldrac's Reach
+script: ''
+mesh: tr\w\tr_w_dwe_longbow.nif
+icon: tr\w\tr_w_dwemer_lbow.dds
+enchanting: T_Const_NeldracsReach
+data:
+  weight: 12.0
+  value: 8000
+  weapon_type: MarksmanBow
+  health: 900
+  speed: 1.0
+  reach: 1.0
+  enchantment: 0
+  chop_min: 1
+  chop_max: 35
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

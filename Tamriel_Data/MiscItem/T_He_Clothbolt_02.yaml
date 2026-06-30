@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_He_Clothbolt_02
+name: Bolt of Cloth
+script: ''
+mesh: sum\m\sum_misc_clothbolt_02.nif
+icon: sum\m\sum_misc_clothbolt_02.dds
+data:
+  weight: 25.0
+  value: 50
+  flags: ''

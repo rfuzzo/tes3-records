@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: TR_m3_vows_i3-545-ind
+name: Moldy Note
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nMy dearest Elysera<BR>\r\n<BR>\r\nI can no longer wait for your father's approval.  I've come to understand that he will never give away your hand in marriage, especially to a simple farmer.  If Ayem willed it, I would give you all of Morrowind in a silver box, inscribed with the words, \"My Eternal Love.\"  I have found a priest that will marry us at the Shrine of Aymasindo.  Meet me there tonight.  I'm sure your father, Lord Salas Indoril will not deny us our love once we are wed.  Though I cannot give you the luxuries of your manor, my beloved, I will give you all that is in me to give.  Your home in Almalexia may be rich in fineries, but my small farmhouse is rich in love.  I will be waiting for you at Aymasindo.  Before the shrine of Ayem we will start our life together.<BR>\r\n<BR>\r\nEternally Yours,<BR>\r\n<BR>\r\nKena Sadura<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

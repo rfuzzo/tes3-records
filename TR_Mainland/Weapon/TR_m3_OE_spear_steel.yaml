@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m3_OE_spear_steel
+name: Honed Steel Spear
+script: TR_m3_OE_HauntPatrol
+mesh: w\W_spear.nif
+icon: w\Tx_Spear01.tga
+enchanting: ''
+data:
+  weight: 14.0
+  value: 45
+  weapon_type: SpearTwoWide
+  health: 900
+  speed: 1.0
+  reach: 1.8
+  enchantment: 50
+  chop_min: 4
+  chop_max: 5
+  slash_min: 4
+  slash_max: 5
+  thrust_min: 8
+  thrust_max: 17
+  flags: ''

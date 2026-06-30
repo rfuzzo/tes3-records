@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Nor_Orn_BattleAxe_Frostbitt
+name: Frostbitten Axe
+script: ''
+mesh: w\W_Nordic_BattleAxe.nif
+icon: w\Tx_WarAxe_Nordic.tga
+enchanting: T_Strike_Frostbitten
+data:
+  weight: 30.0
+  value: 100
+  weapon_type: AxeTwoHand
+  health: 1200
+  speed: 1.0
+  reach: 1.0
+  enchantment: 55
+  chop_min: 1
+  chop_max: 30
+  slash_min: 1
+  slash_max: 30
+  thrust_min: 1
+  thrust_max: 4
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

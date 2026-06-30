@@ -1,0 +1,25 @@
+type: Container
+flags: ''
+id: TR_m2_cont_chest_sniper
+name: Rusted Chest
+script: ''
+mesh: o\contain_chest10.nif
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - 43
+  - Gold_001
+- - 1
+  - amulet of light
+- - 1
+  - amulet of stamina
+- - 17
+  - dire flamearrow
+- - 4
+  - food_kwama_egg_01
+- - 1
+  - food_kwama_egg_02
+- - 2
+  - p_night-eye_s
+- - 26
+  - random gold

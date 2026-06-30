@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_andoth_banner_cloth01
+name: 'Barthel Moret: Clothier'
+script: OutsideBanner
+mesh: f\Furn_bannerD_clothing_01.NIF

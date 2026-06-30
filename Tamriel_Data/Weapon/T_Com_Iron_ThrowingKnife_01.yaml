@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Com_Iron_ThrowingKnife_01
+name: Iron Throwing Knife
+script: ''
+mesh: w\w_knife_iron.nif
+icon: w\tx_knife_iron.dds
+enchanting: ''
+data:
+  weight: 0.3
+  value: 3
+  weapon_type: MarksmanThrown
+  health: 100
+  speed: 1.0
+  reach: 1.0
+  enchantment: 15
+  chop_min: 1
+  chop_max: 3
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 1
+  thrust_max: 1
+  flags: ''

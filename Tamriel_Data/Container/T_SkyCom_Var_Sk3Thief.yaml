@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: T_SkyCom_Var_Sk3Thief
+name: Cloth Sack
+script: ''
+mesh: Sky\o\Sky_Cont_Sack_01_03.nif
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - l_b_loot_tomb01
+- - 1
+  - l_n_lockpicks
+- - 25
+  - random gold

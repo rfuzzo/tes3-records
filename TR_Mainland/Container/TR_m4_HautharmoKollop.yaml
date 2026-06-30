@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m4_HautharmoKollop
+name: Kollop
+script: TR_m4_431_CryptDoor
+mesh: f\furn_shell20.nif
+encumbrance: 0.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - TR_m4_HautharmoPearl

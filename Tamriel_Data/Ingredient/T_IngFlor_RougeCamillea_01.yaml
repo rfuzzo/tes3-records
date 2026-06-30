@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_RougeCamillea_01
+name: Rouge Camillea
+script: ''
+mesh: tr\n\tr_ing_rougecamillea.nif
+icon: tr\n\tr_ing_rougecamillea.dds
+data:
+  weight: 0.2
+  value: 5
+  effects:
+  - DrainAttribute
+  - ResistPoison
+  - FireShield
+  - WeaknessToFrost
+  skills:
+  - Block
+  - None
+  - Block
+  - None
+  attributes:
+  - Strength
+  - None
+  - Endurance
+  - None

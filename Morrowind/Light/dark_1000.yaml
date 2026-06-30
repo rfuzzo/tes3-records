@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: dark_1000
+name: ''
+script: ''
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 1000
+  color:
+  - 255
+  - 255
+  - 255
+  - 0
+  flags: NEGATIVE

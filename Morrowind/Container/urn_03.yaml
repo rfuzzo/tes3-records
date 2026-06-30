@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: urn_03
+name: Urn
+script: ''
+mesh: o\Contain_urn_03.NIF
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory: []

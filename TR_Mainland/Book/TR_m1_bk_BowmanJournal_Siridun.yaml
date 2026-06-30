@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_bk_BowmanJournal_Siridun
+name: Old Journal from Siridunbal
+script: ''
+mesh: TR\m\TR_book_closed_i01_AY.nif
+icon: TR\m\TR_book_closed_i01_AY.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nSiridunbal Journal<BR>\r\nPenned by Fraskig Ten-Barrels\r\n<DIV ALIGN=\"LEFT\">\r\nDay 1 : Balvir Isle is of ill repute, however we've not met a monster we couldn't defeat. The place is uninhabited, vast, and full of hospitable caves. It will bring us the shelter and calm we need for our operations.<BR>\r\nThe cave we chose was named Siridunbal, according to the charts. No idea what the name actually means. I never learned the old Dunmer tongue. My weapons speak for me, in a language everyone understands.<BR>\r\nDay 2 : Arrived on the island. The cove with the beach, with three great Emperor Parasol mushrooms, is exactly as the map said it would be. We're making camp outside, and searching for the entrance.<BR>\r\nDay 3 : The entrance was found, but it had collapsed. We worked most of the day in order to free up the passage. We cut the mushroom trees to make stays for the passageway, and built a door, too.<BR>\r\nDay 4: Exploration of the cave progresses. We found a source of fresh water inside. We're already making plans for equipping this cave. Cut down the remaining parasol to have the raw materials.<BR>\r\nDay 5: Sinia and Edaves went further in the cave, exploring the half-submerged death. When they came back, they looked strange, and didn't say a thing. Suddenly, we understood why; they were no longer alive! Two fresh zombies! We had to kill our former friends, and we lost Hulgar during the fight, too. The rest of the team decided to flee. I would have fled, too, if Sinia had not bitten my leg. It immediately swelled painfully, and I can't move that leg anymore.<BR>\r\nI still have my crossbow, a lot of bolts, and several healing potions. It doesn't offset the sight of my friend abandoning me to whatever necromantic horror lurks in the depths of the cave. I don't think I'll ever get to write a new entry in this journal. Can't fight for long when you can't move.<BR>"
+data:
+  weight: 3.0
+  value: 25
+  book_type: Book
+  skill: None
+  enchantment: 0

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_bk_IkinammassuF3
+name: Fragment AA-IK-1-17
+script: ''
+mesh: pc\m\pc_bk_letter_05.nif
+icon: pc\m\pc_m_letter_05.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nFragment AA-IK-1-17<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nOriginal Location : Section 1, behind Structure AA-IK-1-2 <BR>\r\n<BR>\r\nDescription: This is a block of stone that could have belonged to a wall or possibly the ceiling before coming to rest behind the ruined Structure AA-IK-1-2. The carvings on it are better preserved than most pieces from AA-IK, but are still illegible.<BR>\r\n<BR>\r\nAnalysis: This piece exudes a faint power that increases exponentially when brought near Fragment AA-IK-1-6.<BR>\r\n<BR>\r\n<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

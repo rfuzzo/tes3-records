@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_Veranzaris_Book_Filthy
+name: Filthy Book
+script: ''
+mesh: m\Text_Octavo_08.nif
+icon: m\Tx_book_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[Pages are torn out, full with sometimes childish, sometimes frightening scribble and scrabble... the whole book is unreadable and unenjoyable...]<BR>"
+data:
+  weight: 2.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 0

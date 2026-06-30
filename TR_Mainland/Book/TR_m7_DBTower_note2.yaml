@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: TR_m7_DBTower_note2
+name: 'Dark Brotherhood contract '
+script: ''
+mesh: m\Text_paper_roll_01.nif
+icon: m\Tx_paper_roll_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\n[This contract calls for the death of one 'Ardi Oaken-Cave'. Scrawled on the bottom of the contract is a suggestion that the contract belongs to whoever has the best hand of cards.]<BR>\r\n"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

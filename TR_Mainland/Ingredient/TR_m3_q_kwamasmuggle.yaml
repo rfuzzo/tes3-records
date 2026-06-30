@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: TR_m3_q_kwamasmuggle
+name: Large Kwama Egg
+script: TR_m3_OE_q_kwamasmug_scr
+mesh: f\Food_kwama_egg_02.NIF
+icon: m\Tx_food_kwama_egg_01.tga
+data:
+  weight: 6.0
+  value: 2
+  effects:
+  - RestoreFatigue
+  - Paralyze
+  - FrostShield
+  - FortifyHealth
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

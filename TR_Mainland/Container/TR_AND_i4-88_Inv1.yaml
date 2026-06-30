@@ -1,0 +1,59 @@
+type: Container
+flags: ''
+id: TR_AND_i4-88_Inv1
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_01.NIF
+encumbrance: 500.0
+container_flags: IS_BASE
+inventory:
+- - -6
+  - T_Mw_Random_ArmorChitin
+- - -4
+  - T_Mw_Random_ArmorHlaBonemold_01
+- - -4
+  - T_Mw_Random_ArmorNetchLeather
+- - -4
+  - T_Mw_Random_ArmorSteel
+- - -2
+  - T_Mw_Random_WeaponsHlaGuard
+- - 1
+  - T_Mw_Random_WeaponsImperial
+- - -3
+  - T_Mw_Random_WeaponsSteel
+- - 1
+  - hammer_repair
+- - -7
+  - l_n_repair item
+- - -80
+  - l_n_wpn_missle_arrow
+- - -80
+  - l_n_wpn_missle_bolt
+- - 1
+  - l_n_wpn_missle_bow
+- - -15
+  - l_n_wpn_missle_thrown
+- - 1
+  - random orcish armor
+- - -6
+  - random_iron_weapon
+- - -6
+  - random_steel_weapon
+- - 2
+  - repair_journeyman_01
+- - 2
+  - repair_prongs
+- - 1
+  - silver staff
+- - 1
+  - steel battle axe
+- - 1
+  - steel club
+- - 1
+  - steel mace
+- - 2
+  - steel spear
+- - 5
+  - steel throwing knife
+- - 1
+  - steel warhammer

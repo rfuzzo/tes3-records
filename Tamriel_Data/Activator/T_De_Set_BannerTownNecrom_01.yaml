@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_De_Set_BannerTownNecrom_01
+name: Necrom
+script: OutsideBanner
+mesh: TR\f\TR_banner_Necrom.nif

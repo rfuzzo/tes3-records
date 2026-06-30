@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_ComSilverTeapot
+name: Silver Teapot
+script: ''
+mesh: OAAB\m\silver_teapot.nif
+icon: OAAB\m\silver_teapot.tga
+data:
+  weight: 9.0
+  value: 50
+  flags: ''

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_Weepveil_01
+name: Weeping Veil
+script: ''
+mesh: TR\n\tr_f_weepveil_ing.nif
+icon: tr\n\tr_ing_weepingveil.dds
+data:
+  weight: 0.1
+  value: 8
+  effects:
+  - DrainMagicka
+  - Dispel
+  - Reflect
+  - Burden
+  skills:
+  - Block
+  - None
+  - None
+  - None
+  attributes:
+  - Endurance
+  - None
+  - None
+  - None

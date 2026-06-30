@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_Menaan_Banner_Smith
+name: 'Orzuk gro-Gum: Smith'
+script: OutsideBanner
+mesh: f\Furn_bannerD_WA_shop_01.NIF

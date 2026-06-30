@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_SaintAndLeftHandPC
+name: The Saint and the Left Hand
+script: ''
+mesh: pc\m\PC_bk_Book_23.nif
+icon: pc\m\pc_bk_book_23.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe Saint and the Left Hand<BR>\r\nAn inquiry into the natures of Magic and Religion<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nIanus Gaer-Frae<BR>\r\n<BR>\r\npublished by the Gwylim University Press<BR>\r\n<BR>\r\n<BR>\r\n[...] If religion involves, first, an affirmation of the superhuman beings who influence the world, and, second, an attempt to win their favor or placate them, it clearly assumes that the course of mundial nature is to some extent elastic or variable and that we can persuade or induce the mighty beings who control it to deflect, for our benefit, the current of events from the channel in which they would otherwise flow. Now this implied elasticity of nature is directly opposed by the principles of magic, which assume that the processes of nature are rigid and invariable in their operation, and that they can as little be turned from their course by persuasion and entreaty as by threats and intimidation.<BR>\r\n<BR>\r\nThe distinction between these two conflicting views of the nature of the Mundus turns on this question: are the forces which govern the world conscious and personal, or unconscious and impersonal? Religion, as a conciliation of the superhuman power, assumes the former, for all conciliation requires that the being conciliated is a conscious or personal agent, whose conduct is uncertain and can to a certain level be influenced. In this, it stands in fundamental antagonism to magic, which takes for granted that the course of nature is determined by the operation of immutable laws acting mechanically. It is true that magic often deals in spirits, which are personal agents, but whenever it does so in its proper form, it treats them in the same was as it would inanimate agents; that is, by constraining and coercing instead of conciliating or propitiating as religion would do. This assumes that all beings, be they human, Daedric, or even Divine, are ultimately subject to those impersonal forces which govern all things but which nevertheless can be bent to the will of anyone who knows how to manipulate them through spells and ceremonies. <BR>\r\n<BR>"
+data:
+  weight: 3.0
+  value: 180
+  book_type: Book
+  skill: Mysticism
+  enchantment: 0

@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: Com_Chest_11_open
+name: Open Chest
+script: ''
+mesh: o\contain_chest11.nif
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory: []

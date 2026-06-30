@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_ledger_i3-467-ind
+name: Harrumat Mine Ledger
+script: ''
+mesh: m\Text_Octavo_open_03.nif
+icon: m\Tx_octavo_open_03.tga
+enchanting: ''
+text: "[This book contains meticulous records of all commerce and transactions via the Harrumat Mine as well as an up to date account of the current inventory.]<BR>\r\n"
+data:
+  weight: 2.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 20

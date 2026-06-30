@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngMine_DiamondRed_01
+name: Red Diamond
+script: ''
+mesh: tr\n\tr_ing_red_diamd.nif
+icon: tr\n\tr_ing_red_diamd.dds
+data:
+  weight: 0.2
+  value: 500
+  effects:
+  - DrainAttribute
+  - Invisibility
+  - Reflect
+  - ResistFire
+  skills:
+  - Block
+  - None
+  - None
+  - None
+  attributes:
+  - Endurance
+  - None
+  - None
+  - None

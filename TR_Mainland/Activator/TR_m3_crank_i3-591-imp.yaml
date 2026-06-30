@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_crank_i3-591-imp
+name: Rusted Crank
+script: TR_m3-591_TGcrank_script
+mesh: f\Act_m_sewer_crank_01.nif

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m7_Narsis_KeyGeniette
+name: Geniette Winvale's Key
+script: ''
+mesh: TR\m\TR_key_DD03.NIF
+icon: TR\m\TR_Key_DD03.dds
+data:
+  weight: 0.0
+  value: 300
+  flags: KEY

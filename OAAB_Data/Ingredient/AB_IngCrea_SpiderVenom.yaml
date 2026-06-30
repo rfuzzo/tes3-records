@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: AB_IngCrea_SpiderVenom
+name: Spider Venom
+script: ''
+mesh: OAAB\n\spider_milk.nif
+icon: OAAB\n\spider_milk.tga
+data:
+  weight: 0.3
+  value: 40
+  effects:
+  - Poison
+  - Paralyze
+  - None
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

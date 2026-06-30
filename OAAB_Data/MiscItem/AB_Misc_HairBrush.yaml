@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_HairBrush
+name: Hairbrush
+script: ''
+mesh: OAAB\m\hair_brush.nif
+icon: OAAB\m\hair_brush.dds
+data:
+  weight: 0.4
+  value: 1
+  flags: ''

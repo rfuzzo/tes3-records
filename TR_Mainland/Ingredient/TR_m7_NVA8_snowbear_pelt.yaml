@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: TR_m7_NVA8_snowbear_pelt
+name: Snow Bear Pelt
+script: TR_m7_NVA_Stage8_Persist
+mesh: n\Ingred_Hide_WhtBear.NIF
+icon: n\Tx_ingred_Hide_WhtBear.dds
+data:
+  weight: 1.0
+  value: 2
+  effects:
+  - DrainFatigue
+  - FortifyAttribute
+  - ResistCommonDisease
+  - NightEye
+  skills:
+  - None
+  - Block
+  - None
+  - None
+  attributes:
+  - None
+  - Speed
+  - None
+  - None

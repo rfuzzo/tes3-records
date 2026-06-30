@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_kwama_cuttle_01
+name: Kwama Cuttle
+script: ''
+mesh: n\Ingred_kwama_cuttle_01.nif
+icon: n\Tx_kwama_cuttle.tga
+data:
+  weight: 0.1
+  value: 2
+  effects:
+  - ResistPoison
+  - DrainFatigue
+  - WaterWalking
+  - WaterBreathing
+  skills:
+  - Block
+  - Block
+  - Block
+  - Block
+  attributes:
+  - Strength
+  - Strength
+  - Strength
+  - Strength

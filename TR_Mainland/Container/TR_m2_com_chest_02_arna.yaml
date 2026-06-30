@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: TR_m2_com_chest_02_arna
+name: Wooden Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 400.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - common_pants_05
+- - 1
+  - common_shirt_05
+- - 2
+  - potion_t_bug_musk_01

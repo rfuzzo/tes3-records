@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_MARK_Ns_MG_Mhas
+name: Mhas
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: ''
+enchanting: ''
+text: "TR_m7_Ns_MG_Arch03_Mhas\r\nTR_m7_TV4_Lord_Mhas"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

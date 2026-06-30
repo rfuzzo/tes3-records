@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: crate_01_telvos
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - p_disease_resistance_e
+- - 1
+  - p_fire_shield_e
+- - 1
+  - p_fortify_intelligence_e
+- - 1
+  - p_jump_e
+- - 1
+  - p_levitation_e

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_Glowshroom
+name: Roridomyces Phyllostachydis
+script: ''
+mesh: tr\n\tr_ing_glowshroom_cap.nif
+icon: tr\n\tr_ing_glowshroom_cap.dds
+data:
+  weight: 0.5
+  value: 25
+  effects:
+  - Light
+  - DamageAttribute
+  - RestoreAttribute
+  - NightEye
+  skills:
+  - None
+  - Block
+  - Block
+  - None
+  attributes:
+  - None
+  - Agility
+  - Endurance
+  - None

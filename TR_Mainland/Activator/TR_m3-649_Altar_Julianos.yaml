@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3-649_Altar_Julianos
+name: Altar of Julianos
+script: TR_m3-649_JulianosScript
+mesh: x\ex_imp_mooring_01.nif

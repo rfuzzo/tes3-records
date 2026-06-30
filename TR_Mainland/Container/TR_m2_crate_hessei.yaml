@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: TR_m2_crate_hessei
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - -3
+  - Misc_SoulGem_Petty
+- - 1
+  - T_Mw_Lvl_Soulgems
+- - -5
+  - T_Mw_Random_ScrollsLvl1
+- - -2
+  - random_scroll_all

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_EmptyQuarto04Sum
+name: <Placeholder>
+script: ''
+mesh: sum\m\sum_text_quarto_04.nif
+icon: sum\m\sum_text_quarto_04.dds
+enchanting: ''
+text: ''
+data:
+  weight: 4.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 100

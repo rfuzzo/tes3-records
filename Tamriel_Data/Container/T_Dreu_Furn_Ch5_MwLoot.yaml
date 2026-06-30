@@ -1,0 +1,25 @@
+type: Container
+flags: ''
+id: T_Dreu_Furn_Ch5_MwLoot
+name: Chest
+script: ''
+mesh: tr\o\tr_furn_dreu_chest_05.nif
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Glb_Random_HumanParts
+- - 1
+  - T_Mw_Lvl_WeaponsMeleeOneHand
+- - 3
+  - T_Mw_Random_ClutterSilverWare
+- - 5
+  - T_Mw_Random_Gems
+- - 1
+  - T_Mw_Random_Minerals
+- - 1
+  - T_Mw_Random_Skull
+- - 1
+  - l_m_rings
+- - 200
+  - random gold

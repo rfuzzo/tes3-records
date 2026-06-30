@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Rga_FurnP_Bed_02c
+name: Bed
+script: Bed_Standard
+mesh: hf\f\hf_furn_rga_p_bed02c.nif

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_andoport_letter02
+name: Census and Excise Letter
+script: ''
+mesh: pc\m\pc_bk_letter_02.nif
+icon: pc\m\pc_m_letter_02.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>\r\n[A letter from the Census and Excise Office notifying the harbormaster of an upcoming inspection.] <BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

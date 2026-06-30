@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_Imp_LegionCyr_Braz_02
+name: ''
+script: ''
+mesh: pc\l\pc_imp_brazier_02.NIF
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 320
+  color:
+  - 244
+  - 153
+  - 51
+  - 0
+  flags: DYNAMIC | FIRE | FLICKER_SLOW

@@ -1,0 +1,19 @@
+type: Light
+flags: PERSISTENT
+id: T_Dae_Obj_HelmLight
+name: ''
+script: ''
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 256
+  color:
+  - 255
+  - 230
+  - 128
+  - 0
+  flags: DYNAMIC

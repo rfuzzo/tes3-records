@@ -1,0 +1,29 @@
+type: Clothing
+flags: ''
+id: T_Imp_Ep_PantsAlessianBronze_01
+name: Expensive Pants
+script: ''
+mesh: PC\c\pc_c_alesb_pants_gnd.nif
+icon: pc\c\pc_c_alesb_pants.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Groin
+  male_bodypart: T_C_ImpEpAlessianBronze_Pants_G
+  female_bodypart: ''
+- biped_object_type: LeftUpperLeg
+  male_bodypart: T_C_ImpEpAlessianBronze_Pants_U
+  female_bodypart: ''
+- biped_object_type: RightUpperLeg
+  male_bodypart: T_C_ImpEpAlessianBronze_Pants_U
+  female_bodypart: ''
+- biped_object_type: LeftKnee
+  male_bodypart: T_C_ImpEpAlessianBronze_Pants_K
+  female_bodypart: ''
+- biped_object_type: RightKnee
+  male_bodypart: T_C_ImpEpAlessianBronze_Pants_K
+  female_bodypart: ''
+data:
+  clothing_type: Pants
+  weight: 2.0
+  value: 15
+  enchantment: 75

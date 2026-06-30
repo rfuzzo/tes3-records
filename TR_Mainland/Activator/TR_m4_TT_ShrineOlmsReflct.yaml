@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_TT_ShrineOlmsReflct
+name: Shrine of St. Olms' Reflection
+script: TR_m4_TT_ShrineOlmsReflct_sc
+mesh: f\Furn_shrine_olms_01.NIF

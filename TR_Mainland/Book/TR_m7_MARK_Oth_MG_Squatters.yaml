@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_MARK_Oth_MG_Squatters
+name: ''
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: m\Tx_scroll_open_01.tga
+enchanting: ''
+text: "NPC ID:\r\nTR_m7_Brelyna Saran\r\nTR_m7_Drevam Hloren\r\nTR_m7_Llandora Arani\r\nTR_m7_Ulms Hloren"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

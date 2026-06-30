@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: T_HrBre_FurnP_Ch1Thief
+name: Chest
+script: ''
+mesh: hr\o\hr_bigpchest2.nif
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - T_Hr_Random_Lockpick
+- - 2
+  - T_Hr_Random_Probe
+- - 100
+  - random gold

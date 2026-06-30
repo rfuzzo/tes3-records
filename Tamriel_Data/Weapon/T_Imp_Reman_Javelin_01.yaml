@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Imp_Reman_Javelin_01
+name: Reman Legion Javelin
+script: ''
+mesh: pc\w\pc_w_reman_javelin.nif
+icon: pc\w\pc_w_reman_javelin.dds
+enchanting: ''
+data:
+  weight: 8.0
+  value: 50
+  weapon_type: MarksmanThrown
+  health: 100
+  speed: 0.75
+  reach: 1.0
+  enchantment: 25
+  chop_min: 3
+  chop_max: 10
+  slash_min: 1
+  slash_max: 5
+  thrust_min: 1
+  thrust_max: 5
+  flags: ''

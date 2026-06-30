@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_MARK_Oth_BugTest3
+name: TR_m7_Oth_BugTest3
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: m\Tx_scroll_open_01.tga
+enchanting: ''
+text: "NPC ID: TR_m7_Oth_BugTest3\r\nAiTravel in script TR_m7_Oth_BugTest3_sc"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

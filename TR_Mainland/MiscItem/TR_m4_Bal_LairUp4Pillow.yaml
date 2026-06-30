@@ -1,0 +1,11 @@
+type: MiscItem
+flags: PERSISTENT
+id: TR_m4_Bal_LairUp4Pillow
+name: Pillow
+script: ''
+mesh: m\Misc_Com_Pillow_01.NIF
+icon: m\Misc_Com_Pillow_01.tga
+data:
+  weight: 1.0
+  value: 1
+  flags: ''

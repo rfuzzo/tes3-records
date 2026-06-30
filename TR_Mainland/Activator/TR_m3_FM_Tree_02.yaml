@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_FM_Tree_02
+name: ''
+script: TR_NecMQ_SeherbalDestrScript
+mesh: tr\f\tr_flora_burnt_tree_03.nif

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_Sweetroll_01
+name: Sweetroll
+script: ''
+mesh: pc\n\pc_ingred_sweetroll_01.nif
+icon: pc\n\pc_tx_ingred_sweetr.dds
+data:
+  weight: 0.2
+  value: 2
+  effects:
+  - RestoreFatigue
+  - None
+  - None
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

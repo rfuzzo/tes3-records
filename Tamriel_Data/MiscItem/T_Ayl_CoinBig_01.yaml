@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Ayl_CoinBig_01
+name: Large Ayleid Coin
+script: ''
+mesh: pc\m\pc_ayl_coin_big.nif
+icon: pc\m\pc_tx_ayleid_coin_big.dds
+data:
+  weight: 0.05
+  value: 30
+  flags: ''

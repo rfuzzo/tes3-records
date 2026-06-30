@@ -1,0 +1,21 @@
+type: Container
+flags: ''
+id: com_closet_01_expclothe
+name: Closet
+script: ''
+mesh: o\Contain_Com_Closet_01.NIF
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - expensive_skirt_03
+- - 2
+  - expensive_robe_03
+- - 3
+  - expensive_belt_03
+- - 2
+  - expensive_shirt_03
+- - 4
+  - expensive_shoes_03
+- - 3
+  - expensive_pants_03

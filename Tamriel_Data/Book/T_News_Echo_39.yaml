@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Echo_39
+name: <Placeholder>
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_text_note_nar_news.nif
+icon: tr\m\tr_text_note_nar_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\tr_echo_512_256.dds\" WIDTH=\"348\" HEIGHT=\"168\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nTITLE GOES HERE<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nText goes here.<BR><BR>\r\n<DIV ALIGN=\"CENTER\">\r\nANOTHER HEADLINE<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nMore text here.<BR><BR>\r\nRemember to end the last paragraph with br.<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

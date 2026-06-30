@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_De_SetHla_AltarArkay_01
+name: Altar of Arkay
+script: T_ScObj_ShrineHlaaluArkay
+mesh: tr\f\tr_furn_hla_altar_ark.nif

@@ -1,0 +1,12 @@
+type: Apparatus
+flags: ''
+id: apparatus_m_mortar_01
+name: Master's Mortar and Pestle
+script: ''
+mesh: m\Misc_mortarpestle_M_01.nif
+icon: m\Tx_mortarpestle_M_01.tga
+data:
+  apparatus_type: MortarAndPestle
+  quality: 1.2
+  weight: 3.0
+  value: 2400

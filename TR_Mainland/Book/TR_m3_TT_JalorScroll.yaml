@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_TT_JalorScroll
+name: Weapons and Armor Order
+script: TR_m3_TT_JalorIndoScrollScript
+mesh: m\Text_Scroll_open_02.nif
+icon: m\Tx_scroll_open_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR><BR>Jalor Indo!<BR><BR>\r\nBy the decree of His Illuminated Lordship, the INDORIL ILVI of ROA DYR, I am placing an order of <BR> <BR>\r\n20 spears (iron or steel), <BR>\r\n20 tower shields (bonemold in Chuzei style), <BR>\r\n10 longswords (steel), AND <BR>\r\n10 war axes (steel) <BR> <BR>\r\nto be forged and delivered to the Indoril garrison in the east side of Almas Thirr within the next month. For this great service you will be paid 7,500 gold coins.<BR> <BR>\r\nTHE THRICE-SEALED HOUSE WITHSTANDS THE STORM! <BR> <BR>\r\nSigned, <BR>\r\nCommander Irnami Silsi, Creedman of House Indoril <BR>"
+data:
+  weight: 1.0
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

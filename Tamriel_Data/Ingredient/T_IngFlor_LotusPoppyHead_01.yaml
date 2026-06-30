@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_LotusPoppyHead_01
+name: Lotus Poppy Head
+script: ''
+mesh: tr\n\tr_ing_lotuspoppyhead.nif
+icon: tr\n\tr_ing_lotuspoppyhead.tga
+data:
+  weight: 0.5
+  value: 8
+  effects:
+  - DrainAttribute
+  - DamageFatigue
+  - Poison
+  - Invisibility
+  skills:
+  - Block
+  - None
+  - None
+  - None
+  attributes:
+  - Willpower
+  - None
+  - None
+  - None

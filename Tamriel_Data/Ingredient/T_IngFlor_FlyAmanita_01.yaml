@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_FlyAmanita_01
+name: Fly Amanita
+script: ''
+mesh: pc\n\pc_ingred_FlyA.nif
+icon: pc\n\pc_tx_ingred_flya.dds
+data:
+  weight: 0.1
+  value: 1
+  effects:
+  - DrainHealth
+  - FortifyAttribute
+  - DrainAttribute
+  - Levitate
+  skills:
+  - None
+  - Block
+  - Block
+  - Enchant
+  attributes:
+  - None
+  - Luck
+  - Willpower
+  - Strength

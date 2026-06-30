@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Rga_RedwareTagine_01
+name: Pot
+script: ''
+mesh: pc\m\pc_misc_rga_rtagine.nif
+icon: pc\m\pc_misc_rga_rtagine.dds
+data:
+  weight: 7.0
+  value: 8
+  flags: ''

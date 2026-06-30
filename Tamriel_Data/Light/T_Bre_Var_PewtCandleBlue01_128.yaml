@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_Bre_Var_PewtCandleBlue01_128
+name: Pewter Candlestick
+script: ''
+mesh: hr\l\hr_l_pew_cndl_01_blu.nif
+icon: hr\l\hr_l_pew_cndl_01_blu.dds
+sound: ''
+data:
+  weight: 2.0
+  value: 4
+  time: 120
+  radius: 128
+  color:
+  - 245
+  - 140
+  - 40
+  - 0
+  flags: DYNAMIC | CAN_CARRY | FIRE | FLICKER_SLOW

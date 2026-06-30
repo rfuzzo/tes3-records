@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_ChiselCold
+name: Cold Chisel
+script: ''
+mesh: OAAB\m\st_chisel_cold.nif
+icon: OAAB\m\st_chisel_cold.dds
+data:
+  weight: 2.0
+  value: 15
+  flags: ''

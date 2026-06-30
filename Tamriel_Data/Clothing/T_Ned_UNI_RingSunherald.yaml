@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Ned_UNI_RingSunherald
+name: Ring of Sunherald
+script: ''
+mesh: hr\c\hr_c_ndring_01.nif
+icon: hr\c\hr_c_ndring_01.dds
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 5000
+  enchantment: 100

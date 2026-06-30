@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_DrinkFlin
+name: Empty Bottle
+script: ''
+mesh: OAAB\m\dri_flin_empty.nif
+icon: OAAB\m\dri_flin_empty.tga
+data:
+  weight: 0.5
+  value: 1
+  flags: ''

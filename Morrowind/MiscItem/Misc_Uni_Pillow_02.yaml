@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: Misc_Uni_Pillow_02
+name: Pillow
+script: ''
+mesh: m\Misc_Uni_Pillow_02.NIF
+icon: m\Misc_Uni_Pillow_02.tga
+data:
+  weight: 1.0
+  value: 1
+  flags: ''

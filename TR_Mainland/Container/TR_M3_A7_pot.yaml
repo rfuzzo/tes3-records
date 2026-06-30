@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: TR_M3_A7_pot
+name: Pot
+script: ''
+mesh: o\Contain_pot_01.NIF
+encumbrance: 10.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - Ingred_scrib_cabbage_01
+- - 3
+  - T_IngFood_FishSlaughterDried_01
+- - 1
+  - ingred_saltrice_01

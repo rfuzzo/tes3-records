@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_BearpeltBlack_01
+name: Black Bear Pelt
+script: ''
+mesh: Sky\n\sky_ingred_bearhbl.nif
+icon: sky\n\sky_ingred_bearbl.dds
+data:
+  weight: 1.0
+  value: 2
+  effects:
+  - DrainFatigue
+  - FortifyAttribute
+  - WeaknessToFrost
+  - DetectAnimal
+  skills:
+  - None
+  - Block
+  - None
+  - None
+  attributes:
+  - None
+  - Strength
+  - None
+  - None

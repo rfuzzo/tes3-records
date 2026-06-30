@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_TravelsOfTyalDirenniPC
+name: The Travels of Tyal Direnni
+script: ''
+mesh: pc\m\PC_bk_Book_17.nif
+icon: pc\m\pc_bk_book_17.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe Travels of Tyal Direnni\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\n<BR>\r\n[Tyal Direnni, First Era diplomat, was one of the first Elven scholars to visit Cyrodiil and describe the Empire of the early Alessians. Though biased, his account is treasured as one of the few remaining sources on pre-Marukhati Imperial culture.]<BR>\r\n<BR>\r\n[...] I found the west of Cyrod quite unlike the dreadful rumors that had circulated among our exiled Ayleid brethren. Many prominent cities still stand, and their keepers have not forgotten the tenets of hospitality. Their new masters, a race of Man who refer to themselves as the al-Khored or the Coloi, are barbarians, but proud and correct in their dealings. They are friendlier than the Nords and more spirited than the natives of our own Balalt [...]. When I showed them my letters of introduction from the Bull-King, they gave me free berth and offered a sturdy donkey to replace one of my pack animals, which we had lost on the treacherous highland paths [...]<BR>\r\n<BR>\r\n[...] Having entered the lowlands I can attest to the descriptions: most all is wild jungle. We rested in a hill-outpost spoken of as the Skinning Fort, around which the industrious Coloi had cleared much of the forest, with the intent of planting vineyards - a most excellent idea, as the climate is quite suited. I told them some of our native land's agricultural techniques, and they were grateful. I had reason to discourse with a learned Ayleid who served as mentor to the local lord's children: he explained that their people are free to exercise scholarship within their enclaves, but that they are restricted from leaving the lands or performing trades other than intellectual onces - sadly, it seems that the fine art of Varlencism is no longer known to them. In hidden words, he warned me against sharing our travel road with the Coloi, especially the sea route -- apparently, the tribes of the western shore have the habit of raiding the nearby coastline, and it would not be beyond their abilities to reach the Iliac and Bal-Fyr. I doubt the efficacy of these primitives, but I will heed the warning.<BR>\r\n<BR>\r\n[...] Having crossed the mangroves, we now stand at the shores of the Rumaranth, in sight of the Citadel of old. It is a monumental sight [...] garbed in silks for a reason I cannot uncover. The city is a riot of color, with garlands of cloth hanging off every spire. The effect is overwhelming, and combined with the jungle heat, the smoke of the omnipresent altars, and the constant swarms of moths nearly became too much for some of my traveling companions. Not since Alinor have I seem [...]<BR>\r\n<BR>"
+data:
+  weight: 4.0
+  value: 140
+  book_type: Book
+  skill: None
+  enchantment: 0

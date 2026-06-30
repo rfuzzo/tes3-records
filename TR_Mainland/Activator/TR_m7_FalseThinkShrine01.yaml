@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_FalseThinkShrine01
+name: Shrine of the River's Source
+script: TR_m7_NumberRoomsShrine_sc
+mesh: f\furn_shrine_vivec_01.nif

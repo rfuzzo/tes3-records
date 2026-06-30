@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_AndothDweCrank3
+name: Dwarven Crank
+script: TR_m4_AndothDweLift_scp
+mesh: i\in_dwrv_crank00.nif

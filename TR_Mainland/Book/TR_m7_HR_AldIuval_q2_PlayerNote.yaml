@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_HR_AldIuval_q2_PlayerNote
+name: Player
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: ''
+enchanting: ''
+text: If the player attempts to recall to the Thirrine Lily after it leaves Ald Marak at the end of TR_m7_AldIuval_q2, they will be placed here.
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

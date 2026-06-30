@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_UNI_NecromKeyS
+name: Necrom Temple Key 'S'
+script: ''
+mesh: tr\m\tr_key_necrom_s.nif
+icon: tr\m\tr_key_necrom_s.dds
+data:
+  weight: 0.0
+  value: 300
+  flags: ''

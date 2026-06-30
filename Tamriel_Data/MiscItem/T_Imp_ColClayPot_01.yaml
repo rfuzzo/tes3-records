@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_ColClayPot_01
+name: Jug
+script: ''
+mesh: pc\m\PC_Col_clay_pot01.nif
+icon: pc\m\pc_misc_col_clay_pt1.dds
+data:
+  weight: 2.0
+  value: 7
+  flags: ''

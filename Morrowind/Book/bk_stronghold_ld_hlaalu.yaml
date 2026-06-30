@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: bk_stronghold_ld_hlaalu
+name: Rethan Manor Land Deed
+script: ''
+mesh: m\Text_Scroll_01.NIF
+icon: m\Tx_scroll_open_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nBy the Grace of ALMSIVI, Lords and Rulers of All<BR>\r\n<BR>\r\nKnow all Dunmer by these words that I, Hlaalu %PCName, have legally purchased the land of Rethan Manor on the northeast coast of the River Odai south of Balmora. Witness my hand below.<BR>\r\n<BR>\r\nSeal of the seller<BR>\r\nBaren Alen, Treasurer of the Great House Hlaalu<BR>\r\n<BR>\r\nSeal of the buyer<BR>\r\n%PCName<BR>\r\n<BR>\r\n"
+data:
+  weight: 0.2
+  value: 5000
+  book_type: Scroll
+  skill: None
+  enchantment: 0

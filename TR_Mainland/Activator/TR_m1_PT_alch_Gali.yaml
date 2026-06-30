@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m1_PT_alch_Gali
+name: 'Gali Therinyth: Alchemist'
+script: OutsideBanner
+mesh: f\Furn_bannerD_alchemy_01.NIF

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: TR_m3_OE_TG_Vomit
+name: Vomit
+script: TR_m3_OE_TG_PoisonWineScript
+mesh: TR\n\TR_Ing_Dres_Venom_01.nif
+icon: TR\n\TR_Ing_Dres_Venom_01.dds
+data:
+  weight: 0.1
+  value: 0
+  effects:
+  - Poison
+  - Paralyze
+  - ResistPoison
+  - CurePoison
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

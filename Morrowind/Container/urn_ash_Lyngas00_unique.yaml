@@ -1,0 +1,13 @@
+type: Container
+flags: BLOCKED
+id: urn_ash_Lyngas00_unique
+name: Urn labeled "G. Lyngas"
+script: ''
+mesh: o\Contain_urn_05.NIF
+encumbrance: 10.0
+container_flags: IS_BASE
+inventory:
+- - 4
+  - glass throwing star
+- - 1
+  - devote_Lyngas_Dust_00

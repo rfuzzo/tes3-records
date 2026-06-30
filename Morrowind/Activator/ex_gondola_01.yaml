@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: ex_gondola_01
+name: ''
+script: Float
+mesh: x\Ex_Gondola_01.NIF

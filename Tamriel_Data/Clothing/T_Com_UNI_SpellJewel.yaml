@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Com_UNI_SpellJewel
+name: Spell Jewel
+script: ''
+mesh: hr\c\hr_c_spell_jewel_uni.nif
+icon: hr\c\hr_c_spell_jewel_uni.dds
+enchanting: T_Use_Spell_Jewel
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 10000
+  enchantment: 400

@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Imp_Chainmail_cuirass_03
+name: Morinth Chain Cuirass
+script: ''
+mesh: pc\a\pc_a_chain_brum_c_g.nif
+icon: pc\a\pc_a_chain_brum_c.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_A_ImpChainCuir03_C
+  female_bodypart: T_A_ImpChainCuir03_CF
+data:
+  armor_type: Cuirass
+  weight: 21.0
+  value: 90
+  health: 300
+  enchantment: 140
+  armor_rating: 12

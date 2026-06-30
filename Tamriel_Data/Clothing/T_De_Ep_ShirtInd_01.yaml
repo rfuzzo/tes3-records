@@ -1,0 +1,35 @@
+type: Clothing
+flags: ''
+id: T_De_Ep_ShirtInd_01
+name: Expensive Shirt
+script: ''
+mesh: TR\c\TR_C_shirt_exp_ind_GND.nif
+icon: TR\c\tr_expens_ind_shirt.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_C_DeEpShirtInd01_C
+  female_bodypart: ''
+- biped_object_type: LeftUpperArm
+  male_bodypart: T_C_DeEpShirtInd01_UA
+  female_bodypart: ''
+- biped_object_type: RightUpperArm
+  male_bodypart: T_C_DeEpShirtInd01_UA
+  female_bodypart: ''
+- biped_object_type: LeftForearm
+  male_bodypart: T_C_DeEpShirtInd01_Fa
+  female_bodypart: ''
+- biped_object_type: RightForearm
+  male_bodypart: T_C_DeEpShirtInd01_Fa
+  female_bodypart: ''
+- biped_object_type: LeftWrist
+  male_bodypart: T_C_DeEpShirtInd01_W
+  female_bodypart: ''
+- biped_object_type: RightWrist
+  male_bodypart: T_C_DeEpShirtInd01_W
+  female_bodypart: ''
+data:
+  clothing_type: Shirt
+  weight: 2.0
+  value: 15
+  enchantment: 75

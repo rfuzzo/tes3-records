@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Bre_UNI_Staff_Lich
+name: Staff of the Lich
+script: ''
+mesh: tr\w\tr_w_lich_staff_uni.nif
+icon: tr\w\tr_w_lich_staff_uni.dds
+enchanting: T_Use_Lich_Staff_en
+data:
+  weight: 10.0
+  value: 96000
+  weapon_type: BluntTwoWide
+  health: 1000
+  speed: 1.75
+  reach: 1.8
+  enchantment: 100
+  chop_min: 3
+  chop_max: 18
+  slash_min: 4
+  slash_max: 20
+  thrust_min: 1
+  thrust_max: 15
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Imp_Silver_Mace_01
+name: Silver Club
+script: ''
+mesh: TR\w\TR_w_silver_mace.nif
+icon: TR\w\TR_w_silver_mace.dds
+enchanting: ''
+data:
+  weight: 10.0
+  value: 75
+  weapon_type: BluntOneHand
+  health: 900
+  speed: 1.5
+  reach: 1.0
+  enchantment: 40
+  chop_min: 4
+  chop_max: 10
+  slash_min: 2
+  slash_max: 4
+  thrust_min: 2
+  thrust_max: 4
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE | SILVER

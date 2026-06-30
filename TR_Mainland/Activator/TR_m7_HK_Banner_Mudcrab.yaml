@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_HK_Banner_Mudcrab
+name: The Musty Mudcrab
+script: OutsideBanner
+mesh: f\Furn_banner_tavern_01.NIF

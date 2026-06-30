@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_AbMonitor_03
+name: NEAR ABECEAN SMUGGLING REBOUND
+script: T_ScNews_Bellman_Paper
+mesh: pc\m\pc_text_note_anv_news.nif
+icon: pc\m\pc_text_note_anv_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"PC\\pc_abmonitor.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nSMUGGLERS RETURN TO THE NEAR ABECEAN<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nWith Duskwatch Keep now mothballed and West Navy patrols restricted to the main trade routes, the isles of the inner Abecean Sea are once more playing host to a criminal rabble. Rumors of petty smuggling outfits have emerged from the Strident Coast all the way to the mouth of the Brena River. Most concerningly, local sources report that a sophisticated smuggling ring now operates brazenly from somewhere on Stirk Isle, posing a danger both to Charach citizens and to ships plying the routes north of the island.<BR><BR>\r\nThe Monitor has confirmed similar stories from coastal cities around the Empire, many of which are now feeling the effects of the Imperial Navy's ill-advised decision to shutter several coastal forts and cut down on patrols along critical trading routes. It remains to be seen whether the West Navy's Navarch, Tiledorus Cadmerius, will hold to this disastrous course of action.<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

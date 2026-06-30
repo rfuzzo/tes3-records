@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_CrystalBallStand_01
+name: Crystal Ball Stand
+script: ''
+mesh: tr\m\tr_misc_com_crysball02.nif
+icon: tr\m\tr_misc_crystalball_02.dds
+data:
+  weight: 2.0
+  value: 5
+  flags: ''

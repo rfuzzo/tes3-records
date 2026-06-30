@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Nor_Leather1_BarcerL_01
+name: Nordic Leather Left Bracer
+script: ''
+mesh: sky\a\sky_nord_leath1_br_gn.nif
+icon: sky\a\sky_nleath1_bracer.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: LeftWrist
+  male_bodypart: T_A_NorLeath1Bracer_W
+  female_bodypart: ''
+data:
+  armor_type: LeftBracer
+  weight: 1.5
+  value: 5
+  health: 20
+  enchantment: 60
+  armor_rating: 5

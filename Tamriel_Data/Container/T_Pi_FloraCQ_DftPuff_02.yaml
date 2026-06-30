@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Pi_FloraCQ_DftPuff_02
+name: Drift Puff
+script: ''
+mesh: pi\o\pi_f_cnq_driftpuff_02.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - T_Pi_Random_FlorDriftPuff

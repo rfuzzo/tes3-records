@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: TR_m2_skeleton_Closet
+name: Closet
+script: ''
+mesh: o\Contain_De_Closet_01.NIF
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory:
+- - 4
+  - TR_m2_Gilan_Bones
+- - 1
+  - T_Com_SkeletonHandL_01
+- - 3
+  - ingred_bonemeal_01
+- - 1
+  - misc_skull00

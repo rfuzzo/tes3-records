@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m3_voicebottle20
+name: '"Sky Render"'
+script: ''
+mesh: m\Misc_flask_04.NIF
+icon: m\Tx_flask_04.tga
+data:
+  weight: 1.0
+  value: 0
+  flags: ''

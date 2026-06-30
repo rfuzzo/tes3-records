@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: Sound_Cave_Wind00
+name: Sound_Cave_Wind00
+script: Sound_Cave_Wind
+mesh: EditorMarker.NIF

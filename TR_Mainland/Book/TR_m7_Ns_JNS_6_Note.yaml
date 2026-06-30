@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_Ns_JNS_6_Note
+name: Scribbled Note
+script: TR_m7_Ns_JNS_6_ScNote
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nBars go to the contact south of the border. If they don't show, take them to Narsis. Erandes Lirvu at the Measurehall knows.<BR>"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

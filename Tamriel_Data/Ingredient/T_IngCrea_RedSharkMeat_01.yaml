@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_RedSharkMeat_01
+name: Red Shark Meat
+script: ''
+mesh: pi\n\pi_ing_redsharkmeat.nif
+icon: pi\n\pi_ing_redsharkmeat.dds
+data:
+  weight: 4.0
+  value: 4
+  effects:
+  - RestoreFatigue
+  - None
+  - None
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

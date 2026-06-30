@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: in_dwrv_crank_akula00
+name: Dwarven Crank
+script: Akula_innerdoors
+mesh: i\in_dwrv_crank00.nif

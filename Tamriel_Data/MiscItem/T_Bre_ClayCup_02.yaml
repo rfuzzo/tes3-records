@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Bre_ClayCup_02
+name: Clay Cup
+script: ''
+mesh: hr\m\hr_misc_clay_gob.nif
+icon: hr\m\hr_misc_clay_gob.dds
+data:
+  weight: 1.0
+  value: 2
+  flags: ''

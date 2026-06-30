@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_dreugh_wax_01
+name: Dreugh Wax
+script: ''
+mesh: n\Ingred_Dreugh_wax_01.NIF
+icon: n\Tx_dreugh_wax_01.tga
+data:
+  weight: 0.2
+  value: 100
+  effects:
+  - FortifyAttribute
+  - RestoreAttribute
+  - DrainAttribute
+  - DrainAttribute
+  skills:
+  - Block
+  - Block
+  - Block
+  - Block
+  attributes:
+  - Strength
+  - Strength
+  - Luck
+  - Willpower

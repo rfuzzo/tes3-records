@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_MARK_Sdr_Ocrulun
+name: Ocrulun
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: pi\m\pi_m_cnq_ngopta.dds
+enchanting: ''
+text: "After completing The Curse of Foul Stench, Ocrulun moves here after a few days.\r\nNPC ID: TR_m7_q_Ocrulun\r\nPositionCell and AiTravel in scripts TR_m7_q_Ocrulun_teleport_sc and TR_m7_Ocrulun_scr"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

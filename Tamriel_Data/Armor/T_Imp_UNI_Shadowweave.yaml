@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Imp_UNI_Shadowweave
+name: Shadowweave
+script: ''
+mesh: pc\a\pc_a_shadowweave_gnd.nif
+icon: pc\a\pc_a_shadowweave_uni.dds
+enchanting: T_Use_ShadowweaveUni
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_A_ImpShadowweave_C
+  female_bodypart: ''
+data:
+  armor_type: Cuirass
+  weight: 18.0
+  value: 85000
+  health: 1000
+  enchantment: 800
+  armor_rating: 45

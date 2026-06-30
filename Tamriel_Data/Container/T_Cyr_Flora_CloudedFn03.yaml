@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Cyr_Flora_CloudedFn03
+name: Clouded Funnel
+script: ''
+mesh: pc\o\pc_flora_Cfunnel_3.NIF
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - T_Cyr_Random_FlorCloudedFunnel

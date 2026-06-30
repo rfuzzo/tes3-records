@@ -1,0 +1,29 @@
+type: Clothing
+flags: ''
+id: T_Rga_Et_Robe_01
+name: Extravagant Redguard Robe
+script: ''
+mesh: pc\c\pc_fcot_rg_robe02_gnd.nif
+icon: pc\c\pc_fcot_rg_uc_robe.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_C_RgaEtRobe01_C
+  female_bodypart: T_C_RgaEtRobe01_CF
+- biped_object_type: LeftAnkle
+  male_bodypart: ''
+  female_bodypart: ''
+- biped_object_type: RightAnkle
+  male_bodypart: ''
+  female_bodypart: ''
+- biped_object_type: LeftWrist
+  male_bodypart: ''
+  female_bodypart: ''
+- biped_object_type: RightWrist
+  male_bodypart: ''
+  female_bodypart: ''
+data:
+  clothing_type: Robe
+  weight: 3.0
+  value: 30
+  enchantment: 100

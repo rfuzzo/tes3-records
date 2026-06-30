@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m1_FW_TG6_Amulet
+name: Stone of Septimia
+script: TR_m1_FW_TG6_StoneAdd
+mesh: tr\c\tr_c_amulet_septimia.nif

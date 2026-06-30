@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_brochure_i3-431-ind
+name: Dreynim Spa Brochure
+script: ''
+mesh: m\Text_Scroll_open_03.nif
+icon: m\Tx_scroll_open_03.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR><BR>\r\nWelcome to the Dreynim Spa, one of Morrowind's best-kept secrets. Soak your troubles away with one of our world-famous herbal soaks. Treat your skin to a royal treatment. Let us pamper you. Let us remake you.<BR>\r\n<BR>\r\n[The rest of this brochure is a list of prices as well as a list of specialty treatments.]<BR>"
+data:
+  weight: 1.5
+  value: 5
+  book_type: Scroll
+  skill: None
+  enchantment: 100

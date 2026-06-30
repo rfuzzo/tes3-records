@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: T_SkyCom_Furn_Ch1Band3
+name: Chest
+script: ''
+mesh: Sky\o\Sky_Cont_Chest_02_01.nif
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - 4
+  - T_Sky_Lvl_BanditGoods
+- - 50
+  - random gold
+- - 25
+  - random gold_lev_05
+- - 25
+  - random gold_lev_10

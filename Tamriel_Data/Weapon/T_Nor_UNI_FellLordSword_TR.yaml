@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Nor_UNI_FellLordSword_TR
+name: Fell-Lord Claymore
+script: ''
+mesh: w\W_Nordic_Claymore.nif
+icon: w\Tx_Claymore_Nordic.tga
+enchanting: T_Const_FellLord
+data:
+  weight: 30.0
+  value: 16000
+  weapon_type: LongBladeTwoClose
+  health: 1600
+  speed: 1.25
+  reach: 1.0
+  enchantment: 100
+  chop_min: 1
+  chop_max: 30
+  slash_min: 1
+  slash_max: 25
+  thrust_min: 1
+  thrust_max: 18
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: TR_i4_477_table
+name: Steel Dwemer Table
+script: ''
+mesh: o\contain_dwrv_table00.nif
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - misc_dwrv_coin00
+- - 1
+  - tr_m4_477_key2

@@ -1,0 +1,28 @@
+type: Alchemy
+flags: ''
+id: potion_comberry_brandy_01
+name: Greef
+script: ''
+mesh: n\Potion_Comberry_brandy_01.NIF
+icon: n\Tx_Comberry_brandy_01.tga
+effects:
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Strength
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 20
+  max_magnitude: 20
+- magic_effect: DrainAttribute
+  skill: None
+  attribute: Agility
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 20
+  max_magnitude: 20
+data:
+  weight: 5.0
+  value: 30
+  flags: ''

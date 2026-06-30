@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_Hal_SkelLegR
+name: ''
+script: TR_m3_Hal_Disable_sc
+mesh: tr\f\tr_furn_skel_leg_r.nif

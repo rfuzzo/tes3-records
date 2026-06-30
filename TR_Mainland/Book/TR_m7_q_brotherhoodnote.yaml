@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_q_brotherhoodnote
+name: Note to Idera
+script: TR_m7_q_brotherhoodnote_sc
+mesh: m\Text_Parchment_02.nif
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nIdera:<BR>\r\nGood work with Ralos. He never suspected a thing.<BR>\r\nYou know the next target already, distract her like you did Ralos.<BR>\r\nAs usual we'll come in from the Council Quarter Tunnels under the arena.<BR>\r\n<BR>\r\n<BR>C & EL\r\n<BR>\r\n"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

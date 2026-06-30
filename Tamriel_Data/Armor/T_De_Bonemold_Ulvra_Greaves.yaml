@@ -1,0 +1,25 @@
+type: Armor
+flags: ''
+id: T_De_Bonemold_Ulvra_Greaves
+name: Ulvra-Serad Bonemold Greaves
+script: ''
+mesh: tr\a\tr_a_bone_ul_grv_01gd.nif
+icon: tr\a\tr_a_bone_ul_greaves.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Groin
+  male_bodypart: T_A_DeBonemoldUlvraGreaves_G
+  female_bodypart: ''
+- biped_object_type: LeftUpperLeg
+  male_bodypart: T_A_DeBonemoldUlvraGreaves_UL
+  female_bodypart: ''
+- biped_object_type: RightUpperLeg
+  male_bodypart: T_A_DeBonemoldUlvraGreaves_UL
+  female_bodypart: ''
+data:
+  armor_type: Greaves
+  weight: 13.2
+  value: 220
+  health: 150
+  enchantment: 20
+  armor_rating: 15

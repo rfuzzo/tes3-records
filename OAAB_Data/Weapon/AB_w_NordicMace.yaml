@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_NordicMace
+name: Nordic Mace
+script: ''
+mesh: OAAB\w\w_nord_mace.nif
+icon: OAAB\w\w_nord_mace.dds
+enchanting: ''
+data:
+  weight: 12.0
+  value: 80
+  weapon_type: BluntOneHand
+  health: 1700
+  speed: 1.2
+  reach: 1.0
+  enchantment: 65
+  chop_min: 5
+  chop_max: 19
+  slash_min: 1
+  slash_max: 17
+  thrust_min: 1
+  thrust_max: 3
+  flags: ''

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_M3_i156_Spear_W
+name: Spear of Ashamubdul
+script: TR_m3_MaesabunMummySurprise
+mesh: w\W_silver_spear.nif
+icon: w\Tx_silver_spear.tga
+enchanting: TR_M3_i156_Spear
+data:
+  weight: 11.2
+  value: 264
+  weapon_type: SpearTwoWide
+  health: 5
+  speed: 1.0
+  reach: 1.8
+  enchantment: 125
+  chop_min: 1
+  chop_max: 4
+  slash_min: 1
+  slash_max: 4
+  thrust_min: 4
+  thrust_max: 45
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE | SILVER

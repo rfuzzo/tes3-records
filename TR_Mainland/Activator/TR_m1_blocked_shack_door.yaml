@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m1_blocked_shack_door
+name: Wrecked Door
+script: DoorBarricaded
+mesh: x\Ex_De_Shack_Door.nif

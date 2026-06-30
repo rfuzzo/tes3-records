@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m4_VA_budakAtt
+name: ''
+script: TR_m4_VA_budakAtt_scr
+mesh: EditorMarker.NIF

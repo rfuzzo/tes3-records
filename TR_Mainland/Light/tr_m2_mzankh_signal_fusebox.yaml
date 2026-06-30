@@ -1,0 +1,19 @@
+type: Light
+flags: PERSISTENT
+id: tr_m2_mzankh_signal_fusebox
+name: ''
+script: TR_M2_MzankhFuseboxSignal_sc
+mesh: l\light_dwrv_neon00.nif
+icon: ''
+sound: Power light 50
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 66
+  color:
+  - 238
+  - 187
+  - 81
+  - 0
+  flags: DYNAMIC | PULSE_SLOW

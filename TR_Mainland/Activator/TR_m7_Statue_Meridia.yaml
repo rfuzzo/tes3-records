@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_Statue_Meridia
+name: Statue of Meridia
+script: TR_m7_Meridia_Shrine
+mesh: tr\x\tr_ex_dae_meridia.nif

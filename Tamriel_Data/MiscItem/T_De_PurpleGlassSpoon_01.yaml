@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_PurpleGlassSpoon_01
+name: Fine Glass Spoon
+script: ''
+mesh: tr\m\tr_misc_purpg_spoon01.nif
+icon: tr\m\tr_misc_purpg_spoon01.dds
+data:
+  weight: 1.0
+  value: 12
+  flags: ''

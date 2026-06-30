@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Nor_Cm_Belt_03_WardStone
+name: Belt of Stone Ward
+script: ''
+mesh: sky\c\Sky_c_belt_cm_03.nif
+icon: sky\c\tx_c_belt_cm_03.dds
+enchanting: second barrier_en
+biped_objects: []
+data:
+  clothing_type: Belt
+  weight: 1.0
+  value: 28
+  enchantment: 30

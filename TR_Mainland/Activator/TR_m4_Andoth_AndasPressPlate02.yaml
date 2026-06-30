@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m4_Andoth_AndasPressPlate02
+name: Pressure Plate
+script: TR_m4_Andoth_AndasPresPlat2_scp
+mesh: tr\f\tr_furn_dwrv_brrl_lid.nif

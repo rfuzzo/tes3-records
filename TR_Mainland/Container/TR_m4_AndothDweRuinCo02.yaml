@@ -1,0 +1,9 @@
+type: Container
+flags: PERSISTENT
+id: TR_m4_AndothDweRuinCo02
+name: Steel Dwemer Dresser
+script: TR_m4_AndothDweDoor02_scp
+mesh: o\contain_dwrv_drawers00.nif
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory: []

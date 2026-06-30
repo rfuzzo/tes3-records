@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_RylyarrimmirNote
+name: Note to Rylyarrimmir
+script: TR_m7_RylyarrimirNote_sc
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "Rylyarrimir<p>\r\n\r\nFind targets in Hlerynhul, preferably people that nobody will miss. Feed them the special potion Dra'Baindi has made for you, with the blessing of the Fiend King.<p>\r\n\r\nOnce the target has drunk the potion, command him with the following instructions to Ashishibishi:<p>\r\n- Exit Hlerynhul through the south gate.<p>\r\n- Follow the paved road until just before it turns south near an ancestral tomb. Continue going east.<p>\r\n- Turn to the northeast and follow the peninsula until you reach a partially submerged Daedric shrine on your left, dive and enter the shrine. <p>\r\n\r\nGitienne<p>"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

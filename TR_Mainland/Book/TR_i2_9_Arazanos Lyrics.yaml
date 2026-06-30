@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_i2_9_Arazanos Lyrics
+name: Scribbled down Lyrics
+script: ''
+mesh: m\Text_Quarto_open_01.NIF
+icon: m\Tx_quarto_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR> Sky <BR>\r\nI painted a picture, of a day gone past<BR>\r\nAn ancient scripture, a house of glass<BR>\r\nPeople looking through the window<BR>\r\nNever knowing what they'd find<BR>\r\nWhen they couldn't see me<BR>\r\nI locked the door, left them behind<BR>\r\nThe sky will tell me... I'm not the only one<BR>\r\nAnd the sky will tell me... I must believe the sun<BR>\r\n\r\n"
+data:
+  weight: 4.0
+  value: 150
+  book_type: Book
+  skill: Illusion
+  enchantment: 0

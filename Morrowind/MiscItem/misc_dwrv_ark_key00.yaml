@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: misc_dwrv_ark_key00
+name: Key to Lower Arkngthand
+script: ''
+mesh: m\misc_dwrv_Ark_key00.nif
+icon: m\misc_dwrv_Ark_key00.tga
+data:
+  weight: 0.0
+  value: 300
+  flags: KEY

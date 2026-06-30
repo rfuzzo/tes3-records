@@ -1,0 +1,15 @@
+type: Container
+flags: BLOCKED
+id: chest_small_divayth06
+name: Small Ornate Lockbox
+script: ''
+mesh: o\Contain_chest_small_02.NIF
+encumbrance: 25.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - Daedric_special
+- - 1
+  - key_divayth07
+- - 1
+  - misc_dwrv_coin00

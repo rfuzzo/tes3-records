@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m7_TalmsBelethLute
+name: Talms Beleth's Lute
+script: TR_m7_TalmsBelethsLute_sc
+mesh: m\Misc_de_lute_01.NIF
+icon: m\Tx_de_lute_01.tga
+data:
+  weight: 3.0
+  value: 10
+  flags: ''

@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: amulet_usheeja
+name: Amulet of Usheeja
+script: ''
+mesh: c\Amulet_Usheeja.NIF
+icon: c\tx_amulet_usheeja.tga
+enchanting: freezing touch_enu
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 120
+  enchantment: 600

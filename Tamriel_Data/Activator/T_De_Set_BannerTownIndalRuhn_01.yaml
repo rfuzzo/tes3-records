@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_De_Set_BannerTownIndalRuhn_01
+name: Indal-ruhn
+script: OutsideBanner
+mesh: tr\f\tr_banner_indal-ruhn.nif

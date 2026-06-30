@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_De_6th_Sickle_01
+name: Sixth House Sickle
+script: ''
+mesh: TR\w\tr_w_6th_sickle_AY.nif
+icon: TR\w\tr_w_6th_sickle_AY.dds
+enchanting: ''
+data:
+  weight: 20.0
+  value: 2500
+  weapon_type: LongBladeOneHand
+  health: 1200
+  speed: 1.25
+  reach: 1.5
+  enchantment: 100
+  chop_min: 2
+  chop_max: 28
+  slash_min: 4
+  slash_max: 30
+  thrust_min: 1
+  thrust_max: 8
+  flags: ''

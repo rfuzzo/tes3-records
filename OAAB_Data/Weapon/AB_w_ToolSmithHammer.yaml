@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_ToolSmithHammer
+name: Blacksmith's Hammer
+script: ''
+mesh: OAAB\w\smith_hammer.nif
+icon: m\tx_repair_a_01.dds
+enchanting: ''
+data:
+  weight: 4.0
+  value: 10
+  weapon_type: BluntOneHand
+  health: 200
+  speed: 1.5
+  reach: 0.9
+  enchantment: 25
+  chop_min: 5
+  chop_max: 5
+  slash_min: 3
+  slash_max: 3
+  thrust_min: 1
+  thrust_max: 1
+  flags: ''

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Dae_Regular_Scimitar_02
+name: Daedric Scimitar
+script: ''
+mesh: TR\w\TR_w_daedra_scimi_02.nif
+icon: TR\w\TR_w_daedra_scimi_02.dds
+enchanting: ''
+data:
+  weight: 55.0
+  value: 55000
+  weapon_type: LongBladeOneHand
+  health: 5000
+  speed: 1.4
+  reach: 1.0
+  enchantment: 200
+  chop_min: 5
+  chop_max: 45
+  slash_min: 2
+  slash_max: 35
+  thrust_min: 4
+  thrust_max: 10
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

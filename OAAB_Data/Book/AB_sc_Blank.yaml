@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: AB_sc_Blank
+name: Standard Scroll
+script: ''
+mesh: OAAB\m\scrollStandard.nif
+icon: OAAB\m\scroll_standard.tga
+enchanting: ''
+text: ''
+data:
+  weight: 0.2
+  value: 10
+  book_type: Scroll
+  skill: None
+  enchantment: 120

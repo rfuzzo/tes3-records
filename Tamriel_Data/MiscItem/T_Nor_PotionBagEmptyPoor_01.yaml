@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Nor_PotionBagEmptyPoor_01
+name: Empty Potion Bag
+script: ''
+mesh: Sky\m\Sky_Misc_Potion_P_C.nif
+icon: Sky\m\Tx_Misc_Potion_P_C.dds
+data:
+  weight: 0.6
+  value: 1
+  flags: ''

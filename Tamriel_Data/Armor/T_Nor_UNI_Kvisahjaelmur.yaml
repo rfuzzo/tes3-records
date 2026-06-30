@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Nor_UNI_Kvisahjaelmur
+name: Kvisahjaelmur
+script: ''
+mesh: a\A_NordicMail_M_Helmet.NIF
+icon: A\NordicMail_Helmet.dds
+enchanting: T_Const_Kvisahjaelmur
+biped_objects:
+- biped_object_type: Hair
+  male_bodypart: A_NordicMail_M_Helmet
+  female_bodypart: A_NordicMail_F_Helmet
+data:
+  armor_type: Helmet
+  weight: 8.0
+  value: 13000
+  health: 400
+  enchantment: 200
+  armor_rating: 70

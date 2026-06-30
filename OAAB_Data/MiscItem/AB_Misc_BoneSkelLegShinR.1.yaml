@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_BoneSkelLegShinR.1
+name: Right Shin
+script: ''
+mesh: OAAB\m\skelShinR.1.nif
+icon: OAAB\m\skelShinR.tga
+data:
+  weight: 1.0
+  value: 1
+  flags: ''

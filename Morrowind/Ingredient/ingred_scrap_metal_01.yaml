@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_scrap_metal_01
+name: Scrap Metal
+script: ''
+mesh: n\Ingred_Scrap_Metal_01.nif
+icon: n\Tx_scrapmetal_01.tga
+data:
+  weight: 10.0
+  value: 20
+  effects:
+  - DrainHealth
+  - LightningShield
+  - ResistShock
+  - RestoreAttribute
+  skills:
+  - Block
+  - Block
+  - Block
+  - Block
+  attributes:
+  - Strength
+  - Strength
+  - Strength
+  - Intelligence

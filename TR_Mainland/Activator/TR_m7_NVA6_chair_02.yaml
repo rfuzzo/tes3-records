@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_NVA6_chair_02
+name: ''
+script: TR_m7_NVA_Stage6_Persist
+mesh: l\furn_de_chair_02.nif

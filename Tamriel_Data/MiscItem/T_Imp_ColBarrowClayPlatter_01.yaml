@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_ColBarrowClayPlatter_01
+name: Ancient Clay Platter
+script: ''
+mesh: pc\m\pc_misc_col_barr_pltr.nif
+icon: pc\m\pc_misc_col_barr_pltr.dds
+data:
+  weight: 3.0
+  value: 5
+  flags: ''

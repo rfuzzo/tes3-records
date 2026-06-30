@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Nor_CeramicBowl_02
+name: Ceramic Bowl
+script: ''
+mesh: Sky\m\Sky_Misc_C_Bowl_02.nif
+icon: Sky\m\Tx_Misc_C_Bowl_02.dds
+data:
+  weight: 5.0
+  value: 8
+  flags: ''

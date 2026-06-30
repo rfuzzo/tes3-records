@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_q_TheRiftPackage
+name: Coded Package from Elsweyr
+script: ''
+mesh: m\Text_Parchment_01.NIF
+icon: m\Tx_parchment_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nHVERMTTKHM\r\n<BR>\r\nUYKDVDIFPR\r\n<BR>\r\nLEQVMRMNJS\r\n<BR>\r\nUKHNXHRVFE\r\n<BR>\r\nUIDWBEEYNY\r\n<BR>\r\nZXCSWZHVWQ\r\n<BR>\r\nFXWYQJLRVC\r\n<BR>\r\nUFUCRPDQBI\r\n<BR>\r\nRVSFKFTQYL\r\n<BR>\r\nXIDTENSHZX\r\n<BR>\r\n"
+data:
+  weight: 0.2
+  value: 1000
+  book_type: Scroll
+  skill: None
+  enchantment: 0

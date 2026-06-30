@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_key_m3-695-Ind
+name: Bedroom Key
+script: ''
+mesh: TR\m\TR_Key_DD16.NIF
+icon: TR\m\TR_Key_DD16.dds
+data:
+  weight: 0.0
+  value: 0
+  flags: KEY

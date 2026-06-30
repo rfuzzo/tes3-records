@@ -1,0 +1,21 @@
+type: Container
+flags: ''
+id: TR_LA1_Grotto_1_SkPtion
+name: Cloth Sack
+script: ''
+mesh: o\Contain_Com_Sack_02.NIF
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - p_fortify_endurance_q
+- - 1
+  - p_fortify_luck_e
+- - 1
+  - p_fortify_personality_e
+- - 5
+  - p_restore_fatigue_q
+- - 5
+  - p_restore_health_e
+- - 1
+  - p_swift_swim_q

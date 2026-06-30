@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m4_Q_NirnboundBoulder02
+name: Boulder
+script: TR_m4_NirnboundDisabled_Scp
+mesh: i\in_moldboulder00.nif

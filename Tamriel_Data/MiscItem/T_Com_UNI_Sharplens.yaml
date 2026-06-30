@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_UNI_Sharplens
+name: Optical Lens
+script: ''
+mesh: pc\m\pc_uni_sharplens.nif
+icon: pc\m\pc_uni_sharplensI.dds
+data:
+  weight: 0.1
+  value: 60
+  flags: ''

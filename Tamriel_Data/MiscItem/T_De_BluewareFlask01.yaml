@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_BluewareFlask01
+name: Flask
+script: ''
+mesh: tr\m\tr_misc_blue_flask.nif
+icon: tr\m\tr_misc_bluewflask01.dds
+data:
+  weight: 2.0
+  value: 5
+  flags: ''

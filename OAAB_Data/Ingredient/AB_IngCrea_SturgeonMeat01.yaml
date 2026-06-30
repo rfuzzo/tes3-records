@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: AB_IngCrea_SturgeonMeat01
+name: Sturgeon Meat
+script: ''
+mesh: OAAB\n\sturgeonMeat01.nif
+icon: OAAB\n\sturgeonMeat01.tga
+data:
+  weight: 1.0
+  value: 3
+  effects:
+  - RestoreFatigue
+  - None
+  - None
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

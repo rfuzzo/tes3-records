@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: netch_leather_shield
+name: Netch Leather Shield
+script: ''
+mesh: a\Shield_Netch_leather.NIF
+icon: a\Tx_shield_Nordic_leather.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: Shield
+  male_bodypart: shield_netch_leather
+  female_bodypart: ''
+data:
+  armor_type: Shield
+  weight: 6.0
+  value: 17
+  health: 100
+  enchantment: 150
+  armor_rating: 5

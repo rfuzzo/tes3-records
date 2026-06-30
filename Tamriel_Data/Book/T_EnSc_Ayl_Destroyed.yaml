@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_EnSc_Ayl_Destroyed
+name: Scroll of Invalidation
+script: ''
+mesh: pc\m\pc_ayl_scroll_01.nif
+icon: pc\m\pc_ayl_scroll_01.tga
+enchanting: T_Once_AylDestroyed
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>\r\n<IMG SRC=\"PC\\PC_ay_scroll_destroyed.dds\" WIDTH=\"420\" HEIGHT=\"420\"><BR>"
+data:
+  weight: 2.5
+  value: 180
+  book_type: Scroll
+  skill: None
+  enchantment: 100

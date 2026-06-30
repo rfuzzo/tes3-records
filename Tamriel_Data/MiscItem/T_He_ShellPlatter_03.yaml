@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_He_ShellPlatter_03
+name: Shell Platter
+script: ''
+mesh: sum\m\m_nacre_shellbowl03.nif
+icon: sum\m\sum_m_shellplat3.dds
+data:
+  weight: 3.0
+  value: 15
+  flags: ''

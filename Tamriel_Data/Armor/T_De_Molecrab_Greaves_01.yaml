@@ -1,0 +1,25 @@
+type: Armor
+flags: ''
+id: T_De_Molecrab_Greaves_01
+name: Telvanni Mole Crab Greaves
+script: ''
+mesh: TR\a\TR_a_mlcrb_grv_gnd.NIF
+icon: TR\a\TR_a_molec_greaves.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Groin
+  male_bodypart: T_A_DeMolecrabGreaves01_G
+  female_bodypart: ''
+- biped_object_type: LeftUpperLeg
+  male_bodypart: T_A_DeMolecrabGreaves01_UL
+  female_bodypart: ''
+- biped_object_type: RightUpperLeg
+  male_bodypart: T_A_DeMolecrabGreaves01_UL
+  female_bodypart: ''
+data:
+  armor_type: Greaves
+  weight: 7.5
+  value: 29
+  health: 60
+  enchantment: 50
+  armor_rating: 6

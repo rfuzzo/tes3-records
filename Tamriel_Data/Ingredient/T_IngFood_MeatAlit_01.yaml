@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_MeatAlit_01
+name: Alit Meat
+script: ''
+mesh: TR\n\tr_ing_meat_alit.nif
+icon: TR\n\tr_ing_meat_alit.dds
+data:
+  weight: 2.0
+  value: 7
+  effects:
+  - ResistPoison
+  - Blind
+  - WeaknessToCommonDisease
+  - RestoreHealth
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

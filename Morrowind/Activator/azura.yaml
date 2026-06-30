@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: azura
+name: ''
+script: ''
+mesh: i\In_CI_azura_01.NIF

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: active_6th_bell_05
+name: Bell
+script: Sixth_Bell_02
+mesh: f\Furn_6th_Bell5.NIF

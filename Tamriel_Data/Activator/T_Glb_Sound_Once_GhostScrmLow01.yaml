@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Glb_Sound_Once_GhostScrmLow01
+name: 'Sound "Mine": Ghost ScreamLow 1'
+script: T_ScSound_Once_GhostScreamLow01
+mesh: EditorMarker.NIF

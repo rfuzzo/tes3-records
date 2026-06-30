@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: furn_banner_tavern_01
+name: Dunmer Tavern
+script: OutsideBanner
+mesh: f\Furn_banner_tavern_01.NIF

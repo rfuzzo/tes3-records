@@ -1,0 +1,12 @@
+type: Apparatus
+flags: ''
+id: T_Com_Grinder_01
+name: Grinder
+script: ''
+mesh: PC\m\pc_misc_grinder.nif
+icon: pc\m\pc_tx_grinder.dds
+data:
+  apparatus_type: MortarAndPestle
+  quality: 1.0
+  weight: 5.0
+  value: 10

@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: light_6th_brazier
+name: ''
+script: ''
+mesh: l\Light_6th_Brazier.NIF
+icon: ''
+sound: Fire 50
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 512
+  color:
+  - 234
+  - 159
+  - 21
+  - 0
+  flags: FIRE | FLICKER_SLOW

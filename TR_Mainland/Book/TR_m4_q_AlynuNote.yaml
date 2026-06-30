@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_q_AlynuNote
+name: Alynu Radrin's Note
+script: TR_m4_AlynuNoteScript
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>Nals, Hama, Marrys, and Bal,<BR>\r\n<BR>\r\nWhen you read this note, I'll be in a safe place, far from Bal Foyen. I don't think we'll ever see each other again, and I'm sorry about that. I'm sorry, too, for hiding the truth from you. The trust you put in me was so great and so dear that I didn't think I could burden it with something so dark as the truth. I thank you for your kindness and hospitality, and wish you all the very best.<BR>\r\n<BR>\r\nAll the gold I didn't give to you, while you kindly put a roof over my head, I stashed away in a secret place. I want you to have it.<BR>\r\n<BR>\r\nLook for a tree between the Imperial Commission and the Chapel of Mara. Take a shovel -- I know you've got one in the tower -- and dig under that tree. The chest isn't buried deep. It's all yours now. I hope you'll spend it wisely, even though I fear you won't. Spend a little on food, at least. I know I don't need to ask you to share it with %PCName. You've never been anything but generous. <BR>\r\n<BR>\r\nYour friend,\r\n<BR>\r\n<BR>\r\nAlynu Radrin<BR>\r\n"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

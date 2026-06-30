@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_Vh_BardsMabrigashPlay
+name: The Mabrigash's Wishes
+script: ''
+mesh: m\Text_paper_roll_01.nif
+icon: m\Tx_paper_roll_01.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nParts:<br>\r\nMabrigash of the Thirr River<br>\r\nNilaer Teddlu<br><br>\r\n\r\nNilaer Teddlu: I am the great Nilaer Teddlu, and I have heard it be said that there is a mabrigash living on the Thirr River who grants wishes. I have journeyed long and far to reach her, and now she stands before me. Mabrigash! Grant me my wish!<br><br>\r\n\r\nMabrigash: I will suffer this request, imp. Tell me your wish!<br><br>\r\n\r\nNilaer Teddlu: Oh, mabrigash, what would I wish for but a nice young girl, with eyes like the rubies of Red Mountain and teeth shining like pearls!<br><br>\r\n\r\nMabrigash: Very well. For you, I have summoned this girl. You said you liked them young.<br><br>\r\n\r\nNilaer Teddlu: No, no! She is still swaddled in her t'lonya! No, I want something older, Mabrigash, much older!<br><br>\r\n\r\nMabrigash: Then I summon for you this older woman. Are you pleased now?<br><br>\r\n\r\nNilaer Teddlu: Oh, she is hideous! An ancient hag! Her skin sags and she is missing all of her teeth!<br><br>\r\n\r\nMabrigash: Perhaps you should be careful what you wish for, Nilaer.<br><br>\r\n\r\nNilaer Teddlu: Very clever, Mabrigash. Let me be clear, you cunning old witch. I wish for a woman, neither old nor young, with good teeth still in her gums, who desires to kiss me all night long!<br><br>\r\n\r\nMabrigash: Very well, Nilaer. I have summoned for you a third woman. Does she meet your specifications?<br><br>\r\n\r\nNilaer Teddlu: Oh, Mabrigash! She is more than I ever imagined! Her skin is flawless and her ruby eyes glow, and her teeth...her teeth! You have summoned for me a vampire!<br><br>\r\n\r\nMabrigash: I think she would like to \"kiss\" your neck, all night long. It is just as you wished, after all, and you know what they say about making wishes. Perhaps now, filthy House Dunmer, you will leave me alone! <br><br>"
+data:
+  weight: 1.0
+  value: 50
+  book_type: Scroll
+  skill: None
+  enchantment: 100

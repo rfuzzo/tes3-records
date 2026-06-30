@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: TR_m4_RR_VCave_4_Cr_02
+name: Crate
+script: ''
+mesh: o\Contain_crate_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 6
+  - T_Mw_Random_ClutterRedware
+- - 4
+  - T_Mw_Random_ClutterStoneware
+- - 1
+  - light_de_candle_19_64

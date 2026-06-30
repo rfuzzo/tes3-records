@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_NarsisSewer03_NoteCQsewer
+name: Note To Self
+script: ''
+mesh: tr\tr_note_pin.nif
+icon: default icon.dds
+enchanting: ''
+text: I have decided not to change much in this area to allow flexibility for the council quarter sewers/catacombs -aveno
+data:
+  weight: 0.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 0

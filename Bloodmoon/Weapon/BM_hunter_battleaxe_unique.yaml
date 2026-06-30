@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: BM_hunter_battleaxe_unique
+name: Nordic Silver Battleaxe
+script: ''
+mesh: w\W_Nord_battleaxe.NIF
+icon: w\Nord_waraxe.dds
+enchanting: bm_hunter_axe
+data:
+  weight: 22.0
+  value: 800
+  weapon_type: AxeTwoHand
+  health: 1400
+  speed: 2.0
+  reach: 1.4
+  enchantment: 100
+  chop_min: 25
+  chop_max: 45
+  slash_min: 20
+  slash_max: 30
+  thrust_min: 1
+  thrust_max: 5
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE | SILVER

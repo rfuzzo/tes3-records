@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_CanisRoot_01
+name: Canis Root
+script: ''
+mesh: sky\n\t_ingFlor_canisR01.nif
+icon: sky\n\sky_ingr_canisroot.dds
+data:
+  weight: 0.2
+  value: 4
+  effects:
+  - DrainFatigue
+  - DrainAttribute
+  - FortifyHealth
+  - Paralyze
+  skills:
+  - None
+  - Block
+  - None
+  - None
+  attributes:
+  - None
+  - Speed
+  - None
+  - None

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_AndoG_LawDesposition
+name: Deposition
+script: ''
+mesh: m\Text_paper_roll_01.nif
+icon: m\Tx_paper_roll_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n[This legal document records testimony relating to a court proceeding in Bal Foyen. Such testimonies are recorded when a witness is unable to attend in person.]<BR>"
+data:
+  weight: 0.2
+  value: 2
+  book_type: Scroll
+  skill: None
+  enchantment: 100

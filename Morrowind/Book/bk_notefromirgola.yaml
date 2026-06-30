@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: bk_notefromirgola
+name: Note from Irgola
+script: ''
+mesh: m\Text_Note_02.nif
+icon: m\Tx_note_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nMy dear friend Bashuk,<BR>\r\n<BR>\r\nI have sent a final notice to Valvius. I'll write again when he gives me a response. Until then please sit tight. I predict it will be bashing time for you again soon enough.<BR>\r\n<BR>\r\nSincerely,<BR>\r\nIrgola the Pawnbroker<BR>\r\n"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

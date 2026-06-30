@@ -1,0 +1,21 @@
+type: Container
+flags: ''
+id: TR_m7_FeldrynArmorChest
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - -6
+  - T_Mw_Random_ArmorHlaBonemold_01
+- - -6
+  - T_Mw_Random_ArmorHlaBonemold_02
+- - -6
+  - T_Mw_Random_ArmorHlaBonemold_03
+- - -6
+  - T_Mw_Random_ArmorHlaBonemold_04
+- - -6
+  - T_Mw_Random_ArmorRedBonemold_02
+- - -6
+  - random_armor_bonemold

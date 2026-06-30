@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_FM_Act_Rubble7RubbleR
+name: ''
+script: TR_FM_Stage7Rubble_sc
+mesh: f\Furn_imp_rubble_ring.NIF

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_OE_MG_GeodeCryst
+name: Crystal
+script: TR_m3_OE_MG_GeodeMiningCrystal
+mesh: i\in_t_crystal_01.nif

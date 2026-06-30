@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m7_wil_q_DralnasRing
+name: Dralnas Virian's Signet Ring
+script: ''
+mesh: c\C_Ring_expensive_2.NIF
+icon: c\tx_ring_expensive02.tga
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 30
+  enchantment: 150

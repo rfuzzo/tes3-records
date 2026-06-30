@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_QyC_ShellwarePlate_01
+name: Shellware Plate
+script: ''
+mesh: pi\m\pi_m_cnq_s_plate_01.nif
+icon: pi\m\pi_m_cnq_s_plate_01.dds
+data:
+  weight: 1.0
+  value: 9
+  flags: ''

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m2_w_adamant_halberd_retr
+name: Halberd of Torrid Vengeance
+script: ''
+mesh: TR\w\TR_w_adamant_halberd.NIF
+icon: TR\w\TR_w_adamant_halberd.dds
+enchanting: TR_m2_en_halberd_retribution
+data:
+  weight: 25.0
+  value: 29300
+  weapon_type: SpearTwoWide
+  health: 900
+  speed: 1.0
+  reach: 1.0
+  enchantment: 710
+  chop_min: 1
+  chop_max: 8
+  slash_min: 1
+  slash_max: 8
+  thrust_min: 8
+  thrust_max: 36
+  flags: ''

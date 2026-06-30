@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_FM_Cl_AmuletAbyssalThunderer
+name: Amulet of the Abyssal Thunderer
+script: ''
+mesh: sky\c\sky_amulet_extrvg_01.nif
+icon: sky\c\tx_amulet_extrvg_01.dds
+enchanting: TR_FM_En_AbyssalThunderer
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 1000
+  enchantment: 600

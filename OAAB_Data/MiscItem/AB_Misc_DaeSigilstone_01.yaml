@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_DaeSigilstone_01
+name: Daedric Sigilstone
+script: ''
+mesh: OAAB\m\rem_dae_sigilstone.nif
+icon: OAAB\m\rem_dae_sigilstone.dds
+data:
+  weight: 1.0
+  value: 150
+  flags: ''

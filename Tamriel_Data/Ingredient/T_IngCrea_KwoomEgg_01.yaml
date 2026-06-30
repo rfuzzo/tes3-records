@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_KwoomEgg_01
+name: Kwoom Egg
+script: ''
+mesh: tr\n\tr_ing_kwoom_egg.nif
+icon: tr\n\tr_ing_kwoom_egg.dds
+data:
+  weight: 5.0
+  value: 7
+  effects:
+  - RestoreFatigue
+  - Silence
+  - FortifyAttribute
+  - None
+  skills:
+  - None
+  - None
+  - Block
+  - None
+  attributes:
+  - None
+  - None
+  - Endurance
+  - None

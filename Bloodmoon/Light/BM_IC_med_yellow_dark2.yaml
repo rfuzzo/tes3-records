@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: BM_IC_med_yellow_dark2
+name: ''
+script: ''
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 384
+  color:
+  - 24
+  - 77
+  - 101
+  - 0
+  flags: ''

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_SilverKnife
+name: Silver Throwing Knife
+script: ''
+mesh: OAAB\w\w_knife_silver.nif
+icon: OAAB\w\w_knife_silver.dds
+enchanting: ''
+data:
+  weight: 0.2
+  value: 7
+  weapon_type: MarksmanThrown
+  health: 25
+  speed: 1.0
+  reach: 1.0
+  enchantment: 13
+  chop_min: 2
+  chop_max: 6
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE | SILVER

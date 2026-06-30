@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: TR_m1_Q_bk_AlvarNote
+name: Note to Alvar Omothan
+script: TR_m1_Q_RangirthNoteScript
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nAlvar Omothan,<BR>\r\n<BR>\r\nI appreciate your concern over the state of our city's mine, and furthermore am glad you decided to help me in this matter. Remember, what you're looking for is a little trinket called the Ring of Rising Fortunes. This ring once turned a peasant into a noble, and now it's sitting unused in that noble's tomb.<BR>\r\n<BR>\r\nNow, according to my most trusted sources, that tomb is likely the Rangirth Ancestral Tomb somewhere on the road between Ranyon-ruhn and Helnim. If you need more detailed directions, you might be able to use the herder boy, Uneleas, as a guide. He's a member of the Rangirth family, so should know the way.<BR>\r\n<BR>\r\nWhether you need the herder boy or not, it can't be too difficult to get through the tomb. I can't imagine there being anything more than just an undead guardian or two in there.<BR>\r\n<BR>\r\nThe real difficulty, Alvar, will be in finding the ring. I hear it's been locked away in a secret chamber. All you have to do is find that chamber, and bring me the Ring of Rising Fortunes. I will give you 500 septims as a reward. You can also help yourself to any of the other treasures you might find there.<BR>\r\n<BR>\r\nRemember, in the event that you do find this ring, don't hesitate to bring it to me. I'm not going anywhere soon, so you'll probably find me in my house at Ranyon-ruhn.\r\n<BR>\r\nSincerely,<BR>\r\nAzariah Thelas<BR>\r\n<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

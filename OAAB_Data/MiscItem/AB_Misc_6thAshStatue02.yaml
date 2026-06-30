@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_6thAshStatue02
+name: Ash Statue
+script: ashStatueTopic
+mesh: OAAB\m\yy_6thAshStatue02.nif
+icon: OAAB\m\yy_6thAshStatue02.dds
+data:
+  weight: 4.0
+  value: 10
+  flags: ''

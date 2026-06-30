@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: ex_t_pc_hold_tower_seedling
+name: ''
+script: Strong3
+mesh: x\Ex_T_tower_seedling.NIF

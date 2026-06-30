@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_ColPipeCob_01
+name: Cob Pipe
+script: ''
+mesh: PC\m\pc_misc_pipe_cob.nif
+icon: pc\m\pc_misc_pipe_cob.dds
+data:
+  weight: 0.25
+  value: 5
+  flags: ''

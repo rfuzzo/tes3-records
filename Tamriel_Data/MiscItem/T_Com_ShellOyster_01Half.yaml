@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_ShellOyster_01Half
+name: Oyster Shell
+script: ''
+mesh: pi\m\pi_m_shelloyster1half.nif
+icon: pi\m\pi_m_shelloyster1half.dds
+data:
+  weight: 0.05
+  value: 1
+  flags: ''

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Kha_Copper_Spear_01
+name: Copper Spear
+script: ''
+mesh: els\w\els_w_copper_spear.nif
+icon: els\w\els_w_copper_spear.tga
+enchanting: ''
+data:
+  weight: 17.0
+  value: 300
+  weapon_type: SpearTwoWide
+  health: 1100
+  speed: 1.0
+  reach: 1.8
+  enchantment: 65
+  chop_min: 2
+  chop_max: 5
+  slash_min: 2
+  slash_max: 5
+  thrust_min: 5
+  thrust_max: 21
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

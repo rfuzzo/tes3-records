@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_BertpodSlice_01
+name: Bertpod Slice
+script: ''
+mesh: tr\n\tr_ingred_bertpod.nif
+icon: n\Tx_durzog_meat_01.dds
+data:
+  weight: 1.0
+  value: 1
+  effects:
+  - ResistFire
+  - Blind
+  - DamageMagicka
+  - RestoreFatigue
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

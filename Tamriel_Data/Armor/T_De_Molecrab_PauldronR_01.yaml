@@ -1,0 +1,22 @@
+type: Armor
+flags: ''
+id: T_De_Molecrab_PauldronR_01
+name: Telvanni Mole Crab R Pauldron
+script: ''
+mesh: TR\a\TR_a_mlcrb_pld_gnd.NIF
+icon: TR\a\TR_a_molec_pldrn_R.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: RightPauldron
+  male_bodypart: T_A_DeMolecrabPauldr01_Cl
+  female_bodypart: ''
+- biped_object_type: RightUpperArm
+  male_bodypart: T_A_DeMolecrabPauldr01_UA
+  female_bodypart: ''
+data:
+  armor_type: RightPauldron
+  weight: 4.0
+  value: 16
+  health: 60
+  enchantment: 55
+  armor_rating: 6

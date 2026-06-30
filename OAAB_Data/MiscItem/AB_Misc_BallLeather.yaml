@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_BallLeather
+name: Leather Ball
+script: ''
+mesh: OAAB\m\ball_leather.nif
+icon: OAAB\m\ball_leather.dds
+data:
+  weight: 1.0
+  value: 1
+  flags: ''

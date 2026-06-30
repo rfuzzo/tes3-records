@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Cr_GoblinWhistle_01
+name: Goblin Whistle
+script: ''
+mesh: pc\m\PC_Misc_Goblin_Whstl.nif
+icon: pc\m\pc_misc_goblinwhistle.dds
+data:
+  weight: 1.5
+  value: 2
+  flags: ''

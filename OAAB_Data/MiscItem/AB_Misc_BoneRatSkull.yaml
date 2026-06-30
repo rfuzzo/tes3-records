@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_BoneRatSkull
+name: Rat Skull
+script: ''
+mesh: OAAB\m\ratskull.nif
+icon: OAAB\m\ratskull.tga
+data:
+  weight: 1.0
+  value: 1
+  flags: ''

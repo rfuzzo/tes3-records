@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m7_q_SelviloMace
+name: Adamantium Flamemace
+script: ''
+mesh: w\W_Adamantium_Mace.NIF
+icon: w\Tx_w_Adtium_Mace.dds
+enchanting: cruel flame_en
+data:
+  weight: 23.0
+  value: 5500
+  weapon_type: BluntOneHand
+  health: 2800
+  speed: 1.3
+  reach: 1.0
+  enchantment: 100
+  chop_min: 5
+  chop_max: 20
+  slash_min: 5
+  slash_max: 20
+  thrust_min: 1
+  thrust_max: 5
+  flags: ''

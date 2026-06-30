@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Mw_Flora_LichenBk03
+name: Black Lichen
+script: ''
+mesh: o\flora_black_lichen_03.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - random_black_lichen

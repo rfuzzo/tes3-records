@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_ShellMolecrab_01
+name: Big Mole Crab Shell
+script: ''
+mesh: TR\n\TR_Ing_mcrabshell_01.nif
+icon: TR\n\TR_Ing_molecrab_01.dds
+data:
+  weight: 1.0
+  value: 1
+  effects:
+  - Shield
+  - DrainMagicka
+  - DrainHealth
+  - ResistShock
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

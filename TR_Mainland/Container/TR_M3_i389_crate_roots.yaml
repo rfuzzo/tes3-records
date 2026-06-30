@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: TR_M3_i389_crate_roots
+name: Crate
+script: ''
+mesh: o\Contain_crate_02.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 13
+  - T_IngFlor_Hamumroot_01
+- - 24
+  - ingred_corkbulb_root_01

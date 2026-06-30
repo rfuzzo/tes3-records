@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: AB_light_DeEbCandle3Red_128
+name: Frosted Ebony Candlestick
+script: ''
+mesh: OAAB\l\deEbonyCandle3Red.nif
+icon: OAAB\l\deEbonyCandle3Red.dds
+sound: ''
+data:
+  weight: 7.0
+  value: 100
+  time: 300
+  radius: 128
+  color:
+  - 255
+  - 15
+  - 5
+  - 0
+  flags: DYNAMIC | CAN_CARRY | FIRE | FLICKER_SLOW

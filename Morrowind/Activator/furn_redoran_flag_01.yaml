@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: furn_redoran_flag_01
+name: House Redoran
+script: ''
+mesh: f\Furn_redoran_flag_in.nif

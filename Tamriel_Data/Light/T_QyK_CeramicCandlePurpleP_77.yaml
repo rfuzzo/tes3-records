@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_QyK_CeramicCandlePurpleP_77
+name: ''
+script: ''
+mesh: pi\l\pi_l_cnq_c_candlepuP.nif
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 77
+  color:
+  - 177
+  - 83
+  - 255
+  - 0
+  flags: DYNAMIC | FIRE | FLICKER_SLOW

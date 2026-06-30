@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m7_HH_GM_rescueshrine
+name: Shrine of the Saint's Rescue
+script: TR_m7_HH_GM_RescueShrine_scr
+mesh: f\Furn_shrine_veloth_01.NIF

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m4_AA_Burial_1_Dagger
+name: Ritualistic Chitin Dagger
+script: ''
+mesh: w\W_dagger_chitin.nif
+icon: w\Tx_chitin_dagger.tga
+enchanting: feather_en
+data:
+  weight: 1.5
+  value: 6
+  weapon_type: ShortBladeOneHand
+  health: 380
+  speed: 2.0
+  reach: 1.0
+  enchantment: 10
+  chop_min: 3
+  chop_max: 3
+  slash_min: 3
+  slash_max: 3
+  thrust_min: 4
+  thrust_max: 4
+  flags: ''

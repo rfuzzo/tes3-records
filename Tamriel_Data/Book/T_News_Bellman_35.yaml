@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Bellman_35
+name: IMPERIAL TREASURES STOLEN!
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_note_oe_news.nif
+icon: tr\m\tr_note_oe_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\TR_bellman_512_256.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nIMPERIAL TREASURES STOLEN!<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nIs the Empire in Morrowind under a coordinated, covert attack? This seems to be the implication of a series of recent break-ins to Imperial institutions in both Old Ebonheart and Ebonheart-on-Vvardenfell. While guards reportedly managed to fend off a burglary in the Ebon Tower vaults, brigands stole a precious ancient cuirass and sword in the care of the Imperial Legion on Vvardenfell. What's worse, the offenders are rumored to have been traitors from within the Legion itself. If outside enemies are now combining forces with treasonous elements in the Imperial ranks, this surely heralds dangerous times for the Empire in the East.<br><br>\r\n\r\nHowever, when asked to comment, Lord General Caecalia Victrix of the Morrowind Imperial Legion denied that citizens should be concerned: \"There is no need for undue alarm. We have no evidence that the attacks were in any way connected. Rest assured, these are simple thieves, who will quickly be apprehended and the treasures will soon be returned to the rightful possession of the Emperor Uriel Septim VII, long may be his reign.\" We can only wish good fortune to the Imperial Legion as it seeks to recover the lost artifacts.<br><br>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

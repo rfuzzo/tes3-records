@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_Turnip_01
+name: Turnip
+script: ''
+mesh: sky\n\sky_ingred_turnip01.nif
+icon: sky\n\sky_ingr_turnip01.dds
+data:
+  weight: 5.0
+  value: 6
+  effects:
+  - DrainAttribute
+  - RestoreFatigue
+  - DetectAnimal
+  - Burden
+  skills:
+  - Block
+  - None
+  - None
+  - None
+  attributes:
+  - Willpower
+  - None
+  - None
+  - None

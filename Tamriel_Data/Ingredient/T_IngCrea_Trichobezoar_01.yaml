@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_Trichobezoar_01
+name: Trichobezoar
+script: ''
+mesh: tr\n\tr_ing_catbezoar.nif
+icon: tr\n\tr_ing_catbezoar.dds
+data:
+  weight: 0.5
+  value: 40
+  effects:
+  - CurePoison
+  - ResistPoison
+  - FortifySkill
+  - DrainAttribute
+  skills:
+  - None
+  - None
+  - Alchemy
+  - Block
+  attributes:
+  - None
+  - None
+  - Strength
+  - Personality

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_i3-407-Ind_prison log
+name: Prisoner Checklist
+script: ''
+mesh: m\Text_Parchment_02.nif
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nPrisoners currently being held in the Eastern Guard Tower:<BR>\r\n<BR>\r\nPrisoner: Marlene. Redguard. Crimes: Brawling in the streets. Assault. Resisting arrest. Further notes: Will be released in ten days with a warning.<BR>\r\n<BR>\r\n"
+data:
+  weight: 0.05
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

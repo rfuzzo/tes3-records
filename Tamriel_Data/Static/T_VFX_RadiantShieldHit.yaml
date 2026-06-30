@@ -1,0 +1,4 @@
+type: Static
+flags: ''
+id: T_VFX_RadiantShieldHit
+mesh: td\td_vfx_rad_shield_hit.nif

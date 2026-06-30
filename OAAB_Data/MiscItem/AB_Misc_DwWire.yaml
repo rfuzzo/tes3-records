@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_DwWire
+name: Dwemer Wire
+script: ''
+mesh: OAAB\m\dwrv_wire.nif
+icon: OAAB\m\dwrv_wire.tga
+data:
+  weight: 0.5
+  value: 15
+  flags: ''

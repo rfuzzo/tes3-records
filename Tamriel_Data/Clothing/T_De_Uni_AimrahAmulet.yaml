@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_De_Uni_AimrahAmulet
+name: Peculiar Wax Amulet
+script: ''
+mesh: tr\c\tr_c_lakeamulet_uni_01.nif
+icon: tr\c\tr_c_uni_lakeamulet_01.dds
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 30
+  enchantment: 200

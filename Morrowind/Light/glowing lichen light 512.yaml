@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: glowing lichen light 512
+name: ''
+script: ''
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 1
+  time: -1
+  radius: 512
+  color:
+  - 70
+  - 170
+  - 45
+  - 0
+  flags: DYNAMIC | PULSE_SLOW

@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: crate_02_pillows_float
+name: Crate
+script: Float
+mesh: o\Contain_crate_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 8
+  - misc_uni_pillow_01

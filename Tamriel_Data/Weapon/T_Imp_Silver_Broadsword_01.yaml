@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Imp_Silver_Broadsword_01
+name: Silver Broadsword
+script: ''
+mesh: tr\w\tr_w_silver_broadsword.nif
+icon: tr\w\tr_w_silver_broadsword.dds
+enchanting: ''
+data:
+  weight: 10.5
+  value: 100
+  weapon_type: LongBladeOneHand
+  health: 450
+  speed: 1.25
+  reach: 1.0
+  enchantment: 44
+  chop_min: 4
+  chop_max: 14
+  slash_min: 4
+  slash_max: 14
+  thrust_min: 2
+  thrust_max: 14
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE | SILVER

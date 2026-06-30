@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m3_dwepuz_doorleft
+name: ''
+script: ''
+mesh: d\door_dwrv_inner00.nif

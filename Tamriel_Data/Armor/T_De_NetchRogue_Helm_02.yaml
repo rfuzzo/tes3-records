@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_De_NetchRogue_Helm_02
+name: Netch Leather Rogue Hood
+script: ''
+mesh: tr\a\tr_a_rogue_helm_02g.NIF
+icon: tr\a\tr_a_rogue_helm_02.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Hair
+  male_bodypart: T_A_DeNetchRogueHelm01_Hr
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 3.0
+  value: 17
+  health: 70
+  enchantment: 75
+  armor_rating: 8

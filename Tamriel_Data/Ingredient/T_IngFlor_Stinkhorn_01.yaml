@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_Stinkhorn_01
+name: Stinkhorn Cap
+script: ''
+mesh: pc\n\pc_ing_stinkhorn.nif
+icon: pc\n\pc_tx_ingred_stinkhorn.dds
+data:
+  weight: 0.1
+  value: 1
+  effects:
+  - DamageHealth
+  - RestoreMagicka
+  - WaterWalking
+  - Invisibility
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

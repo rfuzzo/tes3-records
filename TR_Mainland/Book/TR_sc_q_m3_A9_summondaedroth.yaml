@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: TR_sc_q_m3_A9_summondaedroth
+name: Scroll of Khayam-I's Debt
+script: TR_m3_q_A9_daedrothreward_sc
+mesh: m\text_scroll_01.nif
+icon: m\tx_scroll_open_01.tga
+enchanting: TR_m3_q_A9_summonDaedroth
+text: <DIV ALIGN="center"><FONT COLOR="000000" SIZE="2" FACE="Daedric">KHAYAM-I KEEPS HIS WORD</FONT><BR>
+data:
+  weight: 0.2
+  value: 120
+  book_type: Scroll
+  skill: None
+  enchantment: 100

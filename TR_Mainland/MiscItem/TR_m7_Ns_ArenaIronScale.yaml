@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m7_Ns_ArenaIronScale
+name: Arena Iron Scale
+script: ''
+mesh: tr\m\tr_misc_de_scales_04.nif
+icon: tr\m\tr_misc_de_scales_04.dds
+data:
+  weight: 12.0
+  value: 100
+  flags: ''

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m4-476_nordic_sparkaxe
+name: Nordic Sparkaxe
+script: ''
+mesh: TR\w\TR_w_nord_axe_02.nif
+icon: TR\w\TR_w_nord_axe_02.dds
+enchanting: cruel spark_en
+data:
+  weight: 23.0
+  value: 140
+  weapon_type: AxeOneHand
+  health: 1400
+  speed: 1.0
+  reach: 1.0
+  enchantment: 40
+  chop_min: 2
+  chop_max: 23
+  slash_min: 2
+  slash_max: 23
+  thrust_min: 1
+  thrust_max: 6
+  flags: ''

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: PERSISTENT
+id: TR_m7_q_Ns_IC8_gem5
+name: Amethyst
+script: ''
+mesh: TR\n\TR_Ing_amethyst_mm.NIF
+icon: TR\n\TR_Ing_amethyst_mm.dds
+data:
+  weight: 0.2
+  value: 150
+  effects:
+  - ResistPoison
+  - DrainFatigue
+  - CureCommonDisease
+  - RestoreAttribute
+  skills:
+  - None
+  - None
+  - None
+  - Block
+  attributes:
+  - None
+  - None
+  - None
+  - Willpower

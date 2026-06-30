@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: AB_o_ComRchChestAlcoAll
+name: Chest
+script: ''
+mesh: OAAB\o\comRchChest.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 10
+  - AB_lvl_DrinksAllAlchoholic

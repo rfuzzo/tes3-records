@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_PLotusLeaf_01
+name: Perrif's Lotus Seeds
+script: ''
+mesh: pc\n\pc_ing_lotuss.nif
+icon: pc\n\pc_tx_ingred_lotuss.dds
+data:
+  weight: 0.1
+  value: 8
+  effects:
+  - Dispel
+  - None
+  - None
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

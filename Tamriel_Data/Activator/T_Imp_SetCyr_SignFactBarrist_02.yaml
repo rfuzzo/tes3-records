@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_SetCyr_SignFactBarrist_02
+name: Barristers Guild
+script: SignRotate
+mesh: pc\f\pc_furn_sign_brrist_02.nif

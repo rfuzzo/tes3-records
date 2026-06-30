@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: BM Wolf Helmet
+name: Wolf Helmet
+script: ''
+mesh: a\A_Wolf2_Helmet.NIF
+icon: A\Tx_Wolf2_Helmet.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Hair
+  male_bodypart: A_Wolf2_Helmet
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 2.0
+  value: 40
+  health: 100
+  enchantment: 20
+  armor_rating: 15

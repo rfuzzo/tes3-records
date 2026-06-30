@@ -1,0 +1,25 @@
+type: Armor
+flags: ''
+id: T_Com_Steel_PauldronR_MonkeyApp
+name: R Pauldron Monkey Apprehension
+script: ''
+mesh: a\A_Steel_Pauldron_GND.nif
+icon: a\TX_Steel_pauldron.tga
+enchanting: T_Use_MonkeyApprehension
+biped_objects:
+- biped_object_type: RightUpperArm
+  male_bodypart: a_steel_pauldron_ua
+  female_bodypart: ''
+- biped_object_type: RightPauldron
+  male_bodypart: a_steel_pauldron_cl
+  female_bodypart: ''
+- biped_object_type: RightForearm
+  male_bodypart: a_steel_pauldron_fa
+  female_bodypart: ''
+data:
+  armor_type: RightPauldron
+  weight: 10.0
+  value: 600
+  health: 150
+  enchantment: 20
+  armor_rating: 15

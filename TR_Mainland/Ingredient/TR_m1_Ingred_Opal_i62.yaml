@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: TR_m1_Ingred_Opal_i62
+name: Opal Stone
+script: TR_m1_script_curse_i62_c
+mesh: TR\n\TR_Ing_opal_mm.NIF
+icon: TR\n\TR_Ing_opal_mm.dds
+data:
+  weight: 1.5
+  value: 10
+  effects:
+  - DrainFatigue
+  - DrainHealth
+  - Light
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

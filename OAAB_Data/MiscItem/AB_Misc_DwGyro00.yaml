@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_DwGyro00
+name: Dwemer Gyro
+script: ''
+mesh: OAAB\m\yy_dw_gyro.nif
+icon: OAAB\m\yy_dw_gyro.dds
+data:
+  weight: 6.0
+  value: 50
+  flags: ''

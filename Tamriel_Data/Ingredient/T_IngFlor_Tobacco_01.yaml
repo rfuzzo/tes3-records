@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_Tobacco_01
+name: Tobacco
+script: ''
+mesh: pc\n\pc_ing_tobacco.nif
+icon: pc\n\pc_tx_ingred_tobacco.dds
+data:
+  weight: 0.1
+  value: 2
+  effects:
+  - RestoreFatigue
+  - ResistParalysis
+  - DamageMagicka
+  - Dispel
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

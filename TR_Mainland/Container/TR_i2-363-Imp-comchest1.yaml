@@ -1,0 +1,21 @@
+type: Container
+flags: ''
+id: TR_i2-363-Imp-comchest1
+name: Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 35
+  - T_Dwe_Regular_Bolt_01
+- - 15
+  - T_Dwe_Regular_Bolt_Jink
+- - 1
+  - dwarven crossbow
+- - 1
+  - dwarven halberd
+- - 1
+  - dwarven warhammer
+- - 1
+  - dwemer jinksword

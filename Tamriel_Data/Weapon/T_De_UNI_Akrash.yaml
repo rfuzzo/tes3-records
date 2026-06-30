@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_De_UNI_Akrash
+name: Akrash
+script: ''
+mesh: tr\w\tr_w_akrash.nif
+icon: tr\w\tr_w_akrash.dds
+enchanting: T_Const_Akrash
+data:
+  weight: 30.0
+  value: 45000
+  weapon_type: LongBladeOneHand
+  health: 1500
+  speed: 1.35
+  reach: 1.0
+  enchantment: 0
+  chop_min: 3
+  chop_max: 30
+  slash_min: 1
+  slash_max: 40
+  thrust_min: 3
+  thrust_max: 40
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

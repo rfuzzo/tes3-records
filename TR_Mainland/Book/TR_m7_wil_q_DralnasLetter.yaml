@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: TR_m7_wil_q_DralnasLetter
+name: Letter to Dralnas
+script: ''
+mesh: m\Text_Parchment_02.NIF
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nDearest Dralnas,<BR>\r\n<BR>\r\nHow are you doing son? Are you well? It's been so long since you last visited us, your old parents are beginning to worry!<BR>\r\n<BR>\r\nThank you so much for the potion you gave us. Your mother began to go down with something about a month ago, but after drinking the potion she was completely well again the following morning.<BR>\r\n<BR>\r\nHow is the physical training going? You sounded very enthusiastic the last time you visited. Just promise us you won't do anything dangerous until Master Nalmen says that you're ready. Remember that you're only young and nobody expects you to be the next Saint Felms!<BR>\r\n<BR>\r\nGive our best regards to Master Nalmen.<BR>\r\n<BR>\r\nBlessings of ALMSIVI be upon you.<BR>\r\n<BR>\r\nWith love and prayers,<BR>\r\nYour ever affectionate mother and father.<BR>\r\n<BR>\r\n"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

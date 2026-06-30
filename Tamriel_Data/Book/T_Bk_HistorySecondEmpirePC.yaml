@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_HistorySecondEmpirePC
+name: History of the Second Empire
+script: ''
+mesh: pc\m\pc_bk_book_38.nif
+icon: pc\m\pc_bk_book_38.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>Cyrodiilic History and Customs - The Second Empire<BR>\r\n\r\n<BR>\r\n\r\n---<BR>\r\n\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n\r\nPromulgated under the Authority of the Imperial Geographical Society<BR>\r\n\r\n<BR>\r\n\r\nThe Second Empire is divided into two stages: the Reman Dynasty and the Akaviri Potentate. After the Akaviri raiders had been defeated, Reman recruited many of them into his service. Later Cyrodiils traditionally kept a House Guard of Akaviri, and the Emperor's chief advisor, the Potentate, was usually of Akaviri descent. Other Akaviri slaves played a significant part in establishing the administrative structures of the Second Empire, as well as in the training of its military. The restructured Imperial legions, which learned an unparalleled measure of coherence, logistics, and discipline from the Akaviri, began to easily overwhelm the other regional armies; soon every region in Tamriel belonged to Cyrodiil except for Morrowind. After the assassination of Reman's last heir by the Dark Elven Morag Tong during the disastrous Four Score War, control of the Empire reverted to the Akaviri Potentate. They have left a visible mark on the Empire of today. The high crafts of daikatanas and dragonscale armor came from Akavir, as did the banners and military dress of Septim's shock troops, the Blades. The Red Dragons that have come to represent the Empire and the Imperial City were originally Akaviri war mounts. Akaviri surnames are rare and prized possessions among the Cyrodilic citizenry of today, and there are trace facial features of the Akaviri in many distinguished Cyrodilic families. Some colonies of \"true Akaviri\" still exist in both the Empire and its border regions, but they are named so only for their practices and customs than for the purity of their blood.<BR>\r\n\r\n"
+data:
+  weight: 2.0
+  value: 40
+  book_type: Book
+  skill: None
+  enchantment: 0

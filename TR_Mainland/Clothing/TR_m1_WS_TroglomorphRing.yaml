@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m1_WS_TroglomorphRing
+name: Ring of the Troglomorph
+script: ''
+mesh: c\C_Ring_expensive_1.NIF
+icon: c\tx_ring_expensive01.tga
+enchanting: TR_m1_WS_TroglomorphRing_en
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 300
+  enchantment: 150

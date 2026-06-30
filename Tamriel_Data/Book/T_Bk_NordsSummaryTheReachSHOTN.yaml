@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_NordsSummaryTheReachSHOTN
+name: A Nord's Summary of the Reach
+script: ''
+mesh: sky\m\sky_book_saga_02.nif
+icon: sky\m\Tx_Book_Saga_02.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nA Nord's Summary of the Reach<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nA journey to the very west of Skyrim will lead you to a place untouched by our mighty snowscapes and glaciers. A place where no giant walks and Trolls are rarely seen, a place of ancient palaces, green pasturages and vast forests whose glory seek to compete with Sovngarde itself.<BR>\r\n<BR>\r\nThis place that we Nords know as 'the Reach' is one of our holds whose fertile valleys and canyons we have settled in since a time when we still mocked this land as Mereth. Although every child nowadays knows of the events of Bend'r-Mahk and all those songs about the bloodletting of Karthwasten and Dragonstar, a few unconversant people are still surprised to hear of an infamous conquest our jarls and thanes led against our western neighbours in the recent past. In this war we reclaimed most of the Reach back from the Bretons and Redguards that held it. The victory we achieved here is merely a thorn in the flesh of the desert warriors that today still seek to conquer it back from us.<BR>\r\n<BR>\r\nVisitors to the Reach may forget that they travel through the province of Skyrim, for this region is nothing like the rest of our cold homeland. Here we are governors over crowds of Elves, Reachmen, Redguards and many other people who in the past, like us, sought home in this unusually warm and fertile expanse. And not only do the climate and the people differ from the cold inside of our province: Should you search for the ice-wraith-haunted, proud, and snowy peaks that one rightfully expects to see in Skyrim, you will instead find yourself in front of the steep and flat cliff-plateaus known as mesas by the local inhabitants.<BR>\r\n<BR>\r\nThe Reach is divided into three jarldoms. The first and largest, Midkarth, is the seat of the King of the Reach, Jarl Barda the Builder, who resides in the elven palace of Markarth Side. The second, the Sundered Hills, is the fiefdom of Jarl Horir, whose longhouse is found at the highest peak of Beorinhal-Town. The third, the so-called Karthwasten Cession, is ruled by Jarl Jona the Ansei-Ender, who has made herself a new home in a Redguard-built manor in Dragonstar.<BR>\r\n<BR>\r\nThose who plan to travel the Reach should know of the dangers that have been plaguing the region as of late. Travellers are being frequently attacked by Reachmen and other bandits, and it is no rare occasion when Redguard guerrilla-fighters lead ambushes against settlements. Last but not least the wilderness of the Reach is home to many hostile creatures like Goblins and Minotaurs. In view of those threats, we advise travellers not to strain the railings that border our roads.<BR>\r\n<BR>"
+data:
+  weight: 3.0
+  value: 30
+  book_type: Book
+  skill: None
+  enchantment: 0

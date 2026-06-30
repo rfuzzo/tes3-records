@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: TR_m7_Naemun_corpseadv
+name: Corpse of an adventurer
+script: Sound_Flies
+mesh: o\contain_corpse10.NIF
+encumbrance: 120.0
+container_flags: IS_BASE
+inventory:
+- - 6
+  - Gold_001
+- - 1
+  - T_De_Dreugh_Boots_01
+- - 1
+  - T_De_Glass_Mace_01
+- - 1
+  - bonemold_gah-julan_cuirass
+- - 1
+  - ingred_bonemeal_01

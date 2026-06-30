@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Imp_Legion_ShortswordBroke_01
+name: Broken Shortsword
+script: ''
+mesh: tr\w\tr_w_imp_ssword_brk.nif
+icon: tr\w\tr_w_imp_ssword_brk.dds
+enchanting: ''
+data:
+  weight: 4.5
+  value: 1
+  weapon_type: ShortBladeOneHand
+  health: 350
+  speed: 2.0
+  reach: 1.0
+  enchantment: 0
+  chop_min: 2
+  chop_max: 5
+  slash_min: 2
+  slash_max: 5
+  thrust_min: 3
+  thrust_max: 5
+  flags: ''

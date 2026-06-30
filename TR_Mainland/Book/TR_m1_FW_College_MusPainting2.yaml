@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_FW_College_MusPainting2
+name: Cape Craesa
+script: ''
+mesh: m\text_parchment_01.nif
+icon: m\tx_parchment_01.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nCape Craesa<BR> <BR>\r\n<DIV ALIGN=\"LEFT\">\r\nThis 298 painting by the Taneth painter Sahar, a veteran of the Akavir campaign, depicts a sunset at Cape Craesa on the northern coast of Yneslea. A dearth of good ports outside the Ynesai capital of Raio prompted the construction of naval facilities on this barren headland after the Emperor's initial conquest in 279. With time, the formerly uninhabited peninsula would become a thriving Imperial colony town.<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

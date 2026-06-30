@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngMine_IceCrystal_01
+name: Ice Crystal
+script: ''
+mesh: tr\n\tr_ing_ice_crystal.nif
+icon: tr\n\tr_ing_ice_crystal.dds
+data:
+  weight: 25.0
+  value: 200
+  effects:
+  - WeaknessToFrost
+  - FrostDamage
+  - FrostShield
+  - ResistFrost
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m2_kmlz_Chun_Lever2
+name: Dwemer Lever
+script: TR_m2_kmlz_Chun_Lever2_sc
+mesh: i\act_dwe_lever00.NIF

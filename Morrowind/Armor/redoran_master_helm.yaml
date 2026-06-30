@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: redoran_master_helm
+name: Redoran Master Helm
+script: ''
+mesh: a\A_RedoranMaster_H.NIF
+icon: a\tx_redoranMaster_h.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: Head
+  male_bodypart: a_redoranmaster_h
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 4.5
+  value: 3000
+  health: 450
+  enchantment: 225
+  armor_rating: 45

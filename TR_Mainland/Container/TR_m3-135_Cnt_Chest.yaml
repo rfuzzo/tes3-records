@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: TR_m3-135_Cnt_Chest
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 35
+  - Gold_001
+- - 25
+  - random gold
+- - 5
+  - random_armor_bonemold
+- - 3
+  - random_common_de_mclothes_01
+- - 1
+  - random_drinks_01

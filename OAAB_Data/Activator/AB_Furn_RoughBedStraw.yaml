@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Furn_RoughBedStraw
+name: Bed
+script: Bed_Standard
+mesh: OAAB\u\roughBedStraw.nif

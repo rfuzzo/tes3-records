@@ -1,0 +1,43 @@
+type: Container
+flags: ''
+id: de_p_closet_dren
+name: Closet
+script: ''
+mesh: o\Contain_De_Closet_02.NIF
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - exquisite_amulet_01
+- - 1
+  - expensive_ring_03
+- - 1
+  - extravagant_ring_01
+- - 1
+  - extravagant_belt_01
+- - 1
+  - extravagant_shirt_01_h
+- - 1
+  - expensive_shirt_01_e
+- - 1
+  - extravagant_pants_02
+- - 1
+  - netch_leather_gauntlet_right
+- - 1
+  - netch_leather_gauntlet_left
+- - 1
+  - netch_leather_boots
+- - 1
+  - netch_leather_greaves
+- - 1
+  - netch_leather_pauldron_right
+- - 1
+  - netch_leather_pauldron_left
+- - 1
+  - netch_leather_boiled_cuirass
+- - 1
+  - netch_leather_boiled_helm
+- - 2584
+  - Gold_001
+- - 1
+  - misc_skull00

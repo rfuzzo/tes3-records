@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_q_BrothersLove_letter
+name: Letter to Palosenya
+script: ''
+mesh: m\text_parchment_01.nif
+icon: m\tx_parchment_01.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nDear Sister,<BR>\r\n<BR>\r\nI'm writing to implore you again to return home. You belong here in Summerset.\r\n<BR>\r\nI want you to think of our parents. Think of what your conspicuous absence does for their standing in society, or, for that matter, mine. Don't you understand the shame you've brought onto our family by leaving? The glances we get in the streets. The snide comments made behind our backs! It's simply too much to bear. We suffer indignity after indignity while you're off galavanting at the edge of the world.\r\n<BR>\r\nOur parents and their parents and their parents have strived to keep the blood and ways of our ancestors alive, and it's coming to an end with you. Only Xarxes knows why you're throwing it away.\r\n<BR>\r\nThis is truly embarrassing. You're forsaking our lineage, our noble blood, and the perfection that has been laid out by Auri-El. And for what? So you can pray to our barbarous cousins' pretender \"gods\"? Even as you're on your knees beside them, you think they won't see you for who you are? No matter how much ash you smear on your face, you'll never belong in Morrowind.\r\n<BR>\r\nYou're better than this. Be better than this.\r\n<BR>\r\nPlease come home. The gods will forgive you, and in time we will too.\r\n<BR>\r\nYour loving brother,<BR>\r\n<BR>\r\nCorenar\r\n<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

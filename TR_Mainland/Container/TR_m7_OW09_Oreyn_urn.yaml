@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: TR_m7_OW09_Oreyn_urn
+name: Urn labeled "Oreyn Bearclaw"
+script: ''
+mesh: tr\o\tr_cont_urn_tapestry.nif
+encumbrance: 10.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - TR_ow09_tomb02_OreynAsh
+- - 2
+  - glass throwing star

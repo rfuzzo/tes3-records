@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Com_Var_PipeValveAct_01
+name: Valve
+script: ''
+mesh: pc\f\pc_furn_pipe_valve.nif

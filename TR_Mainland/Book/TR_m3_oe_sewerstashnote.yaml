@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_oe_sewerstashnote
+name: A note
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nDear sir or madam, <br><BR>\r\nHANDS OFF! THIS IS MY STASH. MINE. TOUCH ANY OF IT AND I SWEAR I'LL FIND AND KILL YOU GRAVEYARD DEAD.<BR><BR>\r\nBest wishes,<br>\r\nRilmas\r\n<br>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

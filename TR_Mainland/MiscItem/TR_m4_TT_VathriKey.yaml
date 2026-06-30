@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m4_TT_VathriKey
+name: Key to Vathri House
+script: TR_m4_TT_LastWillEnable_sc
+mesh: m\Key_Standard_01.NIF
+icon: m\Tx_key_standard_01.tga
+data:
+  weight: 0.0
+  value: 300
+  flags: KEY

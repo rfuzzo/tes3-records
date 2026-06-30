@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: de_r_closet_01_arobar01
+name: Closet
+script: ''
+mesh: o\Contain_De_Closet_01.NIF
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - extravagant_robe_01_r
+- - 1
+  - extravagant_shirt_01_r
+- - 1
+  - extravagant_shirt_01
+- - 1
+  - extravagant_pants_01

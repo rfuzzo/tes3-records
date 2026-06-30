@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m3_OE_GalleonKey
+name: TEM Princess Morgiah Key
+script: ''
+mesh: tr\m\tr_key_dd28.nif
+icon: tr\m\tr_key_dd28.dds
+data:
+  weight: 0.0
+  value: 15
+  flags: KEY

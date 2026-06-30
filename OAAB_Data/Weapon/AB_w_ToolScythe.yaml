@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_ToolScythe
+name: Farmer's Scythe
+script: ''
+mesh: OAAB\w\scythe.nif
+icon: OAAB\w\tool_scythe.tga
+enchanting: ''
+data:
+  weight: 10.0
+  value: 25
+  weapon_type: SpearTwoWide
+  health: 250
+  speed: 1.0
+  reach: 1.8
+  enchantment: 25
+  chop_min: 2
+  chop_max: 8
+  slash_min: 3
+  slash_max: 12
+  thrust_min: 1
+  thrust_max: 2
+  flags: ''

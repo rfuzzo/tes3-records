@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: TR_i2-309_crate_ma02
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - -1
+  - T_De_IndBonemold_GauntletR_01
+- - -1
+  - T_De_IndBonemold_Greaves_01
+- - -1
+  - T_De_IndBonemold_PauldronL_02
+- - -1
+  - T_De_IndBonemold_Shield_01
+- - -1
+  - T_De_IndBonemold_Shield_03

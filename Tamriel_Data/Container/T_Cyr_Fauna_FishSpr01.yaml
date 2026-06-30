@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Cyr_Fauna_FishSpr01
+name: Spearmouth
+script: ''
+mesh: pc\o\pc_cont_fish_soldr_01.nif
+encumbrance: 0.0
+container_flags: ORGANIC | IS_BASE
+inventory:
+- - 1
+  - T_Cyr_Random_FaunFishSpr

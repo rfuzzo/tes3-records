@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m7_LA6_Tomb_1_Coffer
+name: Velothi Coffer
+script: ''
+mesh: tr\o\tr_cont_v_coffer_01.nif
+encumbrance: 10.0
+container_flags: IS_BASE
+inventory:
+- - 50
+  - T_De_Ebony_Bolt_01

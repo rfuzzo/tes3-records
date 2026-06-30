@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_q_orlukhdeed
+name: Anbarsud Mine Agreement
+script: TR_m4_q_orlukhtreaty_scr
+mesh: m\Text_paper_roll_01.nif
+icon: m\Tx_paper_roll_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nAnbarsud Mineral Rights Agreement<BR>\r\n<BR>\r\nThis legally binding document confers all mineral rights from the party listed as seller to the party listed as buyer. This agreement allows buyer to mine, excavate, refine, forge, and sell all miners found in or on the land defined as \"Anbarsud\" in the province of Morrowind, in perpetuity. This lease has nonrefundable terms, but may be renegotiated at its renewal date of 3E 1347.\r\n<BR>\r\n<BR>\r\nSeal of the official<BR>\r\nPantea Castorius<BR>\r\n<BR>\r\nSeal of the seller<BR>\r\nTholer Andas<BR>\r\n<BR>\r\nSeal of the buyer<BR>\r\nAntonius Pellagrius, Scribe<BR>\r\nActing agent on behalf of: <BR>\r\nOrlukh gro-Othmog<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

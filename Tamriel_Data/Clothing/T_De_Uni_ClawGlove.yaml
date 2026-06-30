@@ -1,0 +1,17 @@
+type: Clothing
+flags: ''
+id: T_De_Uni_ClawGlove
+name: Monstrous Hybrid Claw
+script: ''
+mesh: tr\c\tr_c_clawglove_uni_gnd.nif
+icon: tr\c\tr_c_uni_dreughclaw_01.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: RightHand
+  male_bodypart: T_C_DeUniGloveClaw_Ha
+  female_bodypart: ''
+data:
+  clothing_type: RightGlove
+  weight: 16.0
+  value: 500
+  enchantment: 0

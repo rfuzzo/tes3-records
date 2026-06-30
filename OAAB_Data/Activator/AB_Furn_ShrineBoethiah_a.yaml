@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Furn_ShrineBoethiah_a
+name: Shrine of Boethiah
+script: AB_ShrineBoethiah_s
+mesh: OAAB\u\v_shrine_boeth.nif

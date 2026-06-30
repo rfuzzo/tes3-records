@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_De_Bonelord_Dagger_01
+name: Bonelord Dagger
+script: ''
+mesh: tr\w\tr_w_bonelord_dagger.nif
+icon: tr\w\tr_w_bonelord_dagger.dds
+enchanting: ''
+data:
+  weight: 7.0
+  value: 115
+  weapon_type: ShortBladeOneHand
+  health: 325
+  speed: 2.5
+  reach: 1.0
+  enchantment: 30
+  chop_min: 4
+  chop_max: 6
+  slash_min: 4
+  slash_max: 6
+  thrust_min: 5
+  thrust_max: 7
+  flags: ''

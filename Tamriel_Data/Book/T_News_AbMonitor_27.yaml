@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_AbMonitor_27
+name: 'EDITORIAL: ON THE KING OF SUTCH'
+script: T_ScNews_Bellman_Paper
+mesh: pc\m\pc_text_note_anv_news.nif
+icon: pc\m\pc_text_note_anv_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"PC\\pc_abmonitor.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nEDITORIAL: QUESTIONS SURROUND SUTCH KING'S DEATH<BR>by Solvus Orrich, royal steward of the Kingdom of Anvil<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nAmidst the pomp of young King Attrebus' ascension to the throne of the Spire City, many are still seeking the truth of his predecessor's fate. King Attrebus' court has told all that the late King Cirellus of Sutch died tragically in a hunting accident, a story confirmed by the loyal knights who now hold high positions in the Court of the Gorge.<BR><BR>\r\nKing Attrebus, who grew up a modest cowherd, rose to the succession by word of the childless King Cirellus before his death. Although the late King trusted his chosen successor, many now wonder if this trust was misplaced. King Attrebus' wife, the now-Queen Enide, is widely rumored to have ties to the Kali Mes insurgent organization. One can only imagine the damage such an asset could do in her new seat, if these rumors are true.<BR><BR>\r\nPerhaps young King Attrebus means to do good, and will ignore the incendiary whispers of his queen. Perhaps they are both complicit in a tragic conspiracy to depose their old benefactor. Either way, the knights of Anvil must stand a watchful vigil against unrest from the north.<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

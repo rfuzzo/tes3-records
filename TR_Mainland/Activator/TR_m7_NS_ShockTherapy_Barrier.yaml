@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m7_NS_ShockTherapy_Barrier
+name: Alvon's Barrier
+script: TR_m7_Ns_ShockTherapy_Barr_sc
+mesh: f\bm_forcefield.nif

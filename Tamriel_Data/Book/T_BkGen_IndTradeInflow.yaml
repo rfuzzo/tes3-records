@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_BkGen_IndTradeInflow
+name: Inflow of Goods
+script: ''
+mesh: m\Text_Scroll_01.NIF
+icon: m\Tx_scroll_open_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n[This Indoril document records all incoming goods and the tolls levied on them, whether in gold, partial expropriation, substitution, prayers or likewise.]<BR>"
+data:
+  weight: 0.2
+  value: 2
+  book_type: Scroll
+  skill: None
+  enchantment: 100

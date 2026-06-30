@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Bre_Painting_Jehanna
+name: Jehanna Landscape
+script: ''
+mesh: hr\m\HR_M_Painting_Jehan.nif
+icon: hr\m\HR_M_Painting_Jehan.tga
+data:
+  weight: 14.0
+  value: 450
+  flags: ''

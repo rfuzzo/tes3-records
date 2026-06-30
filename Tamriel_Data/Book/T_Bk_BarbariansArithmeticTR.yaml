@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_BarbariansArithmeticTR
+name: Arithmetic for Barbarians
+script: ''
+mesh: m\Text_Octavo_08.nif
+icon: m\Tx_book_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<IMG SRC=\"TR\\tr_barb_arithmetic_01.dds\" WIDTH=\"220\" HEIGHT=\"220\">\r\n<BR>\r\nGorg and Ulf have between them a hoard of many coins. \"There's no need to fight,\" Gorg tells Ulf. \"Let's count the coins, so we will both get our fair share.\" <BR>\r\n<BR>\r\n<IMG SRC=\"TR\\tr_barb_arithmetic_02.dds\" WIDTH=\"220\" HEIGHT=\"220\"><BR>\r\nGorg has 3 coins. Ulf gives him 1 coin. How many coins does Gorg have now? <BR> Answer: ruoF<BR>\r\n<BR>\r\n<IMG SRC=\"TR\\tr_barb_arithmetic_03.dds\" WIDTH=\"220\" HEIGHT=\"220\"><BR>\r\nUlf has 5 coins. Gorg takes 2 of them. How many coins does Ulf have now?<BR> Answer: eerhT\r\n<BR>\r\n<IMG SRC=\"TR\\tr_barb_arithmetic_04.dds\" WIDTH=\"220\" HEIGHT=\"220\"><BR>\r\nThere are 3 coins in each purse. How many coins are there in total? <BR> Answer: xiS\r\n<BR>\r\n<IMG SRC=\"TR\\tr_barb_arithmetic_05.dds\" WIDTH=\"220\" HEIGHT=\"220\"><BR>\r\n6 coins remain on the table. Ulf and Gorg each take half. How many coins does each get? <BR> Answer: eerhT\r\n<BR>\r\n<BR>\r\nThe hoard of coins has been counted. \"Well done!\" says Gorg. \"Now we both have our fair share.\" <BR> <BR> Gorg is happy because he was very clever. But Ulf is neither clever nor happy.  <BR> <BR> It seems bloodshed could not be avoided, after all. <BR> <BR>\r\n<IMG SRC=\"TR\\tr_barb_arithmetic_06.dds\" WIDTH=\"220\" HEIGHT=\"110\"><BR\r\n<BR>\r\n"
+data:
+  weight: 2.0
+  value: 25
+  book_type: Book
+  skill: None
+  enchantment: 0

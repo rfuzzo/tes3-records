@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: a_ex_colonyboat
+name: Rowboat
+script: Colony_first_boat
+mesh: x\Ex_longboat02.NIF

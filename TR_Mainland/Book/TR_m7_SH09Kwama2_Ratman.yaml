@@ -1,0 +1,21 @@
+type: Book
+flags: ''
+id: TR_m7_SH09Kwama2_Ratman
+name: ''
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: ''
+enchanting: ''
+text: |-
+  "Cicero — Today at 19:34
+  Ungofin the Rat King - a diseased bosmer for the notes[19:35]
+  Chose bosmer because of beast tongue
+  I'm tempted to make a rat helmet for him
+  Made from a giant rat
+  What's the claim? I'd totally do the npcing"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

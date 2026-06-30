@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Mw_Fauna_RiversEggs01
+name: Waterstrider Eggs
+script: ''
+mesh: tr\o\tr_cont_riverseggs_01.nif
+encumbrance: 0.0
+container_flags: ORGANIC | IS_BASE
+inventory:
+- - 5
+  - T_Mw_Random_FaunRiverstriderEgg

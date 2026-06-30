@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_Hal_Web00
+name: ''
+script: TR_m3_Hal_Disable_sc
+mesh: f\furn_web00.nif

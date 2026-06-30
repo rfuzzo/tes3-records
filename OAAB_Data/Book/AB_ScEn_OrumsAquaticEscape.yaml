@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: AB_ScEn_OrumsAquaticEscape
+name: Scroll of Orum's Aquatic Escape
+script: ''
+mesh: OAAB\m\scrollCheap.nif
+icon: OAAB\m\scroll_cheap.tga
+enchanting: AB_sc_OrumsAquaticEscape_en
+text: <DIV ALIGN="center"><FONT COLOR="000000" SIZE="2" FACE="Daedric">MAY THE WATER BEAR ME TO SAFETY</FONT><BR>
+data:
+  weight: 0.2
+  value: 90
+  book_type: Scroll
+  skill: None
+  enchantment: 0

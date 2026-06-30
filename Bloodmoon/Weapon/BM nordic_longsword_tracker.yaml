@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: BM nordic_longsword_tracker
+name: Nordic Silver Longsword
+script: ''
+mesh: w\W_Nord_longsword.NIF
+icon: w\Nord_longsword.dds
+enchanting: tracker longsword
+data:
+  weight: 20.0
+  value: 1200
+  weapon_type: LongBladeOneHand
+  health: 850
+  speed: 1.35
+  reach: 1.0
+  enchantment: 100
+  chop_min: 5
+  chop_max: 30
+  slash_min: 5
+  slash_max: 25
+  thrust_min: 5
+  thrust_max: 25
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE | SILVER

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Yne_ClaySpoon
+name: Clay Spoon
+script: ''
+mesh: pi\m\pi_m_yne_c_spoon.nif
+icon: pi\m\pi_m_yne_c_spoon.dds
+data:
+  weight: 0.5
+  value: 2
+  flags: ''

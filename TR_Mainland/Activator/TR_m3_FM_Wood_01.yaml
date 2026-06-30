@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_FM_Wood_01
+name: ''
+script: TR_NecMQ_SeherbalDestrScript
+mesh: x\ex_scrapwood01.nif

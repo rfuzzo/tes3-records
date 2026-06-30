@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_Hlaalu2_FrankWill
+name: Last Will and Testament
+script: ''
+mesh: m\Text_Scroll_open_02.nif
+icon: m\Tx_scroll_open_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n[This legal document is entitled \"The Last Will and Testament of Athires Hlaalu\" and explains in detail what will be done with the estate upon the High Hlaalu's passing and to whom his possessions will be granted.]<BR>"
+data:
+  weight: 0.2
+  value: 5000
+  book_type: Scroll
+  skill: None
+  enchantment: 100

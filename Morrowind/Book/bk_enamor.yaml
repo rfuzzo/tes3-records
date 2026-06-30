@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: bk_enamor
+name: Note to Salyn Sarethi
+script: ''
+mesh: m\Text_Scroll_01.NIF
+icon: m\Tx_scroll_open_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nTo the most highly esteemed Serjo Salyn Sarethi,<BR>\r\n<BR>\r\nA fellow thief stole from you. While the daring of this act recommends the thief, the target of the theft does not. The blade Enamor has been returned to its proper owner with our apologies.<BR>\r\n<BR>\r\nBal Molagmer<BR>\r\n"
+data:
+  weight: 0.2
+  value: 100
+  book_type: Scroll
+  skill: None
+  enchantment: 0

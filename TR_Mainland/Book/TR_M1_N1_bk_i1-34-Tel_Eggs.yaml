@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_M1_N1_bk_i1-34-Tel_Eggs
+name: Dansudipat Eggmine Ledger
+script: ''
+mesh: m\Text_Octavo_07.nif
+icon: m\Tx_book_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nSuldyn Andrano   4 eggs<BR>\r\nTidril Berend    8 eggs<BR>\r\nNidali Berendal   5 eggs<BR>\r\nEthaso Faravel    3 eggs<BR>\r\nTolmese Hlarys   6 eggs<BR>\r\nVabbar Indala    3 eggs<BR>\r\nBedene Merys   2 eggs<BR>\r\nDalamus Uvulas    7 eggs<BR>"
+data:
+  weight: 3.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 20

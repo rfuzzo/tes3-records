@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Nor_Orn_Broadsword_Frostbitt
+name: Frostbitten Sword
+script: ''
+mesh: w\W_Nordic_Broadsword.nif
+icon: w\Tx_Broadsword_Nordic.tga
+enchanting: T_Strike_Frostbitten
+data:
+  weight: 15.0
+  value: 135
+  weapon_type: LongBladeOneHand
+  health: 800
+  speed: 1.25
+  reach: 1.0
+  enchantment: 60
+  chop_min: 6
+  chop_max: 18
+  slash_min: 2
+  slash_max: 18
+  thrust_min: 2
+  thrust_max: 18
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

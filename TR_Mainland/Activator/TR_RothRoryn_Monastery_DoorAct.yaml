@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_RothRoryn_Monastery_DoorAct
+name: ''
+script: TR_RothRoryn_Monastery_Script
+mesh: EditorMarker.nif

@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: TR_m3_OE_TG_KatariahDisp04_L
+name: ''
+script: TR_m3_OE_TG_KatariahDisp02_SCP
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 77
+  color:
+  - 168
+  - 103
+  - 192
+  - 0
+  flags: DYNAMIC

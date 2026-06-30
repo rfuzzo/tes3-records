@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: Furn_shrine_llothis_cure_01
+name: Shrine of St. Llothis
+script: shrineLlothis
+mesh: f\Furn_shrine_llothis_01.nif

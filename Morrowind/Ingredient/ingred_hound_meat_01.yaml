@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_hound_meat_01
+name: Hound Meat
+script: ''
+mesh: n\Ingred_Hound_Meat_01.nif
+icon: n\Tx_houndmeat_01.tga
+data:
+  weight: 1.0
+  value: 2
+  effects:
+  - RestoreFatigue
+  - FortifyFatigue
+  - Reflect
+  - DetectEnchantment
+  skills:
+  - Block
+  - Block
+  - Block
+  - Block
+  attributes:
+  - Strength
+  - Strength
+  - Strength
+  - Strength

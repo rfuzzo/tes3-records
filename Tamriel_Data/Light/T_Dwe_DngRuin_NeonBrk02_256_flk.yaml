@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_Dwe_DngRuin_NeonBrk02_256_flk
+name: ''
+script: ''
+mesh: tr\l\tr_l_dwrv_neon20broke.nif
+icon: ''
+sound: Power light 50
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 256
+  color:
+  - 205
+  - 145
+  - 63
+  - 0
+  flags: DYNAMIC | FLICKER

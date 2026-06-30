@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: AB_sc_AlchemyRecipe02
+name: Recipe - Cheap Restore
+script: ''
+mesh: m\Text_Scroll_02.nif
+icon: m\Tx_scroll_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nMadam Mary Madrigal's Advanced Recipes<BR><BR>\r\n- Cheap Restore -<BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nPotion Effects:<BR>\r\n<BR>\r\nRestore Health<BR>\r\nRestore Fatigue<BR>\r\n<BR>\r\nThis wonderfully simple potion will give you multiple effects using inexpensive ingredients, and is more cost effective than making separate potions.<BR>\r\n<BR>\r\nSaltrice<BR>\r\nChokeweed<BR>\r\nWickwheat<BR>\r\n<BR>\r\n<BR>\r\nSimply mix the ingredients together, make sure they're finely crushed, and distill the whole mixture in your retort for about an hour or so. The timing doesn't really matter -- it's hard to go wrong with this recipe. The resulting potion ought to be a light golden color.<BR>"
+data:
+  weight: 0.5
+  value: 75
+  book_type: Scroll
+  skill: None
+  enchantment: 20

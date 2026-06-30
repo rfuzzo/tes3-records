@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_HandMirror_01
+name: Silver Hand Mirror
+script: ''
+mesh: TR\m\tr_misc_handmirror.nif
+icon: tr\m\tr_m_hmirror.dds
+data:
+  weight: 4.5
+  value: 320
+  flags: ''

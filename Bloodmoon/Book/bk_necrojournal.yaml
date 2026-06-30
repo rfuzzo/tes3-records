@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: bk_necrojournal
+name: Rogue Necromancer's Journal
+script: ''
+mesh: m\Text_Folio_03.NIF
+icon: m\Tx_folio_03.tga
+enchanting: ''
+text: "Weaklings and cowards! I care not what they think of me, or my pursuit of the dark arts. Who are they to dictate the form of magicka I practice? Vvardenfell holds generations of dead just ripe for the picking, and yet they hoard this resource as if it were \"sacred.\" Such nonsense! \r\n<BR>\r\nI have been less successful here on Solstheim than I would have hoped. That cursed magic ice protects many of the corpses, and even I have trouble controlling the savage draugrs. Even so, my work continues, and the apprentices are growing more powerful every day.\r\n<BR>\r\nMy latest research has revealed the location of the Mantle of Woe. It lies within the Rimhull ice cave. Soon I will claim its dark power as my own!\r\n<BR>"
+data:
+  weight: 4.0
+  value: 50
+  book_type: Book
+  skill: None
+  enchantment: 0

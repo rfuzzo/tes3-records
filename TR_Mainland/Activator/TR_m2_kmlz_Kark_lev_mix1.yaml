@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m2_kmlz_Kark_lev_mix1
+name: Dwemer Lever
+script: TR_m2_kmlz_Kark_lever
+mesh: i\act_dwe_lever00.NIF

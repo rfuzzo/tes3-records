@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Imp_Templar_Battleaxe_01
+name: Imperial Templar Battle Axe
+script: ''
+mesh: tr\w\tr_w_temp_battleaxe.nif
+icon: tr\w\tr_w_temp_battleaxe.dds
+enchanting: ''
+data:
+  weight: 30.0
+  value: 440
+  weapon_type: AxeTwoHand
+  health: 2100
+  speed: 1.0
+  reach: 1.0
+  enchantment: 55
+  chop_min: 1
+  chop_max: 39
+  slash_min: 1
+  slash_max: 30
+  thrust_min: 1
+  thrust_max: 5
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

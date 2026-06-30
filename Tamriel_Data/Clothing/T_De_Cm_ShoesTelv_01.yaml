@@ -1,0 +1,20 @@
+type: Clothing
+flags: ''
+id: T_De_Cm_ShoesTelv_01
+name: Common Telvanni Shoes
+script: ''
+mesh: tr\c\tr_c_shoes_telv_01gd.nif
+icon: tr\c\tr_c_shoes_telv_01.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: RightFoot
+  male_bodypart: T_C_DeCmShoeTelv01_F
+  female_bodypart: ''
+- biped_object_type: LeftFoot
+  male_bodypart: T_C_DeCmShoeTelv01_F
+  female_bodypart: ''
+data:
+  clothing_type: Shoes
+  weight: 3.0
+  value: 2
+  enchantment: 10

@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: AB_f_ViciousMuscaria_01
+name: Vicious Chanterelle
+script: ''
+mesh: OAAB\f\f_muscaria02.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - AB_lvl_f_ViMuscaria_01

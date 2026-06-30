@@ -1,0 +1,35 @@
+type: Clothing
+flags: ''
+id: tailored_trousers
+name: Tailored Trousers
+script: ''
+mesh: c\C_M_Pants_Common_4_b_GND.nif
+icon: c\Tx_pants_com04_b.tga
+enchanting: tailored_trousers_EN
+biped_objects:
+- biped_object_type: Groin
+  male_bodypart: c_m_pants_common_4_b_g
+  female_bodypart: c_f_pants_common_4_b_g
+- biped_object_type: LeftUpperLeg
+  male_bodypart: c_m_pants_common_4_b_ul
+  female_bodypart: c_f_pants_common_4_b_ul
+- biped_object_type: RightUpperLeg
+  male_bodypart: c_m_pants_common_4_b_ul
+  female_bodypart: c_f_pants_common_4_b_ul
+- biped_object_type: LeftKnee
+  male_bodypart: c_m_pants_common_4_b_k
+  female_bodypart: c_f_pants_common_4_b_k
+- biped_object_type: RightKnee
+  male_bodypart: c_m_pants_common_4_b_k
+  female_bodypart: c_f_pants_common_4_b_k
+- biped_object_type: LeftAnkle
+  male_bodypart: c_m_pants_common_4_b_a
+  female_bodypart: c_f_pants_common_4_b_a
+- biped_object_type: RightAnkle
+  male_bodypart: c_m_pants_common_4_b_a
+  female_bodypart: c_f_pants_common_4_b_a
+data:
+  clothing_type: Pants
+  weight: 2.0
+  value: 40
+  enchantment: 20

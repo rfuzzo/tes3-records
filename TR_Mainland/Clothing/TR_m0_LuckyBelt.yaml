@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m0_LuckyBelt
+name: Alomon's Lucky Belt
+script: ''
+mesh: c\C_belt_Common_1.NIF
+icon: c\tx_belt_common01.tga
+enchanting: TR_m0_LuckyBelt_en
+biped_objects: []
+data:
+  clothing_type: Belt
+  weight: 1.0
+  value: 150
+  enchantment: 70

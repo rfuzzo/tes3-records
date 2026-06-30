@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_AbMonitor_07
+name: HADRACHS TO MISS NEXT ELECTION
+script: T_ScNews_Bellman_Paper
+mesh: pc\m\pc_text_note_anv_news.nif
+icon: pc\m\pc_text_note_anv_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"PC\\pc_abmonitor.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nHADRACHS TO SIT OUT NEXT ELECTION<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nThe poor fortunes of the Hadrach family have continued, according to a new report from the Monitor's Garden Quarter correspondent, Nalen Tanicus. In a shocking admission, Akaterina Hadrach confessed to being unable to pay off a myriad of debts or retain her household staff. Pressed further, Hadrach admitted that in her current financial straits, with only a Navy pension as income, she will be unable to contest the next royal election or make the customary donative to the Red Treasury.<BR><BR>\r\nThe Hadrach family, one of Anvil's oldest and most prestigious, fell into disfavor with the Queen after the failed coup attempt of 423. Mykol Hadrach, Akaterina Hadrach's father, supported the late Olen Benirus in his ill-conceived attempt to seize control of the kingdom. While Benirus himself was hanged for his treachery, the Queen graciously permitted the Hadrach family to retain their residence in Anvil, demanding only the imprisonment of the elder Hadrach to secure the family's future loyalty.<BR><BR>\r\nWith the Hadrach family out of a future royal bidding contest, the Imperial Navy's unqualified support of the Queen is expected to continue.<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Imp_Cm_Amulet_Flurry
+name: Flurry Amulet
+script: ''
+mesh: pc\c\pc_c_cmamulet_03.nif
+icon: pc\c\pc_c_cmamulet_03.dds
+enchanting: crying eye_enu
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 16
+  enchantment: 15

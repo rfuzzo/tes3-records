@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m1_Voun_Amulet_01
+name: Amulet of Mephala
+script: ''
+mesh: c\Amulet_Expensive_1.NIF
+icon: c\tx_amulet_expens1.tga
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 250
+  enchantment: 120

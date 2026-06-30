@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: bk_AuraneFrernis1
+name: Aurane Frernis' Recipies
+script: ''
+mesh: m\Text_Scroll_01.NIF
+icon: m\Tx_scroll_open_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe Alchemical Recipes<BR>\r\nof Aurane Frernis<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nThe most common potion, restore health, can be made from ingredients native to Vvardenfell. Any combination of Marshmerrow, wickwheat, and resin will work. If properly prepared, there are no ill effects.<BR>\r\n<BR>\r\nAnother common potion is that of restore fatigue. This can be made from scrib jelly and scuttle. Using hound meat instead of jelly may make a stronger potion, but the hound meat often spoils and makes the potion effective but undrinkable. Customers often prefer potions that taste better to ones that are only slightly more effective.<BR>\r\n<BR>\r\n"
+data:
+  weight: 0.2
+  value: 100
+  book_type: Scroll
+  skill: None
+  enchantment: 0

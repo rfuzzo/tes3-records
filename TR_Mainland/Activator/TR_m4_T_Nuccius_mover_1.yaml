@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_T_Nuccius_mover_1
+name: ''
+script: TR_m4_T_Nuccius_mover_1_sc
+mesh: EditorMarker.NIF

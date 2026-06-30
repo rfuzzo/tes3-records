@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_ImperialKitchenTR_V2
+name: The Imperial Kitchen II
+script: ''
+mesh: TR\m\TR_book_closed_i08_AY.nif
+icon: TR\m\TR_book_closed_i08_AY.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe Imperial Kitchen II<BR>\r\nby Arruntius Horatia<BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nImperial Dessert<BR>\r\n<BR>\r\n2 handfuls of dried dates\r\n1/2 handful of stone-pine kernels\r\na pinch of salt\r\n1 teaspoon of pepper\r\n1 cup of red wine\r\n3 teaspoons honey<BR>\r\n<BR>\r\nTake the stones out of the dates and fill them with the stone-pine kernels and pepper. Sprinkle the salt on the dates and stew them in a mixture of wine and honey over a low fire. Cook until the skin starts to peel.<BR>\r\n<BR>\r\nImperial Veal<BR>\r\n<BR>\r\nVeal\r\n2 handfuls of raisins\r\n1 teaspoon of honey\r\n2 teaspoons of vinegar\r\n3 cups of red wine\r\n11/2 cups of oil\r\n1 teaspoon of salt\r\na little pepper\r\n2 onions<BR>\r\n<BR>\r\nFry the veal in a pot filled with oil until it is well done.\r\nMix the raisins, wine, vinegar, honey, oil, cut up onions and spices in a pan and boil to make a sauce. Baste the meat in the sauce and cook for a short time.<BR>"
+data:
+  weight: 2.0
+  value: 30
+  book_type: Book
+  skill: None
+  enchantment: 100

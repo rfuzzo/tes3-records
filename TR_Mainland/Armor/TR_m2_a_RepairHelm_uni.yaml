@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: TR_m2_a_RepairHelm_uni
+name: Dwemer Mechanic's Headgear
+script: ''
+mesh: a\A_Dwemer_Helmet.NIF
+icon: a\TX_Dwemer_helmet.tga
+enchanting: TR_m2_en_RepairHelm
+biped_objects:
+- biped_object_type: Head
+  male_bodypart: a_dwemer_helmet
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 10.0
+  value: 500
+  health: 100
+  enchantment: 0
+  armor_rating: 10

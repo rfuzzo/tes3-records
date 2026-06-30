@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_HerHandsTR
+name: Her Hands
+script: ''
+mesh: TR\m\TR_book_closed_i12_AY.nif
+icon: TR\m\TR_book_closed_i12_AY.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nHer Hands<BR> \r\nby Relin Sarovil <BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nThe Hands of Almalexia are undoubtedly one of the most powerful elite groups in all of Tamriel. Their numbers are few, but few are the number that can endure the grueling and intense training required to join their ranks. While these masterful holy warriors are, like all other Ordinators, at the disposal of the entire Tribunal, they are only found in direct service to the Mother; the Master and the Mystery have other agents to secure their interests.<BR> \r\n<BR>\r\nThe Hands are culled from the most able and virtuous soldiers of Morrowind, although most are Indoril nobles who have already long proven strength of both arms and faith as Ordinators. A candidate must have great experience with a variety of different weapons and fighting styles, as well as a profound understanding of a number of schools of magicka. An ebony scimitar is the traditional weapon of Her Hands, but each Hand continually hones their skills with a multitude of armaments, as to better serve the Mother. These keepers of the peace are garbed in a suit of Her Hands armor, given by Almalexia herself to bless the wearer with a number of strengths and resistances.<BR> \r\n<BR>\r\nThe battle prowess of each individual Hand is nearly unmatched. Save for a few ancient warlocks and the Tribunal itself, the Hands of Almalexia is among the deadliest groups alive, unmatched in fighting and priestly prowess. While they generally perform as the personal guards of Almalexia, they are also known to carry out the goddess' will and act as enforcers.<BR> \r\n<BR>\r\nSome years ago, six High Ordinators began to secretly question Tribunal doctrine and express heresies akin to those of the Dissident Priests. They were betrayed while attempting to enlarge their number among the lower Ordinators. Mournhold was rocked by scandal and the goddess saw that these blasphemers had to be reckoned with in public. Officially, they were to be banished from the city, they were free to go if they could pass unmolested through the west gate. The heretics, suspecting that they would have to fight their way through its small garrison, approached the west gate fully armed. After walking through streets lined by watching crowds they found the guards had been replaced by a single Hand. They charged, hoping to overwhelm through sheer numbers, and despite their own skill were swiftly cut down one after the other. The Hand, having exercised Almalexia's power, returned to the temple. The west gate was closed. The Hands continue to exercise the goddess' will, serving honorably as our guardians and keeping us safe from harm and heresy.<BR>\r\n"
+data:
+  weight: 1.0
+  value: 25
+  book_type: Book
+  skill: None
+  enchantment: 100

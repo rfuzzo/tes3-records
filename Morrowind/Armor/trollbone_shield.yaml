@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: trollbone_shield
+name: Nordic Trollbone Shield
+script: ''
+mesh: a\TowerShield_Trollbone.NIF
+icon: a\tx_towershield_trollbone.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: Shield
+  male_bodypart: towershield_trollbone
+  female_bodypart: ''
+data:
+  armor_type: Shield
+  weight: 16.0
+  value: 78
+  health: 360
+  enchantment: 400
+  armor_rating: 18

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_Narsis_MH_HlaaluRegister
+name: Hlaalu Register
+script: ''
+mesh: m\Text_Octavo_04.nif
+icon: m\Tx_octavo_04.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\n[This register records details of various dealings made by House Hlaalu.]\r\n<BR>"
+data:
+  weight: 3.0
+  value: 5
+  book_type: Book
+  skill: None
+  enchantment: 100

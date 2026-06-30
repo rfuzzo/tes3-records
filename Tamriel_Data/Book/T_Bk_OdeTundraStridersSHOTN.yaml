@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_OdeTundraStridersSHOTN
+name: Ode To The Tundrastriders
+script: ''
+mesh: Sky\m\Sky_Book_Saga_02.nif
+icon: Sky\m\Tx_Book_Saga_02.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nOde To The Tundrastriders<BR>\r\nby Unknown<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nOh mighty tundrastrider!<BR>\r\n<BR>\r\nHow you and your mighty tusked beast silhouette against the great orange expanse.<BR>\r\n<BR>\r\nThundering footsteps herald your herd. Man and beast blazing trail together.<BR>\r\n<BR>\r\nOne in nature, each relying upon the other, more than just man and beast, but equals who need one another to survive.<BR>\r\n<BR>\r\nHow I long to run across the tundra in their mighty wake.<BR>\r\n<BR>\r\nThat would truly be my greatest honor.<BR>\r\n<BR>\r\nThe morning would be spent gathering dyes to paint our mammoths and then carve the fiercest images into their tusks.<BR>\r\n<BR>\r\nThen it would be time for the skeever hunt. Our clubs would rain down upon the rat pests smashing the life out of them.<BR>\r\n<BR>\r\nIn the evening could sit around the campfire and I would regale those nearby with songs of their majesty and grace.<BR>\r\n<BR>\r\nThey would let me sample of the mammoth's cheese. A food so foul yet with healing properties so great.<BR>\r\n<BR>\r\nWe'd snack on the roasted skeever we'd freshly caught that day before laying under the stars to sleep.<BR>\r\n<BR>\r\nI'd slowly fade to dream nested in the radiating heat of mammoth fur. Its cold resisting properties keeping me snug.<BR>\r\n<BR>\r\nWhat a grand time we would have.<BR>\r\n<BR>\r\nUnknown<BR>\r\n<BR>"
+data:
+  weight: 3.0
+  value: 25
+  book_type: Book
+  skill: None
+  enchantment: 0

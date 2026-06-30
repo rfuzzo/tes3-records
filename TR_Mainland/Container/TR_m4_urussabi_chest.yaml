@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: TR_m4_urussabi_chest
+name: Large Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 2022
+  - Gold_001
+- - 11
+  - food_kwama_egg_01
+- - 20
+  - ingred_hackle-lo_leaf_01

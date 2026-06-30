@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m3_ET_PrisonSBlo
+name: Loose Stone
+script: ''
+mesh: f\Furn_imp_stoneblock_01.nif
+encumbrance: 0.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - TR_m3_OE_sc_ETprisonpoem01tr

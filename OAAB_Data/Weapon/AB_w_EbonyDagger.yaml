@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_EbonyDagger
+name: Ebony Dagger
+script: ''
+mesh: OAAB\w\ebony_dagger.nif
+icon: OAAB\w\ebony_dagger.dds
+enchanting: ''
+data:
+  weight: 5.0
+  value: 5000
+  weapon_type: ShortBladeOneHand
+  health: 1200
+  speed: 2.5
+  reach: 1.0
+  enchantment: 40
+  chop_min: 7
+  chop_max: 17
+  slash_min: 7
+  slash_max: 17
+  thrust_min: 8
+  thrust_max: 18
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

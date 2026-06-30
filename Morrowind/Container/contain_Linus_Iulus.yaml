@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: contain_Linus_Iulus
+name: Corpse
+script: Sound_Flies
+mesh: o\contain_corpse20.NIF
+encumbrance: 120.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - silver staff of shaming
+- - 1
+  - Linus_Iulus_Maran Amulet
+- - 1
+  - Linus_Iulus_Stendarran_Belt
+- - 1
+  - ingred_bonemeal_01

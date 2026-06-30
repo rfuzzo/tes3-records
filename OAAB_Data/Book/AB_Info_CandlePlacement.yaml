@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: AB_Info_CandlePlacement
+name: InfoBox - Candle Placement
+script: ''
+mesh: OAAB\h\marker_info.nif
+icon: OAAB\h\marker_info.tga
+enchanting: ''
+text: "Objects in the vanilla engine are limited to rendering light from 8 sources. After that, additional sources are ignored. Candles can quickly hit this limit.\r\n\r\nOAAB_Data has static versions of some lights to offset this limitation. They will have the same ID except \"AB_Furn_\" instead of \"AB_Light_\". It is recommended that only a couple candles in a cluster are actual light objects. Artificial light sources can be used to create the desired lighting. In this area, only one candle in a cluster is a light source."
+data:
+  weight: 0.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 100

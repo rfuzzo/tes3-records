@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_HagiographaStridentCoastPC
+name: 'Hagiographa: The Strident Coast'
+script: ''
+mesh: pc\m\pc_bk_book_17.nif
+icon: pc\m\pc_bk_book_17.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nHagiographa<BR>\r\nSaints of the Strident Coast<BR><BR>\r\n<BR>\r\n<DIV ALIGN=\"LEFT\">\r\nSaint Naharine<BR>\r\nA shield-maiden of the earliest Shore-King dynasty, Naharine became the sworn protector of the village which would become the great city of Anvil. She is honored in that realm as the custodian of its many waterways.\r\n<BR><BR>\r\nSaint Aberdar<BR>\r\nAberdar, a merchant of the early Estates, established the run of the Gold Road from Cyrodiil City to the shores of the Abecean, and is today honored by merchants and traders who ply that route.\r\n<BR><BR>\r\nSaint Bendu<BR>\r\nAs West King of Anvil in the First Era, Bendu Olo forged an alliance with the elven hero-god Syrabane against the Sload, uniting half a hundred peoples beneath the banners of the All Flags Navy and toppling the first Pillar of Thras. He is honored today as a patron of diversity, sacred pacts, and righteous vengeance.\r\n<BR><BR>\r\nSaint Milica<BR>\r\nOriginally the patron saint of Mischarstette and the Shore-King dynasty, Milica is now a good-luck saint presiding over the reefs and isles of the inner Abecean Sea. She protects sailors and fishermen from wreckage, dreugh, and wild animals.\r\n<BR><BR>\r\nSaint Al-Khered\r\nAl-Khered was a warrior of the western Nedic tribes in the earliest days of the Alessian Rebellion. She is the patron of Nibenese merchants who do business in Colovia.\r\n<BR><BR>\r\nSaint Laeca<BR>\r\nLaeca witnessed an incarnation of Dibella while wandering barefoot on the shores of the Abecean Sea. The avatar created for her a series of ivory sculptures of great beauty from sea foam. Patron of sculptors.\r\n<BR><BR>\r\nSaint Amiel<BR>\r\nAdmiral Amiel Richton served Emperor Tiber Septim in his wars of conquest, commanding the Imperial Navy through many trials. He is the patron of the modern West Navy, the oldest and most storied of the cardinal fleets.\r\n<BR>"
+data:
+  weight: 3.0
+  value: 50
+  book_type: Book
+  skill: None
+  enchantment: 0

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: Colony Flora_tree_BM_snow_05_S1
+name: ''
+script: Colony_D_1_I
+mesh: f\Flora_tree_BM_snow_05.nif

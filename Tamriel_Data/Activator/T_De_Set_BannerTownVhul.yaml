@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_De_Set_BannerTownVhul
+name: Vhul
+script: OutsideBanner
+mesh: TR\f\tr_banner_vhul.nif

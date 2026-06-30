@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: bk_fryssajournal
+name: Journal of Fryssa
+script: ''
+mesh: m\Text_Folio_03.NIF
+icon: m\Tx_folio_03.tga
+enchanting: ''
+text: "\r\n<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nI've done it! The enchantment is now complete. The robe, which I have named Whitewalker, can turn the wearer into the very essence of snow. Kick me out of the Mages Guild, will they? Now I'll show them all! <BR>\r\n<BR>"
+data:
+  weight: 4.0
+  value: 50
+  book_type: Book
+  skill: None
+  enchantment: 0

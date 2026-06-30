@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: TR_m1_ingred_ceph_shell_uni
+name: Ruined Cephalopod Shell
+script: ''
+mesh: TR\n\TR_ing_ceph_shell.NIF
+icon: TR\n\TR_Ing_ceph_shell.dds
+data:
+  weight: 1.0
+  value: 0
+  effects:
+  - DrainFatigue
+  - DrainHealth
+  - None
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

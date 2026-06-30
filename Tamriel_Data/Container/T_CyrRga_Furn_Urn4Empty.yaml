@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: T_CyrRga_Furn_Urn4Empty
+name: Urn
+script: ''
+mesh: hf\o\hf_cont_rga_urn04.nif
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory: []

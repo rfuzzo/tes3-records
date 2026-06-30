@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_HistoryAlessianOrderPC
+name: History of the Alessian Order
+script: ''
+mesh: pc\m\pc_bk_book_38.nif
+icon: pc\m\pc_bk_book_38.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>History of the Alessian Order<BR>\r\n\r\n<BR>\r\n\r\n---<BR>\r\n\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n\r\nPromulgated under the Authority of the Imperial Geographical Society<BR>\r\n\r\n<BR>\r\n\r\n<BR>\r\n\r\n... this monotheistic religion was once very popular, but today only remnants of its faith remain. It started in the coastal jungle of what is now the Colovian west, where a prophet named Marukh, who had spoken to the \"Enlightened One,\" Saint Alessia, began to question the validity of Elven rule. These sentiments led to an increasingly abstract and unknowable depiction of a Single God. The Alessians were wise enough to realize that they had to incorporate the ancient polytheistic elements into their new religion for it to find a wide acceptance. The divine aspects worshipped by the various humans and Aldmeri were recognizable in the guise of the myriad saints and spirits of the evolving Alessian canon. It wasn't long before the Order was the authority on every religion in Tamriel, and their power grew to earthshaking proportions. Nearly a third of the First Era passed under their theocratic rule. When its priesthood had become too widespread to support itself, the Order began to fight among itself. With the severance of the territories of West Cyrodiil from the Empire, too much money and land had been lost. The War of Righteousness broke out, and the Order which had almost ruled the world undid itself in a ten year span.<BR>\r\n\r\n"
+data:
+  weight: 2.0
+  value: 40
+  book_type: Book
+  skill: None
+  enchantment: 0

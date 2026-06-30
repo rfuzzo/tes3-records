@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: AB_IngCrea_GuarMeat_01
+name: Guar Meat
+script: ''
+mesh: OAAB\n\rem_guar_meat.nif
+icon: OAAB\n\rem_guar_meat.dds
+data:
+  weight: 1.0
+  value: 5
+  effects:
+  - RestoreFatigue
+  - RestoreHealth
+  - RestoreAttribute
+  - WeaknessToPoison
+  skills:
+  - None
+  - None
+  - Block
+  - None
+  attributes:
+  - None
+  - None
+  - Strength
+  - None

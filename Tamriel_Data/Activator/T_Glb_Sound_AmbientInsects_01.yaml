@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Glb_Sound_AmbientInsects_01
+name: TR_Sound_AmbientInsects
+script: T_ScSound_AmbientInsects
+mesh: EditorMarker.NIF

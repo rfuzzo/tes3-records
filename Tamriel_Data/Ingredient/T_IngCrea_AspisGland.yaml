@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_AspisGland
+name: Aspis Venom Gland
+script: ''
+mesh: pc\n\pc_ing_poisdmaspis.nif
+icon: pc\n\pc_ing_poisdmaspis.dds
+data:
+  weight: 0.2
+  value: 12
+  effects:
+  - Poison
+  - DamageFatigue
+  - FortifyAttribute
+  - DetectKey
+  skills:
+  - None
+  - None
+  - Block
+  - None
+  attributes:
+  - None
+  - None
+  - Luck
+  - None

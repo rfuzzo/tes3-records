@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: dagoth destroy detector
+name: ''
+script: DagothDoorDetector
+mesh: f\furn_dwrv_bucket00.nif

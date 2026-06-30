@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_w_IronArrow10x
+name: Iron Arrow (10)
+script: AB_QuiverIron10x_s
+mesh: OAAB\w\quiver_iron.nif
+icon: w\tx_arrow_iron.dds
+data:
+  weight: 1.0
+  value: 10
+  flags: ''

@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Imp_Cm_Amulet_Stendarran
+name: Stendarran Beads
+script: ''
+mesh: pc\c\pc_c_cmamulet_04.nif
+icon: pc\c\pc_c_cmamulet_04.dds
+enchanting: first barrier_en
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 21
+  enchantment: 15

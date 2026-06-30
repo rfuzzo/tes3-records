@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_CyrRga_Furn_Ba1PosGC
+name: Basket
+script: ''
+mesh: hf\o\hf_cont_rga_basket01.nif
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - 7
+  - T_Cyr_Random_PosGC

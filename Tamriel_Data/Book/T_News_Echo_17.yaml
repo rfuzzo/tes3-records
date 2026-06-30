@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Echo_17
+name: YET ANOTHER PROCONSUL MURDERED
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_text_note_nar_news.nif
+icon: tr\m\tr_text_note_nar_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\tr_echo_512_256.dds\" WIDTH=\"348\" HEIGHT=\"168\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nYET ANOTHER PROCONSUL MURDERED<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\n\"When will the chaos end?\" Narsis asks, as yet another Imperial Proconsul, Galvus Pottreid, has been murdered within the Council Quarter Consulate. This tragedy follows the assassination of the previous proconsul, the late Carasa Avidia, and Pottreid's swift appointment to the position of the Imperial representative of Morrowind -- what does this mean for Imperial power in Narsis?<BR><BR>\r\nImperial officials have yet to disclose information regarding the murder, though it is suspected that the two tragedies may have the same perpetrator, one with some kind of vendetta against the Empire. The city's Imperial citizens are in an uproar, with one resident stating \"I'm afraid. If they can kill two Proconsuls, then nobody is safe!\". It is currently uncertain if and when another Imperial Proconsul will be sent from Cyrodiil to represent Morrowind -- some doubt that Narsis will continue to be the home of the Empire in the province.<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

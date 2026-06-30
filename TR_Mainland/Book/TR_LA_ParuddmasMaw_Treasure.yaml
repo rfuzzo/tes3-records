@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_LA_ParuddmasMaw_Treasure
+name: Treasure
+script: ''
+mesh: tr\tr_note_pin.nif
+icon: default icon.dds
+enchanting: ''
+text: Some treasure gathered from nearby shipwrecks
+data:
+  weight: 0.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 0

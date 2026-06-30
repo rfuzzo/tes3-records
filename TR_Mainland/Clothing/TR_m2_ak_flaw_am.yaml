@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m2_ak_flaw_am
+name: Unusual Amulet
+script: TR_m2_ak_flaw_amuletscript
+mesh: c\Amulet_Expensive_1.NIF
+icon: c\tx_amulet_expens1.tga
+enchanting: TR_m2_ak_flaw_spell
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 70
+  enchantment: 150

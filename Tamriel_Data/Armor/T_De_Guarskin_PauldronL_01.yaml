@@ -1,0 +1,22 @@
+type: Armor
+flags: ''
+id: T_De_Guarskin_PauldronL_01
+name: Guar Hide Left Pauldron
+script: ''
+mesh: tr\a\tr_a_guarskin_cl.nif
+icon: tr\a\tr_a_guarskin_pauldron.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: LeftPauldron
+  male_bodypart: T_A_DeGuarSkinPauldr01_Cl
+  female_bodypart: ''
+- biped_object_type: LeftUpperArm
+  male_bodypart: T_A_DeGuarSkinPauldr01_UA
+  female_bodypart: ''
+data:
+  armor_type: LeftPauldron
+  weight: 6.5
+  value: 14
+  health: 80
+  enchantment: 10
+  armor_rating: 8

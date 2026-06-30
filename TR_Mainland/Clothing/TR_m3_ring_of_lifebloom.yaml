@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m3_ring_of_lifebloom
+name: Ring of Lifebloom
+script: ''
+mesh: pc\c\pc_c_nib_ring_exp01.nif
+icon: pc\c\pc_c_nib_ring_exp01.dds
+enchanting: TR_m3_ring_of_lifebloom_en
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 300
+  enchantment: 0

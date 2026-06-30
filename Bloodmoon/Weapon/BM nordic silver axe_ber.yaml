@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: BM nordic silver axe_ber
+name: Berserker Silver Axe
+script: ''
+mesh: w\W_Nord_waraxe.NIF
+icon: w\Nord_waraxe.dds
+enchanting: bloodletting_en
+data:
+  weight: 32.0
+  value: 1000
+  weapon_type: AxeOneHand
+  health: 2000
+  speed: 1.25
+  reach: 1.0
+  enchantment: 65
+  chop_min: 1
+  chop_max: 35
+  slash_min: 1
+  slash_max: 22
+  thrust_min: 1
+  thrust_max: 5
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE | SILVER

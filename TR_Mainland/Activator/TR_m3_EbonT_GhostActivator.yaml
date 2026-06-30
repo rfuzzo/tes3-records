@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m3_EbonT_GhostActivator
+name: ''
+script: TR_m3_EbonT_GhostControlSCP
+mesh: EditorMarker.NIF

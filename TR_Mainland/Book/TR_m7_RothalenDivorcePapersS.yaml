@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_RothalenDivorcePapersS
+name: Rothalen Divorce Papers
+script: ''
+mesh: m\Text_paper_roll_01.nif
+icon: m\Tx_paper_roll_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<BR>\r\n[This scroll contains an agreement that the marriage between Ulyne and Myron Rothalen will be disbanded as soon as both parties sign this agreement. Myron Rothalen has signed these papers.]<BR>\r\n<BR>"
+data:
+  weight: 0.2
+  value: 10
+  book_type: Scroll
+  skill: None
+  enchantment: 100

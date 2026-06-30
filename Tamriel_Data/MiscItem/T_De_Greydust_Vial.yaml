@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_Greydust_Vial
+name: Empty Vial
+script: ''
+mesh: tr\m\tr_flask_greydust_emp.nif
+icon: tr\m\tr_m_greydust_02.dds
+data:
+  weight: 1.0
+  value: 1
+  flags: ''

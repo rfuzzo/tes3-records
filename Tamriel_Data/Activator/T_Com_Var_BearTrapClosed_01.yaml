@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Com_Var_BearTrapClosed_01
+name: Bear Trap (Closed)
+script: T_ScObj_BearTrap_Clo
+mesh: tr\f\tr_act_beartrap_c_01.nif

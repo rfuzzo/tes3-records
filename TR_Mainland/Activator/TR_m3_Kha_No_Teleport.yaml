@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_Kha_No_Teleport
+name: No Teleport
+script: TR_m3_Kha_Disable_Teleport
+mesh: EditorMarker.NIF

@@ -1,0 +1,43 @@
+type: Container
+flags: ''
+id: com_chest_02_v_armor04
+name: Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - -1
+  - bonemold_shield
+- - -1
+  - bonemold_towershield
+- - -1
+  - bonemold_tshield_redoranguard
+- - -1
+  - chitin guantlet - right
+- - -1
+  - bonemold_greaves
+- - -1
+  - bonemold_gah-julan_pauldron_r
+- - -1
+  - bonemold_pauldron_r
+- - -1
+  - bonemold_gah-julan_pauldron_l
+- - -1
+  - bonemold_pauldron_l
+- - -1
+  - chitin cuirass
+- - -1
+  - bonemold_gah-julan_cuirass
+- - -1
+  - chitin_mask_helm
+- - -1
+  - chitin_watchman_helm
+- - -1
+  - dragonscale_helm
+- - -1
+  - bonemold_chuzei_helm
+- - -1
+  - bonemold_gah-julan_helm
+- - -1
+  - bonemold_helm

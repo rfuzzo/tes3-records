@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: bk_storagenotice
+name: Notice
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "Storage<BR>\r\n<BR>\r\nKeep Out!<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

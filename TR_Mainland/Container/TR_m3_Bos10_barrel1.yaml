@@ -1,0 +1,21 @@
+type: Container
+flags: ''
+id: TR_m3_Bos10_barrel1
+name: Barrel
+script: ''
+mesh: o\Contain_barrel_01.NIF
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 10
+  - food_kwama_egg_02
+- - 2
+  - ingred_bread_01
+- - 5
+  - ingred_comberry_01
+- - 20
+  - ingred_crab_meat_01
+- - 20
+  - ingred_hackle-lo_leaf_01
+- - 3
+  - ingred_moon_sugar_01

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_SetAirship_Engine_01
+name: Sky Skiff Engine
+script: T_ScObj_AirSkiffEngine_01
+mesh: pc\f\pc_f_airskiff_motor_01.nif

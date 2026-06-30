@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_q_DolvysPoem
+name: Poem for Drolora
+script: ''
+mesh: m\Text_Parchment_02.NIF
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nPoem for Drolora <br>\r\n<br>\r\nOh you, who live sheltered by the Warrior,<br>\r\nwho live all your lives in his shadow.<br>\r\nHave you seen your reflection in the river of glass?<br>\r\nAnd did you know that my heart was there,<br>\r\ndreaming, beating beneath the waves?<br>\r\n<br>\r\nOh, you are more beautiful than jewels,<br>\r\nlovelier than river pearls, silver, or gold.<br>\r\nYour eyes are like rubies, aflame<br>\r\nmy humble heart has never seen such treasure.<br>\r\n<br>\r\nOh, what happens when love crosses rivers?<br>\r\nI fear the answer will not be nice.<br>\r\nDoes it wither or fade? Does it emerge, triumphant?<br>\r\nOr is it stopped in its tracks by the fearsome Warrior?<br>\r\n<br>\r\nOh, have you ever faced alone such a wicked guardian?<br>\r\nAnd have you crossed the river, well armed and armored,<br>\r\nAnd have dreadful events forced you to drop your weapons?<br>\r\nPlease forgive me, beloved Drolora.<br>\r\n<br>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: AB_o_ComRchHutchEmpty
+name: Hutch
+script: ''
+mesh: OAAB\o\ComRchHutch.nif
+encumbrance: 75.0
+container_flags: IS_BASE
+inventory: []

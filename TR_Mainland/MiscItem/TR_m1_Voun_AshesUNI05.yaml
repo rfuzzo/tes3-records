@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m1_Voun_AshesUNI05
+name: Ashes of Sulori Veno
+script: ''
+mesh: n\Ingred_Vampire_Dust_01.nif
+icon: n\Tx_vampire_dust_01.tga
+data:
+  weight: 2.0
+  value: 0
+  flags: ''

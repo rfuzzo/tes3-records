@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m4_TG_ElsweyrSmuggler_02
+name: ''
+script: TR_m4_TG_ElsweyrSmuggle_scp
+mesh: x\ex_ship_plank.nif

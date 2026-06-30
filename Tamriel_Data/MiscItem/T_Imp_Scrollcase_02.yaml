@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_Scrollcase_02
+name: Leather Scroll Case
+script: ''
+mesh: pc\m\PC_misc_scrollcase02.nif
+icon: pc\m\pc_misc_scrollcase02.dds
+data:
+  weight: 2.0
+  value: 15
+  flags: ''

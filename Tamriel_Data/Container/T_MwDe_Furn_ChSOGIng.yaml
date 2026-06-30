@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_MwDe_Furn_ChSOGIng
+name: Ornate Small Chest
+script: ''
+mesh: TR\o\TR_cont_dae_amulet.nif
+encumbrance: 10.0
+container_flags: IS_BASE
+inventory:
+- - 5
+  - T_Mw_Random_Ingredient

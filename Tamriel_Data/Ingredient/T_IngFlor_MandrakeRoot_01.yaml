@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_MandrakeRoot_01
+name: Mandrake Root
+script: ''
+mesh: pc\n\pc_ing_mandrake.nif
+icon: pc\n\pc_tx_ingred_mandrake.dds
+data:
+  weight: 0.1
+  value: 2
+  effects:
+  - CureCommonDisease
+  - ResistPoison
+  - DamageAttribute
+  - FortifyAttribute
+  skills:
+  - None
+  - None
+  - Block
+  - Block
+  attributes:
+  - None
+  - None
+  - Agility
+  - Willpower

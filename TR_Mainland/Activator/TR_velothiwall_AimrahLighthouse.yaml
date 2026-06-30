@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_velothiwall_AimrahLighthouse
+name: ''
+script: TR_Aimrah_6_SecretWall2
+mesh: i\in_velothismall_wall_02.nif

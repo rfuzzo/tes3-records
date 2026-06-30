@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3-ET2_bk_notice
+name: Visitors' Notice
+script: ''
+mesh: m\Text_Parchment_02.NIF
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"Center\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nGracious visitors to the Ebon Tower\r\n<BR>\r\n<BR>\r\nThe library and royal feasthall are open to the public. <BR>\r\n<BR>\r\nVisitors are asked to refrain from touching or exploiting our exotic floral collection.<BR>\r\n"
+data:
+  weight: 0.2
+  value: 5
+  book_type: Scroll
+  skill: None
+  enchantment: 0

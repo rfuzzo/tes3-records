@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m7_Ns_IL_4_Package
+name: '''Prulius Sudatian'' Package'
+script: TR_m7_Ns_IL_4_PackageSc
+mesh: m\dwemer_satchel00.NIF
+icon: m\misc_dwe_satchel00.dds
+data:
+  weight: 15.0
+  value: 0
+  flags: ''

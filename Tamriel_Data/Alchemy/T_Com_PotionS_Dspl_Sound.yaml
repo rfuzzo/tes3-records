@@ -1,0 +1,28 @@
+type: Alchemy
+flags: ''
+id: T_Com_PotionS_Dspl_Sound
+name: Spoiled Potion of Dispel
+script: ''
+mesh: m\Misc_Potion_Fresh_01.nif
+icon: m\Tx_potion_fresh_01.tga
+effects:
+- magic_effect: Dispel
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 1
+  min_magnitude: 1
+  max_magnitude: 1
+- magic_effect: Sound
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 40
+  min_magnitude: 15
+  max_magnitude: 15
+data:
+  weight: 1.0
+  value: 35
+  flags: ''

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2_q_35_questions
+name: Ranosa Orrels' notes
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>\r\n- The bloodline they belong to: which are their powers? do weaknesses vary within clans and if so which are they?\r\n<BR>\r\n- Resistance to basic, unenchanted weapons exhibited by all known species: how? limitations?\r\n<BR>\r\n- This is not typical of the undead: are vampires truly undead?\r\n<BR>\r\n- Possible cause of resistances from Daedric origin: are they fully materialized in Mundus, or still linked to Coldharbour? how are their relations with creatures from Daedric planes?\r\n<BR>\r\n- Enquire on feeding habits, e.g. thirst for blood: is it ever sated? are powers affected when starving?\r\n<BR>\r\n- Assuming sunlight-induced candescence is confirmed: any effective protections, and to what extent?\r\n<BR>\r\n<BR>"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

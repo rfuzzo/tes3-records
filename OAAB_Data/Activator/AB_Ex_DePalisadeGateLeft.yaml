@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Ex_DePalisadeGateLeft
+name: Gate
+script: AB_DePalisadeGate_s
+mesh: OAAB\x\dePalisadeGateLeft.nif

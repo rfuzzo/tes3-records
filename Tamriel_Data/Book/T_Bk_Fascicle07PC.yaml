@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_Fascicle07PC
+name: Fascicle 28
+script: ''
+mesh: pc\m\PC_bk_Book_10.nif
+icon: pc\m\pc_bk_book_10.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe Testament of the Church-Mothers<BR>\r\nFascicle 28<BR>\r\nEnter, Mercy<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\n28. The Last of the great spirits was Stendarr, who was born of compassion, and was compassion, and moved the others to feel compassion. His, too, was the sphere of mercy, though there was little use of mercy in those Hours, the first of Hours. But Stendarr was ever concerned with the fate of the lesser, the spirits who knew not growth, and moved others to pity them. But his part in the early days was small, and he spoke little, saving his voice for the coming hours, when there was much to regret, and wherever men suffered they cried out for the hand of Stendarr. <BR>\r\n<BR>"
+data:
+  weight: 4.0
+  value: 300
+  book_type: Book
+  skill: HandToHand
+  enchantment: 0

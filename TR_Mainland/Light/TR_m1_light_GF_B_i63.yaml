@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: TR_m1_light_GF_B_i63
+name: ''
+script: ''
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 128
+  color:
+  - 44
+  - 105
+  - 220
+  - 0
+  flags: PULSE_SLOW

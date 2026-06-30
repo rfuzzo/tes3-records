@@ -1,0 +1,23 @@
+type: Clothing
+flags: ''
+id: T_Imp_Et_RobeNib_03
+name: Extravagant Hierophant Robe
+script: ''
+mesh: pc\c\pc_c_nib_robe_13gd.nif
+icon: pc\c\pc_nib_c_robe_13.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_C_ImpEtRobeNib03_C
+  female_bodypart: ''
+- biped_object_type: LeftAnkle
+  male_bodypart: ''
+  female_bodypart: ''
+- biped_object_type: RightAnkle
+  male_bodypart: ''
+  female_bodypart: ''
+data:
+  clothing_type: Robe
+  weight: 3.0
+  value: 40
+  enchantment: 200

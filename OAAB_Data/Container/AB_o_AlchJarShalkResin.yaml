@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: AB_o_AlchJarShalkResin
+name: Jar of Shalk Resin
+script: ''
+mesh: OAAB\o\alchJarShalkResin.nif
+encumbrance: 0.0
+container_flags: ORGANIC | IS_BASE
+inventory:
+- - 5
+  - AB_lvl_IngShalkResin

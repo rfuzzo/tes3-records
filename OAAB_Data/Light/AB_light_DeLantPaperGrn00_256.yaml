@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: AB_light_DeLantPaperGrn00_256
+name: ''
+script: ''
+mesh: OAAB\l\deLantPaperGrn_00.nif
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 256
+  color:
+  - 5
+  - 225
+  - 75
+  - 0
+  flags: DYNAMIC | FLICKER_SLOW

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_De_Set_BannerTownGuarFarm_01
+name: Tel Ouada Guar Farm
+script: OutsideBanner
+mesh: TR\f\TR_banner_TO_Guar_Farm.nif

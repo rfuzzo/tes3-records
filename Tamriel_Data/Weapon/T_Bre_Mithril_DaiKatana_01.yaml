@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Bre_Mithril_DaiKatana_01
+name: Mithril Dai-Katana
+script: ''
+mesh: tr\w\tr_w_mithril_dkatana.nif
+icon: tr\w\tr_w_mithril_dkatana.dds
+enchanting: ''
+data:
+  weight: 30.0
+  value: 28000
+  weapon_type: LongBladeTwoClose
+  health: 3400
+  speed: 1.35
+  reach: 1.0
+  enchantment: 900
+  chop_min: 1
+  chop_max: 44
+  slash_min: 1
+  slash_max: 38
+  thrust_min: 1
+  thrust_max: 19
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

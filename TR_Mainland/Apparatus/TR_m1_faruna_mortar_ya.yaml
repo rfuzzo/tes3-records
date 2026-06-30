@@ -1,0 +1,12 @@
+type: Apparatus
+flags: ''
+id: TR_m1_faruna_mortar_ya
+name: Faruna's Mortar and Pestle
+script: noPickUp
+mesh: m\Misc_mortarpestle_S_01.nif
+icon: m\Tx_mortarpestle_S_01.tga
+data:
+  apparatus_type: MortarAndPestle
+  quality: 2.0
+  weight: 1.0
+  value: 0

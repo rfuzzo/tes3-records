@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: Misc_SoulGem_Azura
+name: Azura's Star
+script: ''
+mesh: w\W_Art_AzuraStar .NIF
+icon: w\tx_art_azura_star.tga
+data:
+  weight: 2.0
+  value: 5000
+  flags: ''

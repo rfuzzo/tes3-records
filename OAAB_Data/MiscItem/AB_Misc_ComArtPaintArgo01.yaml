@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_ComArtPaintArgo01
+name: Painting
+script: ''
+mesh: OAAB\m\com_paint_argo_01.nif
+icon: OAAB\m\com_painting_argo_01.tga
+data:
+  weight: 5.0
+  value: 50
+  flags: ''

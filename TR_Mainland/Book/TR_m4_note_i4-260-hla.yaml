@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_note_i4-260-hla
+name: Tattered Note
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nI write this as my last mortal act. Reman's forces have stormed the castle. We have barricaded the main gates, the private chambers, and great hall. The Cyrods have brought with them machines of war. I fear they will use weighty rocks to tear the doors from their hinges. The shrine and garden have both been seized using these horrendous devices. I have told the children to hide behind Lady Almalexia, but I fear the invaders will find them. May Boethiah show us mercy this day. I go now to take my place upon the seat of my fathers. Fourteen of my forefathers held the Keeper of Velothi, a gift from the three Tribunes. I shall be the last.<BR>\r\n<BR>\r\nIndoril Aladus Daynil<BR>"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

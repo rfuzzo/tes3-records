@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m3_TT_CalitiaScales
+name: Scales of Profitable Imbalance
+script: ''
+mesh: tr\m\tr_misc_de_scales_02.nif
+icon: tr\m\tr_misc_de_scales_02.dds
+enchanting: TR_m3_TT_CalitiaScalesEn
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 12.0
+  value: 300
+  enchantment: 100

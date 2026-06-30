@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m2_q_18_BlindAmulet
+name: Amulet of Submission
+script: ''
+mesh: c\Amulet_Extravagant_1.NIF
+icon: c\tx_amulet_extrav1.tga
+enchanting: TR_m2_q_18_BlindAmulet_en
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 150
+  enchantment: 600

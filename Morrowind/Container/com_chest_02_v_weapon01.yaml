@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: com_chest_02_v_weapon01
+name: Wooden Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - -100
+  - chitin throwing star
+- - 1
+  - bonemold long bow
+- - 1
+  - iron battle axe
+- - -100
+  - l_n_wpn_missle_bow
+- - -300
+  - l_n_wpn_missle_arrow

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_MARK_Galug
+name: Galug the Barber
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: ''
+enchanting: ''
+text: "Marker for TR_m3_Galug the Barber\r\nQuest: TR_m3_OE_GhoulBusiness\r\nScript: TR_m3_OE_GalugMove_sc\r\n           TR_m3_OE_TindalosScript"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

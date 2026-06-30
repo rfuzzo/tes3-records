@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngMine_Antimony_01
+name: Antimony Ore
+script: ''
+mesh: tr\n\tr_ing_antimony.nif
+icon: tr\n\tr_ing_antimony.dds
+data:
+  weight: 0.2
+  value: 25
+  effects:
+  - NightEye
+  - LightningShield
+  - FortifyAttackBonus
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

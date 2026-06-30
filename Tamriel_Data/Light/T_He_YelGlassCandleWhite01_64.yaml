@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_He_YelGlassCandleWhite01_64
+name: Glass Candlestick
+script: ''
+mesh: sum\l\sum_gls_cndl_yel01.nif
+icon: sum\l\sum_gls_cndl_yel01.dds
+sound: ''
+data:
+  weight: 1.0
+  value: 8
+  time: 0
+  radius: 64
+  color:
+  - 245
+  - 140
+  - 40
+  - 0
+  flags: DYNAMIC | CAN_CARRY | FIRE | FLICKER_SLOW

@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: T_MwDe_FurnP_Ch2MCloth
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Mw_Random_ClothingMaleCmDun
+- - 1
+  - T_Mw_Random_ClothingPantsCmDun
+- - 1
+  - T_Mw_Random_ClothingShirtsCmDun

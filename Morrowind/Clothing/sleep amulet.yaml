@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: sleep amulet
+name: Sleep Amulet
+script: ''
+mesh: c\Amulet_Common_4.NIF
+icon: c\tx_amulet_com4.tga
+enchanting: sleep_en
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 18
+  enchantment: 10

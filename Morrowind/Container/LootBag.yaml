@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: LootBag
+name: Overflow Loot Bag
+script: ''
+mesh: o\LootBag.NIF
+encumbrance: 0.0
+container_flags: IS_BASE
+inventory: []

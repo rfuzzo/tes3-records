@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: TR_m2_shipwreck2_i2-413
+name: Captain's Possessions
+script: ''
+mesh: o\Contain_Com_Sack_02.NIF
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - common_shirt_01
+- - 1
+  - misc_skull00
+- - 1
+  - netch_leather_cuirass
+- - 1
+  - netch_leather_gauntlet_left
+- - 1
+  - netch_leather_gauntlet_right

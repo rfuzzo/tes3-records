@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: steel spear of impaling thrust
+name: Steel Spear of Impaling Thrust
+script: ''
+mesh: w\W_spear.nif
+icon: w\Tx_Spear01.tga
+enchanting: dynamic impaling thrust_en
+data:
+  weight: 14.0
+  value: 55
+  weapon_type: SpearTwoWide
+  health: 600
+  speed: 1.0
+  reach: 1.8
+  enchantment: 50
+  chop_min: 2
+  chop_max: 5
+  slash_min: 2
+  slash_max: 5
+  thrust_min: 6
+  thrust_max: 17
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

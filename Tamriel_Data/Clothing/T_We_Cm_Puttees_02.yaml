@@ -1,0 +1,20 @@
+type: Clothing
+flags: ''
+id: T_We_Cm_Puttees_02
+name: Common Puttees
+script: ''
+mesh: VA\c\VA_C_CmPuttee_02G.nif
+icon: va\c\VA_CmPuttee_02.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: RightAnkle
+  male_bodypart: T_C_WeCmPuttees02_A
+  female_bodypart: ''
+- biped_object_type: LeftAnkle
+  male_bodypart: T_C_WeCmPuttees02_A
+  female_bodypart: ''
+data:
+  clothing_type: Pants
+  weight: 1.2
+  value: 2
+  enchantment: 20

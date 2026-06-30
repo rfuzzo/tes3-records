@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_He_Glass_Saber_01
+name: Glass Saber
+script: ''
+mesh: sum\w\sum_w_heglass_saber1.nif
+icon: sum\w\sum_w_heglass_saber1.tga
+enchanting: ''
+data:
+  weight: 10.0
+  value: 17000
+  weapon_type: LongBladeOneHand
+  health: 890
+  speed: 1.45
+  reach: 1.1
+  enchantment: 36
+  chop_min: 3
+  chop_max: 28
+  slash_min: 5
+  slash_max: 32
+  thrust_min: 4
+  thrust_max: 8
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

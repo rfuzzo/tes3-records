@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_BkGen_ShippingLog_02
+name: Shipping Log
+script: ''
+mesh: m\Text_Octavo_08.nif
+icon: m\Tx_book_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n[This log records shipping activities on the docks, detailing incoming and outgoing ships, their cargo and passengers.]<BR>\r\n<BR>"
+data:
+  weight: 2.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 0

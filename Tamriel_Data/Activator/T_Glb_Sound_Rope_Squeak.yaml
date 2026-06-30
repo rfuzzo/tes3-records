@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Glb_Sound_Rope_Squeak
+name: 'Sound Effect: Rope Squeak'
+script: T_ScSound_RopeSqueak
+mesh: EditorMarker.NIF

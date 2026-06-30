@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: furn_banner_councilclub
+name: Council Club
+script: OutsideBanner
+mesh: f\Furn_banner_tavern_01.NIF

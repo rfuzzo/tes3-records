@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m3_blood_i1-453-aun
+name: Bottle Of Dry Blood
+script: ''
+mesh: n\Potion_Skooma_01.nif
+icon: n\Tx_skooma_01.tga
+data:
+  weight: 1.0
+  value: 10
+  flags: ''

@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: T_HrCom_Var_SkS1Rich
+name: Small Sack
+script: ''
+mesh: hr\o\hr_contain_small_sack.nif
+encumbrance: 20.0
+container_flags: IS_BASE
+inventory:
+- - 80
+  - Gold_001
+- - 7
+  - random gold
+- - 30
+  - random gold_lev_05

@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: Light_de_paper_lantern_off
+name: ''
+script: ''
+mesh: l\Light_paper_lantern_off.NIF
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 16
+  color:
+  - 0
+  - 0
+  - 0
+  - 0
+  flags: ''

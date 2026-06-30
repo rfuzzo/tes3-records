@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: amuletfleshmadewhole_uniq
+name: Amulet of Flesh Made Whole
+script: ''
+mesh: c\Amulet_Extravagant_2.NIF
+icon: c\tx_amulet_extrav2.tga
+enchanting: fleshmadewhole_uniq
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 500
+  enchantment: 1200

@@ -1,0 +1,14 @@
+type: Clothing
+flags: PERSISTENT
+id: TR_m4_HH_LightInvis_amulet
+name: Amulet of Swift Shadow
+script: TR_m4_HH_GalesaAmulet
+mesh: c\Amulet_Common_4.NIF
+icon: c\tx_amulet_com4.tga
+enchanting: TR_m4_lightInvis_en
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 60
+  enchantment: 10

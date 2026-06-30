@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_Nor_Furn_Chandelier02_64
+name: ''
+script: ''
+mesh: Sky\l\Sky_Lgt_Nord_CDLR_02.nif
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 64
+  color:
+  - 245
+  - 140
+  - 40
+  - 0
+  flags: DYNAMIC | FIRE | FLICKER_SLOW

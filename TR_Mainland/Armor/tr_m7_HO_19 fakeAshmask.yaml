@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: tr_m7_HO_19 fakeAshmask
+name: Vivec's Ashmask
+script: ''
+mesh: a\a_m_chitin_helmet.nif
+icon: a\tx_chitin_helmet.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Head
+  male_bodypart: a_m_chitin_helmet
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 1.0
+  value: 19
+  health: 100
+  enchantment: 125
+  armor_rating: 10

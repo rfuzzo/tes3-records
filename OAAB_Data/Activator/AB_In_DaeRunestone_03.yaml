@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_In_DaeRunestone_03
+name: Daedric Runestone Sentry
+script: AB_GemTrapScript03
+mesh: OAAB\m\rem_dae_runestone_03.nif

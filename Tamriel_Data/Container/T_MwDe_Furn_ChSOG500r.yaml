@@ -1,0 +1,21 @@
+type: Container
+flags: ''
+id: T_MwDe_Furn_ChSOG500r
+name: Ornate Small Chest
+script: ''
+mesh: TR\o\TR_cont_dae_amulet.nif
+encumbrance: 10.0
+container_flags: IS_BASE
+inventory:
+- - 250
+  - Gold_001
+- - 50
+  - random gold
+- - 50
+  - random gold_lev_05
+- - 50
+  - random gold_lev_10
+- - 50
+  - random gold_lev_15
+- - 50
+  - random gold_lev_20

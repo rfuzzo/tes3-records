@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_CFungus_01
+name: Ramaria Formosa Paste
+script: ''
+mesh: tr\n\tr_ing_cfungus_01.nif
+icon: tr\n\tr_ing_coralfungus_01.dds
+data:
+  weight: 0.1
+  value: 15
+  effects:
+  - Paralyze
+  - DamageAttribute
+  - WaterBreathing
+  - Burden
+  skills:
+  - Block
+  - Block
+  - Block
+  - None
+  attributes:
+  - Personality
+  - Intelligence
+  - Luck
+  - None

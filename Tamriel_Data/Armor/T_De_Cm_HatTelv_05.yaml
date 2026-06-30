@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_De_Cm_HatTelv_05
+name: Common Telvanni Hat
+script: ''
+mesh: tr\c\tr_c_hat_cm_telv_05gd.nif
+icon: tr\c\tr_c_hat_cm_telv_05.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Hair
+  male_bodypart: T_C_DeCmHatTelv05_Hr
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 3.0
+  value: 5
+  health: 50
+  enchantment: 20
+  armor_rating: 7

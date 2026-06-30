@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: Misc_Imp_Silverware_Cup_01
+name: Silverware Cup
+script: ''
+mesh: m\Misc_Silverware_Cup_01.NIF
+icon: m\Misc_Silverware_Cup_01.tga
+data:
+  weight: 5.0
+  value: 13
+  flags: ''

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m1_bthaDwemerStatue
+name: Dwemer Statue
+script: TR_m1_bthalastatue_sc
+mesh: tr\i\tr_in_dwrvstatue_kneel.nif

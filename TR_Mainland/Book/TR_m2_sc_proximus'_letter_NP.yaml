@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2_sc_proximus'_letter_NP
+name: Unfinished Letter
+script: ''
+mesh: m\Text_Scroll_01.NIF
+icon: m\Tx_scroll_open_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nCousin,<BR>\r\n<BR>\r\nI thank you for the whiskey -- I am drinking it as I write this. It has been a long time since I tasted such fine liquor. My miner's wage is far too low for me to be able to afford such extravagancies. The job is going well. It is hard work, but I will be able to start saving soon. I cannot wait for the day I can tell my supervisor where to shove his pick. You must forgive my strong words, but you have not met my supervisor. Remember old Cerapes, the one whose orchard we used to raid as children? Well he's ten times as bad.<BR>\r\n<BR>\r\nBut enough of that. How are you? Have you managed to convince Flarus that your destinies are not intertwined? Alas, I wish I was there. I'd show him destiny -- my fist destined to whack the pompous fool in the nose. But you know I will return after I have completed my tour of Vvardenfell. As I said, I can begin saving soon. I have even found an old sailor who makes the run from Helnim to Seyda Neen once a month, who will let me aboard for free. He too is from Cyrodiil, and my tales of home brought a tear to his eye. It was<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

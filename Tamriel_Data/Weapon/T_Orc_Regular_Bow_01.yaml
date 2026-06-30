@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Orc_Regular_Bow_01
+name: Orcish Short Bow
+script: ''
+mesh: Sky\w\Sky_Orc_Bow_01.nif
+icon: Sky\w\Tx_Orc_Bow_01.dds
+enchanting: ''
+data:
+  weight: 10.0
+  value: 820
+  weapon_type: MarksmanBow
+  health: 800
+  speed: 1.0
+  reach: 1.0
+  enchantment: 50
+  chop_min: 1
+  chop_max: 25
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

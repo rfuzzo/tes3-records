@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_SkyNor_Set_Beehive01
+name: Bee Hive
+script: ''
+mesh: Sky\o\Sky_Cont_Beehive_01.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 5
+  - T_Sky_Random_HoneyComb

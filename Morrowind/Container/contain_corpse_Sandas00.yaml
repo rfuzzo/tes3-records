@@ -1,0 +1,11 @@
+type: Container
+flags: PERSISTENT | BLOCKED
+id: contain_corpse_Sandas00
+name: Corpse of a Noble Guard
+script: Sound_Flies
+mesh: o\contain_corpse00.NIF
+encumbrance: 120.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - ingred_bonemeal_01

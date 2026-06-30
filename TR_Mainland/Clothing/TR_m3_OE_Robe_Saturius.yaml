@@ -1,0 +1,23 @@
+type: Clothing
+flags: PERSISTENT
+id: TR_m3_OE_Robe_Saturius
+name: Saturius' Robe
+script: TR_m3_OE_Robe_NoTake
+mesh: c\C_M_Robe_Common_3_GND.NIF
+icon: c\tx_Robe_com03.tga
+enchanting: TR_m3_OE_SaturiusRobe_en
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: c_m_robe_common_3
+  female_bodypart: ''
+- biped_object_type: LeftAnkle
+  male_bodypart: ''
+  female_bodypart: ''
+- biped_object_type: RightAnkle
+  male_bodypart: ''
+  female_bodypart: ''
+data:
+  clothing_type: Robe
+  weight: 3.0
+  value: 2
+  enchantment: 10

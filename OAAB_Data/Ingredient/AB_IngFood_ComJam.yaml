@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: AB_IngFood_ComJam
+name: Comberry Jam
+script: ''
+mesh: OAAB\m\food_comjam.nif
+icon: OAAB\m\food_comjam.dds
+data:
+  weight: 0.5
+  value: 12
+  effects:
+  - RestoreHealth
+  - None
+  - None
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

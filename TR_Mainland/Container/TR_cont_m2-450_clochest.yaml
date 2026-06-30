@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: TR_cont_m2-450_clochest
+name: Chest
+script: ''
+mesh: TR\o\TR_furn_De_Rm_Chest.NIF
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - 25
+  - Gold_001
+- - 2
+  - T_Mw_Random_ClothingShirtsCmDun
+- - 2
+  - random_de_pants
+- - 2
+  - random_de_shoes_common

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_Dae_cursed_ruby_01
+name: Ruby
+script: BILL_MarksDaedraSummon
+mesh: n\Ingred_ruby_01.NIF
+icon: n\Tx_ruby.tga
+data:
+  weight: 0.2
+  value: 200
+  effects:
+  - DrainHealth
+  - Feather
+  - RestoreAttribute
+  - DrainAttribute
+  skills:
+  - None
+  - None
+  - Block
+  - Block
+  attributes:
+  - None
+  - None
+  - Intelligence
+  - Agility

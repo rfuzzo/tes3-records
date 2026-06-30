@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: TR_m3-ET2_cont_mattimus
+name: Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_De_DresHunter_Cuirass_01
+- - 1
+  - T_Imp_Scrollcase_01
+- - 6
+  - T_Sc_Blank
+- - 1
+  - T_Sc_OathOfTheWretchTR
+- - 62
+  - random gold

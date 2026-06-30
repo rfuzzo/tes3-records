@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_Pi_Furn_TikiTorch_512
+name: ''
+script: ''
+mesh: pi\l\pi_l_tikitorch.nif
+icon: ''
+sound: Fire 40
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 512
+  color:
+  - 235
+  - 155
+  - 35
+  - 0
+  flags: DYNAMIC | FIRE | FLICKER_SLOW

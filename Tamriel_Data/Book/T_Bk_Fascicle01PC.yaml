@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_Fascicle01PC
+name: Fascicle 1-4
+script: ''
+mesh: pc\m\PC_bk_Book_10.nif
+icon: pc\m\pc_bk_book_10.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe Testament of the Church-Mothers<BR>\r\nFascicle 1-4<BR>\r\nThe Song of the Abyss<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\n1. Once, all the world was in darkness, and all the world was darkness, and the spirits therein lived only in darkness. In this place there were not the waters nor the air, there was up nor down, wrong nor right. This place was without time, and without life and death, it was without knowledge and wisdom, it was without the breath of life, it knew not of beauty, it knew not of worth, it knew not of mercy. This we call the Beginning Place, for all things were born there, and naught will ever return there, for it is lost forever in the folds of the world, and only the blind seek it now.<BR>\r\n<BR>\r\n2. There coiled from the darkness the dragon Akatosh, the First of Spirits, who was also the King of Spirits. For one hundred and eight times eternity the dragon gathered its strength in the timeless time, for it was a time without time, and it was the timeless time. Then on the morning of no mornings Akatosh spoke, saying: \"I am, and it is joyful to be\".<BR>\r\n<BR>\r\n3. Akatosh now regarded the Void of the Beginning, and he was moved by the sense of existence, its joy and splendor, and perceiving the spark of his fellow spirits who lay as yet unmade in the hollow between thought, he was moved by not-yet-pity and not-yet-love. And from his perch on Eternity he allowed the day, saying: \"Let these be my children, the Hours, and let these be my children, the Minutes\".<BR>\r\n<BR>\r\n4. And long the children of Akatosh did labor in the darkness, to build the space of Days, and they became the Waters, where our thoughts in life find succor. And before the dawn of circles, the Waters did whirl as time yet untempered does, and one Day did nor follow on the other, and one Hour knew not the other, and there was no order to be found, anywhere.<BR>\r\n<BR> \r\n"
+data:
+  weight: 4.0
+  value: 300
+  book_type: Book
+  skill: Conjuration
+  enchantment: 0

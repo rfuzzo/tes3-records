@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m3_sword_venom_thunder
+name: Sword of Venomous Thunder
+script: ''
+mesh: tr\w\tr_w_adamant_saber.nif
+icon: tr\w\tr_w_adamant_saber.dds
+enchanting: TR_m3_VenomThunder_en
+data:
+  weight: 25.0
+  value: 3178
+  weapon_type: LongBladeOneHand
+  health: 1850
+  speed: 1.55
+  reach: 1.0
+  enchantment: 100
+  chop_min: 3
+  chop_max: 32
+  slash_min: 3
+  slash_max: 33
+  thrust_min: 1
+  thrust_max: 5
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

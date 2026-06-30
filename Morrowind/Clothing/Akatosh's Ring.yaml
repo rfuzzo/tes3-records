@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: Akatosh's Ring
+name: Akatosh's Ring
+script: ''
+mesh: c\C_Ring_exquisite_1.NIF
+icon: c\tx_ring_exquisite01.tga
+enchanting: Akatosh's Blessing_EN
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 2400
+  enchantment: 1200

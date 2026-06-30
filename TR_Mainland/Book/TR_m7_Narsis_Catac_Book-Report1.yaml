@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_Narsis_Catac_Book-Report1
+name: 'Report: Missing Priest'
+script: ''
+mesh: m\Text_Parchment_02.NIF
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"RIGHT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n3E 427, 4th of Sun's Height\r\n<BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\nFor three days, Dervur and I fruitlessly searched for the missing priest. Why would that fool risk delving so deep without a guide? The only evidence of his presence we could find was his copy of Thelon's handbook, in the Depths.<BR>\r\n<BR>\r\nConsidering the priest has been missing for over a week now, it is unlikely he has survived on his own in the depths of our burials. I must humbly recommend calling off the search lest we risk further lives.<BR>\r\n<BR>\r\nNarisa Releri<BR>"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m2_He_sign_inn_crystal
+name: The Crystal Flower
+script: SignRotate
+mesh: x\Furn_sign_inn_01.NIF

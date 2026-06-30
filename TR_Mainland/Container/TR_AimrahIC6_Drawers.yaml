@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: TR_AimrahIC6_Drawers
+name: Drawers
+script: ''
+mesh: TR\o\TR_furn_de_p_drawer_02.nif
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Mw_Random_Clothing
+- - 1
+  - T_Mw_Random_ClothingMaleXpDun
+- - 3
+  - T_Mw_Random_ClothingRobesCmDun

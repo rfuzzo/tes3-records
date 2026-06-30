@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_FM_Act_Fix8Tikitorch
+name: ''
+script: TR_FM_Stage8Tikitorch_sc
+mesh: x\Furn_tikitorch_out.nif

@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: AB_Mrk_Radius1024
+name: Radius Marker
+script: ''
+mesh: marker_light.nif
+icon: OAAB\h\radius.tga
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: 0
+  radius: 1024
+  color:
+  - 0
+  - 0
+  - 0
+  - 0
+  flags: CAN_CARRY | OFF_BY_DEFAULT

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m2_TM_ban_heal_Thel
+name: 'Thelasa Reram: Healer'
+script: OutsideBanner
+mesh: f\Furn_bannerD_alchemy_01.NIF

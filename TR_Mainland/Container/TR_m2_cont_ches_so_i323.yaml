@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: TR_m2_cont_ches_so_i323
+name: Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 20
+  - Gold_001
+- - 1
+  - common_shirt_02_rr
+- - 1
+  - expensive_ring_03
+- - 1
+  - imperial_chain_coif_helm
+- - 50
+  - random gold

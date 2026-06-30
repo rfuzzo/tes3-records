@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Com_Steel_Crossbow_Pleasure
+name: Crossbow of Pleasure
+script: ''
+mesh: w\W_Crossbow_Steel.NIF
+icon: w\tx_crossbow_steell.tga
+enchanting: T_Use_Pleasure
+data:
+  weight: 10.0
+  value: 580
+  weapon_type: MarksmanCrossbow
+  health: 550
+  speed: 1.0
+  reach: 1.0
+  enchantment: 50
+  chop_min: 20
+  chop_max: 20
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_MT_mazkun_forbidden
+name: ''
+script: TR_m3_MT_mazkun_forbidden_scr
+mesh: EditorMarker.nif

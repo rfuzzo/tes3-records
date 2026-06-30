@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: AB_IngCrea_GlowbugThoraxGreen
+name: Glowbug Thorax
+script: ''
+mesh: OAAB\n\ingglowbugthorax02.nif
+icon: OAAB\n\ing_glowbugthorax2.tga
+data:
+  weight: 0.1
+  value: 1
+  effects:
+  - Light
+  - WeaknessToFire
+  - None
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - Block
+  attributes:
+  - None
+  - None
+  - None
+  - Personality

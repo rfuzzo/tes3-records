@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_TT_NoteDD
+name: Response from D.D.
+script: ''
+mesh: m\Text_Parchment_02.NIF
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nTo the Honorable Serjo,<BR><BR>\r\nInsult us not with so low a tribute again.<BR><BR>\r\nD.D.<BR><BR>"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

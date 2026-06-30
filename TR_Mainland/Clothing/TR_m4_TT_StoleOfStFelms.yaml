@@ -1,0 +1,29 @@
+type: Clothing
+flags: ''
+id: TR_m4_TT_StoleOfStFelms
+name: Stole of St. Felms
+script: ''
+mesh: tr\c\tr_c_shirt_com_17_gnd.nif
+icon: tr\c\tr_common_shirt_17.dds
+enchanting: TR_m4_stoleofstfelms
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_C_DeCmShirt17_C
+  female_bodypart: ''
+- biped_object_type: LeftUpperArm
+  male_bodypart: T_C_DeEpShirt01_UA
+  female_bodypart: ''
+- biped_object_type: RightUpperArm
+  male_bodypart: T_C_DeEpShirt01_UA
+  female_bodypart: ''
+- biped_object_type: LeftForearm
+  male_bodypart: T_C_DeEpShirt01_Fa
+  female_bodypart: ''
+- biped_object_type: RightForearm
+  male_bodypart: T_C_DeEpShirt01_Fa
+  female_bodypart: ''
+data:
+  clothing_type: Shirt
+  weight: 2.0
+  value: 5
+  enchantment: 200

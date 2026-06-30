@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Ayl_Arrow_01
+name: Ayleid Arrow
+script: ''
+mesh: PC\w\pc_w_ayl_arrow.nif
+icon: pc\w\pc_w_ayl_arrow.dds
+enchanting: ''
+data:
+  weight: 0.15
+  value: 15
+  weapon_type: Arrow
+  health: 10
+  speed: 1.0
+  reach: 1.0
+  enchantment: 100
+  chop_min: 1
+  chop_max: 6
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

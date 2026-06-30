@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: com_sack_00
+name: Sack
+script: ''
+mesh: o\contain_sack00.nif
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory: []

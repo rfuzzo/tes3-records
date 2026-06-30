@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Ayl_Statuette_01
+name: Ayleid Statuette
+script: ''
+mesh: pc\m\pc_ayl_statuette_01.nif
+icon: pc\m\pc_ay_statuet_01.dds
+data:
+  weight: 15.0
+  value: 2000
+  flags: ''

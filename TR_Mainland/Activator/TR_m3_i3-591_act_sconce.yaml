@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m3_i3-591_act_sconce
+name: Sconce
+script: TR_m3-591_sconce_script
+mesh: f\Furn_sconce_01.nif

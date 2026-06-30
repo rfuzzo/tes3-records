@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m7_AI_TT_Q1Amulet
+name: Sedarys Family Necklace
+script: ''
+mesh: c\Amulet_Expensive_3.NIF
+icon: c\tx_amulet_expens3.tga
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 30
+  enchantment: 150

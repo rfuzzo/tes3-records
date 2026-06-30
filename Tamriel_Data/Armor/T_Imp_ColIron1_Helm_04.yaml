@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Imp_ColIron1_Helm_04
+name: Colovian Iron Helmet
+script: ''
+mesh: PC\a\pc_a_ColoIron_Helm_g_2.nif
+icon: pc\a\pc_a_ColoIron_Helmet_2.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Hair
+  male_bodypart: T_A_ImpColIronHelmet02_Hr
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 8.0
+  value: 50
+  health: 160
+  enchantment: 250
+  armor_rating: 16

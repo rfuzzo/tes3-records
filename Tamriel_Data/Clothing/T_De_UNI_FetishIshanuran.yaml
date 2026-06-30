@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_De_UNI_FetishIshanuran
+name: Fetish of the Ishanuran
+script: ''
+mesh: tr\c\tr_c_ishanuran_fet.nif
+icon: tr\c\tr_c_ishanuran_fet.dds
+enchanting: T_Use_FetishIshanuran
+biped_objects: []
+data:
+  clothing_type: Belt
+  weight: 5.0
+  value: 2400
+  enchantment: 450

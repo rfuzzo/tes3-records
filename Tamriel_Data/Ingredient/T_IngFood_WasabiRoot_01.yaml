@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_WasabiRoot_01
+name: Wasabi Root
+script: ''
+mesh: sky\n\Sky_Ingred_wasab_01.nif
+icon: sky\n\tx_ingred_wasab_01.dds
+data:
+  weight: 1.0
+  value: 130
+  effects:
+  - WeaknessToFrost
+  - RestoreAttribute
+  - FortifyAttribute
+  - FireDamage
+  skills:
+  - Block
+  - Block
+  - Block
+  - None
+  attributes:
+  - Endurance
+  - Willpower
+  - Endurance
+  - None

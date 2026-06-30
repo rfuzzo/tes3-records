@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_Card_11
+name: Four of Hours
+script: ''
+mesh: pc\m\pc_misc_card_11.nif
+icon: pc\m\pc_misc_card_11.dds
+data:
+  weight: 0.1
+  value: 1
+  flags: ''

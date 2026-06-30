@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m7_HH_AtranOranAxe
+name: Atran Oran's Ebony Battle Axe
+script: TR_m7_HH_AtranOranAxe_scp
+mesh: pc\w\pc_w_ebon_battleaxe.nif
+icon: pc\w\pc_w_ebon_battleaxe.tga
+enchanting: T_Strike_Beatdown
+data:
+  weight: 50.0
+  value: 30000
+  weapon_type: AxeTwoHand
+  health: 3600
+  speed: 1.0
+  reach: 1.0
+  enchantment: 250
+  chop_min: 2
+  chop_max: 60
+  slash_min: 1
+  slash_max: 40
+  thrust_min: 1
+  thrust_max: 4
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_DeEbonyPlatter_01
+name: Frosted Ebony Platter
+script: ''
+mesh: OAAB\m\misc_ebony_platter.nif
+icon: OAAB\m\misc_ebony_platter.dds
+data:
+  weight: 6.0
+  value: 725
+  flags: ''

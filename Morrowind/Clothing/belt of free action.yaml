@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: belt of free action
+name: Belt of Free Action
+script: ''
+mesh: c\C_belt_Expensive_2.NIF
+icon: c\tx_belt_expensive02.tga
+enchanting: free action_en
+biped_objects: []
+data:
+  clothing_type: Belt
+  weight: 1.0
+  value: 25
+  enchantment: 50

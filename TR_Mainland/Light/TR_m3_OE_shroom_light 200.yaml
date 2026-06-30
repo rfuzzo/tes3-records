@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: TR_m3_OE_shroom_light 200
+name: ''
+script: ''
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 200
+  color:
+  - 21
+  - 64
+  - 48
+  - 0
+  flags: DYNAMIC

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_TG_GaldresUrnTracker
+name: Galdres Beran's Urn Tracker
+script: TR_m4_TG_GeldrasUrnTracker_scp
+mesh: editormarker.nif

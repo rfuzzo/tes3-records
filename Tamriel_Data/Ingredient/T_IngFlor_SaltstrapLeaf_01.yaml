@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_SaltstrapLeaf_01
+name: Saltstrap Leaf
+script: ''
+mesh: TR\n\tr_ing_saltleaf_01.nif
+icon: TR\n\tr_ing_saltleaf_01.dds
+data:
+  weight: 0.1
+  value: 1
+  effects:
+  - DrainFatigue
+  - WeaknessToShock
+  - None
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

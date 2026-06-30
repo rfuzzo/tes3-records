@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_TigerlilyNectar_01
+name: Tiger Lily Nectar
+script: ''
+mesh: pc\n\PC_Ingred_TLily_Nec.nif
+icon: pc\n\pc_tx_ingred_tlilyn.dds
+data:
+  weight: 0.1
+  value: 3
+  effects:
+  - RestoreAttribute
+  - DamageAttribute
+  - WaterWalking
+  - DamageAttribute
+  skills:
+  - Block
+  - Block
+  - None
+  - Block
+  attributes:
+  - Endurance
+  - Strength
+  - None
+  - Willpower

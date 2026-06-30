@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: iron vipercleaver
+name: Iron Vipercleaver
+script: ''
+mesh: w\W_halberd_iron.nif
+icon: w\Tx_halberd_iron.tga
+enchanting: viper_enu
+data:
+  weight: 14.0
+  value: 62
+  weapon_type: SpearTwoWide
+  health: 700
+  speed: 1.0
+  reach: 1.8
+  enchantment: 50
+  chop_min: 1
+  chop_max: 3
+  slash_min: 1
+  slash_max: 3
+  thrust_min: 5
+  thrust_max: 20
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

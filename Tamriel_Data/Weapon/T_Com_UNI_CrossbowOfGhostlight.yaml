@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Com_UNI_CrossbowOfGhostlight
+name: Steel Crossbow of Ghostlight
+script: ''
+mesh: w\w_crossbow_steel.nif
+icon: w\tx_crossbow_steell.dds
+enchanting: T_Const_Ghostlight
+data:
+  weight: 10.0
+  value: 250
+  weapon_type: MarksmanCrossbow
+  health: 550
+  speed: 1.0
+  reach: 1.0
+  enchantment: 55
+  chop_min: 20
+  chop_max: 20
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: ''

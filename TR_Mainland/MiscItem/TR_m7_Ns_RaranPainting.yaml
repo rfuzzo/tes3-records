@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m7_Ns_RaranPainting
+name: Painting
+script: TR_m7_Ns_RaranPainting_sc
+mesh: pc\f\pc_furn_painting7_19.nif
+icon: pc\m\pc_misc_paintpkg01.dds
+data:
+  weight: 2.0
+  value: 1000
+  flags: ''

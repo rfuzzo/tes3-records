@@ -1,0 +1,21 @@
+type: Container
+flags: ''
+id: com_chest_02_lev_gold
+name: Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 50
+  - random gold
+- - 50
+  - random gold_lev_10
+- - 100
+  - random gold_lev_15
+- - 50
+  - random gold_lev_05
+- - 100
+  - random gold_lev_20
+- - 50
+  - Gold_001

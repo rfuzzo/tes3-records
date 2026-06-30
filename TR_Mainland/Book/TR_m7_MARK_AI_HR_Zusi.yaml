@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_MARK_AI_HR_Zusi
+name: zusinumausur
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: m\Tx_scroll_open_01.tga
+enchanting: ''
+text: 'NPC ID: tr_m7_zusinumausur'
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

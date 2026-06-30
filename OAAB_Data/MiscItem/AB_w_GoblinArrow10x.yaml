@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_w_GoblinArrow10x
+name: Goblin Arrow (10)
+script: AB_QuiverGoblin10x_s
+mesh: OAAB\w\quiver_goblin.nif
+icon: OAAB\w\tx_goblin_arrow.dds
+data:
+  weight: 2.5
+  value: 120
+  flags: ''

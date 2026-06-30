@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_q_brotherhoodnote3
+name: Letter from the Night Mother
+script: TR_m7_q_brotherhoodnote3_sc
+mesh: m\Text_Scroll_01.NIF
+icon: m\Tx_scroll_open_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nTo %PCName,<BR>\r\n<BR>\r\nOur deal is at an end. Take this blade as payment: I'm sure it will serve you well. <BR>\r\nWith our cover blown, I'm afraid we have to relocate. Know that if you are assassinated by the Dark Brotherhood, the order won't have come from me.<BR>\r\n<BR>\r\nThe Night Mother<BR>\r\n"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

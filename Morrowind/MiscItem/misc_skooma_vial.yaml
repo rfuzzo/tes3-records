@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: misc_skooma_vial
+name: Empty Vial
+script: ''
+mesh: n\Potion_Skooma_01.nif
+icon: n\Tx_skooma_01.tga
+data:
+  weight: 1.0
+  value: 1
+  flags: ''

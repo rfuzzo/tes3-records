@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_GreyTickPowder_01
+name: Grey Tick Powder
+script: ''
+mesh: tr\n\tr_ing_grey_tick.nif
+icon: tr\n\tr_ing_greytick.dds
+data:
+  weight: 0.1
+  value: 1
+  effects:
+  - DrainAttribute
+  - DrainAttribute
+  - FortifyAttackBonus
+  - None
+  skills:
+  - Block
+  - Block
+  - None
+  - None
+  attributes:
+  - Willpower
+  - Intelligence
+  - None
+  - None

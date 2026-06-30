@@ -1,0 +1,23 @@
+type: Clothing
+flags: ''
+id: T_Nor_Cm_Pants_05
+name: Common Pants
+script: ''
+mesh: Sky\c\Sky_C_PNTS_10_GND.nif
+icon: Sky\c\Tx_c_pnts_10.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Groin
+  male_bodypart: T_C_NorCmPants05_G
+  female_bodypart: ''
+- biped_object_type: RightUpperLeg
+  male_bodypart: T_C_NorCmPants05_UL
+  female_bodypart: ''
+- biped_object_type: LeftUpperLeg
+  male_bodypart: T_C_NorCmPants05_UL
+  female_bodypart: ''
+data:
+  clothing_type: Pants
+  weight: 1.0
+  value: 2
+  enchantment: 20

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_i2_445_ControlDoor
+name: ''
+script: TR_m2_445_sc_ControlDoor
+mesh: tr\f\TR_act_nec_uc_control.nif

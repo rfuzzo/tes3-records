@@ -1,0 +1,23 @@
+type: Container
+flags: ''
+id: TR_m3_Kha_IndorilDesk
+name: Desk
+script: ''
+mesh: TR\o\TR_De_R_Desk01.NIF
+encumbrance: 75.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - T_Mw_Random_ClutterDesk
+- - 1
+  - l_m_potion_h
+- - 10
+  - random gold
+- - 10
+  - random gold_lev_05
+- - 10
+  - random gold_lev_10
+- - 10
+  - random gold_lev_15
+- - 10
+  - random gold_lev_20

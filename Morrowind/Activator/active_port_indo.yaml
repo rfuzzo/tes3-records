@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: active_port_indo
+name: Indoranyon Propylon
+script: Warp_Indo
+mesh: i\active_port_Indo.NIF

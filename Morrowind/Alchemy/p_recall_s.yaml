@@ -1,0 +1,20 @@
+type: Alchemy
+flags: ''
+id: p_recall_s
+name: Potion of Recall
+script: ''
+mesh: m\Misc_Potion_Fresh_01.nif
+icon: m\Tx_potion_fresh_01.tga
+effects:
+- magic_effect: Recall
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 1
+  min_magnitude: 1
+  max_magnitude: 1
+data:
+  weight: 1.0
+  value: 35
+  flags: ''

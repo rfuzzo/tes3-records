@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: TR_m1_BO_fire_small
+name: ''
+script: ''
+mesh: l\Light_Fire_NoSmoke.nif
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 64
+  color:
+  - 255
+  - 140
+  - 40
+  - 0
+  flags: FIRE | FLICKER_SLOW

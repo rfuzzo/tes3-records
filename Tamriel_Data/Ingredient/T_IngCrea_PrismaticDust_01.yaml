@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_PrismaticDust_01
+name: Prismatic Dust
+script: ''
+mesh: pc\n\pc_ing_prismatic_dust.nif
+icon: pc\n\pc_ingr_prismatic_dust.dds
+data:
+  weight: 0.1
+  value: 200
+  effects:
+  - Light
+  - LightningShield
+  - Blind
+  - RestoreMagicka
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

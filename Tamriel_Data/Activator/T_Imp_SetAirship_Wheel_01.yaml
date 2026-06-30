@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_SetAirship_Wheel_01
+name: Helm
+script: T_ScObj_AirSkiffWheel_01
+mesh: pc\f\pc_f_airskiff_wheel_01.nif

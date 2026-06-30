@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Dwe_Schematic05
+name: Flying Construct Schematics
+script: ''
+mesh: TR\m\tr_note_dwe_sch05.nif
+icon: TR\m\tr_note_dwe_sch05.dds
+data:
+  weight: 1.0
+  value: 200
+  flags: ''

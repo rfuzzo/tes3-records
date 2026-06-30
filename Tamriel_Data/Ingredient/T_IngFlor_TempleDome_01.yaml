@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_TempleDome_01
+name: Temple Dome
+script: ''
+mesh: TR\n\tr_ing_amanita.nif
+icon: TR\n\tr_ing_amanita.dds
+data:
+  weight: 0.4
+  value: 1
+  effects:
+  - Blind
+  - Burden
+  - Reflect
+  - Shield
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

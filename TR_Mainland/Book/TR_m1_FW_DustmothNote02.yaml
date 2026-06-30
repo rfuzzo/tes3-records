@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_FW_DustmothNote02
+name: Dustmoth Dossier - Volume VII
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n...but the fiery blast caught the vessel in its side and sent it tumbling into the incarnadine dunes...\r\n<BR>\r\nSAFE AND SOUND! SOUNDS SAFE! SAFE! SOUND EVERYWHERE! SAVE ME!\r\n<BR>\r\nGo to the Cassonade, they screamed! Go to, or go through? Always yelling, always Shouting! I can't hear anymore. I can't hear I cannot hear I shall not hear ever ever ever ever..\r\n<BR>\r\nTrapped in a wasteland, trapped in a cell, broken broken broken full of DUST!\r\n<BR>\r\nOn NIRN as it is in HEAVEN!\r\n<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

@@ -1,0 +1,23 @@
+type: Weapon
+flags: PERSISTENT
+id: TR_m1_q_AttackPiece6
+name: Dwarven Shortsword
+script: ''
+mesh: w\W_Dwemer_shortsword.nif
+icon: w\Tx_Dwemer_shortsword.tga
+enchanting: ''
+data:
+  weight: 8.0
+  value: 300
+  weapon_type: ShortBladeOneHand
+  health: 1050
+  speed: 2.0
+  reach: 1.0
+  enchantment: 40
+  chop_min: 7
+  chop_max: 14
+  slash_min: 7
+  slash_max: 14
+  thrust_min: 8
+  thrust_max: 15
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

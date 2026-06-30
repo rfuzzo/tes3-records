@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngMine_Jade_01
+name: Jade
+script: ''
+mesh: tr\n\tr_ing_jade.nif
+icon: tr\n\tr_ing_jade.dds
+data:
+  weight: 0.2
+  value: 100
+  effects:
+  - FortifyHealth
+  - RestoreHealth
+  - FortifySkill
+  - Poison
+  skills:
+  - None
+  - None
+  - Alchemy
+  - Block
+  attributes:
+  - None
+  - None
+  - Strength
+  - Willpower

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_OE_sign_c_clothier_03
+name: Zhinjirra's Weavery
+script: SignRotate
+mesh: TR\f\tr_act_sign_cloth_02.nif

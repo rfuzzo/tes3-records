@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_OE_TG_Blockade
+name: ''
+script: TR_m3_OE_TG_ChunzefkBlockSCP
+mesh: i\in_mud_rock_07.nif

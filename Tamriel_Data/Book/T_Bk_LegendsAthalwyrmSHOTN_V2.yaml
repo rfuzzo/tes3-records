@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_LegendsAthalwyrmSHOTN_V2
+name: On the Matter of Mountains
+script: ''
+mesh: Sky\m\Sky_Book_Basic_13.nif
+icon: Sky\m\Tx_Book_Basic_13.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nLegends of Athalwyrm the Clever-Man<BR>\r\n<BR>\r\nOn the Matter of Mountains<BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nAthalwyrm was walking in the hold of Hrothgar, near the holy mountain which is called the Throat of the World, when the Woodland Man appeared on the path ahead of him.<BR>\r\n<BR>\r\n\"Tell me, O Clever-Man,\" said the Woodland Man, \"where is the tallest mountain?\"<BR>\r\n<BR>\r\n\"I do not know which mountain is the tallest, but the tallest mountain that I know of is right ahead,\" replied Athalwyrm, gesturing past where the other was standing.<BR>\r\n<BR>\r\n\"Indeed,\" laughed the Woodland Man, \"you do not know it, but the tallest mountain is the mountain of knowledge, and I am the map to its hidden paths. If you wish to climb the mountain, walk my path.\"<BR>\r\n<BR>\r\n\"And what good can your path and your mountain of knowledge do me?\" inquired the Clever-Man.<BR>\r\n<BR>\r\nThe Woodland Man, seemingly surprised, answered: \"You can learn all you wish to learn, solve any problem you wish to solve, and become the wisest of the wise. I invite you to do so. Come, walk with me.\"<BR>\r\n<BR>\r\n\"No, elf-demon,\" said Athalwyrm, \"I will not take your path, nor will I trust you to guide me. The things that are unknown are much greater than the things that are known, and death is much longer than life. The greater part of the secrets of your realm are useless to me. To learn them would take my whole life, and you would not let me go free in death. I can find all the answers I need in my own clever head that was given to me by Shor.\" So saying, the Clever-Man kept walking and climbed the mountain.<BR><BR>"
+data:
+  weight: 3.0
+  value: 200
+  book_type: Book
+  skill: Athletics
+  enchantment: 0

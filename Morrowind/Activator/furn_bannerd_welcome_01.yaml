@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: furn_bannerd_welcome_01
+name: Welcome
+script: OutsideBanner
+mesh: f\Furn_bannerD_welcome_01.NIF

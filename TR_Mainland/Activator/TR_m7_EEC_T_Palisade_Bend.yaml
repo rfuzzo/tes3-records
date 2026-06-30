@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_EEC_T_Palisade_Bend
+name: ''
+script: TR_m7_EEC_Ranch
+mesh: tr\x\tr_ex_de_palisade_bend.nif

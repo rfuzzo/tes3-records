@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m3_OE_q_Buoyancy
+name: Zissicheeiva's Buoyancy Ring
+script: ''
+mesh: c\C_Ring_expensive_2.NIF
+icon: c\tx_ring_expensive02.tga
+enchanting: TR_m3_OE_BuoyancyRing
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 200
+  enchantment: 150

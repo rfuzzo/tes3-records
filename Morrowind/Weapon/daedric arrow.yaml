@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: daedric arrow
+name: Daedric Arrow
+script: ''
+mesh: w\W_daedric_Arrow.NIF
+icon: w\tx_arrow_daedric.tga
+enchanting: ''
+data:
+  weight: 0.3
+  value: 20
+  weapon_type: Arrow
+  health: 1
+  speed: 1.0
+  reach: 1.0
+  enchantment: 45
+  chop_min: 10
+  chop_max: 15
+  slash_min: 0
+  slash_max: 0
+  thrust_min: 0
+  thrust_max: 0
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

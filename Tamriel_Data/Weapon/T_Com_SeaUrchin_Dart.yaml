@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Com_SeaUrchin_Dart
+name: Sea Urchin Spine Dart
+script: ''
+mesh: pi\w\pi_w_urchindart.nif
+icon: pi\w\pi_w_urchindart.dds
+enchanting: T_Strike_UrchinDartPoison
+data:
+  weight: 0.1
+  value: 3
+  weapon_type: MarksmanThrown
+  health: 20
+  speed: 1.0
+  reach: 1.0
+  enchantment: 5
+  chop_min: 1
+  chop_max: 3
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

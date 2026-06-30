@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: AB_IngFood_KwamaEggCentCut
+name: Century Kwama Egg
+script: ''
+mesh: OAAB\n\egg_cent_02.nif
+icon: OAAB\n\egg_century_02.tga
+data:
+  weight: 1.0
+  value: 10
+  effects:
+  - RestoreFatigue
+  - FrostShield
+  - CureCommonDisease
+  - FortifyMagicka
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_EbonVase_01
+name: Ebonware Vase
+script: ''
+mesh: pc\m\pc_m_ebon_vase01.nif
+icon: pc\m\pc_m_ebon_vase01.dds
+data:
+  weight: 5.0
+  value: 400
+  flags: ''

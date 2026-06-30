@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2_i2_384_bk_CaptainsLog
+name: Captain's Log
+script: ''
+mesh: TR\m\TR_book_closed02_STH.nif
+icon: TR\m\TR_GW_book_closed_02.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n13th of Heartfire. The cargo has finally been loaded onto the ship, and we are making good pace down the coast. The weather seems fine and it looks like it will be an easy trip.<BR>\r\n<BR>\r\n15th. Passed through a brief squall last night but emerged unscathed, relatively uneventful otherwise. Making good time.<BR>\r\n<BR>\r\n16th. Coming down Boethia Lake, a mist has descended, but I'm not too worried, I've been through worse. So long as we maintain course we should be out of it by tomorrow evening at latest. \r\n<BR>\r\n[This is the last entry in the log.]<BR>"
+data:
+  weight: 1.5
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 0

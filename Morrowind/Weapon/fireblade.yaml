@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: fireblade
+name: Fireblade
+script: ''
+mesh: w\W_shortsword00.nif
+icon: w\Tx_Shortsword01.tga
+enchanting: burning touch_en
+data:
+  weight: 8.0
+  value: 25
+  weapon_type: ShortBladeOneHand
+  health: 600
+  speed: 2.0
+  reach: 1.0
+  enchantment: 40
+  chop_min: 5
+  chop_max: 7
+  slash_min: 5
+  slash_max: 7
+  thrust_min: 6
+  thrust_max: 9
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: bk_letterfromjzhirr
+name: Letter From J'Zhirr
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nPromissory Note <BR>\r\n<BR>\r\nThe East Empire Company agrees to pay the sum of 10,000 drakes to \"LD\" for services rendered. This note is valid for the duration of one year or until paid in full.<BR>\r\n<BR>\r\nJ'Zhirr <BR>\r\nEast Empire Company <BR>\r\n"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

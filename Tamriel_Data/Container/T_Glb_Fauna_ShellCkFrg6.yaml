@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Glb_Fauna_ShellCkFrg6
+name: Cockle Shell Fragment
+script: ''
+mesh: pi\o\pi_f_shellcocklebk_02c.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - T_Com_ShellCockleFragment_06

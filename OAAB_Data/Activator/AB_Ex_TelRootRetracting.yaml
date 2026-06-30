@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Ex_TelRootRetracting
+name: ''
+script: AB_TelRootRetracting_s
+mesh: OAAB\x\t_root_retracting.nif

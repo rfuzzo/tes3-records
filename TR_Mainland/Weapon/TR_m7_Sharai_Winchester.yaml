@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m7_Sharai_Winchester
+name: Winter Chase
+script: TR_m7_Sharai_WinchesterSc
+mesh: TR\w\w_crossbow_fix.nif
+icon: w\tx_crossbow.dds
+enchanting: TR_m7_Sharai_Winchester_Ench
+data:
+  weight: 8.0
+  value: 450
+  weapon_type: MarksmanCrossbow
+  health: 350
+  speed: 1.0
+  reach: 1.0
+  enchantment: 40
+  chop_min: 25
+  chop_max: 25
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: ''

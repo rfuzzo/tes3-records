@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_HrCom_Var_BlFl1Empty
+name: Floating Barrel
+script: Float
+mesh: hr\o\hr_contain_barrel_01.nif
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Glb_Empty

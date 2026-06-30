@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Com_Set_FlagSmallRed_01
+name: ''
+script: OutsideBanner
+mesh: tr\f\TR_act_small_flag_02.nif

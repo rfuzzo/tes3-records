@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: Act_BM_stone_beast_01
+name: Beast Stone
+script: stoneBeastsScript
+mesh: f\Act_BM_stone_beast_01.NIF

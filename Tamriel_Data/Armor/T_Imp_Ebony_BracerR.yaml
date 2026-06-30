@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Imp_Ebony_BracerR
+name: Imperial Ebony Right Bracer
+script: ''
+mesh: TR\a\TR_A_ImpEbon_Brc.nif
+icon: TR\a\tr_a_impebon_brc.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: RightWrist
+  male_bodypart: T_A_ImpEbonyBracer01_W
+  female_bodypart: ''
+data:
+  armor_type: RightBracer
+  weight: 5.0
+  value: 4500
+  health: 250
+  enchantment: 450
+  armor_rating: 55

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_Moosebite_01
+name: Moosebite Polypore
+script: ''
+mesh: sky\n\sky_ingred_moosebit01.nif
+icon: sky\n\tx_ingred_moosebite.dds
+data:
+  weight: 0.2
+  value: 2
+  effects:
+  - DamageAttribute
+  - FortifyAttribute
+  - DrainAttribute
+  - Telekinesis
+  skills:
+  - Block
+  - Block
+  - Block
+  - None
+  attributes:
+  - Willpower
+  - Endurance
+  - Personality
+  - None

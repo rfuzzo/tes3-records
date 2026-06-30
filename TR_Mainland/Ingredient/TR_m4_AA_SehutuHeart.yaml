@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: TR_m4_AA_SehutuHeart
+name: Bel-Betu's Heart
+script: ''
+mesh: TR\n\TR_Ing_Mummy_heart_01.nif
+icon: TR\n\TR_Ing_Mummy_Heart_01.dds
+data:
+  weight: 0.5
+  value: 0
+  effects:
+  - Dispel
+  - DamageMagicka
+  - DrainFatigue
+  - FortifyAttackBonus
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

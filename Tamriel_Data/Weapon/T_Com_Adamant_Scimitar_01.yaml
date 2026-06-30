@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Com_Adamant_Scimitar_01
+name: Adamantium Scimitar
+script: ''
+mesh: TR\w\TR_w_adamant_scimtar.NIF
+icon: TR\w\TR_w_adamant_scimtar.dds
+enchanting: ''
+data:
+  weight: 30.0
+  value: 3750
+  weapon_type: LongBladeOneHand
+  health: 3500
+  speed: 1.5
+  reach: 1.0
+  enchantment: 750
+  chop_min: 2
+  chop_max: 26
+  slash_min: 1
+  slash_max: 41
+  thrust_min: 3
+  thrust_max: 32
+  flags: ''

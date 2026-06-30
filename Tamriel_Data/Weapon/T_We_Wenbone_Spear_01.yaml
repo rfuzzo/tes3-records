@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_We_Wenbone_Spear_01
+name: Wenbone Spear
+script: ''
+mesh: va\w\va_w_wenbone_spear.nif
+icon: va\w\va_w_wenbone_spear.dds
+enchanting: ''
+data:
+  weight: 16.5
+  value: 120
+  weapon_type: SpearTwoWide
+  health: 890
+  speed: 1.0
+  reach: 1.8
+  enchantment: 40
+  chop_min: 1
+  chop_max: 4
+  slash_min: 1
+  slash_max: 4
+  thrust_min: 6
+  thrust_max: 21
+  flags: ''

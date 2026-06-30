@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: T_GlbDreu_Furn_Chst1Emp
+name: Chest
+script: ''
+mesh: tr\o\tr_furn_dreu_chest_01.nif
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory: []

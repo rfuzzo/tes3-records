@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_q_GilenNote
+name: Note to Gilen Indothan
+script: TR_m1_q_GilenNote_sc
+mesh: m\Text_Note_02.nif
+icon: m\Tx_note_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR><BR>\r\nG.,<BR><BR>\r\nWe're pleased with your recent contributions. Ranyon-ruhn has proven to be quite juicy. Find us at the shrine of Adadpaliki, north of Llothanis, for your reward.<BR><BR>\r\nP.<BR><BR>"
+data:
+  weight: 1.0
+  value: 3
+  book_type: Scroll
+  skill: None
+  enchantment: 50

@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_He_Var_CeraCandleWhite01_64
+name: Ceramic Candlestick
+script: ''
+mesh: sum\l\sum_l_cera_cnw.nif
+icon: sum\l\sum_l_cera_cnw.dds
+sound: ''
+data:
+  weight: 2.0
+  value: 6
+  time: 150
+  radius: 64
+  color:
+  - 245
+  - 140
+  - 40
+  - 0
+  flags: DYNAMIC | CAN_CARRY | FIRE | FLICKER_SLOW

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_MalaTor_Note01
+name: Archeologist's Journal
+script: ''
+mesh: m\Text_Note_02.nif
+icon: m\Tx_note_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nEntry 1\r\n<BR>\r\nMy camp is small but adequate; a bedroll spread across weathered marble tiles that still bear faint traces of Ayleidic geometric patterns. The walls here are remarkably preserved, with intricate carvings depicting what seem to be celestial events or ritualistic gatherings.<BR>\r\n<BR>\r\nI've chosen this room carefully. It appears to have been a secondary storage area, judging by the remnant stone shelves carved directly into the walls. The temperature is cool but not unbearable, and the thick stone provides excellent shelter from the occasional desert winds that sweep through this region of Morrowind.<BR>\r\n<BR>\r\nMy lantern casts long shadows, making the ancient stonework seem almost alive. Every creak and distant echo makes me acutely aware of how isolated I am. The Imperial Archaeological Society has been waiting years for someone to thoroughly investigate Mala Tor, and I intend to be meticulous in my documentation.<BR>\r\n<BR>\r\nDariem<BR>"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

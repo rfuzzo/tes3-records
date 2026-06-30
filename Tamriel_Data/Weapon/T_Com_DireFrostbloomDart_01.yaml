@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Com_DireFrostbloomDart_01
+name: Dire Frostbloom Dart
+script: ''
+mesh: w\W_Dart_silver.NIF
+icon: w\tx_dart_silver.tga
+enchanting: T_Strike_dire_frost_ma_en
+data:
+  weight: 0.2
+  value: 8
+  weapon_type: MarksmanThrown
+  health: 24
+  speed: 1.0
+  reach: 1.0
+  enchantment: 12
+  chop_min: 2
+  chop_max: 5
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE | SILVER

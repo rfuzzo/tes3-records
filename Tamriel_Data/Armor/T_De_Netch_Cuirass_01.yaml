@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_De_Netch_Cuirass_01
+name: Netch Leather Cuirass
+script: ''
+mesh: TR\a\TR_a_Netch_cuirass3_G.nif
+icon: TR\a\TR_a_netch_cuirass_03.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_A_DeNetchCuirass01_C
+  female_bodypart: ''
+data:
+  armor_type: Cuirass
+  weight: 12.0
+  value: 35
+  health: 150
+  enchantment: 60
+  armor_rating: 5

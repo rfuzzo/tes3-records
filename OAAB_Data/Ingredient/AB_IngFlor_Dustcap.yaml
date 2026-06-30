@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: AB_IngFlor_Dustcap
+name: Dustcap
+script: ''
+mesh: OAAB\n\flora_dustcap_ing.nif
+icon: OAAB\n\rem_dustcap.dds
+data:
+  weight: 0.5
+  value: 3
+  effects:
+  - Blind
+  - Burden
+  - ResistCommonDisease
+  - ResistBlightDisease
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

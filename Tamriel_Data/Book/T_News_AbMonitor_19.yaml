@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_AbMonitor_19
+name: MASQUED CAPTAIN ESCAPES CUSTODY
+script: T_ScNews_Bellman_Paper
+mesh: pc\m\pc_text_note_anv_news.nif
+icon: pc\m\pc_text_note_anv_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"PC\\pc_abmonitor.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nMASQUED CAPTAIN ESCAPES CUSTODY<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nLantin Chaskav, captain of the guard at Goldstone, confirmed yesterday that the Masqued Captain escaped Kingdom of Anvil custody only a day after his arrest, frustrating a years-long attempt to bring him to justice for more than half a decade of piracy and brigandry.<BR><BR>\r\nChaskav declined to comment on the circumstances of the corsair's escape. However, an anonymous Goldstone source told the Monitor that the castle's state-of-the-art thaumatic disruptor, designed to protect the site from unauthorized teleportation attempts, had been disabled by unknown actors. \"The Masqued Captain had help, no doubt about it,\" the source said. \"Whoever got him out knew the castle well, and knew exactly where and when to make their move.\"<BR><BR>\r\nWith the Masqued Captain once again at large, all eyes are on the Queen as she considers the Kingdom of Anvil's next steps against this cunning and implacable enemy.<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

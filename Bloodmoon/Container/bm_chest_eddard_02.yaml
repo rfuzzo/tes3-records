@@ -1,0 +1,29 @@
+type: Container
+flags: ''
+id: bm_chest_eddard_02
+name: Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - BM_Nordic01_gloveL
+- - 1
+  - BM_Wool01_shirt
+- - 1
+  - BM_Nordic02_shoes
+- - 1
+  - bk_ChildrenOfTheSky
+- - 1
+  - bookskill_hand to hand2
+- - 1
+  - BookSkill_Enchant2
+- - 1
+  - bookskill_security2
+- - 1
+  - random gold_lev_20
+- - 1
+  - l_m_potion_h
+- - 1
+  - random_unripened_belladonna

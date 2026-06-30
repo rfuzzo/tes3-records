@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Com_SetSky_SignWayPorhnak_01
+name: Porhnak
+script: ''
+mesh: sky\x\sky_act_rsign_porhn1.nif

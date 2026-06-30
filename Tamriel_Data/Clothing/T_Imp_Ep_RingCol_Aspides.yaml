@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Imp_Ep_RingCol_Aspides
+name: Ring of Aspides
+script: ''
+mesh: pc\c\pc_Col_Ring_Xp_01_y.nif
+icon: pc\c\pc_col_ringxp01y.dds
+enchanting: black hand_en
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 55
+  enchantment: 150

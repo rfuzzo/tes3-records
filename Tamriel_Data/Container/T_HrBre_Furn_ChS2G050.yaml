@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_HrBre_Furn_ChS2G050
+name: Small Chest
+script: ''
+mesh: hr\o\hr_smlpchest1.nif
+encumbrance: 25.0
+container_flags: IS_BASE
+inventory:
+- - 50
+  - random gold

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_De_Sound_Troubles_Shrine
+name: 'Sound Effect: House of Troubles'
+script: T_ScSound_ShrineOfTroubles
+mesh: EditorMarker.NIF

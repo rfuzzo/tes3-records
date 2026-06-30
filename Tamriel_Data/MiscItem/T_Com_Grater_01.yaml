@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_Grater_01
+name: Grater
+script: ''
+mesh: hr\m\hr_misc_grater.nif
+icon: hr\m\hr_misc_grater.dds
+data:
+  weight: 1.5
+  value: 5
+  flags: ''

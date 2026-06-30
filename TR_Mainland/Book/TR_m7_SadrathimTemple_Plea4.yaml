@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_SadrathimTemple_Plea4
+name: Rolled Prayer
+script: ''
+mesh: m\Text_paper_roll_01.nif
+icon: m\Tx_paper_roll_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nFor Flavia Catenia.<BR>\r\nYou fought with honor and courage,<BR>\r\nfor our Gods and Emperor.<BR>\r\nYou served righteously,<BR>\r\nin this land far from home.<BR>\r\nYou live on in memories and stories,<BR>\r\nin the hearts of your comrades and friends.<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

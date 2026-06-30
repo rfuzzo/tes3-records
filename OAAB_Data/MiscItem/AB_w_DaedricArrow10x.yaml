@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_w_DaedricArrow10x
+name: Daedric Arrow (10)
+script: AB_QuiverDaedric10x_s
+mesh: OAAB\w\quiver_daedric.nif
+icon: w\tx_arrow_daedric.dds
+data:
+  weight: 3.0
+  value: 200
+  flags: ''

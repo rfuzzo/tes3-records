@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: blue_128_pulse
+name: ''
+script: ''
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 128
+  color:
+  - 107
+  - 126
+  - 214
+  - 0
+  flags: DYNAMIC | PULSE_SLOW

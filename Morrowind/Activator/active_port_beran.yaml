@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: active_port_beran
+name: Berandas Propylon
+script: Warp_Beran
+mesh: i\active_port_Beran.NIF

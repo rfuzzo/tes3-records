@@ -1,0 +1,20 @@
+type: Alchemy
+flags: ''
+id: T_Nor_Potion_RestoreHealth_Q
+name: Quality Restore Health
+script: ''
+mesh: Sky\m\Sky_Misc_Potion_P_Q.nif
+icon: Sky\m\Tx_Misc_Potion_P_Q.dds
+effects:
+- magic_effect: RestoreHealth
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 5
+  min_magnitude: 20
+  max_magnitude: 20
+data:
+  weight: 0.5
+  value: 80
+  flags: ''

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_FW_College_GiLeiNote
+name: Letter to Jeanette Sitte
+script: ''
+mesh: m\text_parchment_01.nif
+icon: m\tx_parchment_01.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nDear Headmaster Sitte,\r\n<BR>\r\n<BR>\r\nEnough is ENOUGH! I have spoken to you over and over again about my concerns for the stability of the Kamal bone fragment exhibit, and STILL you have done NOTHING. I have given you the names of very good carpenters who could make a fine display for the piece, and they tell me you haven't even sent a NOTE OF INTRODUCTION. I am sick and tired of watching this exhibit out of the corner of my eye, all day, EVERY DAY. Why, just recently Prof. Hare was showing a class around the museum, and just their stomping and traipsing around the room set the bone fragment to rocking! By the Nine, it was creeping towards the edge of its shelf as if it KNEW HOW LITTLE YOU CARE FOR IT!\r\n<BR>\r\nIf, Nine forbid, some fool student were to TOUCH the exhibit\r\n<BR>\r\nYou would not have a large bone fragment to display in your museum\r\n<BR>\r\nYou would have very many SMALL bone fragments, and a big mess, and NO MORE NICE GI-LEI TO CLEAN IT UP!\r\n<BR>\r\n<BR>\r\n<DIV ALIGN=\"RIGHT\">\r\nSincerely,\r\n<BR>\r\nGi-Lei\r\n<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

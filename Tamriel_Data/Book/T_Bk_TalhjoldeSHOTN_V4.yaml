@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_TalhjoldeSHOTN_V4
+name: Talhjolde, Horsk Olf
+script: ''
+mesh: sky\m\Sky_Book_Basic_13.nif
+icon: sky\m\Tx_Book_Basic_13.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"500F0F\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nTalhjolde, Horsk Olf<BR><FONT COLOR=\"000000\">\r\npublished by the<BR>\r\nImperial University Press, 3E 421<BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n\"I look upon this mighty view<BR>\r\nIt nestles firm against my heart<BR>\r\nOf all that rests beneath Sky's blue<BR>\r\nI yearn but for my matching part.\"<BR>\r\n<BR>\r\nSo spoke the Maid so icy fair<BR>\r\nWho yet did go without a [spouse] [1]<BR>\r\nBut when her suitors gathered there<BR>\r\nNot one showed worth to offer vows<BR>\r\n<BR>\r\nThe Clouds could blot away the Sun<BR>\r\nBut Wind could blow away the Clouds<BR>\r\nThe Mountain barred the Wind's fair run<BR>\r\nAnd Sun's bright light left Mountain cowed [2]<BR>\r\n<BR>\r\nShe sighed and wished the one for her<BR>\r\nWhen wolfish voice said at her side<BR>\r\n\"Frost Maid, so fair, do not despair<BR>\r\nOn one a maid need not decide.\"<BR>\r\n<BR>\r\n\"The fight of life will often sting<BR>\r\nAnd love will help you see it through<BR>\r\nSo marry each for what they bring<BR>\r\nAnd forge your clan from [this] mighty view.\"<BR>\r\n<BR>\r\nFootnotes:<BR>\r\n[1] The original Nordic word does not have an exact translation, but \"spouse\" is its closest equivalent.<BR>\r\n[2] In the original, this line conveys a sense of smothering or drowning.<BR>"
+data:
+  weight: 3.0
+  value: 40
+  book_type: Book
+  skill: None
+  enchantment: 0

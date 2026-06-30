@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: in_t_pc_hold_crystal_01_sh1
+name: ''
+script: Strong1_Construct
+mesh: i\In_T_crystal_01.NIF

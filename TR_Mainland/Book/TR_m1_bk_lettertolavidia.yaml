@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: TR_m1_bk_lettertolavidia
+name: Letter to Lavidia
+script: ''
+mesh: m\Text_Parchment_02.nif
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nDearest Lavidia,<BR>\r\n<BR>\r\nI am writing this letter from my chambers in a keep at Firewatch. I have longed for my return to you and my children. There aren't many of my kind in this part of Morrowind. The Telvanni are not welcoming to us, yet I feel safe in Firewatch. It is a very nice city and I think you and the kids would like it very much, but I would much rather be home.<BR>\r\n<BR>\r\nWith all the unrest I have been hearing about in Cyrodiil, I have become more and more worried about your safety. There has been talk that the Legions will be recalled soon. I will be very glad to go home, yet trouble will surely arise here in Morrowind. Many of the Dark Elves are very hostile toward the Empire, especially in the far south, as I hear. If the Legion ever leaves Morrowind, the Dark Elves will take full control. I fear the worst.<BR>\r\n<BR>\r\nI hope for your safety, dear Lavidia. Please write back as you always have. You are the one thing that keeps me happy, even on the other side of the Empire. I wish the best for you and the children!<BR>\r\n<BR>\r\nYours,<BR>\r\n<BR>\r\nFalcius<BR>"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

@@ -1,0 +1,28 @@
+type: Alchemy
+flags: ''
+id: T_Com_PotionS_DKey_Silence
+name: Spoiled Potion of Detect Key
+script: ''
+mesh: m\Misc_Potion_Fresh_01.nif
+icon: m\Tx_potion_fresh_01.tga
+effects:
+- magic_effect: DetectKey
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 15
+  min_magnitude: 1
+  max_magnitude: 1
+- magic_effect: Silence
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 40
+  min_magnitude: 1
+  max_magnitude: 1
+data:
+  weight: 1.0
+  value: 35
+  flags: ''

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_Ns_IC_ZenitharAltar
+name: Altar of Zenithar
+script: TR_m7_Ns_IC_ZenitharAltar_sc
+mesh: tr\f\tr_furn_hla_altar_zen.nif

@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m3_falsewall_i3-472-ind
+name: ''
+script: ''
+mesh: i\in_moldcave2_s_end.nif

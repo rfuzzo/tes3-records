@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_i3-729_bk_MiningLedger
+name: Adamantium Mining Ledger
+script: ''
+mesh: m\Text_Octavo_open_02.NIF
+icon: m\Tx_octavo_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This book shows the adamantium that was being mined in and shipped from the mine while it was fully operational. The ink is smudged for the most part, and you can hardly read anything.]<BR>\r\n"
+data:
+  weight: 3.0
+  value: 30
+  book_type: Book
+  skill: None
+  enchantment: 0

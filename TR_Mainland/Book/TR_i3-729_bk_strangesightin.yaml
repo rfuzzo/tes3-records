@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_i3-729_bk_strangesightin
+name: Strange Sightings Report
+script: ''
+mesh: m\Text_Scroll_02.NIF
+icon: m\Tx_scroll_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This scroll contains the report on uncommon sightings of the undead throughout the mine. It expresses the miners' concern about the guards not being able to protect them properly, which supposedly resulted in a few miner deaths under suspicious circumstances.]<BR>"
+data:
+  weight: 0.2
+  value: 20
+  book_type: Scroll
+  skill: None
+  enchantment: 0

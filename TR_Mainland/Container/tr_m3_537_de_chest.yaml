@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: tr_m3_537_de_chest
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - apparatus_a_mortar_01
+- - 1
+  - apparatus_a_retort_01
+- - 1
+  - ingred_racer_plumes_01
+- - 1
+  - ingred_trama_root_01

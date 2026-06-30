@@ -1,0 +1,39 @@
+type: Container
+flags: ''
+id: crate_01_falanaamo
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - -1
+  - common_skirt_04
+- - -1
+  - common_skirt_04_c
+- - -1
+  - common_skirt_05
+- - -1
+  - common_shirt_04
+- - -1
+  - common_shirt_04_a
+- - -1
+  - common_shirt_04_b
+- - -1
+  - common_shirt_04_c
+- - -1
+  - common_shoes_04
+- - -1
+  - common_shoes_05
+- - -1
+  - common_pants_04
+- - -1
+  - common_pants_04_b
+- - -1
+  - common_pants_05
+- - -2
+  - random_expensive_de_mclothes_02
+- - -2
+  - random_expensive_de_fclothes_02
+- - 5
+  - misc_spool_01

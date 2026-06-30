@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Sc_TravelByMySideTR
+name: Travel By My Side
+script: ''
+mesh: m\Text_Scroll_01.nif
+icon: m\Tx_scroll_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nTravel By My Side<BR>\r\nSueth Iillinin <BR><BR>\r\n<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\">\r\nI missed you on the river bank.<BR>\r\nI cried, for all I knew,<BR>\r\nWas lost along with all we were,<BR>\r\nDying there with you.<BR><BR>\r\nThere is so much here that speaks of us,<BR>\r\nThe waters, grass and wind.<BR>\r\nI must leave our precious home,<BR>\r\nBut your memory always tend.<BR><BR>\r\nHolding higher, 'voices charmed'<BR>\r\nThe sounds outside our home;<BR>\r\nI crept away to hear no more,<BR>\r\nIn sadness, always roam.<BR><BR>\r\nThe windows light is all but gone,<BR>\r\nAs the night road welcomes me.<BR>\r\nI leave you love, under stones,<BR>\r\nAlone but you are free.<BR><BR>\r\nI'll hold forever, in my grip,<BR>\r\nThis candle that we've made.<BR>\r\nAnd never yield your oldest fear,<BR>\r\nMy sorrowed, lasting bade.<BR><BR>\r\nSleep upon the sky tonight,<BR>\r\nAnd look upon my smile,<BR>\r\nAs I wipe my tears; remember you,<BR>\r\nStill loving all the while.<BR>"
+data:
+  weight: 1.0999999
+  value: 30
+  book_type: Scroll
+  skill: None
+  enchantment: 0

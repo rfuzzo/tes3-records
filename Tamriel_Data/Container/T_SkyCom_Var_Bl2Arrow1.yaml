@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_SkyCom_Var_Bl2Arrow1
+name: Barrel
+script: ''
+mesh: sky\o\Sky_Cont_Barrel_02.nif
+encumbrance: 75.0
+container_flags: IS_BASE
+inventory:
+- - 30
+  - iron arrow

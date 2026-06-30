@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m7_Oth_MG_3_EndRoomMark
+name: ''
+script: TR_m7_Oth_MG_3_ScEndRoomMark
+mesh: editormarker.nif

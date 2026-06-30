@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: active_velothi_altar_Mephala
+name: Altar to Mephala
+script: DaedraMephala
+mesh: f\Furn_velothi_altar_01.nif

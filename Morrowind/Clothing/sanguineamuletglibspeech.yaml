@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: sanguineamuletglibspeech
+name: Amulet of Sanguine Glib Speech
+script: ''
+mesh: c\Amulet_Expensive_2.NIF
+icon: c\tx_amulet_expens2.tga
+enchanting: sanguine glib speech_en
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 1500
+  enchantment: 600

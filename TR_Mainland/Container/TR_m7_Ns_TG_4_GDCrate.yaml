@@ -1,0 +1,11 @@
+type: Container
+flags: PERSISTENT
+id: TR_m7_Ns_TG_4_GDCrate
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 12
+  - T_De_Subst_Greydust_01

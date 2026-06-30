@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: TR_m3_sackloot_i3-645
+name: Cloth Sack
+script: ''
+mesh: o\Contain_Com_Sack_02.NIF
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - TR_m3_key_i3-645
+- - 1
+  - T_IngMine_OreGold_01
+- - 100
+  - random gold

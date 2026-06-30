@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: TR_m4_And_GavrosDesk
+name: Desk
+script: TR_m4_And_GavrosDeskScript
+mesh: TR\o\TR_De_R_Desk01.NIF
+encumbrance: 75.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - TR_m4_HH_gavros_letters
+- - 1
+  - T_Mw_Random_ClutterDesk

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Yne_Iron_WarpickFlame
+name: Ynesai Iron Flamecleaver
+script: ''
+mesh: pi\w\pi_w_yiron_warpick.nif
+icon: pi\w\pi_w_yiron_warpick.dds
+enchanting: flame_enu
+data:
+  weight: 11.0
+  value: 39
+  weapon_type: SpearTwoWide
+  health: 550
+  speed: 1.0
+  reach: 1.8
+  enchantment: 45
+  chop_min: 2
+  chop_max: 4
+  slash_min: 2
+  slash_max: 4
+  thrust_min: 5
+  thrust_max: 16
+  flags: ''

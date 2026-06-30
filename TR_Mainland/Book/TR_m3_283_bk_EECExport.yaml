@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_283_bk_EECExport
+name: EEC Export Record
+script: ''
+mesh: m\Text_Quarto_03.nif
+icon: m\Tx_quarto_03.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>[This book is filled with figures on the Export of products to other parts of the Empire. You can see the amounts traded of goods such as Ebony, Flin and Dwemer Artifacts as recorded by the Census and Excise authorities. It is dated within the past 5 years]\r\n<BR>\r\n\r\n"
+data:
+  weight: 3.0
+  value: 10
+  book_type: Book
+  skill: None
+  enchantment: 0

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_SetDoomstoneGC_Magnus
+name: Magnus Stone
+script: T_ScObj_DoomHMagnusPC
+mesh: pc\f\pc_dmstn_gc_heavens.nif

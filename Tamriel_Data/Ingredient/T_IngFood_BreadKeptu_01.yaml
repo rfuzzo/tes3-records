@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_BreadKeptu_01
+name: Braided Bread
+script: ''
+mesh: pi\n\pi_ing_keptubread.nif
+icon: pi\n\pi_ing_keptubread.dds
+data:
+  weight: 0.4
+  value: 3
+  effects:
+  - RestoreHealth
+  - None
+  - None
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_DeCeramicFlask_01
+name: Ceramic Flask
+script: ''
+mesh: OAAB\m\misc_ceramic_flask.nif
+icon: OAAB\m\misc_ceramic_flask.dds
+data:
+  weight: 2.0
+  value: 2
+  flags: ''

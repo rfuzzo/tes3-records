@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2_q_Nm_Wake_crew
+name: Orphaned Dancer Log
+script: ''
+mesh: m\Text_Parchment_02.nif
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nOrphaned Dancer<BR>\r\n<BR>\r\nDocked on 3rd of Rain's Hand, 3E 302<BR>\r\nCargo:<BR>\r\n7 crates mole crab eggs<BR>\r\n2 crates bug musk<BR>\r\n5 crates common redware pottery<BR>\r\n<BR>\r\nLeft dock 5th of Rain's Hand, 3E 302<BR>\r\nCargo:<BR>\r\n30 sacks wickwheat<BR>\r\n14 crates saltrice<BR>\r\n10 Temple tapestries<BR>\r\n<BR>\r\nFull listing of crew<BR>\r\nDanir Sildreth, captain<BR>\r\nHelma Nelvilo<BR>\r\nLloden Omellian<BR>\r\nTravin Benelas<BR>\r\nElitlaya Zenammi<BR>\r\n<BR>\r\nNote: Ship sunk within hours of leaving Necrom due to a fire on board. Crew member Travin Benelas could be rescued. Other crew and all cargo deemed lost.<BR>\r\n<BR>\r\n"
+data:
+  weight: 0.05
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 100

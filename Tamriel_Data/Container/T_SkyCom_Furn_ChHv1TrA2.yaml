@@ -1,0 +1,39 @@
+type: Container
+flags: ''
+id: T_SkyCom_Furn_ChHv1TrA2
+name: Chest
+script: ''
+mesh: Sky\o\Sky_Cont_Chest_04_01.nif
+encumbrance: 250.0
+container_flags: IS_BASE
+inventory:
+- - -1
+  - BM bear cuirass
+- - -1
+  - T_Nor_Guard_PauldronL_01
+- - -1
+  - T_Nor_Guard_PauldronR_01
+- - -1
+  - fur_bracer_left
+- - -1
+  - fur_bracer_right
+- - -1
+  - fur_colovian_helm
+- - -1
+  - fur_cuirass
+- - -1
+  - fur_greaves
+- - -1
+  - fur_helm
+- - -1
+  - iron boots
+- - -1
+  - iron_cuirass
+- - -1
+  - iron_shield
+- - -1
+  - nordic_iron_cuirass
+- - -1
+  - nordic_leather_shield
+- - -1
+  - nordic_ringmail_cuirass

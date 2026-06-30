@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_OE_sc_ETlegionmap
+name: Map of the Empire
+script: ''
+mesh: pc\m\pc_misc_pmap_02.nif
+icon: pc\m\pc_misc_pmap_02.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR> <br>\r\n<IMG SRC=\"theempire.tga\" WIDTH=\"377\" HEIGHT=\"253\"><BR><BR>\r\n<BR>\r\n[This is a map of the provinces of Tamriel] <br>\r\n"
+data:
+  weight: 0.2
+  value: 15
+  book_type: Scroll
+  skill: None
+  enchantment: 0

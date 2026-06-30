@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: bm_saber_seasplitter
+name: Seasplitter
+script: ''
+mesh: w\W_SABER_IRON.nif
+icon: w\Tx_Saber_iron.tga
+enchanting: seasplitter_en
+data:
+  weight: 15.0
+  value: 220
+  weapon_type: LongBladeOneHand
+  health: 700
+  speed: 1.4
+  reach: 1.0
+  enchantment: 100
+  chop_min: 2
+  chop_max: 20
+  slash_min: 1
+  slash_max: 18
+  thrust_min: 2
+  thrust_max: 6
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

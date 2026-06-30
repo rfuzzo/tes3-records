@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Rga_WoodPlate_01
+name: Wooden Plate
+script: ''
+mesh: hf\m\hf_misc_rga_WdPlate_01.nif
+icon: hf\m\hf_misc_rga_WdPlate_01.dds
+data:
+  weight: 0.6
+  value: 1
+  flags: ''

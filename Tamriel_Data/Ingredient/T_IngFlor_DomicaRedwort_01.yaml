@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_DomicaRedwort_01
+name: Redwort Flower
+script: ''
+mesh: pc\n\pc_ing_dredwort.nif
+icon: pc\n\pc_tx_ingred_dredwort.dds
+data:
+  weight: 0.1
+  value: 2
+  effects:
+  - FortifyAttribute
+  - CurePoison
+  - DamageHealth
+  - Invisibility
+  skills:
+  - Block
+  - None
+  - None
+  - None
+  attributes:
+  - Personality
+  - None
+  - None
+  - None

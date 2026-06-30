@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Com_Silver_Warpick_Frost
+name: Silver Shardpick
+script: ''
+mesh: tr\w\tr_w_silver_wpick_01.nif
+icon: tr\w\tr_w_silver_wpick_01.dds
+enchanting: dire shard_en
+data:
+  weight: 10.0
+  value: 210
+  weapon_type: AxeOneHand
+  health: 1300
+  speed: 1.3
+  reach: 1.0
+  enchantment: 50
+  chop_min: 7
+  chop_max: 16
+  slash_min: 7
+  slash_max: 16
+  thrust_min: 1
+  thrust_max: 3
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE | SILVER

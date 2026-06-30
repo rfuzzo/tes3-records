@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_AT45_TelManor_Sketchbook
+name: 'Sketchbook '
+script: ''
+mesh: pc\m\pc_bk_book_38.nif
+icon: pc\m\pc_bk_book_38.tga
+enchanting: ''
+text: <DIV ALIGN="CENTER"> <BR> <IMG SRC="TR\TR_VelothBookArt07.dds" WIDTH="240" HEIGHT="240"> <BR>
+data:
+  weight: 1.0
+  value: 2
+  book_type: Book
+  skill: None
+  enchantment: 0

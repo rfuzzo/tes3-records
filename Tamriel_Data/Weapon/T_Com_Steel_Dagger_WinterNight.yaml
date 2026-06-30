@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Com_Steel_Dagger_WinterNight
+name: Dagger of the Winter's Night
+script: ''
+mesh: w\W_Dagger_dragon.nif
+icon: w\Tx_dagger_dragon.tga
+enchanting: T_Use_WinterNight
+data:
+  weight: 3.0
+  value: 260
+  weapon_type: ShortBladeOneHand
+  health: 450
+  speed: 2.5
+  reach: 1.0
+  enchantment: 20
+  chop_min: 4
+  chop_max: 5
+  slash_min: 4
+  slash_max: 5
+  thrust_min: 5
+  thrust_max: 5
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

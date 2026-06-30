@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_Dragonscales_01
+name: Dragonscales
+script: ''
+mesh: pc\n\pc_ing_dragonscale.nif
+icon: pc\n\pc_tx_ingred_dragons.dds
+data:
+  weight: 1.0
+  value: 100
+  effects:
+  - DamageHealth
+  - ResistPoison
+  - FireShield
+  - Silence
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

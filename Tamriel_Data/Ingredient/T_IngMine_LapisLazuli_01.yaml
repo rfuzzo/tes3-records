@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngMine_LapisLazuli_01
+name: Lapis Lazuli
+script: ''
+mesh: pi\n\pi_ing_lapislazuli.nif
+icon: pi\n\pi_ing_lapislazuli.dds
+data:
+  weight: 0.2
+  value: 150
+  effects:
+  - DamageAttribute
+  - ShockDamage
+  - RestoreAttribute
+  - ResistParalysis
+  skills:
+  - Block
+  - None
+  - Block
+  - None
+  attributes:
+  - Speed
+  - None
+  - Speed
+  - None

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_DeCrGlassCup_01
+name: Crystal Glass Cup
+script: ''
+mesh: OAAB\m\misc_cr_glass_cup.nif
+icon: OAAB\m\misc_cr_glass_cup.dds
+data:
+  weight: 1.0
+  value: 1
+  flags: ''

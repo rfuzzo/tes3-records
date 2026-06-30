@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Orc_Regular_Staff_01
+name: Orcish Staff
+script: ''
+mesh: tr\w\tr_w_orcish_staff.nif
+icon: tr\w\tr_w_orcish_staff.dds
+enchanting: ''
+data:
+  weight: 15.0
+  value: 1350
+  weapon_type: BluntTwoWide
+  health: 1100
+  speed: 1.75
+  reach: 1.7
+  enchantment: 180
+  chop_min: 2
+  chop_max: 10
+  slash_min: 3
+  slash_max: 14
+  thrust_min: 1
+  thrust_max: 8
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

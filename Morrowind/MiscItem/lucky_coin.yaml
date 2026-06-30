@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: lucky_coin
+name: Old Man's Lucky Coin
+script: ''
+mesh: m\Gold_001.NIF
+icon: m\Tx_Gold_001.tga
+data:
+  weight: 0.0
+  value: 0
+  flags: ''

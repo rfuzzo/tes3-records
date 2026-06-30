@@ -1,0 +1,21 @@
+type: Container
+flags: ''
+id: com_chest_02_v_armor10
+name: Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - -1
+  - imperial shield
+- - -1
+  - imperial_chain_greaves
+- - -1
+  - imperial_chain_pauldron_right
+- - -1
+  - imperial_chain_pauldron_left
+- - -1
+  - imperial_chain_cuirass
+- - -1
+  - imperial_chain_coif_helm

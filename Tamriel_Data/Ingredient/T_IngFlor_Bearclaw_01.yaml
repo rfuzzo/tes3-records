@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_Bearclaw_01
+name: Bearclaw Flower
+script: ''
+mesh: sky\n\sky_ingred_bearclaw.nif
+icon: sky\n\tx_ingred_bearclaw.dds
+data:
+  weight: 0.2
+  value: 2
+  effects:
+  - DrainAttribute
+  - FortifyHealth
+  - RestoreAttribute
+  - FortifyAttackBonus
+  skills:
+  - Block
+  - None
+  - Block
+  - None
+  attributes:
+  - Willpower
+  - None
+  - Strength
+  - None

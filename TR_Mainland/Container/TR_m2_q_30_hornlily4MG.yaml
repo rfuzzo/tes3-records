@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m2_q_30_hornlily4MG
+name: Horn Lily
+script: TR_m2_q_30_plants
+mesh: TR\o\TR_f_Alm_flower01d.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - random_bulbs

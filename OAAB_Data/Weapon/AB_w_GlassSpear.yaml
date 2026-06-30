@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_GlassSpear
+name: Glass Spear
+script: ''
+mesh: OAAB\w\rem_glass_spear.nif
+icon: OAAB\w\rem_glass_spear.dds
+enchanting: ''
+data:
+  weight: 8.0
+  value: 12000
+  weapon_type: SpearTwoWide
+  health: 620
+  speed: 1.0
+  reach: 1.8
+  enchantment: 30
+  chop_min: 1
+  chop_max: 7
+  slash_min: 1
+  slash_max: 7
+  thrust_min: 6
+  thrust_max: 40
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

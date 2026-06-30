@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: BM_KA_green_big
+name: ''
+script: ''
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 700
+  color:
+  - 101
+  - 197
+  - 194
+  - 0
+  flags: ''

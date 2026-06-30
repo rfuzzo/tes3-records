@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: TR_m4_orangecen_i4-260-hla
+name: ''
+script: ''
+mesh: l\Light_OM_censure.NIF
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 512
+  color:
+  - 255
+  - 128
+  - 64
+  - 0
+  flags: PULSE_SLOW

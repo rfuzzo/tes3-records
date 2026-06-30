@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_w_CorkbulbArrow10x
+name: Corkbulb Arrow (10)
+script: AB_QuiverCorkbulb10x_s
+mesh: OAAB\w\quiver_corkbulb.nif
+icon: w\tx_arrow_corkbulb.dds
+data:
+  weight: 1.0
+  value: 10
+  flags: ''

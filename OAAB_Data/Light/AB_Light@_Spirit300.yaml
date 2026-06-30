@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: AB_Light@_Spirit300
+name: ''
+script: ''
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 300
+  color:
+  - 66
+  - 41
+  - 69
+  - 0
+  flags: PULSE_SLOW

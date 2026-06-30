@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_SilverWakizashi
+name: Silver Wakizashi
+script: ''
+mesh: OAAB\w\silver_wakizashi.nif
+icon: OAAB\w\silver_wakizashi.dds
+enchanting: ''
+data:
+  weight: 8.0
+  value: 96
+  weapon_type: ShortBladeOneHand
+  health: 300
+  speed: 2.25
+  reach: 1.0
+  enchantment: 34
+  chop_min: 8
+  chop_max: 11
+  slash_min: 7
+  slash_max: 13
+  thrust_min: 2
+  thrust_max: 7
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE | SILVER

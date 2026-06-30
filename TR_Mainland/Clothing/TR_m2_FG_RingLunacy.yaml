@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m2_FG_RingLunacy
+name: Darythi's Ring of Lunacy
+script: ''
+mesh: c\C_Ring_extravagant_1.NIF
+icon: c\tx_ring_extravagant01.tga
+enchanting: TR_m2_FG_LunacyEnch
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 800
+  enchantment: 600

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: furn_bannerd_danger_01
+name: Danger
+script: OutsideBanner
+mesh: f\Furn_bannerD_danger_01.NIF

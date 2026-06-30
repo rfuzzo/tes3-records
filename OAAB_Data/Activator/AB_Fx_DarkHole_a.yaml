@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Fx_DarkHole_a
+name: ''
+script: AB_NightActivate_s
+mesh: OAAB\e\cave_door_night.nif

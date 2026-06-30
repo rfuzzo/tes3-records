@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m2_q_TTShrine3
+name: Shrine of Hindsight
+script: TR_m2_q_TTShrine3_Script
+mesh: TR\f\tr_shrine_sothasil.nif

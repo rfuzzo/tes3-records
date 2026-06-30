@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_DeGreenBowl
+name: Green Bowl
+script: ''
+mesh: OAAB\m\greenBowl.nif
+icon: OAAB\m\greenBowl.tga
+data:
+  weight: 1.0
+  value: 2
+  flags: ''

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Nor_DrinkingHorn_01
+name: Drinking Horn
+script: ''
+mesh: Sky\m\Sky_Misc_Horn_01.nif
+icon: Sky\m\Tx_Misc_Horn_01.dds
+data:
+  weight: 2.0
+  value: 15
+  flags: ''

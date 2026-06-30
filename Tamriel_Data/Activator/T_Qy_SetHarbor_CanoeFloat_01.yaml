@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Qy_SetHarbor_CanoeFloat_01
+name: Canoe
+script: Float
+mesh: pi\x\pi_ex_qu_canoe_01.nif

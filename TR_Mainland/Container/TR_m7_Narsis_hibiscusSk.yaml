@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m7_Narsis_hibiscusSk
+name: Small Sack
+script: ''
+mesh: TR\o\TR_contain_small_sack.nif
+encumbrance: 20.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - T_IngSpice_Hibiscus_01

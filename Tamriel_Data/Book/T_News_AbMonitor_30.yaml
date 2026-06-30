@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_AbMonitor_30
+name: DIBELLANS IN DISARRAY
+script: T_ScNews_Bellman_Paper
+mesh: pc\m\pc_text_note_anv_news.nif
+icon: pc\m\pc_text_note_anv_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"PC\\pc_abmonitor.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nDIBELLANS IN DISARRAY AS FACTIONALISM GRIPS FAITH<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nThe fate of Anvil's largest and most prominent temple appears much in doubt as competing internal factions continue to vie for control of the Great Faith of Dibella. Having already cast aside the cult's long-standing hedonistic tenets in favor of a new dogma preaching ascetic purity, Primate Hiral Varollus has displayed no sign of letting up the pressure. New restrictions have been imposed on the usage of the Sacred Baths in the Temple of Dibella Estetica, and the Faith has retracted all of its former charitable contributions to the Guild of Courtesans. The Primate has herself relocated from the Faith's primary cathedral in Cyrodiil City to the larger temple in Anvil, where she has cloistered herself behind a cadre of spiritual advisors and refused to take any visitors.<BR><BR>\r\nTraditionalists in the cults of Dibella have not given up the fight. Several sources at the Temple of Dibella Estetica spoke with the Monitor on condition of anonymity, revealing a temple wracked by infighting and bureaucratic friction. With shaven heads becoming an unofficial badge of the ascetic movement within the faith, one Dibellan source claimed that those who have kept their hair have been targeted by punitive demotions and disproportionate penalties for petty offenses. Those who have embraced the ascetic line, meanwhile, have seen themselves rocket to high positions within the clergy, even leapfrogging their non-ascetic former superiors in some cases.<BR><BR>\r\nThe Temple of Dibella Estetica has long been a destination for pilgrims from across the Imperial Province and beyond. It is unclear how the ongoing internal conflict will impact visitors from outside the clergy, but pilgrims are advised to take caution when visiting the Temple not to offend either the dominant ascetics or their hedonist rivals at this time.<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_BlueGlassBowl_01
+name: Blue Glass Bowl
+script: ''
+mesh: tr\m\tr_misc_blueg_bowl01.nif
+icon: tr\m\tr_misc_bluglsbowl01.dds
+data:
+  weight: 4.0
+  value: 5
+  flags: ''

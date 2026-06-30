@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Kha_Copper_Warhammer_01
+name: Copper Warhammer
+script: ''
+mesh: els\w\els_w_cpr_warhammer.nif
+icon: els\w\els_w_cpr_warhammer.tga
+enchanting: ''
+data:
+  weight: 36.0
+  value: 800
+  weapon_type: BluntTwoClose
+  health: 3700
+  speed: 1.0
+  reach: 1.5
+  enchantment: 70
+  chop_min: 1
+  chop_max: 39
+  slash_min: 1
+  slash_max: 33
+  thrust_min: 1
+  thrust_max: 2
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

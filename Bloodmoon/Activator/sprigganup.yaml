@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: sprigganup
+name: ''
+script: sprigganeffect
+mesh: spriggan_summon.NIF

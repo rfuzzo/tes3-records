@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_SoftDoctrinesOfMagnusTR
+name: The Soft Doctrines of Magnus
+script: ''
+mesh: m\Text_Octavo_05.NIF
+icon: m\Tx_book_04.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nTHE SOFT DOCTRINES OF MAGNUS INVISIBLE<BR>\r\n<BR>\r\nThe Dragon is bound with noble sighs.<BR>\r\nThe Serpent is bound with shifting tones.<BR>\r\nThe Sun is bound with metal flames.<BR>\r\nThe Earth is bound with secret knots.<BR>\r\n<BR>\r\n"
+data:
+  weight: 3.0
+  value: 40
+  book_type: Book
+  skill: None
+  enchantment: 0

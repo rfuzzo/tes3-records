@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Mw_Flora_Redfireflw01
+name: Duskbell
+script: ''
+mesh: TR\f\TR_flora_fireflower_01.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 3
+  - T_Mw_Random_FlorFireflower

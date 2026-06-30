@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_ShellConch
+name: Conch Shell
+script: ''
+mesh: pi\m\pi_m_shellconch.nif
+icon: pi\m\pi_m_shellconch.dds
+data:
+  weight: 0.25
+  value: 9
+  flags: ''

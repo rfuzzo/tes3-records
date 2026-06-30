@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: TR_m4_adhuhartis_barrel
+name: Wooden Barrel
+script: ''
+mesh: o\contain_barrel10.nif
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 30
+  - chitin arrow
+- - 20
+  - iron arrow

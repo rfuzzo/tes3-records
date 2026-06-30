@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_OE_HorseNote
+name: Note
+script: ''
+mesh: m\text_note_02.nif
+icon: m\tx_note_02.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nHas anyone seen a horse?<BR>\r\n<BR>\r\nChestnut mare, half Valusian wild horse and half Nibenean courser. Blue eyes. Answers to the name of 'Roz.' Last seen at the Guar pen outside the city gates.<BR>\r\n<BR>\r\nSir Hormidac Farralie<BR>\r\nKnight of the Order of the Fiery Hoof<BR>\r\n<BR>"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

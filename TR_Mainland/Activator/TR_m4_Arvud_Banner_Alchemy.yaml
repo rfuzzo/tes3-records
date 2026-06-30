@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_Arvud_Banner_Alchemy
+name: 'Atriban Deras: Alchemist'
+script: OutsideBanner
+mesh: f\Furn_bannerD_alchemy_01.NIF

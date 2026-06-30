@@ -1,0 +1,25 @@
+type: Armor
+flags: ''
+id: T_Orc_Leather_Cuirass_01
+name: Orc Leather Cuirass
+script: ''
+mesh: Sky\a\Sky_A_ORCLTH_CU.nif
+icon: Sky\a\Tx_ORCLTH_Cuirass.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_A_OrcLeatherBoots01_C
+  female_bodypart: ''
+- biped_object_type: RightPauldron
+  male_bodypart: T_A_OrcLeatherBoots01_Cl
+  female_bodypart: ''
+- biped_object_type: LeftPauldron
+  male_bodypart: T_A_OrcLeatherBoots01_Cl
+  female_bodypart: ''
+data:
+  armor_type: Cuirass
+  weight: 9.0
+  value: 150
+  health: 325
+  enchantment: 60
+  armor_rating: 12

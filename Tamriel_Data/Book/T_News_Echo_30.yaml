@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Echo_30
+name: FLASH CRASH OF EEC STOCK
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_text_note_nar_news.nif
+icon: tr\m\tr_text_note_nar_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\tr_echo_512_256.dds\" WIDTH=\"348\" HEIGHT=\"168\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nFLASH CRASH OF EEC STOCK<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nUtter mayhem for a brief moment in Narsis' western-style Mesa Exchange, as East Empire Company stock falls to a devastating low and almost immediately rises back to a staggering high. Believed to have been brought about by a courier's announcement of current earnings (this information being devastating to EEC profits), the news practically brought a stampede to the stock exchange, with all shareholders quickly selling their stocks, leading to the mass fall in prices.<BR><BR>\r\nHowever, sharp and foreseeing as ever, House Hlaalu quickly used this mishap on the part of the outlander EEC and Mesa Exchange representatives, and swept up close to a hundred thousand drakes worth of stock. With stock prices rising high once again, the Hlaalu have once again cemented themselves as the most cunning and commercially successful of all in Morrowind and beyond.<BR><BR>\r\nEEC stock continues to rise and fall at a normal rate as before, though perhaps it would be wise on any discerning reader's part to take heed of such an event as this flash crash, and prepare for such opportunities in the future.<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

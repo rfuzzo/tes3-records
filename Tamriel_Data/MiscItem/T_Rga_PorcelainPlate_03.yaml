@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Rga_PorcelainPlate_03
+name: Porcelain Plate
+script: ''
+mesh: hf\m\hf_misc_rga_PcPlate_03.nif
+icon: hf\m\hf_misc_rga_PCPlate_03.dds
+data:
+  weight: 2.7
+  value: 15
+  flags: ''

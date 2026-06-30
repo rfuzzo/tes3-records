@@ -1,0 +1,11 @@
+type: MiscItem
+flags: PERSISTENT
+id: BM_waterlife_UNIQUE1
+name: Waters of Life
+script: watersScript
+mesh: n\Potion_Cyro_whiskey_01.nif
+icon: n\Tx_cyro_whiskey_01.tga
+data:
+  weight: 1.0
+  value: 100
+  flags: ''

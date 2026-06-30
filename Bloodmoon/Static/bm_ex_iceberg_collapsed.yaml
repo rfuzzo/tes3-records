@@ -1,0 +1,4 @@
+type: Static
+flags: PERSISTENT
+id: bm_ex_iceberg_collapsed
+mesh: x\bm_ex_iceberg_collapsed.NIF

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2_q_26_convoscrollres
+name: Letter from Darran Flavius
+script: ''
+mesh: m\Text_Scroll_02.NIF
+icon: m\Tx_scroll_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nDear Mother,<BR>\r\n<BR>\r\nThank you for your letter that you sent. Your %PCRace friend brought it to me without any hassle. Please give them my thanks again.<BR>\r\n<BR>\r\nI'm glad to hear you are doing so well. I am also doing well. Kemel-Ze is even more wonderful the more you stay here. Remember how last time I told you we were deciphering the origins of the coherer? It turned out to be dated slightly after the original origins of Kemel-Ze. Little details like these only bring us one step closer to finding the true cause of the Disappearance of the Dwarves! \r\n<BR>\r\nI will keep you updated on the process. It is odd how time flies when you're enjoying yourself so much. I will try to remember to write to you sooner. I hope father is treating you well!<BR>\r\n<BR>\r\nYours,<BR>\r\n<BR>\r\nDarran<BR>"
+data:
+  weight: 0.2
+  value: 2
+  book_type: Scroll
+  skill: None
+  enchantment: 0

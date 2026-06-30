@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_Propylon_Vandirelyon
+name: Vandirelyon Propylon
+script: TR_m7_Propylon_Vandirelyon_sc
+mesh: tr\i\tr_in_portal_vand.nif

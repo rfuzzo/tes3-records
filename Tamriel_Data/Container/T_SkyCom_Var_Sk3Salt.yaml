@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_SkyCom_Var_Sk3Salt
+name: Sack
+script: ''
+mesh: Sky\o\Sky_Cont_Sack_01_03.nif
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 9
+  - T_Sky_Random_Salt

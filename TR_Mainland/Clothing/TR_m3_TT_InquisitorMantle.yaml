@@ -1,0 +1,23 @@
+type: Clothing
+flags: ''
+id: TR_m3_TT_InquisitorMantle
+name: Mantle of the Inquisitor
+script: TR_m3_TT_InquisitorMantleScript
+mesh: tr\c\tr_c_exq_robe_01_gnd.nif
+icon: tr\c\tr_exquisite_robe_01.dds
+enchanting: TR_m3_TT_InquisitorMantle_En
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_C_DeExRobe01_C
+  female_bodypart: ''
+- biped_object_type: LeftAnkle
+  male_bodypart: ''
+  female_bodypart: ''
+- biped_object_type: RightAnkle
+  male_bodypart: ''
+  female_bodypart: ''
+data:
+  clothing_type: Robe
+  weight: 3.0
+  value: 1000
+  enchantment: 50

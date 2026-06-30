@@ -1,0 +1,36 @@
+type: Alchemy
+flags: ''
+id: tr_m3_q_A5_spoiledwine
+name: Spoiled Sutch Wine
+script: TR_m3_q_A5_spoiledwine_SCN
+mesh: TR\m\tr_misc_wine_06.nif
+icon: TR\m\tr_misc_wine_06.dds
+effects:
+- magic_effect: DamageSkill
+  skill: Acrobatics
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 30
+  min_magnitude: 5
+  max_magnitude: 5
+- magic_effect: DrainFatigue
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 20
+  max_magnitude: 20
+- magic_effect: DamageHealth
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 5
+  min_magnitude: 5
+  max_magnitude: 5
+data:
+  weight: 1.0
+  value: 20
+  flags: ''

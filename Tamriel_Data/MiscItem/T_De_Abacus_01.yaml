@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_Abacus_01
+name: Abacus
+script: ''
+mesh: tr\m\tr_misc_de_abacus01.nif
+icon: tr\m\tr_misc_de_abacus01.dds
+data:
+  weight: 3.0
+  value: 20
+  flags: ''

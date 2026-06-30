@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_Narsis74_Debts
+name: Rolled Paper
+script: ''
+mesh: m\Text_paper_roll_01.nif
+icon: m\Tx_paper_roll_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[A list of waterfront traders, what debts they owe, and where they live.] <BR>\r\n<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

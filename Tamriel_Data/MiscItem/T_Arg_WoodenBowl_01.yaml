@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Arg_WoodenBowl_01
+name: Wooden Bowl
+script: ''
+mesh: bm\m\bm_misc_wd_bowl_01.nif
+icon: bm\m\bm_m_arg_w_bowl_01.dds
+data:
+  weight: 1.25
+  value: 1
+  flags: ''

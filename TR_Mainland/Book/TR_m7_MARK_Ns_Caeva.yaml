@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_MARK_Ns_Caeva
+name: Caeva Jacronix
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: pi\m\pi_m_cnq_ngopta.dds
+enchanting: ''
+text: "NPC ID: TR_m7_Caeva Jacronix\r\nPositionCell in topic \"illicit cult worship\"\r\nQuest: TR_m7_Ns_TT_Chavana3a"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: light_ashl_lantern_04_128
+name: ''
+script: ''
+mesh: l\Light_Ashl_Lantern_04.NIF
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 128
+  color:
+  - 112
+  - 0
+  - 128
+  - 0
+  flags: DYNAMIC | PULSE_SLOW

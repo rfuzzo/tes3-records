@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Sc_MeditationsTobraHF
+name: Meditations on Tobr'a
+script: ''
+mesh: pc\m\pc_misc_rga_scrollbc.nif
+icon: pc\m\pc_misc_rga_scrollbc.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nMeditations on Tobr'a<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nBreathe in and become inundated with spirits; forget breath long enough and reveal tobr'a among them. They are the head-lost and hungry souls who cloud judgment and feast on the essence of good men. Of them there are a million or more.<BR>\r\n<BR>\r\nExpel breath, and with it all foreign spirits, and lay bare the blissful innocence of your whole form; let it be witnessed by no one. Sit with it, learn its weaknesses.<BR>\r\n<BR>\r\nReplace breath, stronger this time to confound prior limit, and hide it deep beneath your gut; hold at least until overwhelmed. But keep focus. There is a brontide coming from somewhere lower, and it will chase tobr'a from your head and hands.<BR>\r\n<BR>\r\nExpel all breath or it will expel you, and call all parts of self back to the core. Feel the solidus between your shoulders turn to coil. It is tuned to the differential harmony of sister-winds kindred in hatred; for this, there is a proverb, but these days brass will often suffice.<BR>\r\n<BR>\r\nBreathe in and become breath, for within you now has matured a war of perpendicular feats. You are definitely there more times than one. Look here: the world splits twice. It is perforated with the fallacy of limits. Wear this lesson as habiliment and no one vector can ever hope to deliver you in your entirety.<BR><BR>\r\nExpel breath and be done with the thing. Lament on the man who once mistook himself for a single theory; within every piece of you is a mosaic of truth, for which skin is only parenthetical. When you split the heart open, what spills out isn't blood.<BR>\r\n<BR>"
+data:
+  weight: 4.0
+  value: 150
+  book_type: Scroll
+  skill: Mysticism
+  enchantment: 100

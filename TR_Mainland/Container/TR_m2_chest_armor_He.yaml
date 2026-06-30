@@ -1,0 +1,23 @@
+type: Container
+flags: ''
+id: TR_m2_chest_armor_He
+name: Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - imperial boots
+- - 1
+  - imperial cuirass_armor
+- - 1
+  - imperial left gauntlet
+- - 1
+  - imperial left pauldron
+- - 1
+  - imperial right gauntlet
+- - 1
+  - imperial right pauldron
+- - 1
+  - imperial shield

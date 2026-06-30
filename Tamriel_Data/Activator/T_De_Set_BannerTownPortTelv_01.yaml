@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_De_Set_BannerTownPortTelv_01
+name: Port Telvannis
+script: OutsideBanner
+mesh: TR\f\TR_banner_Port_Telvan.nif

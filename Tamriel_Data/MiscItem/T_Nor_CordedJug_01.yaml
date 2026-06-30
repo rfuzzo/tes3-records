@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Nor_CordedJug_01
+name: Corded Jug
+script: ''
+mesh: sky\m\sky_misc_cord_jug_01.nif
+icon: sky\m\sky_misc_cord_jug.dds
+data:
+  weight: 2.0
+  value: 5
+  flags: ''

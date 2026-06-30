@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Rga_RedwarePlate_02
+name: Plate
+script: ''
+mesh: pc\m\pc_misc_rga_rplate02.nif
+icon: pc\m\pc_misc_rga_rplate02.dds
+data:
+  weight: 2.0
+  value: 5
+  flags: ''

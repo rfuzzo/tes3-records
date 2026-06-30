@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_SetSutch_WindowIn_01
+name: ''
+script: T_ScObj_DaylightPanel
+mesh: pc\i\pc_in_sut_window_01.nif

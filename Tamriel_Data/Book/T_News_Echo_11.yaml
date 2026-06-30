@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Echo_11
+name: MIR CORRUP SWAMPED
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_text_note_nar_news.nif
+icon: tr\m\tr_text_note_nar_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\tr_echo_512_256.dds\" WIDTH=\"348\" HEIGHT=\"168\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nMIR CORRUP SWAMPED<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nMir Corrup, the once-famous resort town, is being threatened by encroaching toxic swamps. The sulfurous marshlands, having fouled the town's renowned hot springs, now jeopardize its trade hub status as well. Caravanners are already reporting difficulties transiting the Purple Road; Stuck carriages, swarms of insects, and collapsed infrastructure are all increasingly common. Llaros Samalsi, the governor of Shipal-Sharai, said he was working tirelessly to ensure a steady flow of cross-border trade. \"We cannot change nature, but I am doing as much as possible to ensure travelers' safety along my part of the Purple Road.\" Hlaalu patrolling has been stepped up, and the governor personally took a trip to Narsis to discuss the situation with the Imperial Magistrate. His efforts have not been in vain, as prices of key trade goods such as flin, Colovian cheese, and marshmerrow pulp remained stable in the first quarter of 3E427.<BR><BR>\r\n<DIV ALIGN=\"CENTER\">\r\nULVINI BALEN'S FINE CLOTHING<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nNeed fine clothes in Narsis? Look no further than Ulvini Balen's shop in the Old Quarter. Our family tradition of timeless elegance ensures you'll always be at the bleeding edge of fashion, regardless of what's trending.<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

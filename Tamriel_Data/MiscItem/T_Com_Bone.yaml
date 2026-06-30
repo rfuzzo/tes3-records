@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_Bone
+name: Bone
+script: ''
+mesh: f\Furn_bone_01.nif
+icon: tr\m\tr_misc_bone.dds
+data:
+  weight: 0.5
+  value: 0
+  flags: ''

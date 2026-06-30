@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_AA_Tomb_2_Note
+name: Old Note
+script: ''
+mesh: m\Text_Note_02.nif
+icon: m\Tx_note_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\nDo not touch the Emerald!<BR>\r\n<BR>\r\nI was foolish enough do do it and now I want to die!<BR>\r\n<BR>\r\nYou may think you are strong and that fearing death is something for weaklings, but you must know that loving death is something for everyone.<BR>\r\n<BR>\r\nIf you touch this Emerald it will come for you! It won't let you die! Just leave this place at once!<BR>"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 100

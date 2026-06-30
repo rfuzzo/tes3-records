@@ -1,0 +1,20 @@
+type: Alchemy
+flags: ''
+id: p_restore_health_b
+name: Bargain Restore Health
+script: ''
+mesh: m\Misc_Potion_Bargain_01.nif
+icon: m\Tx_potion_bargain_01.tga
+effects:
+- magic_effect: RestoreHealth
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 5
+  min_magnitude: 1
+  max_magnitude: 1
+data:
+  weight: 1.5
+  value: 5
+  flags: ''

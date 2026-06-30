@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Nor_WoodenSpoon_04a
+name: Wooden Spoon
+script: ''
+mesh: Sky\m\Sky_Misc_W_Spn_04_01.nif
+icon: Sky\m\Tx_Misc_W_Spn_04_01.dds
+data:
+  weight: 1.0
+  value: 1
+  flags: ''

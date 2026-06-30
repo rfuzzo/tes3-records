@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Imp_Reman_Spear_01
+name: Reman Legion Spear
+script: ''
+mesh: pc\w\pc_w_reman_spear.nif
+icon: pc\w\pc_w_reman_spear.dds
+enchanting: ''
+data:
+  weight: 14.0
+  value: 150
+  weapon_type: SpearTwoWide
+  health: 820
+  speed: 1.0
+  reach: 1.8
+  enchantment: 40
+  chop_min: 2
+  chop_max: 5
+  slash_min: 2
+  slash_max: 5
+  thrust_min: 7
+  thrust_max: 15
+  flags: ''

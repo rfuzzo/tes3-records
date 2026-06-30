@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_QyC_Var_LanternShellRed_256
+name: ''
+script: ''
+mesh: pi\l\pi_l_cnq_lantern_1red.nif
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 256
+  color:
+  - 245
+  - 140
+  - 40
+  - 0
+  flags: DYNAMIC | FIRE | FLICKER_SLOW

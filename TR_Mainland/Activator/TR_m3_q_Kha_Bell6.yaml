@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_q_Kha_Bell6
+name: Indoril Bell
+script: TR_m3_q_Kha_Bell6_sc
+mesh: TR\f\tr_act_ind_bell_06.NIF

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: active_port_maran
+name: Marandus Propylon
+script: Warp_Maran
+mesh: i\active_port_Maran.NIF

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m3_w_LordGeneralSword
+name: Lord General's Sword
+script: ''
+mesh: w\W_broadsword_ebony.nif
+icon: w\Tx_Broadsword_ebony.tga
+enchanting: TR_m3_OE_LordGeneralSwordEN
+data:
+  weight: 24.0
+  value: 18000
+  weapon_type: LongBladeOneHand
+  health: 2000
+  speed: 1.25
+  reach: 1.0
+  enchantment: 125
+  chop_min: 8
+  chop_max: 28
+  slash_min: 4
+  slash_max: 28
+  thrust_min: 4
+  thrust_max: 28
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

@@ -1,0 +1,25 @@
+type: Container
+flags: ''
+id: TR_m3_books2_i3-597-ind
+name: Antique Chest Marked "Books"
+script: ''
+mesh: TR\o\TR_furn_De_Rm_Chest.NIF
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - TR_m3_q_TheRiftBook1
+- - 1
+  - T_Bk_ConfessionsAndResortTR
+- - 1
+  - T_Bk_FourthBookOfDustTR
+- - 1
+  - T_Bk_GospelOfSaintVelothTR_V1
+- - 1
+  - T_Bk_HandbookOfTheDevoutTR
+- - 1
+  - T_Bk_HerHandsTR
+- - 1
+  - T_Bk_RegretTR
+- - 1
+  - T_Bk_TheLightAndTheDarkTR

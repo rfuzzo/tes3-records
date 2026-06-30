@@ -1,0 +1,22 @@
+type: Armor
+flags: ''
+id: T_Orc_Leather_GauntletL_01
+name: Orc Leather Left Gauntlet
+script: ''
+mesh: Sky\a\Sky_A_ORCLTH_GLT.nif
+icon: Sky\a\Tx_ORCLTH_Gauntlet.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: LeftHand
+  male_bodypart: T_A_OrcLeatherGauntl01_Ha
+  female_bodypart: ''
+- biped_object_type: LeftWrist
+  male_bodypart: ''
+  female_bodypart: ''
+data:
+  armor_type: LeftGauntlet
+  weight: 2.0
+  value: 40
+  health: 80
+  enchantment: 10
+  armor_rating: 12

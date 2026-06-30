@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Nor_Cm_AmuletStone_02
+name: Stone Amulet
+script: ''
+mesh: sky\c\sky_amulet_stone_02.nif
+icon: sky\c\tx_amulet_stone_02.dds
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 2
+  enchantment: 90

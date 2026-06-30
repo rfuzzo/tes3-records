@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_NoddingStreakwort
+name: Nodding Streakwort
+script: ''
+mesh: tr\n\tr_ing_nodstreakwort.nif
+icon: tr\n\tr_ing_nodstreakwort.dds
+data:
+  weight: 0.1
+  value: 7
+  effects:
+  - Blind
+  - LightningShield
+  - FortifySkill
+  - DrainFatigue
+  skills:
+  - None
+  - None
+  - Acrobatics
+  - None
+  attributes:
+  - None
+  - None
+  - Strength
+  - None

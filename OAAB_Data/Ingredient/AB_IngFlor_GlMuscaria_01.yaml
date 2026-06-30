@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: AB_IngFlor_GlMuscaria_01
+name: Glowing Chanterelle
+script: ''
+mesh: OAAB\n\ing_muscaria01.nif
+icon: OAAB\n\n_muscaria01.dds
+data:
+  weight: 0.5
+  value: 2
+  effects:
+  - ResistPoison
+  - DrainHealth
+  - Light
+  - Blind
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

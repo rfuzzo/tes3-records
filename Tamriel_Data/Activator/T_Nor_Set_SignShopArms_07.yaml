@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Nor_Set_SignShopArms_07
+name: Weapons and Armor
+script: ''
+mesh: sky\f\sky_act_sign_arms_07.nif

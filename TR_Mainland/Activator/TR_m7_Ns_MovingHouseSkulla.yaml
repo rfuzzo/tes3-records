@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m7_Ns_MovingHouseSkulla
+name: Uhammaku's Skull
+script: TR_m7_Ns_MovingHouse_Pedact
+mesh: m\misc_skull00.nif

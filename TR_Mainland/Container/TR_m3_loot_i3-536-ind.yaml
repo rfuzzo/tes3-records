@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m3_loot_i3-536-ind
+name: Stolen Chest
+script: ''
+mesh: o\Contain_De_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Dae_Regular_Naginata_01

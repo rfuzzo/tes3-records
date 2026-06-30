@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Com_SetSky_SignWayFNeu_01
+name: Fort Neugrad
+script: ''
+mesh: sky\x\sky_act_rsign_fneu1.nif

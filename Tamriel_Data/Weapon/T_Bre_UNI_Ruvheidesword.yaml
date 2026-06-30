@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Bre_UNI_Ruvheidesword
+name: Ruvheide Barrow Sword
+script: ''
+mesh: hr\w\hr_w_nedic_sword.nif
+icon: hr\w\hr_w_nedic_sword.dds
+enchanting: T_Strike_Ruvheide_Sword
+data:
+  weight: 14.0
+  value: 1200
+  weapon_type: LongBladeOneHand
+  health: 1000
+  speed: 1.35
+  reach: 1.0
+  enchantment: 0
+  chop_min: 6
+  chop_max: 18
+  slash_min: 5
+  slash_max: 20
+  thrust_min: 1
+  thrust_max: 10
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

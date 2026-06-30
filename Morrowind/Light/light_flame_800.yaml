@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: light_flame_800
+name: ''
+script: ''
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 800
+  color:
+  - 223
+  - 179
+  - 45
+  - 0
+  flags: FLICKER

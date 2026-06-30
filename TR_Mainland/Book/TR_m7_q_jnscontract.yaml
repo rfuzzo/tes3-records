@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: TR_m7_q_jnscontract
+name: Ja-Natta Contract
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This document outlines an agreement between Felmaru Llendu of Ald Iuval and the Ja-Natta Syndicate. The Syndicate is allowed to operate in the city in exchange for money and goods.]\r\n<BR>\r\n\r\n"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

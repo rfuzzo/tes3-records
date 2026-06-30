@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m1_Q_RangirthAshPit
+name: Ash Pit
+script: TR_m1_Q_AshPitOfferingsScript
+mesh: f\Furn_ashpit_02.nif

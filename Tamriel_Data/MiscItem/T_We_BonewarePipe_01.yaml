@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_We_BonewarePipe_01
+name: Boneware Pipe
+script: ''
+mesh: VA\m\va_m_We_pipe.nif
+icon: va\m\va_m_We_pipe.dds
+data:
+  weight: 1.2
+  value: 4
+  flags: ''

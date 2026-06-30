@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Nor_Orn_Seax_01
+name: Nordic Seax
+script: ''
+mesh: TR\w\TR_w_seax_steel.nif
+icon: TR\w\TR_w_seax_nordic.dds
+enchanting: ''
+data:
+  weight: 12.0
+  value: 100
+  weapon_type: ShortBladeOneHand
+  health: 750
+  speed: 1.6
+  reach: 1.0
+  enchantment: 60
+  chop_min: 4
+  chop_max: 18
+  slash_min: 6
+  slash_max: 15
+  thrust_min: 6
+  thrust_max: 18
+  flags: ''

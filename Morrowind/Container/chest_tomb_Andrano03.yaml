@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: chest_tomb_Andrano03
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - bonemold_gah-julan_helm
+- - 1
+  - sc_elementalburstfire
+- - 1
+  - p_restore_luck_c
+- - 1
+  - p_shock_resistance_b

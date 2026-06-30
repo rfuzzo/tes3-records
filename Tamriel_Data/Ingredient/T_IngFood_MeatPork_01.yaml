@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_MeatPork_01
+name: Pork
+script: ''
+mesh: pc\n\pc_ing_porkmeat.nif
+icon: pc\n\pc_tx_ing_porkmeat.dds
+data:
+  weight: 1.5
+  value: 2
+  effects:
+  - RestoreFatigue
+  - DrainAttribute
+  - FortifyFatigue
+  - None
+  skills:
+  - None
+  - Block
+  - None
+  - None
+  attributes:
+  - None
+  - Speed
+  - None
+  - None

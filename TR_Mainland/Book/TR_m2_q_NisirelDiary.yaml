@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: TR_m2_q_NisirelDiary
+name: Nisirel's Diary
+script: TR_m2_q_sc_NisirelDiary
+mesh: m\Text_Folio_03.nif
+icon: m\Tx_folio_03.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<DIV ALIGN=\"LEFT\">\r\n<BR>\r\nI saw him once... then he was gone! It was late at night and as if I were in a dream. We were like, how can I explain it -- two phantoms? He did not acknowledge me as I passed him by, but I could feel our destinty in the depths of my soul. Under the shadow of the moon -- he was so romantic! So mysterious!\r\n<BR>\r\nCan people really fall in love so fast? Maybe I've been too much on my own. Now everything that once seemed so normal has become strange to me, as if I'm living in another person's life. I catch myself sighing to fill the silence, when I'm dreaming of a world that may never be. Does he think of me, ever? Do I plague his thoughts as he plagues mine? How is it possible that I could mean nothing to him, and he could be everything to me? He must love me as I love him, he must!\r\n<BR>\r\nOh, diary, the most wonderful thing has happened. I've been waiting by the place where we last passed each other by, every night since that fateful one, and every night I was left in the chill air, tears near freezing on my face as I tried to stay awake, to catch some glimpse of my beloved. And finally he came by again! I wanted to say something, but my words caught in my throat. How could I greet him, if I did not even know his name? So I followed him -- back to his store! Oh, destiny, he is a healer, an alchemist, like me! I dream of all the other things we could share. I stood by the sign which bears his name, and whispered it to myself again and again so I might never forget it. I've never felt such delight in a simple name. My hand shakes even to write it now. Drithnil Virith. Drithnil Virith. I am in love with Drithnil Virith!\r\n<BR>\r\nI went to see Drithnil today. I felt so courageous, stepping over his threshhold. His store was organized and well kept, just as I dreamed it would be. I planned out what I was going to say to him, I was ready to confess it all and throw myself upon his mercy, but... I could not. When I opened my mouth to speak, and looked into his eyes, it was as if all thought was plucked from my head in an instant. He looked at me like I was some kind of idiot. I was so ashamed! I pretended to browse through his wares, and fled as soon as I could. I feel as dry as guar-skin, from all the tears I've shed. My only relief is that there are no more in me. Can I ever face him again?\r\n<BR>\r\nI've returned to his store for what feels like the thousandth time. I still cannot speak to him. Is this to be all my love amounts to? To drift in and out of his world, as if I truly am a phantom, or a dream?\r\n<BR>\r\n<BR>"
+data:
+  weight: 1.0
+  value: 10
+  book_type: Book
+  skill: None
+  enchantment: 100

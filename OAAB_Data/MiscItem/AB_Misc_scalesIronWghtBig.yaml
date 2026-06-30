@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_scalesIronWghtBig
+name: Iron Weight
+script: ''
+mesh: OAAB\m\scalesIronWghtBig.nif
+icon: OAAB\m\scalesIronWghtBig.dds
+data:
+  weight: 0.2
+  value: 2
+  flags: ''

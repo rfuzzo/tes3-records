@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: de_p_chest_02_sirilonwe
+name: Sirilonwe's Chest
+script: sirilonweChest
+mesh: o\Contain_De_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - BookSkill_Heavy Armor3
+- - 1
+  - BookSkill_Alteration1

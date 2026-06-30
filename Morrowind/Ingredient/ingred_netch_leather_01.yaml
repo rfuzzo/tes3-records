@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_netch_leather_01
+name: Netch Leather
+script: ''
+mesh: n\Ingred_Netch_Leather_01.nif
+icon: n\Tx_netch_leather_01.tga
+data:
+  weight: 1.0
+  value: 1
+  effects:
+  - FortifyAttribute
+  - FortifyAttribute
+  - DrainAttribute
+  - CureParalyzation
+  skills:
+  - Block
+  - Block
+  - Block
+  - Block
+  attributes:
+  - Endurance
+  - Intelligence
+  - Personality
+  - Strength

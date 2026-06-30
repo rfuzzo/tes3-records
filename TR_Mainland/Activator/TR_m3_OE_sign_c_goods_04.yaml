@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_OE_sign_c_goods_04
+name: The Fetcher's Pawn
+script: SignRotate
+mesh: TR\f\tr_act_sign_pawn_01.nif

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Glb_Sound_Chloride_Pool
+name: 'Sound Effect: Chloride Pool'
+script: T_ScSound_ChloridePool
+mesh: EditorMarker.NIF

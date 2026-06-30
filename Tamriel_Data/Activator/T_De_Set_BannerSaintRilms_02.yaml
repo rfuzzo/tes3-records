@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_De_Set_BannerSaintRilms_02
+name: Saint Rilms
+script: OutsideBanner
+mesh: TR\f\TR_act_banner_rilms02.nif

@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: light_com_lantern_bm_unique
+name: The Watchman's Eye
+script: ''
+mesh: l\Light_Com_Lantern_01.NIF
+icon: l\Light_Com_Lantern_01.tga
+sound: ''
+data:
+  weight: 5.0
+  value: 500
+  time: 500
+  radius: 512
+  color:
+  - 245
+  - 140
+  - 40
+  - 0
+  flags: DYNAMIC | CAN_CARRY | FIRE | FLICKER_SLOW

@@ -1,0 +1,44 @@
+type: Alchemy
+flags: ''
+id: T_De_Drink_PunavitJug
+name: Punavit Jug
+script: ''
+mesh: TR\m\tr_misc_velkvase.nif
+icon: tr\m\tr_misc_velkvase.dds
+effects:
+- magic_effect: Sound
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 30
+  min_magnitude: 20
+  max_magnitude: 20
+- magic_effect: WeaknessToFire
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 30
+  min_magnitude: 25
+  max_magnitude: 25
+- magic_effect: WeaknessToCommonDisease
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 25
+  max_magnitude: 25
+- magic_effect: FortifyFatigue
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 30
+  min_magnitude: 10
+  max_magnitude: 10
+data:
+  weight: 10.0
+  value: 100
+  flags: ''

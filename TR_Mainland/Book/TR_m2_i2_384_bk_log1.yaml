@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2_i2_384_bk_log1
+name: Water-Logged Captain's Log
+script: ''
+mesh: TR\m\TR_book_closed_i11_AY.nif
+icon: TR\m\TR_book_closed_i11_AY.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR> [Very little of the log is legible. All but a few small fragments have run together and faded.] <BR>\r\n"
+data:
+  weight: 1.5
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

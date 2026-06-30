@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m7_Ns_TheaterTable
+name: ''
+script: TR_m7_Ns_StageFright_ScSceneObj
+mesh: tr\f\tr_furn_de_p_table_05.nif

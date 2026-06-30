@@ -1,0 +1,12 @@
+type: Alchemy
+flags: ''
+id: TR_m4_q_PW_Hibdun_Poison
+name: Hibdun's Poison
+script: TR_m4_q_PW_DrinkPoison
+mesh: m\Misc_Potion_Quality_01.nif
+icon: m\Tx_potion_quality_01.tga
+effects: []
+data:
+  weight: 1.0
+  value: 20
+  flags: ''

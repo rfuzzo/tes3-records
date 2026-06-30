@@ -1,0 +1,35 @@
+type: Container
+flags: ''
+id: com_closet_01_fg
+name: Closet
+script: ''
+mesh: o\Contain_Com_Closet_01.NIF
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory:
+- - -1
+  - steel longbow
+- - -1
+  - steel spear
+- - -1
+  - steel halberd
+- - -1
+  - silver spear
+- - -1
+  - steel staff
+- - -1
+  - silver staff
+- - -1
+  - steel dai-katana
+- - -1
+  - steel claymore
+- - -1
+  - silver claymore
+- - -1
+  - steel_shield
+- - -1
+  - steel_towershield
+- - -1
+  - iron_shield
+- - -1
+  - iron_towershield

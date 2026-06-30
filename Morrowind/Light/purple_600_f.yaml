@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: purple_600_f
+name: ''
+script: ''
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 600
+  color:
+  - 121
+  - 77
+  - 128
+  - 0
+  flags: ''

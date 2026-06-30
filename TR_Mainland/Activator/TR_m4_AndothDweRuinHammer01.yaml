@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_AndothDweRuinHammer01
+name: ''
+script: TR_m4_AndothDweBarSet01_scp
+mesh: sky\m\sky_misc_hammer_01.nif

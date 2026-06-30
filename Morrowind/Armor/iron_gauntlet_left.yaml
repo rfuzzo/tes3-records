@@ -1,0 +1,22 @@
+type: Armor
+flags: ''
+id: iron_gauntlet_left
+name: Iron Left Gauntlet
+script: ''
+mesh: a\A_Iron_Gauntlet_GND.nif
+icon: a\Tx_Iron_Gauntlet.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: LeftHand
+  male_bodypart: a_iron_gauntlet
+  female_bodypart: ''
+- biped_object_type: LeftWrist
+  male_bodypart: ''
+  female_bodypart: ''
+data:
+  armor_type: LeftGauntlet
+  weight: 7.0
+  value: 14
+  health: 50
+  enchantment: 25
+  armor_rating: 10

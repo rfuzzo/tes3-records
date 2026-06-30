@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_SeptimsGateInn_NPC2
+name: Iulia Monti
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: ''
+enchanting: ''
+text: "female imperial, C&E agent\r\n\r\nwears expensive nibenese robes"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: AB_a_SteelCuirass
+name: Light Steel Cuirass
+script: ''
+mesh: OAAB\a\a_steel_chest_gnd.nif
+icon: OAAB\a\a_steel_chest.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: AB_a_Steel_ch
+  female_bodypart: ''
+data:
+  armor_type: Cuirass
+  weight: 27.0
+  value: 700
+  health: 620
+  enchantment: 170
+  armor_rating: 25

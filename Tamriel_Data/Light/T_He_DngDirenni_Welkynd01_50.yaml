@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_He_DngDirenni_Welkynd01_50
+name: Minor Welkynd
+script: T_ScObj_WelkyndStoneSky
+mesh: sky\m\sky_misc_dwelk_01.nif
+icon: sky\m\tx_misc_welk_01.dds
+sound: ''
+data:
+  weight: 0.8
+  value: 100
+  time: -1
+  radius: 50
+  color:
+  - 169
+  - 237
+  - 234
+  - 0
+  flags: CAN_CARRY

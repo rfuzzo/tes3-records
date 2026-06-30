@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: AB_r_KwamaMolt02
+name: Kwama Husk
+script: ''
+mesh: OAAB\o\kwama_molt_02.nif
+encumbrance: 0.0
+container_flags: ORGANIC | IS_BASE
+inventory:
+- - 3
+  - AB_lvl_KwamaChitin

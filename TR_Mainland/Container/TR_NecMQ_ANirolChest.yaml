@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: TR_NecMQ_ANirolChest
+name: Alcedo Nirol's Chest
+script: TR_NecMQ_AlcedoChestScript
+mesh: o\Contain_Com_Chest_01.NIF
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - TR_NecMQ_ICDocuments
+- - 1
+  - bk_OnMorrowind
+- - 1
+  - common_robe_05_b
+- - 1
+  - common_shoes_03
+- - 25
+  - random gold

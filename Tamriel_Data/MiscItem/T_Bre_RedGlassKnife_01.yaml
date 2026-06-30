@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Bre_RedGlassKnife_01
+name: Gilded Red Glass Knife
+script: ''
+mesh: hr\m\m_red_glass_knf.nif
+icon: hr\m\m_red_glass_knf.dds
+data:
+  weight: 1.0
+  value: 50
+  flags: ''

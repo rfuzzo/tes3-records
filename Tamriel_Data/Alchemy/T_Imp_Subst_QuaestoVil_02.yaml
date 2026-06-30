@@ -1,0 +1,44 @@
+type: Alchemy
+flags: ''
+id: T_Imp_Subst_QuaestoVil_02
+name: Torporic Quaesto Vil
+script: ''
+mesh: pc\m\pc_misc_quaestovil_02.nif
+icon: pc\m\pc_misc_quaestovil_02.dds
+effects:
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Agility
+  range: OnSelf
+  area: 0
+  duration: 90
+  min_magnitude: 30
+  max_magnitude: 30
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Speed
+  range: OnSelf
+  area: 0
+  duration: 90
+  min_magnitude: 30
+  max_magnitude: 30
+- magic_effect: Blind
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 90
+  min_magnitude: 30
+  max_magnitude: 30
+- magic_effect: Sound
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 90
+  min_magnitude: 30
+  max_magnitude: 30
+data:
+  weight: 2.0
+  value: 300
+  flags: ''

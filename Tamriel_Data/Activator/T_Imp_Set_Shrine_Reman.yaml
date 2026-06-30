@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_Set_Shrine_Reman
+name: Shrine of Reman
+script: T_ScObj_ShrineReman
+mesh: pc\x\pc_ex_wshrn_01.nif

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_ComArtPaintCyro03
+name: Painting
+script: ''
+mesh: OAAB\m\com_paint_cyro_03.nif
+icon: OAAB\m\com_painting_cyro_03.tga
+data:
+  weight: 4.0
+  value: 250
+  flags: ''

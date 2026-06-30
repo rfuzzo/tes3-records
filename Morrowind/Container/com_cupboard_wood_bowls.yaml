@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: com_cupboard_wood_bowls
+name: Cupboard
+script: ''
+mesh: o\Contain_Com_Cupboard_01.NIF
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - 4
+  - Misc_Com_Wood_Bowl_01

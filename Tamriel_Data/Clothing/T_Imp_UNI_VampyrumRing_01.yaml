@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Imp_UNI_VampyrumRing_01
+name: Vampyrum Order Ring
+script: ''
+mesh: pc\c\pc_c_vampyr_ring_01.nif
+icon: pc\c\pc_c_vampyr_ring_01.dds
+enchanting: T_Use_VampyrumRing
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 3700
+  enchantment: 150

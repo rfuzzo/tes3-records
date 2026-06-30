@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_M3_notedeadscout
+name: Scout's Note
+script: ''
+mesh: m\Text_Note_02.nif
+icon: m\Tx_note_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThere is nothing unusual to be found westward. I have decided to travel northeast, towards the mountains. There I will be safe from them...<BR>\r\n<BR>\r\n... I think it might be too late. I have to run. Maybe I will make it, maybe I won't. I know the ancient ruins of Dun Akafell cannot be too far from here. I pray to Mara I will make it...<BR>\r\n<BR>\r\n... I have failed.<BR>\r\n"
+data:
+  weight: 1.0
+  value: 5
+  book_type: Scroll
+  skill: None
+  enchantment: 0

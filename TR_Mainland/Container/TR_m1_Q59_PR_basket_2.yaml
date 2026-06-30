@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m1_Q59_PR_basket_2
+name: Basket
+script: TR_m1_Q59_PR_script_2
+mesh: TR\o\TR_cont_com_basket01.nif
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Mw_Random_Food

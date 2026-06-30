@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_De_GlassGilded_BracerL_01
+name: Gilded Glass Left Bracer
+script: ''
+mesh: tr\a\tr_a_glassgd_brcl_01gd.nif
+icon: tr\a\tr_a_glassgilded_brc.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: LeftWrist
+  male_bodypart: T_A_DeGlassGildedBracer01_W
+  female_bodypart: ''
+data:
+  armor_type: LeftBracer
+  weight: 3.0
+  value: 4000
+  health: 400
+  enchantment: 100
+  armor_rating: 50

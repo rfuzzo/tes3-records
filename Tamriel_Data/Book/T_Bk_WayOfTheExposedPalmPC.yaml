@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_WayOfTheExposedPalmPC
+name: Way of the Exposed Palm
+script: ''
+mesh: pc\m\PC_bk_Book_15.nif
+icon: pc\m\pc_bk_book_15.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nWay of the Exposed Palm<BR><BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nUntrained pugilists are known to make a club of the hand and beat on their opponents like a drum. It is a truly uncouth way to victory. The way of the exposed palm is far more sophisticated and far more deadly.<BR>\r\n<BR>\r\nConsider this question. A man is struck in the chest by the flat of a plate. There is a small bruise but he is otherwise unharmed. Now break the plate and strike him in the chest with a shard using the same force. Now the man is dead or grievously wounded. How can this be? How can a small object harm more than a larger?<BR>\r\n<BR>\r\nThis essential point is the first finger of the way of the exposed palm. The five part way is concentration, reaction, equilibrium, speed, breath control. To master unarmed combat all five digits must be mastered.<BR>\r\n<BR>\r\nThe parable of the man and the plate is concentration. All of the blow is concentrated into a small point. Therefore it is more potent. To strike with just the thumb can be more deadly that to strike with the whole fist. However, only the highly trained fighter can do this.<BR>\r\n<BR>\r\nThe second aspect of concentration is the mental discipline to think hard about what is being done. Distractions are ignored as the will maintains the ultimate goal. The truly deadly fighter can even block out his own pain in this manner.<BR>\r\n<BR>"
+data:
+  weight: 2.0
+  value: 125
+  book_type: Book
+  skill: HandToHand
+  enchantment: 0

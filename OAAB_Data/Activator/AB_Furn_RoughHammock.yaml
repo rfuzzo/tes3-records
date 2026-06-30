@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Furn_RoughHammock
+name: Hammock
+script: Bed_Standard
+mesh: OAAB\u\roughHammock.nif

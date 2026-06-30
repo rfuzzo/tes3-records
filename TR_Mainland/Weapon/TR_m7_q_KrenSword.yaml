@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m7_q_KrenSword
+name: Kren's Adamantium Shortsword
+script: ''
+mesh: w\W_Adamantium_ShortSword.NIF
+icon: w\Tx_w_Adtium_Shortsword.dds
+enchanting: TR_m7_q_KrenSwordEn
+data:
+  weight: 20.0
+  value: 2000
+  weapon_type: ShortBladeOneHand
+  health: 900
+  speed: 2.0
+  reach: 1.0
+  enchantment: 60
+  chop_min: 7
+  chop_max: 15
+  slash_min: 7
+  slash_max: 15
+  thrust_min: 7
+  thrust_max: 20
+  flags: ''

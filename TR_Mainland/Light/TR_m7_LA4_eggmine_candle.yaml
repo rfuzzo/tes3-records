@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: TR_m7_LA4_eggmine_candle
+name: ''
+script: TR_m7_LA4_eggmine_stage1_sc
+mesh: l\Light_Com_Candle_07.NIF
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 157
+  color:
+  - 245
+  - 140
+  - 40
+  - 0
+  flags: DYNAMIC | FIRE | FLICKER_SLOW

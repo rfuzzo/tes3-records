@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m3_q_TheRiftDeskItem7
+name: Quill Pen
+script: TR_m3_q_TheRiftFloodDisable
+mesh: m\Misc_Quill.NIF
+icon: m\Misc_Quill.tga
+data:
+  weight: 0.01
+  value: 1
+  flags: ''

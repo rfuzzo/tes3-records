@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3-649_Altar_Talos
+name: Altar of Talos
+script: TR_m3-649_TalosScript
+mesh: f\Furn_imp_altar_01.nif

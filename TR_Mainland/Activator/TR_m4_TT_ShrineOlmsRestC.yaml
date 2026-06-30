@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_TT_ShrineOlmsRestC
+name: Saint Olms
+script: TR_m4_TT_ShrineOlmsRest_sc
+mesh: tr\m\tr_misc_urn_01.nif

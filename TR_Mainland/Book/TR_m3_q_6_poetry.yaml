@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_q_6_poetry
+name: Edryon's Poetry
+script: TR_m3_q_6_poetry_activate
+mesh: m\Text_Parchment_01.NIF
+icon: m\Tx_parchment_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nOh!  Folvalie<BR>\r\nYour skin sullied by foreign winds<BR>\r\nBound neither by land nor law<BR>\r\nHow I love you.<BR>\r\nThe bones of earth compel me<BR>\r\nInto a desire transcending ritual.<BR>\r\n<BR>\r\nOh!  Folvalie<BR>\r\nName sundered by rocks of Veloth<BR>\r\nLegs not rooted to land<BR>\r\nBut instead to the sky, traveling endlessly<BR>\r\nYour strange beauty forbidden by spirits.<BR>\r\n<BR>\r\nOh!  Folvalie<BR>\r\nHow I yearn to cross the Av Orethan<BR>\r\nAnd take you to Azura's bosom,<BR>\r\nWhere we will pour ink into the river,<BR>\r\nAnd soil the land with our love.<BR>\r\n<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

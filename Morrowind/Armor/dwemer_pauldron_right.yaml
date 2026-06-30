@@ -1,0 +1,22 @@
+type: Armor
+flags: ''
+id: dwemer_pauldron_right
+name: Dwemer Right Pauldron
+script: ''
+mesh: a\A_Dwemer_Pauldron_UA.nif
+icon: a\TX_Dwemer_pauldron.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: RightUpperArm
+  male_bodypart: a_dwemer_pauldron_ua
+  female_bodypart: ''
+- biped_object_type: RightPauldron
+  male_bodypart: a_dwemer_cl_pauldron
+  female_bodypart: ''
+data:
+  armor_type: RightPauldron
+  weight: 10.0
+  value: 360
+  health: 200
+  enchantment: 20
+  armor_rating: 20

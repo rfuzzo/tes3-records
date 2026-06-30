@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Mao_Dagger_01
+name: Maormer Dagger
+script: ''
+mesh: tr\w\tr_w_mao_dagger.nif
+icon: tr\w\tr_w_mao_dagger.dds
+enchanting: ''
+data:
+  weight: 2.0
+  value: 250
+  weapon_type: ShortBladeOneHand
+  health: 450
+  speed: 2.5
+  reach: 1.0
+  enchantment: 25
+  chop_min: 6
+  chop_max: 14
+  slash_min: 6
+  slash_max: 14
+  thrust_min: 6
+  thrust_max: 11
+  flags: ''

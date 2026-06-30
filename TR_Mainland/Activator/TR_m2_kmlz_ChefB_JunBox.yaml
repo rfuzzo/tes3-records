@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m2_kmlz_ChefB_JunBox
+name: Dwemer Junction Box
+script: TR_m2_kmlz_ChefB_JunBox_sc
+mesh: i\act_dwe_powerbox00.NIF

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_act_m4-506_button
+name: Secret Button
+script: TR_m4_506_button_action
+mesh: f\active_button_01.nif

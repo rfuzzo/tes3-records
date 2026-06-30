@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m3_OE_FG_w_ratsmash
+name: Rat Smasher
+script: ''
+mesh: w\W_Club00.nif
+icon: w\Tx_club01.tga
+enchanting: ''
+data:
+  weight: 12.0
+  value: 50
+  weapon_type: BluntOneHand
+  health: 400
+  speed: 1.5
+  reach: 1.0
+  enchantment: 50
+  chop_min: 3
+  chop_max: 12
+  slash_min: 4
+  slash_max: 8
+  thrust_min: 1
+  thrust_max: 2
+  flags: ''

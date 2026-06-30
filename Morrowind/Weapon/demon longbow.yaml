@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: demon longbow
+name: Demon Longbow
+script: ''
+mesh: w\W_longbow_steel.NIF
+icon: w\tx_longbow_Steel.tga
+enchanting: bound longbow_en
+data:
+  weight: 8.0
+  value: 11000
+  weapon_type: MarksmanBow
+  health: 600
+  speed: 1.0
+  reach: 1.0
+  enchantment: 35
+  chop_min: 1
+  chop_max: 25
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

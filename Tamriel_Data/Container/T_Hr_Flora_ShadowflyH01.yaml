@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: T_Hr_Flora_ShadowflyH01
+name: Dried Shadowfly
+script: ''
+mesh: Sky\o\Sky_Cont_Shfly_Dry.nif
+encumbrance: 0.0
+container_flags: ORGANIC | IS_BASE
+inventory:
+- - 1
+  - T_IngFlor_Shadowfly_01
+- - 1
+  - T_IngFlor_Shadowfly_02

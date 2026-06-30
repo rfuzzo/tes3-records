@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Nor_UNI_HornWild_SoG
+name: Horn of the Wild
+script: ''
+mesh: sky\n\sky_ingred_hornmin_01.nif
+icon: sky\n\tx_ingred_hornmin_01.dds
+enchanting: T_Use_HornWild
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 10000
+  enchantment: 1600

@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: TR_m7_AI_TT_NoteQ6
+name: Tattered Note
+script: TR_m7_AI_TT_NoteQ6_Sc
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe job should be fairly easy. I trust that you won't screw it up. As the priest said, the Redoran will be traveling through the outskirts of the Othreleth Woods and intends on stopping by the Armun Pass Outpost. All you need to do is bring me the dagger that he'll be carrying. The dagger is of significance to House Hlaalu. You don't need to know more. Half the payment has already been delivered, so don't disappoint me.<BR>\r\n<BR>\r\nFeldril Sathis<BR>\r\n<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

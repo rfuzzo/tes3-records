@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Note_OE_Newspaper_01
+name: The Ebonheart Bellman
+script: ''
+mesh: tr\m\tr_note_oe_news.nif
+icon: tr\m\tr_note_oe_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\TR_bellman_512_256.dds\" WIDTH=\"290\" HEIGHT=\"140\"> <DIV ALIGN=\"LEFT\"> <BR>\r\nHEADLINE <BR> Text goes here. <br> <br> ANOTHER HEADLINE! <BR> More text here. <br> <br> YOU WON'T BELIEVE WHAT THIS WOOD ELF DID! <BR> He ate his family. <br> <br> "
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

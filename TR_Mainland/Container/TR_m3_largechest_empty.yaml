@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: TR_m3_largechest_empty
+name: Large Chest
+script: ''
+mesh: o\Contain_chest_large_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory: []

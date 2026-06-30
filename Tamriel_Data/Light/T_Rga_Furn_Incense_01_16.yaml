@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_Rga_Furn_Incense_01_16
+name: ''
+script: ''
+mesh: pc\f\pc_furn_rga_incense_01.nif
+icon: ''
+sound: T_SndObj_Fire10
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 16
+  color:
+  - 245
+  - 140
+  - 40
+  - 0
+  flags: FIRE | FLICKER_SLOW

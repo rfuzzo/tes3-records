@@ -1,0 +1,12 @@
+type: RepairItem
+flags: ''
+id: TR_m4_AndothDweRuinHammer02
+name: Ball-peen Repair Hammer
+script: TR_m4_AndothDweHammer01_scp
+mesh: tr\m\tr_misc_hammer_bp_01.nif
+icon: TR\m\tr_misc_hammer_bp_01.dds
+data:
+  weight: 3.0
+  value: 8
+  uses: 22
+  quality: 0.75

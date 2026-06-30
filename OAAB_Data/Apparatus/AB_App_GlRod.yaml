@@ -1,0 +1,12 @@
+type: Apparatus
+flags: ''
+id: AB_App_GlRod
+name: Glass Rod
+script: ''
+mesh: OAAB\m\rem_glass_rod.nif
+icon: OAAB\m\rem_glass_rod.dds
+data:
+  apparatus_type: MortarAndPestle
+  quality: 2.2
+  weight: 3.0
+  value: 8500

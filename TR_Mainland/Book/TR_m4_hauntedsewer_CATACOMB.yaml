@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_hauntedsewer_CATACOMB
+name: Note To Self
+script: ''
+mesh: tr\tr_note_pin.nif
+icon: default icon.dds
+enchanting: ''
+text: 3 tiles down is catacombs entrance
+data:
+  weight: 0.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 0

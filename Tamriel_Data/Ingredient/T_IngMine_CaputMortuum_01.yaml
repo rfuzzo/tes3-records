@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngMine_CaputMortuum_01
+name: Caput Mortuum
+script: ''
+mesh: tr\n\tr_ing_caputm.nif
+icon: tr\n\tr_ing_caputmort.dds
+data:
+  weight: 0.1
+  value: 1
+  effects:
+  - Blind
+  - FortifySkill
+  - Chameleon
+  - None
+  skills:
+  - Block
+  - Alchemy
+  - Alchemy
+  - None
+  attributes:
+  - Personality
+  - Strength
+  - Strength
+  - None

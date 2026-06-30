@@ -1,0 +1,37 @@
+type: Container
+flags: ''
+id: com_chest_02_v_fonas
+name: Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 500.0
+container_flags: IS_BASE
+inventory:
+- - -100
+  - silver bolt
+- - -100
+  - silver arrow
+- - 20
+  - glass arrow
+- - -50
+  - silver dart
+- - -50
+  - silver throwing star
+- - 1
+  - silver war axe
+- - 1
+  - silver staff
+- - 1
+  - silver claymore
+- - -1
+  - steel_towershield
+- - -1
+  - steel_shield
+- - -3
+  - random_steel_weapon
+- - -3
+  - random_armor_steel
+- - -1
+  - random_dwemer_weapon
+- - -3
+  - torch

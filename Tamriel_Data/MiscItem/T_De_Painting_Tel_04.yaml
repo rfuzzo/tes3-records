@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_Painting_Tel_04
+name: Landscape of Molag Ruhn
+script: ''
+mesh: tr\m\TR_M_Painting_Tel_04.nif
+icon: tr\m\TR_M_Painting_Tel_04.dds
+data:
+  weight: 6.0
+  value: 450
+  flags: ''

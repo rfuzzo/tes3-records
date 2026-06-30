@@ -1,0 +1,23 @@
+type: Container
+flags: ''
+id: TR_m3_stash6_i3-591-imp
+name: Loose Stone
+script: ''
+mesh: f\Furn_imp_stoneblock_01.nif
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - TR_m3_oe_sewerstashnote
+- - 4
+  - T_Imp_SilverWareFork_01
+- - 3
+  - T_Imp_SilverWareKnife_01
+- - 4
+  - T_Imp_SilverWareSpoon_01
+- - 1
+  - ingred_emerald_01
+- - 1
+  - ingred_ruby_01
+- - 2
+  - pick_apprentice_01

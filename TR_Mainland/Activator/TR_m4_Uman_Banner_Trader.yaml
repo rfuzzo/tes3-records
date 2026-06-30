@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_Uman_Banner_Trader
+name: 'Gidren Sandolas: Trader'
+script: OutsideBanner
+mesh: f\Furn_bannerD_goods_01.NIF

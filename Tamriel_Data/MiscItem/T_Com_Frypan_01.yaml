@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_Frypan_01
+name: Frypan
+script: ''
+mesh: sky\m\Sky_Misc_Frypan.nif
+icon: sky\m\sky_misc_frypan.dds
+data:
+  weight: 1.0
+  value: 2
+  flags: ''

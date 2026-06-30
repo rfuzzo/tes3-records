@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: bk_BeramJournal4
+name: Beram Journal Entry 4
+script: ''
+mesh: m\Text_Note_02.nif
+icon: m\Tx_note_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nI found Norvus's head and torso lying in this room, with a large part of the rest of him seemingly smeared along the walls. I screamed for full minutes when I found it, and now all I can do is sit and stare. My only solace is this paper. More roots keep penetrating the walls every minute, and the rocks and lights seem to be taking on lives of their own. Now I fear not only for my life, but for my sanity. Please someone come soon. The rumblings are getting faster and stronger, and I can't breathe this stifling air much longer. What in Vivec's name have these wizards done? The heat...<BR>\r\n"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 100

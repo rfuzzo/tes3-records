@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_NecMQ_AlandroEffect
+name: ''
+script: TR_NecMQ_AlandroEffectScript
+mesh: tr\i\tr_collision_box_01.nif

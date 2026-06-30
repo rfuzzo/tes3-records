@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: AB_a_BugGreenHelm
+name: Green Bug Helm
+script: ''
+mesh: OAAB\a\bug_gr_helm_01.nif
+icon: OAAB\a\bug_gr_helm.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Head
+  male_bodypart: AB_a_BugGreen_hd
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 0.8
+  value: 30
+  health: 175
+  enchantment: 125
+  armor_rating: 12

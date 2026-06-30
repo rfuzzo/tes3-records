@@ -1,0 +1,17 @@
+type: Clothing
+flags: ''
+id: T_Rga_Ep_Shirt_05
+name: Expensive Shirt
+script: ''
+mesh: hf\c\hf_shirtep_05g.nif
+icon: hf\c\hf_shirtep_05.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_C_RgaEpShirt05_C
+  female_bodypart: T_C_RgaEpShirt05_CF
+data:
+  clothing_type: Shirt
+  weight: 1.5
+  value: 10
+  enchantment: 75

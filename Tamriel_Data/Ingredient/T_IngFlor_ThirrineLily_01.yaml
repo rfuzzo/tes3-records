@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_ThirrineLily_01
+name: Thirrine Water Lily
+script: ''
+mesh: tr\n\tr_ing_thirlily.nif
+icon: tr\n\tr_ing_thirrlily.dds
+data:
+  weight: 0.1
+  value: 1
+  effects:
+  - WaterBreathing
+  - WeaknessToFrost
+  - SwiftSwim
+  - Chameleon
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

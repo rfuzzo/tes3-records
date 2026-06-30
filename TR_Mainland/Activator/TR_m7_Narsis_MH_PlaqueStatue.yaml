@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_Narsis_MH_PlaqueStatue
+name: Narsara Hla-Alu
+script: TR_m7_PlqStatue_Narsara_sc
+mesh: pc\f\pc_furn_sign_plaque_02.nif

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m2_He_pawn_aarlen
+name: 'Aarlen Lleranoth: Pawnbroker'
+script: SignRotate
+mesh: f\active_sign_c_pwan_01.nif

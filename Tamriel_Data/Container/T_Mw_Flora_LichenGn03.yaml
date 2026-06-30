@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Mw_Flora_LichenGn03
+name: Green Lichen
+script: ''
+mesh: o\flora_green_lichen_03.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - random_green_lichen

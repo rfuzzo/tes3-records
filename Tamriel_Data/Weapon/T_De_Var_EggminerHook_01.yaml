@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_De_Var_EggminerHook_01
+name: Egg Miner's Hook
+script: ''
+mesh: tr\w\tr_w_miner_hook.nif
+icon: tr\w\tr_w_miner_hook.dds
+enchanting: ''
+data:
+  weight: 7.0
+  value: 18
+  weapon_type: SpearTwoWide
+  health: 400
+  speed: 1.0
+  reach: 1.8
+  enchantment: 50
+  chop_min: 2
+  chop_max: 6
+  slash_min: 2
+  slash_max: 8
+  thrust_min: 3
+  thrust_max: 10
+  flags: ''

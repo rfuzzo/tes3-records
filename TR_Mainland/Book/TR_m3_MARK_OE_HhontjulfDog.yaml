@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_MARK_OE_HhontjulfDog
+name: HhontjulfDog
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: ''
+enchanting: ''
+text: Marker for moving TR_m3_OE_HhontjulfDog
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

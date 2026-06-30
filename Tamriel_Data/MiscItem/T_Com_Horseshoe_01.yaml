@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_Horseshoe_01
+name: Horseshoe
+script: ''
+mesh: sky\m\sky_misc_horseshoe_01.nif
+icon: sky\m\sky_misc_horseshoe_01.dds
+data:
+  weight: 1.0
+  value: 1
+  flags: ''

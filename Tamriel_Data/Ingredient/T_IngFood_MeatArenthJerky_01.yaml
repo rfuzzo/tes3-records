@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_MeatArenthJerky_01
+name: Arenthian Jerky
+script: ''
+mesh: pc\n\pc_ing_ArenthJerky.nif
+icon: pc\n\pc_ing_arenthjerky.dds
+data:
+  weight: 0.5
+  value: 2
+  effects:
+  - RestoreFatigue
+  - ResistPoison
+  - None
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngMine_Chalk_01
+name: Chalk
+script: ''
+mesh: pc\n\pc_ing_chalk.nif
+icon: pc\n\pc_ing_chalk.dds
+data:
+  weight: 0.1
+  value: 1
+  effects:
+  - DrainAttribute
+  - Mark
+  - None
+  - None
+  skills:
+  - Block
+  - None
+  - None
+  - None
+  attributes:
+  - Speed
+  - None
+  - None
+  - None

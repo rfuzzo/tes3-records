@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Bre_Cm_Ring_05
+name: Common Ring
+script: ''
+mesh: hr\c\hr_c_cmring_05.nif
+icon: hr\c\hr_c_cmring_05.dds
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 2
+  enchantment: 10

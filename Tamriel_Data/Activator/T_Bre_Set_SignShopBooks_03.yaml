@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Bre_Set_SignShopBooks_03
+name: ''
+script: SignRotate
+mesh: hr\f\hr_act_sign_books_03.nif

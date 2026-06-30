@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: bk_NoteFromJ'Zhirr
+name: Note from J'zhirr
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nTo Do List:<BR>\r\n<BR>\r\nCheck on tomorrow's shipment.<BR>\r\n<BR>\r\nAsk Ponius about leave.<BR>\r\n<BR>\r\nRestock bottles for bookshelf.<BR>\r\n"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

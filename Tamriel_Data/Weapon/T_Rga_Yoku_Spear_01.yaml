@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Rga_Yoku_Spear_01
+name: Yoku Spear
+script: ''
+mesh: pc\w\pc_rga_yoku_spear.nif
+icon: pc\w\pc_rga_yoku_spear.dds
+enchanting: ''
+data:
+  weight: 11.2
+  value: 155
+  weapon_type: SpearTwoWide
+  health: 600
+  speed: 1.0
+  reach: 1.8
+  enchantment: 50
+  chop_min: 5
+  chop_max: 12
+  slash_min: 1
+  slash_max: 4
+  thrust_min: 7
+  thrust_max: 23
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE | SILVER

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Bre_Set_SignTavern_04
+name: ''
+script: SignRotate
+mesh: hr\f\hr_act_sign_tavern_04.nif

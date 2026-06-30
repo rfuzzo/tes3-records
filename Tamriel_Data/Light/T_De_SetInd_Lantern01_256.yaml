@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_De_SetInd_Lantern01_256
+name: ''
+script: ''
+mesh: l\Light_De_Lantern_01.NIF
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 10
+  time: -1
+  radius: 256
+  color:
+  - 245
+  - 140
+  - 10
+  - 0
+  flags: DYNAMIC | FLICKER_SLOW

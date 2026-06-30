@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: de_helvi_chest
+name: Helvi's Chest
+script: ''
+mesh: o\Contain_De_Chest_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - l_n_armor_cuirass
+- - 1
+  - l_n_armor_helmet
+- - 1
+  - random gold_lev_05

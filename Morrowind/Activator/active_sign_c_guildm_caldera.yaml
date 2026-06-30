@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: active_sign_c_guildm_caldera
+name: Mages' Guild Caldera
+script: SignRotate
+mesh: f\Active_sign_C_guildM_01.NIF

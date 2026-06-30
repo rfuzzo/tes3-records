@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: amulet of shades
+name: Amulet of Shades
+script: ''
+mesh: c\Amulet_Extravagant_2.NIF
+icon: c\tx_amulet_extrav2.tga
+enchanting: summon least bonewalker_en
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 225
+  enchantment: 600

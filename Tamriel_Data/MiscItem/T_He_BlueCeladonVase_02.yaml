@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_He_BlueCeladonVase_02
+name: Blue Celadon Vase
+script: ''
+mesh: sum\m\sum_misc_celb_vase_02.nif
+icon: sum\m\sum_misc_celb_vase_02.dds
+data:
+  weight: 5.0
+  value: 20
+  flags: ''

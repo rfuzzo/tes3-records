@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: life belt
+name: Life Belt
+script: ''
+mesh: c\C_belt_Common_3.NIF
+icon: c\tx_belt_common03.tga
+enchanting: veloth's benison_en
+biped_objects: []
+data:
+  clothing_type: Belt
+  weight: 1.0
+  value: 9
+  enchantment: 10

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngSpice_Nigella_01
+name: Nigella Seeds
+script: ''
+mesh: pc\n\pc_ing_nigella.nif
+icon: pc\n\pc_ingred_nigella.dds
+data:
+  weight: 0.1
+  value: 25
+  effects:
+  - ResistCommonDisease
+  - DrainAttribute
+  - RestoreAttribute
+  - None
+  skills:
+  - None
+  - Block
+  - Block
+  - None
+  attributes:
+  - None
+  - Agility
+  - Willpower
+  - None

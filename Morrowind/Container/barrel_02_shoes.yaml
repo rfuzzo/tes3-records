@@ -1,0 +1,21 @@
+type: Container
+flags: ''
+id: barrel_02_shoes
+name: Old Rotting Barrel
+script: ''
+mesh: o\contain_barrel10.nif
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - common_shoes_01
+- - 1
+  - common_shoes_04
+- - 1
+  - common_shoes_05
+- - 1
+  - common_shoes_03
+- - 1
+  - common_shoes_02
+- - 1
+  - extravagant_shoes_02

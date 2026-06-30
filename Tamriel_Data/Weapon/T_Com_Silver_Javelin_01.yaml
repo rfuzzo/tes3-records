@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Com_Silver_Javelin_01
+name: Silver Javelin
+script: ''
+mesh: tr\w\tr_w_silver_javelin_01.nif
+icon: tr\w\tr_w_silver_javelin_01.dds
+enchanting: ''
+data:
+  weight: 6.0
+  value: 40
+  weapon_type: MarksmanThrown
+  health: 150
+  speed: 0.75
+  reach: 1.0
+  enchantment: 30
+  chop_min: 4
+  chop_max: 12
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE | SILVER

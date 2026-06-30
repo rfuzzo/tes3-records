@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: bk_carniusnote
+name: Note from Carnius
+script: ''
+mesh: m\Text_Parchment_01.NIF
+icon: m\Tx_parchment_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n%PCName,<BR>\r\n<BR>\r\nReading this, you've successfully completed my little task for you. Before you return, however, I have one last deed for you. Hroldar should've given you a few scrolls along with this note; since he can't read, he won't realize that I intend for you to kill him.<BR>\r\nThe scrolls should grant you control over his wolves long enough to put an end to him. You don't need to know the details; only that I can no longer trust him and that his usefulness to me is at an end. I'd do the job myself, but then... that's what I have you for. Why take risks, when someone else can take them for me?<BR>\r\n<BR>\r\nI expect you to return shortly. Do not keep me waiting.<BR>\r\n<BR>\r\n<BR>\r\nC.M.<BR>\r\n"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

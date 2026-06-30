@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_SilverWeight_02
+name: Silver Weight
+script: ''
+mesh: TR\m\TR_misc_com_weight_02.nif
+icon: TR\m\TR_misc_com_weight_02.dds
+data:
+  weight: 5.0
+  value: 15
+  flags: ''

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_DreughShortbow
+name: Dreugh Shortbow
+script: ''
+mesh: OAAB\w\Dreugh_shortbow.nif
+icon: OAAB\w\Dreugh_shortbow.dds
+enchanting: ''
+data:
+  weight: 3.0
+  value: 750
+  weapon_type: MarksmanBow
+  health: 600
+  speed: 1.0
+  reach: 1.0
+  enchantment: 40
+  chop_min: 1
+  chop_max: 25
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_BjoulsaeRose_01
+name: Bjoulsae Rose
+script: ''
+mesh: Sky\n\Sky_Ingred_BjouRose.nif
+icon: Sky\n\Tx_Ingred_BjouRose_01.dds
+data:
+  weight: 0.2
+  value: 5
+  effects:
+  - FortifyAttribute
+  - DrainAttribute
+  - Sanctuary
+  - None
+  skills:
+  - Block
+  - Block
+  - None
+  - None
+  attributes:
+  - Personality
+  - Agility
+  - None
+  - None

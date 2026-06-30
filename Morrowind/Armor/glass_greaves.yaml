@@ -1,0 +1,31 @@
+type: Armor
+flags: ''
+id: glass_greaves
+name: Glass Greaves
+script: ''
+mesh: a\A_Glass_Greaves_GND.nif
+icon: a\TX_Glass_greaves.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: Groin
+  male_bodypart: a_glass_greaves_g
+  female_bodypart: ''
+- biped_object_type: LeftUpperLeg
+  male_bodypart: a_glass_greaves_ul
+  female_bodypart: ''
+- biped_object_type: LeftKnee
+  male_bodypart: a_glass_greaves_k
+  female_bodypart: ''
+- biped_object_type: RightUpperLeg
+  male_bodypart: a_glass_greaves_ul
+  female_bodypart: ''
+- biped_object_type: RightKnee
+  male_bodypart: a_glass_greaves_k
+  female_bodypart: ''
+data:
+  armor_type: Greaves
+  weight: 9.0
+  value: 17600
+  health: 500
+  enchantment: 100
+  armor_rating: 50

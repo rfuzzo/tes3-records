@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_He_FurnP_Bed_07
+name: Bed
+script: Bed_Standard
+mesh: sum\f\sum_furn_p_bed_07.nif

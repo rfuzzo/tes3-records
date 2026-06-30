@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_Soap_05
+name: Soap
+script: ''
+mesh: TR\m\tr_misc_soap_05.nif
+icon: TR\m\tr_misc_soap_05.dds
+data:
+  weight: 0.2
+  value: 5
+  flags: ''

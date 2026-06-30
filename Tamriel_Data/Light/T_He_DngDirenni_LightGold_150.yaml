@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_He_DngDirenni_LightGold_150
+name: ''
+script: ''
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 150
+  color:
+  - 128
+  - 128
+  - 64
+  - 0
+  flags: ''

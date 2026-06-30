@@ -1,0 +1,35 @@
+type: Container
+flags: ''
+id: TR_m1_de_p_Bahrammu_tra
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - -2
+  - Potion_Local_Brew_01
+- - -6
+  - T_IngFood_MeatAlit_01
+- - -4
+  - T_IngFood_MeatKagouti_01
+- - -40
+  - chitin arrow
+- - -2
+  - food_kwama_egg_01
+- - -3
+  - food_kwama_egg_02
+- - -6
+  - ingred_muck_01
+- - -10
+  - ingred_saltrice_01
+- - -20
+  - ingred_wickwheat_01
+- - -4
+  - potion_comberry_brandy_01
+- - -3
+  - potion_comberry_wine_01
+- - -5
+  - potion_local_liquor_01
+- - -3
+  - repair_prongs

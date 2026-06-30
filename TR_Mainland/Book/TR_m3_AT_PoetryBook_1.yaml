@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_AT_PoetryBook_1
+name: Notebook
+script: ''
+mesh: pc\m\pc_bk_book_35.nif
+icon: pc\m\pc_bk_book_35.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\n<BR>\r\nWith tired bones and humble eyes<BR>\r\nI take in those who ask no prize:<BR>\r\nPilgrims come from near and far<BR>\r\nSeeking rites older than Nerevar<BR>\r\nBloodied feet walk Veloth's Path<BR>\r\nTo walk the Bloodstone is to know the very rock's wrath.\r\n<BR>\r\n<BR>\r\n<BR>\r\nFrom start to end, the Path is long<BR>\r\nBut pilgrims sing a hearty song<BR>\r\nOf ALMSIVI, and forebears true,<BR>\r\nWho lend their strength to me and you.<BR>\r\nWith heart so full of faith and fire,<BR>\r\nTheir hardy legs will never tire,<BR>\r\nAnd knowing that this Path has seen<BR>\r\nPaupers, lords, all in-between<BR>\r\nThe Path, it does not seem so long<BR>\r\nWhen the blood of Resdayn keeps you strong.<BR>\r\n\r\n"
+data:
+  weight: 1.0
+  value: 5
+  book_type: Book
+  skill: None
+  enchantment: 0

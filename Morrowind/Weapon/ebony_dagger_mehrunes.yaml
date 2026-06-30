@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: ebony_dagger_mehrunes
+name: Ebony Shortsword
+script: ''
+mesh: w\W_Art_MehrunesRazor.NIF
+icon: w\Tx_Art_MehrunesRazor.tga
+enchanting: ''
+data:
+  weight: 16.0
+  value: 5000
+  weapon_type: ShortBladeOneHand
+  health: 1200
+  speed: 2.5
+  reach: 1.0
+  enchantment: 80
+  chop_min: 10
+  chop_max: 20
+  slash_min: 10
+  slash_max: 20
+  thrust_min: 12
+  thrust_max: 22
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

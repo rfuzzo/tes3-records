@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_BkGen_NavyRecord_01
+name: Navy Records
+script: ''
+mesh: m\Text_Octavo_03.NIF
+icon: m\Tx_octavo_03.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This book contains meticulous records of ships associated with the Imperial Navy in the province.]<BR>"
+data:
+  weight: 3.0
+  value: 5
+  book_type: Book
+  skill: None
+  enchantment: 0

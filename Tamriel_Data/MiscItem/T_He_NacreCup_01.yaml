@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_He_NacreCup_01
+name: Nacre Cup
+script: ''
+mesh: sum\m\m_nacre_mop_cup01.nif
+icon: sum\m\sum_m_nacre_cup1.dds
+data:
+  weight: 2.0
+  value: 10
+  flags: ''

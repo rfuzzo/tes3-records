@@ -1,0 +1,23 @@
+type: Container
+flags: ''
+id: TR_m1_con_corpseThief
+name: Corpse
+script: Sound_Flies
+mesh: o\contain_corpse20.NIF
+encumbrance: 120.0
+container_flags: IS_BASE
+inventory:
+- - 50
+  - T_Mw_Lvl_WeaponsThrown
+- - 3
+  - T_Mw_Random_Drink
+- - 5
+  - T_Mw_Random_Food
+- - 3
+  - T_Mw_Random_Gems
+- - 5
+  - l_n_lockpicks
+- - 5
+  - l_n_probe
+- - 250
+  - random gold

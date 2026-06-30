@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_NarsisSewer03_Note3
+name: Note To Self
+script: ''
+mesh: tr\tr_note_pin.nif
+icon: default icon.dds
+enchanting: ''
+text: "Sewer branch that might connect to Council Quarter's Sewers in some way - Osidian\r\n\r\nGoing to put the door here, it can be adjusted depending on what space the CQ sewers and catacombs take up - Aveno"
+data:
+  weight: 0.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 0

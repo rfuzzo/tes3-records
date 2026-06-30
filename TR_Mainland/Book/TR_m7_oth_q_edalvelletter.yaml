@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_oth_q_edalvelletter
+name: Sealed Letter to Melur Beloth
+script: TR_m7_oth_q_EdalvelLetterSC
+mesh: m\Text_paper_roll_01.nif
+icon: m\Tx_paper_roll_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"Left\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nHonorable Melur Beloth,<BR>\r\n<BR>\r\nI have received information that I believe may be of great value to you. One of the slaves at the plantation you oversee, Abeek-Jah, is in secret communication with the local abolitionist group. I have intercepted their messages and believe they are preparing for a break-out. Do what you want with that information, but remember that my help is never free.<BR>\r\n<BR>\r\nFrelene Telvys<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

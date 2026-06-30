@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_SetDoomstoneGC_Steed
+name: The Steed Stone
+script: T_ScObj_DoomBSteedPC
+mesh: pc\f\pc_dmstn_gc_warrior.nif

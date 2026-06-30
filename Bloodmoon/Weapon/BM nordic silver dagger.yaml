@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: BM nordic silver dagger
+name: Nordic Silver Dagger
+script: ''
+mesh: w\W_Nord_dagger.NIF
+icon: w\Nord_dagger.dds
+enchanting: ''
+data:
+  weight: 10.0
+  value: 1000
+  weapon_type: ShortBladeOneHand
+  health: 550
+  speed: 2.5
+  reach: 1.0
+  enchantment: 70
+  chop_min: 5
+  chop_max: 10
+  slash_min: 5
+  slash_max: 10
+  thrust_min: 7
+  thrust_max: 15
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE | SILVER

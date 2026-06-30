@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: TR_m3_Hal_LightCandleRed
+name: ''
+script: TR_m3_Hal_Disable_sc
+mesh: l\Light_de_candle_red_02.NIF
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 3
+  time: -1
+  radius: 64
+  color:
+  - 255
+  - 15
+  - 5
+  - 0
+  flags: DYNAMIC | FIRE | FLICKER_SLOW

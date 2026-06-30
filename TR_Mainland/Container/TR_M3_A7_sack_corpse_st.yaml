@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: TR_M3_A7_sack_corpse_st
+name: Sack
+script: ''
+mesh: o\Contain_Com_Sack_02.NIF
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 78
+  - Gold_001
+- - 1
+  - T_IngMine_Sapphire_01
+- - 4
+  - ingred_muck_01
+- - 1
+  - potion_comberry_brandy_01

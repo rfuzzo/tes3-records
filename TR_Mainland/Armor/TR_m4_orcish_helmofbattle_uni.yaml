@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: TR_m4_orcish_helmofbattle_uni
+name: Orcish Helm of Battle
+script: ''
+mesh: a\A_Orcish_Helmet.nif
+icon: a\TX_Orcish_helmet.tga
+enchanting: TR_m4_orcish_helm_uni_en
+biped_objects:
+- biped_object_type: Head
+  male_bodypart: a_orcish_helmet
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 4.4
+  value: 3200
+  health: 300
+  enchantment: 300
+  armor_rating: 40

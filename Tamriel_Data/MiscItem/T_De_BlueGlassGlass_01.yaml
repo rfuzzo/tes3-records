@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_BlueGlassGlass_01
+name: Blue Glass
+script: ''
+mesh: tr\m\tr_misc_blueg_glass01.nif
+icon: tr\m\tr_misc_bluglsglass01.dds
+data:
+  weight: 1.0
+  value: 2
+  flags: ''

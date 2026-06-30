@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_FailureOfTheEmpireTR
+name: The Failure of the Empire
+script: ''
+mesh: TR\m\TR_book_closed_i04_AY.nif
+icon: TR\m\TR_book_closed_i04_AY.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe Failure of The Empire<BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nIt is common knowledge that the fall of the empire is approaching quickly, and soon its degeneration will result in utter collapse. Ever since the death of Tiber Septim, the Empire's foundations have rotted under weak rulers, and Uriel Septim has only further proven this. The Imperial bureaucracy siphons propaganda and lies to the populace, desperately trying to restore faith in this dying creature we obey like fools.<BR>\r\n<BR>\r\nIn truth, instability and strife mars the entire history of this empire. Lies, murders, treacheries, rage through the Imperial city and crush the hopes and dreams of its citizens. How can the \"mighty\" Empire allow the continuation of these horrors? The Dunmer and their slaves; the rise of the impious puppeteer, Jagar Tharn; the incessant infighting of this malignant, bloated creature we call an Empire; the assassinations, betrayals, and unwarranted executions so common to our Imperial ranks . . . all of these corruptions scream the Empire's failure. And all of this centers on the Imperial system and its ruler, the decrepit Uriel Septim.<BR>\r\n<BR>\r\nSeptim VII is as weak as he is ignorant. The people of Tamriel have discovered that he rules -- comfortable in the luxury of the Imperial palace -- through corruption and fear. Under the Emperor's sickly hand, secret spy networks which have either removed or jeopardized more freedoms than we have ever thought possible move like murderous wraiths through the people. These \"blades,\" as they call themselves, spy on the regular, hard-working common folk simply to satisfy the foul Emperor's desire for control of all things. He draws further power from his military police, and all that his self-proclaimed \"legions\" do now is murder innocent civilians to ensure themselves a little more time in control. They are nothing but cowards and thugs. The corruption rises through the ranks of this legion, and I have seen from the inside nearly as many Imperial Guards fall to faulty leadership as to fighting. I've even seen unrest in the city of Cyrodiil itself. Rioting! In the streets of the greatest city in Tamriel! And yet the Emperor and his legions continue to preach of the \"glory of the Empire!\"<BR>\r\n<BR>\r\nWe must ask ourselves what we can do during these times. Will we do nothing? Will we dotter like old men, speaking but never taking action? Will we wait for the beasts of anarchy to take hold on this sweet land we love more than all else? We must impel the Empire's fall and take control for ourselves! We can rule Tamriel and succeed where the Empire and the foolish Uriel Septim cannot.<BR>"
+data:
+  weight: 2.5
+  value: 80
+  book_type: Book
+  skill: None
+  enchantment: 100

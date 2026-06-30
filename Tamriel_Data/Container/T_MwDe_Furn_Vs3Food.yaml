@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: T_MwDe_Furn_Vs3Food
+name: Vase
+script: ''
+mesh: TR\o\TR_cont_de_vase_03.nif
+encumbrance: 10.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Mw_Random_CheapfoodDunmerM1/2
+- - 1
+  - T_Mw_Random_Food
+- - 1
+  - T_Mw_Random_FoodM1/2

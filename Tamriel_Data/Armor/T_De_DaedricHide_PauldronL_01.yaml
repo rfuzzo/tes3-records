@@ -1,0 +1,22 @@
+type: Armor
+flags: ''
+id: T_De_DaedricHide_PauldronL_01
+name: Daedric Hide Left Pauldron
+script: ''
+mesh: tr\a\tr_a_dae_hide_ua.nif
+icon: TR\a\tr_a_daehide_pauldron.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: LeftUpperArm
+  male_bodypart: T_A_DeDaedricHidePauldr01_UA
+  female_bodypart: ''
+- biped_object_type: LeftForearm
+  male_bodypart: T_A_DeDaedricHideGaunt01_Fa
+  female_bodypart: ''
+data:
+  armor_type: LeftPauldron
+  weight: 3.0
+  value: 2000
+  health: 650
+  enchantment: 40
+  armor_rating: 25

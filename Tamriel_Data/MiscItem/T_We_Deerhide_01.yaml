@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_We_Deerhide_01
+name: Deer Hide
+script: ''
+mesh: pc\m\pc_m_We_Deer_hide.nif
+icon: pc\m\pc_m_We_Deer_hide.dds
+data:
+  weight: 2.5
+  value: 6
+  flags: ''

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_De_Furn_ShrineSten
+name: Shrine of Stendarr
+script: T_ScObj_ShrineHlaaluStendarr
+mesh: tr\f\tr_furn_de_altar_ste.nif

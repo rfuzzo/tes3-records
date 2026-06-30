@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Bellman_10
+name: NO SIGN OF RUMORED TOURNAMENT
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_note_oe_news.nif
+icon: tr\m\tr_note_oe_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\TR_bellman_512_256.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nNO SIGN OF RUMORED TOURNAMENT<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nSources within the Ebon Tower indicate that an official announcement of the long rumored melee tournament is still not to be expected any time soon. The tournament was originally planned as a celebration of the anniversary of King Llethan's coronation but was indefinitely delayed following our late liege's death. Troubles on Vvardenfell led Duke Dren to put Burgrave Caros Cocceius in charge of preparations. Now it is said that a committee of his retainers has been tasked with reviewing the omens to hopefully come to the selection of an auspicious day for a new tournament to be held.<br><br>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

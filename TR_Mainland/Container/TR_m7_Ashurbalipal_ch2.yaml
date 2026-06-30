@@ -1,0 +1,21 @@
+type: Container
+flags: ''
+id: TR_m7_Ashurbalipal_ch2
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - BookSkill_Conjuration2
+- - 4
+  - T_Com_MetalPieceGold_03
+- - 1
+  - T_Com_Potion_Ethereal
+- - 1
+  - T_De_Glass_JinkbladeAegis_01
+- - 5
+  - T_Mw_Random_Minerals
+- - 3
+  - T_Mw_Random_ScrollsLvl3

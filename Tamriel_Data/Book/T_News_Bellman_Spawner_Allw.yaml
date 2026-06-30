@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Bellman_Spawner_Allw
+name: The Ebonheart Bellman
+script: T_ScNews_Bellman_Spawner_Allw
+mesh: tr\m\tr_note_oe_news.nif
+icon: tr\m\tr_note_oe_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\TR_bellman_512_256.dds\" WIDTH=\"290\" HEIGHT=\"140\">\r\n\r\n<DIV ALIGN=\"CENTER\"><BR>\r\n\r\nThis note spawns different editions of the Bellman randomly and depending on the Journal stage of various quests. It also updates the leveled list that contains the Bellman, to add and/or remove entries, which may spawn from containers and/or NPC inventories.<br><br>\r\n\r\nSpawned Bellman entries last two days unless picked up. After two days, they delete themselves, and this spawner spawns a new copy.<br><br>\r\n\r\nPlace this note where you want Bellman entries to spawn in a cell - you can rotate it however you please - but do not place it into inventories.<br><br>\r\n\r\nIf you're reading this in game, something is wrong.<br><br>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

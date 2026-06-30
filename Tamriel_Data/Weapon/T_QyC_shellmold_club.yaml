@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_QyC_shellmold_club
+name: Shellmold Club
+script: ''
+mesh: pi\w\pi_w_shellmold_club.nif
+icon: pi\w\pi_shellmold_club.dds
+enchanting: ''
+data:
+  weight: 6.0
+  value: 80
+  weapon_type: BluntOneHand
+  health: 450
+  speed: 1.5
+  reach: 1.0
+  enchantment: 50
+  chop_min: 5
+  chop_max: 6
+  slash_min: 2
+  slash_max: 3
+  thrust_min: 1
+  thrust_max: 2
+  flags: ''

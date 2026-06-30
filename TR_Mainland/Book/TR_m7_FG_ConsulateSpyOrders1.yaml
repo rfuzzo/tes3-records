@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_FG_ConsulateSpyOrders1
+name: Mirise Urns' Orders
+script: ''
+mesh: m\Text_Parchment_02.nif
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nYour job is to infiltrate the Imperial bureaucratic machine at the Consulate. Disguise yourself as the Vizier's accountant to obtain access to the Imperial records. Erase all evidence of the Fighters Guild contracts with signs of Hlaalu influence, as well as the Camonna Tong's involvement in the Guild's affairs in Vvardenfell district.<BR>\r\n<BR>\r\nThe Vizier will be informed of your role and will make all the necessary preparations. Do not disclose these orders to anyone else.<BR>\r\n<BR>\r\nF.N.<BR>\r\n<BR>\r\n\r\n"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_Panshurra_Note1
+name: Note to Napulesus
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nI swear I saw some kind of ghost down in the chasm. Do something. You're the one here who knows about magic.<BR>\r\n<BR>\r\nZ<BR>\r\n"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 100

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_LotteFruit_01
+name: Lotte Fruit
+script: ''
+mesh: sum\n\sum_n_lotte.nif
+icon: sum\n\sum_n_lotte.dds
+data:
+  weight: 0.2
+  value: 8
+  effects:
+  - RestoreFatigue
+  - DrainAttribute
+  - RestoreSkill
+  - DrainFatigue
+  skills:
+  - None
+  - Block
+  - Speechcraft
+  - None
+  attributes:
+  - None
+  - Willpower
+  - Strength
+  - None

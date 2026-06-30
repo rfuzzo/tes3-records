@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_HlaaluCompanyScrip_02
+name: Hlaalu Company Scrip (10)
+script: T_ScObj_HlaaluCompanyScrip
+mesh: tr\m\tr_de_hlaalu_scrip_02.nif
+icon: tr\m\tr_m_hlaalu_scrip_02.dds
+data:
+  weight: 0.0
+  value: 0
+  flags: ''

@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: TR_m2_q_36_LetterToRethrathi
+name: Letter from Rilmas Athyrion
+script: ''
+mesh: m\Text_Parchment_02.nif
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nCommander Rethrathi,<BR>\r\n<BR>\r\nRecent developments have convinced me that the disappearance of one of my Khajiiti slaves -- Mjara -- from my tower in Marog was abetted by a traitor among my personnel. I have received an 'apology' letter from a former apprentice -- a Breton named Francine Aldard -- who had left Marog approximately at the same time as the slave did.<BR>\r\n<BR>\r\nAllegedly she did so out of grievances with certain individuals in town, but since I can recall neither any debt she had failed to clear, nor any damage she had inflicted upon my tower, such an apology aroused my suspicion. When it came to my attention that both Mjara and Francine Aldard have settled in the Mages Guild of Akamora, little doubt remained that this apology was merely a cover-up, a hypocritical confession to imaginary sins in an attempt to detract from an actual crime.<BR>\r\n<BR>\r\nI want to point out that I'm not suggesting you to operate in Akamora or on Indoril territory in general; a common slave doesn't merit an escalation beyond the Windmoth district. However, should Francine Aldard be identified by your men within your district, I require her to be arrested and interrogated. It goes without saying that the same pertains to Mjara.<BR>\r\n<BR>\r\nSincerely<BR>\r\nMaster Rilmas Athyrion<BR>\r\n<BR>"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 100

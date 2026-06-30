@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_TeloserasTrainerNote
+name: AddEnchantmentNote
+script: ''
+mesh: tr\tr_note_pin.nif
+icon: default icon.dds
+enchanting: ''
+text: Please grant this trainer some decent enchantment skill as well, to account for their scrolls and the stronghold traps.
+data:
+  weight: 0.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 0

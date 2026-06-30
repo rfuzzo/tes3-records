@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_ComBucket01Hang
+name: Bucket
+script: AB_MiscComBucket01Hang_s
+mesh: OAAB\u\com_bucket_01_hang.nif
+icon: m\Misc_Com_Bucket_01.tga
+data:
+  weight: 5.0
+  value: 2
+  flags: ''

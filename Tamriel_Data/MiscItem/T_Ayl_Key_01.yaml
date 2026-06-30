@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Ayl_Key_01
+name: Ayleid Keystone
+script: ''
+mesh: pc\m\pc_ay_key_01.nif
+icon: pc\m\pc_ay_key_01.dds
+data:
+  weight: 0.4
+  value: 0
+  flags: ''

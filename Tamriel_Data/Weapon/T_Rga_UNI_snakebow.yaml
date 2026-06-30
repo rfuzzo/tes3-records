@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Rga_UNI_snakebow
+name: Sep's Bow
+script: ''
+mesh: pc\w\pc_w_Rga_UNI_snakebow.nif
+icon: pc\w\pc_w_Rga_UNI_snakebow.dds
+enchanting: poisonguard_en
+data:
+  weight: 10.0
+  value: 27000
+  weapon_type: MarksmanBow
+  health: 650
+  speed: 1.0
+  reach: 1.0
+  enchantment: 150
+  chop_min: 2
+  chop_max: 40
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

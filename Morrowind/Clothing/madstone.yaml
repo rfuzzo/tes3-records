@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: madstone
+name: Madstone of the Ahemmusa
+script: ''
+mesh: c\Amulet_Madstone.NIF
+icon: c\tx_amulet_Madstone.tga
+enchanting: madstone_en
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.1
+  value: 2000
+  enchantment: 150

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: AB_IngFlor_Harrada_02
+name: Planeriven Harrada
+script: ''
+mesh: OAAB\n\n_harrada_02.nif
+icon: OAAB\n\n_harrada_02.dds
+data:
+  weight: 0.2
+  value: 30
+  effects:
+  - ShockDamage
+  - Reflect
+  - DrainMagicka
+  - WeaknessToShock
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

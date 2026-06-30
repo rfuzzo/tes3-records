@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m7_q_PoisonHalberd
+name: Viper's Fang
+script: ''
+mesh: TR\w\TR_w_orcish_halberd.nif
+icon: TR\w\TR_w_orcish_halberd.dds
+enchanting: TR_m7_q_PoisonHalberd_en
+data:
+  weight: 18.0
+  value: 8000
+  weapon_type: SpearTwoWide
+  health: 1400
+  speed: 1.5
+  reach: 1.8
+  enchantment: 110
+  chop_min: 3
+  chop_max: 15
+  slash_min: 5
+  slash_max: 45
+  thrust_min: 1
+  thrust_max: 10
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m0_HT_UnseatingDral_Act
+name: ''
+script: TR_m0_HT_UnseatingDralActSc
+mesh: EditorMarker.NIF

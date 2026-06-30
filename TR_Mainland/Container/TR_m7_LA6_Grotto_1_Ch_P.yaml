@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: TR_m7_LA6_Grotto_1_Ch_P
+name: Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - p_swift_swim_q
+- - 2
+  - p_water_breathing_s
+- - 4
+  - potion_cyro_brandy_01

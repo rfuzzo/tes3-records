@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Mw_Flora_SpinyLlor05
+name: Spiny Lloramor
+script: ''
+mesh: tr\o\tr_f_spinylloramor05.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 4
+  - random_spines

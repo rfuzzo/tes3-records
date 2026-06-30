@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Ham_Flora_MaceShrub02
+name: Mace Shrub
+script: ''
+mesh: hf\o\hf_flora_gm_MaceShrb02.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - T_Ham_Random_FlorMaceFruit

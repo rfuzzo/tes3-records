@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_CandleStickIron_01
+name: Iron Candlestick
+script: ''
+mesh: pc\m\PC_Misc_Candlestick_01.nif
+icon: pc\m\pc_misc_candlestick01.dds
+data:
+  weight: 1.5
+  value: 2
+  flags: ''

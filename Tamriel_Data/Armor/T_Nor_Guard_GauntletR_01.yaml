@@ -1,0 +1,22 @@
+type: Armor
+flags: ''
+id: T_Nor_Guard_GauntletR_01
+name: Karth Steel Right Gauntlet
+script: ''
+mesh: Sky\a\Sky_A_Guardarmor_GT_G.nif
+icon: Sky\a\Tx_GdArmor_Gauntlet.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: RightHand
+  male_bodypart: T_A_NorGuardGauntl01_Ha
+  female_bodypart: ''
+- biped_object_type: RightWrist
+  male_bodypart: ''
+  female_bodypart: ''
+data:
+  armor_type: RightGauntlet
+  weight: 4.5
+  value: 50
+  health: 100
+  enchantment: 200
+  armor_rating: 16

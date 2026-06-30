@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m4_q_MGShockball
+name: ''
+script: TR_m4_MG_ShockballSc
+mesh: EditorMarker.nif

@@ -1,0 +1,25 @@
+type: Container
+flags: ''
+id: TR_M3_i395_chest_clothe
+name: Chest
+script: ''
+mesh: TR\o\TR_furn_De_Rm_Chest.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 36
+  - Gold_001
+- - 1
+  - common_pants_02
+- - 1
+  - common_pants_06
+- - 1
+  - common_pants_07
+- - 1
+  - common_robe_01
+- - 1
+  - common_shirt_05
+- - 1
+  - common_shoes_04
+- - 1
+  - common_shoes_05

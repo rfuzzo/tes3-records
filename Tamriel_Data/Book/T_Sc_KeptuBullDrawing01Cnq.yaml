@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Sc_KeptuBullDrawing01Cnq
+name: Drawing
+script: ''
+mesh: m\Misc_paper_plain_01.nif
+icon: m\Tx_paper_plain_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<IMG SRC=\"tr\\tr_bull_drawing_01.dds\" WIDTH=\"377\" HEIGHT=\"253\"><BR>\r\n<BR>\r\n"
+data:
+  weight: 0.25
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

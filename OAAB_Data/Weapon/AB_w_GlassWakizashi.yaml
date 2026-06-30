@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_GlassWakizashi
+name: Glass Wakizashi
+script: ''
+mesh: OAAB\w\glass_wakizashi.nif
+icon: OAAB\w\w_glassWakizashi.tga
+enchanting: ''
+data:
+  weight: 6.0
+  value: 17000
+  weapon_type: ShortBladeOneHand
+  health: 250
+  speed: 2.25
+  reach: 1.0
+  enchantment: 135
+  chop_min: 8
+  chop_max: 25
+  slash_min: 8
+  slash_max: 18
+  thrust_min: 5
+  thrust_max: 8
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Imp_Legion_Katana_01
+name: Imperial Katana
+script: ''
+mesh: PC\w\pc_w_imp_katana.nif
+icon: pc\w\pc_w_imp_katana.dds
+enchanting: ''
+data:
+  weight: 19.0
+  value: 90
+  weapon_type: LongBladeOneHand
+  health: 1500
+  speed: 1.5
+  reach: 1.0
+  enchantment: 70
+  chop_min: 3
+  chop_max: 18
+  slash_min: 1
+  slash_max: 16
+  thrust_min: 1
+  thrust_max: 5
+  flags: ''

@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Mw_FloraSH_Drumpear02
+name: Drumpear
+script: ''
+mesh: tr\f\tr_flora_drumpear_02.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - T_Mw_Random_Drumpear

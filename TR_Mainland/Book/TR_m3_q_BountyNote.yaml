@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_q_BountyNote
+name: To my dearest friend, T
+script: ''
+mesh: m\Text_Scroll_02.nif
+icon: m\Tx_scroll_02.tga
+enchanting: ''
+text: " <DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<BR>\r\nTo my dear friend, T,<BR>\r\n<BR>\r\nPlease excuse our last meeting's abrupt end, as I had other -- pressing -- matters to attend to. A new opportunity has sprung up of late -- one I believe worthy of talent such as yourself, and that girlfriend of yours as well. The Indoril have these farm animals called \"velk\", and these velk produce nectar from special sacks that, when brewed properly, have some interesting effects. <BR>\r\n<BR>\r\nI'm going to need you and her to do some shopping for a couple of jugs of punavit -- which is made out of this nectar -- as well as quite a lot of nectar sacks for related reasons. I'd say about 50 sacks and about a dozen jugs should be a good place to start. You'll have your payment when the full sum of deliveries has arrived.<BR>\r\n<BR>\r\nWith all considerations,<BR>\r\n<BR>\r\n-- O<BR>\r\n<BR><BR>"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Com_SetSky_SignWayNimalten_01
+name: Nimalten
+script: ''
+mesh: sky\x\sky_act_rsign_nima1.nif

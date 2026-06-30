@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_Map_Akavir_damaged
+name: Invasion of Akavir Map (Ruined)
+script: ''
+mesh: TR\m\tr_misc_akamap_02.nif
+icon: TR\m\tr_misc_akamap_02.dds
+data:
+  weight: 0.5
+  value: 500
+  flags: ''

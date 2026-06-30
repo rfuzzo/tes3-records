@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_nelyn_shack_note
+name: Scrawled Note
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This note was obviously written hastily and with immense anger. Much of this scrawl is simply unreadable.] <BR>\r\n<BR> No good, guar-lickin'... <BR>\r\n       ...swits with t... stup... oices... <BR>\r\n<BR>\r\nDIE DIE GO AWAY\r\n<BR>\r\n<BR>      foul... tch. <BR>\r\n<BR>\r\nA thous... curses on thei... ilies. <BR>\r\nTh... children's chil... BURN BURN BURN for th... gnorance.\r\n<BR>        They cal... athetic, but... s them wh... thetic! <BR>\r\nNO MAN could eve... ause enough SUFFERING to g... y wish <BR>\r\n<BR> fetchers fetchers FETCHERS ALL <BR> <BR> <BR>\r\n                    kill them kill me kill everyb... <BR> <BR> <BR>\r\nOne day I will pa... a visit and WHACK CRACK BOOM <BR> <BR> <BR> <BR> <BR>\r\nThey'll never see it coming. <BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

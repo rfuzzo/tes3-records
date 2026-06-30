@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_QyC_ShellwareBowl_02
+name: Shellware Bowl
+script: ''
+mesh: pi\m\pi_m_cnq_s_bowl_02.nif
+icon: pi\m\pi_m_cnq_s_bowl_02.dds
+data:
+  weight: 1.5
+  value: 7
+  flags: ''

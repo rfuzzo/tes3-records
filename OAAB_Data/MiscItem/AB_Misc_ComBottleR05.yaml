@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_ComBottleR05
+name: Jug
+script: ''
+mesh: OAAB\m\misc_bottle_r05.nif
+icon: OAAB\m\misc_bottle_r05.tga
+data:
+  weight: 2.0
+  value: 2
+  flags: ''

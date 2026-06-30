@@ -1,0 +1,53 @@
+type: Container
+flags: ''
+id: T_MwCom_Furn_Ch2MercAr2
+name: Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - -50
+  - T_De_Ebony_Arrow_DreadFirestorm
+- - -50
+  - T_De_Ebony_Arrow_DreadFrostbrst
+- - -50
+  - T_De_Ebony_Arrow_DreadPoisonCld
+- - -50
+  - T_De_Ebony_Arrow_DreadShockSphr
+- - -50
+  - T_Imp_Silver_Arrow_DireFirestrm
+- - -50
+  - T_Imp_Silver_Arrow_DireFrostBst
+- - -50
+  - T_Imp_Silver_Arrow_DirePoisonCl
+- - -50
+  - T_Imp_Silver_Arrow_DireShocksph
+- - -50
+  - dire flamearrow
+- - -50
+  - dire frostarrow
+- - -50
+  - dire shardarrow
+- - -50
+  - dire sparkarrow
+- - -50
+  - dire viperarrow
+- - -20
+  - glass throwing knife
+- - -50
+  - iron arrow
+- - -20
+  - iron throwing knife
+- - -50
+  - shard arrow
+- - -50
+  - silver arrow
+- - -50
+  - spark arrow
+- - -50
+  - steel arrow
+- - -20
+  - steel throwing knife
+- - -50
+  - viper arrow

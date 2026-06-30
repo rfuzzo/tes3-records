@@ -1,0 +1,36 @@
+type: Alchemy
+flags: ''
+id: TR_i3-726-Imp_p_blindingflash
+name: Blinding Flash Potion
+script: ''
+mesh: m\Misc_Potion_Exclusive_01.nif
+icon: m\Tx_potion_exclusive_01.tga
+effects:
+- magic_effect: Light
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 30
+  min_magnitude: 50
+  max_magnitude: 50
+- magic_effect: Blind
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 30
+  min_magnitude: 20
+  max_magnitude: 20
+- magic_effect: Sanctuary
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 30
+  min_magnitude: 40
+  max_magnitude: 40
+data:
+  weight: 0.25
+  value: 400
+  flags: ''

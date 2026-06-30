@@ -1,0 +1,28 @@
+type: Alchemy
+flags: ''
+id: T_Bre_Drink_Duxpom
+name: Duxpomme
+script: ''
+mesh: hr\m\hr_misc_duxpom.nif
+icon: hr\m\hr_misc_duxpom.dds
+effects:
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Strength
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 20
+  max_magnitude: 20
+- magic_effect: DrainAttribute
+  skill: None
+  attribute: Intelligence
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 20
+  max_magnitude: 20
+data:
+  weight: 3.0
+  value: 40
+  flags: ''

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_FM_Act_Rubble8BarrelR1
+name: ''
+script: TR_FM_Stage8Rubble_sc
+mesh: tr\f\tr_barrel_ring01.nif

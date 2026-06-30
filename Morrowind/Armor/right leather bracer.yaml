@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: right leather bracer
+name: Right Leather Bracer
+script: ''
+mesh: c\C_M_Bracer_W_leather01.nif
+icon: c\TX_C_bracerleather01.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: RightWrist
+  male_bodypart: c_m_bracer_w_leather01
+  female_bodypart: ''
+data:
+  armor_type: RightBracer
+  weight: 1.5
+  value: 5
+  health: 25
+  enchantment: 60
+  armor_rating: 5

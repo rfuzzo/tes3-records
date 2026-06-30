@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_PackagedPainting_01
+name: Packaged Painting
+script: ''
+mesh: pc\m\pc_misc_paintpkg01.nif
+icon: pc\m\pc_misc_paintpkg01.dds
+data:
+  weight: 2.0
+  value: 10
+  flags: ''

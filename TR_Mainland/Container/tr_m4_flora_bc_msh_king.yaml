@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: tr_m4_flora_bc_msh_king
+name: Luminous Russula King
+script: ''
+mesh: f\Flora_BC_mushroom_04.NIF
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 8
+  - random_russula

@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Mw_FloraCM_Shutag_02
+name: Shutag Pod
+script: ''
+mesh: TR\f\tr_flora_shutag_02.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 2
+  - T_Mw_Random_FlorShutagPod

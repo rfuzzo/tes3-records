@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m4_ilvaalmu_amulet
+name: Amulet of Succumbed Nightwalker
+script: ''
+mesh: c\Amulet_Extravagant_2.NIF
+icon: c\tx_amulet_extrav2.tga
+enchanting: TR_en_m4_ilvaalmu_amulet
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 400
+  enchantment: 600

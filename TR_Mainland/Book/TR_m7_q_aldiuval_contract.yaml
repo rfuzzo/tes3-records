@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_q_aldiuval_contract
+name: Felmaru Llendu Contract
+script: ''
+mesh: m\Text_Parchment_02.NIF
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This contract outlines an agreement between Felmaru Llendu of Ald Iuval and Ivul Hleryn. Ivul Hleryn gains naval basing rights, and the right to search ships in Ald Iuval and reaffirms the criminal status of the Ja-Natta Syndicate. Felmaru Llendu gains nothing.]\r\n<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

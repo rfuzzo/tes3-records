@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Nor_Ep_Ring_04_Burden
+name: Ring of Weary Grip
+script: ''
+mesh: sky\c\sky_ring_nordxp_04.nif
+icon: sky\c\tx_ring_nordxp_04.dds
+enchanting: T_Use_BurdenTouch
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 81
+  enchantment: 150

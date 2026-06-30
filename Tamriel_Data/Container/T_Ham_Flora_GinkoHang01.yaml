@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Ham_Flora_GinkoHang01
+name: Dried Ginko
+script: ''
+mesh: pc\o\pc_flora_ginko.nif
+encumbrance: 0.0
+container_flags: ORGANIC | IS_BASE
+inventory:
+- - 1
+  - T_Ham_Random_FlorGinko

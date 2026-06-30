@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Mw_Flora_LichenYw01
+name: Yellow Lichen
+script: ''
+mesh: tr\o\tr_flora_ylichen_01.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - T_Mw_Random_FlorYellowLichen

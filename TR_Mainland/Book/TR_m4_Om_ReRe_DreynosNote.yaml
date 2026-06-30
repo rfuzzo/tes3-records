@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: TR_m4_Om_ReRe_DreynosNote
+name: Note from Dreynos Helvi
+script: TR_m4_Om_ReRe_Note
+mesh: m\Text_Note_02.nif
+icon: m\Tx_note_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nAnother one of your egg shipments didn't arrive today. By now you should know that I don't care for excuses. You have been given the task of running an egg mine -- but you are failing. Start shipping eggs or I will have to start wondering how much you owe me. If your miners won't come along, I suggest harsher measures.\r\n<BR>\r\n-- Dreynos Helvi, overseer of the Hlaalu Kwama industry, Bal Foyen region\r\n<BR>\r\n"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

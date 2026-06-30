@@ -1,0 +1,21 @@
+type: Container
+flags: ''
+id: de_p_chest_02_dralor
+name: Chest
+script: ''
+mesh: o\contain_de_chest_02.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - fur_bearskin_cuirass
+- - 1
+  - fur_helm
+- - 1
+  - ingred_chokeweed_01
+- - 1
+  - ingred_diamond_01
+- - 1
+  - pick_journeyman_01
+- - 100
+  - Gold_001

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_NarsisMG_Notebook01
+name: Notes on Corprus
+script: ''
+mesh: tr\m\tr_book_notebk_o_01.nif
+icon: tr\m\tr_book_open_ntbk01.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><BR><BR>\r\n[A mage has taken detailed notes on corprus in this notebook and described some rather audacious conjectures about the origins and nature of the disease.]\r\n<BR>"
+data:
+  weight: 0.5
+  value: 5
+  book_type: Book
+  skill: None
+  enchantment: 0

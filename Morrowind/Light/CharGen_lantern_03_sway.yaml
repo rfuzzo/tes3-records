@@ -1,0 +1,19 @@
+type: Light
+flags: PERSISTENT
+id: CharGen_lantern_03_sway
+name: ''
+script: SignRotate
+mesh: l\Light_De_Lantern_03.NIF
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 512
+  color:
+  - 245
+  - 140
+  - 40
+  - 0
+  flags: DYNAMIC

@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Yne_FurnM_ChestS1G050
+name: Small Chest
+script: ''
+mesh: pi\o\yn_contm_chest_sml_01.nif
+encumbrance: 25.0
+container_flags: IS_BASE
+inventory:
+- - 50
+  - Gold_001

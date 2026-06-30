@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: TR_m2_daechest_i2-343-i
+name: Wooden Chest
+script: ''
+mesh: o\Contain_De_Chest_02.nif
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - ingred_daedra_skin_01
+- - 2
+  - ingred_daedras_heart_01
+- - 1
+  - ingred_ghoul_heart_01
+- - 4
+  - ingred_human_meat_01

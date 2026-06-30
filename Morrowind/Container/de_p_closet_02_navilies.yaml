@@ -1,0 +1,51 @@
+type: Container
+flags: ''
+id: de_p_closet_02_navilies
+name: Closet
+script: ''
+mesh: o\Contain_De_Closet_02.NIF
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory:
+- - -1
+  - common_amulet_01
+- - -1
+  - common_amulet_02
+- - -1
+  - common_amulet_03
+- - -1
+  - common_ring_01
+- - -1
+  - common_ring_03
+- - -1
+  - common_robe_03
+- - -1
+  - common_belt_01
+- - -1
+  - common_belt_03
+- - -1
+  - common_belt_02
+- - -1
+  - common_shirt_01
+- - -1
+  - common_shirt_02
+- - -1
+  - common_shirt_02_h
+- - -1
+  - common_shirt_02_r
+- - -1
+  - common_shirt_02_t
+- - -1
+  - common_shirt_03
+- - -1
+  - common_pants_01
+- - -1
+  - common_pants_02
+- - -1
+  - common_pants_03
+- - 4
+  - random_de_shoes_common
+- - 1
+  - random_expensive_de_fclothes_02
+- - 2
+  - random_de_pants

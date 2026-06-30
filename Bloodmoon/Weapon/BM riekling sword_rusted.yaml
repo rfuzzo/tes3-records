@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: BM riekling sword_rusted
+name: Rusted Riekling Blade
+script: ''
+mesh: w\W_IceMsword2.NIF
+icon: w\IceM_Sword.dds
+enchanting: ''
+data:
+  weight: 20.0
+  value: 150
+  weapon_type: LongBladeOneHand
+  health: 500
+  speed: 1.0
+  reach: 1.0
+  enchantment: 35
+  chop_min: 10
+  chop_max: 18
+  slash_min: 12
+  slash_max: 20
+  thrust_min: 4
+  thrust_max: 13
+  flags: ''

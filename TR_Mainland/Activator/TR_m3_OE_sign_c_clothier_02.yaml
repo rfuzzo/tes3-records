@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_OE_sign_c_clothier_02
+name: 'Yaguz gro-Dhaluk: Clothier'
+script: SignRotate
+mesh: TR\f\tr_act_sign_cloth_01.nif

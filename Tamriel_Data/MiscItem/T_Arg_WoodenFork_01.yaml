@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Arg_WoodenFork_01
+name: Wooden Fork
+script: ''
+mesh: bm\m\bm_misc_wd_fork_01.nif
+icon: bm\m\bm_m_arg_w_fork_01.dds
+data:
+  weight: 0.5
+  value: 1
+  flags: ''

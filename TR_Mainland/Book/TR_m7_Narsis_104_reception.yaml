@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_Narsis_104_reception
+name: Customer's Note
+script: ''
+mesh: m\Text_Note_02.nif
+icon: m\Tx_note_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nRylara Karaleth,<BR>\r\n<BR>\r\nThe transport you provided last Loredas was wonderful. I thoroughly enjoyed our conversation about the varied mediums of scrib consumption. I'll say there was an odd odor during much of the trip, but regardless I'd be happy to use your services again next time I'm leaving town.\r\n<BR>\r\nSincerely,<BR>\r\nBruisus Cocellus<BR>\r\n\r\n\r\n"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

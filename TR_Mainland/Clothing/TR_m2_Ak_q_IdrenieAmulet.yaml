@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m2_Ak_q_IdrenieAmulet
+name: Idrenie's Amulet
+script: ''
+mesh: c\Amulet_Extravagant_1.NIF
+icon: c\tx_amulet_extrav1.tga
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 120
+  enchantment: 600

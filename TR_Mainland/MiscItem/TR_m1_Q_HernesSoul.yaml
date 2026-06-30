@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m1_Q_HernesSoul
+name: Greater Soul Gem (Herne)
+script: TR_m1_hernes_soul_scr
+mesh: m\Misc_soulgem_greater.nif
+icon: m\Tx_soulgem_Greater.tga
+data:
+  weight: 1.0
+  value: 150
+  flags: ''

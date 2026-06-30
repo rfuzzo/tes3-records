@@ -1,0 +1,20 @@
+type: Book
+flags: ''
+id: TR_m0_Firemoth_PlayerHome
+name: Note To Self
+script: ''
+mesh: tr\tr_note_pin.nif
+icon: default icon.dds
+enchanting: ''
+text: |-
+  Author: RandomPal, based on the ruined version of the interior by Evil Eye.
+  Review: Denis418
+
+  This will be the player's room after doing the Firemoth Rebuilt questline.
+  Unique notebooks, ledgers consumables and artefacts from the ruined/quest stages of the interior aren't present, because the player might collect them during that time and will end up with duplicates.
+data:
+  weight: 0.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 0

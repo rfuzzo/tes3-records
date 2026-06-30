@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_FW_College_LibHistBooks
+name: The Wider Empire
+script: ''
+mesh: m\text_parchment_01.nif
+icon: m\tx_parchment_01.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>The Wider Empire<BR> <BR><DIV ALIGN=\"Left\">\r\nThese shelves contain the College's collection of historical and biographical texts from the human provinces of Tamriel as well as the southern provinces of Summerset Isle, Valenwood, Elsweyr, and Black Marsh. Information on lands beyond Tamriel can also be found in this part of the Library.\r\n<BR>\r\nLiterature in this section concerns events and peoples from beyond Morrowind. Texts on the history of Morrowind and the Empire in general can be found in the bookcases on either side of the door to the Library Tower.\r\n<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

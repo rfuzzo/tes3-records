@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Ayl_CoinSquare_01
+name: Square Ayleid Coin
+script: ''
+mesh: pc\m\pc_ayl_coin_sq.nif
+icon: pc\m\pc_tx_ayleid_coin_sq.dds
+data:
+  weight: 0.05
+  value: 5
+  flags: ''

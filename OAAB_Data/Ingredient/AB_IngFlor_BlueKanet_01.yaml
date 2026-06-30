@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: AB_IngFlor_BlueKanet_01
+name: Blue Kanet
+script: ''
+mesh: OAAB\n\ing_bluekanet01.nif
+icon: OAAB\n\n_bluekanet01.dds
+data:
+  weight: 0.1
+  value: 2
+  effects:
+  - DrainAttribute
+  - RestoreAttribute
+  - Silence
+  - WeaknessToFire
+  skills:
+  - Block
+  - Block
+  - None
+  - None
+  attributes:
+  - Willpower
+  - Intelligence
+  - None
+  - None

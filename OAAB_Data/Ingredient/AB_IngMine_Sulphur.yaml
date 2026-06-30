@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: AB_IngMine_Sulphur
+name: Sulphur
+script: ''
+mesh: OAAB\n\sulphur.nif
+icon: OAAB\n\n_sulphur.tga
+data:
+  weight: 0.1
+  value: 2
+  effects:
+  - Poison
+  - FireDamage
+  - ResistFire
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

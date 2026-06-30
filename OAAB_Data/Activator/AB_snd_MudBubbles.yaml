@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_snd_MudBubbles
+name: Sound_Mud_Bubbles
+script: Sound_mud_bubbles
+mesh: EditorMarker.NIF

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: PERSISTENT
+id: TR_m1_Q_Topaz_Stationary
+name: Topaz Offering
+script: TR_m1_Q_RGirthOfferingScript_TP
+mesh: TR\n\TR_Ing_topaz_mm.NIF
+icon: TR\n\TR_Ing_topaz_mm.dds
+data:
+  weight: 1.5
+  value: 75
+  effects:
+  - FireDamage
+  - ResistMagicka
+  - RestoreHealth
+  - SummonScamp
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

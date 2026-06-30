@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Imp_Vampyrum_Shortsword_Leech
+name: Vampyrum Order Leechblade
+script: ''
+mesh: pc\w\pc_w_vampyr_ssword_01.nif
+icon: pc\w\pc_w_vampyr_ssword_01.dds
+enchanting: T_Strike_VampyrumWeapon
+data:
+  weight: 6.0
+  value: 7500
+  weapon_type: ShortBladeOneHand
+  health: 750
+  speed: 2.0
+  reach: 1.0
+  enchantment: 40
+  chop_min: 7
+  chop_max: 17
+  slash_min: 7
+  slash_max: 17
+  thrust_min: 8
+  thrust_max: 16
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

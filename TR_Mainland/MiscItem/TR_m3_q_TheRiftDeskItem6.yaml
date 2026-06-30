@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m3_q_TheRiftDeskItem6
+name: Inkwell
+script: TR_m3_q_TheRiftFloodDisable
+mesh: m\Misc_Inkwell.NIF
+icon: m\Misc_Inkwell.tga
+data:
+  weight: 1.0
+  value: 2
+  flags: ''

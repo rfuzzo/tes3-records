@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: the_chiding_cuirass
+name: The Chiding Cuirass
+script: ''
+mesh: a\A_M_Chitin_Cuirass_GND.nif
+icon: a\TX_Chitin_curaiss.tga
+enchanting: weariness_en
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: a_m_chitin_chest
+  female_bodypart: ''
+data:
+  armor_type: Cuirass
+  weight: 6.0
+  value: 280
+  health: 300
+  enchantment: 100
+  armor_rating: 10

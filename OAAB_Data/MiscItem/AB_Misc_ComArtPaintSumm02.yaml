@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_ComArtPaintSumm02
+name: Painting
+script: ''
+mesh: OAAB\m\com_paint_summ_02.nif
+icon: OAAB\m\com_painting_summ_02.tga
+data:
+  weight: 4.0
+  value: 250
+  flags: ''

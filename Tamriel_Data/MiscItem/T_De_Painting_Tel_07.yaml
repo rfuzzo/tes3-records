@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_Painting_Tel_07
+name: Landscape of Dagon Urul
+script: ''
+mesh: tr\m\TR_M_Painting_Tel_07.nif
+icon: tr\m\TR_M_Painting_Tel_07.dds
+data:
+  weight: 6.0
+  value: 350
+  flags: ''

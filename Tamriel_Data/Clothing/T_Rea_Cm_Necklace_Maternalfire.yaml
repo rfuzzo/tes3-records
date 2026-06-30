@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Rea_Cm_Necklace_Maternalfire
+name: Necklace of Maternal Fire
+script: ''
+mesh: Sky\c\Sky_Necklace_Amber_01.nif
+icon: Sky\c\Tx_Necklace_Amber_01.dds
+enchanting: T_Use_Maternalfire
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 47
+  enchantment: 10

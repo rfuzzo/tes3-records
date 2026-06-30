@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: furn_bannerd_books_balmorabook
+name: 'Dorisa Darvel: Bookseller'
+script: OutsideBanner
+mesh: f\Furn_de_banner_book_01.NIF

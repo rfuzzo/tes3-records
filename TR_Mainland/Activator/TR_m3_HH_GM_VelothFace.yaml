@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_HH_GM_VelothFace
+name: ''
+script: TR_m3_HH_GM_VelothVision_scr
+mesh: tr\cr\TR_VelothFace_UNI.nif

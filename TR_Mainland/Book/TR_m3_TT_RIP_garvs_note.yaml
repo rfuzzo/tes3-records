@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_TT_RIP_garvs_note
+name: Notice from Garvs
+script: TR_m3_TT_RIP_note_sc
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nTo All,\r\n<BR>\r\nI have left for Dondril. Do not enter.\r\n<BR>\r\nGarvs\r\n<BR><BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

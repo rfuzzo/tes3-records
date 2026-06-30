@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Dae_Alternate_Buckler_01
+name: Daedric Buckler
+script: ''
+mesh: PC\a\pc_a_dae_buckler.nif
+icon: pc\a\pc_a_daedric_buckler.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Shield
+  male_bodypart: T_A_DaeBuckler_S
+  female_bodypart: ''
+data:
+  armor_type: Shield
+  weight: 40.0
+  value: 30000
+  health: 1400
+  enchantment: 1250
+  armor_rating: 75

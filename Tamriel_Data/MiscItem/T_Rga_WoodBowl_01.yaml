@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Rga_WoodBowl_01
+name: Wooden Bowl
+script: ''
+mesh: hf\m\hf_misc_rga_WdBowl_01.nif
+icon: hf\m\hf_misc_rga_WdBowl_01.dds
+data:
+  weight: 0.7
+  value: 1
+  flags: ''

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_Shipal_Sharai_banner_03
+name: 'Rugalmil: Apothecary'
+script: OutsideBanner
+mesh: f\Furn_bannerD_alchemy_01.NIF

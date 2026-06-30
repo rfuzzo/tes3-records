@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: Act_banner_Tel_Fyr
+name: Tel Fyr
+script: OutsideBanner
+mesh: f\Act_banner_Tel_Fyr.nif

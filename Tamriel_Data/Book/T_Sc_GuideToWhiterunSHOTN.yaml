@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Sc_GuideToWhiterunSHOTN
+name: Guide to Whiterun
+script: ''
+mesh: M\text_scroll_01.nif
+icon: m\tx_scroll_01.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nGuide to Whiterun<BR> <BR>\r\n"
+data:
+  weight: 0.2
+  value: 3
+  book_type: Scroll
+  skill: None
+  enchantment: 0

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m2_q_22_ArkayPillar
+name: Arkay's Pillar
+script: ''
+mesh: w\W_silver_staff.nif
+icon: w\Tx_silver_staff.tga
+enchanting: TR_m2_q_22_ArkayPillar_en
+data:
+  weight: 6.4
+  value: 560
+  weapon_type: BluntTwoWide
+  health: 300
+  speed: 1.75
+  reach: 1.5
+  enchantment: 56
+  chop_min: 2
+  chop_max: 7
+  slash_min: 5
+  slash_max: 12
+  thrust_min: 1
+  thrust_max: 5
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE | SILVER

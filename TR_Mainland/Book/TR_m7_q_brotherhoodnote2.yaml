@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_q_brotherhoodnote2
+name: Note to the Duchess
+script: TR_m7_q_brotherhoodnote2_sc
+mesh: m\Text_Parchment_02.nif
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nTo the Duchess of Mir Corrup<BR>\r\n<BR>\r\nI hope this note finds you well. I have a target that I need eliminated. An outlander by the name of Birahn who works for the Imperial Cult in Hlerynhul.<BR>\r\nI've done what you requested and attached my payment along with my target.<BR>\r\nI trust in your agent Mah-ja's discretion.<BR>\r\n<BR>\r\nSincerely,\r\n[Jivana Hleryn's name is crossed out, but still visible.]\r\n<BR>\r\n"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

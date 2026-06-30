@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_De_SetInd_Drum_03
+name: Indoril Drum
+script: T_ScObj_IndorilDrum3
+mesh: TR\f\tr_act_ind_drum_03.nif

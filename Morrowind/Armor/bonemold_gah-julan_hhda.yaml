@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: bonemold_gah-julan_hhda
+name: Native Gah-Julan Bonemold Helm
+script: disguisedArmor
+mesh: a\A_Bonemold_Gah_Julan_h.nif
+icon: a\TX_Bonemold_Gah_Julan_h.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: Head
+  male_bodypart: a_bonemold_gah_julan_h
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 4.0
+  value: 167
+  health: 160
+  enchantment: 200
+  armor_rating: 16

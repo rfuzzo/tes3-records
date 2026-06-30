@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_sc_m2_i2-437-Tri_oldmap
+name: Old Map of The Catacombs
+script: ''
+mesh: m\Text_Scroll_01.nif
+icon: m\Tx_scroll_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>[This appears to be a construction map of an area in the catacombs under Necrom. The page is rife with corrections and alterations.]<BR>"
+data:
+  weight: 1.0
+  value: 50
+  book_type: Scroll
+  skill: None
+  enchantment: 30

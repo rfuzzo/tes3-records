@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_HH_SvoshLetter
+name: Letter to S'Vosh
+script: TR_m7_HH_SvoshLetter_scp
+mesh: m\Text_paper_roll_01.nif
+icon: m\Tx_paper_roll_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nthe strider crosses the water <BR>\r\nsow saltrice by the light of a southern sunrise <BR>\r\nlook for the Spirit at the end of the Nav <BR>\r\nthe slaughterfish's scales shine GOLD <BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

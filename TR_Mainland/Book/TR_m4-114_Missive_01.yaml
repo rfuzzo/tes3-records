@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4-114_Missive_01
+name: Missive
+script: ''
+mesh: m\Text_Parchment_02.NIF
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[The note contains a hastily-scrawled missive from the city steward regarding a recent concern of the council.]\r\n<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

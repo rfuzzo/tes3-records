@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: tr_m3-777_fm_note
+name: Note to Captain
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nCaptain,\r\n   As per your orders,  I've sent 2 men into town with most of the armaments to be repaired. You were right, that little skirmish with those pirates did more damage than I thought. Our weapons master still has a few weapons that he says will be fixed by morrow.<BR>\r\n<BR>\r\nFirst Mate<BR>\r\n"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

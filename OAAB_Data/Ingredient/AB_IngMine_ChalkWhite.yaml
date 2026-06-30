@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: AB_IngMine_ChalkWhite
+name: Chalk
+script: ''
+mesh: OAAB\n\chalk.nif
+icon: OAAB\n\chalk.dds
+data:
+  weight: 0.1
+  value: 1
+  effects:
+  - DrainAttribute
+  - Mark
+  - None
+  - None
+  skills:
+  - Block
+  - None
+  - None
+  - None
+  attributes:
+  - Speed
+  - None
+  - None
+  - None

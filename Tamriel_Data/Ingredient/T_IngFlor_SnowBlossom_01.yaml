@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_SnowBlossom_01
+name: Snow Blossom
+script: ''
+mesh: hr\n\hr_n_snow blos.nif
+icon: hr\n\hr_n_snow blos.dds
+data:
+  weight: 0.2
+  value: 6
+  effects:
+  - FortifyAttribute
+  - DrainAttribute
+  - ResistShock
+  - None
+  skills:
+  - Block
+  - Block
+  - None
+  - None
+  attributes:
+  - Endurance
+  - Intelligence
+  - None
+  - None

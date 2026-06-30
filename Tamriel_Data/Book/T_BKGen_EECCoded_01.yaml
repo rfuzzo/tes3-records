@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_BKGen_EECCoded_01
+name: Coded Document
+script: ''
+mesh: m\Text_Parchment_02.nif
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n[This is a document written in coded shorthand. It could be anything from a visitor log to a mining report. You cannot decipher it, but the insignia in the corner marks it as property of the East Empire Company.]<BR>"
+data:
+  weight: 0.1
+  value: 3
+  book_type: Scroll
+  skill: None
+  enchantment: 0

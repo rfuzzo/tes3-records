@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_YellowGlassFlask01
+name: Yellow Glass Flask
+script: ''
+mesh: tr\m\tr_misc_yelglas_flsk01.nif
+icon: tr\m\tr_misc_yelglass_flask.dds
+data:
+  weight: 2.0
+  value: 2
+  flags: ''

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Furn_DeBannerCatcatcher01
+name: ''
+script: OutsideBanner
+mesh: OAAB\u\de_banner_catc_01.nif

@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: TR_light_TR_i3-153_candle
+name: ''
+script: ''
+mesh: l\Light_De_Candle_03.NIF
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 2
+  time: -1
+  radius: 64
+  color:
+  - 245
+  - 140
+  - 40
+  - 0
+  flags: DYNAMIC | FIRE | FLICKER_SLOW

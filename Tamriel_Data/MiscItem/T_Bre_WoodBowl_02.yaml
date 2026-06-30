@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Bre_WoodBowl_02
+name: Bowl
+script: ''
+mesh: hr\m\hr_misc_wood_bowl_02.nif
+icon: hr\m\hr_misc_wood_bowl_02.dds
+data:
+  weight: 1.0
+  value: 1
+  flags: ''

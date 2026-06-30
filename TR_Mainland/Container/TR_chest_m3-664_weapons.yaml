@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: TR_chest_m3-664_weapons
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - random_imp_weapon
+- - 3
+  - random_iron_weapon
+- - 1
+  - random_silver_weapon

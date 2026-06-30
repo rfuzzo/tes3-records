@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m1_q_FG_JanaMarker
+name: ''
+script: TR_m1_q_FG_JanaMarker_Script
+mesh: EditorMarker.NIF

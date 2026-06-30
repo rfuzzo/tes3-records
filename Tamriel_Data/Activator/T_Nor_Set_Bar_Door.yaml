@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Nor_Set_Bar_Door
+name: Bar Door
+script: BarDoor
+mesh: sky\f\sky_act_bar_door.nif

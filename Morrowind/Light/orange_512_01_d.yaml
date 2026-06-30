@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: orange_512_01_d
+name: ''
+script: ''
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 512
+  color:
+  - 174
+  - 100
+  - 17
+  - 0
+  flags: DYNAMIC

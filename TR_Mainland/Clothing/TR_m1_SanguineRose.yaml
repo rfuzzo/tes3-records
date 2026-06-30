@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m1_SanguineRose
+name: Sanguine Rose
+script: ''
+mesh: tr\m\tr_misc_sang_rose.nif
+icon: tr\m\tr_misc_sang_rose_01.dds
+enchanting: TR_m1_SanguinesRose_en
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 3.0
+  value: 14000
+  enchantment: 100

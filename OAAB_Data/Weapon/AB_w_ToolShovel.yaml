@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_ToolShovel
+name: Shovel
+script: ''
+mesh: OAAB\w\tool_shovel.nif
+icon: OAAB\w\tool_shovel.dds
+enchanting: ''
+data:
+  weight: 7.0
+  value: 8
+  weapon_type: SpearTwoWide
+  health: 350
+  speed: 1.0
+  reach: 1.7
+  enchantment: 25
+  chop_min: 1
+  chop_max: 2
+  slash_min: 1
+  slash_max: 4
+  thrust_min: 4
+  thrust_max: 6
+  flags: ''

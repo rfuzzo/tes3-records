@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m7_BlackStarPendant
+name: Black Star Pendant
+script: ''
+mesh: pc\c\pc_c_etamulet_01b.nif
+icon: pc\c\pc_c_etamulet_01b.dds
+enchanting: TR_m7_BlackStarPendant_en
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 20000
+  enchantment: 600

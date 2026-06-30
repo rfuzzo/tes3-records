@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_SetCyr_SignCompWSC_01
+name: White Scarab Company
+script: SignRotate
+mesh: pc\f\pc_furn_sign_wsc_01.nif

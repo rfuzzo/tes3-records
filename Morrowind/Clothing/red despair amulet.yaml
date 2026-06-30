@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: red despair amulet
+name: Red Despair Amulet
+script: ''
+mesh: c\Amulet_Common_2.NIF
+icon: c\tx_amulet_com2.tga
+enchanting: red despair_enu
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 14
+  enchantment: 10

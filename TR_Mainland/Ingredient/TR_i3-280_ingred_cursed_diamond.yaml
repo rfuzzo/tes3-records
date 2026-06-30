@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: TR_i3-280_ingred_cursed_diamond
+name: Maniel's Diamond
+script: TR_i3-280_CursedDiamondSummon
+mesh: n\Ingred_diamond_01.NIF
+icon: n\Tx_diamond.tga
+data:
+  weight: 0.2
+  value: 250
+  effects:
+  - DrainAttribute
+  - Invisibility
+  - Reflect
+  - DetectKey
+  skills:
+  - Block
+  - None
+  - None
+  - None
+  attributes:
+  - Agility
+  - None
+  - None
+  - None

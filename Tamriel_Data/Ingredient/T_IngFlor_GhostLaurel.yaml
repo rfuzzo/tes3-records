@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_GhostLaurel
+name: Ghost Laurel
+script: ''
+mesh: tr\n\tr_ing_ghostlaurel.nif
+icon: tr\n\tr_ing_ghostlaurel.dds
+data:
+  weight: 0.1
+  value: 8
+  effects:
+  - WeaknessToMagicka
+  - WeaknessToFrost
+  - Sanctuary
+  - Chameleon
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

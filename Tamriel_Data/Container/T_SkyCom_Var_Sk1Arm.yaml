@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: T_SkyCom_Var_Sk1Arm
+name: Sack
+script: ''
+mesh: Sky\o\Sky_Cont_Sack_01_03.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 5
+  - BM bear cuirass
+- - 5
+  - BM bear greaves
+- - 1
+  - BM wolf cuirass
+- - 1
+  - BM wolf greaves

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_Painting_Pier
+name: A Small Pier by the Rocky Beach
+script: ''
+mesh: pi\m\PI_M_Painting_Pier.nif
+icon: pi\m\PI_M_Painting_Pier.dds
+data:
+  weight: 9.0
+  value: 300
+  flags: ''

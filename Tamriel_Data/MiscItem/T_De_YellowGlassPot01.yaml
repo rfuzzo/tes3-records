@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_YellowGlassPot01
+name: Yellow Glass Pot
+script: ''
+mesh: tr\m\tr_misc_yelglas_pot01.nif
+icon: tr\m\tr_misc_yelglass_pot.dds
+data:
+  weight: 2.5
+  value: 3
+  flags: ''

@@ -1,0 +1,22 @@
+type: Armor
+flags: ''
+id: TR_ow09_orc_right_pauldron
+name: Kharag's Right Pauldron
+script: ''
+mesh: a\a_orcish_pauldron_gnd.nif
+icon: a\TX_Orcish_pauldron.tga
+enchanting: TR_m7_kharag_paul_r_en
+biped_objects:
+- biped_object_type: RightUpperArm
+  male_bodypart: a_orcish_pauldron_ua
+  female_bodypart: ''
+- biped_object_type: RightPauldron
+  male_bodypart: A_Orcish_CL_Pauldron
+  female_bodypart: ''
+data:
+  armor_type: RightPauldron
+  weight: 8.0
+  value: 7500
+  health: 300
+  enchantment: 24
+  armor_rating: 50

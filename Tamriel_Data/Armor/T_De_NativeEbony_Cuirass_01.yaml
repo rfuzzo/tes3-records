@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_De_NativeEbony_Cuirass_01
+name: Native Ebony Cuirass
+script: ''
+mesh: TR\a\Tr_a_NatEbon_chest_gnd.nif
+icon: tr\a\Tr_a_NatEbon_chest.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_A_DeNativeEbonyCuirass01_C
+  female_bodypart: ''
+data:
+  armor_type: Cuirass
+  weight: 27.0
+  value: 22500
+  health: 1350
+  enchantment: 350
+  armor_rating: 55

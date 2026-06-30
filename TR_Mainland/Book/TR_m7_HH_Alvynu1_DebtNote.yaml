@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_HH_Alvynu1_DebtNote
+name: Notice of Repayment
+script: ''
+mesh: pc\m\pc_bk_letter_02.nif
+icon: pc\m\pc_m_letter_02.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n[On the page is an enormous table with countless rows filled with numbers, all dated back more than a hundred years. If the tables are to be believed, a small sum of just 19 septims has blown up to over 2000 from so many years of unpaid interest. The memo at the top states, 'For the preservation of the ancestors of the great Sadras family.' It is signed and sealed by 'Serjo Belron Hlaalu of the Seventh Hlaalu Family, Who Seek Forever the Seyda Neen.'] <BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

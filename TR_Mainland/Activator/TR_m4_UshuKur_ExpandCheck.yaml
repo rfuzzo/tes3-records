@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_UshuKur_ExpandCheck
+name: Ushu-Kur Expansion Check
+script: TR_m4_FG_UshuKurExp_scp
+mesh: EditorMarker.NIF

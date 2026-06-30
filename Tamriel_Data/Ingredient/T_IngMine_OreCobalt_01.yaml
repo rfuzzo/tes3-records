@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngMine_OreCobalt_01
+name: Cobalt Ore
+script: ''
+mesh: pi\n\pi_ing_cobaltore.nif
+icon: pi\n\pi_ing_cobaltore.dds
+data:
+  weight: 3.0
+  value: 50
+  effects:
+  - DrainMagicka
+  - NightEye
+  - FortifyAttribute
+  - ResistFrost
+  skills:
+  - None
+  - None
+  - Block
+  - None
+  attributes:
+  - None
+  - None
+  - Endurance
+  - None

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_RiddlesGoodwMeadSHOTN
+name: Riddles, Good with Mead
+script: ''
+mesh: Sky\m\Sky_Book_Basic_10.nif
+icon: Sky\m\Tx_Book_Basic_10.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nRiddles, Good with Mead<BR>\r\nby Jyrrul Meadspitter<BR>\r\nof the<BR>\r\nBards College of Haafingar<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nPresented herein are all manner of riddles, to enjoy with friends on a cold night.<BR>\r\n<BR>\r\nI touch your feet<BR>\r\nAnd Hoaga's mouth<BR>\r\nI spawn unruled<BR>\r\nAt Drajkmyr's Hold<BR>\r\nTo most I'm nothing, but for a bird<BR>\r\nI hide a hoard of mites and worms<BR>\r\n<BR>\r\nI lurk and I prowl<BR>\r\nNeither squeak nor howl<BR>\r\nQuiet like the snow<BR>\r\nMy face don't know<BR>\r\nBut my flesh still rips<BR>\r\nUnder a Nord's grip<BR>\r\n<BR>\r\nI roll over tongues<BR>\r\nLight fires in bellies<BR>\r\nMake the world roil<BR>\r\n'Til Men greet the ground<BR>\r\nMy comp'ny brings sleep<BR>\r\nThough sought by the gods<BR>\r\n<BR>\r\nI can be heavy or light<BR>\r\nBe sorrowful or happy<BR>\r\nSurrounded by strings, unshackled<BR>\r\nLocked in humid cages, untameable<BR>\r\nQuick to escape I fly the wind<BR>\r\nI grow and spread unbound by walls<BR><BR>"
+data:
+  weight: 2.0
+  value: 50
+  book_type: Book
+  skill: None
+  enchantment: 0

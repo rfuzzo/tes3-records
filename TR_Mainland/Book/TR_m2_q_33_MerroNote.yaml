@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2_q_33_MerroNote
+name: Note to Caedan Jorval
+script: ''
+mesh: m\Text_Parchment_02.nif
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nYou have the aid of the East Empire Company in the matter we discussed previously. The Governor will remain unaware.\r\n<BR>\r\n--MG.\r\n<BR>\r\n"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

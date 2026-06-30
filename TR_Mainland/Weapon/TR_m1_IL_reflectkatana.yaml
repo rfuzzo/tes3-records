@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m1_IL_reflectkatana
+name: Ebony Mirror-Blade
+script: ''
+mesh: TR\w\tr_w_ebony_katana.nif
+icon: TR\w\TR_w_ebony_katana.dds
+enchanting: TR_m1_IL_reflectench
+data:
+  weight: 36.0
+  value: 30000
+  weapon_type: LongBladeOneHand
+  health: 3200
+  speed: 1.5
+  reach: 1.0
+  enchantment: 120
+  chop_min: 3
+  chop_max: 33
+  slash_min: 1
+  slash_max: 35
+  thrust_min: 1
+  thrust_max: 34
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

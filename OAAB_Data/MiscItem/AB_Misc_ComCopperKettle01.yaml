@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_ComCopperKettle01
+name: Copper Kettle
+script: ''
+mesh: OAAB\m\copperKettle01.nif
+icon: OAAB\m\misc_copperket_01.dds
+data:
+  weight: 3.0
+  value: 22
+  flags: ''

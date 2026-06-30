@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: TR_m2_chest_02_ship
+name: Large Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - TR_m2_amulet_acrobat
+- - 5000
+  - random gold
+- - 15
+  - random_gem

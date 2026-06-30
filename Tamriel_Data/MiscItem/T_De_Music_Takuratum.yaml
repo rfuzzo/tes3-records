@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_Music_Takuratum
+name: Takuratum
+script: ''
+mesh: tr\m\tr_misc_de_takuratum.nif
+icon: tr\m\tr_misc_de_takuratum.dds
+data:
+  weight: 5.0
+  value: 75
+  flags: ''

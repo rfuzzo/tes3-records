@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m7_MG_Reactor_01
+name: Creatia Reactor
+script: TR_m7_Ns_MG_Reactor_sc
+mesh: pc\f\pc_imp_furn_reactor.nif

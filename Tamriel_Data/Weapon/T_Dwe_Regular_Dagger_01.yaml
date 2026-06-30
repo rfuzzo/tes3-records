@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Dwe_Regular_Dagger_01
+name: Dwarven Dagger
+script: ''
+mesh: TR\w\TR_w_dwrv_dagger.nif
+icon: TR\w\TR_w_dwrv_dagger.dds
+enchanting: ''
+data:
+  weight: 5.0
+  value: 150
+  weapon_type: ShortBladeOneHand
+  health: 930
+  speed: 2.5
+  reach: 1.0
+  enchantment: 20
+  chop_min: 5
+  chop_max: 7
+  slash_min: 5
+  slash_max: 7
+  thrust_min: 6
+  thrust_max: 7
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: T_MwCom_Var_CrL1Food
+name: Crate
+script: ''
+mesh: TR\o\tr_cont_crate_l_01.nif
+encumbrance: 400.0
+container_flags: IS_BASE
+inventory:
+- - 3
+  - T_Mw_Random_Food
+- - 3
+  - random_food

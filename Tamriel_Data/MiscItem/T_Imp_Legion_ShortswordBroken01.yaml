@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_Legion_ShortswordBroken01
+name: Broken Shortsword
+script: ''
+mesh: TR\m\TR_misc_imp_ssword_brk.NIF
+icon: TR\m\TR_misc_imp_ssword_brk.dds
+data:
+  weight: 5.0
+  value: 1
+  flags: ''

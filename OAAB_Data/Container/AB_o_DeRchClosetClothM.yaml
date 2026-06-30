@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: AB_o_DeRchClosetClothM
+name: Closet
+script: ''
+mesh: o\Contain_De_Closet_01.NIF
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory:
+- - 4
+  - AB_lvl_c_DeExM

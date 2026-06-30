@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m2_q_14_CommonSoulGem
+name: Common Soul Gem
+script: ''
+mesh: m\Misc_soulgem_common.NIF
+icon: m\Tx_soulgem_Common.tga
+data:
+  weight: 1.0
+  value: 40
+  flags: ''

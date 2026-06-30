@@ -1,0 +1,27 @@
+type: Container
+flags: ''
+id: TR_M2_i392_smuggleloot2
+name: Sack
+script: ''
+mesh: o\Contain_Com_Sack_02.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Mw_Lvl_Soulgems
+- - 1
+  - T_Mw_Random_JunkImperial
+- - 1
+  - T_Mw_Random_OreIron
+- - 2
+  - T_Mw_Random_Pos
+- - 1
+  - T_Mw_Random_WeaponsSteel
+- - 1
+  - random_book_dunmer
+- - 8
+  - random_de_pos_01
+- - 1
+  - random_de_shoes_common
+- - 3
+  - random_drinks_01

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_Ns_HH_SarithaLetter
+name: Sealed Letter to Fethas Hlaalu
+script: TR_m7_Ns_HH_SarithaLetter_sc
+mesh: m\Text_paper_roll_01.nif
+icon: m\Tx_paper_roll_01.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nTo Fethas Hlaalu, Duke of Narsis<BR><BR>\r\nI hope this finds you well. As you know, the Hlaalu Council Company was founded to safeguard the interests of our Great House and to take advantage of the new opportunities created by the Empire. To assure the success of the company, responsibility over it was placed in the hands of the Grand Council. The conduct of your agents in the Valley of Storms Charter is subverting this authority. They are not in the interest of the House and they must cease. This is not the first time I've had to remind you of your position. I hope it is the last.<BR><BR>\r\nYour cousin, Saritha Hlaalu<BR>"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

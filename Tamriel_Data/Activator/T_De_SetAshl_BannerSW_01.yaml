@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_De_SetAshl_BannerSW_01
+name: ''
+script: OutsideBanner
+mesh: tr\x\TR_Ex_Ashl_SW_Banner.nif

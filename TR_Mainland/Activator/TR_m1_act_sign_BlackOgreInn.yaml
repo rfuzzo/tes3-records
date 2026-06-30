@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m1_act_sign_BlackOgreInn
+name: The Black Ogre
+script: SignRotate
+mesh: tr\f\tr_act_sign_inn_03.nif

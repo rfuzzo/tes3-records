@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_Firemoth_ShipwreckLog01
+name: Journal of Aventus Phrelitus
+script: ''
+mesh: tr\m\tr_book_notebk_o_02.nif
+icon: tr\m\tr_book_open_ntbk02.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\">\r\n<BR>\r\nJournal of Captain Aventus Phrelitus\r\n<BR>\r\n[Most pages are fragile and stuck together. One of the intact entries says:]\r\n<BR>\r\nMorning of 3e [illegible]. Departing from Old Ebonheart with supplies for Fort Firemoth. The weather is fair and spirits high.\r\n<BR>\r\nAmong the routine cargo of rations and materials, a few requests of note. A number of Dwemer artifacts, as well as two racks of wine. \r\n<BR>\r\nI trust my crew to handle their responsibilities, but the fragility of the cargo raises doubts in me personally.\r\n<BR>\r\n[The last entry says:]\r\n<BR>\r\nFiremoth is under attack. Undead emerge from all sides. We are evacuating the personnel. A dozen of legionnaires and some civilians. Many people still remain in the fort.\r\n<BR>\r\nI hear explosions. Fortifications crumble like sand castles. Many soldiers are still fighting. I had to make a choice and depart with at least someone on board. I could not wait for everyone, lest the undead would sink the ship. The weather is cursed.\r\n<BR>\r\nWe will come back with reinforcements and save the rest, I promise to [illegible]!\r\n<BR>"
+data:
+  weight: 0.5
+  value: 10
+  book_type: Book
+  skill: None
+  enchantment: 0

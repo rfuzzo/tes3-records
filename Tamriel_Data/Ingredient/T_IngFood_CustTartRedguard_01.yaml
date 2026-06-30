@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_CustTartRedguard_01
+name: Custard Tart
+script: ''
+mesh: hf\n\hf_food_CustTart01.nif
+icon: hf\n\hf_food_cust_tart01.dds
+data:
+  weight: 0.4
+  value: 10
+  effects:
+  - RestoreHealth
+  - None
+  - None
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

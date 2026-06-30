@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Com_Cm_Hat_04
+name: Common Hat
+script: ''
+mesh: pc\a\pc_a_simple_hat_04_g.nif
+icon: pc\a\pc_a_comm_hat_04.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Hair
+  male_bodypart: T_C_ComCmHat04_Hr
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 2.0
+  value: 5
+  health: 50
+  enchantment: 20
+  armor_rating: 6

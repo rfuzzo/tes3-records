@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: ex_t_pc_hold_doorway_01
+name: ''
+script: Strong2_Complete
+mesh: x\Ex_T_doorway_01.nif

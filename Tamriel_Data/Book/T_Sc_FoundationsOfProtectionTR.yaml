@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Sc_FoundationsOfProtectionTR
+name: Foundations of Protection
+script: T_ScBook_SpBoundBoots
+mesh: m\Text_Scroll_02.nif
+icon: m\Tx_scroll_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>\r\nSword against axe, man against man.<BR>\r\nWhen Sword struck true, and Axes blood ran,<BR>\r\nSword stood awaiting, while axe fell flat.<BR>\r\nAnd then Sword looked at Axe as if he were a gnat.<BR>\r\nToo well trained to look up in defeat,<BR>\r\nAxe lay there, gazing with shame at swords feet<BR>\r\n<BR>\r\nUnnatural boots of blood and night<BR>\r\nThey wore an angry glow of burning spite.<BR>\r\nChatter Axe heard from the boots sword wore,<BR>\r\nhaunting whispers to live with him, had he been let to endure.<BR>\r\nThe boots were demonic that much he knew,<BR>\r\nand as Sword closed in, to fever pitch they grew.\r\n<BR>\r\n\"'las,\" they breathed, \"we are but Swords base.\"<BR>\r\nAnd Sword smiled as fear became Axes face.<BR>\r\nSo Axe said \"What witchcraft is this that your boots do sigh.\"<BR>\r\nAnd Sword replied as he raised his blade high,<BR>\r\n\"Aren't they light, and so clean and so neat.\"<BR>\r\nAs Sword struck final, he said, \"but you couldn't wear them, since they're bound to my feet.\" <BR>\r\n"
+data:
+  weight: 1.5
+  value: 150
+  book_type: Scroll
+  skill: None
+  enchantment: 100

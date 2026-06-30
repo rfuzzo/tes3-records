@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Imp_Legion_Shortsword_01
+name: Imperial Shortsword
+script: ''
+mesh: PC\w\pc_w_imp_ssword.nif
+icon: pc\w\pc_w_imp_ssword.dds
+enchanting: ''
+data:
+  weight: 10.0
+  value: 60
+  weapon_type: ShortBladeOneHand
+  health: 600
+  speed: 2.0
+  reach: 1.0
+  enchantment: 70
+  chop_min: 6
+  chop_max: 12
+  slash_min: 4
+  slash_max: 12
+  thrust_min: 4
+  thrust_max: 12
+  flags: ''

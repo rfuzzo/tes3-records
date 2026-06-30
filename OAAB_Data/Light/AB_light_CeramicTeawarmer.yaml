@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: AB_light_CeramicTeawarmer
+name: Ceramic Tea Warmer
+script: ''
+mesh: OAAB\l\ceramicTeawarmer.nif
+icon: OAAB\l\ceramicTeawarmer.tga
+sound: ''
+data:
+  weight: 2.0
+  value: 130
+  time: 0
+  radius: 56
+  color:
+  - 236
+  - 122
+  - 19
+  - 0
+  flags: DYNAMIC | CAN_CARRY | FIRE | FLICKER_SLOW

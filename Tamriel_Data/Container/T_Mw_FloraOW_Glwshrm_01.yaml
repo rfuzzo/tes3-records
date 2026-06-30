@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Mw_FloraOW_Glwshrm_01
+name: Roridomyces Phyllostachydis
+script: ''
+mesh: tr\f\tr_f_glowshroom_01.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - T_Mw_Random_FlorGlwShrm

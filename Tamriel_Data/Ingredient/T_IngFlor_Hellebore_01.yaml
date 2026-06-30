@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_Hellebore_01
+name: Hellebore Pollen
+script: ''
+mesh: sky\n\sky_ingred_helleb_01.nif
+icon: sky\n\tx_ingred_Helleb.dds
+data:
+  weight: 0.1
+  value: 1
+  effects:
+  - DamageAttribute
+  - ResistShock
+  - RestoreAttribute
+  - DamageMagicka
+  skills:
+  - Block
+  - None
+  - Block
+  - Block
+  attributes:
+  - Agility
+  - None
+  - Speed
+  - Strength

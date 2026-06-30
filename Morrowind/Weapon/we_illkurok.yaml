@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: we_illkurok
+name: Illkurok
+script: ''
+mesh: w\W_Dwemer_spear.nif
+icon: w\Tx_Dwemer_spear.tga
+enchanting: we_illkurok_en
+data:
+  weight: 14.0
+  value: 850
+  weapon_type: SpearTwoWide
+  health: 625
+  speed: 1.0
+  reach: 1.8
+  enchantment: 50
+  chop_min: 3
+  chop_max: 6
+  slash_min: 3
+  slash_max: 6
+  thrust_min: 6
+  thrust_max: 22
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: AB_c_ExquisiteAmulet01
+name: Exquisite Amulet
+script: ''
+mesh: OAAB\c\amulet_exq_01.nif
+icon: OAAB\c\amulet_exq_01.dds
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 240
+  enchantment: 1200

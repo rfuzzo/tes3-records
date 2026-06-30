@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_bk_RR_einnisa_diary
+name: Einnisa's Journal
+script: ''
+mesh: m\Text_Octavo_04.nif
+icon: m\Tx_octavo_04.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>\r\n[ As you skim through the pages, you notice that the journal spans several years. You read the first entry...]<BR>\r\n<BR>.... I've moved in!! After months of negotiations with that old idiot, finally I have found the perfect house....<BR> <BR>[ You read on.. ] <BR><BR>\r\n...There appears to be some old bricked up door in the basement..<BR> <BR>[ And on.. ]<BR><BR>\r\n.. I give up. I will now resort to magic to figure out what I can do about the stupid thing...... <BR><BR>[ An entry reads...]<BR><BR>I was trying investigating yesterday when I heard a scratching at the door. It scared me half to death! Is there some kind of creature behind this door? <BR><BR>[ An entry reads.. ]<BR><BR>Something is in there. I finally brought up the nerve to approach the door again, when I heard voices faintly on the other side<BR><BR>[Final entry reads.. ]\r\n<BR><BR>\r\nI haven't slept in days, every time I close my eyes, I just panic about what it might be on the other side. I can't sleep down here anymore.\r\n</FONT><BR>\r\n<BR>"
+data:
+  weight: 3.0
+  value: 100
+  book_type: Book
+  skill: None
+  enchantment: 0

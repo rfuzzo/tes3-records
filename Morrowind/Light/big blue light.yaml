@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: big blue light
+name: ''
+script: ''
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 500
+  color:
+  - 0
+  - 0
+  - 255
+  - 0
+  flags: ''

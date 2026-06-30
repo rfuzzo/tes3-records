@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_SocrataNectar_01
+name: Socatra Nectar
+script: ''
+mesh: pc\n\pc_ingred_socatra.nif
+icon: pc\n\pc_tx_ingred_socatra.dds
+data:
+  weight: 0.2
+  value: 1
+  effects:
+  - CureCommonDisease
+  - DrainFatigue
+  - FireShield
+  - Burden
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

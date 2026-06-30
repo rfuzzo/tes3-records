@@ -1,0 +1,21 @@
+type: Container
+flags: ''
+id: TR_m4-323_Desk_Alchemy
+name: Desk
+script: ''
+mesh: TR\o\TR_furn_De_Rm_Desk01.NIF
+encumbrance: 40.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Mw_Random_ClutterDesk
+- - 2
+  - T_Mw_Random_ClutterPotionFlask
+- - 2
+  - T_Mw_Random_Minerals
+- - 5
+  - T_Mw_Random_Plant
+- - 3
+  - T_Mw_Random_Shell
+- - 1
+  - l_n_apparatus

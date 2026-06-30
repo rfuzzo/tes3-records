@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m4_teyn_barrel_amu
+name: Barrel
+script: ''
+mesh: o\Contain_barrel_01.NIF
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - TR_m4_adventurers_amulet

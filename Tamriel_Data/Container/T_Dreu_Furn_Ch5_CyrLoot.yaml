@@ -1,0 +1,25 @@
+type: Container
+flags: ''
+id: T_Dreu_Furn_Ch5_CyrLoot
+name: Chest
+script: ''
+mesh: tr\o\tr_furn_dreu_chest_05.nif
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - 30
+  - T_Cyr_Lvl_MissilesThrown
+- - 2
+  - T_Cyr_Lvl_Potion
+- - 4
+  - T_Cyr_Random_Gem
+- - 1
+  - T_Cyr_Random_OreGold
+- - 1
+  - T_Cyr_Random_WeaponAdamantium
+- - 1
+  - T_Glb_Random_HumanParts
+- - 1
+  - misc_skull00
+- - 200
+  - random gold

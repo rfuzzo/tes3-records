@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m1_w_Cloudburst
+name: Cloudburst
+script: ''
+mesh: tr\w\tr_w_silver_warhammer.nif
+icon: tr\w\tr_w_silver_warhammer.dds
+enchanting: TR_m1_Cloudburst_en
+data:
+  weight: 28.0
+  value: 2000
+  weapon_type: BluntTwoClose
+  health: 2250
+  speed: 1.0
+  reach: 1.5
+  enchantment: 200
+  chop_min: 1
+  chop_max: 28
+  slash_min: 1
+  slash_max: 25
+  thrust_min: 1
+  thrust_max: 4
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE | SILVER

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m7_Rod_Ius_Agitated
+name: Rod of Ius the Agitated
+script: ''
+mesh: tr\w\tr_w_iron_staff_01.nif
+icon: tr\w\tr_w_iron_staff_01.dds
+enchanting: TR_m7_Ius_Rod_En
+data:
+  weight: 8.0
+  value: 1400
+  weapon_type: BluntTwoWide
+  health: 300
+  speed: 1.75
+  reach: 1.8
+  enchantment: 500
+  chop_min: 2
+  chop_max: 7
+  slash_min: 2
+  slash_max: 7
+  thrust_min: 1
+  thrust_max: 5
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

@@ -1,0 +1,28 @@
+type: Armor
+flags: ''
+id: TR_m2_a_explorer_boots
+name: Boots of the Explorer
+script: ''
+mesh: a\A_M_Chitin_Boot_GND.nif
+icon: a\TX_Chitin_boot.tga
+enchanting: TR_m2_en_explorerboots
+biped_objects:
+- biped_object_type: LeftFoot
+  male_bodypart: a_m_chitin_f_boots
+  female_bodypart: ''
+- biped_object_type: LeftAnkle
+  male_bodypart: a_m_chitin_a_boot
+  female_bodypart: ''
+- biped_object_type: RightFoot
+  male_bodypart: a_m_chitin_f_boots
+  female_bodypart: ''
+- biped_object_type: RightAnkle
+  male_bodypart: a_m_chitin_a_boot
+  female_bodypart: ''
+data:
+  armor_type: Boots
+  weight: 6.0
+  value: 400
+  health: 100
+  enchantment: 44
+  armor_rating: 10

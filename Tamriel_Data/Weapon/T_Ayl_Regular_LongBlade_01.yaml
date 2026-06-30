@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Ayl_Regular_LongBlade_01
+name: Ayleid Curved Long Blade
+script: ''
+mesh: pc\w\pc_w_ayl_blade02.nif
+icon: pc\w\pc_w_ayl_blade02.dds
+enchanting: ''
+data:
+  weight: 16.0
+  value: 750
+  weapon_type: LongBladeOneHand
+  health: 700
+  speed: 1.25
+  reach: 1.0
+  enchantment: 180
+  chop_min: 6
+  chop_max: 22
+  slash_min: 5
+  slash_max: 19
+  thrust_min: 1
+  thrust_max: 5
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

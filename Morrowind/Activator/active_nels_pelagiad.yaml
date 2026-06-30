@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT | BLOCKED
+id: active_nels_pelagiad
+name: Nels Llendo Scriptholder
+script: nels_llendoScript
+mesh: f\Furn_banner_hlaalu_01.nif

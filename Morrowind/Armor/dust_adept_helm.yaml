@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: dust_adept_helm
+name: Telvanni Dust Adept Helm
+script: ''
+mesh: a\A_DustAdept_Helm.NIF
+icon: a\Tx_dustAdept_helm.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: Head
+  male_bodypart: a_dustadept_helm
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 1.5
+  value: 30
+  health: 50
+  enchantment: 250
+  armor_rating: 5

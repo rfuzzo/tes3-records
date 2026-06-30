@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m7_Ns_SkewerRing
+name: Skewer's Luck
+script: ''
+mesh: pc\c\pc_Col_Ring_Xp_01_r.nif
+icon: pc\c\pc_col_ringxp01r.dds
+enchanting: TR_m7_Ns_SkewerRing_en
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 3000
+  enchantment: 150

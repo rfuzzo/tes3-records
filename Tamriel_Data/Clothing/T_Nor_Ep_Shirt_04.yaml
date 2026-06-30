@@ -1,0 +1,35 @@
+type: Clothing
+flags: ''
+id: T_Nor_Ep_Shirt_04
+name: Expensive Shirt
+script: ''
+mesh: Sky\c\Sky_C_M_SH_08_GND.nif
+icon: Sky\c\Tx_c_sh_08.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_C_NorEpShirt04_C
+  female_bodypart: T_C_NorEpShirt04_CF
+- biped_object_type: RightUpperArm
+  male_bodypart: T_C_NorEpShirt04_UA
+  female_bodypart: T_C_NorEpShirt04_UAF
+- biped_object_type: LeftUpperArm
+  male_bodypart: T_C_NorEpShirt04_UA
+  female_bodypart: T_C_NorEpShirt04_UAF
+- biped_object_type: RightForearm
+  male_bodypart: T_C_NorEpShirt04_Fa
+  female_bodypart: T_C_NorEpShirt04_FaF
+- biped_object_type: LeftForearm
+  male_bodypart: T_C_NorEpShirt04_Fa
+  female_bodypart: T_C_NorEpShirt04_FaF
+- biped_object_type: RightWrist
+  male_bodypart: T_C_NorEpShirt04_W
+  female_bodypart: T_C_NorEpShirt04_WF
+- biped_object_type: LeftWrist
+  male_bodypart: T_C_NorEpShirt04_W
+  female_bodypart: T_C_NorEpShirt04_WF
+data:
+  clothing_type: Shirt
+  weight: 3.0
+  value: 15
+  enchantment: 75

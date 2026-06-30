@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_HH_VerturiusInquestNotes
+name: Verturius Inquest Notes
+script: TR_m4_HH_VerturiusNotes_sc
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This sheet of paper is filled with notes in preparation of the Verturius inquest. The inquest was initiated by Sirius Cinna, who was the commanding officer of Vibius Verturius while stationed at Fort Ancylis. Cinna wants Verturius honorable discharge from the Legion turned into a dishonorable one, because Cinna blames Verturius for the failed attempt to retake the Saros archipelago from undead forces.]<BR>\r\n"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

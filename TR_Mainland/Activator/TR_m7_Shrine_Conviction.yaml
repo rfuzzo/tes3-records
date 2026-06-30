@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_Shrine_Conviction
+name: Shrine of Conviction
+script: TR_m7_Shrine_Conviction_sc
+mesh: f\Furn_shrine_tribunal_01.NIF

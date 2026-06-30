@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: puzzle canal message
+name: Puzzle Canal
+script: shrinePuzzleCanal_m
+mesh: f\Furn_shrine_vivec_01.NIF

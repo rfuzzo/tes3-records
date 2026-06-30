@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: TR_m3_chest_i3-588
+name: Floating Chest
+script: Float
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - Misc_Quill
+- - 1
+  - T_De_IndBonemold_GauntletL_01
+- - 3
+  - ingred_bloat_01
+- - 300
+  - random gold

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Com_Steel_Knife_DrainStrength
+name: Wilting Sting
+script: ''
+mesh: w\w_steel_knife.nif
+icon: w\tx_knife_iron.dds
+enchanting: T_Strike_DrainStrength
+data:
+  weight: 0.3
+  value: 10
+  weapon_type: MarksmanThrown
+  health: 150
+  speed: 1.0
+  reach: 1.0
+  enchantment: 15
+  chop_min: 1
+  chop_max: 3
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: ''

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: Act_banner_Sadrith_Mora
+name: Sadrith Mora
+script: OutsideBanner
+mesh: f\Act_banner_Sadrith_Mora.nif

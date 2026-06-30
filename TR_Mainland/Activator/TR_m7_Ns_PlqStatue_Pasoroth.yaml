@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_Ns_PlqStatue_Pasoroth
+name: High Hlaalu Pasoroth
+script: TR_m7_PlqStatue_Pasoroth_sc
+mesh: pc\f\pc_furn_sign_plaque_02.nif

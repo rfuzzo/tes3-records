@@ -1,0 +1,20 @@
+type: Alchemy
+flags: ''
+id: AB_alc_GemVoidEssence
+name: Void Essence
+script: ''
+mesh: OAAB\m\voidEssence.nif
+icon: OAAB\m\voidEssence.tga
+effects:
+- magic_effect: ResistShock
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 30
+  max_magnitude: 30
+data:
+  weight: 1.0
+  value: 720
+  flags: AUTO_CALCULATE

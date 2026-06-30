@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: AB_ScEn_Vigor_d
+name: Defective Scroll of Vigor
+script: ''
+mesh: OAAB\m\scrollBargain.nif
+icon: OAAB\m\scroll_bargain.tga
+enchanting: AB_sc_Vigor_d_en
+text: <DIV ALIGN="center"><FONT COLOR="000000" SIZE="2" FACE="Daedric">NO STRENGTH OR HONOR</FONT><BR>
+data:
+  weight: 0.2
+  value: 11
+  book_type: Scroll
+  skill: None
+  enchantment: 0

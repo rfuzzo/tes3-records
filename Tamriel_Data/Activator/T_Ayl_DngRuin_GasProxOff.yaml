@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Ayl_DngRuin_GasProxOff
+name: Gas Spigot
+script: T_ScObj_AylGasProxOff
+mesh: pc\i\pc_in_ar_gasspigot_off.nif

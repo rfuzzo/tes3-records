@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: bk_notetovalvius
+name: Note to Valvius
+script: ''
+mesh: m\Text_Note_02.nif
+icon: m\Tx_note_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nDear Sir,<BR>\r\n<BR>\r\nI am sorry to inform you that your order for six more crates of Cyrodilic Brandy has been turned down due to your belated payment on the last shipment I sent you. As soon as I receive the balance owed of 3645 gold pieces, I will reconsider my current position. Please expedite your payment and we can avoid trouble from the local \"authorities\".<BR>\r\n<BR>\r\nSincerely,<BR>\r\nIrgola the Pawnbroker<BR>\r\n"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

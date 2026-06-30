@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: AB_o_DeMidClosetClothM
+name: Closet
+script: ''
+mesh: OAAB\o\de_rm_closet.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - AB_lvl_c_DeComPants
+- - 1
+  - AB_lvl_c_DeExShirt

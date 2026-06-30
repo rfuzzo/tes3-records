@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Hr_Flora_Cornflo01
+name: Cornflower
+script: ''
+mesh: HR\o\T_flora_cornflower_01.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - T_hr_random_Cornflo01

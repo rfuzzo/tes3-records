@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Nor_Ep_Belt_01
+name: Expensive Belt
+script: ''
+mesh: sky\c\Sky_c_belt_exp_01.nif
+icon: sky\c\tx_c_belt_exp_01.dds
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Belt
+  weight: 1.0
+  value: 10
+  enchantment: 50

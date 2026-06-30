@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: Flora_BC_Fern_04_Chuck
+name: Charles the Plant
+script: ''
+mesh: f\Flora_BC_Fern_04.NIF
+encumbrance: 0.0
+container_flags: ORGANIC | IS_BASE
+inventory:
+- - 1
+  - ingred_scrib_jelly_02

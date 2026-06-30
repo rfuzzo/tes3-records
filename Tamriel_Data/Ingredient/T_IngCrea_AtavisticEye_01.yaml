@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_AtavisticEye_01
+name: Atavistic Eye
+script: ''
+mesh: tr\n\tr_ing_blind_eye.nif
+icon: tr\n\tr_ing_blindeye.dds
+data:
+  weight: 0.2
+  value: 10
+  effects:
+  - DetectAnimal
+  - Blind
+  - FortifyAttribute
+  - WeaknessToFire
+  skills:
+  - None
+  - None
+  - Block
+  - None
+  attributes:
+  - None
+  - None
+  - Luck
+  - None

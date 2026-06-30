@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Dae_Sigil_Amulet_Web_Entry
+name: Web Sigil Amulet of Entry
+script: ''
+mesh: tr\c\tr_c_dae_sigil_w.nif
+icon: tr\c\tr_c_dae_sigil_w.dds
+enchanting: T_Use_Dae_Amulet_Entry
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 900
+  enchantment: 2000

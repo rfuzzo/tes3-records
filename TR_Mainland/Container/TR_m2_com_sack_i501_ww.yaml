@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m2_com_sack_i501_ww
+name: Sack
+script: ''
+mesh: o\Contain_Com_Sack_03.NIF
+encumbrance: 50.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - -8
+  - ingred_wickwheat_01

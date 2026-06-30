@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: misc_com_redware_pitcher
+name: Pitcher
+script: ''
+mesh: m\Misc_Redware_Pitcher.NIF
+icon: m\Misc_Redware_Pitcher.tga
+data:
+  weight: 2.5
+  value: 12
+  flags: ''

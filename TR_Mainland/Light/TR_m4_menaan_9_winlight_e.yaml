@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: TR_m4_menaan_9_winlight_e
+name: ''
+script: TR_m4_menaan_9_wlight_e
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 64
+  color:
+  - 120
+  - 180
+  - 200
+  - 0
+  flags: ''

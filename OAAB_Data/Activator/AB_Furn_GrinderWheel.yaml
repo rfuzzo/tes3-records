@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Furn_GrinderWheel
+name: Grinding Wheel
+script: AB_GrinderWheel_s
+mesh: OAAB\u\st_grinder_wheel_ani.nif

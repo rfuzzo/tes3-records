@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Ham_Fauna_TermHill_07
+name: Termite Hill
+script: ''
+mesh: hf\o\hf_Terr_GMTrmHill_07.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - T_IngCrea_Termite_01

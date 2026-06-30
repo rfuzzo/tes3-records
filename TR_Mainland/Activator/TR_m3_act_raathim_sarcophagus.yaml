@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m3_act_raathim_sarcophagus
+name: ''
+script: ''
+mesh: i\in_om_platform_s.nif

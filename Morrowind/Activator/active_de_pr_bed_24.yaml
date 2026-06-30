@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: active_de_pr_bed_24
+name: Bed
+script: Bed_Standard
+mesh: f\Active_De_Bed_24.NIF

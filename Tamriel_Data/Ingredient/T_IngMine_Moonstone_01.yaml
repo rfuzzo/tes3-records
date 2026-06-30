@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngMine_Moonstone_01
+name: Moonstone
+script: ''
+mesh: TR\n\TR_ing_moonstone_mm.nif
+icon: TR\n\TR_Ing_moonstone.dds
+data:
+  weight: 0.2
+  value: 200
+  effects:
+  - DamageHealth
+  - Reflect
+  - Light
+  - DrainAttribute
+  skills:
+  - None
+  - None
+  - None
+  - Block
+  attributes:
+  - None
+  - None
+  - None
+  - Willpower

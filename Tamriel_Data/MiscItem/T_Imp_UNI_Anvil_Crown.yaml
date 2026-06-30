@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_UNI_Anvil_Crown
+name: Trident and Dolphin Crown
+script: ''
+mesh: pc\m\pc_m_uni_anvilcrown.nif
+icon: pc\m\pc_m_anvilcrown_uni.dds
+data:
+  weight: 1.0
+  value: 12000
+  flags: ''

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m7_w_HO_TT_mercy
+name: Wooden Staff of Mercy
+script: ''
+mesh: w\W_wooden_staff.nif
+icon: w\Tx_wooden_staff.tga
+enchanting: TR_m7_w_HO_TT_mercy_ench
+data:
+  weight: 8.0
+  value: 32
+  weapon_type: BluntTwoWide
+  health: 300
+  speed: 1.75
+  reach: 1.8
+  enchantment: 70
+  chop_min: 2
+  chop_max: 6
+  slash_min: 3
+  slash_max: 6
+  thrust_min: 1
+  thrust_max: 5
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

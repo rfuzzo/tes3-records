@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m2_Venymlan_switch
+name: Switch
+script: TR_m2_Venymlan_switch_sc
+mesh: x\ex_gg_gateswitch_01.nif

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_Omaynis5_Note
+name: Transaction History
+script: ''
+mesh: m\text_scroll_01.nif
+icon: m\tx_scroll_open_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n[This scroll contains a descriptive history of transactions and bartering made by this house's owner. It details the trade of unusual goods and services.]\r\n<BR>"
+data:
+  weight: 0.2
+  value: 3
+  book_type: Scroll
+  skill: Mercantile
+  enchantment: 0

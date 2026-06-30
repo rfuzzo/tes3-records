@@ -1,0 +1,31 @@
+type: Armor
+flags: ''
+id: T_Nor_GuardFalkr_Greaves_01
+name: Falkreath Guard Greaves
+script: ''
+mesh: sky\a\sky_a_falkr_greav_gnd.nif
+icon: sky\a\sky_falkr_greaves.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Groin
+  male_bodypart: T_A_NorGuardFalkrGreaves01_G
+  female_bodypart: ''
+- biped_object_type: LeftUpperLeg
+  male_bodypart: T_A_NorGuardFalkrGreaves01_UL
+  female_bodypart: ''
+- biped_object_type: RightUpperLeg
+  male_bodypart: T_A_NorGuardFalkrGreaves01_UL
+  female_bodypart: ''
+- biped_object_type: LeftKnee
+  male_bodypart: T_A_NorGuardFalkrGreaves01_K
+  female_bodypart: ''
+- biped_object_type: RightKnee
+  male_bodypart: T_A_NorGuardFalkrGreaves01_K
+  female_bodypart: ''
+data:
+  armor_type: Greaves
+  weight: 13.5
+  value: 250
+  health: 200
+  enchantment: 20
+  armor_rating: 16

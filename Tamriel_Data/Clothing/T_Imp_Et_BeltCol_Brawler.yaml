@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Imp_Et_BeltCol_Brawler
+name: Brawler Belt
+script: ''
+mesh: pc\c\PC_Col_U_Belt_01.nif
+icon: pc\c\PC_Col_U_Belt_01I.dds
+enchanting: T_Use_FortifyHandToHand20-30
+biped_objects: []
+data:
+  clothing_type: Belt
+  weight: 1.0
+  value: 100
+  enchantment: 200

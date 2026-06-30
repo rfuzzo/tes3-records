@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Nor_Ex_Belt_02
+name: Exquisite Belt
+script: ''
+mesh: sky\c\Sky_c_belt_exqu_02.nif
+icon: sky\c\tx_c_belt_exqu_02.dds
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Belt
+  weight: 1.0
+  value: 80
+  enchantment: 400

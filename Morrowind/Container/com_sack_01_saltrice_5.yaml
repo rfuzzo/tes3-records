@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: com_sack_01_saltrice_5
+name: Sack
+script: ''
+mesh: o\Contain_Com_Sack_01.NIF
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 5
+  - ingred_saltrice_01

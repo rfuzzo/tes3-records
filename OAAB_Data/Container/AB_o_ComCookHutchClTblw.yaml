@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: AB_o_ComCookHutchClTblw
+name: Hutch
+script: ''
+mesh: OAAB\o\ComCookHutch.nif
+encumbrance: 75.0
+container_flags: IS_BASE
+inventory:
+- - 4
+  - AB_lvl_TablewareCheap

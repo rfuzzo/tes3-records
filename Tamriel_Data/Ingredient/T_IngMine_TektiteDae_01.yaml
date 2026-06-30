@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngMine_TektiteDae_01
+name: Tektite
+script: BILL_MarksDaedraSummon
+mesh: TR\n\TR_Ing_tektite_mm.NIF
+icon: TR\n\TR_Ing_tektite_mm.dds
+data:
+  weight: 0.2
+  value: 50
+  effects:
+  - DamageHealth
+  - Paralyze
+  - Reflect
+  - DrainAttribute
+  skills:
+  - None
+  - None
+  - None
+  - Block
+  attributes:
+  - None
+  - None
+  - None
+  - Endurance

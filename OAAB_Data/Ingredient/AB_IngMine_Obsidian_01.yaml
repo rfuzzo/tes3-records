@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: AB_IngMine_Obsidian_01
+name: Obsidian
+script: ''
+mesh: OAAB\n\dk_obsidian.nif
+icon: OAAB\n\obsidian.dds
+data:
+  weight: 3.0
+  value: 40
+  effects:
+  - Burden
+  - Blind
+  - Chameleon
+  - Reflect
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

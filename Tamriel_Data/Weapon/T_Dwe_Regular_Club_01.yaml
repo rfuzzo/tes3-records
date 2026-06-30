@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Dwe_Regular_Club_01
+name: Dwarven Club
+script: ''
+mesh: tr\w\tr_w_dwemer_club.nif
+icon: tr\w\tr_w_dwemer_club.dds
+enchanting: ''
+data:
+  weight: 12.0
+  value: 150
+  weapon_type: BluntOneHand
+  health: 900
+  speed: 1.5
+  reach: 1.0
+  enchantment: 40
+  chop_min: 6
+  chop_max: 7
+  slash_min: 5
+  slash_max: 6
+  thrust_min: 5
+  thrust_max: 6
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

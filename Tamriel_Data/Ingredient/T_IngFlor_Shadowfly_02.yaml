@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_Shadowfly_02
+name: Shadowfly Stalks
+script: ''
+mesh: Sky\n\Sky_Ingred_SHFLY_02.nif
+icon: Sky\n\Tx_Ingred_SHFLY_02.dds
+data:
+  weight: 0.1
+  value: 2
+  effects:
+  - Blind
+  - NightEye
+  - SlowFall
+  - Feather
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

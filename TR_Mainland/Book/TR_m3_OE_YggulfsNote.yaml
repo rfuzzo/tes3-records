@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_OE_YggulfsNote
+name: Note from Y.
+script: TR_m3_OE_TG_YggulfNoteScript
+mesh: m\Text_Note_02.nif
+icon: m\Tx_note_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n%PCName,<BR>\r\n<BR>\r\nGo to the top floor, take the door to your right, cross the skywalk, and then go down the spiral stairs and down the hatch. You'll need the key. Hurry. <br> <br>\r\nDon't go outside! The Guards are on high alert. <br>\r\n<BR>\r\n--Y.<BR>\r\n"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

@@ -1,0 +1,11 @@
+type: Container
+flags: PERSISTENT
+id: TR_m4_TG_ElarFandasBook
+name: Treasures of Tamriel, vol. 1
+script: TR_m4_TG_ElarFandas_scp
+mesh: tr\m\tr_book_tomebk_04.nif
+encumbrance: 0.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - TR_m4_TG_SilverTongueAmulet

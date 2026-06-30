@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: TR_m2_outlander_barrel
+name: Barrel
+script: ''
+mesh: o\contain_barrel10.nif
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 5
+  - random_chokeweed
+- - 15
+  - random_corkbulb_root
+- - 15
+  - random_marshmerrow

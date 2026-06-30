@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: active_dae_boethiah
+name: Statue of Boethiah
+script: DaedraBoethiah2
+mesh: x\Ex_DAE_Azura.NIF

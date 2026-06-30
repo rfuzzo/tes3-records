@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_TalosDragonbumTR
+name: Talos the Dragonbum
+script: ''
+mesh: TR\m\TR_book_closed_i15_AY.nif
+icon: TR\m\TR_book_closed_i15_AY.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR><BR>\r\nTalos the Dragonbum,<BR>\r\nAtmoran Conqu'rer scum,<BR>\r\nWanted to conquer some.<BR>\r\n<BR><BR>\r\nNot for a dest'ny great<BR>,\r\nThere's no design in his head,<BR>\r\nHe lusts for coin instead!<BR>\r\n<BR><BR>\r\nTo the elven realms' regret <BR>\r\nAnd the men's armies' dead, <BR>\r\nTalos did win - too bad! <BR>\r\n<BR><BR>\r\nTamriel danced to his windy drum, <BR>\r\nTo palace from icy chum,<BR>\r\nAll hail Talos the Dragonbum!<BR>\r\n\n"
+data:
+  weight: 1.5
+  value: 30
+  book_type: Book
+  skill: None
+  enchantment: 20

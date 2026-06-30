@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_MothWingSky_04
+name: Clearwing Moth Wing
+script: ''
+mesh: sky\n\sky_ing_mothwing_04.nif
+icon: sky\n\sky_ing_mothwing_04.tga
+data:
+  weight: 0.1
+  value: 5
+  effects:
+  - Feather
+  - DrainMagicka
+  - Chameleon
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

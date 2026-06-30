@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_PunavitJarLid_01
+name: Punavit Ash Jar Lid
+script: ''
+mesh: tr\m\TR_Ind_Velk_AshJar01ld.nif
+icon: tr\m\TR_ind_velk_ashjar01ld.dds
+data:
+  weight: 0.5
+  value: 50
+  flags: ''

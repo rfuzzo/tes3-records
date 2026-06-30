@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_De_Set_BannerSaintSotha_02
+name: Sotha Sil
+script: OutsideBanner
+mesh: TR\f\TR_act_banner_seth02.nif

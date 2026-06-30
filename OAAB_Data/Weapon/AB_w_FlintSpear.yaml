@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_FlintSpear
+name: Flint Spear
+script: ''
+mesh: OAAB\w\flint_spear.nif
+icon: OAAB\w\flint_spear.tga
+enchanting: ''
+data:
+  weight: 7.0
+  value: 10
+  weapon_type: SpearTwoWide
+  health: 300
+  speed: 1.0
+  reach: 1.8
+  enchantment: 15
+  chop_min: 1
+  chop_max: 2
+  slash_min: 1
+  slash_max: 2
+  thrust_min: 5
+  thrust_max: 10
+  flags: ''

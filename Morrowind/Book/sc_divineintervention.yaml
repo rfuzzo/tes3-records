@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: sc_divineintervention
+name: Scroll of Divine Intervention
+script: ''
+mesh: m\Text_Scroll_01.nif
+icon: m\Tx_scroll_open_01.tga
+enchanting: divine intervention enchantmen
+text: <DIV ALIGN="center"><FONT COLOR="000000" SIZE="2" FACE="Daedric">FOR THE GODS!</FONT><BR>
+data:
+  weight: 1.0
+  value: 63
+  book_type: Scroll
+  skill: None
+  enchantment: 100

@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: T_MwDe_FurnR_Ch1Ordinat
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_De_Cm_AmuletInd_01
+- - 2
+  - T_Mw_Random_ArmorsOrdinator
+- - 1
+  - indoril left gauntlet
+- - 1
+  - indoril right gauntlet

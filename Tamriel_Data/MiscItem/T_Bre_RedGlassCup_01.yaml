@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Bre_RedGlassCup_01
+name: Gilded Red Glass Cup
+script: ''
+mesh: hr\m\m_red_glass_cup.nif
+icon: hr\m\hr_misc_red_cup.dds
+data:
+  weight: 1.0
+  value: 75
+  flags: ''

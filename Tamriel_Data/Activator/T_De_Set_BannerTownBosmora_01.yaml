@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_De_Set_BannerTownBosmora_01
+name: Bosmora
+script: ''
+mesh: TR\x\tr_act_Ind_mark_Bos.nif

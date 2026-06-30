@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: crate_Bandit_01
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 10
+  - l_b_Bandit_goods
+- - 1
+  - random_potion_attribute_restore

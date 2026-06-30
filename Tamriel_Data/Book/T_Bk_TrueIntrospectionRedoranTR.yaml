@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_TrueIntrospectionRedoranTR
+name: True Redoran Courage
+script: ''
+mesh: TR\m\TR_book_closed_i14_AY.nif
+icon: TR\m\TR_book_closed_i14_AY.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nTrue Introspection of Redoran Courage <BR>\r\nby Parnespus the Redguard<BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nHouse Redoran has ever pledged itself to the three basic virtues: duty, gravity, and piety. It is called the noble's code. A Redoran never forgets his duty to protect Morrowind. A Redoran never forgets his gravity, but rather shuns frivolity to maintain his honor. A Redoran never forgets his piety, his devotion to ALMSIVI the Tribunal, the gods who walk among us, who gave us life time and time again. This is the core of any Redoran's life. <BR>\r\n<BR>\r\nHouse Redoran is the house of warriors: we keep the Ashland wastes clean of the filth of Dagoth Ur, and we keep the broad coasts clean of the filth of Imperial mariners and merchants. The Ghostfence houses the bones of countless Redoran crusaders who fell in combat with evils of all kinds; Ghostgate is maintained by the blood, steel and gold of hard Redoran men. We held the western borders of Morrowind when all others drew away; when resistance was needed, there we stood, ready to give it. And when Vivec ended the war of the Empire before its time, we rejoiced, for it meant the freedom of our people without the spilling of too much of their precious blood. <BR>\r\n<BR>\r\nThe Empire came, but it could not best us. Their forts sit outside our capitals, but we heed them not; Redoran does not give warrant to these creatures. Redoran warriors have duties; we fulfill them. We have not time to be concerned with this Imperial decree or that Imperial law. Like Indoril we maintain traditions of piety with our beloved gods; like Dres we maintain traditions of honor and justice with our ancestors, elders and kin; like both we will not forget the sword we hold against the Empire and its feeble chain. <BR>\r\n<BR>\r\nYet look on Telvanni, who hide themselves in wizard-towers and forget their duty to the good of the common citizen; these are nobles without the virtues they need, and they are as much an evil as the Empire. Look on Hlaalu, who forsake their blood brothers and do obeisance to the invaders that they might romance the money from their coffers; these are nobles without piety at all, any respect to the Tribunal that grants them safety and blesses their lives with grace. Let both of them fall under the Blight. Let them be gone from Vvardenfell: let them take to Cyrodiil that they may grovel even lower, over the ocean where they can do us even less good. It is of no importance; Redoran will be here so long as innocents must be protected and men must die to do it. We will not falter.<BR>\r\n"
+data:
+  weight: 2.0
+  value: 30
+  book_type: Book
+  skill: None
+  enchantment: 100

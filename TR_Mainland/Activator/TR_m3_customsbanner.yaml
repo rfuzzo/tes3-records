@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_customsbanner
+name: Toll and Customs House
+script: OutsideBanner
+mesh: f\Furn_bannerD_welcome_01.NIF

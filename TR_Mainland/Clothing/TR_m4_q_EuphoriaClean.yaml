@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m4_q_EuphoriaClean
+name: Ring of Euphoria
+script: ''
+mesh: c\C_Ring_exquisite_1.NIF
+icon: c\tx_ring_exquisite01.tga
+enchanting: TR_m4_q_EuphoriaCleanEn
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 500
+  enchantment: 0

@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m7_Narsis_BazaarSk3
+name: Sack
+script: ''
+mesh: o\Contain_Com_Sack_03.NIF
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 5
+  - T_IngMine_Salt_01

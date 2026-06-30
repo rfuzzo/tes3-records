@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: TR_m1_q51_ingred_BOmusk_UNI
+name: Raw Musk
+script: ''
+mesh: TR\n\TR_Ing_Musk_01.nif
+icon: TR\n\TR_Ing_Musk_01.dds
+data:
+  weight: 0.2
+  value: 15
+  effects:
+  - DamageAttribute
+  - FortifyAttribute
+  - DamageHealth
+  - FortifySkill
+  skills:
+  - Block
+  - Block
+  - None
+  - Speechcraft
+  attributes:
+  - Personality
+  - Personality
+  - None
+  - Strength

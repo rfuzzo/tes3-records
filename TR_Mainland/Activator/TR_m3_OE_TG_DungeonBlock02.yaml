@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_OE_TG_DungeonBlock02
+name: ''
+script: TR_m3_OE_TG_DungeonD02SCP
+mesh: pc\x\pc_ex_gc_plank2.nif

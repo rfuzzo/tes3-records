@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_TG_GaldresUrn
+name: Galdres Beran's Urn
+script: TR_m4_TG_GeldrasUrn_scp
+mesh: o\contain_urn_01.nif

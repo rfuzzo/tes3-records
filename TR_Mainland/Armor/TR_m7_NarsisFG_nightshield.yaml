@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: TR_m7_NarsisFG_nightshield
+name: Night Shield
+script: ''
+mesh: a\Shield_iron.NIF
+icon: a\tx_shield_iron.tga
+enchanting: TR_m7_NarsisFG_shield_en
+biped_objects:
+- biped_object_type: Shield
+  male_bodypart: shield_iron
+  female_bodypart: ''
+data:
+  armor_type: Shield
+  weight: 15.0
+  value: 120
+  health: 200
+  enchantment: 500
+  armor_rating: 10

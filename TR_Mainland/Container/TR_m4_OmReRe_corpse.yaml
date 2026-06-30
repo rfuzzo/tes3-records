@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: TR_m4_OmReRe_corpse
+name: Corpse
+script: ''
+mesh: o\contain_corpse10.NIF
+encumbrance: 120.0
+container_flags: IS_BASE
+inventory: []

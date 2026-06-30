@@ -1,0 +1,23 @@
+type: Clothing
+flags: ''
+id: TR_m7_Ns_MG_Waterfall_Robe
+name: Robe of Reaching Through
+script: ''
+mesh: c\C_M_Robe_Extrav_1a_GND.NIF
+icon: c\tx_robe_extrav_1a.tga
+enchanting: TR_m7_Ns_MG_Waterfall_Robe_en
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: c_m_robe_extrav_1a
+  female_bodypart: ''
+- biped_object_type: LeftAnkle
+  male_bodypart: ''
+  female_bodypart: ''
+- biped_object_type: RightAnkle
+  male_bodypart: ''
+  female_bodypart: ''
+data:
+  clothing_type: Robe
+  weight: 3.0
+  value: 300
+  enchantment: 200

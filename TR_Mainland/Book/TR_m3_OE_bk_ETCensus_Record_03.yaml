@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_OE_bk_ETCensus_Record_03
+name: Census Record
+script: ''
+mesh: pc\m\PC_bk_Book_12.nif
+icon: pc\m\pc_bk_book_12.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nRECEPTION<BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n[This ledger contains a long list of dates, hours and names of visitors, with brief description of their inquiries, and to which department they have been addressed : registry office, deposit office, or appointment with the tax inspector.]<BR>"
+data:
+  weight: 4.0
+  value: 4
+  book_type: Book
+  skill: None
+  enchantment: 0

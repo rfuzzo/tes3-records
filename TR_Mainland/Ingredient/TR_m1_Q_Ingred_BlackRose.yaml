@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: TR_m1_Q_Ingred_BlackRose
+name: Black Rose Offering
+script: ''
+mesh: TR\n\TR_Ing_BlackRose01.NIF
+icon: TR\n\TR_Ing_BlackRose01.dds
+data:
+  weight: 1.2
+  value: 3
+  effects:
+  - FortifyAttribute
+  - DrainFatigue
+  - Poison
+  - Invisibility
+  skills:
+  - Block
+  - None
+  - None
+  - None
+  attributes:
+  - Personality
+  - None
+  - None
+  - None

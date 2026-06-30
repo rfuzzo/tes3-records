@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_OrcBlood_01
+name: Orc's Blood
+script: ''
+mesh: hr\n\cr_orcblood.nif
+icon: hr\n\cr_orcblood.dds
+data:
+  weight: 0.1
+  value: 50
+  effects:
+  - DrainAttribute
+  - FortifyAttribute
+  - Shield
+  - DrainMagicka
+  skills:
+  - Block
+  - Block
+  - None
+  - None
+  attributes:
+  - Speed
+  - Strength
+  - None
+  - None

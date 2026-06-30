@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: light_com_sconce_01_200
+name: ''
+script: ''
+mesh: l\LIght_Com_Sconce_01.NIF
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 200
+  color:
+  - 245
+  - 140
+  - 40
+  - 0
+  flags: DYNAMIC | FIRE | FLICKER_SLOW

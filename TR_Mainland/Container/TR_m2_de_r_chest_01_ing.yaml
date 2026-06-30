@@ -1,0 +1,27 @@
+type: Container
+flags: ''
+id: TR_m2_de_r_chest_01_ing
+name: Ancient Wooden Chest
+script: ''
+mesh: o\Contain_De_Chest_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 3
+  - T_IngCrea_Mummyheart_01
+- - 1
+  - T_IngFlor_Nightshade_01
+- - 6
+  - ingred_bloat_01
+- - 10
+  - ingred_bonemeal_01
+- - 2
+  - ingred_corprus_weepings_01
+- - 8
+  - ingred_ectoplasm_01
+- - 8
+  - ingred_gravedust_01
+- - 3
+  - ingred_gravetar_01
+- - 2
+  - ingred_vampire_dust_01

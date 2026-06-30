@@ -1,0 +1,17 @@
+type: Clothing
+flags: ''
+id: T_De_Et_RobeNecromPriest_01
+name: Priest's Robe
+script: ''
+mesh: TR\c\tr_c_nec_robe_01_GND.nif
+icon: TR\c\tr_nec_robe_01.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_C_DeEtRobeNecromPrie01_C
+  female_bodypart: ''
+data:
+  clothing_type: Robe
+  weight: 3.0
+  value: 30
+  enchantment: 50

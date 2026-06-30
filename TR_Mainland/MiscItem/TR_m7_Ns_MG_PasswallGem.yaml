@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m7_Ns_MG_PasswallGem
+name: Enchanted Gem of Passwall
+script: TR_m7_Ns_MG_PassGem_sc
+mesh: tr\n\tr_ing_aquamarine_mm.nif
+icon: tr\n\tr_ing_aquamarine_mm.dds
+data:
+  weight: 0.5
+  value: 4000
+  flags: ''

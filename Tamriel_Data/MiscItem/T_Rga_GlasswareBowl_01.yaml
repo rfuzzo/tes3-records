@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Rga_GlasswareBowl_01
+name: Decorative Bowl
+script: ''
+mesh: pc\m\pc_misc_rga_gbowl01.nif
+icon: pc\m\pc_misc_rga_gbowl01.dds
+data:
+  weight: 4.0
+  value: 10
+  flags: ''

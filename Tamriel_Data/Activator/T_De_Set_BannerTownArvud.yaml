@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_De_Set_BannerTownArvud
+name: Arvud
+script: OutsideBanner
+mesh: tr\f\tr_banner_arvud.nif

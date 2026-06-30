@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: T_MwDe_FurnR_Cl1CltMale
+name: Closet
+script: ''
+mesh: o\Contain_De_Closet_01.NIF
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory:
+- - 4
+  - T_Mw_Random_Clothing
+- - 2
+  - T_Mw_Random_ClothingMaleXpDun
+- - 1
+  - T_Mw_Random_ClothingMaleXqDun
+- - 3
+  - T_Mw_Random_ClothingMaleXvDun
+- - 1
+  - extravagant_belt_01

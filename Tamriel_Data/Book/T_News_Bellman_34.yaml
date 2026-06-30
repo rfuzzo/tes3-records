@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Bellman_34
+name: FROST ATRONACH ATTACKS DOCKS
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_note_oe_news.nif
+icon: tr\m\tr_note_oe_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\TR_bellman_512_256.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nFROST ATRONACH ATTACKS DOCKS<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nOld Ebonheart dockworkers were reportedly attacked by a monstrous, frozen daedroth that appeared without warning within the city bounds. While the demon was swiftly put down by brave Legion and Navy personnel with the help of a member of the local Mages Guild, some in the city are calling for sharper regulations on the practice of magic in public spaces. While no source of the rogue summoning was established, the incident was only the latest in a string of magical disruptions felt throughout the city. Only hours before the dockside disturbance, the Bellman learned that the furniture in one of our city's taverns was sent flying, and earlier a local Guard complained that he had been turned into a guar by a Mages Guild member.<br><br>\r\n\r\nWhile it is unclear whether the latter incident amounted to more than a badly misinterpreted pun, the local guildmaster, Arquebald Vene, saw fit to respond to the Bellman's inquiries: \"A disturbance? What does that have to do with me? One of the apprentices, probably. I can't possibly be expected to keep track of all of them. It's like herding cats, except they've got less magical talent. They don't even know how to make potions right, would you believe it. Now leave me alone, these mushrooms won't grow themselves.\"<br><br>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

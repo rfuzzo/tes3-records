@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_UNI_Large_Mug_01
+name: Large Mug
+script: ''
+mesh: tr\m\tr_misc_large_mug.nif
+icon: tr\m\tr_misc_large_mug.dds
+data:
+  weight: 3.5
+  value: 4
+  flags: ''

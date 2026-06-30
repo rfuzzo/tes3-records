@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Com_UNI_Sunkindler
+name: Sunkindler
+script: ''
+mesh: tr\w\tr_w_Sh_Shin_crossbow.nif
+icon: tr\w\tr_w_Sh-Shin_crossbow.dds
+enchanting: T_Const_Sunkindler
+data:
+  weight: 15.0
+  value: 63000
+  weapon_type: MarksmanCrossbow
+  health: 940
+  speed: 1.0
+  reach: 1.0
+  enchantment: 0
+  chop_min: 50
+  chop_max: 50
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE | SILVER

@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: expensive_ring_01
+name: Expensive Ring
+script: ''
+mesh: c\C_Ring_expensive_1.NIF
+icon: c\tx_ring_expensive01.tga
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 30
+  enchantment: 150

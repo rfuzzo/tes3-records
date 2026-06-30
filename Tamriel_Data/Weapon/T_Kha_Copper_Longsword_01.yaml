@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Kha_Copper_Longsword_01
+name: Copper Longsword
+script: ''
+mesh: els\w\els_w_cpr_longsword.nif
+icon: els\w\els_w_cpr_longsword.tga
+enchanting: ''
+data:
+  weight: 25.0
+  value: 80
+  weapon_type: LongBladeOneHand
+  health: 700
+  speed: 1.35
+  reach: 1.0
+  enchantment: 75
+  chop_min: 3
+  chop_max: 17
+  slash_min: 2
+  slash_max: 23
+  thrust_min: 3
+  thrust_max: 21
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

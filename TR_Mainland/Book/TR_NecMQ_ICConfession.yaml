@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_NecMQ_ICConfession
+name: Ladia Tunifus' Confession
+script: ''
+mesh: m\text_scroll_01.nif
+icon: m\tx_scroll_open_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"center\"><FONT COLOR=\"000000\" SIZE=\"2\" FACE=\"Magic Cards\"> <BR>\r\n<BR>\r\n[This is a 'confession' signed by Ladia Tunifus of the Grand Chapel of Akatosh. In it, she admits to providing cover for Alcedo Nirol as he was embezzling money from the Imperial Cult and funneling it back to a contact in Cyrodiil. She asserts that Alcedo coerced her into helping with threats against herself and her family, and that she only received a fraction of the stolen money.]<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

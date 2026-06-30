@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_FW_College_MusBone
+name: Kamal Bone Fragment
+script: ''
+mesh: m\text_parchment_01.nif
+icon: m\tx_parchment_01.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nKamal Bone Fragment<BR> <BR>\r\n<DIV ALIGN=\"LEFT\">\r\nLong before Morrowind's incorporation into the Empire, Akaviri forces led by the pseudo-mythical general Ada'Soom Dir-Kamal invaded Tamriel from the north and east. After sacking Windhelm and ravaging much of eastern Skyrim, the Kamal army crossed the Velothi Mountains into Morrowind, where it caused a great deal of destruction. In response, the Temple histories claim that the god-king Vivec flooded the entire country. (This wildly implausible feat has not been verified by Imperial archaeologists.) Dark Elven legend further holds that Vivec's counterpart, the goddess-queen Almalexia, finally defeated the Akaviri armies by summoning the spirit of her ancient enemy, the long-defeated legendary Nordic king Wulfharth, to fight alongside her. Piercing a hole through the earth, the Kamal \"demons\" were swept by the receding waters to realms unknown beneath the world. Ada'Soom himself, it is said, was driven back into the Padomaic, where a titanic battle between the warlord and the Tribunal gods resulted in the behemoth's utter destruction.\r\n<BR>\r\nThis bone fragment was recovered by unknown means from the enormous skeleton of the general Ada'Soom Dir-Kamal sometime in the late Second Era, and purchased by the College in 392. The exact location of the Kamal conqueror's corpse is a closely-guarded secret of the Tribunal Temple and unknown to western scholars, but many fragments like the one seen here are known to exist in the hands of mystics, collectors, and devotees of the Cult of Almalexia. While it is difficult to distinguish fact from fiction in the tales of this ancient encounter with Akavir, there is no doubt that the material in this artifact did indeed originate in the colossal body of a living being. Close inspection of other, smaller samples has demonstrated a consistent physical makeup that seems to further confirm this explanation of its origin.\r\n<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

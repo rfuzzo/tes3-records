@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: TR_m7_TV1_Cave_2_brl_ac
+name: Wooden Barrel
+script: ''
+mesh: o\contain_barrel10.nif
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - Potion_Cyro_Whiskey_01
+- - 3
+  - T_Imp_Drink_WineFreeEstat_01
+- - 2
+  - T_Imp_Drink_WinePlalloVin_01
+- - 1
+  - potion_cyro_brandy_01

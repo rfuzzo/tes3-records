@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Glb_Flora_Coconut01
+name: Coconut
+script: ''
+mesh: pi\o\pi_f_coconut.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - T_IngFlor_Coconut_01

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_Ns_IL_7_GuardPlacer
+name: ''
+script: TR_m7_Ns_IL_7_GuardPlaceSc
+mesh: EditorMarker.NIF

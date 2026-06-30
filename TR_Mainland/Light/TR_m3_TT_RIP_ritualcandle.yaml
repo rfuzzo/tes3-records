@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: TR_m3_TT_RIP_ritualcandle
+name: Ritual Candle
+script: TR_m3_TT_RIP_ritualcandle_sc
+mesh: l\Light_De_Candle_11.NIF
+icon: l\Light_De_Candle_11.tga
+sound: ''
+data:
+  weight: 1.0
+  value: 1
+  time: 360
+  radius: 16
+  color:
+  - 245
+  - 140
+  - 40
+  - 0
+  flags: DYNAMIC | CAN_CARRY | FIRE | FLICKER_SLOW

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m2_q_29_AkaGuardAct
+name: ''
+script: TR_m2_q_29_4_GuardScript
+mesh: EditorMarker.NIF

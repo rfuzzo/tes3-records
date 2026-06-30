@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: TR_m3_q_TheRiftCandle
+name: Bamboo Candlestick
+script: TR_m3_q_TheRiftFloodCandleOff
+mesh: l\Light_de_candle_red_02.NIF
+icon: l\Light_de_candle_red_01.tga
+sound: ''
+data:
+  weight: 2.0
+  value: 3
+  time: 120
+  radius: 64
+  color:
+  - 255
+  - 15
+  - 5
+  - 0
+  flags: DYNAMIC | CAN_CARRY | FIRE | FLICKER_SLOW

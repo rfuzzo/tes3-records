@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: Z
+name: ''
+script: ''
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 600
+  color:
+  - 30
+  - 79
+  - 78
+  - 0
+  flags: ''

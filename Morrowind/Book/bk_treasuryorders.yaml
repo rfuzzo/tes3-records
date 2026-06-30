@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: bk_treasuryorders
+name: Treasury Orders
+script: sealedTreasuryOrders
+mesh: m\Text_Scroll_01.NIF
+icon: m\Tx_scroll_open_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nDearest Tenisi,<BR>\r\n<BR>\r\nYour assistance has been profitable to us both, in many ways. I have but one more favor to ask. Find the land deeds for the Ascadian Isles. Replace the documents owned by Rovone Arvel with those of your own clever design.<BR>\r\n<BR>\r\nSoon we will have enough to leave Vvardenfell together. Until then, you know what must me done, know also that you have my love.<BR>\r\n<BR>\r\nOdral Helvi<BR>\r\n<BR>\r\n"
+data:
+  weight: 0.2
+  value: 100
+  book_type: Scroll
+  skill: None
+  enchantment: 0

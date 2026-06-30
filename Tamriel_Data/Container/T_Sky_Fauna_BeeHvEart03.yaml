@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Sky_Fauna_BeeHvEart03
+name: Bee Hole
+script: ''
+mesh: Sky\o\Sky_Cont_Beehive_N_03.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 2
+  - T_Sky_Random_HoneyComb

@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: mole_crab_helm
+name: Telvanni Mole Crab Helm
+script: ''
+mesh: a\A_molecrab_helm.NIF
+icon: a\tx_molecrab_helm.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: Head
+  male_bodypart: a_molecrab_helm
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 2.0
+  value: 19
+  health: 60
+  enchantment: 500
+  armor_rating: 6

@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m2_VP_act_mephala
+name: Altar to Mephala
+script: ''
+mesh: f\Furn_velothi_altar_01.nif

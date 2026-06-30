@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_QyK_grim_viperblade
+name: Grim Viperblade
+script: ''
+mesh: pi\w\pi_w_obsidian_dagger.nif
+icon: pi\w\pi_w_obsidian_dagger.dds
+enchanting: T_Strike_GrimViper
+data:
+  weight: 1.8
+  value: 43
+  weapon_type: ShortBladeOneHand
+  health: 100
+  speed: 2.5
+  reach: 1.0
+  enchantment: 6
+  chop_min: 3
+  chop_max: 7
+  slash_min: 3
+  slash_max: 10
+  thrust_min: 3
+  thrust_max: 13
+  flags: ''

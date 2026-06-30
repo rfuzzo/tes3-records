@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_Painting_Still_03
+name: 'Still Life: Exploration'
+script: ''
+mesh: pc\m\PC_M_Painting_Still_03.nif
+icon: pc\m\PC_M_Painting_Still_03.dds
+data:
+  weight: 6.0
+  value: 200
+  flags: ''

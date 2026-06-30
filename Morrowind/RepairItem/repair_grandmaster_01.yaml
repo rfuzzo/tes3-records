@@ -1,0 +1,12 @@
+type: RepairItem
+flags: ''
+id: repair_grandmaster_01
+name: GrandMaster's Armorer's Hammer
+script: ''
+mesh: m\Repair_GrandMaster_01.nif
+icon: m\Tx_repair_G_01.tga
+data:
+  weight: 1.0
+  value: 100
+  uses: 10
+  quality: 1.7

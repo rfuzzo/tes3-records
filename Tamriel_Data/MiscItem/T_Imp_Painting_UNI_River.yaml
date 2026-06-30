@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_Painting_UNI_River
+name: S'Karra's Joyous River
+script: ''
+mesh: pc\m\PC_M_Painting_River.nif
+icon: pc\m\PC_M_Painting_River.dds
+data:
+  weight: 6.0
+  value: 1100
+  flags: ''

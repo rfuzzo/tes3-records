@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4-519_act_stonedoor2
+name: Stone Block
+script: TR_m4_519_doorscript2
+mesh: f\furn_dae_rubble_01a.nif

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2_445_SealingScroll
+name: Scroll of Sealing
+script: ''
+mesh: m\Text_paper_roll_01.nif
+icon: m\Tx_paper_roll_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"2\" FACE=\"Magic Cards\"><BR><BR>\r\nDolesi Rothalor<BR>\r\nChampion of the Tribunal Faith<BR>\r\n<BR>\r\nRemain ever vigilant<BR>\r\n<DIV ALIGN=\"CENTER\" FACE=\"Daedric\"><BR><BR>\r\nASV<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

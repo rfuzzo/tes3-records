@@ -1,0 +1,17 @@
+type: Clothing
+flags: ''
+id: T_De_Ex_SkirtNecrom_01
+name: Necrom Indoril Skirt
+script: ''
+mesh: TR\c\TR_C_Necrom_Skirt.nif
+icon: TR\c\TR_C_Necrom_Skirt.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Skirt
+  male_bodypart: T_C_DeExSkirtNecrom01_G
+  female_bodypart: ''
+data:
+  clothing_type: Skirt
+  weight: 4.0
+  value: 100
+  enchantment: 50

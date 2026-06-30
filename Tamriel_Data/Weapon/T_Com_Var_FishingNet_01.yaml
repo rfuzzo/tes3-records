@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Com_Var_FishingNet_01
+name: Fishing Net
+script: ''
+mesh: tr\w\tr_w_fishing_net.nif
+icon: tr\w\tr_w_fishing_net.dds
+enchanting: ''
+data:
+  weight: 4.0
+  value: 12
+  weapon_type: BluntTwoWide
+  health: 150
+  speed: 1.75
+  reach: 1.8
+  enchantment: 20
+  chop_min: 2
+  chop_max: 3
+  slash_min: 2
+  slash_max: 3
+  thrust_min: 2
+  thrust_max: 5
+  flags: ''

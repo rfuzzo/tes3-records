@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_TalhjoldeSHOTN_V5
+name: Talhjolde, Allfathirs Beit
+script: ''
+mesh: sky\m\Sky_Book_Basic_13.nif
+icon: sky\m\Tx_Book_Basic_13.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"500F0F\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nTalhjolde, Allfathirs Beit<BR><FONT COLOR=\"000000\">\r\npublished by the<BR>\r\nImperial University Press, 3E 421<BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\nThe Maker of the world did ask [1]<BR>\r\nHis congregated flocks<BR>\r\n\"Which of you is cleverest:<BR>\r\nMan or snake or fox?\"<BR>\r\n<BR>\r\nStepp'd forward spoke the Woodland Man<BR>\r\nWho'd walked the darkest trails<BR>\r\n\"I know the way through all the hells<BR>\r\nWhere Nordic courage fails.\"<BR>\r\n<BR>\r\nThen slithered forth the sloughing Snake<BR>\r\nWho shed dark truths like skin<BR>\r\n\"I can tell you where to find<BR>\r\nSix-angl'd runes within.\"<BR>\r\n<BR>\r\nLast trotted out the wily Fox<BR>\r\nA toothy grin he flashed<BR>\r\n\"I have the clev'rest skill of all<BR>\r\nI'll leave those two abashed.\"<BR>\r\n<BR>\r\n\"For you see, our All-Maker<BR>\r\nI think that you will find<BR>\r\nThe wise words that each other spoke<BR>\r\nWere really words of mine.\"<BR>\r\n<BR>\r\n\"I learned to throw my cunning voice<BR>\r\nInto another's mouth<BR>\r\nAnd in there took their words for mine<BR>\r\nMy vict'ry's beyond doubt.\"<BR>\r\n<BR>\r\n\"You are a wordy little Fox.\"<BR>\r\nThe mighty father mused<BR>\r\n\"But laying claims to all these words?<BR>\r\nMy patience you've abused.\"<BR>\r\n<BR>\r\nHe'd thought himself the cleverest<BR>\r\nHis tail with pride unfurled<BR>\r\nBut then the Fox was banished forth<BR>\r\nAnd set to roam the world<BR>\r\n<BR>\r\nFootnotes:<BR>\r\n[1] Although there is reason to believe that the proto-Nords of Atmora may have believed in a single \"All-Maker\" of the world, and even brought this belief in some form with them to Tamriel, this theology has not survived until the present day.<BR>"
+data:
+  weight: 3.0
+  value: 40
+  book_type: Book
+  skill: None
+  enchantment: 0

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m3-725_misc_rot_khj_02
+name: Possessed Khajiit Skull
+script: TR_m3-725_RotZ_Object_60
+mesh: tr\m\tr_misc_skull_khj_02.nif
+icon: tr\m\tr_misc_skull_khj.dds
+data:
+  weight: 0.5
+  value: 0
+  flags: ''

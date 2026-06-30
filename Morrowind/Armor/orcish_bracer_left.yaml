@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: orcish_bracer_left
+name: Orcish Left Bracer
+script: ''
+mesh: a\A_Orcish_Bracer_GND.nif
+icon: a\TX_Orcish_bracer.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: LeftWrist
+  male_bodypart: a_orcish_bracer_w
+  female_bodypart: ''
+data:
+  armor_type: LeftBracer
+  weight: 4.4
+  value: 400
+  health: 150
+  enchantment: 240
+  armor_rating: 30

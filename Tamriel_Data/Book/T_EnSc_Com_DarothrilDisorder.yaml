@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_EnSc_Com_DarothrilDisorder
+name: Scroll of Darothril's Disorder
+script: ''
+mesh: m\text_scroll_01.nif
+icon: m\tx_scroll_open_01.tga
+enchanting: T_Once_DarothrilDisorder
+text: <DIV ALIGN="center"><FONT COLOR="000000" SIZE="2" FACE="Daedric">YOUR LIFE OR YOUR HONOR</FONT><BR>
+data:
+  weight: 0.2
+  value: 423
+  book_type: Scroll
+  skill: None
+  enchantment: 0

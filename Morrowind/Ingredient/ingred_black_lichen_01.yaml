@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_black_lichen_01
+name: Black Lichen
+script: ''
+mesh: n\Ingred_Black_Lichen_01.nif
+icon: n\Tx_black_lichen_01.tga
+data:
+  weight: 0.1
+  value: 2
+  effects:
+  - DrainAttribute
+  - ResistFrost
+  - DrainAttribute
+  - CurePoison
+  skills:
+  - Block
+  - Block
+  - Block
+  - Block
+  attributes:
+  - Strength
+  - Strength
+  - Speed
+  - Strength

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_act_banner_rilms01_shrine
+name: Shrine of Saint Rilms
+script: OutsideBanner
+mesh: TR\f\TR_act_banner_rilms01.nif

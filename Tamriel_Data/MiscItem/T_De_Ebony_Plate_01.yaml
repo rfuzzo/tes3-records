@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_Ebony_Plate_01
+name: Ebony Plate
+script: ''
+mesh: tr\m\tr_misc_ebony_plate.nif
+icon: tr\m\tr_misc_ebony_plate.dds
+data:
+  weight: 7.0
+  value: 500
+  flags: ''

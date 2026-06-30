@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_SmallKindnessTR
+name: A Small Kindness
+script: T_ScBook_SpSanctuary
+mesh: m\Text_Quarto_open_02.nif
+icon: m\Tx_quarto_open_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>\r\nA Small Kindness<BR>\r\nBy Ralas Sovilia<BR>\r\n<BR>\r\nFalen was a young Dunmer urchin, picking his life's blood from the pockets of those more fortunate than he. Were it not for their unintentional charity, he surely would have starved, or succumbed to disease, or fallen to some other fate years ago. The boy lived by his wits, but the guards never seemed to appreciate his cleverness.<BR>\r\n<BR>\r\nHis life was a hard one, for no mer cared for the plight of the orphaned boy. Once upon a time, Falen had tried his hand at the more honest trade of beggar, but found the hand more likely to fill his belly if it found its way into a merchant's purse. Perhaps if someone had bothered to show Falen even a small kindness, he would not have become such a troublesome child.<BR>\r\n<BR>\r\nAs it happened, one typical morning the guards were typically harassing Falen, typically suspecting the boy of helping himself to another merchant's inventory. As was typical, the boy was guilty through and through, and everyone knew. But through having had such regular dealings with the guards, the young thief had grown accustomed to some degree of familiarity, some sense of bizarre friendship.<BR>\r\n<BR>\r\nBut on this particular morning, for whatever reason, he was treated with unusual harshness. One guard grabbed him by an ankle, roughly lifted him off the ground, and shook him until his ill gotten gains spilled onto the ground, after which the child was unceremoniously dropped on his head. Not considering the boy worth any more effort, the guards contented themselves to collect his meager possessions and be on their way.<BR>\r\n<BR>\r\nAs evening approached, some townsfolk thought it odd that the boy hadn't been seen since the morning's antics. Then, when he finally did return to town, he brought company. He sprinted faster than he'd ever fled the guards, a huge grin on his face hiding just below his terror.<BR>\r\n<BR>\r\nFalen did not ease his murderous pace until he was well within the city limits, and then he simply waited, staring back from where he'd come. The wait was not a long one. Three Cliff Racers madly screeched as they flew about looking for mer to tear at. Of course, the guards rushed to meet the terrible beasts, but it was not long before they realized something was not right. None of them were able to land a blow.<BR>\r\n<BR>\r\nStill smiling, Falen ducked into a tavern, and waited again.<BR>\r\n<BR>\r\nEveryone knew what had happened, but none could ever prove it. Falen found more understanding from his fellow mer afterwards. Perhaps if they'd been kinder earlier, his lesson wouldn't have been one they had to learn. <BR>\r\n"
+data:
+  weight: 3.0
+  value: 200
+  book_type: Book
+  skill: None
+  enchantment: 100

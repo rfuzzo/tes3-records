@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_sc_GreenEyesContract
+name: Suspicious Contract
+script: ''
+mesh: m\Text_Parchment_01.NIF
+icon: m\Tx_parchment_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>\r\nUpon receipt of the payment, Green-Eyes (hereafter referred to as the Assassin) will eliminate:<BR>\r\n<BR>\r\n<DIV ALIGN=\"CENTER\">Sethyn Sathandus<BR>\r\n<BR>\r\n<DIV ALIGN=\"LEFT\">...(hereafter referred to as the Target) in a manner most convenient and befitting.  The Target will be eliminated within two weeks of this contract, dated:<BR>\r\n<BR>\r\n<DIV ALIGN=\"CENTER\">3E 427, 9th Last Seed<BR>\r\n<BR>\r\n<DIV ALIGN=\"LEFT\">Expenses required in the elimination of the Target will come out of the payment owed to the Assassin.<BR>\r\n<BR>\r\nShould the contract purchaser so desire, his or her identity will remain entirely anonymous through the entire operation.  A copy of this document will be made for his or her records.<BR>\r\n<BR>\r\nUpon completion of the elimination of the Target, the contract purchaser shall be given a segment of the Target's flesh and a vial of the Target's blood for confirmation.<BR>\r\n<BR>\r\nSignature of Assassin,<BR>\r\n<DIV ALIGN=\"CENTER\">Green-Eyes<BR>\r\n<BR>\r\n<DIV ALIGN=\"LEFT\">Signature of Purchaser,<BR>\r\n<DIV ALIGN=\"CENTER\">[withheld]<BR>\r\n<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

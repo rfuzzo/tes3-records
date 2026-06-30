@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_HorkerPupPelt_01
+name: Horker Pup Pelt
+script: ''
+mesh: tr\n\tr_ing_horkpup_01.nif
+icon: tr\n\tr_ing_horkerpup_01.dds
+data:
+  weight: 1.0
+  value: 30
+  effects:
+  - ResistFrost
+  - SwiftSwim
+  - DrainHealth
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

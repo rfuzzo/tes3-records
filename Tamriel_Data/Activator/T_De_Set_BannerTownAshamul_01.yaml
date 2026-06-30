@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_De_Set_BannerTownAshamul_01
+name: Ashamul
+script: OutsideBanner
+mesh: TR\f\TR_banner_Ashamul.nif

@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: Mountain Spirit
+name: Mountain Spirit
+script: ''
+mesh: a\A_Bonemold_Gah_Julan_CGND.NIF
+icon: a\TX_Bonemold_Gah_Julan_c.tga
+enchanting: protector_en
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: a_bonemold_gah_julan_c
+  female_bodypart: ''
+data:
+  armor_type: Cuirass
+  weight: 24.0
+  value: 3600
+  health: 510
+  enchantment: 160
+  armor_rating: 17

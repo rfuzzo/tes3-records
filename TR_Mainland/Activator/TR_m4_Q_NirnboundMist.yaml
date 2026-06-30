@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_Q_NirnboundMist
+name: ''
+script: TR_m4_NirnboundMist_Scp
+mesh: x\Ex_waterfall_mist_01.NIF

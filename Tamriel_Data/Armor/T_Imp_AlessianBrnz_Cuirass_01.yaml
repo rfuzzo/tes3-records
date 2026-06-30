@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Imp_AlessianBrnz_Cuirass_01
+name: Alessian Bronze Cuirass
+script: ''
+mesh: PC\a\pc_a_alesb_cuir_gnd.nif
+icon: pc\a\pc_a_alesb_cuirass.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_A_ImpAlessianBronzeCuir_C
+  female_bodypart: ''
+data:
+  armor_type: Cuirass
+  weight: 28.0
+  value: 1000
+  health: 380
+  enchantment: 165
+  armor_rating: 18

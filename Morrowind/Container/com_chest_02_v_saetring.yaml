@@ -1,0 +1,27 @@
+type: Container
+flags: ''
+id: com_chest_02_v_saetring
+name: Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - l_n_armor_boots
+- - 2
+  - l_n_armor_bracers
+- - 1
+  - l_n_armor_cuirass
+- - 2
+  - l_n_armor_gauntlet
+- - 1
+  - l_n_armor_greaves
+- - 1
+  - l_n_armor_helmet
+- - 2
+  - l_n_armor_pauldron
+- - 1
+  - l_n_armor_shields
+- - 5
+  - l_n_wpn_melee

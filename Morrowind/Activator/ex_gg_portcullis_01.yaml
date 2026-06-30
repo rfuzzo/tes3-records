@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: ex_gg_portcullis_01
+name: ''
+script: LocalState
+mesh: x\Ex_GG_portcullis_01.NIF

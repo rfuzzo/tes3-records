@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_Index_Volenfaryon
+name: Volenfaryon Propylon Index
+script: ''
+mesh: m\misc_portal_shard.NIF
+icon: m\misc_portal_shard.tga
+data:
+  weight: 2.0
+  value: 500
+  flags: ''

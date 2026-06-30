@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: bk_V_hlaaluprison
+name: Prisoner Checklist
+script: ''
+mesh: m\Text_Parchment_02.nif
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nPrisoners currently being held in the Hlaalu Prisons:<BR>\r\n<BR>\r\nFrelene Acques held for questioning.<BR>\r\n<BR>\r\nRalyn Farothran held for attempting to bribe an noble of House Hlaalu.<BR>\r\n<BR>\r\n"
+data:
+  weight: 0.05
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

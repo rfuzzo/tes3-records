@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_MARK_Ns_Rothis
+name: Rothis Uvalas returned
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: pi\m\pi_m_cnq_ngopta.dds
+enchanting: ''
+text: "If you give Rothis Uvalas in Zernital an AI scroll (during the quest Traipsing with Danger or just because you find him there), he returns to his apartment.\r\nNPC ID: TR_m7_Rothis Uvalas\r\nPositionCell in script TR_m7_Rothis_Uvalas_scr"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

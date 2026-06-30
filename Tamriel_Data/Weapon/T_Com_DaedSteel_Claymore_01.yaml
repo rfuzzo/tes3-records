@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Com_DaedSteel_Claymore_01
+name: Witch Steel Claymore
+script: ''
+mesh: TR\w\TR_w_steel_dae_cmore.nif
+icon: TR\w\TR_w_steel_dae_cmore.dds
+enchanting: ''
+data:
+  weight: 35.0
+  value: 1100
+  weapon_type: LongBladeTwoClose
+  health: 2900
+  speed: 1.25
+  reach: 1.0
+  enchantment: 145
+  chop_min: 5
+  chop_max: 35
+  slash_min: 5
+  slash_max: 35
+  thrust_min: 1
+  thrust_max: 25
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

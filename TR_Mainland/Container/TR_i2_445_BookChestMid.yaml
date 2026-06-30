@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: TR_i2_445_BookChestMid
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Bk_FormalitiesOfMirthTR
+- - 1
+  - T_Bk_GospelOfSaintAralorTR
+- - 1
+  - T_Bk_GospelOfSaintFelmsTR
+- - 1
+  - T_Bk_GospelOfSaintSerynTR
+- - 1
+  - T_Bk_HerHandsTR

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Rga_PorcelainVase_03
+name: Porcelain Vase
+script: ''
+mesh: hf\m\hf_misc_rga_PcVase_03.nif
+icon: hf\m\hf_misc_rga_PCVase_03.dds
+data:
+  weight: 7.0
+  value: 60
+  flags: ''

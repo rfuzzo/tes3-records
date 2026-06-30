@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_bk_IkinammassuF2
+name: Fragment AA-IK-1-6
+script: ''
+mesh: pc\m\pc_bk_letter_05.nif
+icon: pc\m\pc_m_letter_05.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nFragment AA-IK-1-6<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nOriginal Location: Section 1, near Structure AA-IK-1-2\r\n<BR>\r\n<BR>\r\nDescription : Shaped like a claw of a nix-hound. Other \"claws\" are still attached to the ruined Structure AA-IK-1-2. Any carvings on the piece have been eroded by time.<BR>\r\n<BR>\r\nAnalysis: This piece emanates with a strong power, which has been observed to make other fragments of the ruin resonate.<BR>\r\n<BR>\r\n<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

@@ -1,0 +1,12 @@
+type: Alchemy
+flags: ''
+id: TR_m1_FW_TelynReagent
+name: Telyn's Reagent
+script: ''
+mesh: m\Misc_Potion_Fresh_01.nif
+icon: m\Tx_potion_fresh_01.tga
+effects: []
+data:
+  weight: 1.0
+  value: 35
+  flags: ''

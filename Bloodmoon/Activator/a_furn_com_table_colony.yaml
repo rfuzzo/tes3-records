@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: a_furn_com_table_colony
+name: ''
+script: Colony_E_1_F
+mesh: f\Furn_Com_Table_02.nif

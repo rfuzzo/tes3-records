@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m4_TJ_HungerFork
+name: Gorgrenat's Fork
+script: ''
+mesh: w\W_De_Fork.NIF
+icon: w\W_De_Fork.tga
+enchanting: ''
+data:
+  weight: 1.0
+  value: 1
+  weapon_type: ShortBladeOneHand
+  health: 400
+  speed: 2.5
+  reach: 1.0
+  enchantment: 300
+  chop_min: 2
+  chop_max: 5
+  slash_min: 2
+  slash_max: 5
+  thrust_min: 3
+  thrust_max: 5
+  flags: ''

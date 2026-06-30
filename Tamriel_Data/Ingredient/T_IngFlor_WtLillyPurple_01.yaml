@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_WtLillyPurple_01
+name: Water Lilly
+script: ''
+mesh: tr\n\tr_ing_lily_purple.nif
+icon: tr\n\tr_ing_lily_purple.dds
+data:
+  weight: 0.2
+  value: 5
+  effects:
+  - WaterWalking
+  - DrainAttribute
+  - Reflect
+  - WaterBreathing
+  skills:
+  - None
+  - Block
+  - None
+  - None
+  attributes:
+  - None
+  - Intelligence
+  - None
+  - None

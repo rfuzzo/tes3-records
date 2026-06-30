@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m4_UshuKur_OreCo_02a
+name: Raw Iron
+script: TR_m4_UshuKurOre_scp
+mesh: TR\o\tr_cont_rock_iron_03.nif
+encumbrance: 1.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 4
+  - T_Mw_Random_OreIron

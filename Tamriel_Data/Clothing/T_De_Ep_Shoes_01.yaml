@@ -1,0 +1,20 @@
+type: Clothing
+flags: ''
+id: T_De_Ep_Shoes_01
+name: Expensive Shoes
+script: ''
+mesh: TR\c\tr_c_shoes_expind_01_G.nif
+icon: tr\c\tr_c_shoes_expind_01.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: LeftFoot
+  male_bodypart: T_C_DeEpShoeInd01_F
+  female_bodypart: ''
+- biped_object_type: RightFoot
+  male_bodypart: T_C_DeEpShoeInd01_F
+  female_bodypart: ''
+data:
+  clothing_type: Shoes
+  weight: 3.0
+  value: 10
+  enchantment: 50

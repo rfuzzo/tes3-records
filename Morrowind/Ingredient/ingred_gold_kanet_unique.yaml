@@ -1,0 +1,25 @@
+type: Ingredient
+flags: PERSISTENT
+id: ingred_gold_kanet_unique
+name: Roland's Tear
+script: ''
+mesh: n\Ingred_Gold_Kanet_01.nif
+icon: n\Tx_goldkanet_01.tga
+data:
+  weight: 0.1
+  value: 5
+  effects:
+  - DrainHealth
+  - Burden
+  - DrainAttribute
+  - RestoreAttribute
+  skills:
+  - None
+  - None
+  - Block
+  - Block
+  attributes:
+  - None
+  - None
+  - Luck
+  - Strength

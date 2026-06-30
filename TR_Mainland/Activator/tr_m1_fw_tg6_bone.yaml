@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: tr_m1_fw_tg6_bone
+name: Kamal Bone Fragment
+script: TR_m1_FW_TG6_BoneFragScr
+mesh: i\in_boneboulder05.nif

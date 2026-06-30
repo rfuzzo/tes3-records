@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_OE_q_merchantboat
+name: Rowboat
+script: TR_m3_oe_eecq1_scr
+mesh: x\Ex_De_Rowboat.NIF

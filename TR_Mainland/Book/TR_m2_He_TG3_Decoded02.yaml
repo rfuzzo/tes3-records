@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2_He_TG3_Decoded02
+name: Decoded Document
+script: ''
+mesh: m\Text_Parchment_02.nif
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n[This decoded document is a letter regarding attempts to bribe or coerce various important people in the Imperial City's legal and political sphere, in the hopes that they would support an injunction against the Zafirbel Bay Company's operations in Morrowind.]<BR>"
+data:
+  weight: 0.1
+  value: 3
+  book_type: Scroll
+  skill: None
+  enchantment: 0

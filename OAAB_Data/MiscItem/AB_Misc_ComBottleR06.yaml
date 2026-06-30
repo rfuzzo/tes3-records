@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_ComBottleR06
+name: Bottle
+script: ''
+mesh: OAAB\m\misc_bottle_r06.nif
+icon: OAAB\m\misc_com_bottle_04.dds
+data:
+  weight: 2.0
+  value: 2
+  flags: ''

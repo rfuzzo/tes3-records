@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m2_q_9_Barrel_uni
+name: Barrel
+script: TR_m2_q_9_BarrelScript
+mesh: o\contain_barrel10.nif
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 6
+  - Potion_Cyro_Whiskey_01

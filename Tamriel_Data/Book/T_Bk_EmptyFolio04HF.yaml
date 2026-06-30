@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_EmptyFolio04HF
+name: <Placeholder>
+script: ''
+mesh: hf\m\hf_text_folio_04.nif
+icon: hf\m\hf_text_folio_04.dds
+enchanting: ''
+text: ''
+data:
+  weight: 4.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 0

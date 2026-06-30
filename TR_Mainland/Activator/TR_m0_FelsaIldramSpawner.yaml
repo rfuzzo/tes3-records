@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m0_FelsaIldramSpawner
+name: Felsa Ildram Spawner
+script: TR_m0_FelsaIldramSpawnerSc
+mesh: EditorMarker.NIF

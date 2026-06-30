@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: Misc_Com_Bucket_Metal
+name: Metal Bucket
+script: ''
+mesh: m\Misc_Com_Bucket_Metal.NIF
+icon: m\Misc_Com_Bucket_Metal.tga
+data:
+  weight: 7.0
+  value: 3
+  flags: ''

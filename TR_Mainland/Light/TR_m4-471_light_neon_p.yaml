@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: TR_m4-471_light_neon_p
+name: ''
+script: ''
+mesh: l\light_dwe_bulb00.nif
+icon: ''
+sound: Power light 50
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 512
+  color:
+  - 193
+  - 136
+  - 2
+  - 0
+  flags: PULSE

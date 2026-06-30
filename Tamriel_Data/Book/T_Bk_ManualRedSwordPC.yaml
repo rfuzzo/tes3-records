@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_ManualRedSwordPC
+name: Manual of the Red Sword
+script: ''
+mesh: pc\m\pc_bk_book_27.nif
+icon: pc\m\pc_bk_book_27.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>CILICUS' MANUAL OF THE RED SWORD<BR>\r\n\r\n<BR>\r\n\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n\r\n[...]<BR>\r\n\r\n<BR>\r\n\r\nLet us now turn to the nature of the sword and the tongue. The sword is a sharp tool, whose edge wears out when it is used correctly, eventually requiring the attention of oils and whetstones. The tongue has no edge, but it is honed in proper usage, that being according to the precepts of the Imperial art of Speech, and even the most rigorous student will never find it in need of sharpening. The sword is a tool of last resort, whose proper application will bring about an end to further implementation of requisite skill. The tongue lies at the root of beginnings, and, whenever used correctly, it will open up ever widening avenues of application.<BR>\r\n\r\n<BR>\r\n\r\nA man who wields a iron sword can be a protector or an oppressor. When he is a protector, his back is to the world, as he dwells on walls and in the jungle, and his work is arduous - in his art he loses that which he shields. If he is an oppressor, he may pick the fruits of his work, but must ever hew deeper to slake his thirst, and live with one eye open, for he has made an enemy of that which he desires. A man who wields the red sword that is the tongue can both covet and protect the bounty of the world, and be sure that his every action will benefit both himself and his charge, never fear that which he holds dear, and never go without it. That is the path of the Speaker, and that is the path of the Councilman.<BR>\r\n\r\n<BR>\r\n\r\n[...]<BR>\r\n\r\n"
+data:
+  weight: 2.0
+  value: 250
+  book_type: Book
+  skill: Speechcraft
+  enchantment: 0

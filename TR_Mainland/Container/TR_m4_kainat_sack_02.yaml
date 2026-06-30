@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m4_kainat_sack_02
+name: Sack
+script: ''
+mesh: o\Contain_Com_Sack_02.NIF
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 5
+  - T_IngFood_FishSlaughterDried_01

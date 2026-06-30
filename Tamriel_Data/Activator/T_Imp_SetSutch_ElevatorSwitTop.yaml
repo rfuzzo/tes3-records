@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_SetSutch_ElevatorSwitTop
+name: Switch
+script: T_ScObj_SutchElevatorSwitchTop
+mesh: pc\f\pc_furn_switch_01.nif

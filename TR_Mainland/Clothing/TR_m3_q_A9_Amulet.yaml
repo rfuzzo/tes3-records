@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m3_q_A9_Amulet
+name: Amulet of Rectitude
+script: ''
+mesh: TR\c\TR_ind amulet.NIF
+icon: TR\c\TR_c_ind_amulet.dds
+enchanting: TR_m3_q_A9_Amulet_ench
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 0.5
+  value: 450
+  enchantment: 200

@@ -1,0 +1,14 @@
+type: Clothing
+flags: PERSISTENT
+id: TR_m4_q_TTSAncestral_ScrptAmule
+name: Ancestral Amulet
+script: TR_m4_q_TTSAnAmuletScrpt
+mesh: c\amulet_common_3.nif
+icon: c\tx_amulet_com3.dds
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 500
+  enchantment: 600

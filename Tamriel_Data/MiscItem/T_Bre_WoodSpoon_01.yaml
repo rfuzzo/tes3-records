@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Bre_WoodSpoon_01
+name: Spoon
+script: ''
+mesh: hr\m\hr_misc_wood_spoon_01.nif
+icon: hr\m\hr_misc_wood_spoon_01.dds
+data:
+  weight: 0.5
+  value: 2
+  flags: ''

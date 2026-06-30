@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_EbonCandlestick_01
+name: Ebonware Candlestick
+script: ''
+mesh: pc\m\pc_m_ebon_cndl01.nif
+icon: pc\m\pc_m_ebon_cndl01.dds
+data:
+  weight: 5.0
+  value: 500
+  flags: ''

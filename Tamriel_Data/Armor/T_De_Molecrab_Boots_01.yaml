@@ -1,0 +1,28 @@
+type: Armor
+flags: ''
+id: T_De_Molecrab_Boots_01
+name: Telvanni Mole Crab Boots
+script: ''
+mesh: TR\a\TR_a_mlcrb_boot_gnd.NIF
+icon: TR\a\TR_a_molec_boots.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: LeftAnkle
+  male_bodypart: T_A_DeMolecrabBoots01_A
+  female_bodypart: ''
+- biped_object_type: RightAnkle
+  male_bodypart: T_A_DeMolecrabBoots01_A
+  female_bodypart: ''
+- biped_object_type: LeftFoot
+  male_bodypart: T_A_DeMolecrabBoots01_F
+  female_bodypart: ''
+- biped_object_type: RightFoot
+  male_bodypart: T_A_DeMolecrabBoots01_F
+  female_bodypart: ''
+data:
+  armor_type: Boots
+  weight: 8.0
+  value: 13
+  health: 60
+  enchantment: 200
+  armor_rating: 6

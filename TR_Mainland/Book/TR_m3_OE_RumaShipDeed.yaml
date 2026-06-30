@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_OE_RumaShipDeed
+name: Deed to a Sailboat
+script: ''
+mesh: pc\m\pc_bk_letter_02.nif
+icon: pc\m\pc_m_letter_02.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This is the deed to a sailboat called \"The Adamant\" currently being finished in the Leyawiin Shipyards.]\r\n<BR>\r\n"
+data:
+  weight: 0.2
+  value: 1000
+  book_type: Scroll
+  skill: None
+  enchantment: 0

@@ -1,0 +1,52 @@
+type: Alchemy
+flags: ''
+id: TR_m1_Faruna_SpecialMix
+name: Faruna's Special Mix
+script: ''
+mesh: m\Misc_Potion_Exclusive_01.nif
+icon: m\Tx_potion_exclusive_01.tga
+effects:
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Strength
+  range: OnSelf
+  area: 0
+  duration: 30
+  min_magnitude: 30
+  max_magnitude: 30
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Endurance
+  range: OnSelf
+  area: 0
+  duration: 30
+  min_magnitude: 30
+  max_magnitude: 30
+- magic_effect: FortifySkill
+  skill: BluntWeapon
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 30
+  min_magnitude: 30
+  max_magnitude: 30
+- magic_effect: FortifySkill
+  skill: Unarmored
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 30
+  min_magnitude: 30
+  max_magnitude: 30
+- magic_effect: FortifyAttackBonus
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 30
+  min_magnitude: 30
+  max_magnitude: 30
+data:
+  weight: 0.25
+  value: 500
+  flags: ''

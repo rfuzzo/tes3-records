@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Mw_FloraOW_Cupling05
+name: Widow's Mortar
+script: ''
+mesh: tr\f\tr_flora_cupling_05.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 4
+  - T_Mw_Random_FlorCupling

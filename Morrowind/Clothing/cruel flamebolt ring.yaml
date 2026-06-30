@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: cruel flamebolt ring
+name: Cruel Flamebolt Ring
+script: ''
+mesh: c\C_Ring_common05.NIF
+icon: c\tx_ring_common05.tga
+enchanting: cruel flamebolt_enu
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 8
+  enchantment: 10

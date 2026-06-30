@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m2_q_22_lw_platter
+name: Chapel Limeware Platter
+script: TR_m2_q_22_lw_platter_Script
+mesh: m\Misc_LW_Platter.NIF
+icon: m\Misc_LW_Platter.tga
+data:
+  weight: 5.0
+  value: 650
+  flags: ''

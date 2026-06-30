@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Rea_Cm_Necklace_Motherbones
+name: Necklace of Motherbones
+script: ''
+mesh: Sky\c\Sky_Necklace_RM_01.nif
+icon: Sky\c\Tx_Necklace_RM_01.dds
+enchanting: T_Use_Motherbones
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 102
+  enchantment: 25

@@ -1,0 +1,19 @@
+type: Light
+flags: PERSISTENT
+id: TR_m3_OE_VaultPulseLight
+name: ''
+script: ''
+mesh: ''
+icon: ''
+sound: T_SndObj_WindEerie
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 128
+  color:
+  - 0
+  - 117
+  - 234
+  - 0
+  flags: ''

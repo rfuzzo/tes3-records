@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_bk_m2_i2-437-tri_ledger
+name: Necrom Temple Maintenance
+script: ''
+mesh: TR\m\TR_book_closed_i10_AY.nif
+icon: TR\m\TR_book_closed_i10_AY.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR><BR>\r\n[This ledger contains records on the maintenance of the Temple in Necrom and all of the objects attached to it, including the Temple Administration Building.]<BR>"
+data:
+  weight: 3.0
+  value: 15
+  book_type: Book
+  skill: None
+  enchantment: 0

@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m7_hlaalu_teleamulet
+name: Crystalline Sigil of the Hlaalu
+script: TR_m7_HH_GM_hla_teleamulet_scr
+mesh: c\Amulet_Extravagant_2.NIF
+icon: c\tx_amulet_extrav2.tga
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 1200
+  enchantment: 0

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_De_SetInd_Bell_07
+name: Indoril Bell
+script: T_ScObj_IndorilBell7
+mesh: TR\f\tr_act_ind_bell_07.NIF

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_BlisteringFoment_01
+name: Blistering Fomentarius
+script: ''
+mesh: TR\n\tr_ing_fomentarius.nif
+icon: TR\n\tr_ing_fomentarius.dds
+data:
+  weight: 0.5
+  value: 1
+  effects:
+  - DrainAttribute
+  - Levitate
+  - DrainHealth
+  - Paralyze
+  skills:
+  - Block
+  - None
+  - None
+  - None
+  attributes:
+  - Intelligence
+  - None
+  - None
+  - None

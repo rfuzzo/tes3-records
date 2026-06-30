@@ -1,0 +1,20 @@
+type: Clothing
+flags: ''
+id: T_Com_Et_GloveR_02
+name: Extravagant Right Glove
+script: ''
+mesh: TR\c\TR_c_extr_glove_02_GND.nif
+icon: TR\c\tr_c_extr_glove_02.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: RightHand
+  male_bodypart: T_C_ComEtGloves02_Ha
+  female_bodypart: ''
+- biped_object_type: RightWrist
+  male_bodypart: ''
+  female_bodypart: ''
+data:
+  clothing_type: RightGlove
+  weight: 1.0
+  value: 40
+  enchantment: 200

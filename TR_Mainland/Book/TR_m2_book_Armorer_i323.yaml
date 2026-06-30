@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2_book_Armorer_i323
+name: Servan Nieries' Ledger
+script: ''
+mesh: m\Text_Octavo_03.nif
+icon: m\Tx_octavo_03.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<DIV ALIGN=\"LEFT\">\r\n<BR>[This book is a record of Servan Nieries' transactions; a few entries catch your eye.]<BR>\r\n\r\nEntry 27: Took 4 broad swords from source. Sold a chain coif (+23).<br>\r\n<br>\r\nEntry 28: Procured 2 broad swords and 3 short swords (-35 NL). Sold 6 broad swords to NL's friends (+350).<br>\r\n<br>\r\nEntry 29:  Trouble with AR (-170)! How did he know?<br>\r\n<br>\r\nEntry 30:  LS knows too. Went to AR, told to pay (-40 LS, -1 bottle Cyrodiilic Brandy). Sold a broad sword (+75).<br>\r\n<br>\r\nEntry 31:  Procured 5 long bows. Sold 6 shields to NL's friends (+430). Sold 2 short swords (+53).<br>\r\n<br>\r\nEntry 32:  Services rendered by NL (-465).<br>\r\n<br>\r\n[It continues for many pages, though the sizes of the transactions dwindle as time progresses. Most expenditures are paid to AR, LS, and NL. Occasionally Servan makes an entry for cryptic \"services rendered\" by NL, always costing about 500 Septims.]<br>\r\n"
+data:
+  weight: 1.0
+  value: 10
+  book_type: Book
+  skill: None
+  enchantment: 100

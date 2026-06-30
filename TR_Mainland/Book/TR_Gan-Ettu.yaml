@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_Gan-Ettu
+name: Quest Landmark
+script: ''
+mesh: tr\tr_editormarker_landmark.nif
+icon: default icon.dds
+enchanting: ''
+text: This low detailed area is reserved for the Gan-Ettu camp to be made for WBM
+data:
+  weight: 0.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 0

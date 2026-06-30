@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_MwDe_SetDre_Us3Rice30
+name: Stoneware Urns
+script: ''
+mesh: tr\o\tr_cont_sturns_r_03.nif
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - 30
+  - random_saltrice

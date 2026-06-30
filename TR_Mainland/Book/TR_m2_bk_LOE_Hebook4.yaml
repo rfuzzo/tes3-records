@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2_bk_LOE_Hebook4
+name: East Empire Company Ledger
+script: ''
+mesh: m\Text_Octavo_07.nif
+icon: m\Tx_octavo_03.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This ledger records the items bought and sold by the East Empire Company here in Helnim.]<BR>\r\n\r\n"
+data:
+  weight: 1.0
+  value: 30
+  book_type: Book
+  skill: None
+  enchantment: 100

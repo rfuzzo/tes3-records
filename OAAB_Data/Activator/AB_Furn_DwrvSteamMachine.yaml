@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Furn_DwrvSteamMachine
+name: Strange Steam Machine
+script: AB_DwrvMachineryToggle_s
+mesh: OAAB\u\dwrvSteamMachine.nif

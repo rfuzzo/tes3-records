@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m2_q_LlevariAmulet
+name: Llevari Telsaran's Amulet
+script: ''
+mesh: c\Amulet_Expensive_1.NIF
+icon: c\tx_amulet_expens1.tga
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 30
+  enchantment: 150

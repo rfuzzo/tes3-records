@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_De_Set_BannerSlaves01
+name: Slave Market
+script: OutsideBanner
+mesh: tr\f\tr_act_banner_slave_01.nif

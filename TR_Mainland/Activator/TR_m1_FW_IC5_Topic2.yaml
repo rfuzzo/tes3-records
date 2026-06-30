@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m1_FW_IC5_Topic2
+name: ''
+script: ''
+mesh: EditorMarker.NIF

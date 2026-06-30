@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_NVA6_table_05
+name: ''
+script: TR_m7_NVA_Stage6_Persist
+mesh: tr\f\TR_furn_de_p_table_05.NIF

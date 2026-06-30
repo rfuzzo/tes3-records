@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_AndothDweRuinRug04
+name: ''
+script: TR_m4_AndothDweBarSet02_scp
+mesh: tr\f\tr_furn_de_rug_06.nif

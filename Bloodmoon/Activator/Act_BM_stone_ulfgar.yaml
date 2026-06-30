@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: Act_BM_stone_ulfgar
+name: Stone of Ulfgar
+script: stoneUlfgarScript
+mesh: f\Terrain_rock_BM_75.nif

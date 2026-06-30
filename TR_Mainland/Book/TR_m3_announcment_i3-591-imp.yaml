@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_announcment_i3-591-imp
+name: Imperial Announcement
+script: ''
+mesh: m\Text_Parchment_01.NIF
+icon: m\Tx_parchment_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<DIV ALIGN=\"CENTER\"><BR>\r\nIn the name of His Majesty Uriel Septim VII<BR>\r\n<BR>\r\nSewer Access to the Ebon Tower is strictly prohibited according to Imperial Regulation XVI, Paragraph 23, \"Regarding Security.\" Any and all access to the castle must be made from an above-ground entry point. Access through the sewer system must be cleared through the Imperial Legion. Any who are caught attempting to gain access through the sewer system illegally will be prosecuted to the fullest extent of the law.<BR>\r\n<BR>\r\nIllegal Access to the Ebon Tower from the sewer without expressed permission will be deemed as \"trespassing\", \"treason\", and (should a weapon be found upon the criminal) \"attempted assassination\".<BR>\r\n<BR>\r\n"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_MwDwe_Furn_Ch2_Bolts
+name: Ornate Dwemer Chest
+script: ''
+mesh: o\contain_dwrv_chest10.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 125
+  - T_Dwe_Regular_Bolt_01

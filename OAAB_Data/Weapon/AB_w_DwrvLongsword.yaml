@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_DwrvLongsword
+name: Dwarven Longsword
+script: ''
+mesh: OAAB\w\dwemer_longsword.nif
+icon: OAAB\w\dwemer_longsword.dds
+enchanting: ''
+data:
+  weight: 16.0
+  value: 1000
+  weapon_type: LongBladeOneHand
+  health: 1080
+  speed: 1.35
+  reach: 1.0
+  enchantment: 48
+  chop_min: 2
+  chop_max: 17
+  slash_min: 1
+  slash_max: 23
+  thrust_min: 4
+  thrust_max: 20
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

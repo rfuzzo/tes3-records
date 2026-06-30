@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m1_ITO_Onimushili_slavekey
+name: Rusty Key
+script: ''
+mesh: m\key_standard_01.nif
+icon: m\tx_key_standard_01.dds
+data:
+  weight: 0.0
+  value: 0
+  flags: KEY

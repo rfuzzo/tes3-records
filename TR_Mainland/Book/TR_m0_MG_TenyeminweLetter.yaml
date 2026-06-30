@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: TR_m0_MG_TenyeminweLetter
+name: Letter to Banvira Auctoria
+script: ''
+mesh: m\Text_Parchment_02.nif
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nBanvira, <BR>\r\n<BR>\r\nI'm afraid I won't be able to complete my part of the research in a timely manner. Unfortunately, in my attempt to resolve the issue we have been dealing with, I drew the attention of the Telvanni. I'm leaving Morrowind at once, as it is no longer safe for me here.<BR>\r\n<BR>\r\nI apologize for interrupting our collaboration in such an abrupt manner. I have outlined some of my preliminary results below. I hope you'll find them useful. I will contact you again with more details as soon as I arrive at Summerset Isle.<BR>\r\n<BR>\r\nSincerely, <BR>\r\n <BR>\r\nTenyeminwe <BR>\r\n <BR>\r\n\r\n[The rest of the letter is filled with obscure magickal forms and cryptic illustrations.]\r\n<BR>"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

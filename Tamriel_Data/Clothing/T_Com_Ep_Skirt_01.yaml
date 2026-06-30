@@ -1,0 +1,17 @@
+type: Clothing
+flags: ''
+id: T_Com_Ep_Skirt_01
+name: Expensive Skirt
+script: ''
+mesh: pc\c\pc_fcot_c_skirt01_gnd.nif
+icon: pc\c\pc_fcot_skirt01.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Skirt
+  male_bodypart: T_C_ComEpSkirt01_G
+  female_bodypart: ''
+data:
+  clothing_type: Skirt
+  weight: 2.0
+  value: 15
+  enchantment: 75

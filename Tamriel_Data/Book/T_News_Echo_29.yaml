@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Echo_29
+name: ALTMER SHIP SINKS IN PORT
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_text_note_nar_news.nif
+icon: tr\m\tr_text_note_nar_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\tr_echo_512_256.dds\" WIDTH=\"348\" HEIGHT=\"168\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nALTMER SHIP SINKS IN PORT<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nTerror on the Narsis Waterfront as the \"Calaril Comet\", an Altmeri tradeship, has suddenly exploded in the harbor, sinking into the waters of the upper Thirr. Having recently made the exhaustive trip to Morrowind from the Summerset Isles, the Beacon Company ship held many rare and exclusive goods from the far west -- unseen and unneeded in fair Morrowind -- now lost at the bottom of the port.<BR><BR>\r\nAuthorities have concluded that the explosion was clearly an accidental mishap -- likely on the part of the Altmer crew. Though the representatives of the Beacon Company have refused to accept this clear verdict, all citizens -- especially those who frequent the Waterfront -- should rest assured that this momentary threat was swiftly handled and that nothing of the sort should happen again under the watchful eyes of our loyal Port Authority.<BR><BR>\r\nFor the sake of public safety, the Canyon Echo would recommend that all dock workers secure their cargo tighter from now on.<BR><BR>\r\n<DIV ALIGN=\"CENTER\">\r\nGHOST TUSSLE AT GRAND TOMB<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nThe Grand Hlaalu Ancestral Tomb, once a peaceful and reflective place of mourning and worship, has erupted into a battle beyond the grave as a Hlaalu agent faces off against the spirit of Ilvrin Hlaalu, a late noble of the Sixth Family who recently died in scandal -- disowned and caught up in vigorous anti-Camonna Tong ramblings.<BR><BR>\r\nIn a tough battle within the sacred tomb, this agent valiantly put down the ghost and returned Ilvrin's spirit to peace with his ancestors. Though an unfortunate end for the feeble and troubled Hlaalu, the ability and mobilisation of our great and fair House should always be commended and celebrated -- the Canyon Echo would like to avidly thank House Hlaalu and this agent for their efforts.<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m3_AimrahWarehouseCrank
+name: Crank
+script: TR_m3_Aim_BasementWaterScp
+mesh: f\Act_m_sewer_crank_01.nif

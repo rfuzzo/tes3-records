@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Imp_Legion_Broadsword_Unnatur
+name: Broadsword of Unnatural Essence
+script: ''
+mesh: w\W_Broadsword_Imperial.nif
+icon: w\Tx_Broadsword_Imperial.tga
+enchanting: T_Use_UnnaturalBroadsword
+data:
+  weight: 12.0
+  value: 370
+  weapon_type: LongBladeOneHand
+  health: 900
+  speed: 1.25
+  reach: 1.0
+  enchantment: 50
+  chop_min: 4
+  chop_max: 14
+  slash_min: 4
+  slash_max: 14
+  thrust_min: 2
+  thrust_max: 14
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

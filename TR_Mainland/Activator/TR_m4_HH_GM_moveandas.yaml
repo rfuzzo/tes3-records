@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_HH_GM_moveandas
+name: move tholer to tur julan
+script: TR_m4_HH_GM_moveandas_scr
+mesh: EditorMarker.NIF

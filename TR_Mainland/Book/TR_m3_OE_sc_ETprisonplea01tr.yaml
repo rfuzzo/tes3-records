@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_OE_sc_ETprisonplea01tr
+name: Casik's Plea
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[It is an unfinished letter -- one of many. It is a mess of child-like, scribbled handwriting. Parts of the text have been struck out or made illegible by spilt ink. The writer clearly had trouble putting his thoughts into words. There are pleas directed at the Emperor, the Elder Council, the King, and the Nine Divines. A phrase recurs over and over like a refrain:]\r\n\r\n... I am not a traitor ... I am not a traitor ... I am not a traitor ... I am not a traitor ...\r\n<BR>\r\n\r\n"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_FW_College_Mus_Banner
+name: War-Banner of Prince Bashomon
+script: ''
+mesh: m\text_parchment_01.nif
+icon: m\tx_parchment_01.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nWar-Banner of Prince Bashomon<BR> <BR>\r\n<DIV ALIGN=\"LEFT\">\r\nEsroniet is the most distant of the major Padomaic island nations. Unlike Roscrea, Cathnoquey, and Yneslea, which were taken relatively swiftly, Esroniet's conquest proved a more lengthy affair.  Bashomon, the most powerful of the archipelago's local lords, refused to surrender to Legions even after the Far East Fleet took Esroniet's capital, Black Harbor, in 3E 282. The Esri prince managed to evade Imperial capture for an additional two years, waging guerilla war against the Emperor all the while.\r\n<BR>\r\nPrince Bashomon's personal standard was seized following the prince's defeat and execution in 284. The Emperor prized the tattered flag of his defeated enemy more than any Esri relic, and ordered that all the crown jewels and treasures of Esroniet's royal court be melted down and shipped to Cyrodiil. However, the treasury of Black Harbor was never found. Many historians speculate that Bashomon may have hidden away his golden regalia, while others contend that the \"Lost Treasury of Esroniet\" is a merely a mythologized tall tale.<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: firebite sword
+name: Firebite Sword
+script: ''
+mesh: w\W_Shortsword_chitin.nif
+icon: w\Tx_chitin_shortsword.tga
+enchanting: fire bite_en
+data:
+  weight: 4.0
+  value: 17
+  weapon_type: ShortBladeOneHand
+  health: 540
+  speed: 2.5
+  reach: 1.0
+  enchantment: 20
+  chop_min: 3
+  chop_max: 7
+  slash_min: 3
+  slash_max: 7
+  thrust_min: 4
+  thrust_max: 9
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

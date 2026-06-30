@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_He_BlueCeladonBowl_01
+name: Blue Celadon Bowl
+script: ''
+mesh: sum\m\sum_misc_celb_bowl_01.nif
+icon: sum\m\sum_misc_celb_bowl_01.dds
+data:
+  weight: 3.0
+  value: 15
+  flags: ''

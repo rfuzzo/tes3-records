@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: TR_m7_NarsisCQSewers_Bl
+name: Wooden Barrels
+script: ''
+mesh: tr\o\tr_cont_barrels_r_02.nif
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - 20
+  - T_Mw_Random_FoodSea
+- - 3
+  - potion_skooma_01

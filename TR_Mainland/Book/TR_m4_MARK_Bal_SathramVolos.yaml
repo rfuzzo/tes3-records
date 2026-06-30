@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_MARK_Bal_SathramVolos
+name: Sathram Volos
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: ''
+enchanting: ''
+text: Marker for moving TR_m4_Bal_SathramVolos
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

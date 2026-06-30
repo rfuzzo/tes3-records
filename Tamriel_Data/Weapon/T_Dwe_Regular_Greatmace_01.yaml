@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Dwe_Regular_Greatmace_01
+name: Dwarven Great Mace
+script: ''
+mesh: tr\w\tr_w_dwrv_gmace.nif
+icon: tr\w\tr_w_dwrv_gmace.dds
+enchanting: ''
+data:
+  weight: 34.0
+  value: 750
+  weapon_type: BluntTwoClose
+  health: 4000
+  speed: 1.0
+  reach: 1.5
+  enchantment: 55
+  chop_min: 1
+  chop_max: 37
+  slash_min: 1
+  slash_max: 33
+  thrust_min: 1
+  thrust_max: 2
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

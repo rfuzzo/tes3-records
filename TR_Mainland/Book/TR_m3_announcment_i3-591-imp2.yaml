@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_announcment_i3-591-imp2
+name: Captain's Announcement
+script: ''
+mesh: m\Text_Parchment_01.NIF
+icon: m\Tx_parchment_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\nEntry to the main gates of Old Ebonheart from the sewers is restricted. Legion soldiers only. No civilians allowed. The city guard thanks you for your cooperation. <BR> <br>\r\nSigned, <br>\r\nMaurrisha, captain of the city guard\r\n<BR>\r\n"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

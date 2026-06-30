@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_Fascicle05PC
+name: Fascicle 21-24
+script: ''
+mesh: pc\m\PC_bk_Book_10.nif
+icon: pc\m\pc_bk_book_10.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe Testament of the Church-Mothers<BR>\r\nFascicle 21-24<BR>\r\nThe Eye of the World<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\n21. Then came the spirit of Dibella, who was a capstone to the dream of others, for she as soon spoke as saw the world, and said: \"This is good, and you have done well. Each of you has elected to be, and to become, and has become a thing of Beauty, and what you have made has become a thing of Beauty.\" And from her lips fell the words of Beauty, which was true in essence and appearance, and ever since the spirits strive for Dibella's favor.<BR>\r\n<BR>\r\n22. And as in word and deed she was mystery, and many things of mystery she brought forth, and in her shadow a spirit of nightly whispers was born, a thief of luster and night-gold, and between her tongue and teeth a spirit of fading light and breaking beauty was born, who said nothing, but thought of many things, and held secret desires.<BR>\r\n<BR>\r\n23. All spirits did covet Dibella's favor, and also the spirit of Magnus did covet Dibella's favor, and for her he built an idea of lines and symmetry, which is to say, a secret hand that shapes the world in pleasing patterns. And Dibella rejoiced in this gift, and granted Magnus a single boon, fire, for she was the progenitor of fire, and fierce light and heat, too. And Magnus was the custodian of fire and light, though in the late hour this light would desert him, and fall from his heavenly sphere to torment the world of the living things, and then the light was a tyrant, and a cruel enslaver of men.<BR>\r\n<BR>\r\n24. Dibella was a perceptive spirit, and in time she grew to dislike the Beginning Place, even before the Word of Shezarr she was in opposition, and voiced her dissatisfaction. She would see the flaw in the works of others, and say to them: \"you, great spirits who have dreamt of a thing to be, have dreamt of things in motion, which is another word for decay. Our world will not stand, and I relish the hour we break, but I also know that things as they stand will falter, and much that is beautiful will perish. I love you, brothers, but I curse you, too, for in your plans you have not thought of loss and the end.\" And the other spirits were puzzled by this, as they could not yet conceive of loss and the end.<BR>\r\n<BR>"
+data:
+  weight: 4.0
+  value: 300
+  book_type: Book
+  skill: Unarmored
+  enchantment: 0

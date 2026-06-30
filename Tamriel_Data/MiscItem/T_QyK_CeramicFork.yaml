@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_QyK_CeramicFork
+name: Ceramic Fork
+script: ''
+mesh: pi\m\pi_m_cnq_c_fork.nif
+icon: pi\m\pi_m_cnq_c_fork.dds
+data:
+  weight: 0.5
+  value: 4
+  flags: ''

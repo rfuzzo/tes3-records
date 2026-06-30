@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Mw_Flora_LichenBl02
+name: Blue Lichen
+script: ''
+mesh: tr\o\tr_flora_blichen_02.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - T_Mw_Random_FlorBlueLichen

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: ex_t_pc_hold_housestem_02b
+name: ''
+script: Strong2_Complete
+mesh: x\Ex_T_housestem_02.nif

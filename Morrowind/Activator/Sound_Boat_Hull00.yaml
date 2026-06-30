@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: Sound_Boat_Hull00
+name: Boat Hull
+script: Sound_Boat_Hull
+mesh: EditorMarker.NIF

@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: imperial helmet armor_Dae_curse
+name: Imperial Steel Helmet
+script: BILL_MarksDaedraSummon
+mesh: a\A_Imperial_M_Helmet.nif
+icon: a\Tx_Imperial_helmet.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: Hair
+  male_bodypart: imperial helmet
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 5.0
+  value: 70
+  health: 160
+  enchantment: 250
+  armor_rating: 16

@@ -1,0 +1,25 @@
+type: Armor
+flags: ''
+id: TR_m4_HH_And_Supply
+name: Supply
+script: ''
+mesh: tr\a\tr_a_bone_ch_pldl_02gd.nif
+icon: tr\a\tr_a_bone_ch_pauld_02.dds
+enchanting: TR_m4_HH_Supply
+biped_objects:
+- biped_object_type: LeftPauldron
+  male_bodypart: T_A_DeBonemoldChuzeiPauld_Cl_E
+  female_bodypart: ''
+- biped_object_type: LeftUpperArm
+  male_bodypart: T_A_DeBonemoldChuzeiPauld_UA
+  female_bodypart: ''
+- biped_object_type: LeftForearm
+  male_bodypart: T_A_DeBonemoldChuzeiPauld_FA
+  female_bodypart: ''
+data:
+  armor_type: LeftPauldron
+  weight: 8.0
+  value: 240
+  health: 150
+  enchantment: 16
+  armor_rating: 15

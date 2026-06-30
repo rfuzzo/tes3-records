@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_Narsis_93_note
+name: Relos's note
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\n<BR>\r\nI ordered soap, not sload soap! What am I supposed to do with it? We are furnishers, not wizards, and now I have to deal with tax.<BR>\r\n<BR>\r\n- Relos<BR>\r\n"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

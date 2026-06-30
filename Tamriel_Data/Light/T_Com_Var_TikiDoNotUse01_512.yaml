@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_Com_Var_TikiDoNotUse01_512
+name: ''
+script: T_ScObj_TikiTorchLit
+mesh: l\light_tikitorch00.nif
+icon: ''
+sound: Fire 40
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 512
+  color:
+  - 245
+  - 140
+  - 45
+  - 0
+  flags: DYNAMIC | FIRE | FLICKER_SLOW

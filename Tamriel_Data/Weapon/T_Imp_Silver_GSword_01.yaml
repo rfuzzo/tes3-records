@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Imp_Silver_GSword_01
+name: Silver Greatsword
+script: ''
+mesh: tr\w\tr_w_silver_gsword.nif
+icon: tr\w\tr_w_silver_gsword.dds
+enchanting: ''
+data:
+  weight: 23.4
+  value: 400
+  weapon_type: LongBladeTwoClose
+  health: 1820
+  speed: 1.25
+  reach: 1.0
+  enchantment: 52
+  chop_min: 1
+  chop_max: 30
+  slash_min: 1
+  slash_max: 25
+  thrust_min: 1
+  thrust_max: 18
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE | SILVER

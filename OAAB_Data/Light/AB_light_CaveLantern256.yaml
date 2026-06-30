@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: AB_light_CaveLantern256
+name: Lantern
+script: ''
+mesh: OAAB\l\cavern_Lantern.nif
+icon: OAAB\l\cavern_Lantern.tga
+sound: Fire 40
+data:
+  weight: 5.0
+  value: 8
+  time: 120
+  radius: 256
+  color:
+  - 245
+  - 140
+  - 40
+  - 0
+  flags: DYNAMIC | CAN_CARRY | FIRE | FLICKER_SLOW

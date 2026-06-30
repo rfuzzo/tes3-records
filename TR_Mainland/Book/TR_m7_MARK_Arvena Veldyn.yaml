@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_MARK_Arvena Veldyn
+name: Arvena Veldyn
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: ''
+enchanting: ''
+text: "Arvena Veldyn will be PositionCell'd here if alive when the player has the Morag Tong Writ and talks to Turesa Veldyn\r\n\r\nNPC ID: TR_m7_Arvena Veldyn\r\nPosition Cell in script TR_m7_MT_WritTuresa"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

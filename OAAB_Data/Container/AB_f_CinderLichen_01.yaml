@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: AB_f_CinderLichen_01
+name: Cinderspark Lichen
+script: ''
+mesh: OAAB\f\mv_lichen_01.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - AB_lvl_CinderSparkLichen

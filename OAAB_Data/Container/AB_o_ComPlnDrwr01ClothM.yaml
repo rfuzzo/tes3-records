@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: AB_o_ComPlnDrwr01ClothM
+name: Chest of Drawers
+script: ''
+mesh: OAAB\o\com_p_drawer_01.nif
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - AB_lvl_c_ComComM

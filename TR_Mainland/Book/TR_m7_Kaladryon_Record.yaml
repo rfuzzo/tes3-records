@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_Kaladryon_Record
+name: Kaladryon Record
+script: ''
+mesh: m\Text_Scroll_01.NIF
+icon: m\Tx_scroll_open_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n[This document details slaves held, the outcome of recent raids into Black Marsh, and various business transactions.]<BR>"
+data:
+  weight: 1.2
+  value: 10
+  book_type: Scroll
+  skill: None
+  enchantment: 400

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Echo_19
+name: ISRAG TONG LEADER KILLED
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_text_note_nar_news.nif
+icon: tr\m\tr_text_note_nar_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\tr_echo_512_256.dds\" WIDTH=\"348\" HEIGHT=\"168\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nISRAG TONG LEADER KILLED<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nContinuing Fighters Guild Master Micarya's rash bolstering of the Imperial institution -- the former leader of Andrethis' Israg Tong, Maren Othrenim, has been put down in the name of \"taming corruption\" within the guild.<BR><BR>\r\nHaving stepped down as leader of the Israg Tong, Othrenim had joined the Fighters Guild in Andrethis and rose to the rank of Defender, becoming the guild hall's second-in-command. However, due to unsourced, so-called \"corruption,\" he was struck down in broad daylight by a member of the Narsis Fighters Guild, who did not give him a chance to defend himself from accusations of illegitimate conduct within the organisation.<BR><BR>\r\nAccording to the Fighters Guild, Othrenim had been \"manipulating the Andrethis Fighters Guild Master, covering up Hlaalu interference in guild politics.\" Such accusations are unfounded and the Canyon Echo stands to wonder why the guild would slander a man so accommodating to Imperial institutions and bureaucracy.<BR><BR>\r\nIt is clear to many that Micarya does not seem to be stopping her misguided \"war against corruption\" anytime soon -- one must wonder what sinister motivations truly lie behind Master Micarya's brash crusade?<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

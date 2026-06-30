@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_Narsis_SeydaNeenLogbook
+name: Seyda Neen's Logbook
+script: TR_m7_SeydaNeenLogbookSc
+mesh: tr\m\tr_book_ruined_04.nif
+icon: tr\m\tr_book_ruined_04.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>\r\n[This book recorded the important events in the management and navigation of the Seyda Neen. The extensive water damage makes it illegible.]<BR>"
+data:
+  weight: 4.0
+  value: 5000
+  book_type: Book
+  skill: None
+  enchantment: 0

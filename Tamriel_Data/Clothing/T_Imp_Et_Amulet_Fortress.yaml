@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Imp_Et_Amulet_Fortress
+name: Fortress Talisman
+script: ''
+mesh: pc\c\pc_c_etamulet_01b.nif
+icon: pc\c\pc_c_etamulet_01b.dds
+enchanting: fourth barrier_en
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 210
+  enchantment: 600

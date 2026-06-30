@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: TR_m3_Helm_of_Finesse
+name: Helm of Finesse
+script: ''
+mesh: a\A_M_Chitin_Helmet.nif
+icon: a\TX_Chitin_helmet.tga
+enchanting: TR_m3_Helm_of_Finesse_En
+biped_objects:
+- biped_object_type: Head
+  male_bodypart: a_m_chitin_helmet
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 1.0
+  value: 200
+  health: 100
+  enchantment: 0
+  armor_rating: 10

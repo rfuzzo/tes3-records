@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_De_Glass_Flamebolt_01
+name: Wild Flamebolt
+script: ''
+mesh: tr\w\tr_w_glass_bolt.nif
+icon: tr\w\tr_w_glass_bolt.dds
+enchanting: wild flame_en
+data:
+  weight: 0.15
+  value: 25
+  weapon_type: Bolt
+  health: 10
+  speed: 1.0
+  reach: 1.0
+  enchantment: 12
+  chop_min: 4
+  chop_max: 6
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

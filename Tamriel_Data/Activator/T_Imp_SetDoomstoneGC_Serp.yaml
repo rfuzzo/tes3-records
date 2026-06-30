@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_SetDoomstoneGC_Serp
+name: The Serpent Stone
+script: T_ScObj_DoomBSerpPC
+mesh: pc\f\pc_dmstn_gc_serpent.nif

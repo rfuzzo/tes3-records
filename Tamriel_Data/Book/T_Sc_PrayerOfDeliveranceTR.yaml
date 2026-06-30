@@ -1,0 +1,41 @@
+type: Book
+flags: ''
+id: T_Sc_PrayerOfDeliveranceTR
+name: A Prayer of Deliverance
+script: ''
+mesh: m\Text_Scroll_01.nif
+icon: m\Tx_scroll_01.tga
+enchanting: ''
+text: |-
+  <DIV ALIGN="LEFT"><FONT COLOR="000000" SIZE="3" FACE="Magic Cards"><BR>From our enemies amongst the living,<BR>
+  Talos deliver us.<BR>
+  <BR>
+  From our enemies amongst the dead,<BR>
+  Arkay deliver us.<BR>
+  <BR>
+  From loneliness and despair,<BR>
+  Dibella deliver us.<BR>
+  <BR>
+  From ignorance and misrule,<BR>
+  Julianos deliver us.<BR>
+  <BR>
+  From drought and famine,<BR>
+  Kynareth deliver us.<BR>
+  <BR>
+  From injustice and misfortune,<BR>
+  Stendarr deliver us.<BR>
+  <BR>
+  From thieves and swindlers,<BR>
+  Zenithar deliver us.<BR>
+  <BR>
+  From cruelty and intolerance,<BR>
+  Mara deliver us.<BR>
+  <BR>
+  From those that dwell in Oblivion,<BR>
+  Akatosh deliver us.<BR>
+data:
+  weight: 1.1
+  value: 12
+  book_type: Scroll
+  skill: None
+  enchantment: 0

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_Hlaalu2_Candlestick
+name: A Gold Candlestick
+script: TR_m7_Hlaalu2_SecretDoor
+mesh: pc\m\pc_misc_gold_cndl_02.nif

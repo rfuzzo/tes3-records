@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_q_sc_OE_IC_Duke_01
+name: Felmo Ilveroth's Plea
+script: ''
+mesh: m\Text_Scroll_02.nif
+icon: m\Tx_scroll_03.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nTo the most esteemed Vedam Dren, Duke of Vvardenfell<BR>\r\n<BR>\r\nYour Grace,<BR>\r\n<BR>\r\nI am but a humble servant of the Nine Divines, serving in the Grand Chapel of Talos in my seventh year.<BR>\r\n<BR>\r\nIn these trying years, I have witnessed the last stages of the construction of Castle Ebonheart and the slowly creeping disinterest in the old city. <BR>\r\n<BR>\r\nMany quiet traditions have been cast aside to allow for quiet introspection while one misery after another spilled from Vvardenfell to the mainland. <BR>\r\n<BR>\r\nAs of 3E426, the murder of several outspoken supporters of the Empire and the tax revolt in Balmora have seen another moratorium on one of the oldest traditions of Old Ebonheart, the annual mystery play.<BR>\r\n<BR>\r\nFirst established by the Nibenese settlers of smolding Ebonheart Hold, it was created to serve as powerful liturgy, asking the Divines for a bit of protection, just a bit more joy, and a powerful statement to those who wish the city ill.<BR>\r\n<BR>\r\nIn our current trying days, I believe that it is the duty of the Cult to offer the citizenry a joyful day. As the divide between the poor and rich have grown greater and the poor are often abandoning Ebonheart to smuggle illicit goods to and from Vvardenfell, it would serve to give them a bit of hope and belief in the rule of the law.<BR>\r\n<BR>\r\nAs such, I humbly beseech you to allow us the play this year, to ease the public's mind and reassure them in the Divines' and the Empire's protection.<BR>\r\n<BR>\r\nWith best regards, your dutiful servant,<BR>\r\n<BR>\r\nFelmo Ilveroth<BR> \r\nOrdained Priest of Zenithar<BR>\r\nDisciple of the Imperial Cult<BR>\r\n<BR>"
+data:
+  weight: 0.5
+  value: 25
+  book_type: Scroll
+  skill: None
+  enchantment: 100

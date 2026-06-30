@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Rea_Woodwork_01
+name: Reachman Woodwork
+script: ''
+mesh: sky\m\sky_misc_uni_rmwood.nif
+icon: sky\m\sky_misc_uni_rmwood.dds
+data:
+  weight: 5.0
+  value: 50
+  flags: ''

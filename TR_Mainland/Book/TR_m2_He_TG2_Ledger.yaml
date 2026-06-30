@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2_He_TG2_Ledger
+name: Company Master Ledger
+script: ''
+mesh: m\text_octavo_04.nif
+icon: m\tx_octavo_04.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This ledger is a detailed record of all of the Zafirbel Bay Company's transactions since its founding. It is very dense.]<BR>\r\n"
+data:
+  weight: 3.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 0

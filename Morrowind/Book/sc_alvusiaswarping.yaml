@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: sc_alvusiaswarping
+name: Scroll of Alvusia's Warping
+script: ''
+mesh: m\text_scroll_01.nif
+icon: m\tx_scroll_open_01.tga
+enchanting: sc_alvusiaswarping_en
+text: <FONT COLOR="000000" SIZE="2" FACE="Daedric">BY THE POWER OF THE GODS, I INVOKE THEE</FONT><BR>
+data:
+  weight: 0.2
+  value: 129
+  book_type: Scroll
+  skill: None
+  enchantment: 0

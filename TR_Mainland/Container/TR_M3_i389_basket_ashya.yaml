@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_M3_i389_basket_ashya
+name: Basket
+script: ''
+mesh: o\Contain_Com_Basket_01.nif
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 5
+  - ingred_ash_yam_01

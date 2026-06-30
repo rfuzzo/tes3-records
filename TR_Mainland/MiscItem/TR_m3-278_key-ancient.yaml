@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m3-278_key-ancient
+name: Ancient Dwemer Key
+script: ''
+mesh: m\misc_dwrv_Ark_key00.nif
+icon: m\misc_dwrv_Ark_key00.tga
+data:
+  weight: 0.0
+  value: 500
+  flags: KEY

@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: active_dae_sheogorath_ad
+name: Statue of Sheogorath
+script: shrineAldDaedroth
+mesh: x\Ex_DAE_Sheogorath.NIF

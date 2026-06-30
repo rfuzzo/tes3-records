@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m1_act_i2_DrekAct
+name: ''
+script: TR_m1_Scpt_i2_DrekAct
+mesh: x\Ex_DAE_ruin_platform_01.nif

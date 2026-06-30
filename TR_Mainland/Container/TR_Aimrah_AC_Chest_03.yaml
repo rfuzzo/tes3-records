@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: TR_Aimrah_AC_Chest_03
+name: Large Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 20
+  - iron arrow
+- - 1
+  - netch_leather_cuirass
+- - 1
+  - netch_leather_pauldron_left
+- - 1
+  - netch_leather_pauldron_right
+- - 1
+  - short bow

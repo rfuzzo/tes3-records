@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_ButterflyWingCyr_02
+name: Blue Chalk Butterfly Wing
+script: ''
+mesh: pc\n\pc_ing_btrfly_wing_02.nif
+icon: pc\n\pc_ing_btrfly_wing_02.dds
+data:
+  weight: 0.1
+  value: 5
+  effects:
+  - RestoreAttribute
+  - Feather
+  - DamageAttribute
+  - WaterBreathing
+  skills:
+  - Block
+  - None
+  - Block
+  - None
+  attributes:
+  - Personality
+  - None
+  - Endurance
+  - None

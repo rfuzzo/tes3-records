@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_Glb_Light_Blue_512
+name: ''
+script: ''
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 512
+  color:
+  - 49
+  - 65
+  - 174
+  - 0
+  flags: ''

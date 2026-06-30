@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: Ex_colony_const_wood01_4 F2
+name: ''
+script: ColonyFactor2_Mid
+mesh: x\Ex_colony_const_wood01.NIF

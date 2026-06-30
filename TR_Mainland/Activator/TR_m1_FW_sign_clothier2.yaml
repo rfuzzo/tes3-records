@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m1_FW_sign_clothier2
+name: 'Telyn Vedrith: Clothier'
+script: OutsideBanner
+mesh: f\furn_bannerd_clothing_01.nif

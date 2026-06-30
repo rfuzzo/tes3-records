@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_Kha_SY_Summon
+name: Summoning Scroll
+script: TR_m3_Kha_SY_Summon_sc
+mesh: m\Text_Scroll_01.nif
+icon: m\Tx_scroll_open_01.tga
+enchanting: ''
+text: <DIV ALIGN="center"><FONT COLOR="000000" SIZE="2" FACE="Daedric">FROM YOUR ENDLESS SLEEP I WAKE YOU </FONT><BR>
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

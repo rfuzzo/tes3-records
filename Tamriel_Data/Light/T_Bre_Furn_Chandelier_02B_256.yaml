@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_Bre_Furn_Chandelier_02B_256
+name: ''
+script: ''
+mesh: hr\l\hr_l_chandelier_02b.nif
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 256
+  color:
+  - 245
+  - 140
+  - 40
+  - 0
+  flags: DYNAMIC | FIRE | FLICKER_SLOW

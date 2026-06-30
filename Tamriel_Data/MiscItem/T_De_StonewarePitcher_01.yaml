@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_StonewarePitcher_01
+name: Stoneware Pitcher
+script: ''
+mesh: TR\m\tr_misc_stn_pitcher.nif
+icon: TR\m\tr_misc_stn_pitcher_01.dds
+data:
+  weight: 2.0
+  value: 4
+  flags: ''

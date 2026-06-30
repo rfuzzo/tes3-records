@@ -1,0 +1,33 @@
+type: Container
+flags: ''
+id: TR_M2_i392_smuggleloot3
+name: Sack
+script: ''
+mesh: o\Contain_Com_Sack_02.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - Potion_Local_Brew_01
+- - 1
+  - T_Mw_Random_CheapfoodDunmerM1/2
+- - 1
+  - T_Mw_Random_FaunMusk
+- - 1
+  - T_Mw_Random_FaunOrnadaEgg
+- - 1
+  - T_Mw_Random_FlorHamumRoot
+- - 3
+  - T_Mw_Random_OreIron
+- - 3
+  - T_Mw_Random_PosDunmer01
+- - 1
+  - T_Mw_Random_WeaponsDunmer
+- - 1
+  - fireblade
+- - 7
+  - iron bolt
+- - 1
+  - potion_comberry_brandy_01
+- - 3
+  - potion_comberry_wine_01

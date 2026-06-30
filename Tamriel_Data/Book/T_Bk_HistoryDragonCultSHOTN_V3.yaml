@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_HistoryDragonCultSHOTN_V3
+name: History of the Dragon Cult III
+script: ''
+mesh: pc\m\PC_bk_Book_02.nif
+icon: pc\m\pc_bk_book_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nHistory of the Dragon Cult, vol. iii<BR>\r\nby Forameus<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nHarald's War and the end of the Dragon Cult<BR>\r\n<BR> \r\nAt the same time as the Dragon Cult's apocalyptic preachings were taking hold amongst the lower classes, the brutal wars of the Nordic kingdoms -- both against the Falmer and amongst each other -- were reaching their own height. A cunning Nordic king and descendant of Ysgramor named Harald Hand-Free was uniting the fractured holds under his banner, through both conquest and iron-willed diplomacy, until he was able to properly take the war against Falmer and begin pushing them out of Skyrim. However, as his campaign gained momentum, a series of Cult-inspired rebellions broke out and he was forced to return home and put them down.<BR>\r\n<BR>\r\nFrom this point on, Harald was always fighting a war on two fronts: one against the remaining Falmer tribes, and one against his own people. The fighting devastated the still-incipient Nordic kingdoms, but the king was able to cling to power and with great brutality reclaimed Skyrim inch by bloody inch. A very plausible legend states that holdouts in a great temple of the Dragon Cult were the last resistance Harald faced, and it was upon their bloodied altar that he declared the first Empire of the Nords (before tearing the entire structure down, brick by brick).<BR>\r\n<BR>\r\nAlthough their original apocalyptic beliefs have experienced occasional resurgences through the millennia (most notably during the ominous portents of the Year of Winter in Summer in 1E668), the Dragon Cult were thoroughly crushed and reformed by King Harald. He recognised the important role the Cult played in the daily life of common Nords, and rather than ban it outright he brought the veneration of Alduin within the (admittedly loose) religious framework of Nordic kingdoms.<BR>\r\n<BR>"
+data:
+  weight: 4.0
+  value: 150
+  book_type: Book
+  skill: None
+  enchantment: 0

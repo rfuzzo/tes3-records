@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Sc_PrideUnboundTR
+name: Pride Unbound
+script: T_ScBook_SpBoundCuirass
+mesh: m\Text_Scroll_open_01.nif
+icon: m\Tx_scroll_open_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>\r\n\r\nPride Unbound<BR>\r\n<BR>\r\n\r\n\r\nHe kicked the Dremora to the ground<BR>\r\n\r\nAll was silent, save one sound:<BR>\r\n\r\nThe warrior laughing mirthlessly<BR>\r\n\r\n\"You are weak,\" he said \"nothing to me.<BR>\r\n\r\nYour kind has but one use<BR>\r\n\r\nI shall show you, because you are so obtuse.\"<BR>\r\n\r\nAnd the warrior summoned a cuirass bound<BR>\r\n\r\nArmor wondrously light, weighing not a pound<BR>\r\n<BR>\r\n\r\n\r\n\"Daedra are best used as clothing,\"<BR>\r\n\r\nHe said. \"In any other cause, you fill me with loathing.<BR>\r\n\r\nI will destroy you, and wear your skin;<BR>\r\n\r\nYour only value is the shell you reside within.<BR>\r\n\r\nI know you will only to Oblivion be sent,<BR>\r\n\r\nAnd you might return to Nirn if that is your bent,<BR>\r\n\r\nBut know this: Should I see you once more<BR>\r\n\r\nIf you thirst for vengeance, I will beat you worse than before.<BR>\r\n<BR>\r\n\r\n\r\nAs the warrior readied his sword to slay,<BR>\r\n\r\nMalacath appeared, and had his say.<BR>\r\n\r\n\"Insult daedra, foolish one?<BR>\r\n\r\nOnly use as clothing, and mock us for fun?<BR>\r\n\r\nIf that is what you do for sport,<BR>\r\n\r\nI shall have my own, of a different sort.<BR>\r\n\r\nWear our skin, you do?<BR>\r\n\r\nWe shall see how you like it when I take the skin off of you!\"<BR>\r\n<BR>\r\n\r\n\r\nAnd though the warrior was quite great,<BR>\r\n\r\n(A truth, to have put a Dremora is such a state)<BR>\r\n\r\nBefore the ire of a god he had no chance<BR>\r\n\r\nAnd bleeding, to death he did advance. <BR>\r\n\r\n"
+data:
+  weight: 1.5
+  value: 150
+  book_type: Scroll
+  skill: None
+  enchantment: 100

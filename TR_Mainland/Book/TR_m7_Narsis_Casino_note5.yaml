@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_Narsis_Casino_note5
+name: Note To Self
+script: ''
+mesh: tr\tr_note_pin.nif
+icon: default icon.dds
+enchanting: ''
+text: Extra tiles are here to hide the back of the stage from the minimap. Minimap blockers can't be used because there is another halway section below it that a minimap blocker would also hide. Using the loose hallway pieces looks "correct" on a 2D minimap.
+data:
+  weight: 0.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 0

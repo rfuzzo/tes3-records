@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_SilverBell
+name: Silver Bell
+script: ''
+mesh: OAAB\m\yy_bell_slv.nif
+icon: OAAB\m\yy_bell_slv.dds
+data:
+  weight: 3.0
+  value: 35
+  flags: ''

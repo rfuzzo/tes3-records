@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: misc_wraithguard_no_equip
+name: Unique Dwemer Artifact
+script: ''
+mesh: a\A_Art_Wraithguard_GND.NIF
+icon: a\TX_Art_wraithguard.tga
+data:
+  weight: 1.0
+  value: 1
+  flags: ''

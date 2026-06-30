@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_i2-427_bklament
+name: The Second Book of Lamentations
+script: ''
+mesh: m\Text_Octavo_08.nif
+icon: m\Tx_book_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR> \r\nThe Second Book of Lamentations<BR> \r\n<BR><BR> \r\n<DIV ALIGN=\"LEFT\"><BR><BR> \r\nThe Battle of Ald Roryn<BR> \r\n<BR> \r\nOn the fourth day of Sun's Height 2920, the Imperial forces of Reman the tyrant crossed the Velothi Mountains and assaulted the palace of Ald Roryn, home of Councilor Travelso of House Redoran. The brutal attack left a scar upon the face of the mountains, a black scorch from the burnings and countless dead left desecrated or brutalized beyond recognition. The Cyrods attacked with such savagery that Morrowind will never forget the suffering nor the cries which still are heard among the mountains' winds. Let us remember our families and kinsmen with dignity and honor. Their sacrifice will be remembered eternally.<BR> \r\n<BR> \r\nThe Battle of Kragenmoor<BR> \r\n<BR> \r\nTwo days after the fall of Ald Roryn, the forces of Reman under General Martin Artevian invaded and vandalized the glorious city of Kragenmoor, a citadel upon the mountains. Those who fled were lucky. Those who remained suffered and endured for the sake of Morrowind, hoping that the kingdom of Resdayn would remain ever free from the iron fist of the Cyrodiilic Empire. When Almalexia reached the city, naught was left but the ashes of the dead. May her sacred tears remain ever with us that we might remember not only the sufferings of our brethren but also of the agony that Mother Almalexia felt at the senseless murder of her children and faithful.<BR> \r\n<BR> \r\nGeneral Silendai<BR> \r\n<BR> \r\nAtop the Velothi Mountains once stood the mighty castle of Vor in which resided the Lord of the High Council of Morrowind. When Ald Roryn fell, so did the mountain hall of Vor. Yet, far from the western mountains, General Silendai, servant of Almalexia, awoke from such a premonition of Vor's failing that he rode all morning and night towards the doomed hall. Though his skylamp moaned for breath and rest, the general strove onward towards his destiny. Upon his arrival, he saw the failing walls of the fortress, the insidious Cyrods circling the palace as alits during the ashstorm. With his mighty sword, he parted their numbers to reach the Councilor who sat dead upon his throne. At the very sight, Silendai's strength collapsed for it seemed he had failed. Yet Almalexia came to him and offered her strength and her faith. Now he stood, took up his sword and warder, and defeated the disbelieving forces of Reman. What the Empire did not understand was that Morrowind's spirit cannot be broken. It remains eternal as does its sacred Tribunal, whose destiny is ten times that of Reman's futile Empire.<BR> \r\n\r\n"
+data:
+  weight: 2.0
+  value: 20
+  book_type: Book
+  skill: None
+  enchantment: 0

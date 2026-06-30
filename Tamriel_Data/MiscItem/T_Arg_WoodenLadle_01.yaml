@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Arg_WoodenLadle_01
+name: Wooden Ladle
+script: ''
+mesh: bm\m\bm_misc_wd_ladle_01.nif
+icon: bm\m\bm_m_arg_w_ladle_01.dds
+data:
+  weight: 1.0
+  value: 1
+  flags: ''

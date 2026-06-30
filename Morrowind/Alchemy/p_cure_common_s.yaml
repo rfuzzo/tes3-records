@@ -1,0 +1,20 @@
+type: Alchemy
+flags: ''
+id: p_cure_common_s
+name: Potion of Cure Common Disease
+script: ''
+mesh: m\Misc_Potion_Fresh_01.nif
+icon: m\Tx_potion_fresh_01.tga
+effects:
+- magic_effect: CureCommonDisease
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 1
+  min_magnitude: 1
+  max_magnitude: 1
+data:
+  weight: 0.5
+  value: 20
+  flags: ''

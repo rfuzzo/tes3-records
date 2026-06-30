@@ -1,0 +1,27 @@
+type: Container
+flags: ''
+id: barrel_01_manicky
+name: Barrel
+script: ''
+mesh: o\Contain_barrel_01.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - -20
+  - steel throwing knife
+- - -20
+  - steel throwing star
+- - -1
+  - steel war axe
+- - -1
+  - steel warhammer
+- - -1
+  - steel mace
+- - -1
+  - steel longsword
+- - -1
+  - steel saber
+- - -1
+  - steel shortsword
+- - -1
+  - steel tanto

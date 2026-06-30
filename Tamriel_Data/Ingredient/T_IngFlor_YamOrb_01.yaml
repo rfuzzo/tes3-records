@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_YamOrb_01
+name: Yam Orb
+script: ''
+mesh: tr\n\tr_ing_yamorb.nif
+icon: tr\n\tr_ing_yamorb.dds
+data:
+  weight: 0.2
+  value: 15
+  effects:
+  - Light
+  - RestoreAttribute
+  - FortifyFatigue
+  - WeaknessToMagicka
+  skills:
+  - Block
+  - Block
+  - None
+  - None
+  attributes:
+  - Endurance
+  - Endurance
+  - None
+  - None

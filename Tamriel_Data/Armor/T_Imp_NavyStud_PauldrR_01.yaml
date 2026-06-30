@@ -1,0 +1,25 @@
+type: Armor
+flags: ''
+id: T_Imp_NavyStud_PauldrR_01
+name: Imperial Navy Right Pauldron
+script: ''
+mesh: tr\a\TR_A_NavyStudPauld_gnd.nif
+icon: tr\a\tr_a_navystud_pauld.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: RightUpperArm
+  male_bodypart: T_A_ImpNavyStudPauld_UA
+  female_bodypart: ''
+- biped_object_type: RightForearm
+  male_bodypart: T_A_ImpNavyStudPauld_Fa
+  female_bodypart: ''
+- biped_object_type: RightPauldron
+  male_bodypart: T_A_ImpNavyStudPauld_Cl
+  female_bodypart: ''
+data:
+  armor_type: RightPauldron
+  weight: 3.0
+  value: 22
+  health: 150
+  enchantment: 40
+  armor_rating: 10

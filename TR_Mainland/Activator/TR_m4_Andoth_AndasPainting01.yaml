@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m4_Andoth_AndasPainting01
+name: Sathasa Andas
+script: TR_m4_AndasPaint_scp
+mesh: tr\m\TR_M_Painting_Wife.nif

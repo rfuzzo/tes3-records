@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_EbonTowerLegionNail05
+name: Fort Darius
+script: TR_m3_act_OE_LegHQnails_scpt
+mesh: sky\m\sky_misc_nails_01.nif

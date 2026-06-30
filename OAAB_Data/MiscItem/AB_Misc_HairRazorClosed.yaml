@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_HairRazorClosed
+name: Razor
+script: ''
+mesh: OAAB\m\hair_razor_clz.nif
+icon: OAAB\m\hair_razor_clz.dds
+data:
+  weight: 0.5
+  value: 2
+  flags: ''

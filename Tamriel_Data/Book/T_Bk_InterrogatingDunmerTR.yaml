@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_InterrogatingDunmerTR
+name: Interrogating Dunmer
+script: T_ScBook_SpWeaknessFire
+mesh: m\Text_Quarto_open_01.nif
+icon: m\Tx_quarto_open_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>\r\nInterrogating Dunmer<BR>\r\n<BR>\r\nThe prideful and pompous Dunmer are harder nuts to crack than some races, but as with all others they yield when reasonable pressure is applied. The true test is discovering what constitutes \"reasonable pressure\" for a given mer. For the best and quickest results, one must attack the Dunmer where the foolish mer reckons his race strong.<BR>\r\n<BR>\r\nThe Dark Elves certainly seem to act as though pride is one of their strengths. Turning their arrogance against them can work wonders. For example, Dunmer think themselves the most enlightened of races, with a firm grounding in a false superstition. The Ashlanders - those who do not indulge in the popular superstition - find themselves at odds with Dunmer society. The interrogator working these facts to their advantage might threaten to give a traditional Ashlander tattoo to a boastful House Dunmer.<BR>\r\n<BR>\r\nContinuing along that vein, House Dunmer are especially proud of themselves and their particular House. Each of the Houses hold a reasonable contempt for the others, to rather ridiculous extremes. When interrogating a stubborn House Dunmer, one might procure armor of a different House, and threaten to force the Dunmer to wear it just before releasing him into the welcome arms of his very understanding brothers.<BR>\r\n<BR>\r\nIf the above methods fail, or the interrogator finds himself dealing with an Ashlander, other means might be employed. One must understand that direct, physical action should not be the first course, but when other options have exhausted themselves, one must do what one must do.<BR>\r\n<BR>\r\nThe Dunmer are highly resilient to the touch of flame, and as a result, they do not properly fear it as other races do. Therefore, exposing them to the full agony that burns can produce would be an almost wholly new sort of pain for a Dunmer. Unexpectedly intense, unexpectedly hurtful, it would be a new sensation. Subjects are much more resistant to familiar forms to interrogation than new and unusual methods. By casting a powerful weakness on them, and holding a torch to the soles of their feet, most Dunmer will not hesitate to volunteer information that would incriminate their own mothers.<BR>\r\n<BR>\r\nOf course, the examples outlined here are just examples, and an interrogator of any skill will invent his own methods, or use old ones in new ways. This manuscript should merely be considered a starting point, rather than a guide book. <BR>\r\n"
+data:
+  weight: 4.0
+  value: 250
+  book_type: Book
+  skill: None
+  enchantment: 100

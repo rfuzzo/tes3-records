@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m3_RD_key_GlassHall
+name: Roa Dyr Glass Hall Key
+script: ''
+mesh: TR\m\TR_Key_DD19.NIF
+icon: TR\m\tr_key_dd19.dds
+data:
+  weight: 0.0
+  value: 300
+  flags: KEY

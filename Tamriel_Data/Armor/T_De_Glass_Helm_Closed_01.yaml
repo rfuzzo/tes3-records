@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_De_Glass_Helm_Closed_01
+name: Glass Closed Helm
+script: ''
+mesh: TR\a\tr_a_glass_helm_closed.nif
+icon: TR\a\tr_a_glass_helm_closed.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Head
+  male_bodypart: T_A_DeGlassHelmClosed01_Hd
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 3.0
+  value: 13600
+  health: 650
+  enchantment: 165
+  armor_rating: 50

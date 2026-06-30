@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_HopperAntler_01
+name: Hopper Antler
+script: ''
+mesh: tr\n\tr_ing_HopperAnthler.nif
+icon: tr\n\tr_ing_HopperAntler.dds
+data:
+  weight: 0.2
+  value: 10
+  effects:
+  - Jump
+  - DamageAttribute
+  - ResistParalysis
+  - None
+  skills:
+  - None
+  - Block
+  - None
+  - None
+  attributes:
+  - None
+  - Personality
+  - None
+  - None

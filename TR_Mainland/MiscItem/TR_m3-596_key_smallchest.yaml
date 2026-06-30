@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m3-596_key_smallchest
+name: Small Copper Key
+script: ''
+mesh: tr\m\tr_key_dd03.nif
+icon: tr\m\tr_key_dd03.dds
+data:
+  weight: 0.0
+  value: 1
+  flags: KEY

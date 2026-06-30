@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Mw_FloraDP_SStrLeaf06
+name: Saltstrap Leaf
+script: ''
+mesh: tr\o\tr_f_sstrap_leaf06.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - T_Mw_Random_FlorSaltstrapLeaf

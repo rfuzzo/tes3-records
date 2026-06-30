@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_MwDe_Var_Cr1WpnSmith
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - -5
+  - T_MwDe_Random_Weapons

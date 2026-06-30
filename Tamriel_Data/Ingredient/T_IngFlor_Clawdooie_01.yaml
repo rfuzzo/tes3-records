@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_Clawdooie_01
+name: Clawdooie
+script: ''
+mesh: els\n\els_ing_clawdooie.nif
+icon: els\n\els_ing_clawdooie.dds
+data:
+  weight: 1.5
+  value: 5
+  effects:
+  - RestoreFatigue
+  - WeaknessToNormalWeapons
+  - FortifyAttribute
+  - FortifyAttackBonus
+  skills:
+  - None
+  - None
+  - Block
+  - None
+  attributes:
+  - None
+  - None
+  - Intelligence
+  - None

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m7_NVA8_De_StonewarePot_01
+name: Stoneware Pot
+script: TR_m7_NVA_Stage8_Persist
+mesh: TR\m\tr_misc_stn_pot_01.nif
+icon: TR\m\tr_misc_stn_pot_01.dds
+data:
+  weight: 2.0
+  value: 8
+  flags: ''

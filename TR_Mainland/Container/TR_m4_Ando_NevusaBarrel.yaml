@@ -1,0 +1,9 @@
+type: Container
+flags: PERSISTENT
+id: TR_m4_Ando_NevusaBarrel
+name: Barrel
+script: TR_m4_Ando_NevusaBarrelScript
+mesh: o\Contain_barrel_01.NIF
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory: []

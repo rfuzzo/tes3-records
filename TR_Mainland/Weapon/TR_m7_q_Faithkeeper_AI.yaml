@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m7_q_Faithkeeper_AI
+name: Faithkeeper
+script: TR_m7_q_Faithkeeper_AI_sc
+mesh: TR\w\TR_w_ebony_claymore.nif
+icon: TR\w\TR_w_ebony_claymore.tga
+enchanting: TR_m7_Q_Faithkeeper_en
+data:
+  weight: 62.0
+  value: 40000
+  weapon_type: LongBladeTwoClose
+  health: 4900
+  speed: 1.25
+  reach: 1.0
+  enchantment: 180
+  chop_min: 5
+  chop_max: 50
+  slash_min: 5
+  slash_max: 45
+  thrust_min: 5
+  thrust_max: 30
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

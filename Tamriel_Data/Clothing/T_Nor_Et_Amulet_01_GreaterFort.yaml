@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Nor_Et_Amulet_01_GreaterFort
+name: Amulet of Greater Fortitude
+script: ''
+mesh: sky\c\sky_amulet_extrvg_01.nif
+icon: sky\c\tx_amulet_extrvg_01.dds
+enchanting: T_Use_GreaterFortitude
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 210
+  enchantment: 600

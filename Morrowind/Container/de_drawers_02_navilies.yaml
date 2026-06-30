@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: de_drawers_02_navilies
+name: Drawers
+script: ''
+mesh: o\Contain_De_Drawers_02.NIF
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - common_glove_left_01
+- - 2
+  - common_glove_right_01
+- - 3
+  - common_robe_03
+- - 3
+  - common_robe_02_r
+- - 5
+  - common_shirt_02_r

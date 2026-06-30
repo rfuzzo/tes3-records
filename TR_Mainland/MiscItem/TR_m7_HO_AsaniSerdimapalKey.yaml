@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m7_HO_AsaniSerdimapalKey
+name: Asani Serdimapal's Key
+script: ''
+mesh: TR\m\TR_Key_DD08.NIF
+icon: TR\m\TR_Key_DD08.dds
+data:
+  weight: 0.0
+  value: 25
+  flags: KEY

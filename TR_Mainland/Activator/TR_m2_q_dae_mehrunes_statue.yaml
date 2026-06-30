@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m2_q_dae_mehrunes_statue
+name: Statue of Mehrunes Dagon
+script: TR_m7_q_MT_purgeshrine_scr
+mesh: x\Ex_DAE_MehrunesDagon.NIF

@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_Rga_Set_Lampstreet01_512
+name: ''
+script: ''
+mesh: hf\l\hf_l_rga_StrLamp01.nif
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 512
+  color:
+  - 245
+  - 140
+  - 40
+  - 0
+  flags: DYNAMIC | FIRE

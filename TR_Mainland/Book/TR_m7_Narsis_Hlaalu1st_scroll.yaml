@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_Narsis_Hlaalu1st_scroll
+name: Rudiments of the First Family
+script: ''
+mesh: m\Text_Scroll_open_01.nif
+icon: m\Tx_scroll_open_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>\r\nIn this House, our revered ancestors, consecrated under the banner of Saint Veloth, laid the cornerstone of Narsis City and bore up its lofty citadels and dignified sepulchers.<BR>\r\n<BR>\r\n"
+data:
+  weight: 3.0
+  value: 10
+  book_type: Scroll
+  skill: None
+  enchantment: 0

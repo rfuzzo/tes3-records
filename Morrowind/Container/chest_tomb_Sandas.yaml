@@ -1,0 +1,21 @@
+type: Container
+flags: BLOCKED
+id: chest_tomb_Sandas
+name: A nobleman's chest
+script: BILL_GTs_Cursed_Chest
+mesh: o\Contain_De_Chest_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - orcish_bracer_right
+- - 1
+  - orcish_bracer_left
+- - 1
+  - orcish_cuirass
+- - 1
+  - orcish_helm
+- - 1
+  - Potion_Cyro_Whiskey_01
+- - 25
+  - Gold_001

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m4_SavrethiEmptyGreef
+name: Empty Greef Bottle
+script: ''
+mesh: n\potion_comberry_brandy_01.nif
+icon: n\tx_comberry_brandy_01.dds
+data:
+  weight: 1.0
+  value: 1
+  flags: ''

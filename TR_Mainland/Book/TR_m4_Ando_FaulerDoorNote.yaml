@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_Ando_FaulerDoorNote
+name: Announcement
+script: TR_m4_Ando_FaulerDoorNoteScript
+mesh: m\Text_Parchment_02.NIF
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThis establishment is closed until further notice. Its owner has been sentenced to prison for a serious breach in conduct of business, by repeatedly misleading her customers into buying spoiled potions.<BR>\r\n<BR>\r\nTrespassing into this establishment will be considered a crime, until its fate has been decided by the authorities.<BR>\r\n<BR>\r\nSerjo Tholer Andas<BR>\r\n<BR>"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

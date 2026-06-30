@@ -1,0 +1,21 @@
+type: Container
+flags: ''
+id: TR_m3-461_de_p_chest
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_De_IndBonemold_Boots_01
+- - 1
+  - T_De_IndBonemold_Greaves_01
+- - 1
+  - T_Mw_Random_ArmorsHelmIndoril
+- - 1
+  - T_Mw_Random_ArmorsShieldIndoril
+- - 1
+  - T_Mw_Random_ClothingShirtsCmDun
+- - 1
+  - repair_master_01

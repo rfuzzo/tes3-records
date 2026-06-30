@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_MARK_Ns_HH_Player
+name: Player
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: pi\m\pi_m_cnq_ngopta.dds
+enchanting: ''
+text: "The player will be moved here if they attempt to recall into the Calaril Comet after the flashgrit detonates inside it in TR_m7_Alvynu_7\r\n\r\nPositionCell in TR_m7_HH_Alvynu_7_RecallBlk_sc"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

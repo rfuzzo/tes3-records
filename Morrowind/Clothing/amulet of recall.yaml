@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: amulet of recall
+name: Amulet of Recall
+script: ''
+mesh: c\Amulet_Extravagant_1.NIF
+icon: c\tx_amulet_extrav1.tga
+enchanting: recall_en
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 194
+  enchantment: 600

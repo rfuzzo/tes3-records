@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: T_Cnq_Flora_DriftPuf_05
+name: <Depreciated>
+script: ''
+mesh: td\td_help_deprec_01.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory: []

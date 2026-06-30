@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_WoodPlatter_d01
+name: Platter
+script: ''
+mesh: tr\m\tr_misc_com_w_platter.nif
+icon: tr\m\tr_misc_com_w_platter.dds
+data:
+  weight: 4.0
+  value: 3
+  flags: ''

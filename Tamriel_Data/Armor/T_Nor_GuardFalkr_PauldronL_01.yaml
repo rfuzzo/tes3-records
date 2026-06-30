@@ -1,0 +1,22 @@
+type: Armor
+flags: ''
+id: T_Nor_GuardFalkr_PauldronL_01
+name: Falkreath Guard Left Pauldron
+script: ''
+mesh: sky\a\sky_a_falkr_pauld_gnd.nif
+icon: sky\a\sky_falkr_pauldron.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: LeftForearm
+  male_bodypart: T_A_NorGuardFalkrPauldr01_Fa
+  female_bodypart: ''
+- biped_object_type: LeftUpperArm
+  male_bodypart: T_A_NorGuardFalkrPauldr01_UA
+  female_bodypart: ''
+data:
+  armor_type: LeftPauldron
+  weight: 8.0
+  value: 125
+  health: 150
+  enchantment: 16
+  armor_rating: 15

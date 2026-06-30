@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_PlayNineholesSpawner_01
+name: Nine-holes Spawner01
+script: T_ScObj_NineholesSpawn_01
+mesh: tr\m\tr_misc_tile_red_01.nif
+icon: TR\m\tr_misc_tile_red_01.dds
+data:
+  weight: 0.0
+  value: 0
+  flags: ''

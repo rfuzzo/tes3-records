@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_Blknet_01
+name: Blacknettle
+script: ''
+mesh: sky\n\sky_ingred_blknet_01.nif
+icon: sky\n\sky_ingr_blkNettle01.dds
+data:
+  weight: 0.1
+  value: 1
+  effects:
+  - Blind
+  - DrainAttribute
+  - DrainHealth
+  - ResistCommonDisease
+  skills:
+  - None
+  - Block
+  - None
+  - None
+  attributes:
+  - None
+  - Intelligence
+  - None
+  - None

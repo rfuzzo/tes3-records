@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_i2_454_threeseals
+name: Three Seals Amulet
+script: ''
+mesh: c\Amulet_Common_3.nif
+icon: c\tx_amulet_com3.dds
+enchanting: TR_i2_454_threesealsenchantment
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 1
+  enchantment: 20

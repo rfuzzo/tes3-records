@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_Scales_01
+name: Scales
+script: ''
+mesh: TR\m\TR_misc_de_scales_01.nif
+icon: TR\m\TR_misc_de_scales_01.dds
+data:
+  weight: 12.0
+  value: 6
+  flags: ''

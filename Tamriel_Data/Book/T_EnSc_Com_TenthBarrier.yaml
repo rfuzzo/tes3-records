@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_EnSc_Com_TenthBarrier
+name: Scroll of The Tenth Barrier
+script: ''
+mesh: m\text_scroll_01.nif
+icon: m\tx_scroll_open_01.dds
+enchanting: T_Once_TenthBarrier
+text: <DIV ALIGN="center"><FONT COLOR="000000" SIZE="2" FACE="Daedric">THE TENTH BARRIER BREAKS YOU!</FONT><BR>
+data:
+  weight: 0.2
+  value: 1284
+  book_type: Scroll
+  skill: None
+  enchantment: 0

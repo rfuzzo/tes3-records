@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_HH_SarusLedger
+name: Sarus Savrethi's Ledger
+script: TR_m4_HH_SarusLedgerScript
+mesh: pc\m\PC_bk_Book_01.nif
+icon: pc\m\pc_bk_book_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n[This book describes many deliveries of greef from the distillery and related transactions. In the last page, dubious transactions involving someone named Soron Nadril show up frequently. The very last entries read:]<BR>\r\n<BR>\r\nThree crates for the Hlaalu buyer in Bal Foyen -- 750 septims<BR>\r\nSoron Nadril's share (will stop by Dunusi tonight) -- 120 septims<BR>"
+data:
+  weight: 2.0
+  value: 2
+  book_type: Book
+  skill: None
+  enchantment: 0

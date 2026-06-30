@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m7_q_HH_SeventhFam_SeydaNeen
+name: Seyda Neen Wreckage Shard
+script: ''
+mesh: n\Ingred_Raw_Glass_01.nif
+icon: n\Tx_RawGlass.tga
+data:
+  weight: 2.0
+  value: 650
+  flags: ''

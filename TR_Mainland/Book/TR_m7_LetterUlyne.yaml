@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_LetterUlyne
+name: Letter from Ulyne Rothalen
+script: ''
+mesh: m\Text_Parchment_02.nif
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<BR>\r\nDear Breynard,<BR>\r\n<BR>\r\nI'm writing you this letter because I believe that things between us have gone too far. Although I cherish our time together, I cannot continue with this any further. There are some things that I have to tell you, for I believe you're not fully aware of what you're dealing with.<BR>\r\n<BR>\r\nFirstly, you have to understand that a Dunmer woman like is not the same as the women from your homeland. We have a very strong connection to our homeland, our family, our faith and indeed our husbands. Our escapades, the fact that they were so public tarnished his honor and so they tarnished mine as well. I have obligations towards him that I need to fulfill as a Dunmer.<BR>\r\n<BR>\r\nSecondly, you have to understand that I cannot move away from Myron. Although he perhaps didn't treat me right, he's still my husband and we provide each other the comfort that we need in our lives. It is always a terrible mistake to expose such affairs to the public, thus bringing shame upon your partner.<BR>\r\n<BR>\r\nBecause of all this, I've decided to break up our affair. The differences between both of our cultures are irreconcilable. Although you have a special place in my heart, it's sometimes better to let go. I'm sure that you'll find a fine Breton lady in High Rock once you get back home.<BR>\r\n<BR>\r\nI hope that you will forget me soon enough.<BR>\r\n<BR>\r\nUlyne Rothalen<BR>\r\n"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

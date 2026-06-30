@@ -1,0 +1,4 @@
+type: Static
+flags: PERSISTENT
+id: TempleMarker
+mesh: Marker_Temple.nif

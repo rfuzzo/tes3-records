@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: T_Imp_Furn_Cabinet_01
+name: File Cabinet
+script: ''
+mesh: pc\o\pc_imp_furn_cabinet.nif
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory: []

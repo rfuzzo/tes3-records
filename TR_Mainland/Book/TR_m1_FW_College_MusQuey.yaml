@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_FW_College_MusQuey
+name: Quey Canoe
+script: ''
+mesh: m\text_parchment_01.nif
+icon: m\tx_parchment_01.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nQuey Canoe<BR> <BR>\r\n<DIV ALIGN=\"LEFT\">\r\nThe Cathnoquey archipelago is the best known of the Padomaic nations, being the nearest to Tamriel. The two peoples of the isles -- known to outsiders as the Keptu-Quey and Chimeri-Quey -- live in parallel societies; the men-of-Keptu largely live on the land, while the Chimer elves live aboard nomadic flotillas at sea. The two races make no distinction between themselves, and both identify simply as \"Quey\". This half-scale model of a Quey canoe is a typical design shared by both the Keptu-Quey and Chimeri-Quey. Boats like these are commonly used for fishing, scouting, or transport between the isles and the flotilla cities.\r\n<BR>\r\nCathnoquey became Emperor Uriel V's second conquest in 3E 276. The subsequent emergence of the Wasabi Run and the formalization of territorial authority led to an explosion in trade between the archipelago and the rest of the Empire, particularly with Morrowind and Skyrim. This model canoe was generously donated by the Cathnoquey Mission at Ember Keep upon the founding of the Museum.<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

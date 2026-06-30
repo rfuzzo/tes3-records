@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_BKGen_CourtSummons01
+name: Court Summons
+script: ''
+mesh: pc\m\pc_bk_letter_02.nif
+icon: pc\m\pc_m_letter_02.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n[An offical letter informing the recipient they must appear at court on a specific date.] <BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

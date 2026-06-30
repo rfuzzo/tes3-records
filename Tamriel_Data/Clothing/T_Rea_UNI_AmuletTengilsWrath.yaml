@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Rea_UNI_AmuletTengilsWrath
+name: Amulet of Tengil's Wrath
+script: ''
+mesh: sky\c\sky_amulet_rm_01.nif
+icon: sky\c\tx_amulet_rm_01.dds
+enchanting: T_Const_TengilsWrath
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 2.0
+  value: 8000
+  enchantment: 200

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_AndothDweRuinBed02
+name: Bedroll
+script: TR_m4_AndothDweBed02_scp
+mesh: pc\f\pc_active_ex_bedroll.nif

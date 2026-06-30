@@ -1,0 +1,20 @@
+type: Alchemy
+flags: ''
+id: potion_t_bug_musk_01
+name: Telvanni Bug Musk
+script: ''
+mesh: n\Potion_T_bug_musk_01.NIF
+icon: n\Tx_T_bug_musk_01.tga
+effects:
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Personality
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 40
+  max_magnitude: 40
+data:
+  weight: 1.5
+  value: 100
+  flags: ''

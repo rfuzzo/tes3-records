@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_SilverWareDish_02
+name: Silverware Dish
+script: ''
+mesh: TR\m\TR_misc_silv_dish_02.NIF
+icon: TR\m\TR_misc_silv_dish_02.dds
+data:
+  weight: 4.5
+  value: 25
+  flags: ''

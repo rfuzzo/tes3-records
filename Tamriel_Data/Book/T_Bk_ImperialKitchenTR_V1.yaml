@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_ImperialKitchenTR_V1
+name: The Imperial Kitchen I
+script: ''
+mesh: TR\m\TR_book_closed_i08_AY.nif
+icon: TR\m\TR_book_closed_i08_AY.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe Imperial Kitchen I<BR>\r\nby Arruntius Horatia<BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nImperial Minced Meat<BR>\r\n<BR>\r\n2 handfuls of minced meat\r\n1 bread soaked in white wine\r\n1/2 teaspoon of freshly ground pepper\r\n1/2 teaspoon of salt\r\na cup of white wine\r\nsome stone-pine kernels\r\ngreen peppercorns<BR>\r\n<BR>\r\nMix the meat with the soaked bread. Grind the spices and mix them into the meat. Form balls the size of a small fist and pat them flat. Put the stone-pine kernels and the green peppercorns on the pieces of meat and grill them.<BR>\r\n<BR>\r\nImperial Fish<BR>\r\n<BR>\r\n2 fish\r\nA handful of raisins\r\n1/2 teaspoon of freshly ground pepper\r\n3 teaspoons of dried saltrice\r\n2 small, diced onions\r\n1 cup of oil\r\n1/2 teaspoon of salt<BR>\r\n<BR>\r\nCut off the head from the fish. Then remove the fins and cut the fish in half to remove the spines.\r\nMix the raisins, pepper, saltrice, onion, wine, salt and oil together and put into a pot. Cook it with the fish fillets until done.<BR>\r\n<BR>\r\nImperial Chicken<BR>\r\n<BR>\r\n1 fresh chicken\r\n2 cup of oil\r\n4 cups of white wine\r\n2 teaspoons of salt\r\npepper\r\ncoriander\r\nsaltrice<BR>\r\n<BR>\r\nPut the chicken in a pot with lid and moisten it with the oil and wine. Add the coriander, salt, and saltrice. Then cook it on a high fire.\r\nSprinkle pepper before serving.<BR>"
+data:
+  weight: 2.0
+  value: 30
+  book_type: Book
+  skill: None
+  enchantment: 100

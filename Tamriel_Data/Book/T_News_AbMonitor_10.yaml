@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_AbMonitor_10
+name: BRINA CROSS MERCHANT SLAIN
+script: T_ScNews_Bellman_Paper
+mesh: pc\m\pc_text_note_anv_news.nif
+icon: pc\m\pc_text_note_anv_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"PC\\pc_abmonitor.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nBRINA CROSS MERCHANT SLAIN<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nArahn Kimoi, a Brina Cross merchant with ties to the Sutch trade markets, has been killed in his home by an unknown assailant. Authorities report that Kimoi had been known to ply a contentious trade and occasionally found himself in disputes with other West Colovian businesspeople, but sources claim that these disputes were never violent in nature. The perpetrator of this grisly crime remains unknown, as is their motive.<BR><BR>\r\nNerilius Ludos, captain of the Brina Cross guard, has assured the Monitor that a full investigation is underway. Anyone with information on Arahn Kimoi's untimely death is asked to report to Captain Ludos directly as soon as possible.<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

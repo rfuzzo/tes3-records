@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_OfFjoriAndHolgirSHOTN
+name: Of Fjori and Holgeir
+script: ''
+mesh: Sky\m\Sky_Book_Saga_06.nif
+icon: Sky\m\Tx_Book_Saga_06.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nOf Fjori and Holgeir<BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nIn her 29th summer of life, Fjori the huntress met the warlord Holgeir on the field of battle. None remember what they fought over, for their love to come was so great it overshadowed all rivalries or disputes. They fought to a standstill, as their followers looked on - till her sword broke his axe and his shield dulled her blade and all could see that they were equals.<BR>\r\n<BR>\r\nAs the Eagle finds its mates, so too did Fjori find hers in Holgeir, and a time of peace came to the clans of the forest. But as the summer's warmth gives way to winter's chill, so too would this peace pass.<BR>\r\n<BR>\r\nBut the Snake came and bit Holgeir, its venom seeping deep into the wound.<BR>\r\n<BR>\r\nA Whale greeted Fjori's view as she came over the snow-covered mountains to the coast.<BR>\r\n<BR>\r\nShe obtained an elixir from the Akavir and returned to the forest in haste.<BR>\r\n<BR>\r\nThough Holgeir could smell the winds of Sovngarde, she gave him the elixir and he was cured in an instant.<BR>\r\n<BR>\r\nBut the Snake bit Fjori as she poured the last drop into Holgeir's mouth, and fatigued from her journey, she joined the ancestors immediately.<BR>\r\n<BR>\r\nHolgeir's grief was such that he built a tomb and upon completion, took his own life that he might rejoin her.<BR>\r\n<BR>"
+data:
+  weight: 3.0
+  value: 30
+  book_type: Book
+  skill: None
+  enchantment: 0

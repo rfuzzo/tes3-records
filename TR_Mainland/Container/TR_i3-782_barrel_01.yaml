@@ -1,0 +1,29 @@
+type: Container
+flags: ''
+id: TR_i3-782_barrel_01
+name: Barrel
+script: ''
+mesh: o\Contain_barrel_01.NIF
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - Misc_Inkwell
+- - 2
+  - T_Com_Brush_01
+- - 5
+  - T_De_StonewarePlate_01
+- - 5
+  - T_De_StonewarePlate_03
+- - 10
+  - misc_com_wood_fork
+- - 10
+  - misc_com_wood_knife
+- - 10
+  - misc_com_wood_spoon_01
+- - 2
+  - misc_de_goblet_02
+- - 4
+  - misc_de_goblet_06
+- - 2
+  - misc_flask_01

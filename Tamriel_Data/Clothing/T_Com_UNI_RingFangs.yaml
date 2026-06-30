@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Com_UNI_RingFangs
+name: Ring of Fangs
+script: ''
+mesh: hr\c\hr_c_ring_fangs.nif
+icon: hr\c\hr_c_ring_fangs.dds
+enchanting: T_Const_RingFangs
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 4000
+  enchantment: 0

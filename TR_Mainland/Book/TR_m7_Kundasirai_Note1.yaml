@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_Kundasirai_Note1
+name: Note
+script: ''
+mesh: tr\tr_note_pin.nif
+icon: default icon.dds
+enchanting: ''
+text: Replace model with queen model when it's available
+data:
+  weight: 0.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 0

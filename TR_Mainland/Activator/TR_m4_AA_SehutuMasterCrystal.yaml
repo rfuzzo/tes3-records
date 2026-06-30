@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m4_AA_SehutuMasterCrystal
+name: Master Bel-Betu
+script: TR_m4_AA_MasterSehutu_Script
+mesh: tr\f\tr_act_belbetu_cryst_1.nif

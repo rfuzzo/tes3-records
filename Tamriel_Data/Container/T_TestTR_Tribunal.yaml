@@ -1,0 +1,129 @@
+type: Container
+flags: ''
+id: T_TestTR_Tribunal
+name: Chest of Tribunal Stuff
+script: ''
+mesh: o\Contain_chest_large_01.NIF
+encumbrance: 5000.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - DarkBrotherhood Boots
+- - 1
+  - DarkBrotherhood Cuirass
+- - 1
+  - DarkBrotherhood Helm
+- - 1
+  - DarkBrotherhood gauntlet_L
+- - 1
+  - DarkBrotherhood gauntlet_R
+- - 1
+  - DarkBrotherhood greaves
+- - 1
+  - DarkBrotherhood pauldron_L
+- - 1
+  - DarkBrotherhood pauldron_R
+- - 1
+  - Ebony Scimitar
+- - 1
+  - Ebony Scimitar_her
+- - 1
+  - Helsethguard_Helmet
+- - 1
+  - Helsethguard_boots
+- - 1
+  - Helsethguard_cuirass
+- - 1
+  - Helsethguard_gauntlet_left
+- - 1
+  - Helsethguard_gauntlet_right
+- - 1
+  - Helsethguard_greaves
+- - 1
+  - Helsethguard_pauldron_left
+- - 1
+  - Helsethguard_pauldron_right
+- - 1
+  - Indoril_Almalexia_Cuirass
+- - 1
+  - Indoril_Almalexia_Greaves
+- - 1
+  - Indoril_Almalexia_Pauldron_L
+- - 1
+  - Indoril_Almalexia_Pauldron_R
+- - 1
+  - Indoril_Almalexia_boots
+- - 1
+  - Indoril_Almalexia_gauntlet_L
+- - 1
+  - Indoril_Almalexia_gauntlet_R
+- - 1
+  - Indoril_Almalexia_helmet
+- - 1
+  - Indoril_Almalexia_shield
+- - 1
+  - Indoril_MH_Guard_Cuirass
+- - 1
+  - Indoril_MH_Guard_Greaves
+- - 1
+  - Indoril_MH_Guard_Pauldron_L
+- - 1
+  - Indoril_MH_Guard_Pauldron_R
+- - 1
+  - Indoril_MH_Guard_boots
+- - 1
+  - Indoril_MH_Guard_gauntlet_L
+- - 1
+  - Indoril_MH_Guard_gauntlet_R
+- - 1
+  - Indoril_MH_Guard_helmet
+- - 1
+  - Indoril_MH_Guard_shield
+- - 1
+  - adamantium boots
+- - 1
+  - adamantium_axe
+- - 1
+  - adamantium_bracer_left
+- - 1
+  - adamantium_bracer_right
+- - 1
+  - adamantium_claymore
+- - 1
+  - adamantium_cuirass
+- - 1
+  - adamantium_greaves
+- - 1
+  - adamantium_helm
+- - 1
+  - adamantium_mace
+- - 1
+  - adamantium_pauldron_left
+- - 1
+  - adamantium_pauldron_right
+- - 1
+  - adamantium_shortsword
+- - 1
+  - adamantium_shortsword_db
+- - 1
+  - adamantium_spear
+- - 1
+  - addamantium_helm
+- - 100
+  - centurion_projectile_dart
+- - 100
+  - centurion_projectile_dart_shock
+- - 1
+  - ebony dart_db_unique
+- - 1
+  - goblin_club
+- - 1
+  - goblin_shield
+- - 1
+  - goblin_sword
+- - 100
+  - her dart
+- - 1
+  - mazed_band
+- - 1
+  - mazed_band_end

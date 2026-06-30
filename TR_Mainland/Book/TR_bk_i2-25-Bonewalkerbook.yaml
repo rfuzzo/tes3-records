@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_bk_i2-25-Bonewalkerbook
+name: Bonewalker Preparation
+script: ''
+mesh: TR\m\TR_book_closed_i03_AY.nif
+icon: TR\m\TR_book_closed_i03_AY.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This dusty tome contains detailed directions written in Dunmeri. They appear to be instructions on how to create bonewalkers and other undead guardians according to Temple doctrine and also list strict guidelines on what separates Temple-sanctioned ritual from blasphemous necromancy.] <BR>"
+data:
+  weight: 3.0
+  value: 100
+  book_type: Book
+  skill: None
+  enchantment: 0

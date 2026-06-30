@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m7_Ns_FG_3_EggCrate
+name: Crate
+script: TR_m7_Ns_FG_3_ScCaravan
+mesh: tr\o\tr_cont_crate_eec_01.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 10
+  - random_kwama egg

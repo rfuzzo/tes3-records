@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_HH_Alvynu_5_Ambush
+name: ''
+script: TR_m7_HH_Alvynu_5_Ambush_sc
+mesh: EditorMarker.NIF

@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_Com_Var_CandleBlueBlue02_177
+name: ''
+script: ''
+mesh: pc\l\pc_candle_blueblf02.nif
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 177
+  color:
+  - 28
+  - 158
+  - 255
+  - 0
+  flags: DYNAMIC | FIRE | FLICKER_SLOW

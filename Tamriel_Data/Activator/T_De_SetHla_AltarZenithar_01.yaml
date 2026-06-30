@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_De_SetHla_AltarZenithar_01
+name: Altar of Zenithar
+script: T_ScObj_ShrineHlaaluZenithar
+mesh: tr\f\tr_furn_hla_altar_zen.nif

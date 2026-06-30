@@ -1,0 +1,17 @@
+type: Clothing
+flags: ''
+id: expensive_skirt_02
+name: Expensive Skirt
+script: ''
+mesh: c\C_Skirt_expensive_2_GND.NIF
+icon: c\tx_skirt_expensive_2.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: Skirt
+  male_bodypart: c_skirt_expensive_2
+  female_bodypart: ''
+data:
+  clothing_type: Skirt
+  weight: 2.0
+  value: 15
+  enchantment: 75

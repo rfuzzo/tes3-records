@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: TR_m3-246_cont_pottery2
+name: Crate
+script: ''
+mesh: o\Contain_crate_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 4
+  - misc_com_redware_bowl_01
+- - 6
+  - misc_com_redware_plate
+- - 1
+  - misc_com_redware_vase

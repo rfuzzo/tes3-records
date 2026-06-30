@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: TR_m3_Kha_Whisp_Flame
+name: ''
+script: TR_m3_Kha_Whisp_Flame_sc
+mesh: i\BM_KA_bluefire.NIF
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 384
+  color:
+  - 2
+  - 155
+  - 172
+  - 0
+  flags: PULSE_SLOW

@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m2_kmlz_King_ObjPt02
+name: ''
+script: Sound_Power_Thrum
+mesh: i\act_dwe_gyro00.NIF

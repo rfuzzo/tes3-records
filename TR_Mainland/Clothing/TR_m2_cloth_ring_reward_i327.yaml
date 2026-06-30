@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m2_cloth_ring_reward_i327
+name: Ring of Llevran
+script: TR_m2_script_rew_i327
+mesh: c\C_Ring_extravagant_2.NIF
+icon: c\tx_ring_extravagant02.tga
+enchanting: TR_m2_ench_Reward_i327
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 16320
+  enchantment: 600

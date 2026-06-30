@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_De_SetVeloth_Gourd_01
+name: ''
+script: T_ScSound_VelothiGourdHarp
+mesh: TR\f\TR_furn_v_gourd01.nif

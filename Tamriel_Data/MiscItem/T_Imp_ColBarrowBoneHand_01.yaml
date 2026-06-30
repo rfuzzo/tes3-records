@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_ColBarrowBoneHand_01
+name: Colovian Relic
+script: ''
+mesh: pc\m\pc_misc_cbar_hand.nif
+icon: pc\m\pc_misc_cbar_hand.dds
+data:
+  weight: 3.0
+  value: 70
+  flags: ''

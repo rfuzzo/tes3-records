@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_q_LetterToSodreru
+name: Letter to Sodreru
+script: TR_m7_q_LetterToSodreru_sc
+mesh: m\Text_Parchment_02.NIF
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nSodreru Hlaalu,<BR>\r\n<BR>\r\nNarsis is a key commercial hub. Your position there is extremely important to the Sixth Family, as is the maintenance of our business relations in the city. As such, your request to be transferred elsewhere is denied. However, I am not unsympathetic to the trials of being so far from most of your family. I have included these gifts to help ease your burdens and remind you that you are still a member of the Sixth Family despite the distance.\r\n<BR>\r\nDendras Hlaalu, Patriarch of the Sixth Family of Great House Hlaalu<BR>\r\n"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

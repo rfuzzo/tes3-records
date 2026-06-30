@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_leyawiinstone_i3-591-imp
+name: Inscribed Stone
+script: TR_m3_OE_KaladShrine_scp
+mesh: tr\f\TR_furn_imp_stoneplaq.nif

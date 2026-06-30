@@ -1,0 +1,19 @@
+type: Container
+flags: BLOCKED
+id: contain_corpse_Pop00
+name: Corpse of Pop Je
+script: Sound_Flies
+mesh: o\contain_corpse00.NIF
+encumbrance: 120.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - amulet_Pop00
+- - 1
+  - expensive_ring_02
+- - 1
+  - ring_phynaster_unique
+- - 1
+  - devote_bone_Pop00
+- - 25
+  - Gold_001

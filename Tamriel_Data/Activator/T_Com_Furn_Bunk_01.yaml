@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Com_Furn_Bunk_01
+name: Bed
+script: Bed_Standard
+mesh: sky\f\sky_act_com_bunk_01.nif

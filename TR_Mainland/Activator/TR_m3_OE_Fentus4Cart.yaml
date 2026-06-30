@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m3_OE_Fentus4Cart
+name: ''
+script: TR_m3_OE_TG_CartSCP
+mesh: tr\f\tr_furn_wood_wagon.nif

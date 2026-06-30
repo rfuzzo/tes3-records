@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_WarmthTR
+name: Warmth
+script: ''
+mesh: TR\m\TR_book_closed_i02_AY.nif
+icon: TR\m\TR_book_closed_i02_AY.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nWarmth <BR>\r\nby Pergalis Palix <BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nFrom Cyrodiil I hail / the Imperial heart \r\nBut my heart longs for one / who calls the east her home \r\nThrough forest and valley / lush wood and blue river \r\nTo the hard land of ash / I would go to see her \r\nThe softest voice to call / my name with tender lips<BR>\r\n<BR>\r\nTrace the curves of her form / outline of her beauty \r\nTo memorize the shape / a figure so lovely \r\nThe arches of her feet / the arch of an eyebrow \r\nDouble arches heaving / rise and fall of her chest \r\nFace and flank the roundness / of wonderous full cheeks<BR>\r\n<BR>\r\nIn lingering darkness / I would inhale slowly \r\nAlmost I could taste it / wine we had shared again \r\nAnd deeper, more primal / the sweat dried on her skin \r\nPerfumes enticing still / sweetly smelling her hair \r\nOther scents undescrib'd / lower under the sheets<BR>\r\n<BR>\r\nHalf century she had / twice the years I had earn'd \r\nAnd still so beautiful / I cannot stay away \r\nEvery journey a risk / a danger I must meet \r\nThough I love its daughter / Morrowind loves me not \r\nThe dead are sacred here / and I a blasphemer<BR>\r\n<BR>\r\nThis land is not my home / but for her I must stay \r\nHappiness forever / awaits in her embrace \r\nAnd our passion calls me / and I cannot deny \r\nLife and limb to see her / to touch her naked shape \r\nSeems a fair trade to me / to one so full of love<BR>\r\n<BR>\r\nBut other smells and sights / had waited to greet me \r\nOther forms next to hers / Alongside and atop \r\nThrust and grunt obscenely / and leave their sweat on her \r\nEvery journey a risk / because the heart is weak \r\nAnd youthful ashen whores / will part their legs for all<BR>\r\n<BR>\r\nTogether next we were / and I offer'd embrace \r\nFingers wrapped lovingly / about her slender throat \r\nShe had no air to scream / her eyes began to dim \r\nThen my hands loos'd themselves / and I watch'd her as old \r\nRise and fall of her chest / peaceful as if sleeping<BR>\r\n<BR>\r\nA bruise grew at her neck / though blended with her skin \r\nGently I lay beside / and had her as before \r\nSo like a corpse she was / unconscious but still warm \r\nWaiting for direction / needing animation \r\nI shudder and finish / and wait in the darkness<BR>\r\n<BR>\r\nHer eyes flutter open / a smile parts her blue lips \r\nHer mouth gives shape to words / body push'd against me \r\n\"Always so exciting / my forbidden lover\" \r\nThe smile turned savage / and she tasted my flesh \r\n\"I so enjoy our games / filthy Necromancer\"<BR>"
+data:
+  weight: 2.0
+  value: 70
+  book_type: Book
+  skill: None
+  enchantment: 100

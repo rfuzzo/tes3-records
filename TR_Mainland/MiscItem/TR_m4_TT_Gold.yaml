@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m4_TT_Gold
+name: Gold (100)
+script: TR_m4_TT_GoldScript
+mesh: m\Gold_100.NIF
+icon: m\Tx_Gold_001.tga
+data:
+  weight: 0.0
+  value: 0
+  flags: ''

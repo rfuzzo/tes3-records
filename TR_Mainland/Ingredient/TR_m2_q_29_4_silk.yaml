@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: TR_m2_q_29_4_silk
+name: Daedra Silk
+script: TR_m2_q_29_4_Map_Script
+mesh: f\Furn_Web00.nif
+icon: TR\n\TR_Ing_Dridrea_Silk.dds
+data:
+  weight: 1.0
+  value: 75
+  effects:
+  - Burden
+  - NightEye
+  - Chameleon
+  - DamageAttribute
+  skills:
+  - None
+  - None
+  - None
+  - Block
+  attributes:
+  - None
+  - None
+  - None
+  - Endurance

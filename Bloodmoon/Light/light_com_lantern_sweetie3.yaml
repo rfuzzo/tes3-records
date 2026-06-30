@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: light_com_lantern_sweetie3
+name: ''
+script: ''
+mesh: l\Light_Com_Lantern_02.NIF
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 10
+  time: -1
+  radius: 128
+  color:
+  - 255
+  - 255
+  - 0
+  - 0
+  flags: DYNAMIC | FIRE | FLICKER_SLOW

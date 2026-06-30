@@ -1,0 +1,31 @@
+type: Armor
+flags: ''
+id: T_He_AltmerGlass_Greaves_01
+name: Altmer Glass Greaves
+script: ''
+mesh: TR\a\tr_a_hie_glass_grv_gnd.nif
+icon: TR\A\tr_a_hie_glass_grvs.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: Groin
+  male_bodypart: T_A_HeGlassGreaves01_G
+  female_bodypart: ''
+- biped_object_type: LeftUpperLeg
+  male_bodypart: T_A_HeGlassGreaves01_UL
+  female_bodypart: ''
+- biped_object_type: LeftKnee
+  male_bodypart: T_A_HeGlassGreaves01_K
+  female_bodypart: ''
+- biped_object_type: RightUpperLeg
+  male_bodypart: T_A_HeGlassGreaves01_UL
+  female_bodypart: ''
+- biped_object_type: RightKnee
+  male_bodypart: T_A_HeGlassGreaves01_K
+  female_bodypart: ''
+data:
+  armor_type: Greaves
+  weight: 9.0
+  value: 22000
+  health: 450
+  enchantment: 100
+  armor_rating: 48

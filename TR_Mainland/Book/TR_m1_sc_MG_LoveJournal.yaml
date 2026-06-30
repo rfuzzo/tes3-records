@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_sc_MG_LoveJournal
+name: Personal Journal
+script: ''
+mesh: m\text_scroll_01.nif
+icon: m\tx_scroll_open_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<BR>\r\n[There are many entries in this journal, but one you notice contains Gorinia's name.]\r\n<BR>\r\n<BR>\r\nOh my Gorinia, what can I do to make you love me as much as I do you? Jump from the highest cliff, slay the evilest of foes, what, what can I do?<BR>\r\n<BR>\r\nOnly if you were in trouble, I could save you. I could save you, and you'd see that I love you so, and you would love me too!<BR>\r\n<BR>\r\nI know, I will summon trouble... a clannfear. I will summon a clannfear... then slay the clannfear as it attacks her, and save her! A clannfear won't be too hard to kill. I will sneak into her house, summon a clannfear, then hide. Once she calls for help, I will appear and kill it. It's perfect! She will have to love me after all of this!<BR>\r\n"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_MothWingCyr_02
+name: Ancestor Moth Wing
+script: ''
+mesh: pc\n\pc_ing_moth_wing_02.nif
+icon: pc\n\pc_ing_moth_wing_02.dds
+data:
+  weight: 0.1
+  value: 5
+  effects:
+  - DrainAttribute
+  - DetectAnimal
+  - FortifyMagicka
+  - ResistMagicka
+  skills:
+  - Block
+  - None
+  - None
+  - None
+  attributes:
+  - Willpower
+  - None
+  - None
+  - None

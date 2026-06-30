@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: tr_m7_narsis_banner_potglass
+name: Potters and Glassworkers Hall
+script: OutsideBanner
+mesh: tr\f\tr_act_banner_pott_01.nif

@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: velothian shield
+name: Velothian Shield
+script: ''
+mesh: a\Shield_Chitin.NIF
+icon: a\Tx_shield_chitin.tga
+enchanting: veloth's benison_en
+biped_objects:
+- biped_object_type: Shield
+  male_bodypart: shield_chitin
+  female_bodypart: ''
+data:
+  armor_type: Shield
+  weight: 4.0
+  value: 85
+  health: 200
+  enchantment: 250
+  armor_rating: 10

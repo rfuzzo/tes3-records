@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: TR_i4-502_barrel_01
+name: Barrel
+script: ''
+mesh: o\Contain_barrel_01.NIF
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - iron club
+- - 10
+  - iron throwing knife
+- - 1
+  - p_restore_health_c
+- - 2
+  - torch

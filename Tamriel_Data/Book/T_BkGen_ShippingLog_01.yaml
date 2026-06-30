@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_BkGen_ShippingLog_01
+name: Shipping Log
+script: ''
+mesh: m\Text_Octavo_open_02.NIF
+icon: m\Tx_octavo_open_02.tga
+enchanting: ''
+text: "[This log records shipping activities on the docks, detailing incoming and outgoing ships, their cargo and passengers.]<BR>\r\n<BR>"
+data:
+  weight: 2.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 0

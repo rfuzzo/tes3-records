@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_NVA6_0_ai_rock_14
+name: ''
+script: TR_m7_NVA_Stage6_0
+mesh: tr\x\TR_terrain_AI_rock_14.nif

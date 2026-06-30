@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: AB_sc_AlchemyRecipe03
+name: Recipe - Silverfish
+script: ''
+mesh: m\Text_Scroll_02.nif
+icon: m\Tx_scroll_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nMadam Mary Madrigal's Advanced Alchemical Recipes<BR><BR>\r\n- Potion of Silverfish -<BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nPotion Effects:<BR>\r\n<BR>\r\nRestore Fatigue<BR>\r\nSwift Swim<BR>\r\nWater Breathing<BR>\r\n<BR>\r\nThis potion uses relatively inexpensive ingredients to create a potion that will make you as natural to the water as an Argonian.<BR>\r\n<BR>\r\nScales<BR>\r\nHack-Lo Leaf<BR>\r\nScrib Jerky<BR>\r\nLuminous Russula<BR>\r\n<BR>\r\n<BR>\r\nA pearl may also be substituted for luminous russula, which will make a lighter potion, but is not as cost effective as the recipe above.<BR>\r\n<BR>\r\nReduce the luminous russula in a calcinator until the water is completely boiled from it. Crush the scales and mix scrib jerky until it is a fine brown paste. Add hack-lo leaf to the mixture, and mix into a clumpy greenish-brown paste.<BR>\r\n<BR>\r\nThis paste must now be distilled in your retort for half-an-hour or so. Do not add the luminous russula yet -- it must first be distilled separately in an alembic. Once both sets of ingredients are distilled, mix them together. Place the new mixture in the for a second distillation. When that process is finished, your potion is ready to drink. You'll know your mixing was successful if the final result is a dark greenish-brown.<BR>\r\n<BR>\r\nIf you are substituting the pearl you may skip the alembic distillation altogether. Instead, oxidize the pearl in the calcinator for 20 minutes, then crush. Mix in the other ingredients and distill them together.<BR>"
+data:
+  weight: 0.5
+  value: 75
+  book_type: Scroll
+  skill: None
+  enchantment: 20

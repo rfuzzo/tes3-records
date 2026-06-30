@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Imp_UNI_CrusaderRing
+name: Crusader's Ring
+script: ''
+mesh: tr\c\tr_c_ring_crusader.nif
+icon: tr\c\tr_c_ring_crusader.dds
+enchanting: T_Const_CrusaderRing
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 12000
+  enchantment: 0

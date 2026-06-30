@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Qy_Furn_Basket_02Wsbi
+name: Basket
+script: ''
+mesh: pi\o\pi_o_cnq_basket_lrg_02.nif
+encumbrance: 37.0
+container_flags: IS_BASE
+inventory:
+- - 4
+  - T_Glb_Random_FlorWasabiRoot

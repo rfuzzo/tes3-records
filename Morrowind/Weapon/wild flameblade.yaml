@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: wild flameblade
+name: Wild Flameblade
+script: ''
+mesh: w\W_dagger_glass.nif
+icon: w\tx_dagger_glass.tga
+enchanting: wild flame_en
+data:
+  weight: 1.8
+  value: 4100
+  weapon_type: ShortBladeOneHand
+  health: 400
+  speed: 2.5
+  reach: 1.0
+  enchantment: 12
+  chop_min: 7
+  chop_max: 12
+  slash_min: 7
+  slash_max: 12
+  thrust_min: 6
+  thrust_max: 12
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

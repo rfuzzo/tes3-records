@@ -1,0 +1,23 @@
+type: Container
+flags: ''
+id: de_p_closet_02_nuncius
+name: Antonius Nuncius' Closet
+script: nunciusClosetScript
+mesh: o\Contain_De_Closet_02.NIF
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory:
+- - 10
+  - potion_comberry_brandy_01
+- - 10
+  - potion_comberry_wine_01
+- - 10
+  - potion_cyro_brandy_01
+- - 10
+  - Potion_Cyro_Whiskey_01
+- - 10
+  - Potion_Local_Brew_01
+- - 10
+  - potion_local_liquor_01
+- - 10
+  - potion_skooma_01

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m1_Propylon_Koranyon
+name: Koranyon Propylon
+script: TR_m1_Propylon_Koranyon_sc
+mesh: tr\i\tr_in_portal_koran.nif

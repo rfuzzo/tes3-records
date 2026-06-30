@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: T_SkyNor_FurnM_Cb1Empty
+name: Cupboard
+script: ''
+mesh: sky\o\sky_furn_n_m_cpbrd_01.nif
+encumbrance: 75.0
+container_flags: IS_BASE
+inventory: []

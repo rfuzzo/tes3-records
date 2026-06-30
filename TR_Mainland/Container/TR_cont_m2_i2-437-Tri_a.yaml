@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: TR_cont_m2_i2-437-Tri_a
+name: Closet
+script: ''
+mesh: o\Contain_De_Closet_01.NIF
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory:
+- - 3
+  - TR_bk_m2_i2-437-tri_ledger5
+- - 2
+  - TR_bk_m2_i3-437-Tri_freportm
+- - 7
+  - TR_sc_m2_i2-437-Tri_rep1

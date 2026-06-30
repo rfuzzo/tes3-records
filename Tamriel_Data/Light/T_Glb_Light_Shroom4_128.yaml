@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_Glb_Light_Shroom4_128
+name: ''
+script: ''
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 128
+  color:
+  - 122
+  - 128
+  - 137
+  - 0
+  flags: ''

@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_M7_MalaTor_SecWall_dumby
+name: ''
+script: T_ScObj_AylSecWall_Down
+mesh: pc\i\PC_In_Ar_HallSecDoor01.nif

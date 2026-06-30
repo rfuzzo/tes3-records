@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_FW_College_BookNote4
+name: Note on the Sermons
+script: ''
+mesh: m\text_parchment_02.nif
+icon: m\tx_parchment_02.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>If it isn't clear from a glance, these books aren't beginner material. I don't want to hear any more \"brilliant\" theories about hidden messages or secret codes. If you think you've found some new insight in these ancient holy texts, go study them for another ten years and then get back to me. In print.\r\n- Adrieldan, Professor of Philosophies\r\n<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

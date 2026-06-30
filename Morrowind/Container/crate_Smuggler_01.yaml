@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: crate_Smuggler_01
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 9
+  - l_n_smuggled_goods
+- - 1
+  - l_b_Bandit_goods
+- - 10
+  - random gold
+- - 1
+  - random_potion_attribute_restore

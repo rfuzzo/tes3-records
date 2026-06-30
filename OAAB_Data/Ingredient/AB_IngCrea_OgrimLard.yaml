@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: AB_IngCrea_OgrimLard
+name: Grim Lard
+script: ''
+mesh: OAAB\n\ogrimLard.nif
+icon: OAAB\n\ogrimLard.tga
+data:
+  weight: 1.0
+  value: 50
+  effects:
+  - Poison
+  - FortifySkill
+  - Light
+  - DamageAttribute
+  skills:
+  - None
+  - Enchant
+  - None
+  - Block
+  attributes:
+  - None
+  - Strength
+  - None
+  - Personality

@@ -1,0 +1,23 @@
+type: Container
+flags: ''
+id: TR_m3_ET-15_ch_Tarhiel
+name: Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 27
+  - Gold_001
+- - 1
+  - Misc_Quill
+- - 1
+  - P_Levitation_Q
+- - 1
+  - T_IngMine_Amethyst_01
+- - 3
+  - p_jump_q
+- - 1
+  - p_slowfall_s
+- - 2
+  - sc_icarianflight

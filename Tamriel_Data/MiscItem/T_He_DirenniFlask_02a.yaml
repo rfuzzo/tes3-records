@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_He_DirenniFlask_02a
+name: Direnni Flask
+script: ''
+mesh: sky\m\sky_misc_dflask_01.nif
+icon: sky\m\tx_misc_dflsk_01.dds
+data:
+  weight: 1.2
+  value: 15
+  flags: ''

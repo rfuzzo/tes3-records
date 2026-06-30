@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: AB_o_ComRchChestGold2x
+name: Chest
+script: ''
+mesh: OAAB\o\comRchChest.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 6
+  - AB_lvl_Gold
+- - 50
+  - AB_lvl_Gold001
+- - 2
+  - AB_lvl_GoldRich

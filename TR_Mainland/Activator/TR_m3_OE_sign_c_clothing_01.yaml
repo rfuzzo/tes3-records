@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_OE_sign_c_clothing_01
+name: 'Imeric Geordaine: Tailor'
+script: SignRotate
+mesh: f\Active_sign_C_clothing_01.NIF

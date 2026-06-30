@@ -1,0 +1,39 @@
+type: Container
+flags: ''
+id: De_Drawers_Helvi
+name: Helvi's Drawers
+script: ''
+mesh: o\Contain_De_Drawers_01.NIF
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - amulet of silence
+- - 1
+  - expensive_ring_01
+- - 1
+  - expensive_ring_02
+- - 1
+  - expensive_skirt_01
+- - 1
+  - expensive_skirt_03
+- - 1
+  - expensive_glove_left_01
+- - 1
+  - expensive_glove_right_01
+- - 1
+  - expensive_robe_01
+- - 1
+  - expensive_robe_03
+- - 1
+  - expensive_belt_03
+- - 1
+  - expensive_shirt_01
+- - 1
+  - expensive_shirt_03
+- - 1
+  - expensive_shoes_01
+- - 1
+  - expensive_pants_01
+- - 1
+  - expensive_pants_02

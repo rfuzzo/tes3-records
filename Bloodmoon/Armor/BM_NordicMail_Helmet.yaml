@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: BM_NordicMail_Helmet
+name: Nordic Mail Helmet
+script: ''
+mesh: a\A_NordicMail_M_Helmet.NIF
+icon: A\NordicMail_Helmet.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Hair
+  male_bodypart: A_NordicMail_M_Helmet
+  female_bodypart: A_NordicMail_F_Helmet
+data:
+  armor_type: Helmet
+  weight: 8.0
+  value: 1000
+  health: 350
+  enchantment: 200
+  armor_rating: 66

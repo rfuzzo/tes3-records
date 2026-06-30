@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_NVA2_3_rowboat
+name: ''
+script: TR_m7_NVA_Stage2_3
+mesh: x\Ex_De_Rowboat.NIF

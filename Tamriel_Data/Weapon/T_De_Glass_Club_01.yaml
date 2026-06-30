@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_De_Glass_Club_01
+name: Glass Club
+script: ''
+mesh: tr\w\tr_w_glass_club.nif
+icon: tr\w\tr_w_glass_club.dds
+enchanting: ''
+data:
+  weight: 14.2
+  value: 4200
+  weapon_type: BluntOneHand
+  health: 320
+  speed: 1.75
+  reach: 1.0
+  enchantment: 24
+  chop_min: 8
+  chop_max: 10
+  slash_min: 3
+  slash_max: 6
+  thrust_min: 3
+  thrust_max: 6
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

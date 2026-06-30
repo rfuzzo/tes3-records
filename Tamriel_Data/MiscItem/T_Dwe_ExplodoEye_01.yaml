@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Dwe_ExplodoEye_01
+name: Dwemer Centurion Eye
+script: ''
+mesh: TR\m\TR_misc_explodo_eye.NIF
+icon: TR\m\TR_misc_dwrv_exp_eye.dds
+data:
+  weight: 2.0
+  value: 100
+  flags: ''

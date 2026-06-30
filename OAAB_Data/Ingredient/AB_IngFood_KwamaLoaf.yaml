@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: AB_IngFood_KwamaLoaf
+name: Goros
+script: ''
+mesh: OAAB\n\food_goros.nif
+icon: OAAB\n\food_goros.tga
+data:
+  weight: 2.5
+  value: 6
+  effects:
+  - RestoreFatigue
+  - None
+  - None
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

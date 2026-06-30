@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m4_AndoHH_RottenEgg
+name: Rotten Kwama Egg
+script: ''
+mesh: F\food_kwama_egg_02.nif
+icon: m\tx_food_kwama_egg_01.dds
+data:
+  weight: 2.0
+  value: 0
+  flags: ''

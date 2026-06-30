@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: volcano_steam
+name: ''
+script: Sound_Steam
+mesh: x\Ex_volcano_steam.NIF

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Mw_RLvl_ArmunAshVampBalAsh_01
+name: Disturbed Ash
+script: T_ScObj_Armun_BaluathPile
+mesh: tr\x\tr_terr_ash_pile_01.nif

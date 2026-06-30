@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m7_q_TheStinkyCurse_Ring
+name: Ring of Stink
+script: TR_m7_TheStinkyCurse_Ring_sc
+mesh: c\C_Ring_expensive_1.NIF
+icon: c\tx_ring_expensive01.tga
+enchanting: TR_m7_TheStinkCurse_ring_En
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 120
+  enchantment: 180

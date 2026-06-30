@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: Act_BM_stone_erlendr
+name: Stone of Erlendr
+script: stoneErlendrScript
+mesh: f\Terrain_rock_BM_79.nif

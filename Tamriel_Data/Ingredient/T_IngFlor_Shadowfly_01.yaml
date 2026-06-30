@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_Shadowfly_01
+name: Shadowfly Blossom
+script: ''
+mesh: Sky\n\Sky_Ingred_SHFLY_01.nif
+icon: Sky\n\Tx_Ingred_SHFLY_01.dds
+data:
+  weight: 0.1
+  value: 5
+  effects:
+  - Blind
+  - DetectEnchantment
+  - RestoreMagicka
+  - Light
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

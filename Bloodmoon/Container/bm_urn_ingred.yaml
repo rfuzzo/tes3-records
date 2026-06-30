@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: bm_urn_ingred
+name: Urn
+script: ''
+mesh: o\Contain_urn_02.NIF
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - random_belladonna_spriggan
+- - 1
+  - random_ingredient
+- - 1
+  - random_loot_special

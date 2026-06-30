@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_ButterflyWingSky_03
+name: Amberwing Butterfly Wing
+script: ''
+mesh: sky\n\sky_ing_btrflywing_03.nif
+icon: sky\n\sky_ing_btrflywing_03.dds
+data:
+  weight: 0.1
+  value: 5
+  effects:
+  - FortifyAttribute
+  - WeaknessToShock
+  - FireShield
+  - DetectEnchantment
+  skills:
+  - Block
+  - None
+  - None
+  - None
+  attributes:
+  - Endurance
+  - None
+  - None
+  - None

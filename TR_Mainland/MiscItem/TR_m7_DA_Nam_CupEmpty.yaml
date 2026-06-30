@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m7_DA_Nam_CupEmpty
+name: Cup of Passage
+script: ''
+mesh: tr\m\tr_m_cup_passage.nif
+icon: tr\m\tr_m_cup_passage.dds
+data:
+  weight: 10.0
+  value: 25000
+  flags: ''

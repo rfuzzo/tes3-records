@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Sc_NarsisArenaPosterTR
+name: Narsis Arena - Fight for Glory!
+script: ''
+mesh: tr\m\tr_bk_narsis_arena_01.nif
+icon: tr\m\tr_bk_narsis_arena.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"821E00\" SIZE=\"3\" FACE=\"Magic Cards\"> <IMG SRC=\"TR\\tr_arena_bookart.dds\" WIDTH=\"240\" HEIGHT=\"120\"> <BR>\r\nFIGHT FOR GLORY<BR> \r\n- at -<BR>\r\nNARSIS ARENA<BR>"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

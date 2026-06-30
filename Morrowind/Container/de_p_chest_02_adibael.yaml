@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: de_p_chest_02_adibael
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 300
+  - random gold
+- - 2
+  - random_gem
+- - 1
+  - random ashlander weapon
+- - 100
+  - Gold_001

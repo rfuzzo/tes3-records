@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Echo_15
+name: OUTLANDER WINS BIG AT CASINO
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_text_note_nar_news.nif
+icon: tr\m\tr_text_note_nar_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\tr_echo_512_256.dds\" WIDTH=\"348\" HEIGHT=\"168\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nOUTLANDER WINS BIG AT CASINO<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nAn Imperial man has -- to the surprise of all -- risen from rags to riches at the Narsis Fortuna Casino, traveling on the back of a stolen guar. According to the accounts of several credible eyewitnesses, the man \"came gallivanting through the Market Quarter stinking and soggy,\" but when the outlander left the casino that evening, he was dressed \"as if he'd found Orgnum's Coffer.\" When interviewed by a Canyon Echo reporter, the outlander identified himself as Vodunius Nuccius, and stated that he was a former resident of the colony town of Seyda Neen, on Vvardenfell.<BR><BR>\r\n\"Stolen guar? Preposterous. I borrowed it and was then involved in an unfortunate accident that left me unable to return it! I don't even know how to ride the thing. Not to worry, though -- I have more than enough to pay for it now.\"<BR><BR>\r\nWhen asked how he had gotten so lucky, Nuccius responded, \"I've had my share of bad luck. It was about time things turned for the good.\"<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

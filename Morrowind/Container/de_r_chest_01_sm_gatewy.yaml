@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: de_r_chest_01_sm_gatewy
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - cruel shardblade
+- - 1
+  - ingred_ruby_01
+- - 1
+  - ingred_pearl_01

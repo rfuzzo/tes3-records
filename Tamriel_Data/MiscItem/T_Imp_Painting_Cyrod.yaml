@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_Painting_Cyrod
+name: The Imperial City
+script: ''
+mesh: pc\m\PC_M_Painting_Cyrod.nif
+icon: pc\m\PC_M_Painting_Cyrod.dds
+data:
+  weight: 12.0
+  value: 950
+  flags: ''

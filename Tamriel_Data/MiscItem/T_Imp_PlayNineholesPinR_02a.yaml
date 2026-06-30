@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_PlayNineholesPinR_02a
+name: Red Nine-holes Pin
+script: T_ScObj_NineholesPinR_02a
+mesh: pc\m\pc_misc_nineholes_r_01.nif
+icon: pc\m\pc_misc_nineholes_r_01.dds
+data:
+  weight: 0.0
+  value: 0
+  flags: ''

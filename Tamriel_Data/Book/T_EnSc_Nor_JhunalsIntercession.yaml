@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_EnSc_Nor_JhunalsIntercession
+name: Scroll of Jhunal's Intercession
+script: ''
+mesh: m\text_scroll_01.nif
+icon: m\tx_scroll_open_01.tga
+enchanting: T_Once_JhunalsIntercession
+text: <DIV ALIGN="center"><IMG SRC="Sky\Sky_Sc_ByThePower.dds" WIDTH="200" HEIGHT="50"><BR>
+data:
+  weight: 0.2
+  value: 177
+  book_type: Scroll
+  skill: None
+  enchantment: 0

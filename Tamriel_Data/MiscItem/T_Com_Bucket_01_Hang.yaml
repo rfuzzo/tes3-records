@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_Bucket_01_Hang
+name: Bucket
+script: T_ScObj_HangBucketPick01
+mesh: tr\m\tr_misc_com_bucket01_h.nif
+icon: m\misc_com_bucket_01.dds
+data:
+  weight: 5.0
+  value: 2
+  flags: ''

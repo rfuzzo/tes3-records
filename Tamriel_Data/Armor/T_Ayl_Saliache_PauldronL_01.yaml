@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Ayl_Saliache_PauldronL_01
+name: Saliache Left Pauldron
+script: ''
+mesh: pc\a\pc_a_ayl_pauldr_g.nif
+icon: pc\a\pc_a_ayl_pauld.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: LeftUpperArm
+  male_bodypart: T_A_AylSaliachePauldron01_UA
+  female_bodypart: ''
+data:
+  armor_type: LeftPauldron
+  weight: 5.0
+  value: 1400
+  health: 250
+  enchantment: 100
+  armor_rating: 25

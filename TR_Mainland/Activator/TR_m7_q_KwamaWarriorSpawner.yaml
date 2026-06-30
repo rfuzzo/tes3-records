@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m7_q_KwamaWarriorSpawner
+name: Warrior Spawner
+script: TR_m7_q_KwamaWarriorSpawner_sc
+mesh: EditorMarker.NIF

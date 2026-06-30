@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: T_Ayl_DngRuin_SecrWall_01_up
+name: ''
+script: T_ScObj_AylSecWall_Up
+mesh: pc\i\pc_in_ar_sewall01.nif

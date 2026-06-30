@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_Narsis_Theater_Ante
+name: Enura Nelas' Notebook
+script: ''
+mesh: pc\m\pc_bk_book_38.nif
+icon: pc\m\pc_bk_book_38.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n['ANTEDILUVIAN SECRETS -- Act I, Scene I' is written in huge, beautiful letters at the top of the first page. The rest of the notebook is empty, although several pages appear to have been torn out.]<BR>\r\n"
+data:
+  weight: 1.0
+  value: 2
+  book_type: Book
+  skill: None
+  enchantment: 0

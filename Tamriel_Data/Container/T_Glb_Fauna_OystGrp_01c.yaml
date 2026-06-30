@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: T_Glb_Fauna_OystGrp_01c
+name: Oysters
+script: ''
+mesh: pi\o\pi_f_oystergroup_01c.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - T_Com_ShellOyster_01Half
+- - 2
+  - T_Glb_Random_FaunOysterMeat_01
+- - 2
+  - T_Glb_Random_FaunOysterPearl
+- - 2
+  - T_Glb_Random_FaunOysterShell_01
+- - 1
+  - T_IngCrea_OysterMeat_01

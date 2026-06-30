@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2_A9_NecWG
+name: Note
+script: ''
+mesh: m\Misc_paper_plain_01.nif
+icon: m\Tx_paper_plain_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe mage at last confessed the name of the tomb which he had desecrated for his heretical practices. His 'creations' will be sought out and freed from their torment, with the aid of the Waking-Guides.<BR>\r\n<BR>\r\nTiril Norvith<BR>\r\nOrder of the Inquisition<BR>\r\n"
+data:
+  weight: 1.0
+  value: 3
+  book_type: Scroll
+  skill: None
+  enchantment: 50

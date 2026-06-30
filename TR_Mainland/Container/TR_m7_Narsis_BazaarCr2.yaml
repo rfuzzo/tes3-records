@@ -1,0 +1,25 @@
+type: Container
+flags: ''
+id: TR_m7_Narsis_BazaarCr2
+name: Crate
+script: ''
+mesh: o\Contain_crate_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - -1
+  - T_De_Et_Skirt_01
+- - 1
+  - T_Mw_Random_Clothing
+- - 1
+  - T_Mw_Random_ClothingFemXpDun
+- - 1
+  - T_Mw_Random_ClothingFemXqDun
+- - 1
+  - T_Mw_Random_ClothingFemXvDun
+- - 1
+  - T_Mw_Random_ClothingMaleXpDun
+- - 1
+  - T_Mw_Random_ClothingMaleXqDun
+- - 1
+  - T_Mw_Random_ClothingMaleXvDun

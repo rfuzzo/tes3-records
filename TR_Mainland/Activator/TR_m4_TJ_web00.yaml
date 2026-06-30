@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m4_TJ_web00
+name: Web
+script: TR_m4_TJ_web00_sc
+mesh: f\furn_web00.nif

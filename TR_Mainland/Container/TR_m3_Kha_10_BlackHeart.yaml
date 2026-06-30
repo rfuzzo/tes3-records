@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m3_Kha_10_BlackHeart
+name: Blackened Heart of the Accursed
+script: TR_m3_Kha_Black_Heart_Script
+mesh: n\ingred_ghoul_heart_01.nif
+encumbrance: 0.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - TR_m3_Kha_Anguish_Crux

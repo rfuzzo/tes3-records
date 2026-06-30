@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_w_FlintArrow10x
+name: Flint Arrow (10)
+script: AB_QuiverFlint10x_s
+mesh: OAAB\w\quiver_flint.nif
+icon: OAAB\w\flint_arrow.tga
+data:
+  weight: 1.0
+  value: 10
+  flags: ''

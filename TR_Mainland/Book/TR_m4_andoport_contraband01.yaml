@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_andoport_contraband01
+name: Contraband List
+script: ''
+mesh: m\Text_Note_02.nif
+icon: m\Tx_note_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n[A list of seized goods being held in the Bal Foyen port impound awaiting transfer to the city magistrates.]<BR>"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 100

@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_CyrImp_FurnR_Dw2Empty
+name: Drawers
+script: ''
+mesh: pc\o\pc_com_drawers_w.nif
+encumbrance: 75.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Glb_Empty

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_SetChapel_BloodPool_01
+name: Incarnadine Pool
+script: T_ScObj_IncarnadinePool
+mesh: pc\i\pc_in_cpl_oct1bl_01.nif

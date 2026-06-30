@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_He_GlassBluBowl02
+name: Glass Bowl
+script: ''
+mesh: sum\m\sum_m_gls_bowl_b02.nif
+icon: sum\m\sum_m_gls_bowl_blu02.dds
+data:
+  weight: 1.0
+  value: 8
+  flags: ''

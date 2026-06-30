@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_Pearlessence_01
+name: Pearlessence
+script: ''
+mesh: hr\n\cr_pearlessence.nif
+icon: hr\n\cr_pearlessence.dds
+data:
+  weight: 0.25
+  value: 75
+  effects:
+  - Blind
+  - DrainFatigue
+  - Mark
+  - SpellAbsorption
+  skills:
+  - Block
+  - Block
+  - None
+  - None
+  attributes:
+  - Speed
+  - Strength
+  - None
+  - None

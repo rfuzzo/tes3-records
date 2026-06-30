@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: T_MwDe_FurnM_Cl1CltFem
+name: Closet
+script: ''
+mesh: TR\o\TR_furn_De_Rm_Closet.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - T_Mw_Random_Clothing
+- - 3
+  - T_Mw_Random_ClothingFemXpDun
+- - 1
+  - T_Mw_Random_ClothingFemXvDun
+- - 1
+  - random_de_pants
+- - 1
+  - random_de_shirt

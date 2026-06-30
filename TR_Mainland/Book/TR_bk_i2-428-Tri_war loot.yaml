@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_bk_i2-428-Tri_war loot
+name: The Fate of House Dwemer
+script: ''
+mesh: m\Text_Scroll_open_02.nif
+icon: m\Tx_scroll_open_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe discarded articles before you are only a small example of the broken remains of our decadent enemies, the heretic House Dwemer, who were stricken from the world at the Battle of Red Mountain. Each of the artifacts displayed here was cut from the crumbled hulks of Dwemeri homunculi by our victorious ancestors. \r\n<BR>\r\nWitness the last remnants of our foe, rust and ash, while the pillars of House Dunmer stand untarnished. May it be an example to all of the inevitable fate of heretics, and a testament to the glory of the Dunmer people under the ancestors and the Triune Gods. The same faith which led us to victory at Red Mountain still stands proudly to this day.<BR>\r\n"
+data:
+  weight: 0.2
+  value: 5
+  book_type: Scroll
+  skill: None
+  enchantment: 0

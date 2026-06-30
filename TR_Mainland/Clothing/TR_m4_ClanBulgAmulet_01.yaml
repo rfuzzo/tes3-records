@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m4_ClanBulgAmulet_01
+name: Talisman of Clan Bulg
+script: ''
+mesh: c\Amulet_Common_3.NIF
+icon: c\tx_amulet_com3.tga
+enchanting: T_Use_BlacksmithLeft
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 150
+  enchantment: 10

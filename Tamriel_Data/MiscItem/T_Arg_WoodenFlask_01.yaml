@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Arg_WoodenFlask_01
+name: Wooden Flask
+script: ''
+mesh: bm\m\bm_misc_wd_flsk_01.nif
+icon: bm\m\bm_m_arg_w_flask_01.dds
+data:
+  weight: 2.5
+  value: 2
+  flags: ''

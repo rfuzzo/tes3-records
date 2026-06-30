@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m2_q_Nm_Wake_act_Travin
+name: ''
+script: TR_m2_q_Nm_Wake_travindeath
+mesh: EditorMarker.NIF

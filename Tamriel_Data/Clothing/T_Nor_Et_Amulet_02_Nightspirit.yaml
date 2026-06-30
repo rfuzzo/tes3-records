@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Nor_Et_Amulet_02_Nightspirit
+name: Amulet of the Night Spirit
+script: ''
+mesh: sky\c\sky_amulet_extrvg_02.nif
+icon: sky\c\tx_amulet_extrvg_02.dds
+enchanting: T_Use_NightSpirit
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 271
+  enchantment: 600

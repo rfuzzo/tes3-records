@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: T_MwDe_SetDre_Us2Empty
+name: Stoneware Urns
+script: ''
+mesh: tr\o\tr_cont_sturns_r_02.nif
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory: []

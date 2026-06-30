@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: TR_m2_Commander_Desk
+name: Desk
+script: ''
+mesh: o\Contain_De_Desk_01.NIF
+encumbrance: 75.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - Misc_Inkwell
+- - 2
+  - Misc_Quill
+- - 1
+  - TR_m2_key_Ma_Prison
+- - 1
+  - random gold
+- - 2
+  - random_gem

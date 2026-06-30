@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Nor_IronwoodTankard_01
+name: Ironwood Mug
+script: ''
+mesh: sky\m\sky_misc_iw_mug_01.nif
+icon: sky\m\tx_misc_iw_mug_01.dds
+data:
+  weight: 2.0
+  value: 70
+  flags: ''

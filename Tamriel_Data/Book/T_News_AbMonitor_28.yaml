@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_AbMonitor_28
+name: SHIP LOST IN A PIRATE ATTACK?
+script: T_ScNews_Bellman_Paper
+mesh: pc\m\pc_text_note_anv_news.nif
+icon: pc\m\pc_text_note_anv_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"PC\\pc_abmonitor.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nTRADE SHIP LOST IN SUSPECTED PIRATE ATTACK<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nCharach sources report that Emperor Cassynder, a trade ship bound for the port, never arrived as scheduled. It remains unclear where and when the ship was lost, but as the days continue to pass, the vessel's owner, Theseus Caperno, has lost all hope in its arrival.<BR><BR>\r\nThe loss of the Emperor Cassynder is only the latest in a long series of private trade vessels which have failed to reach their destinations in recent months. The withdrawal of the West Navy from its outpost of Duskwatch Keep on Stirk Isle and the reduction in naval patrols has left the trade lanes of the Near Abecean almost entirely unprotected. Pirates and smugglers have seized the opportunity, most of all the infamous Masqued Captain. While those responsible for the sinking of the Emperor Cassynder remain unknown, the ultimate culprit is clear: Navarch Tiledorus Cadmerius, whose irresponsible decision-making has left the honest merchants of the Abecean Sea completely at the mercy of criminal opportunists.<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_KingBolete_01
+name: King Bolete
+script: ''
+mesh: Sky\n\sky_ingred_kingbolete.nif
+icon: sky\n\tx_ingred_kingbolete.dds
+data:
+  weight: 0.5
+  value: 2
+  effects:
+  - RestoreFatigue
+  - RestoreAttribute
+  - ResistParalysis
+  - None
+  skills:
+  - None
+  - Block
+  - None
+  - None
+  attributes:
+  - None
+  - Agility
+  - None
+  - None

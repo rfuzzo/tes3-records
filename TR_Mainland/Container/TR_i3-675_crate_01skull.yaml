@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: TR_i3-675_crate_01skull
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 5
+  - misc_skull00
+- - 5
+  - misc_skull10
+- - 5
+  - random gold

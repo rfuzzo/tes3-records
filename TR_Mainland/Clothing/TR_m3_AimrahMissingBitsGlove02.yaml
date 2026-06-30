@@ -1,0 +1,20 @@
+type: Clothing
+flags: ''
+id: TR_m3_AimrahMissingBitsGlove02
+name: Glove of Missing Bits
+script: ''
+mesh: c\Amulet_Expensive_1.NIF
+icon: c\tx_amulet_expens1.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: RightHand
+  male_bodypart: ''
+  female_bodypart: ''
+- biped_object_type: RightWrist
+  male_bodypart: TR_m3_AimrahDreughArm
+  female_bodypart: ''
+data:
+  clothing_type: RightGlove
+  weight: 1.0
+  value: 1000
+  enchantment: 0

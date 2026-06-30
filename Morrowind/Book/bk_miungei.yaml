@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: bk_miungei
+name: Letter from Tsrazami
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nTsrazami asks you to send to Tsrazami all who wish to contact us. Our shadow falls on our free brothers here in Vvardenfell. Do as Tsrazami asks and you may join us soon.<BR>\r\n<BR>\r\nTsrazami<BR>\r\n"
+data:
+  weight: 0.2
+  value: 100
+  book_type: Scroll
+  skill: None
+  enchantment: 0

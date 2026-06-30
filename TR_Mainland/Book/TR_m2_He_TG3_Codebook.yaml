@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: TR_m2_He_TG3_Codebook
+name: Codebook
+script: TR_m2_He_TG3_Decode
+mesh: m\Text_Folio_03.NIF
+icon: m\Tx_folio_03.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This handwritten book is filled with seemingly random sequences of numbers and letters arranged in a grid.]\r\n<BR>"
+data:
+  weight: 4.0
+  value: 50
+  book_type: Book
+  skill: None
+  enchantment: 0

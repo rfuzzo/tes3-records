@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_He_DirenniFlask_06e
+name: Broken Direnni Flask
+script: ''
+mesh: sky\m\sky_misc_dflask_05d.nif
+icon: sky\m\tx_misc_dflsk_05d.dds
+data:
+  weight: 0.6
+  value: 3
+  flags: ''

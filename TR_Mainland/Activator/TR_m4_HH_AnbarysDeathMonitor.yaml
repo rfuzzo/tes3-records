@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_HH_AnbarysDeathMonitor
+name: ''
+script: TR_m4_HH_AnbarysDeathCheck
+mesh: editormarker.nif

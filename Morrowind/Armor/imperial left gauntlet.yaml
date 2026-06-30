@@ -1,0 +1,22 @@
+type: Armor
+flags: ''
+id: imperial left gauntlet
+name: Imperial Steel Left Gauntlet
+script: ''
+mesh: a\A_Imperial_A_Gauntlet_GND.nif
+icon: a\Tx_Imperial_gauntlet.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: LeftHand
+  male_bodypart: a_imperial_gauntlet
+  female_bodypart: ''
+- biped_object_type: LeftWrist
+  male_bodypart: ''
+  female_bodypart: ''
+data:
+  armor_type: LeftGauntlet
+  weight: 5.0
+  value: 33
+  health: 80
+  enchantment: 200
+  armor_rating: 16

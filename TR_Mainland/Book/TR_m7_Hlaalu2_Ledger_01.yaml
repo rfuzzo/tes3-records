@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_Hlaalu2_Ledger_01
+name: High Hlaalu Ledger
+script: ''
+mesh: m\Text_Octavo_open_08.nif
+icon: m\Tx_book_open_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This ledger records the more important financial transactions that the High Hlaalu has made in recent decades.]<BR>\r\n"
+data:
+  weight: 2.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 0

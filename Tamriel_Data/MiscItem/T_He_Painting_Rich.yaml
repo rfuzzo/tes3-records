@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_He_Painting_Rich
+name: Rich Woman from Cloudrest
+script: ''
+mesh: pc\m\PC_M_Painting_Rich.nif
+icon: pc\m\PC_M_Painting_Rich.dds
+data:
+  weight: 6.0
+  value: 1300
+  flags: ''

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m1_FW_ShipPlaque01
+name: Dedication Plaque
+script: TR_m1_FW_ShipPlaque01_scp
+mesh: pc\f\pc_furn_sign_plaque_02.nif

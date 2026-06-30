@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Dae_UNI_SoulAnchorTrident
+name: Soul Anchor
+script: ''
+mesh: w\w_spear_daedric.nif
+icon: w\tx_spear_daedric.dds
+enchanting: T_Strike_SoulAnchor
+data:
+  weight: 42.0
+  value: 35000
+  weapon_type: SpearTwoWide
+  health: 1000
+  speed: 1.0
+  reach: 1.8
+  enchantment: 150
+  chop_min: 2
+  chop_max: 9
+  slash_min: 2
+  slash_max: 9
+  thrust_min: 6
+  thrust_max: 40
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

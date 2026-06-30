@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Dae_UNI_SoulDagger
+name: Dagger of the Open Soul
+script: ''
+mesh: tr\w\tr_w_Soul_Dagger.nif
+icon: tr\w\tr_w_soul_dagger.dds
+enchanting: T_Strike_SoulDagger
+data:
+  weight: 7.0
+  value: 11000
+  weapon_type: ShortBladeOneHand
+  health: 2000
+  speed: 2.5
+  reach: 1.0
+  enchantment: 550
+  chop_min: 15
+  chop_max: 18
+  slash_min: 15
+  slash_max: 18
+  thrust_min: 15
+  thrust_max: 20
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

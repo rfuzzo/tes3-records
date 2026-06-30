@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m7_C_Ronik
+name: Song of Ronik
+script: ''
+mesh: tr\w\tr_w_nibenese_dkatana.nif
+icon: tr\w\tr_w_nibenese_dkatana.dds
+enchanting: daedric agility_en
+data:
+  weight: 18.5
+  value: 8400
+  weapon_type: LongBladeTwoClose
+  health: 2000
+  speed: 1.35
+  reach: 1.0
+  enchantment: 75
+  chop_min: 2
+  chop_max: 28
+  slash_min: 1
+  slash_max: 24
+  thrust_min: 1
+  thrust_max: 15
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_bk_BO_PrisonLog
+name: Bal Oyra Prison Log
+script: ''
+mesh: m\Text_Octavo_07.nif
+icon: m\Tx_book_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nPrisoners recently held in the keep's dungeons:<BR>\r\n<BR>\r\nLish gro-Garrok, Orc male, fair condition<BR>\r\n<BR>\r\nHeld for smuggling, theft, consorting with thieves and smugglers, and resisting arrest.<BR>\r\nSentenced for fifteen months.<BR>\r\nObservation: Complained about food, went on hunger strike. Believes someone would care. Doesn't appear to be very smart.<BR>\r\n<BR>\r\nTrelabeth, Bosmer female, good condition<BR>\r\n<BR>\r\nHeld for attempted thievery and public indecency.<BR>\r\nObservation: Very bad singer when drunk.\r\nFine paid once sobered up, released yesterday. Left town immediately.<BR>\r\n\r\n"
+data:
+  weight: 2.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 20

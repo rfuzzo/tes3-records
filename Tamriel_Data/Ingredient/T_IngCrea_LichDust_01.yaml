@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_LichDust_01
+name: Lich Dust
+script: ''
+mesh: hr\n\cr_lich_dust.nif
+icon: hr\n\cr_lich_dust.dds
+data:
+  weight: 0.1
+  value: 500
+  effects:
+  - Dispel
+  - FortifyAttribute
+  - Reflect
+  - StuntedMagicka
+  skills:
+  - None
+  - Block
+  - None
+  - None
+  attributes:
+  - None
+  - Intelligence
+  - None
+  - None

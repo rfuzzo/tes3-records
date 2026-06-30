@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: com_chest_02_v_weapon09
+name: Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - silver staff
+- - -1
+  - wooden staff
+- - -1
+  - silver longsword
+- - -1
+  - imperial broadsword
+- - -1
+  - imperial shortsword

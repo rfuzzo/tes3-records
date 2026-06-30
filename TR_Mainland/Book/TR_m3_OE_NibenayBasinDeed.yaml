@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_OE_NibenayBasinDeed
+name: Nibenay Basin land deed
+script: ''
+mesh: m\Text_Parchment_02.nif
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nBy the authority of Uriel Septim the VII, Lord and Ruler of all of Tamriel<BR>\r\n<BR>\r\nKnow by these words that the land surrounding the headwaters of the Morath River is sold by Pontius Vunnis to General Casik.\r\n<BR>\r\n<BR>\r\nSeal of the seller<BR>\r\nPontius Vunnis<BR>\r\n<BR>\r\nSeal of the buyer<BR>\r\nGeneral Casik<BR>\r\n\r\n"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

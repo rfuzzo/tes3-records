@@ -1,0 +1,21 @@
+type: Container
+flags: ''
+id: TR_m1_schest_PTclothier
+name: Small Chest
+script: ''
+mesh: o\Contain_chest_small_01.NIF
+encumbrance: 25.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - expensive_amulet_01
+- - 1
+  - expensive_ring_02
+- - 1
+  - exquisite_amulet_01
+- - 1
+  - exquisite_ring_01
+- - 1
+  - extravagant_amulet_02
+- - 1
+  - extravagant_ring_02

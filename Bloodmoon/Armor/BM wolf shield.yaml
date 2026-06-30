@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: BM wolf shield
+name: Wolf Shield
+script: ''
+mesh: a\A_Wolf_Shield.NIF
+icon: A\Tx_Wolf_Shield.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Shield
+  male_bodypart: bm_shield_wolf
+  female_bodypart: ''
+data:
+  armor_type: Shield
+  weight: 8.0
+  value: 100
+  health: 100
+  enchantment: 50
+  armor_rating: 15

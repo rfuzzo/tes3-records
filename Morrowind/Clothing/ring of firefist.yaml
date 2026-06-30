@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: ring of firefist
+name: Ring of Firefist
+script: ''
+mesh: c\C_Ring_expensive_3.NIF
+icon: c\tx_ring_expensive03.tga
+enchanting: firefist_en
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 51
+  enchantment: 150

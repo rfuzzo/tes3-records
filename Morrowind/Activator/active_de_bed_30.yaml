@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: active_de_bed_30
+name: Hammock
+script: Bed_Standard
+mesh: f\Active_De_Bed_30.NIF

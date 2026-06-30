@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Rea_Regular_Warhammer_01
+name: Reachmen Warhammer
+script: ''
+mesh: Sky\w\Sky_RM_Warhammer_01.nif
+icon: Sky\w\Tx_W_RM_Warhammer_01.dds
+enchanting: ''
+data:
+  weight: 28.0
+  value: 60
+  weapon_type: BluntTwoClose
+  health: 1600
+  speed: 1.0
+  reach: 1.5
+  enchantment: 80
+  chop_min: 1
+  chop_max: 25
+  slash_min: 1
+  slash_max: 22
+  thrust_min: 1
+  thrust_max: 2
+  flags: ''

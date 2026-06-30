@@ -1,0 +1,49 @@
+type: Container
+flags: ''
+id: de_drawers_Divayth00
+name: Divayth's Chest of Drawers
+script: ''
+mesh: o\Contain_De_Drawers_02.NIF
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - common_amulet_01
+- - 1
+  - common_amulet_04
+- - 1
+  - common_ring_01
+- - 1
+  - common_skirt_04
+- - 1
+  - common_skirt_02
+- - 1
+  - extravagant_skirt_01
+- - 1
+  - common_glove_left_01
+- - 1
+  - common_glove_right_01
+- - 1
+  - common_robe_02_hh
+- - 1
+  - common_robe_04
+- - 1
+  - common_robe_03
+- - 1
+  - common_belt_03
+- - 1
+  - common_belt_05
+- - 1
+  - common_shirt_01_e
+- - 1
+  - common_shirt_02
+- - 1
+  - common_shirt_04
+- - 1
+  - common_shoes_02
+- - 1
+  - common_shoes_05
+- - 1
+  - common_pants_01_u
+- - 1
+  - common_pants_03_c

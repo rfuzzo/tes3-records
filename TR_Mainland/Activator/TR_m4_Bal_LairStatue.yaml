@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m4_Bal_LairStatue
+name: Statue of Molag Bal
+script: ''
+mesh: x\Ex_Dae_MolagBal.NIF

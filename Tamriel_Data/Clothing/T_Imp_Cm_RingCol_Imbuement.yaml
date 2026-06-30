@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Imp_Cm_RingCol_Imbuement
+name: Ring of Imbuement
+script: ''
+mesh: pc\c\pc_Col_Ring_Cm_01.nif
+icon: pc\c\pc_Col_Ring_Cm_01.dds
+enchanting: dynamic transfiguring wisdom_e
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 21
+  enchantment: 10

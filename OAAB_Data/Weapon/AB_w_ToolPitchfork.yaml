@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_ToolPitchfork
+name: Pitchfork
+script: ''
+mesh: OAAB\w\momo_pitchfork.nif
+icon: OAAB\w\w_pitchfork.tga
+enchanting: ''
+data:
+  weight: 8.0
+  value: 9
+  weapon_type: SpearTwoWide
+  health: 450
+  speed: 1.0
+  reach: 1.7
+  enchantment: 50
+  chop_min: 1
+  chop_max: 4
+  slash_min: 1
+  slash_max: 4
+  thrust_min: 4
+  thrust_max: 13
+  flags: ''

@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_Nor_StonewareCandleWhite_64
+name: ''
+script: ''
+mesh: sky\l\sky_ligh_stwr_cndl_01.nif
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 64
+  color:
+  - 245
+  - 140
+  - 40
+  - 0
+  flags: DYNAMIC | FIRE | FLICKER_SLOW

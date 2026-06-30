@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_C_CdoubleOK
+name: CdoubleOK reference
+script: ''
+mesh: tr\tr_note_pin.nif
+icon: default icon.dds
+enchanting: ''
+text: Dubshal Hive is a reference to its developer, CdoubleOK.
+data:
+  weight: 0.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 0

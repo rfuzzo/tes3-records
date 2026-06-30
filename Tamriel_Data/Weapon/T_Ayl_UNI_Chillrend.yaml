@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Ayl_UNI_Chillrend
+name: Chillrend
+script: ''
+mesh: pc\w\pc_w_chillrend_uni.nif
+icon: pc\w\pc_w_chillrend_uni.dds
+enchanting: T_Strike_ChillrendUni
+data:
+  weight: 12.5
+  value: 24000
+  weapon_type: ShortBladeOneHand
+  health: 960
+  speed: 2.0
+  reach: 1.0
+  enchantment: 400
+  chop_min: 6
+  chop_max: 19
+  slash_min: 6
+  slash_max: 21
+  thrust_min: 8
+  thrust_max: 17
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

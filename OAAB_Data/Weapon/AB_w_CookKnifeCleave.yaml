@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_CookKnifeCleave
+name: Cleaver
+script: ''
+mesh: OAAB\w\cook_knife_cleave.nif
+icon: OAAB\w\w_cook_knife_cleave.tga
+enchanting: ''
+data:
+  weight: 0.5
+  value: 5
+  weapon_type: AxeOneHand
+  health: 100
+  speed: 2.0
+  reach: 0.9
+  enchantment: 5
+  chop_min: 2
+  chop_max: 5
+  slash_min: 1
+  slash_max: 3
+  thrust_min: 0
+  thrust_max: 1
+  flags: ''

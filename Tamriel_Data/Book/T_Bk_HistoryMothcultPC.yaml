@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_HistoryMothcultPC
+name: The Ancestor Moth Cult
+script: ''
+mesh: pc\m\pc_bk_book_38.nif
+icon: pc\m\pc_bk_book_38.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>Introduction to the Cult of the Ancestor Moth<BR>\r\n\r\n<BR>\r\n\r\n---<BR>\r\n\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n\r\nPromulgated under the Authority of the Imperial Geographical Society<BR>\r\n\r\n<BR>\r\n\r\n... For long the Cyro-Nordics had exported ancestor-silks to other regions, simple yet exotic shawls woven from the silks of an indigenous gypsy moth and inscribed with the requisite genealogy of its buyer. Under the Cult, however, ancestor and moth became synonymous: the singing and hymnal spirits of one's forebears are caught in a special silk-gathering ritual, the resource of which is used to create any manner of vestment or costume. The swishing of this material during normal movement reproduces the resplendent ancestral chorus contained therein-it quickly became a sacred custom among the early Nibenese, which has persisted to the present day. Monks of the higher orders of the Cult of the Ancestor-Moth are able to forego the magical ritual needed to enchant this fabric, and, indeed, prefer instead to wear the moths about the neck and face. They are able to attract the ancestor-moths through the application of finely ground bark-dust gathered from the gypsy moth's favorite tree, and through the sub-vocalization of certain mantras. They must chant the mantras constantly to maintain skin contact with the ancestor-moths, a discipline that they endure for the sake of some cosmic balance. When a monk interrupts these mantras, in conversation for example, the moths burst from him in glorious fashion every time he speaks, only to light back upon his skin when he resumes the inaudible chant.<BR>\r\n\r\n"
+data:
+  weight: 2.0
+  value: 40
+  book_type: Book
+  skill: None
+  enchantment: 0

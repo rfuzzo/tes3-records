@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_MARK_Gols_Sevlor
+name: Gols Sevlor
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: ''
+enchanting: ''
+text: marker for moving TR_m3_Gols_Sevlor
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

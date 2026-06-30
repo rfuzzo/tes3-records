@@ -1,0 +1,15 @@
+type: Container
+flags: BLOCKED
+id: urn_ash_Brinne00_unique
+name: Urn labeled "Lord Brinne"
+script: ''
+mesh: o\Contain_urn_05.NIF
+encumbrance: 10.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - ring_mentor_unique
+- - 1
+  - devote_Brinne_Dust_00
+- - 1
+  - key_Brinne_chest

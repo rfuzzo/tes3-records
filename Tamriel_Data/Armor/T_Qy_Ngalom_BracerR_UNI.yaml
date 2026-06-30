@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Qy_Ngalom_BracerR_UNI
+name: Right Guard of Ngalom
+script: ''
+mesh: pi\a\pi_a_guard_of_ngalom.nif
+icon: pi\a\Pi_a_guard_of_ngalom.dds
+enchanting: T_Use_Ngalom_R_Uni
+biped_objects:
+- biped_object_type: RightWrist
+  male_bodypart: T_A_PIGuardOfNgalom_W
+  female_bodypart: ''
+data:
+  armor_type: RightBracer
+  weight: 2.0
+  value: 5000
+  health: 68
+  enchantment: 200
+  armor_rating: 13

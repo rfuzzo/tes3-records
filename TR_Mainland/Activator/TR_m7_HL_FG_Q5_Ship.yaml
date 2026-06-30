@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_HL_FG_Q5_Ship
+name: ''
+script: TR_m7_HL_FG_Q5_ActSc
+mesh: tr\x\tr_ex_de_ship_small.nif

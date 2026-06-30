@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_QyK_CeramicCup_01
+name: Ceramic Cup
+script: ''
+mesh: pi\m\pi_m_cnq_c_cup_01.nif
+icon: pi\m\pi_m_cnq_c_cup_01.dds
+data:
+  weight: 0.5
+  value: 7
+  flags: ''

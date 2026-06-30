@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: BM_bear_cuirass_snow
+name: Snow Bear Cuirass
+script: ''
+mesh: a\A_Bear2_Cuirass_GND.NIF
+icon: A\Tx_Bear2_Cuirass.dds
+enchanting: snow shield
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: A_Bear2_cuirass
+  female_bodypart: A_Bear2_skinf
+data:
+  armor_type: Cuirass
+  weight: 25.0
+  value: 10000
+  health: 325
+  enchantment: 60
+  armor_rating: 35

@@ -1,0 +1,23 @@
+type: Container
+flags: ''
+id: TR_m7_LA6_Grotto_1_U_Ju
+name: Urn
+script: ''
+mesh: o\Contain_urn_01.NIF
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - amulet of light
+- - 1
+  - belt of iron will
+- - 1
+  - common_amulet_01
+- - 1
+  - common_amulet_02
+- - 1
+  - common_amulet_05
+- - 2
+  - common_belt_01
+- - 2
+  - common_ring_01

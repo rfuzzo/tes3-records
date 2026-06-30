@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_OE_sign_c_weapons_01
+name: Iela Free-Bear's Exotic Weapons
+script: SignRotate
+mesh: TR\f\tr_act_sign_arms_04.nif

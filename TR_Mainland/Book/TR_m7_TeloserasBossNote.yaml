@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_TeloserasBossNote
+name: BossNote
+script: ''
+mesh: tr\tr_note_pin.nif
+icon: default icon.dds
+enchanting: ''
+text: This is the bandit leader's room, which they share with their spouse. The leader should be wearing some pretty good armour and using a good weapon. Might be a worthy bounty target.
+data:
+  weight: 0.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 0

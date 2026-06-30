@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Nor_UNI_Red_Eagles_Bane_01
+name: Red Eagle's Bane
+script: ''
+mesh: sky\w\sky_w_eagles_bane_uni.nif
+icon: sky\w\sky_w_eagles_bane_uni.dds
+enchanting: T_Strike_Eagle_Bane
+data:
+  weight: 15.0
+  value: 35000
+  weapon_type: LongBladeOneHand
+  health: 1200
+  speed: 1.25
+  reach: 1.0
+  enchantment: 60
+  chop_min: 12
+  chop_max: 24
+  slash_min: 8
+  slash_max: 24
+  thrust_min: 4
+  thrust_max: 24
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

@@ -1,0 +1,12 @@
+type: Apparatus
+flags: PERSISTENT
+id: TR_m7_apparatus_sm_retort_02
+name: Secret Master's Retort
+script: TR_m7_SM_sm_retort_disable
+mesh: m\Apparatus_S_Retort_01.nif
+icon: m\Tx_retort_05.tga
+data:
+  apparatus_type: Retort
+  quality: 2.0
+  weight: 2.0
+  value: 2400

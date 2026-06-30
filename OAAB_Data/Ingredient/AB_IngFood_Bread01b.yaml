@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: AB_IngFood_Bread01b
+name: Bread
+script: ''
+mesh: OAAB\n\ingred_bread_01b.nif
+icon: OAAB\n\ingred_bread_01b.dds
+data:
+  weight: 0.1
+  value: 1
+  effects:
+  - RestoreFatigue
+  - None
+  - None
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

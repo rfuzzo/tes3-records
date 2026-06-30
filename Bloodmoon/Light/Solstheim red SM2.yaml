@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: Solstheim red SM2
+name: ''
+script: ''
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 150
+  color:
+  - 221
+  - 160
+  - 34
+  - 0
+  flags: DYNAMIC

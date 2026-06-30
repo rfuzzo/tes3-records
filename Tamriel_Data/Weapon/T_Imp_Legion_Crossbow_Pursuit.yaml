@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Imp_Legion_Crossbow_Pursuit
+name: Imperial Crossbow of Pursuit
+script: ''
+mesh: tr\w\tr_w_imp_crossbow.nif
+icon: tr\w\tr_w_imp_crossbow.dds
+enchanting: feet of notorgo_en
+data:
+  weight: 11.0
+  value: 250
+  weapon_type: MarksmanCrossbow
+  health: 500
+  speed: 1.0
+  reach: 1.0
+  enchantment: 60
+  chop_min: 18
+  chop_max: 18
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: ''

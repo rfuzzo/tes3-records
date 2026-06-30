@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: TR_m1_Leviathan_Kontin
+name: Kontin Arynx
+script: ''
+mesh: o\contain_corpse20.NIF
+encumbrance: 120.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Imp_Gold_Boots_02
+- - 1
+  - T_Imp_Gold_Greaves_02
+- - 1
+  - ingred_bonemeal_01

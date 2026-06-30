@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_GlassTanto
+name: Glass Tanto
+script: ''
+mesh: OAAB\w\glass_tanto.nif
+icon: OAAB\w\w_glassTanto.tga
+enchanting: ''
+data:
+  weight: 3.0
+  value: 5000
+  weapon_type: ShortBladeOneHand
+  health: 220
+  speed: 2.25
+  reach: 1.0
+  enchantment: 66
+  chop_min: 7
+  chop_max: 15
+  slash_min: 7
+  slash_max: 15
+  thrust_min: 7
+  thrust_max: 15
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

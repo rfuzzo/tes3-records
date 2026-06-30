@@ -1,0 +1,25 @@
+type: Container
+flags: ''
+id: TR_m3_Aar_Cont_NecChe
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 42
+  - Gold_001
+- - 1
+  - Misc_SoulGem_Common
+- - 1
+  - Misc_SoulGem_Greater
+- - 1
+  - bk_legionsofthedead
+- - 2
+  - p_restore_magicka_q
+- - 3
+  - p_restore_magicka_s
+- - 1
+  - sc_summongoldensaint
+- - 1
+  - steel tanto

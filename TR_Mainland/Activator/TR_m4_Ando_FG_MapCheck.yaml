@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_Ando_FG_MapCheck
+name: Map Check
+script: TR_m4_FG_MapCheck_scp
+mesh: EditorMarker.NIF

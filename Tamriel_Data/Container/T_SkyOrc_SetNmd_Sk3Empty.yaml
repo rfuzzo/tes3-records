@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: T_SkyOrc_SetNmd_Sk3Empty
+name: Sack
+script: ''
+mesh: Sky\o\Sky_Cont_Orc_Sack_03.nif
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory: []

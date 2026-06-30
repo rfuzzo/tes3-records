@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_q_EggmineStock
+name: Ushudartus Stock Certificate
+script: ''
+mesh: m\Text_Scroll_01.NIF
+icon: m\Tx_scroll_open_01.tga
+enchanting: ''
+text: "This certifies that %PCNAME is the owner of<BR>\r\n<BR>\r\nOne Hundred<BR>\r\n<BR>\r\nfully paid and non-assessable shares, of the par value of one (1) Septim each, of the common stock of the Ovimus Egg Mining Cooperation (hereafter referred to as \"the Cooperation\"), transferrable on the books of the Cooperation by the Holder himself in person or by duly authorized representative of the Holder upon surrender of this certificate properly endorsed. <BR>\r\nThis certificate and the shares represented hereby are issued and shall be held subject to all provisions of the Articles of Incorporation to all which by acceptance the holder hereof assents.<BR>\r\n<BR>\r\nSigned<BR>\r\n<BR>\r\nM. Ovimus<BR>"
+data:
+  weight: 0.2
+  value: 10
+  book_type: Scroll
+  skill: None
+  enchantment: 0

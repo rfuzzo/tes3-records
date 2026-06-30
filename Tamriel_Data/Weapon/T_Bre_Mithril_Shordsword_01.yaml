@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Bre_Mithril_Shordsword_01
+name: Mithril Shortsword
+script: ''
+mesh: tr\w\tr_w_mithril_ssword.nif
+icon: tr\w\tr_w_mithril_ssword.dds
+enchanting: ''
+data:
+  weight: 12.8
+  value: 5500
+  weapon_type: ShortBladeOneHand
+  health: 600
+  speed: 2.0
+  reach: 1.0
+  enchantment: 400
+  chop_min: 7
+  chop_max: 13
+  slash_min: 7
+  slash_max: 13
+  thrust_min: 7
+  thrust_max: 18
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_FM_Act_RecallFixer_FMGH
+name: ''
+script: TR_FM_Act_RecallFixer_FMGH_sc
+mesh: EditorMarker.NIF

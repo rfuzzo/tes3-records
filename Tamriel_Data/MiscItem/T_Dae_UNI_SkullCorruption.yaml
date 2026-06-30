@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Dae_UNI_SkullCorruption
+name: Skull of Corruption
+script: ''
+mesh: tr\m\tr_misc_skull_corr.nif
+icon: tr\m\tr_misc_skull_corr_01.dds
+data:
+  weight: 1.5
+  value: 7500
+  flags: ''

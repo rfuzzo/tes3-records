@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: 'TR_m7_Sharai_SGsword '
+name: Iron Great Sparksword
+script: ''
+mesh: sky\w\sky_w_iron_gsword.nif
+icon: sky\w\sky_w_iron_gsword.dds
+enchanting: spark_enu
+data:
+  weight: 32.0
+  value: 205
+  weapon_type: LongBladeTwoClose
+  health: 1600
+  speed: 1.25
+  reach: 1.0
+  enchantment: 72
+  chop_min: 1
+  chop_max: 26
+  slash_min: 1
+  slash_max: 24
+  thrust_min: 1
+  thrust_max: 8
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

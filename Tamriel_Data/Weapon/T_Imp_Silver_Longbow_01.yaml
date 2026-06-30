@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Imp_Silver_Longbow_01
+name: Silver Longbow
+script: ''
+mesh: tr\w\tr_w_silver_longbow.nif
+icon: tr\w\tr_w_silver_longbow.tga
+enchanting: ''
+data:
+  weight: 10.0
+  value: 600
+  weapon_type: MarksmanBow
+  health: 750
+  speed: 1.0
+  reach: 1.0
+  enchantment: 40
+  chop_min: 1
+  chop_max: 32
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE | SILVER

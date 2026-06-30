@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: keening
+name: Keening
+script: ouch_keening
+mesh: w\W_Art_keening.NIF
+icon: w\tx_art_keening.tga
+enchanting: keening_en
+data:
+  weight: 9.0
+  value: 400000
+  weapon_type: ShortBladeOneHand
+  health: 1300
+  speed: 2.5
+  reach: 1.0
+  enchantment: 60
+  chop_min: 9
+  chop_max: 15
+  slash_min: 9
+  slash_max: 15
+  thrust_min: 9
+  thrust_max: 18
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

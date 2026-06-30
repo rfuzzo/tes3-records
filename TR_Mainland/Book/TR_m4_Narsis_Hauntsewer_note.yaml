@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_Narsis_Hauntsewer_note
+name: Warning to Vagrants
+script: ''
+mesh: m\Text_Note_02.nif
+icon: m\Tx_note_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nVagrants,<BR>\r\n<BR>\r\nPlease leave these sewers alone. Our ancestors roam.<BR>\r\n<BR>\r\n\r\n"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

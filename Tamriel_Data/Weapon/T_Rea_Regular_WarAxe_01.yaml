@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Rea_Regular_WarAxe_01
+name: Reachmen War Axe
+script: ''
+mesh: Sky\w\Sky_RM_Waraxe_01.nif
+icon: Sky\w\Tx_W_RM_Waraxe_01.dds
+enchanting: ''
+data:
+  weight: 32.0
+  value: 125
+  weapon_type: AxeOneHand
+  health: 800
+  speed: 1.25
+  reach: 1.0
+  enchantment: 50
+  chop_min: 1
+  chop_max: 30
+  slash_min: 1
+  slash_max: 20
+  thrust_min: 1
+  thrust_max: 5
+  flags: ''

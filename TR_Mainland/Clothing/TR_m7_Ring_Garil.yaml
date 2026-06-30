@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m7_Ring_Garil
+name: Garil Barayn's Ring
+script: ''
+mesh: c\C_Ring_expensive_1.NIF
+icon: c\tx_ring_expensive01.tga
+enchanting: TR_m7_Ring_Garil_en
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 150
+  enchantment: 150

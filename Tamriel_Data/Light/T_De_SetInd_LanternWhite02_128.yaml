@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_De_SetInd_LanternWhite02_128
+name: Indoril Lantern
+script: ''
+mesh: TR\l\TR_l_de_MhLant_whi_02.nif
+icon: TR\l\TR_l_de_MhLant_whi_02.dds
+sound: ''
+data:
+  weight: 4.0
+  value: 24
+  time: 150
+  radius: 128
+  color:
+  - 245
+  - 140
+  - 40
+  - 0
+  flags: DYNAMIC | CAN_CARRY | PULSE_SLOW

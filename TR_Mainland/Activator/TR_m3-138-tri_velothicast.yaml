@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3-138-tri_velothicast
+name: ''
+script: TR_m3_velothmiracle_i3_138_tri
+mesh: EditorMarker_box_01.NIF

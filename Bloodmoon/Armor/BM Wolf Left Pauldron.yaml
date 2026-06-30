@@ -1,0 +1,22 @@
+type: Armor
+flags: ''
+id: BM Wolf Left Pauldron
+name: Wolf Left Pauldron
+script: ''
+mesh: a\A_Wolf2_Pauldron_GND.NIF
+icon: A\Tx_Wolf2_Pauldron.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: LeftUpperArm
+  male_bodypart: A_Wolf2_Pauldron_UA
+  female_bodypart: ''
+- biped_object_type: LeftForearm
+  male_bodypart: A_Wolf2_Pauldron_FA
+  female_bodypart: ''
+data:
+  armor_type: LeftPauldron
+  weight: 2.4
+  value: 60
+  health: 100
+  enchantment: 16
+  armor_rating: 15

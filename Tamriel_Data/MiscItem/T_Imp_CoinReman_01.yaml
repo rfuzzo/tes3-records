@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_CoinReman_01
+name: Second Empire Coin
+script: ''
+mesh: pc\m\pc_coin_reman.nif
+icon: pc\m\pc_misc_reman_coin.dds
+data:
+  weight: 0.05
+  value: 15
+  flags: ''

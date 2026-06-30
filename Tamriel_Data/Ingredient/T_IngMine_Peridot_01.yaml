@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngMine_Peridot_01
+name: Peridot
+script: ''
+mesh: tr\n\tr_ing_peridot.nif
+icon: tr\n\tr_ing_peridot.dds
+data:
+  weight: 0.2
+  value: 100
+  effects:
+  - FortifyHealth
+  - RestoreFatigue
+  - DrainMagicka
+  - FortifyAttribute
+  skills:
+  - None
+  - None
+  - None
+  - Block
+  attributes:
+  - None
+  - None
+  - None
+  - Intelligence

@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: T_Ayl_DngRuin_SecrWall_02_down
+name: ''
+script: T_ScObj_AylSecWall_Down
+mesh: pc\i\PC_In_Ar_HallSecDoor01.nif

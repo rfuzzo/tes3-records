@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: TR_m1_Q59_PR_Basket_1
+name: Basket
+script: TR_m1_Q59_PR_script_2
+mesh: o\Contain_Com_Basket_01.NIF
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - food_kwama_egg_01
+- - 1
+  - ingred_crab_meat_01
+- - 2
+  - ingred_scrib_jerky_01

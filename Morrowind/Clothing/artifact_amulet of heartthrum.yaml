@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: artifact_amulet of heartthrum
+name: Amulet of Heartthrum
+script: ''
+mesh: c\Artifact_amulet_hthrum_01.NIF
+icon: c\Tx_amulet_hthrum_01.tga
+enchanting: ward of tureynul
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 5.0
+  value: 20000
+  enchantment: 600

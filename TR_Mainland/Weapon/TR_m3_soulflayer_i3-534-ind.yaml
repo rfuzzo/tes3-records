@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m3_soulflayer_i3-534-ind
+name: Soul Flayer of Sharmat Ahil
+script: ''
+mesh: TR\w\tr_w_6th_sickle_AY.nif
+icon: TR\w\tr_w_6th_sickle_AY.dds
+enchanting: TR_m3_flayer-en_i3-534-ind
+data:
+  weight: 50.0
+  value: 6500
+  weapon_type: AxeTwoHand
+  health: 4000
+  speed: 1.0
+  reach: 1.5
+  enchantment: 100
+  chop_min: 1
+  chop_max: 40
+  slash_min: 1
+  slash_max: 35
+  thrust_min: 1
+  thrust_max: 8
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

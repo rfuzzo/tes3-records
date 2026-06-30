@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_HourglassPewter
+name: Pewter Hourglass
+script: ''
+mesh: OAAB\m\hourglass_poor.nif
+icon: OAAB\m\hourglass_plain.tga
+data:
+  weight: 0.75
+  value: 12
+  flags: ''

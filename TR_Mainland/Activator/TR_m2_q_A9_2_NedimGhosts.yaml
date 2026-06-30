@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m2_q_A9_2_NedimGhosts
+name: ''
+script: TR_m2_q_A9_2_NedimGhostsScript
+mesh: EditorMarker.NIF

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: misc_uniq_egg_of_gold
+name: Golden Egg
+script: ''
+mesh: m\Misc_kwamaegg_gold_01.NIF
+icon: m\Tx_food_kwama_egg_02.tga
+data:
+  weight: 30.0
+  value: 150
+  flags: ''

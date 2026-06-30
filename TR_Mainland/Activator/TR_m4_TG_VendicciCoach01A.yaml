@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m4_TG_VendicciCoach01A
+name: ''
+script: TR_m4_TG_VendicciCoach01_scp
+mesh: sky\x\sky_ex_wagon_03.nif

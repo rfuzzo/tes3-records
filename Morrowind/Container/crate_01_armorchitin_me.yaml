@@ -1,0 +1,31 @@
+type: Container
+flags: ''
+id: crate_01_armorchitin_me
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - chitin_shield
+- - 1
+  - chitin_towershield
+- - 1
+  - chitin guantlet - right
+- - 1
+  - chitin guantlet - left
+- - 1
+  - chitin boots
+- - 1
+  - chitin greaves
+- - 1
+  - chitin pauldron - right
+- - 1
+  - chitin pauldron - left
+- - 1
+  - chitin cuirass
+- - 1
+  - chitin helm
+- - 1
+  - chitin_mask_helm

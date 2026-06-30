@@ -1,0 +1,17 @@
+type: Clothing
+flags: ''
+id: exquisite_skirt_01
+name: Exquisite Skirt
+script: ''
+mesh: c\C_Skirt_exquisite_1_GND.NIF
+icon: c\tx_skirt_exquisite_1.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: Skirt
+  male_bodypart: c_skirt_exquisite_1
+  female_bodypart: ''
+data:
+  clothing_type: Skirt
+  weight: 2.0
+  value: 120
+  enchantment: 600

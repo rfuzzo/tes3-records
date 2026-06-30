@@ -1,0 +1,11 @@
+type: MiscItem
+flags: PERSISTENT
+id: misc_com_bucket_boe_UNIa
+name: Bucket
+script: ''
+mesh: m\Misc_Com_Bucket_01.NIF
+icon: m\Misc_Com_Bucket_01.tga
+data:
+  weight: 5.0
+  value: 2
+  flags: ''

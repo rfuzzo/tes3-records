@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m2_kmlz_Kark_lava
+name: ''
+script: lava
+mesh: i\In_lava_256A.NIF

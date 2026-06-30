@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: T_CathKep_Furn_Urn_02
+name: Urn
+script: ''
+mesh: td\td_help_deprec_01.nif
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory: []

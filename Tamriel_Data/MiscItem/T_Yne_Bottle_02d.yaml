@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Yne_Bottle_02d
+name: Bottle
+script: ''
+mesh: pi\m\pi_misc_bottleynes_02d.nif
+icon: pi\m\pi_misc_bottleynes_02d.dds
+data:
+  weight: 1.5
+  value: 2
+  flags: ''

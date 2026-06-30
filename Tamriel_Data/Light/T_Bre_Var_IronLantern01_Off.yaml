@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_Bre_Var_IronLantern01_Off
+name: Iron Lantern
+script: ''
+mesh: hr\l\hr_l_lantern_iron_01.nif
+icon: hr\l\hr_l_lantern_iron_01.dds
+sound: ''
+data:
+  weight: 5.0
+  value: 12
+  time: 120
+  radius: 128
+  color:
+  - 245
+  - 140
+  - 40
+  - 0
+  flags: DYNAMIC | CAN_CARRY | FIRE | OFF_BY_DEFAULT | FLICKER_SLOW

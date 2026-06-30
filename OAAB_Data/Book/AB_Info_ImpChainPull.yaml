@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: AB_Info_ImpChainPull
+name: InfoBox - Imperial Chain Pull
+script: ''
+mesh: OAAB\h\marker_info.nif
+icon: OAAB\h\marker_info.tga
+enchanting: ''
+text: "Chain pull can be used for any number of scripted events. The example shown here is for an opening door.\r\n\r\nIdle - chain pull not pulled (static)\r\nIdle2 - chain pull being pulled down\r\nIdle3 - chain lifting back up\r\nIdle4 - chain pulled down (static)"
+data:
+  weight: 0.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 100

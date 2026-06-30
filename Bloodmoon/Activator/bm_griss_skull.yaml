@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: bm_griss_skull
+name: Skull of Griss the Yellow
+script: GrissSkull
+mesh: m\misc_skull00.nif

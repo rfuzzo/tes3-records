@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2_bk_CaptainsLog2_i2-279
+name: A worn and weathered page
+script: ''
+mesh: m\Text_Note_02.nif
+icon: m\Tx_note_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n15th. The worst has happened! The rain has turned into a storm, and I ordered all hands to work. For two whole days the tempest continued, then the mess sprang a leak and the ship began to sink. As the ship didn't have any spare planks, I went downstairs with some of the crew to disassemble some crates for their wood, but we became trapped in there when the trapdoor wouldn't budge. I could hear the movements above deck--a very loud crash, a rush to the front of the ship, the sound of water flooding into the mess--and no one would answer our calls for help.<BR>\r\nI suspected that the remaining crew had abandoned ship and knew that all was lost. For what seemed like an age, the ship sank lower and lower into the water, before finally smashing against the bottom. The ship must have broken right through the seabed and into some cave. Water came rushing into the ship and then receded back again, washing us into a cavern through a hole in the ship's side.<BR>\r\nI do not know how I survived, few others had, nor how I was able to find a ledge and struggle onto it. I lay there for a long while, panting, gathering my strength. I could barely discern the breathing of Gro-Burga and Felmarel beside me. Felmarel cast a light spell which revealed the whole cave. On one side, below the water, was the opening to the tunnel through which we entered. Planks shot out of it and it seemed to be almost caved in. Around us in the water floated wreckage and the rest of my companions, all dead. At the opposite end of the cave there was a way out of the room, high above the water. It was to this that we three made our way.<BR>\r\nGro-Burga managed to clamber into the tunnel and pulled both of us up to him. We walked up the tunnel and had just turned a horse-shoe bend before the spell ran out and we had to stumble through the darkness. Gro-Burga walked on a bit ahead before suddenly disappearing. He had fallen into a second cavern, and Felmarel and I soon joined him, though more carefully. Here we tried to sleep, huddled together.<BR>"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 50

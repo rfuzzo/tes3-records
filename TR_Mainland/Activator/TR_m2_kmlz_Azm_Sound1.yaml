@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m2_kmlz_Azm_Sound1
+name: Sound_Generator
+script: Sound_Power_light
+mesh: EditorMarker.NIF

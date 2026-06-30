@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Glb_Fauna_Beeswarm_04
+name: ''
+script: T_ScSound_Bees
+mesh: Sky\r\Sky_Bees_02.nif

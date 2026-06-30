@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: TR_m3-782_crate_01
+name: Crate
+script: ''
+mesh: o\Contain_crate_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_De_IndChevAram_Boots_01
+- - 1
+  - T_De_IndChevAram_BracerL_01
+- - 1
+  - T_De_IndChevAram_BracerR_01
+- - 1
+  - T_De_IndChevAram_Greaves_01

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: bookskill_conjuration5
+name: The Warrior's Charge
+script: ''
+mesh: m\Text_Octavo_04.nif
+icon: m\Tx_octavo_04.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe Warrior's Charge<BR>\r\nAn old poem of the Redguards<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nAnd the star sung far-flung tales<BR>\r\nWreathed in the silver of Yokuda fair,<BR>\r\nOf a Warrior who, arrayed in hue sails<BR>\r\nHis charges through the serpent's snare<BR>\r\n<BR>\r\nAnd the Lord of runes, so bored so soon,<BR>\r\nLeaves the ship for an evening's dare,<BR>\r\nPerchance to wake, the coiled snake,<BR>\r\nTo take its shirt of scales to wear<BR>\r\n<BR>\r\nAnd the Lady East, who e'ery beast,<BR>\r\nAsleep or a'prowl can rouse a scare,<BR>\r\nScreams as her eye, alight in the sky<BR>\r\nA worm no goodly sight can bear<BR>\r\n<BR>\r\nAnd the mailed Steed, ajoins the deed<BR>\r\nNot to be undone from his worthy share,<BR>\r\nRides the night, towards scale bright,<BR>\r\nLeaving the seasoned Warrior's care<BR>\r\n<BR>\r\nThen the serpent rose, and made stead to close,<BR>\r\nThe targets lay plain and there,<BR>\r\nBut the Warrior's blade the Snake unmade,<BR>\r\nAnd the charges wander no more, they swear<BR>\r\n<BR>\r\n"
+data:
+  weight: 3.0
+  value: 325
+  book_type: Book
+  skill: Conjuration
+  enchantment: 0

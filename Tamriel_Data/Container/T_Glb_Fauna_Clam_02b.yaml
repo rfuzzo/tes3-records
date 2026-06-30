@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: T_Glb_Fauna_Clam_02b
+name: Clam
+script: ''
+mesh: pi\o\pi_f_clam_02b.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - T_Glb_Random_FaunClam2bShell
+- - 1
+  - T_Glb_Random_FaunClamPearls
+- - 1
+  - T_IngCrea_ClamMeat

@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: T_SkyCom_Var_Sk2Food2
+name: Sack
+script: ''
+mesh: Sky\o\Sky_Cont_Sack_01_02.nif
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Sky_Random_FoodBreadEggCheese
+- - 2
+  - T_Sky_Random_FoodSimple
+- - 1
+  - T_Sky_Random_FoodVegetables

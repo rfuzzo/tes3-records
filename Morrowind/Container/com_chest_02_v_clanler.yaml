@@ -1,0 +1,31 @@
+type: Container
+flags: ''
+id: com_chest_02_v_clanler
+name: Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 400.0
+container_flags: IS_BASE
+inventory:
+- - -500
+  - chitin arrow
+- - -2
+  - random_iron_weapon
+- - -3
+  - random_de_shirt
+- - -3
+  - random_de_pants
+- - -4
+  - random_de_shoes_common
+- - -4
+  - random_com_kitchenware
+- - 3
+  - random_potion_bad
+- - -3
+  - torch
+- - 2
+  - p_drain_strength_q
+- - -2
+  - p_restore_health_b
+- - -2
+  - p_restore_fatigue_b

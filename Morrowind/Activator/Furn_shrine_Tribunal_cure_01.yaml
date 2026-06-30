@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: Furn_shrine_Tribunal_cure_01
+name: Shrine of the Tribunal
+script: shrineTemple
+mesh: f\Furn_shrine_tribunal_01.NIF

@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_i3-591_act_gate4
+name: ''
+script: ''
+mesh: tr\x\tr_ex_imp_grille_zy.nif

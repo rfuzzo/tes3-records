@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_sc_RR_einnisa_shoplist
+name: Shopping List
+script: ''
+mesh: m\Text_Note_02.nif
+icon: m\Tx_note_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"Left\" FONT COLOR=\"000000\" SIZE=\"2\" FACE=\"Magic Cards\"><BR>\r\nThings To Buy<BR><BR>\r\nAloe Pulp - IMPORTANT!!<BR>\r\nIronwood Nut<BR>\r\nMountain Goat's Milk<BR>\r\nGood Mortar & Pestle<BR>\r\nCrab Shell<BR>"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

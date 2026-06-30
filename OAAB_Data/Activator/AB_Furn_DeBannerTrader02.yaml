@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Furn_DeBannerTrader02
+name: ''
+script: OutsideBanner
+mesh: OAAB\u\de_banner_trade_02.nif

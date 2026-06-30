@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m4_menaan_int8_key_trap
+name: Nadras Arvel's Key
+script: TR_m4_menaan_int_8_script02
+mesh: TR\m\TR_Key_DD09.NIF
+icon: TR\m\TR_Key_DD09.dds
+data:
+  weight: 0.0
+  value: 5
+  flags: KEY

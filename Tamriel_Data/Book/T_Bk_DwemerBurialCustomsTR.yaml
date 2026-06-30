@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_DwemerBurialCustomsTR
+name: Dwemer Burial Customs
+script: ''
+mesh: TR\m\TR_book_closed_i07_AY.nif
+icon: TR\m\TR_book_closed_i07_AY.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nDwemer Burial Customs <BR>\r\nNedlir Andrethi <BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nAs many would know, the Dwemer were an atheistic and highly advanced race. Hence, their burial customs were quite different from Chimeri customs. The Dwemer didn't bury common folk in tombs. Instead they cremated them in lava, which gave them energy in a practice that can be described as sacred, if I can use this word to describe the feelings of non-religious people. Only aristocratic, important, or well-known Dwemer were buried in tombs, and every Dwemeri tomb was a masterpiece of stonework and masonry. Most Dwemeri tombs were quite inaccessible, with the entrances sealed so that only Dwemeri officials and the deceased's relatives could gain access to them. Most tombs were built to the same layout. When one first entered the tomb, he found himself facing a long passage leading downward. The actual entrance to the tomb was at the end of the long tunnel, closed off by another, more powerful door. <BR>\r\n<BR>\r\nThe main tomb itself was a long, wide great hall. The ceilings were supported by enormous columns, and sometimes even giant animunculi. All walls were covered by frescoes showing the great deeds of deceased Dwemeri. In the great hall, multiple statues of the buried Dwemer adorned the side walls of the tomb. Finally, at the far end of the burial hall was a raised dais, upon which the sarcophagus laid. If the Dwemer was of a very high significance, then its sarcophagus was guarded by a golem. The sarcophagi had different forms, dependant upon the trade of the deceased person. If the Dwemer was a warrior, it was in a form of warrior holding a sword. If they were a Tonal Architect, it was in the form of a god-like character that represented the science inherent between the mind and the body; only these architects could fathom the arcane secrets of the long fabled Heart of Lorkhan. However, if he or she was a monarch, they did not have a sarcophagus at all. Tales say that the monarchs' souls were infused into the golem, symbolizing eternal life. <BR>\r\n<BR>\r\nBody Storage and Preservation of the Deceased - \r\nBefore being placed into the sarcophagus, the body was raised over a heated stream or lava pit so that all moisture would evaporate from the body. The body was then frozen and carefully placed into the sarcophagus. It is unknown if the bodies still remain after the War of The First Council, as it has proven impossible to open the sarcophagi. <BR>\r\n<BR>\r\nAuthor's note: I present this text to the kind reader's judgment. In it, I tried to compile all my knowledge and thoughts on the topic. It is based mostly on what I've read and heard, not on what I've seen with my own eyes. <BR>"
+data:
+  weight: 2.0
+  value: 40
+  book_type: Book
+  skill: None
+  enchantment: 100

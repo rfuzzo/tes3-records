@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: AB_bk_FragmentsFromTheAdabal
+name: Fragments from "The Adabal-a"
+script: ''
+mesh: m\Text_Octavo_02.NIF
+icon: m\Tx_octavo_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nFragments from \"The Adabal-a\"<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nThe Pelinal:<BR>\r\n<BR>\r\n\"And in the blood-floored throne room of White-Gold, the severed head of Pelinal spoke to the winged-bull, Morihaus, demigod lover of Al-Esh, saying, ‘Our enemies have undone me, and spread my body into hiding. In mockery of divine purpose, the ayleids cut me into eighths, for they are obsessed with this number.’\"<BR>\r\n<BR>\r\n\"And Morihaus, confused, snorted through his ring, saying, ‘Your crusades went beyond her counsel, Whitestrake, but I am a bull, and therefore reckless in my wit. I think I would go and gore our prisoners if you had left any alive. You are blood-made-glorious, uncle, and will come again, as fox animal or light. Cyrod is still ours.’\"<BR>\r\n<BR>\r\nThe Bull-Lover of Alessia:<BR>\r\n<BR>\r\n\"In your histories you have many names for her: Al-Esh, given to her in awe, that when translated sounds like a redundancy, \"the high high\", from which come the more familiar corruptions: Aleshut, Esha, Alessia. You knew her as Paravant, given to her when crowned, \"first of its kind\", by which the gods meant a mortal worthy of the majesty that is killing-questing-healing, which is also Paraval, Pevesh, Perrethu, and, in my case, for it is what I called her when we were lovers: Paravania.<BR>\r\n<BR>\r\nThough she is gone to me, she remains bathed in stars, first Empress, Lady of Heaven, Queen-ut-Cyrod.\"<BR>\r\n<BR>"
+data:
+  weight: 3.0
+  value: 50
+  book_type: Book
+  skill: None
+  enchantment: 0

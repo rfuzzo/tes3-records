@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: misc_com_silverware_spoon
+name: Spoon
+script: ''
+mesh: m\Misc_Com_Silverware_Spoon.NIF
+icon: m\Misc_Com_Silverware_Spoon.tga
+data:
+  weight: 1.0
+  value: 6
+  flags: ''

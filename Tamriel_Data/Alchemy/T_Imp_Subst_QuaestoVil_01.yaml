@@ -1,0 +1,44 @@
+type: Alchemy
+flags: ''
+id: T_Imp_Subst_QuaestoVil_01
+name: Quaesto Vil
+script: ''
+mesh: pc\m\pc_misc_quaestovil_01.nif
+icon: pc\m\pc_misc_quaestovil_01.dds
+effects:
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Agility
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 20
+  max_magnitude: 20
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Speed
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 20
+  max_magnitude: 20
+- magic_effect: Blind
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 20
+  max_magnitude: 20
+- magic_effect: Sound
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 20
+  max_magnitude: 20
+data:
+  weight: 1.5
+  value: 150
+  flags: ''

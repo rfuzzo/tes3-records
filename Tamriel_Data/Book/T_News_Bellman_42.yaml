@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Bellman_42
+name: LICH LAID LOW
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_note_oe_news.nif
+icon: tr\m\tr_note_oe_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\TR_bellman_512_256.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nLICH LAID LOW<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nThe Knights of the Order of Ebonheart report that the undead menace infesting the Saros Archipelago is no more. Imperial forces are expected to secure the area in the coming weeks.<BR><BR>\r\nYears ago, a skeletal horde headed by the lich Grurn overran the Imperial fortifications on the archipelago, creating a danger to shipping in that section of the Inner Sea. The Order of Ebonheart was tasked with assembling a strike force to infiltrate the ruined Fort Firemoth and vanquish its unlawful occupant. Thanks to the hard work of these loyal citizens, the source of the threat has been removed and the dragon banner will once more fly above the battlements.<br><br>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

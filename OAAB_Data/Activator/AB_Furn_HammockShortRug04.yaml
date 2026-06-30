@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Furn_HammockShortRug04
+name: Hammock
+script: Bed_Standard
+mesh: OAAB\u\hammockShortRug04.nif

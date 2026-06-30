@@ -1,0 +1,22 @@
+type: Armor
+flags: ''
+id: T_Dae_UNI_LMethatsPauldron
+name: Lord Methats' Left Pauldron
+script: ''
+mesh: tr\a\tr_a_methatpauldrn_cl.nif
+icon: tr\a\tr_a_methatspauldrn.dds
+enchanting: T_Const_MethatsPauldronL
+biped_objects:
+- biped_object_type: LeftUpperArm
+  male_bodypart: a_daedric_pauldron_ua
+  female_bodypart: ''
+- biped_object_type: LeftPauldron
+  male_bodypart: T_A_DaeMethatsPauldr01_Cl
+  female_bodypart: ''
+data:
+  armor_type: LeftPauldron
+  weight: 30.0
+  value: 30000
+  health: 1050
+  enchantment: 0
+  armor_rating: 80

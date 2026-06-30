@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: TR_m3_tremelanit_chest
+name: Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - Potion_Cyro_Whiskey_01
+- - 1
+  - T_De_Drink_BourbonGoya_01
+- - 1
+  - T_Imp_SilverWareVase_01
+- - 1
+  - misc_clothbolt_03
+- - 1
+  - silver shortsword

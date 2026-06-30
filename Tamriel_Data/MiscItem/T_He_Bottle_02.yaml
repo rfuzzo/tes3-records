@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_He_Bottle_02
+name: Bottle
+script: ''
+mesh: sum\m\sum_misc_bottle_02.nif
+icon: sum\m\sum_misc_bottle_02.dds
+data:
+  weight: 1.0
+  value: 1
+  flags: ''

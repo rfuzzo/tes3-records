@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Imp_Legion_BroadswordBroke_01
+name: Broken Broadsword
+script: ''
+mesh: tr\w\tr_w_imp_bsword_02.nif
+icon: tr\w\tr_w_imp_bsword_brk.dds
+enchanting: ''
+data:
+  weight: 6.0
+  value: 1
+  weapon_type: ShortBladeOneHand
+  health: 300
+  speed: 1.05
+  reach: 1.0
+  enchantment: 0
+  chop_min: 3
+  chop_max: 6
+  slash_min: 2
+  slash_max: 6
+  thrust_min: 2
+  thrust_max: 6
+  flags: ''

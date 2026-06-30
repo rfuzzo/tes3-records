@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_HH_Dren_q_Orvas2
+name: Letter to Orvas Dren
+script: TR_m7_HH_Dren_q_Orvas2SC
+mesh: m\Text_paper_roll_01.nif
+icon: m\Tx_paper_roll_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"Left\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nTo Orvas Dren,<BR>\r\n<BR>\r\nI know you did it. You may deny it, but I know that, even if indirectly, Vedam's death is your fault. Why couldn't you just have a normal relationship with him? He was your brother! You just had to talk to him. But no! Great Orvas Dren is too prideful and arrogant for that. He would not steep that low. I am ashamed of you and what you have become. After what you did, I have no sons anymore.<BR>\r\n<BR>\r\nReleniah Dren<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

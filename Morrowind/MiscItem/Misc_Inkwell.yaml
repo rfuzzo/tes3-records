@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: Misc_Inkwell
+name: Inkwell
+script: ''
+mesh: m\Misc_Inkwell.NIF
+icon: m\Misc_Inkwell.tga
+data:
+  weight: 1.0
+  value: 2
+  flags: ''

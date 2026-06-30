@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_ScribPie_01
+name: Scrib Pie
+script: ''
+mesh: TR\n\TR_ing_scrib_pie.NIF
+icon: TR\n\TR_ing_scrib_pie.dds
+data:
+  weight: 1.0
+  value: 10
+  effects:
+  - RestoreFatigue
+  - None
+  - None
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

@@ -1,0 +1,35 @@
+type: Clothing
+flags: ''
+id: TR_m3_jacket_of_all_trades_uni
+name: Jacket-of-All-Trades
+script: ''
+mesh: tr\c\tr_c_shirt_oe_03_gnd.nif
+icon: tr\c\tr_c_shirt_oe_03.dds
+enchanting: TR_m3_OE_AllTradesJacketEn
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_C_DeEtShirt04_C
+  female_bodypart: ''
+- biped_object_type: LeftUpperArm
+  male_bodypart: T_C_DeEtShirt04_UA
+  female_bodypart: ''
+- biped_object_type: RightUpperArm
+  male_bodypart: T_C_DeEtShirt04_UA
+  female_bodypart: ''
+- biped_object_type: LeftForearm
+  male_bodypart: T_C_DeEtShirt04_Fa
+  female_bodypart: ''
+- biped_object_type: RightForearm
+  male_bodypart: T_C_DeEtShirt04_Fa
+  female_bodypart: ''
+- biped_object_type: LeftWrist
+  male_bodypart: T_C_DeEtShirt04_W
+  female_bodypart: ''
+- biped_object_type: RightWrist
+  male_bodypart: T_C_DeEtShirt04_W
+  female_bodypart: ''
+data:
+  clothing_type: Shirt
+  weight: 2.0
+  value: 900
+  enchantment: 120

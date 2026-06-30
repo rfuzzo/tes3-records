@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_GlassSaber
+name: Glass Saber
+script: ''
+mesh: OAAB\w\glass_saber.nif
+icon: OAAB\w\glass_saber.dds
+enchanting: ''
+data:
+  weight: 10.0
+  value: 14000
+  weapon_type: LongBladeOneHand
+  health: 420
+  speed: 1.4
+  reach: 1.0
+  enchantment: 26
+  chop_min: 2
+  chop_max: 33
+  slash_min: 1
+  slash_max: 21
+  thrust_min: 1
+  thrust_max: 13
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_Hlaalu2_Note_04
+name: Note to a Thief
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nNice try, thief. <BR>"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

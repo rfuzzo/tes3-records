@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m2_act_tel_sigil_i327
+name: Great House Telvanni
+script: TR_m2_script_sigil_i327
+mesh: x\Ex_V_sign_telvanni_01.NIF

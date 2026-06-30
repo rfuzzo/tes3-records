@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_w_EbonyArrow10x
+name: Ebony Arrow (10)
+script: AB_QuiverEbony10x_s
+mesh: OAAB\w\quiver_ebony.nif
+icon: w\tx_arrow_ebony.dds
+data:
+  weight: 2.0
+  value: 100
+  flags: ''

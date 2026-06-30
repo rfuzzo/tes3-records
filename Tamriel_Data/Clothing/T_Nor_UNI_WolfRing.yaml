@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Nor_UNI_WolfRing
+name: Ring of the Wolf Queen
+script: ''
+mesh: Sky\c\sky_uni_wolfqueen_01.nif
+icon: sky\c\tx_ring_wolf_queen.dds
+enchanting: T_Use_WolfRing
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 30000
+  enchantment: 270

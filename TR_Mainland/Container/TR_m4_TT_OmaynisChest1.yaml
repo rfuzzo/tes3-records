@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m4_TT_OmaynisChest1
+name: Velothi Coffer
+script: TR_m4_TT_LastWillEnable_sc
+mesh: tr\o\tr_cont_v_coffer_01.nif
+encumbrance: 10.0
+container_flags: IS_BASE
+inventory:
+- - 13
+  - T_Mw_Random_Gems

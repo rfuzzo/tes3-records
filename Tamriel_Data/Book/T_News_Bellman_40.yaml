@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Bellman_40
+name: RED SECUNDA STUMPS ASTROLOGERS
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_note_oe_news.nif
+icon: tr\m\tr_note_oe_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\TR_bellman_512_256.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nRED SECUNDA STUMPS ASTROLOGERS<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nA spectacular sight occurred in the skies above our city as Secunda suddenly and without warning turned a deep crimson color. The unexplained discoloration lasted a number of days before the small moon reverted to its regular appearance, as though nothing at all had happened. The scholarly community is working overtime to study the cause and the implications of this event, but so far, no one satisfying explanation for the phenomenon has been proposed. Hypotheses range from high-altitude ash clouds to dark magics. Meanwhile, the Imperial Astrological Society is reportedly in disarray, having its long-held beliefs of Secunda as a stabilizing agent in our omens roundly shattered. Its members now fervently debate whether the crimson color indicates that the red ruby of our Empire will reign supreme, or whether a tide of blood will wash us all away. Unless the phenomenon repeats itself and the Imperial Mananauts stand at the ready to take a closer look, a satisfying answer may never be found.<br><br>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nKHAJIIT SURVIVES TALOS' TOWER TUMBLE<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nDuring this strange celestial phenomenon, a small group of Khajiit diplomats from the Elsweyr mission scrambled to the top of Talos' Tower and, in an apparent fit of moon-madness, started performing what seemed to be an acrobatics routine. Alas, as the diplomats stood balancing on one another's shoulders, a stiff breeze blew the top cat off of the tower and sent her tumbling down into the courtyard below. Miraculously, she was found completely unscathed, though clearly greatly confused, as she clamored: \"Oh Jone! We are too few and too feeble to brave Khenarthi's breath! Who now will pry the Lattice from the Hungry Cat's claws?\"<br><br>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

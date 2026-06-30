@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Com_Var_CauldronBoiling_04
+name: Boiling Water
+script: T_ScSound_WaterBoil
+mesh: TR\f\tr_furn_com_cauldboi02.nif

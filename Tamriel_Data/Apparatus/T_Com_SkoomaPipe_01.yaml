@@ -1,0 +1,12 @@
+type: Apparatus
+flags: ''
+id: T_Com_SkoomaPipe_01
+name: Skooma Pipe
+script: ''
+mesh: pc\m\pc_misc_skoomapipe.nif
+icon: pc\m\pc_misc_skoomapipe.dds
+data:
+  apparatus_type: Alembic
+  quality: 0.15
+  weight: 2.0
+  value: 50

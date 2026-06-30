@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_De_Set_BannerTownOuaka_01
+name: Adurin-Ouaka
+script: OutsideBanner
+mesh: TR\f\TR_banner_Adurin_Ouaka.nif

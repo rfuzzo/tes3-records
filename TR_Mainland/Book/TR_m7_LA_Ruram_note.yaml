@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_LA_Ruram_note
+name: Note to Ruram
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "Ruram!<BR>\r\n<BR>\r\nIf I catch you delirious on skooma while we're on a job one more time, I'm going to offer you as a gift to the next crazy mage we come across. Maybe they'll find a use for a mer whose brain is half sugar.<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

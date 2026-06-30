@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m1_RR_alch_Irele
+name: 'Irele Nathryon: Alchemist'
+script: OutsideBanner
+mesh: f\Furn_bannerD_alchemy_01.NIF

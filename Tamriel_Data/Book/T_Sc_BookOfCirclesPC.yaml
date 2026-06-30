@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Sc_BookOfCirclesPC
+name: The Book of Circles
+script: ''
+mesh: pc\m\pc_misc_rga_scrollBC.nif
+icon: pc\m\pc_misc_rga_scrollBC.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nTHE BOOK OF CIRCLES<BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\n<BR>\r\n[This treatise on swordsmanship, supposedly penned by Frandar Hunding himself, is considered a holy text by the Redguards. Traditionalist households often have an alcove near the hearth just big enough to hold a copy of the book, and readings are a part of daily life in Hammerfell. It lists the thirty-eight grips, seven hundred and fifty offensive and eighteen hundred defensive positions, and nearly nine thousand moves which the Redguards consider essential to sword mastery.]<BR>\r\n<BR>\r\n"
+data:
+  weight: 4.0
+  value: 250
+  book_type: Scroll
+  skill: LongBlade
+  enchantment: 100

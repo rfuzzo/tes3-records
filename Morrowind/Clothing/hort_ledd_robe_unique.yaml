@@ -1,0 +1,23 @@
+type: Clothing
+flags: ''
+id: hort_ledd_robe_unique
+name: Hort-Ledd's Robe
+script: ''
+mesh: c\C_M_Robe_Extrav_1b_GND.NIF
+icon: c\tx_robe_extrav_1b.tga
+enchanting: hort_ledd_shield
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: c_m_robe_extrav_1b
+  female_bodypart: ''
+- biped_object_type: LeftAnkle
+  male_bodypart: ''
+  female_bodypart: ''
+- biped_object_type: RightAnkle
+  male_bodypart: ''
+  female_bodypart: ''
+data:
+  clothing_type: Robe
+  weight: 3.0
+  value: 400
+  enchantment: 200

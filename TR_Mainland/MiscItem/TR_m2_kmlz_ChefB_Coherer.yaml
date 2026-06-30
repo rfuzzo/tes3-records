@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m2_kmlz_ChefB_Coherer
+name: Dwemer Coherer
+script: TR_m2_kmlz_ChefB_Coherer_sc
+mesh: m\misc_dwrv_artifact50.nif
+icon: m\misc_dwrv_artifact50.tga
+data:
+  weight: 0.0
+  value: 0
+  flags: ''

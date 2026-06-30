@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: devote_bone_Pop00
+name: Bone from Pop Je
+script: ''
+mesh: f\Furn_bone_01.nif
+icon: m\misc_Pop_bone00.tga
+data:
+  weight: 1.0
+  value: 1
+  flags: ''

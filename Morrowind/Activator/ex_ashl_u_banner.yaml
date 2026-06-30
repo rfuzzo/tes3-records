@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: ex_ashl_u_banner
+name: ''
+script: OutsideBanner
+mesh: f\Ex_Ashl_U_Banner.NIF

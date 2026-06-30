@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Imp_Legion_Warhammer_Poison
+name: Imperial Vipermauler
+script: ''
+mesh: tr\w\tr_w_imp_warhammer.nif
+icon: tr\w\tr_w_imp_warhammer.dds
+enchanting: cruel viper_en
+data:
+  weight: 34.0
+  value: 90
+  weapon_type: BluntTwoClose
+  health: 2600
+  speed: 1.0
+  reach: 1.5
+  enchantment: 60
+  chop_min: 1
+  chop_max: 30
+  slash_min: 1
+  slash_max: 25
+  thrust_min: 1
+  thrust_max: 2
+  flags: ''

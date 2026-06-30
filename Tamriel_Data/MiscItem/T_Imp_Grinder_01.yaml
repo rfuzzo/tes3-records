@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_Grinder_01
+name: Grinder
+script: ''
+mesh: pc\m\PC_misc_grinder.NIF
+icon: pc\m\pc_tx_grinder.dds
+data:
+  weight: 5.0
+  value: 10
+  flags: ''

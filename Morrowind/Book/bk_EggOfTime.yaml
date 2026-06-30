@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: bk_EggOfTime
+name: The Egg of Time
+script: eotScript
+mesh: m\Text_Folio_03.NIF
+icon: m\Tx_folio_03.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<IMG SRC=\"EggOfTime_Illust1.tga\" WIDTH=\"240\" HEIGHT=\"240\"><BR>\r\n<BR>\r\n<IMG SRC=\"EggOfTime_Illust2.tga\" WIDTH=\"240\" HEIGHT=\"240\"><BR>\r\n<BR>\r\n<IMG SRC=\"EggOfTime_Illust3.tga\" WIDTH=\"240\" HEIGHT=\"240\"><BR>\r\n<BR>\r\n<IMG SRC=\"EggOfTime_Illust4.tga\" WIDTH=\"240\" HEIGHT=\"240\"><BR>\r\n<BR>\r\n"
+data:
+  weight: 4.0
+  value: 1000
+  book_type: Book
+  skill: None
+  enchantment: 0

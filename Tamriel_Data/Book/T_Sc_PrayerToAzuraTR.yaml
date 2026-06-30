@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Sc_PrayerToAzuraTR
+name: A Prayer to Azura
+script: T_ScBook_SpLight
+mesh: m\text_scroll_03.nif
+icon: m\Tx_scroll_03.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>\r\nA prayer to Azura<BR>\r\n<BR>\r\nAs the time twists through the sphere of the sun<BR>\r\nconceiving the doing of all souls<BR>\r\npray it not be Mehrunes Dagon<BR>\r\nto reap the harvest you have sown<BR>\r\n<BR>\r\nBut on the grimmest of days when all has been taken,<BR>\r\nlet hope never be forsaken.<BR>\r\nInvoked through Nirn's fiery night,<BR>\r\nkneel upon the shrine of Azura<BR>\r\nand let there be a glimpse of light. <BR>\r\n"
+data:
+  weight: 1.5
+  value: 150
+  book_type: Scroll
+  skill: None
+  enchantment: 100

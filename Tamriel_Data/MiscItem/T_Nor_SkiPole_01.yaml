@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Nor_SkiPole_01
+name: Ski Pole
+script: ''
+mesh: sky\m\Sky_Misc_SkiPole_01.nif
+icon: sky\m\Tx_Misc_SkiPole_01.dds
+data:
+  weight: 1.5
+  value: 5
+  flags: ''

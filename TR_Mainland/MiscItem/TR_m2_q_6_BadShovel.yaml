@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m2_q_6_BadShovel
+name: Broken Muck Shovel
+script: ''
+mesh: m\Misc_muck_shovel_01.NIF
+icon: m\Tx_muck_shovel_01.tga
+data:
+  weight: 2.8
+  value: 0
+  flags: ''

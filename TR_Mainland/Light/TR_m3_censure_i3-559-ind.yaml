@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: TR_m3_censure_i3-559-ind
+name: ''
+script: ''
+mesh: l\Light_OM_censure.NIF
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 512
+  color:
+  - 237
+  - 176
+  - 63
+  - 0
+  flags: PULSE_SLOW

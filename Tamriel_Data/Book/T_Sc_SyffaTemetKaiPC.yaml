@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Sc_SyffaTemetKaiPC
+name: Syffa Temet Kai
+script: ''
+mesh: m\Text_Scroll_open_02.nif
+icon: m\Tx_scroll_open_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>\r\nSyffa Temet Kai<BR>\r\n<BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\nThe peerless soldier walks by righteous will,<BR>\r\nhe observes the dealings of the people,<BR>\r\nas a warrior observes the stance of his enemy.<BR>\r\nConsider justice, duty, and integrity,<BR>\r\nand commit fully to your decisions.<BR>\r\n<BR>\r\nThe peerless soldier fears nothing,<BR>\r\nhe neither throws his life away,<BR>\r\nnot preserves it in an eggshell.<BR>\r\nStride into battle with consideration,<BR>\r\nand never hesitate in your strike.<BR>\r\n<BR>\r\nThe peerless soldier abhors torture and needless death,<BR>\r\nthese things are without honor or principle,<BR>\r\nand unprofitable to yourself and your contractor.<BR>\r\nCultivate compassion and benevolence,<BR>\r\nand strike down only what offends you.<BR>\r\n<BR>\r\nThe peerless soldier strikes without remorse,<BR>\r\nhe makes no hollow promises or retractions,<BR>\r\nhis will and his action coincide exactly.<BR>\r\nLet nothing stop you from performing your duty,<BR>\r\nthe world must break to accommodate your will.<BR>\r\n<BR>\r\nThe peerless soldier is responsible for his deeds,<BR>\r\nhis actions and their consequences,<BR>\r\nhe is bound to the Way of the Syffim only.<BR>\r\nYour blade is bought and sold,<BR>\r\nbut your will is free from all restriction.<BR>\r\n<BR>\r\n<DIV ALIGN=\"RIGHT\"><BR>\r\n-- Dinieras-Ves<BR>"
+data:
+  weight: 1.5
+  value: 300
+  book_type: Scroll
+  skill: None
+  enchantment: 100

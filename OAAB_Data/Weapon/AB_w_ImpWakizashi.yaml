@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_ImpWakizashi
+name: Imperial Wakizashi
+script: ''
+mesh: OAAB\w\imp_wakizashi.nif
+icon: OAAB\w\w_impWakizashi.tga
+enchanting: ''
+data:
+  weight: 9.0
+  value: 68
+  weapon_type: ShortBladeOneHand
+  health: 550
+  speed: 2.25
+  reach: 1.0
+  enchantment: 60
+  chop_min: 9
+  chop_max: 13
+  slash_min: 8
+  slash_max: 15
+  thrust_min: 3
+  thrust_max: 7
+  flags: ''

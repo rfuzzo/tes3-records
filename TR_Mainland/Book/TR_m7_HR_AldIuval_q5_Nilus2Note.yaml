@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_HR_AldIuval_q5_Nilus2Note
+name: Nilus Indarys
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: ''
+enchanting: ''
+text: This is where TR_m7_Nilus Indarys will PositionCell before TR_m7_HR_WM_Ep. He will be dead upon moving
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

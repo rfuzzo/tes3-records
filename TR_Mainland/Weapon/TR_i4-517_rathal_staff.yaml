@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_i4-517_rathal_staff
+name: Giron Rathal's Staff
+script: ''
+mesh: w\w_silver_staff.nif
+icon: w\tx_silver_staff.dds
+enchanting: TR_i4-517_rathal_staff_en
+data:
+  weight: 6.4
+  value: 1200
+  weapon_type: BluntTwoWide
+  health: 270
+  speed: 1.75
+  reach: 1.5
+  enchantment: 200
+  chop_min: 2
+  chop_max: 7
+  slash_min: 3
+  slash_max: 7
+  thrust_min: 1
+  thrust_max: 5
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE | SILVER

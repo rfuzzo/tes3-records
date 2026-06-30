@@ -1,0 +1,22 @@
+type: Armor
+flags: ''
+id: T_Imp_ColFur_GauntL_03
+name: Colovian Fur Left Gauntlet
+script: ''
+mesh: pc\a\pc_a_cfur_handr_l_g.nif
+icon: pc\a\pc_a_cfur_hand_r_l.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: LeftHand
+  male_bodypart: T_A_ColoFur_Hand_R
+  female_bodypart: ''
+- biped_object_type: LeftWrist
+  male_bodypart: ''
+  female_bodypart: ''
+data:
+  armor_type: LeftGauntlet
+  weight: 1.5
+  value: 7
+  health: 25
+  enchantment: 60
+  armor_rating: 5

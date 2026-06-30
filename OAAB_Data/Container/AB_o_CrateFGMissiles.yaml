@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: AB_o_CrateFGMissiles
+name: Property of Fighters Guild
+script: ''
+mesh: OAAB\o\crateFG.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 100
+  - iron arrow
+- - 100
+  - iron bolt

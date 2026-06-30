@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: chest_small_02_Anis_Uni
+name: Small Chest
+script: ''
+mesh: o\Contain_chest_small_02.NIF
+encumbrance: 25.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - ingred_ash_salts_01
+- - 1
+  - ingred_bonemeal_01
+- - 1
+  - ingred_chokeweed_01
+- - 2
+  - ingred_crab_meat_01
+- - 4
+  - ingred_raw_ebony_01

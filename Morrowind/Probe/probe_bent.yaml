@@ -1,0 +1,12 @@
+type: Probe
+flags: ''
+id: probe_bent
+name: Bent Probe
+script: ''
+mesh: m\Probe_Apprentice_01.NIF
+icon: m\Tx_probe_A_01.tga
+data:
+  weight: 0.25
+  value: 2
+  quality: 0.25
+  uses: 5

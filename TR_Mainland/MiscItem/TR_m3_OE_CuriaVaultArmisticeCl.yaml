@@ -1,0 +1,11 @@
+type: MiscItem
+flags: PERSISTENT
+id: TR_m3_OE_CuriaVaultArmisticeCl
+name: Treaty of the Armistice
+script: TR_m3_OE_CuriaRealArmisticeSCP
+mesh: tr\m\tr_note_uni_armistice2.nif
+icon: tr\m\tr_sc_armistice_uni2.dds
+data:
+  weight: 0.5
+  value: 500000
+  flags: KEY

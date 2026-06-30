@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Glb_Sound_Water_Trickle
+name: 'Sound Effect: Water Trickle'
+script: T_ScSound_WaterTrickle
+mesh: EditorMarker.NIF

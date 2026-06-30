@@ -1,0 +1,15 @@
+type: Container
+flags: PERSISTENT
+id: TR_m1_Q_Niv_Lish_chest
+name: Chest
+script: ''
+mesh: o\contain_chest10.nif
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - TR_m1_Niv_q_LishAxe
+- - 1
+  - nordic_ringmail_cuirass
+- - 1
+  - orcish_bracer_right

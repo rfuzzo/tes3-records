@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: misc_skull_Skaal
+name: Skull of a Skaal Warrior
+script: ''
+mesh: m\misc_skull00.nif
+icon: m\misc_skull00.tga
+data:
+  weight: 0.5
+  value: 0
+  flags: ''

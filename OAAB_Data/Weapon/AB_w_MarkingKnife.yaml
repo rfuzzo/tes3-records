@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_MarkingKnife
+name: Marking Knife
+script: ''
+mesh: OAAB\w\w_markingknife_01.nif
+icon: OAAB\w\w_markingknife_01.dds
+enchanting: ''
+data:
+  weight: 1.0
+  value: 4
+  weapon_type: ShortBladeOneHand
+  health: 200
+  speed: 2.5
+  reach: 1.0
+  enchantment: 20
+  chop_min: 1
+  chop_max: 2
+  slash_min: 1
+  slash_max: 2
+  thrust_min: 1
+  thrust_max: 3
+  flags: ''

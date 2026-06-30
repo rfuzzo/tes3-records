@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_In_VelPlatformSpear
+name: ''
+script: AB_SpearTrap_s
+mesh: OAAB\i\v_platform_spear.nif

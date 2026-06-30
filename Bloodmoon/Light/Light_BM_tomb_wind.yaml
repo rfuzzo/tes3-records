@@ -1,0 +1,19 @@
+type: Light
+flags: PERSISTENT
+id: Light_BM_tomb_wind
+name: ''
+script: windlightScript
+mesh: l\Light_Fire.NIF
+icon: ''
+sound: Fire 50
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 512
+  color:
+  - 255
+  - 140
+  - 40
+  - 0
+  flags: DYNAMIC | FIRE | FLICKER_SLOW

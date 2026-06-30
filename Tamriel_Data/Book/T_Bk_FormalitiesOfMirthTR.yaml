@@ -1,0 +1,35 @@
+type: Book
+flags: ''
+id: T_Bk_FormalitiesOfMirthTR
+name: The Formalities of Mirth
+script: ''
+mesh: TR\m\TR_book_closed01_STH.nif
+icon: TR\m\TR_GW_book_closed_01.tga
+enchanting: ''
+text: |-
+  <DIV ALIGN="CENTER"><FONT COLOR="000000" SIZE="3" FACE="Magic Cards"><BR>The Formalities of Mirth<BR>
+  <DIV ALIGN="LEFT"><BR> by Draler Ilvi <BR>
+  <BR><BR>
+  "Gravity is the essential seriousness of life."<BR>
+  <BR>
+  Such is the creed of our Redoran brothers. Yet gravity is something that unites us all. There are few things so serene as the collective gravity of our House. We do not laugh in public.<BR>
+  <BR>
+  The foreigner does, and it is a vulgar scene to watch. Their stoic facade is repeatedly broken and replaced by baser displays of levity and mirth. In public. The apparent preposterousness of this outlander custom needs no further explanation.<BR>
+  <BR>
+  Diplomatic interests may, however, warrant participation in this outlander formality. Just as we have our customs, so does the outlander, as laughter is to them as titulature is to us.<BR>
+  <BR>
+  This brings a religious issue to the forefront. Public displays of laughter are impious. Recall this passage from The Sermons. "There was much biting and the earth became wet. And this was the last laugh of Molag Bal."<BR>
+  <BR>
+  There is further association of laughter with the House of Troubles. Sheoth is nothing but mania and mirth. Malacath's outcasts are ridiculed and being laughed at. Mehrunes embodies the chaos and disorder of unrestricted displays of merriment.<BR>
+  <BR>
+  So how does one partake in purposeful impiety? Spiritual precautions are in order. First, if one knows displays of laughter will be expected during the day, it is best to take to the knees and call to Saint Aralor, as preemptive penitence for the transgression to come. Second, count the times one laughs, taking into account both duration and frequency, and make financial amends in accordance to The Temple.<BR>
+  <BR>
+  The practice of laughter is a necessary evil when dealing with foreigners. It is gross and improper. Even so, it can be a valuable asset in diplomatic dealings. To paraphrase the warrior poet:<BR>
+  <BR>
+  "A laugh to your face and a spear in your back." <BR>
+data:
+  weight: 1.5
+  value: 85
+  book_type: Book
+  skill: None
+  enchantment: 0

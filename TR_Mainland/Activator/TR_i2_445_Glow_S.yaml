@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_i2_445_Glow_S
+name: ''
+script: TR_m2_445_sc_Glow_S
+mesh: tr\f\TR_act_nec_uc_glow_02.nif

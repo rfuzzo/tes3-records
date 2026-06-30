@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Com_Iron_Tanto_02
+name: Iron Tanto
+script: ''
+mesh: TR\w\TR_w_iron_tanto_02.nif
+icon: TR\w\TR_w_iron_tanto_02.dds
+enchanting: ''
+data:
+  weight: 4.0
+  value: 14
+  weapon_type: ShortBladeOneHand
+  health: 500
+  speed: 2.25
+  reach: 1.0
+  enchantment: 22
+  chop_min: 5
+  chop_max: 6
+  slash_min: 5
+  slash_max: 6
+  thrust_min: 6
+  thrust_max: 6
+  flags: ''

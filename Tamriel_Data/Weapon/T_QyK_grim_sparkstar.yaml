@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_QyK_grim_sparkstar
+name: Grim Sparkstar
+script: ''
+mesh: pi\w\pi_w_obsidian_star.nif
+icon: pi\w\pi_w_obsidian_star.dds
+enchanting: T_Strike_GrimSpark
+data:
+  weight: 0.1
+  value: 7
+  weapon_type: MarksmanThrown
+  health: 10
+  speed: 1.0
+  reach: 1.0
+  enchantment: 5
+  chop_min: 1
+  chop_max: 6
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: ''

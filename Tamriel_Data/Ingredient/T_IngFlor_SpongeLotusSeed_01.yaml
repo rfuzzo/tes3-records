@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_SpongeLotusSeed_01
+name: Sponge Lotus Seed
+script: ''
+mesh: tr\n\tr_n_spongelotusseed.nif
+icon: tr\n\tr_n_spongelotusseed.dds
+data:
+  weight: 0.1
+  value: 2
+  effects:
+  - RestoreFatigue
+  - DrainAttribute
+  - None
+  - None
+  skills:
+  - None
+  - Block
+  - None
+  - None
+  attributes:
+  - None
+  - Willpower
+  - None
+  - None

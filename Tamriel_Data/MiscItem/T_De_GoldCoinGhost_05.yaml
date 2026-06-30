@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_GoldCoinGhost_05
+name: Gold (5)
+script: T_ScObj_GoldCoinDeTomb_05
+mesh: m\Gold_005.NIF
+icon: m\Tx_Gold_001.tga
+data:
+  weight: 0.0
+  value: 5
+  flags: ''

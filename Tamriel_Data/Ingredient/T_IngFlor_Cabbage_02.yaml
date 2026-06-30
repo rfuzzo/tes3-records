@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_Cabbage_02
+name: Cabbage Leaf
+script: ''
+mesh: Sky\n\Sky_Ingred_Cab_02b.nif
+icon: Sky\n\Tx_Ingred_Cab_02b.dds
+data:
+  weight: 0.1
+  value: 0
+  effects:
+  - FortifyAttribute
+  - DrainAttribute
+  - None
+  - None
+  skills:
+  - Block
+  - Block
+  - None
+  - None
+  attributes:
+  - Endurance
+  - Intelligence
+  - None
+  - None

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_MothWingSky_03
+name: Antler Moth Wing
+script: ''
+mesh: sky\n\sky_ing_mothwing_03.nif
+icon: sky\n\sky_ing_mothwing_03.dds
+data:
+  weight: 0.1
+  value: 5
+  effects:
+  - FortifyAttribute
+  - DrainAttribute
+  - FortifySkill
+  - None
+  skills:
+  - Block
+  - Block
+  - Marksman
+  - None
+  attributes:
+  - Agility
+  - Strength
+  - Strength
+  - None

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_DwrvDagger
+name: Dwarven Dagger
+script: ''
+mesh: OAAB\w\dwemer_dagger.nif
+icon: OAAB\w\dwemer_dagger.dds
+enchanting: ''
+data:
+  weight: 4.0
+  value: 240
+  weapon_type: ShortBladeOneHand
+  health: 850
+  speed: 2.5
+  reach: 1.0
+  enchantment: 35
+  chop_min: 5
+  chop_max: 8
+  slash_min: 5
+  slash_max: 8
+  thrust_min: 7
+  thrust_max: 9
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

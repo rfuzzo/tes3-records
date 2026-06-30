@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Nor_UNI_TargeBlooded
+name: Targe of the Blooded
+script: ''
+mesh: Sky\a\sky_uni_targe_blooded.nif
+icon: sky\a\sky_a_targe_blooded.dds
+enchanting: T_Use_TargeBlooded
+biped_objects:
+- biped_object_type: Shield
+  male_bodypart: T_A_TargeBlooded_S
+  female_bodypart: ''
+data:
+  armor_type: Shield
+  weight: 18.0
+  value: 5000
+  health: 800
+  enchantment: 400
+  armor_rating: 25

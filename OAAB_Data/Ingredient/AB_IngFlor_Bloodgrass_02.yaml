@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: AB_IngFlor_Bloodgrass_02
+name: Planeriven Bloodgrass
+script: ''
+mesh: OAAB\n\n_bloodgrass_02.nif
+icon: OAAB\n\n_bloodgrass_02.dds
+data:
+  weight: 0.1
+  value: 20
+  effects:
+  - WeaknessToFire
+  - SpellAbsorption
+  - DamageAttribute
+  - DrainHealth
+  skills:
+  - None
+  - None
+  - Block
+  - None
+  attributes:
+  - None
+  - None
+  - Intelligence
+  - None

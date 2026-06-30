@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: AB_IngFood_SaltriceBread
+name: Saltrice Bread
+script: ''
+mesh: OAAB\n\food_salt_bread_01.nif
+icon: OAAB\n\food_salt_bread.dds
+data:
+  weight: 0.5
+  value: 5
+  effects:
+  - RestoreHealth
+  - None
+  - None
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: a_light_com_lantern_2
+name: Travel Lantern
+script: ''
+mesh: l\Light_Com_Lantern_02.nif

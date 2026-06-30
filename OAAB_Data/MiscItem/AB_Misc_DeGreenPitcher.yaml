@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_DeGreenPitcher
+name: Green Pitcher
+script: ''
+mesh: OAAB\m\greenPitcher.nif
+icon: OAAB\m\greenPitcher.tga
+data:
+  weight: 2.5
+  value: 8
+  flags: ''

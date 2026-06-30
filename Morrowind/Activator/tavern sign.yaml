@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: tavern sign
+name: Imperial Tavern
+script: SignRotate
+mesh: x\Furn_sign_inn_01.NIF

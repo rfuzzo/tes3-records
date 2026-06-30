@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m7_Ashur_Pot2
+name: Morlyn Alen
+script: ''
+mesh: tr\m\tr_misc_stn_pot_02.nif

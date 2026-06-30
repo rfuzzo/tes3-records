@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Com_Adamant_Bow_01
+name: Adamantium Long Bow
+script: ''
+mesh: TR\w\TR_w_adamant_bow.nif
+icon: TR\w\TR_w_adamant_bow.dds
+enchanting: ''
+data:
+  weight: 18.0
+  value: 1500
+  weapon_type: MarksmanBow
+  health: 825
+  speed: 1.0
+  reach: 1.0
+  enchantment: 100
+  chop_min: 1
+  chop_max: 37
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: ''

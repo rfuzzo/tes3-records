@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_BlackrosePetalDae_01
+name: Black Rose
+script: BILL_MarksDaedraSummon
+mesh: TR\n\TR_Ing_BlackRose01.NIF
+icon: TR\n\TR_Ing_BlackRose01.dds
+data:
+  weight: 0.2
+  value: 3
+  effects:
+  - FortifyAttribute
+  - DrainFatigue
+  - Poison
+  - Invisibility
+  skills:
+  - Block
+  - None
+  - None
+  - None
+  attributes:
+  - Personality
+  - None
+  - None
+  - None

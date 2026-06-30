@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: TR_m7_q_LannusLetter
+name: Captain Lannus' Letter
+script: ''
+mesh: m\Text_Parchment_02.NIF
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nGentlemen<BR>\r\n<BR>\r\nYou are hereby relieved of your duties. Wages and belongings will be delivered to the member of your family listed as next of kin. The cost of this movement will be deducted from your earnings. Understand that you are never to board the Age of Peace again. To step foot on her planks is a violation of her sovereignty, and your actions will be met with violence.<BR>\r\n<BR>\r\nCaptain Vasesius Lannus, Age of Peace<BR>\r\n<BR>"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

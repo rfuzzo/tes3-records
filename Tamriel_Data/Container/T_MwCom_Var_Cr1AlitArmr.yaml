@@ -1,0 +1,29 @@
+type: Container
+flags: ''
+id: T_MwCom_Var_Cr1AlitArmr
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_De_AlitHide_Boots_01
+- - 1
+  - T_De_AlitHide_BracerL_01
+- - 1
+  - T_De_AlitHide_BracerR_01
+- - 1
+  - T_De_AlitHide_Cuirass_01
+- - 1
+  - T_De_AlitHide_Greaves_01
+- - 1
+  - T_De_AlitHide_HelmOpen_01
+- - 1
+  - T_De_AlitHide_Helm_01
+- - 1
+  - T_De_AlitHide_PauldronL_01
+- - 1
+  - T_De_AlitHide_PauldronR_01
+- - 1
+  - T_De_AlitHide_Shield_01

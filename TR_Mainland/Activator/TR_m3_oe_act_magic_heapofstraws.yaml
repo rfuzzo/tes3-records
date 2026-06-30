@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m3_oe_act_magic_heapofstraws
+name: ''
+script: TR_m3_oe_act_haybale_script
+mesh: tr\f\tr_furn_strawheap_05.nif

@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: TR_i4_477_note
+name: Sloppy Scrawlings
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nLevitating only got me so far. A door locked from one side is still locked from the other. I should've thought of that and brought an extra potion for the trip back down, but of course that never ocurred to me.\r\n<BR>\r\nIn any case, I won't last long. I triggered some kind of trap when picking a chest I found. To whoever finds this note: that one's on me, help yourself. Blasted tricky dwemer.\r\n<BR>\r\n<BR>\r\nP.S. What is it with people of my ilk and dying that compells us to scribble away our last few breaths? Afraid to not get the last word?\r\n<BR>\r\n"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

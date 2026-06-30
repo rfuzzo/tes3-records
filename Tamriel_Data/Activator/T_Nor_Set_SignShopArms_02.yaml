@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Nor_Set_SignShopArms_02
+name: Weapons and Armor
+script: T_ScObj_WeatherAnimSHOTN
+mesh: sky\f\sky_act_sign_arms_02.nif

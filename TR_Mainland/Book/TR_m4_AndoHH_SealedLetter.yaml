@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_AndoHH_SealedLetter
+name: Letter to Glaucia Rumariil
+script: TR_m4_AndoHH_SealedLetter_sc
+mesh: m\text_paper_roll_01.nif
+icon: m\tx_paper_roll_01.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nHonorable Glaucia Rumariil,<BR>\r\n<BR>\r\nI felt compelled to write to you, since I have been made aware of a letter that you recently wrote to the Bal Foyen Hlaalu Council. In that letter, I'm told, you asked the Council to hire an out-of-work outlander, one Gerardus Tilianus, as the Chief Clerk of the Port Authority here in Bal Foyen. I am afraid that this is an overextension of your authority as a Minister of the Provincial Government. Matters of hiring and promoting retainers in service of the House Hlaalu are matters for the Great House to decide, independent of outside influence. It would be improper for an Imperial Minister to try to affect the internal affairs of House Hlaalu in this manner. Moreover, I think you ought to take into consideration that the position of the Chief Clerk has already been filled satisfactorily -- by yours truly. I must respectfully ask you not to approach the Council again on this matter. I am certain that you can find employment for serjo Tilianus elsewhere. <BR>\r\n<BR>\r\nNalvyna Balen <BR>\r\nChief Clerk of the Bal Foyen Port Authority <BR>\r\nOathman of House Hlaalu <BR>\r\n<BR>\r\nP.S. I have arranged with the Briricca Bank so you can withdraw 500 gold from an account in my name. <BR> <BR>\r\nP.P.S. %PCName, the courier bringing you this letter, is my most reliable underling and will help you find alternative employment for serjo Tilianus, if necessary. <BR>\r\n"
+data:
+  weight: 0.2
+  value: 50
+  book_type: Scroll
+  skill: None
+  enchantment: 0

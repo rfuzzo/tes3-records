@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: com_cupboard_01_booze
+name: Cupboard
+script: ''
+mesh: o\Contain_Com_Cupboard_01.NIF
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - potion_comberry_wine_01
+- - 1
+  - Potion_Cyro_Whiskey_01
+- - 12
+  - Potion_Local_Brew_01
+- - 8
+  - potion_local_liquor_01

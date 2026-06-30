@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: Ex_colony_house02_2
+name: ''
+script: Colony_E_2_F
+mesh: x\Ex_colony_house02.NIF

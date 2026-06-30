@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Sky_Flora_CanisR01
+name: Canis Root
+script: ''
+mesh: sky\o\sky_flora_CanisR01.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - T_Sky_Random_FlorCanisRoot

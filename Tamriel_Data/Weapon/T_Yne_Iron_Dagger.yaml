@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Yne_Iron_Dagger
+name: Ynesai Iron Dagger
+script: ''
+mesh: pi\w\pi_w_yiron_dagger.nif
+icon: pi\w\pi_w_yiron_dagger.dds
+enchanting: ''
+data:
+  weight: 3.0
+  value: 12
+  weapon_type: ShortBladeOneHand
+  health: 420
+  speed: 2.5
+  reach: 1.0
+  enchantment: 25
+  chop_min: 5
+  chop_max: 6
+  slash_min: 5
+  slash_max: 6
+  thrust_min: 6
+  thrust_max: 6
+  flags: ''

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Rga_Crucible_01
+name: Crucible
+script: ''
+mesh: hf\m\hf_misc_rga_crucible01.nif
+icon: hf\m\hf_misc_crucible_01.dds
+data:
+  weight: 3.0
+  value: 7
+  flags: ''

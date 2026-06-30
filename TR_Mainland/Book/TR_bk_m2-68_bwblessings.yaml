@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_bk_m2-68_bwblessings
+name: Bonewalker Blessings
+script: ''
+mesh: m\Text_paper_roll_01.nif
+icon: m\Tx_paper_roll_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n\r\n[This scroll contains a long list of blessings and seals to sanction a particular bonewalker as a holy construct under the Triune Temple, instead of a blasphemous necromantic creation. It is perfumed heavily with bugmusk and timsa-water.]<BR>\r\n<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

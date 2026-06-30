@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_Set_Shrine_SaintArt_08
+name: Shrine of St. Chelidon
+script: T_ScObj_ShrineSaintArtPC
+mesh: pc\x\pc_ex_wshrn_06.nif

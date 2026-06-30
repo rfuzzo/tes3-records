@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m1_w_thunderbolt_shank
+name: Shank of Thunderbolt
+script: ''
+mesh: tr\w\tr_w_adamant_tanto.nif
+icon: tr\w\tr_w_adamant_tanto.dds
+enchanting: shockball_en
+data:
+  weight: 9.0
+  value: 1900
+  weapon_type: ShortBladeOneHand
+  health: 900
+  speed: 2.1
+  reach: 1.0
+  enchantment: 60
+  chop_min: 7
+  chop_max: 18
+  slash_min: 7
+  slash_max: 18
+  thrust_min: 7
+  thrust_max: 18
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

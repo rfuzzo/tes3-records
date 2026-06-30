@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Qy_Intense_ViperArrow
+name: Intense Viperarrow
+script: ''
+mesh: pi\w\pi_w_bronze_arrow.nif
+icon: pi\w\pi_w_bronze_arrow.dds
+enchanting: T_Strike_IntenseViper
+data:
+  weight: 0.15
+  value: 5
+  weapon_type: Arrow
+  health: 6
+  speed: 1.0
+  reach: 1.0
+  enchantment: 20
+  chop_min: 1
+  chop_max: 4
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

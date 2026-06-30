@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m4_RR_VCave_4_Cs_02
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 4
+  - ingred_guar_hide_01

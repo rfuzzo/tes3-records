@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m1_amulet_josephus
+name: Josephus Family Amulet
+script: ''
+mesh: c\Amulet_Extravagant_1.NIF
+icon: c\tx_amulet_extrav1.tga
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 225
+  enchantment: 600

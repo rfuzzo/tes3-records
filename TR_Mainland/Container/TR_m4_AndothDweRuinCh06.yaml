@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: TR_m4_AndothDweRuinCh06
+name: Small Chest
+script: TR_m4_AndothDweTable03_scp
+mesh: o\contain_chest_small_01.nif
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 3
+  - pick_journeyman_01
+- - 2
+  - pick_master
+- - 1
+  - probe_grandmaster
+- - 4
+  - probe_journeyman_01

@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: Light_Com_RM_Chandelier_05_L_02
+name: ''
+script: ''
+mesh: l\Light_Com_Chandelier_05_L.NIF
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 200
+  color:
+  - 255
+  - 140
+  - 40
+  - 0
+  flags: DYNAMIC | FIRE | FLICKER_SLOW

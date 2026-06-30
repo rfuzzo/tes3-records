@@ -1,0 +1,20 @@
+type: Clothing
+flags: ''
+id: TR_m7_AlvonsLGlove
+name: Alvon's Left Glove
+script: ''
+mesh: tr\c\tr_c_extr_glove_02_gnd.nif
+icon: tr\c\tr_c_extr_glove_02.dds
+enchanting: TR_m7_AlvonsLGlove_en
+biped_objects:
+- biped_object_type: LeftHand
+  male_bodypart: T_C_ComEtGloves02_Ha
+  female_bodypart: ''
+- biped_object_type: LeftWrist
+  male_bodypart: ''
+  female_bodypart: ''
+data:
+  clothing_type: LeftGlove
+  weight: 1.0
+  value: 1000
+  enchantment: 100

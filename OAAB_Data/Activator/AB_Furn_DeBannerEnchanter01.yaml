@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Furn_DeBannerEnchanter01
+name: ''
+script: OutsideBanner
+mesh: OAAB\u\de_banner_ench_01.nif

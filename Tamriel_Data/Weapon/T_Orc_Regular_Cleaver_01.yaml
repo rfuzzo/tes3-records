@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Orc_Regular_Cleaver_01
+name: Orcish Cleaver
+script: ''
+mesh: tr\w\tr_w_orcish_cleaver.nif
+icon: TR\w\TR_w_orcish_cleaver.dds
+enchanting: ''
+data:
+  weight: 15.0
+  value: 1600
+  weapon_type: LongBladeOneHand
+  health: 2500
+  speed: 1.25
+  reach: 1.0
+  enchantment: 80
+  chop_min: 8
+  chop_max: 27
+  slash_min: 5
+  slash_max: 16
+  thrust_min: 4
+  thrust_max: 15
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

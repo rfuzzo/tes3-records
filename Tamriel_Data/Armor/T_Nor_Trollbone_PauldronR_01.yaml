@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Nor_Trollbone_PauldronR_01
+name: Nordic Trollbone Right Pauldron
+script: ''
+mesh: sky\a\Sky_A_TRB_PD_CL.nif
+icon: sky\a\sky_trollb_pauld.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: RightPauldron
+  male_bodypart: T_A_NorTrollbonePauldron01_Cl
+  female_bodypart: ''
+data:
+  armor_type: RightPauldron
+  weight: 10.0
+  value: 65
+  health: 180
+  enchantment: 20
+  armor_rating: 18

@@ -1,0 +1,27 @@
+type: Container
+flags: ''
+id: com_chest_02_v_weapon02
+name: Wooden Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - -200
+  - chitin arrow
+- - 1
+  - chitin short bow
+- - 1
+  - chitin war axe
+- - 1
+  - chitin spear
+- - 1
+  - chitin club
+- - 1
+  - iron club
+- - 1
+  - chitin shortsword
+- - -4
+  - random ashlander weapon
+- - -2
+  - random_iron_weapon

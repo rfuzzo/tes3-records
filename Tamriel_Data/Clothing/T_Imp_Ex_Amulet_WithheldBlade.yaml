@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Imp_Ex_Amulet_WithheldBlade
+name: Amulet of the Withheld Blade
+script: ''
+mesh: pc\c\pc_c_examulet_01.nif
+icon: pc\c\pc_c_examulet_01.dds
+enchanting: bound dagger_en
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 440
+  enchantment: 1200

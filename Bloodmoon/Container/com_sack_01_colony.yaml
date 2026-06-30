@@ -1,0 +1,17 @@
+type: Container
+flags: PERSISTENT
+id: com_sack_01_colony
+name: Cloth Sack
+script: ColonyEquipBag
+mesh: o\Contain_Com_Sack_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 5
+  - BM bear greaves
+- - 1
+  - BM wolf greaves
+- - 5
+  - BM bear cuirass
+- - 1
+  - BM wolf cuirass

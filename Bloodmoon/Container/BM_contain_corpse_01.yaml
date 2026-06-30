@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: BM_contain_corpse_01
+name: Corpse
+script: Sound_Flies
+mesh: o\BM_contain_corpse_01.NIF
+encumbrance: 0.0
+container_flags: IS_BASE
+inventory:
+- - 5
+  - bm_corpse_loot_01
+- - 1
+  - bm_randomboots_smugglers
+- - 1
+  - bm_randomgreaves_smugglers
+- - 1
+  - bm_randomhelmet_smugglers

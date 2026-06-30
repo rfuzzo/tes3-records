@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Com_Iron_Warhammer_01
+name: Iron Warhammer
+script: ''
+mesh: tr\w\tr_w_iron_whammer.nif
+icon: tr\w\tr_w_iron_whammer.dds
+enchanting: ''
+data:
+  weight: 32.0
+  value: 40
+  weapon_type: BluntTwoClose
+  health: 2000
+  speed: 1.0
+  reach: 1.5
+  enchantment: 55
+  chop_min: 1
+  chop_max: 28
+  slash_min: 1
+  slash_max: 24
+  thrust_min: 1
+  thrust_max: 2
+  flags: ''

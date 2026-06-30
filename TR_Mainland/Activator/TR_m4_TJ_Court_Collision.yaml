@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_TJ_Court_Collision
+name: ''
+script: TR_m4_TJ_Court_Collision_sc
+mesh: editormarker_box_01.nif

@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Mw_FloraGM_VileMorc01
+name: Vile Morchella
+script: ''
+mesh: tr\x\tr_ash_darkfungshroom.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - T_Mw_Random_FlorMorel02

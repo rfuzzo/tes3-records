@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_LA_HengorNote
+name: A note
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nDear Sir and/or Madam, <BR> \r\nI bet that YOU won't be able to unstuck THIS AXE from this treestump. If I couldn't do it, no one can! <BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 1

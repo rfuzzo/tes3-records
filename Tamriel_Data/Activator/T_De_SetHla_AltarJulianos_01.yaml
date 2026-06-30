@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_De_SetHla_AltarJulianos_01
+name: Altar of Julianos
+script: T_ScObj_ShrineHlaaluJulianos
+mesh: tr\f\tr_furn_hla_altar_jul.nif

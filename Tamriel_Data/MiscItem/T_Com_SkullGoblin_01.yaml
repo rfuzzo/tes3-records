@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_SkullGoblin_01
+name: Goblin Skull
+script: ''
+mesh: tr\m\tr_misc_skull_Gobl01.nif
+icon: tr\m\tr_misc_GoblinSkull01.dds
+data:
+  weight: 0.5
+  value: 0
+  flags: ''

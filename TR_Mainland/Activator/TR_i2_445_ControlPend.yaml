@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_i2_445_ControlPend
+name: Pendulum
+script: TR_m2_445_sc_ControlPend
+mesh: tr\f\TR_act_nec_uc_pendulum.nif

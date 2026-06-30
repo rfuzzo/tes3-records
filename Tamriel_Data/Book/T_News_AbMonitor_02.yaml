@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_AbMonitor_02
+name: GOLD ROAD TO UNDERGO REPAIRS
+script: T_ScNews_Bellman_Paper
+mesh: pc\m\pc_text_note_anv_news.nif
+icon: pc\m\pc_text_note_anv_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"PC\\pc_abmonitor.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nGOLD ROAD TO UNDERGO REPAIRS<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nFort Heath sources confirmed that repairs will be made to the Gold Road between Anvil and Kvatch over the coming months. Legion-supervised crews will be deployed to locations most in need of repair and tasked with filling potholes, replacing missing paving stones, and digging new drainage ditches where necessary.<BR><BR>\r\nTravelers are asked to give repair crews space and not to interfere with the execution of their duties. Alternative routes may be temporarily advised.<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

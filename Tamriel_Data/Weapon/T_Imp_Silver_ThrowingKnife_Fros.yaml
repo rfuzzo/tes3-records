@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Imp_Silver_ThrowingKnife_Fros
+name: Cruel Shardknife
+script: ''
+mesh: tr\w\tr_w_silver_knife.nif
+icon: tr\w\tr_w_silver_knife.dds
+enchanting: cruel shard_en
+data:
+  weight: 0.3
+  value: 15
+  weapon_type: MarksmanThrown
+  health: 120
+  speed: 1.0
+  reach: 1.0
+  enchantment: 15
+  chop_min: 1
+  chop_max: 4
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE | SILVER

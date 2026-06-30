@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_FW_CEWarrant
+name: 'Search Warrant: Brazen Maiden'
+script: ''
+mesh: m\Text_Parchment_02.nif
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe holder of this document is authorized by\r\n<BR>\r\n<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nTHE OFFICE OF CENSUS AND EXCISE, FIREWATCH DIVISION\r\n<BR>\r\n<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nTo search the vessel\r\n<BR>\r\n<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nBRAZEN MAIDEN, Capt. BIDSI VIDRYON\r\n<BR>\r\nunder the Census and Excise Powers Amendment 3e12, div. 14(1-3).\r\n<BR>\r\n<BR>\r\nSigned,\r\n<BR>\r\n<DIV ALIGN=\"Right\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nJeande Beluel, Clerk\r\n<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

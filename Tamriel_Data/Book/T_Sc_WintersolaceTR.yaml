@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Sc_WintersolaceTR
+name: Winter Solace
+script: ''
+mesh: m\Text_Scroll_01.nif
+icon: m\Tx_scroll_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nWinter Solace<BR>\r\nHoratio Gargonath<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\">\r\nThe snow gently fell on the mountain pass<BR>\r\nAll things were covered and shimmered like glass<BR>\r\nIn the distance, stood but a single young doe<BR>\r\nAs the forest revealed its icy show<BR>\r\nFir trees were bent - in reverence - they bowed<BR>\r\nRabbits remained hidden beneath the tree's shroud<BR>\r\nIcicles hanging, a lustrous cascade<BR>\r\nA light wind blowing a melodious serenade<BR>\r\nThe mountain streams were now covered in ice<BR>\r\nIt was winter's welcome to paradise.<BR>"
+data:
+  weight: 1.1
+  value: 50
+  book_type: Scroll
+  skill: None
+  enchantment: 0

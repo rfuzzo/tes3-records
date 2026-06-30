@@ -1,0 +1,23 @@
+type: Clothing
+flags: ''
+id: TR_m3_OE_AkhalekiRobe
+name: Akhalleki's Robe
+script: ''
+mesh: pc\c\pc_fcot_rg_robe01_gnd.nif
+icon: pc\c\pc_fcot_rg_lc_robe.tga
+enchanting: third barrier_en
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_C_RgaEpRobe01_C
+  female_bodypart: T_C_RgaEpRobe01_CF
+- biped_object_type: LeftWrist
+  male_bodypart: ''
+  female_bodypart: ''
+- biped_object_type: RightWrist
+  male_bodypart: ''
+  female_bodypart: ''
+data:
+  clothing_type: Robe
+  weight: 3.0
+  value: 750
+  enchantment: 50

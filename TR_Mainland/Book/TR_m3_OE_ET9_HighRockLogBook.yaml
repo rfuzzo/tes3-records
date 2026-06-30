@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_OE_ET9_HighRockLogBook
+name: Liaison Ledger
+script: ''
+mesh: m\text_octavo_open_03.nif
+icon: m\Tx_book_open_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nLiaison<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\n[This ledger contains the instructions and orders given by the Ambassadors to their spies.]<BR>\r\n<BR>\r\n- DM : take this message to our contact in Wayrest. Bring back their answer and report.<BR>\r\n- Agent A : over.<BR>\r\n<BR>\r\n- EV : reception tonight : disease potion in the chest to remove one of our servants, you are to take their place, listen then note all information. Report to H. <BR>\r\n- Agent A : going to report. Over. <BR>\r\n<BR>\r\n- Agent A : Have been followed, maybe compromised. Instructions ?<BR>\r\n- DM : lay low for next months. Warn Agent B for replacement.<BR>\r\n- Agent A : over.<BR>\r\n<BR>\r\n- DM : CAREFUL : Mother B needs this message to be delivered to our contact in High Rock. Steal guard armor, join the Wayrest delegation on their way back to High Rock. <BR>\r\n- Agent B : over.<BR>\r\n<BR>\r\n- Agent B : need new clothes and weapons.<BR>\r\n- EV : in the closet.<BR>\r\n- Agent B : nice furniture.<BR>\r\n- DM : supposed to be delivered to the Orc above. He will wait for his bed. Over.<BR>\r\n<BR>\r\n- EV : Orc too angry, about to destroy everything in the attic. Take this invitation for the Duke reception to the forger. Have him do a fake for the Orc and deliver it. Being officially invited should calm him down.<BR>\r\n- Agent B : done. Over.<BR>\r\n<BR>\r\n- Agent B : Agent A seriously compromised. Asked for refuge. Panicked. Instructions ?<BR>\r\n- DM : level of risk for you and us ?<BR>\r\n- Agent B : high. Contacted me without caution and out of all procedures.<BR>\r\n- DM : traitor ?<BR>\r\n- Agent B : Can't say. He was followed by High Rock Agents. <BR>\r\n- DM : INSTRUCTIONS : tell Agent A that he is to come here, in EV quarters, he is to take the message on the desk and deliver it to H.<BR>\r\n- Agent B : access ? <BR>\r\n- EV : key on the desk.<BR>\r\n- Agent B : over.<BR>\r\n<BR>\r\n<BR>\r\n"
+data:
+  weight: 2.0
+  value: 50
+  book_type: Book
+  skill: None
+  enchantment: 20

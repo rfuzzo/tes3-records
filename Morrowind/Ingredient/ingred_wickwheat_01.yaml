@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_wickwheat_01
+name: Wickwheat
+script: ''
+mesh: n\Ingred_Whickwheat_01.nif
+icon: n\Tx_whickwheat_01.tga
+data:
+  weight: 0.1
+  value: 1
+  effects:
+  - RestoreHealth
+  - FortifyAttribute
+  - Paralyze
+  - DamageAttribute
+  skills:
+  - Block
+  - Block
+  - Block
+  - Block
+  attributes:
+  - Agility
+  - Willpower
+  - Strength
+  - Intelligence

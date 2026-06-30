@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngMine_Agate_01
+name: Rainbow Agate
+script: ''
+mesh: tr\n\tr_ing_agate_01.nif
+icon: tr\n\tr_ing_agate_01.dds
+data:
+  weight: 0.2
+  value: 100
+  effects:
+  - Reflect
+  - Levitate
+  - Silence
+  - None
+  skills:
+  - None
+  - Alchemy
+  - None
+  - None
+  attributes:
+  - None
+  - Strength
+  - None
+  - None

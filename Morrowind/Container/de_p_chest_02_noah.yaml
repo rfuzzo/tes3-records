@@ -1,0 +1,33 @@
+type: Container
+flags: ''
+id: de_p_chest_02_noah
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - pick_journeyman_01
+- - 2
+  - pick_apprentice_01
+- - 1
+  - l_m_armor
+- - 2
+  - l_m_potion_h
+- - 1
+  - l_m_potion
+- - 1
+  - l_m_wpn_melee
+- - 2
+  - l_n_wpn_melee
+- - 23
+  - random gold_lev_15
+- - 2
+  - random_pos
+- - 2
+  - random_loot_special
+- - 1
+  - probe_journeyman_01
+- - 1
+  - probe_apprentice_01

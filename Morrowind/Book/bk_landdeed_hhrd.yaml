@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: bk_landdeed_hhrd
+name: Ascadian Isles Land Deed
+script: sealedTreasuryOrders
+mesh: m\Text_Scroll_01.NIF
+icon: m\Tx_scroll_open_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nBy the Grace of ALMSIVI, Lords and Rulers of All<BR>\r\n<BR>\r\nKnow all Dunmer by these words that Muthsera Rovone Arvel has sold the land south of Arvel Manor and east of Pelagiad to Orvas Dren. Rovone Arvel retains the right to one small farm near Pelagiad, currently held by Llovyn Andus<BR>\r\n<BR>\r\nSeal of the Buyer<BR>\r\nOrvas Dren<BR>\r\n<BR>\r\nSeal of the Seller<BR>\r\nRovone Arvel<BR>\r\n<BR>\r\n"
+data:
+  weight: 0.2
+  value: 100
+  book_type: Scroll
+  skill: None
+  enchantment: 0

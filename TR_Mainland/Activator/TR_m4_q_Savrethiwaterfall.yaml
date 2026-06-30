@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_q_Savrethiwaterfall
+name: Savrethi Water Source
+script: TR_m4_q_PW_SavrethiPoison
+mesh: x\Ex_Vivec_waterfall_05.NIF

@@ -1,0 +1,69 @@
+type: Container
+flags: ''
+id: T_MwDe_Furn_CardHortB01
+name: Card Deck Box
+script: T_ScObj_CardHortBox
+mesh: TR\o\TR_cont_dae_amulet.nif
+encumbrance: 10.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_De_CardMiscDres_01
+- - 1
+  - T_De_CardMiscDres_02
+- - 1
+  - T_De_CardMiscDres_03
+- - 1
+  - T_De_CardMiscDres_04
+- - 1
+  - T_De_CardMiscDres_05
+- - 1
+  - T_De_CardMiscDres_06
+- - 1
+  - T_De_CardMiscHla_01
+- - 1
+  - T_De_CardMiscHla_02
+- - 1
+  - T_De_CardMiscHla_03
+- - 1
+  - T_De_CardMiscHla_04
+- - 1
+  - T_De_CardMiscHla_05
+- - 1
+  - T_De_CardMiscHla_06
+- - 1
+  - T_De_CardMiscInd_01
+- - 1
+  - T_De_CardMiscInd_02
+- - 1
+  - T_De_CardMiscInd_03
+- - 1
+  - T_De_CardMiscInd_04
+- - 1
+  - T_De_CardMiscInd_05
+- - 1
+  - T_De_CardMiscInd_06
+- - 1
+  - T_De_CardMiscRed_01
+- - 1
+  - T_De_CardMiscRed_02
+- - 1
+  - T_De_CardMiscRed_03
+- - 1
+  - T_De_CardMiscRed_04
+- - 1
+  - T_De_CardMiscRed_05
+- - 1
+  - T_De_CardMiscRed_06
+- - 1
+  - T_De_CardMiscTel_01
+- - 1
+  - T_De_CardMiscTel_02
+- - 1
+  - T_De_CardMiscTel_03
+- - 1
+  - T_De_CardMiscTel_04
+- - 1
+  - T_De_CardMiscTel_05
+- - 1
+  - T_De_CardMiscTel_06

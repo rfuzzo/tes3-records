@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_q_OE_Urien_Journal
+name: Urien Poralia's Journal
+script: TR_m3_q_OE_Urien_Journal_sc
+mesh: m\Text_Octavo_08.nif
+icon: m\Tx_book_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR><BR>\r\n[This journal appears to be a log of evenings spent drinking and gambling in various taverns.]\r\n<DIV ALIGN=\"LEFT\">\r\n<BR>\r\nTonight I intend to partake of all Old Ebonheart has to offer. At the very least I will be sharing a drink with the fine folks down in the Empress Katariah.\r\n<BR><BR>\r\nNaamalvu threw us out because we were \"too rowdy\". I suggested going to the Salty Futtocks, but my companions insisted on the Moth and Tiger.\r\n<BR>\r\n"
+data:
+  weight: 2.0
+  value: 20
+  book_type: Book
+  skill: None
+  enchantment: 0

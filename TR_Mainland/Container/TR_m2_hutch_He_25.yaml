@@ -1,0 +1,21 @@
+type: Container
+flags: ''
+id: TR_m2_hutch_He_25
+name: Hutch
+script: ''
+mesh: f\furn_cabinet10.nif
+encumbrance: 75.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - misc_clothbolt_01
+- - 1
+  - misc_de_cloth10
+- - 1
+  - misc_rollingpin_01
+- - 1
+  - misc_shears_01
+- - 1
+  - misc_spool_01
+- - 3
+  - sc_paper plain

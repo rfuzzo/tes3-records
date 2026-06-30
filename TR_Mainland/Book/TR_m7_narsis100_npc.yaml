@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_narsis100_npc
+name: Meer-Ei
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: ''
+enchanting: ''
+text: "Argonian Female\r\nTrader Service\r\nequip them with some netch or other light armor, since they're a diver and might be fighting a dreugh or two in their daily life\r\nhas restocking supply of dreugh throwing weapons, water breathing/swift swim potions, and underwater ingredients (spotted gillsieve, dreugh wax, etc.)"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

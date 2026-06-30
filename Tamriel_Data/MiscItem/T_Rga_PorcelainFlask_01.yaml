@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Rga_PorcelainFlask_01
+name: Porcelain Flask
+script: ''
+mesh: hf\m\hf_misc_rga_PcFlask_01.nif
+icon: hf\m\hf_misc_rga_PCFlask_01.dds
+data:
+  weight: 1.5
+  value: 8
+  flags: ''

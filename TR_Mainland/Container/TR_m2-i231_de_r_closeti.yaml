@@ -1,0 +1,27 @@
+type: Container
+flags: ''
+id: TR_m2-i231_de_r_closeti
+name: Closet
+script: ''
+mesh: o\Contain_De_Closet_01.NIF
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_De_IndBonemold_Boots_01
+- - 1
+  - T_De_IndBonemold_Cuirass_01
+- - 1
+  - T_De_IndBonemold_GauntletL_01
+- - 1
+  - T_De_IndBonemold_GauntletR_01
+- - 1
+  - T_De_IndBonemold_Greaves_01
+- - 1
+  - T_De_IndBonemold_HelmSaviour_01
+- - 1
+  - T_De_IndBonemold_PauldronL_02
+- - 1
+  - T_De_IndBonemold_PauldronR_02
+- - 1
+  - T_De_IndBonemold_Shield_02

@@ -1,0 +1,20 @@
+type: Clothing
+flags: ''
+id: Shoes_of_Conviction
+name: Shoes of Conviction
+script: ''
+mesh: c\C_shoes_expensive_3_GND.NIF
+icon: c\Tx_shoes_expensive_3.tga
+enchanting: Zenithar_gospel_EN
+biped_objects:
+- biped_object_type: LeftFoot
+  male_bodypart: c_shoes_expensive_03
+  female_bodypart: ''
+- biped_object_type: RightFoot
+  male_bodypart: c_shoes_expensive_03
+  female_bodypart: ''
+data:
+  clothing_type: Shoes
+  weight: 3.0
+  value: 100
+  enchantment: 50

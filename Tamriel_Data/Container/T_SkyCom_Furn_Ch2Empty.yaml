@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: T_SkyCom_Furn_Ch2Empty
+name: Chest
+script: ''
+mesh: Sky\o\Sky_Cont_Chest_02_02.nif
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory: []

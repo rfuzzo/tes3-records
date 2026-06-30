@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: TR_m1_Q51_bk_notefromolfina
+name: Note from Olfina gra-Loghar
+script: ''
+mesh: m\Text_Parchment_02.NIF
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nLishy-Wishy,<BR>\r\n<BR>\r\nIt was bad enough to hear that the imperials threw you in jail.  Now I hear you're not eating well either?  What happened to my strong green boy?  You're breaking your poor mother's heart!  Please start eating again, and I promise to send you some of those biscuits you love so much.<BR>\r\n<BR>\r\nMom<BR>"
+data:
+  weight: 0.0
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

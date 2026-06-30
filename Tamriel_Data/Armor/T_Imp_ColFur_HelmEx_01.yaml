@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Imp_ColFur_HelmEx_01
+name: Extravagant Colovian Fur Helm
+script: ''
+mesh: TR\a\tr_a_cfur_helm_et.nif
+icon: TR\a\tr_a_colovian_helm_et.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Hair
+  male_bodypart: T_A_ColoFur_Helm_Et
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 2.0
+  value: 30
+  health: 70
+  enchantment: 75
+  armor_rating: 8

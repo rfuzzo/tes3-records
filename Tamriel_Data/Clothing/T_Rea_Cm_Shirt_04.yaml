@@ -1,0 +1,17 @@
+type: Clothing
+flags: ''
+id: T_Rea_Cm_Shirt_04
+name: Reachmen Shirt
+script: ''
+mesh: Sky\c\Sky_C_M_RM_SH_04_GND.nif
+icon: Sky\c\Tx_C_M_RM_SH_04.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_C_ReaCmShirt04_C
+  female_bodypart: T_C_ReaCmShirt04_CF
+data:
+  clothing_type: Shirt
+  weight: 2.0
+  value: 5
+  enchantment: 50

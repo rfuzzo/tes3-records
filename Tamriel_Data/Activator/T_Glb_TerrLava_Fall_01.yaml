@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Glb_TerrLava_Fall_01
+name: ''
+script: lava
+mesh: tr\x\tr_terr_lavafall.nif

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2_Ak_q_IdrenieWrit
+name: Request for a Writ
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nTo the Akamora Morag Tong:\r\n<BR>\r\nI, Hrothdor, request the services of the Morag Tong in killing Idrenie Odalyn in the town of Sailen. She has cheated me, and I wish to settle the matter permanently.\r\n<BR>\r\nI offer 1500 drakes for this task.\r\n<BR>"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

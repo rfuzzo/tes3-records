@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: AB_light_Glyph256
+name: ''
+script: ''
+mesh: OAAB\e\glyph_light.nif
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 256
+  color:
+  - 150
+  - 194
+  - 153
+  - 0
+  flags: DYNAMIC

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_Flour
+name: Wickwheat Flour
+script: ''
+mesh: OAAB\m\food_flour.nif
+icon: OAAB\m\misc_flour.tga
+data:
+  weight: 0.25
+  value: 2
+  flags: ''

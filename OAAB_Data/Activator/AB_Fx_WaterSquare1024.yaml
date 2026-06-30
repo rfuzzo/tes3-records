@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Fx_WaterSquare1024
+name: ''
+script: AB_SoundWaterLayer_s
+mesh: OAAB\e\water_sqstat1024.nif

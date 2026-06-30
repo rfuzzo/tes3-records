@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: puke water ref 512
+name: ''
+script: ''
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 512
+  color:
+  - 135
+  - 145
+  - 56
+  - 0
+  flags: FLICKER_SLOW

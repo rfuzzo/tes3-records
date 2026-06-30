@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: bk_notebyaryon
+name: Notes by Aryon
+script: ''
+mesh: m\Text_Parchment_02.nif
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This paper is filled with cryptic notes taken by Master Aryon while reading NGasta! Kvata! Kvakis!]<BR>"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

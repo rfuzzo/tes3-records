@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_GreenGlassPlate_01
+name: Green Glass Plate
+script: ''
+mesh: tr\m\tr_misc_de_g_plate.nif
+icon: tr\m\tr_misc_de_g_plate.dds
+data:
+  weight: 2.0
+  value: 6
+  flags: ''

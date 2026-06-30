@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_ZukomaBlossom_01
+name: Zukoma Blossom
+script: ''
+mesh: pi\n\pi_ing_zukomablossom.nif
+icon: pi\n\pi_ing_zukomablossom.dds
+data:
+  weight: 0.2
+  value: 1
+  effects:
+  - DamageAttribute
+  - Jump
+  - FortifyAttribute
+  - FortifySkill
+  skills:
+  - Block
+  - None
+  - Block
+  - Acrobatics
+  attributes:
+  - Agility
+  - None
+  - Luck
+  - Strength

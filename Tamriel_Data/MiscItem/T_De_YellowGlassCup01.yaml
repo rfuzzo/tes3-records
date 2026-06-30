@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_YellowGlassCup01
+name: Yellow Glass Cup
+script: ''
+mesh: tr\m\tr_misc_yelglas_cup01.nif
+icon: tr\m\tr_misc_yelglass_cup.dds
+data:
+  weight: 2.0
+  value: 1
+  flags: ''

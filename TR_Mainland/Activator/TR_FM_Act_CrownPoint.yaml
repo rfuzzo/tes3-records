@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_FM_Act_CrownPoint
+name: ''
+script: TR_FM_Act_CrownPoint_sc
+mesh: w\magic_target.NIF

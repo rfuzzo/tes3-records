@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_i2_445_DummyKeyS
+name: Necrom Temple Key 'S'
+script: TR_m2_445_sc_DummyKeyS
+mesh: tr\m\tr_key_necrom_s.nif
+icon: tr\m\tr_key_necrom_s.dds
+data:
+  weight: 0.0
+  value: 300
+  flags: KEY

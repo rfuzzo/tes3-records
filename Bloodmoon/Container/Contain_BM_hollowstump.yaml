@@ -1,0 +1,21 @@
+type: Container
+flags: ''
+id: Contain_BM_hollowstump
+name: Hollow Treestump
+script: ''
+mesh: f\Flora_BM_snowstump_02.nif
+encumbrance: 30.0
+container_flags: IS_BASE
+inventory:
+- - 5
+  - bm_ebonyarrow_s
+- - 1
+  - bm_ebonylongsword_s
+- - 1
+  - bm_ring_marksman
+- - 1
+  - bm_black_glove_l_s
+- - 1
+  - bm_black_glove_r_s
+- - 1
+  - sc_bloodynote_s

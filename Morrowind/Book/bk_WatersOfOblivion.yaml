@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: bk_WatersOfOblivion
+name: The Waters of Oblivion
+script: ''
+mesh: m\Text_Quarto_03.NIF
+icon: m\Tx_quarto_03.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nWaters of Oblivion<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nA hundred and twenty numbered ages in the void that fated folk had grown deep-schooled in evil.  Then the Bright Gods resolved to punish those faithless spirits, and shatter the unruly caitiffs, those huge, unholy scathers, loathsome to the Light. They repented exceedingly that they had gazed upon Oblivion, and seen there the first of dark kin, and welcomed them as brothers and sisters.<BR>\r\n<BR>\r\nThe Principalities of Victory beheld how great was the wickedness of the wayward spirits, and saw that they were bold in sin and full of wiles. They resolved then to chasten the tribes of daedra, and smite darkkind with hammer and hand.<BR>\r\n<BR>\r\nBut ever shall Darkness contest the Light, and great were the Powers that breathed the void and laid waste upon one another, and no oath might bind them, so deep were they in envy and perfidy. For once the portals are opened, who shall shut them upon the rising tide?<BR>\r\n<BR>\r\n"
+data:
+  weight: 3.0
+  value: 250
+  book_type: Book
+  skill: None
+  enchantment: 0

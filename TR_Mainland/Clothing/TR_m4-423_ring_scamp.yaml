@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m4-423_ring_scamp
+name: Ring of Scamps
+script: ''
+mesh: c\C_Ring_expensive_1.NIF
+icon: c\tx_ring_expensive01.tga
+enchanting: TR_m4-423_scamp_en
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 3500
+  enchantment: 150

@@ -1,0 +1,22 @@
+type: Armor
+flags: ''
+id: T_Imp_ColSteel_Cuirass_02
+name: Kvetchi Steel Cuirass
+script: ''
+mesh: pc\a\PC_a_ColoStl_02_CG.nif
+icon: pc\a\pc_a_ColoStl_Cuir_2.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_A_ImpColSteelCuirass02_C
+  female_bodypart: T_A_ImpColSteelCuirass02_CF
+- biped_object_type: Neck
+  male_bodypart: T_A_ImpColSteelCuirass02_N
+  female_bodypart: T_A_ImpColSteelCuirass02_NF
+data:
+  armor_type: Cuirass
+  weight: 30.0
+  value: 200
+  health: 500
+  enchantment: 200
+  armor_rating: 17

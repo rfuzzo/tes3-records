@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m3_Sanguine_Bottle05
+name: Bottle
+script: TR_m3_Sanguine_Bottle05_Sc
+mesh: m\Misc_Com_Bottle_05.NIF
+icon: m\Misc_Com_Bottle_05.tga
+data:
+  weight: 1.0
+  value: 1
+  flags: ''

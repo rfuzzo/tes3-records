@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: TR_i3-591_ingred_RaathimAsh
+name: Raathim Gravedust
+script: ''
+mesh: n\Ingred_Gravedust_01.nif
+icon: n\Tx_gravedust_01.tga
+data:
+  weight: 0.1
+  value: 5
+  effects:
+  - DrainAttribute
+  - CureCommonDisease
+  - DrainMagicka
+  - RestoreAttribute
+  skills:
+  - Block
+  - None
+  - None
+  - Block
+  attributes:
+  - Intelligence
+  - None
+  - None
+  - Endurance

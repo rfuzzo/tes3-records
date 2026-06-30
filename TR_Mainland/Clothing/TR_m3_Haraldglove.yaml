@@ -1,0 +1,20 @@
+type: Clothing
+flags: ''
+id: TR_m3_Haraldglove
+name: Glove of Inspiring Influence
+script: ''
+mesh: TR\c\TR_c_extr_glove_02_GND.nif
+icon: TR\c\tr_c_extr_glove_02.dds
+enchanting: TR_m3_haraldglove_enc
+biped_objects:
+- biped_object_type: LeftHand
+  male_bodypart: T_C_ComEtGloves02_Ha
+  female_bodypart: ''
+- biped_object_type: LeftWrist
+  male_bodypart: ''
+  female_bodypart: ''
+data:
+  clothing_type: LeftGlove
+  weight: 1.0
+  value: 300
+  enchantment: 500

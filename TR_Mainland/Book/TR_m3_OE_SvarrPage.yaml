@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_OE_SvarrPage
+name: Incriminating Delagia Papers
+script: TR_m3_OE_SvarrDisableSCP
+mesh: m\Text_Parchment_02.NIF
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[These pages hold records of some of the illegal activities of Delagia's gang. There's even a couple of contract killings, which have been signed off by Otrebus Delagia himself. This is certainly very incriminating material.] <BR>\r\n"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

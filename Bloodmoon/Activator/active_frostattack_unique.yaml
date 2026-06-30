@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: active_frostattack_unique
+name: ''
+script: cariusgoneScript
+mesh: f\Furn_Ashl_Chime_01.NIF

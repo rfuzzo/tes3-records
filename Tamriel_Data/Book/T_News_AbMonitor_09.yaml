@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_AbMonitor_09
+name: SOULREST VETERANS RETURN
+script: T_ScNews_Bellman_Paper
+mesh: pc\m\pc_text_note_anv_news.nif
+icon: pc\m\pc_text_note_anv_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"PC\\pc_abmonitor.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nSOULREST VETERANS RETURN TO ANVIL<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nThe last of the redeployed Imperial Navy marines sent to support Legion troops in Cape Percar have at last returned to normal duty in Anvil. The uprising in Soulrest, the largest such provincial revolt since the Imperial Simulacrum, temporarily overwhelmed the modest garrison on site, requiring Legion and Navy high command to send reinforcements from the West. These forces crushed the rebellion, driving many of their number into the poisonous interior of Black Marsh.<BR><BR>\r\nWhile some of the Anvil-based troops resented the redeployment, most took it in good humor. Some Navy sailors even seemed to enjoy the excursion, with one telling the Monitor that the uprising offered him the chance to connect with his Nibenese counterparts in the South Navy on spiritual matters.<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

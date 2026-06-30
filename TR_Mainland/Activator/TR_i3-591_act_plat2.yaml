@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_i3-591_act_plat2
+name: Pull Rope
+script: TR_m3-591_rope2_script
+mesh: tr\x\craneplatformverylong.nif

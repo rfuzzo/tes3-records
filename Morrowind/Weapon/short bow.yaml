@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: short bow
+name: Short Bow
+script: ''
+mesh: w\W_shortbow_steel.NIF
+icon: w\tx_shortbow_steel.tga
+enchanting: ''
+data:
+  weight: 4.0
+  value: 60
+  weapon_type: MarksmanBow
+  health: 500
+  speed: 1.0
+  reach: 1.0
+  enchantment: 20
+  chop_min: 1
+  chop_max: 15
+  slash_min: 0
+  slash_max: 0
+  thrust_min: 0
+  thrust_max: 0
+  flags: ''

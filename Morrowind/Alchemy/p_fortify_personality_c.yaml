@@ -1,0 +1,20 @@
+type: Alchemy
+flags: ''
+id: p_fortify_personality_c
+name: Cheap Fortify Personality
+script: ''
+mesh: m\Misc_Potion_Cheap_01.nif
+icon: m\Tx_potion_cheap_01.tga
+effects:
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Personality
+  range: OnSelf
+  area: 0
+  duration: 15
+  min_magnitude: 8
+  max_magnitude: 8
+data:
+  weight: 1.0
+  value: 15
+  flags: ''

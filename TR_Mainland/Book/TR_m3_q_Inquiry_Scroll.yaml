@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_q_Inquiry_Scroll
+name: Girynu's Notes
+script: ''
+mesh: m\Misc_paper_plain_01.nif
+icon: m\Tx_paper_plain_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nRequire further investigation:<BR>\r\n<BR>\r\n- Golveso Darys:<BR>\r\nPawnbroker, shop on the east edge of town. Broad selection of wares, some valuable. Nothing that would necessitate daedric influence, but could be hiding suspicious items.<BR>\r\n<BR>\r\n- Dalam Marys:<BR>\r\nLayman healer of unknown schooling. Reputedly disappeared for some years. Infiltrant? Background check is required.<BR>\r\n<BR>\r\n- Idroso Menas:<BR>\r\nReclusive. Inherited her house about three years ago from a relative.<BR>\r\n<BR>\r\n\r\n"
+data:
+  weight: 0.1
+  value: 3
+  book_type: Scroll
+  skill: None
+  enchantment: 50

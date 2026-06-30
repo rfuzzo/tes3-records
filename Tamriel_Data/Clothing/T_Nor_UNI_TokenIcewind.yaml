@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Nor_UNI_TokenIcewind
+name: Token of the Ice-Wind
+script: ''
+mesh: sky\c\sky_amulet_expnsv_03.nif
+icon: sky\c\tx_amulet_expnsv_03.dds
+enchanting: T_Const_TokenIcewind
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 2800
+  enchantment: 150

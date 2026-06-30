@@ -1,0 +1,22 @@
+type: Armor
+flags: ''
+id: T_Imp_Gold_GauntletL_02
+name: Imperial Gold Left Gauntlet
+script: ''
+mesh: tr\a\tr_a_impgold_hands_gnd.nif
+icon: tr\a\tr_a_impgold_gaunt.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: LeftHand
+  male_bodypart: T_A_ImpGoldGauntlet02_Ha
+  female_bodypart: ''
+- biped_object_type: LeftWrist
+  male_bodypart: ''
+  female_bodypart: ''
+data:
+  armor_type: LeftGauntlet
+  weight: 6.0
+  value: 248
+  health: 95
+  enchantment: 320
+  armor_rating: 18

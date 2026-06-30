@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: TR_m3_Lgt_Candle
+name: Iron Candlestick
+script: ''
+mesh: l\Light_Com_Candle_01.NIF
+icon: l\Light_Com_Candle_01.tga
+sound: ''
+data:
+  weight: 0.0
+  value: 3
+  time: 0
+  radius: 175
+  color:
+  - 227
+  - 67
+  - 13
+  - 0
+  flags: DYNAMIC | CAN_CARRY | FIRE | FLICKER_SLOW

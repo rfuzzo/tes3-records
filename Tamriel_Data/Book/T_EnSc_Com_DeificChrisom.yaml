@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_EnSc_Com_DeificChrisom
+name: Scroll of Deific Chrisom
+script: ''
+mesh: m\text_scroll_open_01.nif
+icon: m\tx_scroll_open_01.dds
+enchanting: T_Once_DeificChrisom
+text: <DIV ALIGN="center"><FONT COLOR="000000" SIZE="2" FACE="Daedric">UNTIL MY DEATH I ALWAYS STAND</FONT><BR>
+data:
+  weight: 0.2
+  value: 789
+  book_type: Scroll
+  skill: None
+  enchantment: 0

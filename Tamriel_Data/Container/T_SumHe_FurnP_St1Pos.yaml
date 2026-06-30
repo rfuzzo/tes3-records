@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_SumHe_FurnP_St1Pos
+name: Side Table
+script: ''
+mesh: sum\o\sum_furn_p_stable_01.nif
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - T_Sum_Random_Pos

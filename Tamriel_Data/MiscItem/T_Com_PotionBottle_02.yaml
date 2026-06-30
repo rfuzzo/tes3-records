@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_PotionBottle_02
+name: Fine Glass Bottle
+script: ''
+mesh: TR\m\TR_misc_potion_02.NIF
+icon: TR\m\TR_misc_potion_02.dds
+data:
+  weight: 1.5
+  value: 25
+  flags: ''

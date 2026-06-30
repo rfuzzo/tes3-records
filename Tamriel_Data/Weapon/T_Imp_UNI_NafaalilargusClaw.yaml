@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Imp_UNI_NafaalilargusClaw
+name: Claw of Nafaalilargus
+script: ''
+mesh: tr\w\tr_w_naf_shortsword.nif
+icon: tr\w\tr_nafaaliclaw.dds
+enchanting: T_Strike_NafaalilargusClawUni
+data:
+  weight: 9.0
+  value: 4000
+  weapon_type: ShortBladeOneHand
+  health: 1200
+  speed: 2.25
+  reach: 1.0
+  enchantment: 250
+  chop_min: 10
+  chop_max: 17
+  slash_min: 10
+  slash_max: 17
+  thrust_min: 12
+  thrust_max: 18
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

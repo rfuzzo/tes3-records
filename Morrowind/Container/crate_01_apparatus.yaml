@@ -1,0 +1,21 @@
+type: Container
+flags: ''
+id: crate_01_apparatus
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - apparatus_a_alembic_01
+- - 1
+  - apparatus_a_calcinator_01
+- - 1
+  - apparatus_a_mortar_01
+- - 1
+  - apparatus_j_calcinator_01
+- - 1
+  - apparatus_j_retort_01
+- - 1
+  - apparatus_j_mortar_01

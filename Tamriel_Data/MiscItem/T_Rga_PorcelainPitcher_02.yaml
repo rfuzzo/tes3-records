@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Rga_PorcelainPitcher_02
+name: Porcelain Pitcher
+script: ''
+mesh: hf\m\hf_misc_rga_PcPitch_02.nif
+icon: hf\m\hf_misc_rga_PCPitch_02.dds
+data:
+  weight: 6.5
+  value: 39
+  flags: ''

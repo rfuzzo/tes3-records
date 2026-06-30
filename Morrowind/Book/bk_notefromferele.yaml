@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: bk_notefromferele
+name: Note from Ferele
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nGreen Lichen<BR>\r\n<BR>\r\nMuck<BR>\r\n<BR>\r\nDisease Curing Potions?<BR>\r\n<BR>\r\nBildren will pay well. Check with contacts.<BR>\r\n\r\n"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

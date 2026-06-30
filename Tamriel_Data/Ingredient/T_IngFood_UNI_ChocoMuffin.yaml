@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_UNI_ChocoMuffin
+name: Chocolate Muffin
+script: ''
+mesh: hr\n\hr_ing_chocomuffin.nif
+icon: hr\n\hr_ing_chocomuffin.dds
+data:
+  weight: 0.2
+  value: 5
+  effects:
+  - RestoreFatigue
+  - None
+  - None
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

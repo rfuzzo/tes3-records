@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_De_Var_LanternYellow02_128
+name: ''
+script: ''
+mesh: tr\l\tr_l_de_lantern_ylw_02.nif
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 128
+  color:
+  - 242
+  - 225
+  - 25
+  - 0
+  flags: DYNAMIC

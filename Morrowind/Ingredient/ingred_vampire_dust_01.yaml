@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_vampire_dust_01
+name: Vampire Dust
+script: ''
+mesh: n\Ingred_Vampire_Dust_01.nif
+icon: n\Tx_vampire_dust_01.tga
+data:
+  weight: 0.1
+  value: 500
+  effects:
+  - FortifyHealth
+  - FortifyAttribute
+  - SpellAbsorption
+  - Vampirism
+  skills:
+  - Block
+  - Block
+  - Block
+  - Block
+  attributes:
+  - Strength
+  - Strength
+  - Strength
+  - Personality

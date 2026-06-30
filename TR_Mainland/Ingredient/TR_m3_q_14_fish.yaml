@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: TR_m3_q_14_fish
+name: Delamus' Stinky Fish Meat
+script: ''
+mesh: TR\n\tr_ing_dryfish.nif
+icon: TR\n\tr_ing_dryfish.dds
+data:
+  weight: 1.5
+  value: 1
+  effects:
+  - DamageFatigue
+  - None
+  - None
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

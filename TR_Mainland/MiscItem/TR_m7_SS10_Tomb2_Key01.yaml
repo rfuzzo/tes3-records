@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m7_SS10_Tomb2_Key01
+name: Old key
+script: ''
+mesh: m\Key_Temple_01.nif
+icon: m\Tx_key_temple_01.tga
+data:
+  weight: 0.0
+  value: 0
+  flags: KEY

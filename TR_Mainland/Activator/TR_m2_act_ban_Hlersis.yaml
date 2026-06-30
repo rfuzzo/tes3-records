@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m2_act_ban_Hlersis
+name: Welcome to Hlersis
+script: OutsideBanner
+mesh: f\Furn_bannerD_welcome_01.NIF

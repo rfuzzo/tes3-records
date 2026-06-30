@@ -1,0 +1,28 @@
+type: Alchemy
+flags: ''
+id: T_Rga_Drink_AbeceanRum_01
+name: Abecean Rum
+script: ''
+mesh: hf\m\hf_misc_rga_DrAbcR_01.nif
+icon: hf\m\hf_misc_rga_AbcRum01.dds
+effects:
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Speed
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 20
+  max_magnitude: 20
+- magic_effect: DrainAttribute
+  skill: None
+  attribute: Intelligence
+  range: OnSelf
+  area: 0
+  duration: 90
+  min_magnitude: 20
+  max_magnitude: 20
+data:
+  weight: 2.0
+  value: 70
+  flags: ''

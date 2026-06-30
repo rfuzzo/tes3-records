@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_BluewareVase01
+name: Vase
+script: ''
+mesh: tr\m\tr_misc_blue_vase.nif
+icon: tr\m\tr_misc_bluewvase01.dds
+data:
+  weight: 4.0
+  value: 10
+  flags: ''

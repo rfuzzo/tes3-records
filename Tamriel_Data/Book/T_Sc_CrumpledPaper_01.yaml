@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Sc_CrumpledPaper_01
+name: Crumpled Paper
+script: ''
+mesh: tr\m\tr_misc_crumpaper.nif
+icon: tr\m\tr_misc_crumpaper.dds
+enchanting: ''
+text: ''
+data:
+  weight: 1.0
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 10

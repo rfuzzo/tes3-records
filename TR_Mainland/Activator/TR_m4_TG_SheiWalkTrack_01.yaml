@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m4_TG_SheiWalkTrack_01
+name: Shei's Walk Tracker 01
+script: TR_m4_TG_SheiWalkTrack01_scp
+mesh: EditorMarker.NIF

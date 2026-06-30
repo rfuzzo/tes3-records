@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Rga_Pillow_01
+name: Pillow
+script: ''
+mesh: hf\m\hf_misc_rga_pillow01.nif
+icon: hf\m\hf_misc_pillow_01.dds
+data:
+  weight: 1.0
+  value: 1
+  flags: ''

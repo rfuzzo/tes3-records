@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_Hibiscus_01
+name: Hibiscus Flower
+script: ''
+mesh: EPoS\n\pt_els_ingr_hibiscus.nif
+icon: epos\n\hibiscus_flower.dds
+data:
+  weight: 0.1
+  value: 5
+  effects:
+  - ResistCommonDisease
+  - CurePoison
+  - DrainAttribute
+  - None
+  skills:
+  - None
+  - None
+  - Block
+  - None
+  attributes:
+  - None
+  - None
+  - Strength
+  - None

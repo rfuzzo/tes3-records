@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Imp_Silver_DaggerBroken_01
+name: Broken Silver Dagger
+script: ''
+mesh: tr\w\tr_w_silver_dagger_brk.nif
+icon: tr\w\tr_w_silver_dagger_brk.dds
+enchanting: ''
+data:
+  weight: 1.2
+  value: 1
+  weapon_type: ShortBladeOneHand
+  health: 200
+  speed: 2.5
+  reach: 1.0
+  enchantment: 0
+  chop_min: 2
+  chop_max: 3
+  slash_min: 2
+  slash_max: 3
+  thrust_min: 3
+  thrust_max: 3
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE | SILVER

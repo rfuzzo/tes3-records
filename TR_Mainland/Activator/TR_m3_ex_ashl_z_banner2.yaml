@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_ex_ashl_z_banner2
+name: Cirtiel's Outlandish Trinkets
+script: OutsideBanner
+mesh: f\Ex_Ashl_E_Banner.NIF

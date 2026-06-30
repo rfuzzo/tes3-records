@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: TR_m7_Calaril_Ch1
+name: Chest
+script: ''
+mesh: sum\o\sum_cont_chest_01.nif
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_De_BluewareFlask02
+- - 1
+  - T_De_BluewareTankard01
+- - 1
+  - T_Imp_SilverWarePot_01
+- - 1
+  - T_Imp_SilverWareVase_01

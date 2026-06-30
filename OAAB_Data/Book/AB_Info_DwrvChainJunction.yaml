@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: AB_Info_DwrvChainJunction
+name: InfoBox - Dwemer Chain Junc
+script: ''
+mesh: OAAB\h\marker_info.nif
+icon: OAAB\h\marker_info.tga
+enchanting: ''
+text: This junction piece is for joining the chainlink catwalk and corridor sets to the AB_In_DwrvRoomWall set.
+data:
+  weight: 0.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 100

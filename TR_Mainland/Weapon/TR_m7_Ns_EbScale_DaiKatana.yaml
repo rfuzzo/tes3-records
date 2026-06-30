@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m7_Ns_EbScale_DaiKatana
+name: Stormlord's Dai-katana
+script: ''
+mesh: TR\w\TR_w_ebony_dkatana.NIF
+icon: TR\w\TR_w_ebony_dkatana.dds
+enchanting: TR_m7_Ns_EbScale_DaiKatana_en
+data:
+  weight: 42.0
+  value: 50000
+  weapon_type: LongBladeTwoClose
+  health: 5900
+  speed: 1.35
+  reach: 1.0
+  enchantment: 150
+  chop_min: 1
+  chop_max: 49
+  slash_min: 1
+  slash_max: 47
+  thrust_min: 1
+  thrust_max: 24
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

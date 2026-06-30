@@ -1,0 +1,25 @@
+type: Container
+flags: ''
+id: TR_m3_Kha_Chest_02
+name: Daedric Chest
+script: TR_m3_Kha_DaeChestCont_02_Sc
+mesh: o\contain_daedric_chest_01.nif
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Imp_Domina_Boots_01
+- - 1
+  - T_Imp_Domina_Cuirass_01
+- - 1
+  - T_Imp_Domina_GauntletL_01
+- - 1
+  - T_Imp_Domina_GauntletR_01
+- - 1
+  - T_Imp_Domina_Greaves_01
+- - 1
+  - T_Imp_Domina_Helm_01
+- - 1
+  - T_Imp_Domina_PauldronL_01
+- - 1
+  - T_Imp_Domina_PauldronR_01

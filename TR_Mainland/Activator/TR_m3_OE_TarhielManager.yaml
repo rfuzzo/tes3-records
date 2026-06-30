@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m3_OE_TarhielManager
+name: ''
+script: TR_m3_OE_TarhielManager_script
+mesh: EditorMarker.nif

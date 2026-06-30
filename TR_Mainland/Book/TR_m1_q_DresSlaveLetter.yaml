@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_q_DresSlaveLetter
+name: Letter to Slave Owner
+script: TR_m1_q_DresLetter
+mesh: m\Text_Scroll_open_02.nif
+icon: m\Tx_scroll_open_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe bearer of this letter is entitled to one slave and a 250 drake reimbursement from Serjo Ardur Salvendu, Kinsman of Great House Dres. In exchange, the bearer must relinquish ownership of his or her current household slave. Said slave is reserved for a Dres noble, and was mistakenly sold.<BR>\r\n<BR>\r\nAllow your slave to leave with the deliverer of this letter, who shall return your slave to the slave market.\r\n<BR>\r\nI apologize for the inconvenience,\r\n<BR>\r\nSerjo Ardur Salvendu, Kinsman of Great House Dres<BR>\r\n<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

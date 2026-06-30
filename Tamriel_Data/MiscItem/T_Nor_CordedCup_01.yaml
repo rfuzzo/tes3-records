@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Nor_CordedCup_01
+name: Corded Cup
+script: ''
+mesh: sky\m\sky_misc_cord_cup_01.nif
+icon: sky\m\sky_misc_cord_cup.dds
+data:
+  weight: 1.0
+  value: 2
+  flags: ''

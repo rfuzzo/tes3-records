@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_We_Wenbone_Waraxe_01
+name: Wenbone War Axe
+script: ''
+mesh: va\w\va_w_wenbone_waraxe.nif
+icon: va\w\va_w_wenbone_waraxe.dds
+enchanting: ''
+data:
+  weight: 18.0
+  value: 140
+  weapon_type: AxeOneHand
+  health: 760
+  speed: 1.25
+  reach: 1.0
+  enchantment: 40
+  chop_min: 1
+  chop_max: 17
+  slash_min: 1
+  slash_max: 8
+  thrust_min: 1
+  thrust_max: 3
+  flags: ''

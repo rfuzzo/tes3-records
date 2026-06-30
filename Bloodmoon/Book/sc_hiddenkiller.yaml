@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: sc_hiddenkiller
+name: Scroll of the Hidden Killer
+script: ''
+mesh: m\Text_Scroll_01.nif
+icon: m\Tx_scroll_open_01.tga
+enchanting: sc_Chappy_sniper_test_en
+text: <DIV ALIGN="center"><FONT COLOR="000000" SIZE="2" FACE="Daedric">WOE UPON YOU</FONT><BR>
+data:
+  weight: 1.0
+  value: 211
+  book_type: Scroll
+  skill: None
+  enchantment: 100

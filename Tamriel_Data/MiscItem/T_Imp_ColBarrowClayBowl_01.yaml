@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_ColBarrowClayBowl_01
+name: Ancient Clay Bowl
+script: ''
+mesh: pc\m\pc_misc_col_barr_bowl.nif
+icon: pc\m\pc_misc_col_barr_bowl.dds
+data:
+  weight: 2.0
+  value: 3
+  flags: ''

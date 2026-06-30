@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_FW_IC5_OrotrhiNote
+name: Note on Orothri Ancestral Tomb
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nOROTHRI ANCESTRAL TOMB\r\n<BR>\r\nTel Gilan, south gate\r\n<BR>\r\nNorth on Firewatch Road\r\n<BR>\r\nLeft at next signpost\r\n<BR>\r\nTomb is on the left\r\n<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Com_SetCyr_SignWayIsvorhal_01
+name: Isvorhal
+script: ''
+mesh: pc\f\pc_furn_signpost_01.nif

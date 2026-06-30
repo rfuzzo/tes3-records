@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m3_q_OE_Urien_sword_02
+name: Broken Poralia Family Sword
+script: ''
+mesh: TR\w\TR_w_imp_ssword_brk.nif
+icon: TR\w\TR_w_imp_ssword_brk.tga
+enchanting: ''
+data:
+  weight: 4.5
+  value: 1
+  weapon_type: ShortBladeOneHand
+  health: 350
+  speed: 2.0
+  reach: 1.0
+  enchantment: 0
+  chop_min: 2
+  chop_max: 5
+  slash_min: 2
+  slash_max: 5
+  thrust_min: 3
+  thrust_max: 5
+  flags: ''

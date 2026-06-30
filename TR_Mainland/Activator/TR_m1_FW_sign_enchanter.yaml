@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m1_FW_sign_enchanter
+name: 'Dorash gro-Drethan: Enchanter'
+script: SignRotate
+mesh: tr\f\tr_act_sign_scroll_21.nif

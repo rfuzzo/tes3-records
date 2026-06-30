@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: AB_IngCrea_ScribShell_01
+name: Scrib Shell
+script: ''
+mesh: OAAB\n\rem_scrib_shell.nif
+icon: OAAB\n\rem_scrib_shell.dds
+data:
+  weight: 1.0
+  value: 3
+  effects:
+  - DrainHealth
+  - ResistParalysis
+  - None
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

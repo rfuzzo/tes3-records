@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Arg_WoodenPot_02_pos
+name: Wooden Pot
+script: ''
+mesh: bm\m\bm_misc_wd_pot_01.nif
+encumbrance: 0.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Mw_Random_Pos

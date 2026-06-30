@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_TempleZeroWarningPC
+name: Temple Zero - A Warning
+script: ''
+mesh: m\Text_Octavo_01.nif
+icon: m\Tx_octavo_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">TEMPLE ZERO - A WARNING<BR>\r\n<BR>\r\n<DIV ALIGN=\"LEFT\">\r\n...and what do we truly know of this Temple Zero Society, the 'dark horse of Imperial academia', as a scholar once so fittingly described them?<BR>\r\n<BR>\r\nOnce an obscure collective of scholars and librarians, the Society has now positioned itself prominently among the capital's vapid intelligentsia. Ever since the Miracle of Peace and the substantiation of historical Numidianism as a legitimate theory, Society acolytes have multiplied in the halls of academia.<BR>\r\n<BR>\r\nAccording to its own members, the Society wishes only to uncover essential truths about our history and world, and to share these truths with the public at large for the betterment of Imperial society. A noble 'endeavor', indeed.<BR>\r\n<BR>\r\nYet even a cursory investigation makes clear that many, if not all, members of the Temple Zero Society are not merely ephemeral Numidianist dabblers, but open Arcturianists. It seems apparent, even, that these newly confident conspiracists count among their number adherents of the Marukhati heresies!<BR>\r\n<BR>\r\nIt is my firmest belief that this 'historiographical society' was not born in a tavern opposite the Temple of Emperor Zero in the mid-second Tiberian century, as their minutes would have you believe, but that it is in fact a secret society which predates the founding of Cuhlecain's temple and the birth of the Third Empire entirely!<BR>\r\n<BR>\r\nAny student of theosophy and history will tell you that its pageantry, while occluded, carries the unmistakable whiff of Sethite mystery-cults, Nocturnalite occluded harmonics, and the nihilist teachings of the Eastern Psijjics and their death-cult endeavor.<BR>\r\n<BR>\r\nThe Temple Zero and its members are a grave threat to the civil exchange of ideas that has characterized Imperial philosophy since time immemorial. Indeed, it may very well be a threat to the stability of the Empire itself!<BR>\r\n<BR>\r\nBy what right do these obdurate scholars believe they can uncover the mysteries of the world, even those that are under censure? Is it not enough that our stalwart defenders, the Emperors, have observed these mysteries and declared them forbidden? The rank populism of these scholars is telling, as they invoke the education of the common folk -- as if the people have any need or desire to study such debased apostasies.<BR>\r\n<BR>\r\nAlready we see the effect of such 'educations', as provincial firebrands rally around demagogues and false prophets in defiance of the Emperor and his kin... <BR>"
+data:
+  weight: 3.0
+  value: 25
+  book_type: Book
+  skill: None
+  enchantment: 100

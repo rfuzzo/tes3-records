@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_He_BluewarePot_02
+name: Blueware Pot
+script: ''
+mesh: sum\m\sum_misc_blue_pot_02.nif
+icon: sum\m\sum_misc_blue_pot_02.dds
+data:
+  weight: 2.0
+  value: 6
+  flags: ''

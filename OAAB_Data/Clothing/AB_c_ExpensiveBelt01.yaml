@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: AB_c_ExpensiveBelt01
+name: Expensive Belt
+script: ''
+mesh: OAAB\c\belt_exp_01.nif
+icon: OAAB\c\belt_exp_01.dds
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Belt
+  weight: 1.0
+  value: 10
+  enchantment: 50

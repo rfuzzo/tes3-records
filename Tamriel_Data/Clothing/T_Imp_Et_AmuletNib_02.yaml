@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Imp_Et_AmuletNib_02
+name: Extravagant Amulet
+script: ''
+mesh: pc\c\pc_c_nib_am_et02.nif
+icon: pc\c\pc_c_nib_am_et02.dds
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 120
+  enchantment: 600

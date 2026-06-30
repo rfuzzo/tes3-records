@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m1_FG_Nirthfly
+name: ''
+script: TR_m1_q_FG_BoatStuffDisable
+mesh: x\Ex_DE_ship.nif

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_DeRedGlassBowl_01
+name: Red Glass Bowl
+script: ''
+mesh: OAAB\m\misc_red_glass_bowl.nif
+icon: OAAB\m\misc_red_glass_bowl.dds
+data:
+  weight: 4.0
+  value: 5
+  flags: ''

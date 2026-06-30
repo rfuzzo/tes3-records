@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Imp_Ep_RingNib_02
+name: Expensive Ring
+script: ''
+mesh: pc\c\pc_c_nib_ring_exp02.nif
+icon: pc\c\pc_c_nib_ring_exp02.dds
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 30
+  enchantment: 150

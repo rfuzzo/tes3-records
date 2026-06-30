@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: com_chest_02_helvi
+name: Odral Helvi's Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - bk_BriefHistoryEmpire1_oh
+- - 1
+  - bk_BriefHistoryEmpire2_oh
+- - 1
+  - bk_BriefHistoryEmpire3_oh
+- - 1
+  - bk_BriefHistoryEmpire4_oh
+- - 1
+  - bk_CalderaRecordBook2

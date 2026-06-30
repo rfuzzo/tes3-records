@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: iron_arrow_uniq_judgement
+name: Dart of Judgment
+script: ''
+mesh: w\W_Iron_arrow.NIF
+icon: w\tx_arrow_iron.tga
+enchanting: dart_of_judgement_en
+data:
+  weight: 0.1
+  value: 500
+  weapon_type: Arrow
+  health: 10
+  speed: 1.0
+  reach: 1.0
+  enchantment: 0
+  chop_min: 1
+  chop_max: 3
+  slash_min: 0
+  slash_max: 0
+  thrust_min: 0
+  thrust_max: 0
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

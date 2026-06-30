@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m1_w_ebony_dagger_cursed
+name: Ebony Dagger
+script: BILL_MarksDaedraSummon
+mesh: TR\w\tr_w_ebony_dagger.nif
+icon: TR\w\tr_w_ebony_dagger.tga
+enchanting: TR_m1_fire_onhit
+data:
+  weight: 5.0
+  value: 5000
+  weapon_type: ShortBladeOneHand
+  health: 800
+  speed: 2.5
+  reach: 1.0
+  enchantment: 37
+  chop_min: 6
+  chop_max: 10
+  slash_min: 6
+  slash_max: 10
+  thrust_min: 8
+  thrust_max: 10
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

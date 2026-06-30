@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: misc_lw_flask
+name: Limeware Flask
+script: ''
+mesh: m\Misc_LW_Flask.NIF
+icon: m\Misc_LW_Flask.tga
+data:
+  weight: 3.0
+  value: 325
+  flags: ''

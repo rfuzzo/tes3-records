@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: Misc_Imp_Silverware_Bowl
+name: Silverware Bowl
+script: ''
+mesh: m\Misc_Silverware_Bowl.NIF
+icon: m\Misc_Silverware_Bowl.tga
+data:
+  weight: 5.0
+  value: 21
+  flags: ''

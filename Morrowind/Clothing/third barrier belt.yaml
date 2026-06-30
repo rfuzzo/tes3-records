@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: third barrier belt
+name: Third Barrier Belt
+script: ''
+mesh: c\C_belt_Extravagant_2.NIF
+icon: c\tx_belt_extravagant02.tga
+enchanting: third barrier_en
+biped_objects: []
+data:
+  clothing_type: Belt
+  weight: 1.0
+  value: 88
+  enchantment: 10

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_FW_TG6_KeepOut
+name: No Entry
+script: TR_m1_FW_TG6_DoorLock
+mesh: m\Text_Parchment_01.NIF
+icon: m\Tx_parchment_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nNO ENTRY<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nDue to a recent theft, no one is to enter the museum without the express permission of the Headmaster.\r\n<BR>\r\nIf you have any information which may help to find the culprit, please see the Headmaster immediately.\r\n<BR>\r\nThe items in the museum are priceless artifacts of great historical significance, and are NOT to be treated as the objects of juvenile pranks.\r\n<BR>\r\n<BR>\r\n<DIV ALIGN=\"RIGHT\">\r\nHM Jeanette Sitte\r\n<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_GreenGlassPitcher_01
+name: Green Glass Pitcher
+script: ''
+mesh: tr\m\tr_misc_de_g_pitcher.nif
+icon: tr\m\tr_misc_de_g_pitcher.dds
+data:
+  weight: 3.0
+  value: 16
+  flags: ''

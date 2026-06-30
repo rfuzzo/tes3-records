@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Sc_PilgrimAndSoldierPC_V3
+name: The Pilgrim and the Soldier III
+script: ''
+mesh: m\text_scroll_01.nif
+icon: m\tx_scroll_open_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">THE PILGRIM<BR>\r\nand<BR>\r\nTHE SOLDIER<BR>\r\n<BR>\r\n*The Camp*<BR>\r\n<BR>\r\n<DIV ALIGN=\"LEFT\">\r\nHow they rested together, the pilgrim and the soldier, on the road to Sancre Tor.<BR>\r\n<BR>\r\nAsked the soldier,<BR>\r\ntoasting bread over the fire:<BR>\r\nWhat is it like, the high city,<BR>\r\nthe great fortress of Sancre Tor?<BR>\r\nWhat do the Nibenese say?<BR>\r\n<BR>\r\nAnswered the pilgrim:<BR>\r\nThey call it the hidden city,<BR>\r\nits gates are vast and shrouded,<BR>\r\nby deep water and secret arts.<BR>\r\nBells once rang there every hour,<BR>\r\nfor Reman, Al-Esh,<BR>\r\nfor Pelinal and Morihaus,<BR>\r\nfor all the saints and spirits.<BR>\r\n<BR>\r\nNow the spirits are muted,<BR>\r\nthis faithless age has cut out their tongue.<BR>\r\nAnd I must journey far,<BR>\r\nto learn secrets they once gave freely.<BR>\r\n<BR>\r\nAsked the pilgrim,<BR>\r\nsipping from a liquor flask:<BR>\r\nWhat is it like, the secret hill,<BR>\r\nthe temple halls of Sancre Tor?<BR>\r\nWhat do the Colovians say?<BR>\r\n<BR>\r\nAnswered the soldier:<BR>\r\nThat city of the dead, great necropolis,<BR>\r\nA thousand dancing kings were buried there,<BR>\r\nten thousand more their shining scions.<BR>\r\nOnce we raised iron swords,<BR>\r\naimed at the midnight-morning,<BR>\r\nsky-shroud of the utter north,<BR>\r\nand challenged our every enemy to face us.<BR>\r\n<BR>\r\nNow we have no enemies,<BR>\r\nthe Empire has subsumed the world entire.<BR>\r\nAnd I, a sullied weapon,<BR>\r\ncannot cleanse myself anywhere but there.<BR>\r\n<BR>\r\nBeyond their pale fire's light,<BR>\r\nbeyond the hungry spirits,<BR>\r\nand beyond the glasslit eyes of wolves,<BR>\r\nthe great hill of Sancre Tor loomed,<BR>\r\nindifferent,<BR>\r\nutterly ignorant of their feeble desires.<BR>\r\n<BR>\r\nFor the road to Sancre Tor is hard,<BR>\r\na merciless road,<BR>\r\nit knows not the one who treads it.<BR>"
+data:
+  weight: 0.2
+  value: 60
+  book_type: Scroll
+  skill: None
+  enchantment: 0

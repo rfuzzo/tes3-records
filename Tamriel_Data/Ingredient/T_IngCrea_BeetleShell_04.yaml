@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_BeetleShell_04
+name: Horned Beetle Shell
+script: ''
+mesh: TR\n\TR_Ing_Beetle_Shell_04.nif
+icon: TR\n\TR_Ing_Beetle_Shell_04.dds
+data:
+  weight: 0.5
+  value: 5
+  effects:
+  - FortifyAttribute
+  - FortifyAttackBonus
+  - None
+  - None
+  skills:
+  - Block
+  - None
+  - None
+  - None
+  attributes:
+  - Endurance
+  - None
+  - None
+  - None

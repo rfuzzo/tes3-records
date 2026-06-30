@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: ring_equity_uniq
+name: Ring of Equity
+script: ''
+mesh: c\C_Ring_expensive_2.NIF
+icon: c\tx_ring_expensive02.tga
+enchanting: equity_ring_en_unique
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 3150
+  enchantment: 600

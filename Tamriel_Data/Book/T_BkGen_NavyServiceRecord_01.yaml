@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_BkGen_NavyServiceRecord_01
+name: Navy Service Records
+script: ''
+mesh: TR\m\tr_book_eastquarant.nif
+icon: tr\m\tr_book_eastquarant.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<DIV ALIGN=\"LEFT\"><BR>[An exhaustive record of Navy personnel who entered service in a certain fleet, noting their age, place of birth, time served, conduct, and, sometimes, date of death. Starting from the Simulacrum period, the record becomes patchy and incomplete.]<BR>"
+data:
+  weight: 4.0
+  value: 5
+  book_type: Book
+  skill: None
+  enchantment: 0

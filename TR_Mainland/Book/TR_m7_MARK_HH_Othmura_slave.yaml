@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_MARK_HH_Othmura_slave
+name: Escaped Slave from Othmura
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: pi\m\pi_m_cnq_ngopta.dds
+enchanting: ''
+text: "If you free the slave in the Othmura tollhouse, whether as part of the HH questline or not, he will appear here.\r\nNPC ID: TR_m7_S_Jhasa-Dar\r\nPositionCell in script TR_m7_Jhasa-DarMove_sc"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

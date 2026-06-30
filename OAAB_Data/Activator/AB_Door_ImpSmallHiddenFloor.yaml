@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Door_ImpSmallHiddenFloor
+name: Hidden Trapdoor
+script: AB_ImpHiddenDoor_s
+mesh: OAAB\d\impS_d_hidden_flr.nif

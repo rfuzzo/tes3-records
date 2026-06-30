@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: A_Ex_De_Oar
+name: Oar
+script: Float
+mesh: x\Ex_De_Oar.NIF

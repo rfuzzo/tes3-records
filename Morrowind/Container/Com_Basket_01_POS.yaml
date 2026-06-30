@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: Com_Basket_01_POS
+name: Basket
+script: ''
+mesh: o\Contain_Com_Basket_01.NIF
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - random_pos
+- - 1
+  - random_loot_special
+- - 30
+  - random_loot_special_marksman

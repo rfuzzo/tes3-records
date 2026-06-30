@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_Gooseb01
+name: Gooseberries
+script: ''
+mesh: HR\n\T_hr_ingr_gooseb_01.nif
+icon: hr\hr_ingr_gooseberry.dds
+data:
+  weight: 0.1
+  value: 1
+  effects:
+  - RestoreFatigue
+  - WaterBreathing
+  - DrainAttribute
+  - DrainMagicka
+  skills:
+  - None
+  - None
+  - Block
+  - None
+  attributes:
+  - None
+  - None
+  - Intelligence
+  - None

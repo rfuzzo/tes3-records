@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: furn_ashl_chime_05
+name: ''
+script: SignRotate
+mesh: f\Furn_Ashl_Chime_05.NIF

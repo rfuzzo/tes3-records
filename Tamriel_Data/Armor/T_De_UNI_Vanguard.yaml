@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_De_UNI_Vanguard
+name: Vanguard
+script: ''
+mesh: a\A_Bonemold_Gah_Julan_CGND.NIF
+icon: a\TX_Bonemold_Gah_Julan_c.tga
+enchanting: T_Use_Vanguard_uni
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: a_bonemold_gah_julan_c
+  female_bodypart: ''
+data:
+  armor_type: Cuirass
+  weight: 24.0
+  value: 11000
+  health: 500
+  enchantment: 300
+  armor_rating: 20

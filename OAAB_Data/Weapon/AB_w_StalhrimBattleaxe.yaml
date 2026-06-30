@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_StalhrimBattleaxe
+name: Stalhrim Battle Axe
+script: ''
+mesh: OAAB\w\w_ice_battleaxe.nif
+icon: OAAB\w\ice_battleaxe.tga
+enchanting: ''
+data:
+  weight: 100.0
+  value: 80000
+  weapon_type: AxeTwoHand
+  health: 3500
+  speed: 1.0
+  reach: 1.1
+  enchantment: 75
+  chop_min: 1
+  chop_max: 90
+  slash_min: 1
+  slash_max: 65
+  thrust_min: 1
+  thrust_max: 5
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

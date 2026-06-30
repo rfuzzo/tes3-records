@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: AB_light@_Day300
+name: ''
+script: AB_DayActivate_s
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 300
+  color:
+  - 200
+  - 220
+  - 255
+  - 0
+  flags: DYNAMIC

@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_De_UNI_SeafarerRing
+name: Seafarer's Ring
+script: ''
+mesh: tr\c\tr_c_ring_seafarer.nif
+icon: tr\c\tr_c_ring_seafarer.dds
+enchanting: T_Const_SeafarerRing
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 8000
+  enchantment: 0

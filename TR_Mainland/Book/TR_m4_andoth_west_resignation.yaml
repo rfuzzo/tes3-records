@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_andoth_west_resignation
+name: Letter of Resignation
+script: ''
+mesh: m\Text_Parchment_02.nif
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nSerjo Noravyn Gilvos,<BR>\r\n<BR>\r\nYour continued obsession with the genealogy of your ancestors to the neglect of all else has made my work here nigh impossible.<BR>\r\n<BR>\r\nWhen you insisted Scrib jelly was to be your only meal, I acquiesced thinking it little more than a health craze and cleared the plates you left throughout the manor.\r\nWhen you began collecting histories to research your ancestors, I thought it piety and did not complain about the stacks of books left on the floor.\r\nRecently however, your relentless pursuit appears more like a sickness and rumors are starting to spread in town.<BR>\r\n<BR>\r\nLast night you berated me for putting away the jumbled collection of papers, pins, and thread you had left on one of the rugs.\r\nSince you are so bent on becoming a pariah, refuse to see a healer, and will not even let me perform my tasks anymore, the time has come for us to part ways.<BR>\r\n<BR>\r\nI hereby leave you this letter to serve as a token of my resignation.<BR>\r\n<BR>\r\nSigned,<BR>\r\nLlaerusi Varith\r\n<BR>\r\n"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

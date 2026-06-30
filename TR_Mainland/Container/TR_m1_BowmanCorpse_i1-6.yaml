@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: TR_m1_BowmanCorpse_i1-6
+name: Corpse
+script: ''
+mesh: o\contain_corpse20.NIF
+encumbrance: 120.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - TR_m1_bk_BowmanJournal_Siridun
+- - 38
+  - T_Imp_Legion_Bolt_01
+- - 2
+  - l_m_potion_h
+- - 1
+  - silver dagger

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_WoodenGuar_01
+name: Wooden Guar
+script: ''
+mesh: tr\m\tr_de_wooden_guar_01.nif
+icon: tr\m\tr_de_wooden_guar_01.dds
+data:
+  weight: 4.0
+  value: 12
+  flags: ''

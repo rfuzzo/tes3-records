@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m7_zernital_spawn_sfx
+name: ''
+script: TR_m7_zernital_spawn_sfx_scr
+mesh: tr\i\tr_collision_box_01.nif

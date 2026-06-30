@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2_q_A8_1_TredynNote
+name: Letter to Tredyn
+script: TR_m2_q_A8_1_TredynNoteScript
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nTredyn<BR>\r\n<BR>\r\nI was disappointed to hear about Hlorgir's refusal to cooperate. I've arranged a little surprise for him tomorrow. I know you wanted to kill him, but trust me. This way there aren't any awkward questions.<br>\r\n<br>\r\nIs the next shipment still on schedule?<br>\r\n<br>\r\nVuvil<br>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

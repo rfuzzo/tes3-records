@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_MonkshoodRootPulp_01
+name: Monkshood Root Pulp
+script: ''
+mesh: pc\n\pc_ing_monkshoodrp.nif
+icon: pc\n\pc_tx_ingred_monkshood.dds
+data:
+  weight: 0.1
+  value: 1
+  effects:
+  - RestoreAttribute
+  - DamageAttribute
+  - FortifyAttribute
+  - Burden
+  skills:
+  - Block
+  - Block
+  - Block
+  - None
+  attributes:
+  - Strength
+  - Intelligence
+  - Endurance
+  - None

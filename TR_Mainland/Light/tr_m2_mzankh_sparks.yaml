@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: tr_m2_mzankh_sparks
+name: ''
+script: ''
+mesh: l\light_sotha_sparks.NIF
+icon: ''
+sound: SothaSpark
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 16
+  color:
+  - 0
+  - 0
+  - 0
+  - 0
+  flags: DYNAMIC | FLICKER

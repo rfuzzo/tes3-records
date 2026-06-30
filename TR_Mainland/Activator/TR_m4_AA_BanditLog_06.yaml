@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m4_AA_BanditLog_06
+name: ''
+script: TR_m4_AA_DisableOnce_Scp
+mesh: x\flora_ash_log_03.nif

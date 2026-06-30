@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Nor_FineWoodCup_02
+name: Small Fine Wood Cup
+script: ''
+mesh: sky\m\sky_misc_fine_cup_02.nif
+icon: sky\m\tx_misc_fine_cup_02.dds
+data:
+  weight: 1.0
+  value: 10
+  flags: ''

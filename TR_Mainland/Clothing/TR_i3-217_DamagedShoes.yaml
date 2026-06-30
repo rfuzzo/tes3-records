@@ -1,0 +1,20 @@
+type: Clothing
+flags: ''
+id: TR_i3-217_DamagedShoes
+name: Common Shoes
+script: ''
+mesh: c\C_M_Shoe_common02_GND.NIF
+icon: c\TX_C_shoecom01.tga
+enchanting: TR_i3-217_DamagesShoes
+biped_objects:
+- biped_object_type: LeftFoot
+  male_bodypart: c_m_shoe_f_leather01
+  female_bodypart: ''
+- biped_object_type: RightFoot
+  male_bodypart: c_m_shoe_f_leather01
+  female_bodypart: ''
+data:
+  clothing_type: Shoes
+  weight: 3.0
+  value: 2
+  enchantment: 10

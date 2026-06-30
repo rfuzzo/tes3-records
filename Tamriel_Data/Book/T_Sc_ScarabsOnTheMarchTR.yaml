@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Sc_ScarabsOnTheMarchTR
+name: Song of the Scarabs-On-March
+script: ''
+mesh: m\Text_Scroll_01.nif
+icon: m\Tx_scroll_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe Hoom hums clear o'er Ald Resdayn.<BR>\r\nThe Scarabs are On-The-March!<BR>\r\nThe Crab-chiefs marshal on the plain.<BR>\r\nThe Scarabs are On-The-March!<BR>\r\n<BR>\r\nAnd west we go, through wind and snow.<BR>\r\nTo find and face the nordic foe!<BR>\r\nAnd fight we may, 'till the foe is slain.<BR>\r\nThe Scarabs are On-The-March!<BR>\r\n<BR>\r\n<BR>\r\nThe songs range far, they reach Ald Skar.<BR>\r\nThe Scarabs are On-The-March!<BR>\r\nWhere Armigers stand 'neath five far stars.<BR>\r\nThe Scarabs are On-The-March!<BR>\r\n<BR>\r\nThere we hold fast, 'gainst beasts and ash.<BR>\r\nNo matter how strong their blight may lash!<BR>\r\nWe'll count our scars once the day is ours.<BR>\r\nThe Scarabs are On-The-March!<BR>\r\n<BR>\r\n<BR>\r\nAnd in Deshaan, when blood is shed.<BR>\r\nThe Scarabs are On-The-March!<BR>\r\nWhen lizards paint Arnesia red.<BR>\r\nThe Scarabs Are On-The-March!<BR>\r\n<BR>\r\nWe'll nobly tread, in southern stead.<BR>\r\nTo fill th'Argonian foe with dread!<BR>\r\nWe'll all break bread when the X'eel are dead.<BR>\r\nThe Scarabs are On-The-March!<BR>\r\n<BR>"
+data:
+  weight: 1.0
+  value: 40
+  book_type: Scroll
+  skill: None
+  enchantment: 0

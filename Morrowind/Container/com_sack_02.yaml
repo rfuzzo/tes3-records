@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: com_sack_02
+name: Cloth Sack
+script: ''
+mesh: o\Contain_Com_Sack_02.NIF
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory: []

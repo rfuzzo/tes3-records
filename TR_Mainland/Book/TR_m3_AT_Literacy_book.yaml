@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_AT_Literacy_book
+name: On the Importance of Heresy
+script: TR_m3_AT_Literacy_booksc
+mesh: m\Text_Quarto_02.nif
+icon: m\Tx_quarto_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nOn the Importance of Heresy<BR>\r\nby Golsu Farelas, Temple scholar<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\n\"To purge the Corners one must first enter the House.\"\r\n- The maxim of Saint Olms\r\n<BR><BR>It is usual for the common Velothi to believe that heretics are a nuisance to the Temple much like the vermin scrib is a nuisance to a comberry farmer. In their naivety, which no one should hold against them, they believe that like the farmer who wishes the vermin would simply leave their crops alone, the Temple would wish the heretics would simply disappear.\r\n<BR>\r\nYet who is it who would test us, the strong and faithful, for our weaknesses if the House of Troubles was no more? What other foe would there be against which the true Dunmer could prove their worth if the Sharmat and his withered legions had lain dormant until the end of time? What use would the Temple scholars have of their knowledge of the written Law if the marginalia of the Dissident Priests were erased? The importance of heresy is not something to be preached to the uncultivated lay members, but any true follower of the Tribunal should realize that it is one of the cornerstones of the Temple.\r\n<BR>\r\nWhen the Ordinators of War purge a ruin of Daedric wickedness, burning the pages of the madmen's manuscripts and breaking the witches' skulls with spiked maces, they are considered to be performing a holy deed. Yet, if they were waging their war against common robbers it would not be the same. It is clear that the act of war is not holy in and of itself. It requires the heretic's blood. It requires the heresy. There is a holiness to heresy: it is the evil that is necessary and that necessity is holy. This is the great test of the Ordinators of War, far greater than any physical obstacle or howling horde of Oblivion that could stand in their way, yet unfathomable by the lay members of the Temple: accepting that it is the heretic who, with their life's blood, grants them holiness.\r\n<BR>\r\nAcknowledging the power within heresy is the first step towards triumphing over it. It is not well-known, but it is the truth nonetheless, that the one who names is the one who has the mastery. That is: the one who speaks the heresy is the one who conquers the heresy, renders it powerless, makes it unspeakable by those who would misuse it. That is the reason the worst heresies are recorded and kept under lock and key and the watchful eye of the wisest and the most steadfast. Deep inside the Necrom vaults the Temple keeps imprisoned the images of the Daughter, the Apprentice and the Mortal, and that of the foul murder. This is the First Heresy.\r\n<BR>"
+data:
+  weight: 4.0
+  value: 300
+  book_type: Book
+  skill: None
+  enchantment: 100

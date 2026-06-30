@@ -1,0 +1,25 @@
+type: Armor
+flags: ''
+id: T_Com_IronSkull_PauldronR_01
+name: Gruesome Iron Right Pauldron
+script: ''
+mesh: tr\a\tr_a_ironskulls_pldcl.nif
+icon: tr\a\tr_a_skullpauldron.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: RightPauldron
+  male_bodypart: T_A_ComIronSkullPauldr_Cl
+  female_bodypart: ''
+- biped_object_type: RightUpperArm
+  male_bodypart: a_iron_pauldron_ua
+  female_bodypart: ''
+- biped_object_type: RightForearm
+  male_bodypart: a_iron_pauldron_fa
+  female_bodypart: ''
+data:
+  armor_type: RightPauldron
+  weight: 12.0
+  value: 35
+  health: 120
+  enchantment: 75
+  armor_rating: 13

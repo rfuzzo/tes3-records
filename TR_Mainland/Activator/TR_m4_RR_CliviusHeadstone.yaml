@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m4_RR_CliviusHeadstone
+name: ''
+script: TR_m4_RR_CliviusStuff_scp
+mesh: tr\f\tr_barrel_plank.nif

@@ -1,0 +1,23 @@
+type: Container
+flags: ''
+id: com_chest_02_fg_supply
+name: Fighters' Guild Equipment Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 300.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 100
+  - iron bolt
+- - 100
+  - iron arrow
+- - 1
+  - fur_colovian_helm
+- - 10
+  - p_restore_health_c
+- - 5
+  - p_restore_health_s
+- - 10
+  - p_restore_fatigue_s
+- - 10
+  - repair_journeyman_01

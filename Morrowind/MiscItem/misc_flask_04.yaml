@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: misc_flask_04
+name: Flask
+script: ''
+mesh: m\Misc_flask_04.NIF
+icon: m\Tx_flask_04.tga
+data:
+  weight: 1.0
+  value: 1
+  flags: ''

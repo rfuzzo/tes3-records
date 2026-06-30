@@ -1,0 +1,20 @@
+type: Alchemy
+flags: ''
+id: AB_alc_HealBandage02
+name: Bandage
+script: ''
+mesh: OAAB\m\dr_heal_bandage_02.nif
+icon: OAAB\m\misc_bandage_02.tga
+effects:
+- magic_effect: RestoreHealth
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 30
+  min_magnitude: 1
+  max_magnitude: 1
+data:
+  weight: 0.5
+  value: 20
+  flags: ''

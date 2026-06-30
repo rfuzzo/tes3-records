@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_SomberWidow_01
+name: Somber Widow Blossom
+script: ''
+mesh: pi\n\pi_ing_tm_flower_01.nif
+icon: pi\n\cq_ing_tm_flower_icn.dds
+data:
+  weight: 0.1
+  value: 20
+  effects:
+  - Poison
+  - Blind
+  - ResistMagicka
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

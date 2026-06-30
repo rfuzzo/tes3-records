@@ -1,0 +1,21 @@
+type: Container
+flags: ''
+id: TR_m3_crate_dondril_smi
+name: Crate
+script: ''
+mesh: o\Contain_crate_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Com_Iron_Helm_Open
+- - 1
+  - T_Com_Wood_Crossbow_01
+- - 50
+  - iron arrow
+- - 50
+  - iron bolt
+- - 1
+  - iron club
+- - 1
+  - iron saber

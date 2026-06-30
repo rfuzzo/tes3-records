@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Sc_DaalderTR
+name: Daalder
+script: ''
+mesh: m\Text_Scroll_01.nif
+icon: m\Tx_scroll_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nDaalder<BR>\r\n<BR>\r\n<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\"><BR><BR>\r\nAs rouan molhi'ag ujil lursan en embier fut os\r\nKhosi'ag wah gher ot solsha\r\nDoldikam as hadishk ouapig ujil rokav,\r\nAdurith huirf tifur bimuhr daalder.\r\nEn hulokam yifir<br><br>\r\nMolarath hij, as daalder nibiv,\r\nTurute'ag\r\nSinvakam gufisha sincakam as lursan rouan,\r\nLournath amel lourniif am kilivur, khesire, en khestis<br><br>\r\n\rBahnith gher yi molarath solsha\r\nOs periug kol as rokav am as hadishk, turutath gher amel\r\nLourgih\r\nSinvath daalder doldith lo\r\nLournath kol yi yifif errat<br><br>\r\n\t-Arnayth, urithir am abhoril kol Kilicithal<br><br>\r\n"
+data:
+  weight: 1.1
+  value: 25
+  book_type: Scroll
+  skill: None
+  enchantment: 0

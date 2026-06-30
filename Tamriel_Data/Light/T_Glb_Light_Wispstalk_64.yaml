@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_Glb_Light_Wispstalk_64
+name: ''
+script: ''
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 64
+  color:
+  - 90
+  - 103
+  - 90
+  - 0
+  flags: DYNAMIC

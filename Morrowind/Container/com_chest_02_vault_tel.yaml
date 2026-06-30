@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: com_chest_02_vault_tel
+name: Wooden Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 400.0
+container_flags: IS_BASE
+inventory:
+- - 10
+  - l_m_enchantitem_telvanni_rank8
+- - 5
+  - l_m_enchantitem_telvanni_rank6
+- - 3
+  - l_n_soul gem

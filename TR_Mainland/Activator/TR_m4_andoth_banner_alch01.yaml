@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_andoth_banner_alch01
+name: Fauler's Philters
+script: OutsideBanner
+mesh: f\Furn_bannerD_alchemy_01.nif

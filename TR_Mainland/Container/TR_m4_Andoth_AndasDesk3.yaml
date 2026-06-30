@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m4_Andoth_AndasDesk3
+name: Desk
+script: ''
+mesh: tr\o\tr_furn_de_rm_desk01.nif
+encumbrance: 75.0
+container_flags: IS_BASE
+inventory:
+- - 8
+  - T_IngMine_Sapphire_01

@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m2_kmlz_dwrv_desk_VG
+name: Heavy Dwemer Desk
+script: ''
+mesh: o\contain_dwrv_desk00.nif
+encumbrance: 144.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - random_dwarven_misc

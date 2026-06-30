@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: de_p_chest_02_zainsuban
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - bk_words_of_the_wind
+- - 1
+  - bk_easternprovincesimpartial
+- - 1
+  - bk_provinces_of_tamriel

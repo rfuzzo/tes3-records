@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_Indulcet_01
+name: Raw Indulcet
+script: ''
+mesh: pc\n\pc_ingred_indulcet.nif
+icon: pc\n\pc_ingred_indulcet.dds
+data:
+  weight: 0.2
+  value: 20
+  effects:
+  - FortifyAttribute
+  - RestoreFatigue
+  - Sanctuary
+  - DamageAttribute
+  skills:
+  - Block
+  - None
+  - Block
+  - Block
+  attributes:
+  - Personality
+  - None
+  - Willpower
+  - Agility

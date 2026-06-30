@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m3_EEC_MurderDagger
+name: Chitin Dagger
+script: ''
+mesh: w\W_dagger_chitin.nif
+icon: w\Tx_chitin_dagger.tga
+enchanting: balm of dagoth_en
+data:
+  weight: 1.5
+  value: 22
+  weapon_type: ShortBladeOneHand
+  health: 400
+  speed: 2.5
+  reach: 1.0
+  enchantment: 10
+  chop_min: 4
+  chop_max: 7
+  slash_min: 4
+  slash_max: 7
+  thrust_min: 4
+  thrust_max: 7
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

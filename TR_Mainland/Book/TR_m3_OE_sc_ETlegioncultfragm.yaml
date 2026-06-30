@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_OE_sc_ETlegioncultfragm
+name: 'Many-Headed Talos: A Fragment'
+script: ''
+mesh: m\text_scroll_01.nif
+icon: m\tx_scroll_open_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n\"I do this for you, Red Legions, for I love you.\" <br> \r\nAnd when Talos was five score and number-of-the-divines years of age he whispered this: \"I will come to you in the shape of the strongest of your ranks. Find me and I will accompany you every step of your way. <br>\r\nMarch on, Red Legions, and be duly loved.\" <br> <br>"
+data:
+  weight: 0.2
+  value: 20
+  book_type: Scroll
+  skill: None
+  enchantment: 0

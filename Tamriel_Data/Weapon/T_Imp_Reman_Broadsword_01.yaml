@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Imp_Reman_Broadsword_01
+name: Reman Legion Broadsword
+script: ''
+mesh: pc\w\pc_w_reman_broadsw.nif
+icon: pc\w\pc_w_reman_broadsw.dds
+enchanting: ''
+data:
+  weight: 14.0
+  value: 210
+  weapon_type: LongBladeOneHand
+  health: 500
+  speed: 1.25
+  reach: 1.0
+  enchantment: 60
+  chop_min: 7
+  chop_max: 10
+  slash_min: 5
+  slash_max: 10
+  thrust_min: 5
+  thrust_max: 9
+  flags: ''

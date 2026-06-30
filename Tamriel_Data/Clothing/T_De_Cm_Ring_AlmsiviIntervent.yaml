@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_De_Cm_Ring_AlmsiviIntervent
+name: Ring of Almsivi Intervention
+script: ''
+mesh: c\c_ring_common04.nif
+icon: c\tx_ring_common04.dds
+enchanting: almsivi intervention_en
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 125
+  enchantment: 100

@@ -1,0 +1,33 @@
+type: Container
+flags: ''
+id: TR_m4-423_chest
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 789
+  - Gold_001
+- - 1
+  - TR_m4-423_ring_scamp
+- - 1
+  - common_pants_03_c
+- - 1
+  - common_shirt_03_c
+- - 1
+  - netch_leather_boiled_cuirass
+- - 1
+  - netch_leather_boiled_helm
+- - 1
+  - netch_leather_gauntlet_left
+- - 1
+  - netch_leather_gauntlet_right
+- - 1
+  - netch_leather_greaves
+- - 1
+  - netch_leather_pauldron_left
+- - 1
+  - netch_leather_pauldron_right
+- - 1
+  - silver flameblade

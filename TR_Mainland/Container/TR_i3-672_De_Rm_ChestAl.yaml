@@ -1,0 +1,37 @@
+type: Container
+flags: ''
+id: TR_i3-672_De_Rm_ChestAl
+name: Chest
+script: ''
+mesh: TR\o\TR_furn_De_Rm_Chest.NIF
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - -5
+  - Potion_Cyro_Whiskey_01
+- - -2
+  - p_chameleon_b
+- - -1
+  - p_fortify_agility_s
+- - -2
+  - p_fortify_health_s
+- - -1
+  - p_frost_resistance_c
+- - -2
+  - p_restore_fatigue_c
+- - -3
+  - p_restore_health_c
+- - -2
+  - p_restore_luck_c
+- - -4
+  - p_restore_magicka_s
+- - -2
+  - p_restore_personality_b
+- - -2
+  - p_restore_speed_s
+- - -1
+  - p_swift_swim_q
+- - -2
+  - potion_comberry_brandy_01
+- - -3
+  - potion_comberry_wine_01

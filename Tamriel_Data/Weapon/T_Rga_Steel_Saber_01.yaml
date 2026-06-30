@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Rga_Steel_Saber_01
+name: Redguard Steel Saber
+script: ''
+mesh: pc\w\pc_w_steel_saber.nif
+icon: pc\w\pc_w_steel_saber.dds
+enchanting: ''
+data:
+  weight: 15.0
+  value: 90
+  weapon_type: LongBladeOneHand
+  health: 1050
+  speed: 1.4
+  reach: 1.0
+  enchantment: 60
+  chop_min: 6
+  chop_max: 22
+  slash_min: 4
+  slash_max: 20
+  thrust_min: 1
+  thrust_max: 3
+  flags: ''

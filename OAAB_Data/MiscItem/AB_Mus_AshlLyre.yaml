@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Mus_AshlLyre
+name: Lyre
+script: ''
+mesh: OAAB\m\MusAshlLyre.nif
+icon: OAAB\m\musAshlLyre.dds
+data:
+  weight: 1.0
+  value: 20
+  flags: ''

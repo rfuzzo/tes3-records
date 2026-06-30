@@ -1,0 +1,12 @@
+type: Apparatus
+flags: ''
+id: T_De_Ebony_Retort
+name: Ebony Retort
+script: ''
+mesh: tr\m\tr_app_e_retort.nif
+icon: tr\m\tr_app_e_retort.dds
+data:
+  apparatus_type: Retort
+  quality: 1.75
+  weight: 9.0
+  value: 2400

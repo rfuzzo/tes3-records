@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: TR_m2_q_38_bonemeallight
+name: ''
+script: TR_m2_q_38_s_rituallight
+mesh: EditorMarker.nif
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 64
+  color:
+  - 124
+  - 248
+  - 186
+  - 0
+  flags: ''

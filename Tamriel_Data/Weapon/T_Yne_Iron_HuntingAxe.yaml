@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Yne_Iron_HuntingAxe
+name: Ynesai Iron Hunting Axe
+script: ''
+mesh: pi\w\pi_w_yiron_huntaxe.nif
+icon: pi\w\pi_w_yiron_huntaxe.dds
+enchanting: ''
+data:
+  weight: 13.0
+  value: 25
+  weapon_type: AxeOneHand
+  health: 1000
+  speed: 1.3
+  reach: 1.0
+  enchantment: 60
+  chop_min: 6
+  chop_max: 14
+  slash_min: 6
+  slash_max: 14
+  thrust_min: 1
+  thrust_max: 2
+  flags: ''

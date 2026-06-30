@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_FW_College_MusRunestone
+name: Roscrean Runestone Fragment
+script: ''
+mesh: m\text_parchment_01.nif
+icon: m\tx_parchment_01.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nRoscrean Runestone Fragment<BR> <BR>\r\n<DIV ALIGN=\"LEFT\">\r\nThis fragment of an ancient runestone is thought to have originated in a millennia-old tomb on Roscrea, an isle far to the north of Tamriel. Roscrea was taken by the Imperial Navy in 3E 271, making it the first of Emperor Uriel V's many conquests. The town of Port Thonica, named for the Emperor's wife, was established shortly thereafter to serve as an auxiliary staging base for the Far East Fleet's northern command during the invasion of Akavir. \r\n<BR>\r\nThe Census and Excise Office seized this runestone in 283 from the crew of the 'Celandine', a whaling vessel operating out of Farrun. The whalers claimed to have recovered the artifact from the ruins of a tomb on Roscrea's southwestern coast, where they had been encamped until being driven off by a giant.<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

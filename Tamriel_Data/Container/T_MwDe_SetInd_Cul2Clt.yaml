@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_MwDe_SetInd_Cul2Clt
+name: Culdem
+script: ''
+mesh: TR\o\TR_cont_Ind_02.nif
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 5
+  - T_Mw_Random_Clothing

@@ -1,0 +1,44 @@
+type: Alchemy
+flags: ''
+id: T_Imp_Subst_Aegrotat_01
+name: Aegrotat
+script: ''
+mesh: pc\m\pc_misc_aegrotat.nif
+icon: pc\m\pc_misc_aegrotat.dds
+effects:
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Speed
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 15
+  max_magnitude: 15
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Agility
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 15
+  max_magnitude: 15
+- magic_effect: DrainAttribute
+  skill: None
+  attribute: Agility
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 20
+  max_magnitude: 20
+- magic_effect: DamageFatigue
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 5
+  max_magnitude: 5
+data:
+  weight: 0.15
+  value: 200
+  flags: ''

@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Sky_Flora_WormwoodD01
+name: Dried Wormwood
+script: ''
+mesh: sky\o\sky_flora_WormwDry.nif
+encumbrance: 0.0
+container_flags: ORGANIC | IS_BASE
+inventory:
+- - 1
+  - T_Cyr_Random_FlorWormwood

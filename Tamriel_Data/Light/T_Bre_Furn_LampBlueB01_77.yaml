@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_Bre_Furn_LampBlueB01_77
+name: ''
+script: ''
+mesh: hr\l\hr_l_lamp_01_blueB.nif
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 77
+  color:
+  - 32
+  - 143
+  - 255
+  - 0
+  flags: DYNAMIC | FIRE | FLICKER_SLOW

@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: BM_Ice minion_Shield1
+name: Riekling Shield
+script: ''
+mesh: a\A_Ice minions_Shield1.NIF
+icon: A\TX_IceM_Shield1.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Shield
+  male_bodypart: A_Ice minions_Shield1
+  female_bodypart: ''
+data:
+  armor_type: Shield
+  weight: 2.0
+  value: 50
+  health: 200
+  enchantment: 80
+  armor_rating: 12

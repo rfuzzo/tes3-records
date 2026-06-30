@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_FW_College_LibPhiBooks
+name: Philosophies of Thought
+script: ''
+mesh: m\text_parchment_01.nif
+icon: m\tx_parchment_01.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nPhilosophies of Thought<BR> <BR><DIV ALIGN=\"Left\">\r\nThese shelves contain the College's collection of philosophical and religious texts. Included in this section are the fundamental texts of both the Imperial Cult and Morrowind's Tribunal Temple, in addition to a variety of tomes on traditions from around the known world.\r\n<BR>\r\nReaders seeking an introduction to the Tribunal Temple are advised to begin with \"Fellowship of the Temple\". The College keeps several copies of this Temple tract for Westerners in the shelf left of this note.\r\n<BR>\r\nThe College makes every effort to comply with both Imperial and Temple law. Consequently, heretical texts are not housed in the Library Tower's collections.<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

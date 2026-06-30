@@ -1,0 +1,35 @@
+type: Clothing
+flags: ''
+id: T_De_Ep_ShirtShin_02
+name: Expensive Shinathi Shirt
+script: ''
+mesh: tr\c\tr_c_shirt_shin_02_gnd.nif
+icon: tr\c\tr_c_shirt_shin_02.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_C_DeEpShirtShin02_C
+  female_bodypart: T_C_DeEpShirtShin02_CF
+- biped_object_type: LeftUpperArm
+  male_bodypart: T_C_DeEpShirtShin02_UA
+  female_bodypart: ''
+- biped_object_type: RightUpperArm
+  male_bodypart: T_C_DeEpShirtShin02_UA
+  female_bodypart: ''
+- biped_object_type: LeftForearm
+  male_bodypart: T_C_DeEpShirtShin02_Fa
+  female_bodypart: ''
+- biped_object_type: RightForearm
+  male_bodypart: T_C_DeEpShirtShin02_Fa
+  female_bodypart: ''
+- biped_object_type: LeftWrist
+  male_bodypart: T_C_DeEpShirtShin02_W
+  female_bodypart: ''
+- biped_object_type: RightWrist
+  male_bodypart: T_C_DeEpShirtShin02_W
+  female_bodypart: ''
+data:
+  clothing_type: Shirt
+  weight: 2.0
+  value: 15
+  enchantment: 75

@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: TR_m2_cont_daim_He_04
+name: Heavily Mined Diamond Rock
+script: ''
+mesh: o\Contain_rock_diamond_04.nif
+encumbrance: 0.0
+container_flags: ORGANIC | IS_BASE
+inventory: []

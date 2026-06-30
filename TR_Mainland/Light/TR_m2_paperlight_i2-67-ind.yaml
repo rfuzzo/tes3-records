@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: TR_m2_paperlight_i2-67-ind
+name: ''
+script: ''
+mesh: l\Light_paper_lantern_02.NIF
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 64
+  color:
+  - 36
+  - 173
+  - 255
+  - 0
+  flags: DYNAMIC | FLICKER_SLOW

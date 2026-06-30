@@ -1,0 +1,33 @@
+type: Container
+flags: ''
+id: dwrv_chest00_arenara1
+name: Heavy Dwemer Chest
+script: ''
+mesh: o\contain_dwrv_chest00.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 7
+  - cruel flame bolt
+- - 30
+  - arrow of wasting flame
+- - -20
+  - bonemold arrow
+- - 5
+  - cruel flamearrow
+- - 15
+  - silver arrow
+- - 4
+  - ebony throwing star
+- - 1
+  - dwarven battle axe
+- - 1
+  - steel flamecleaver
+- - 1
+  - iron club
+- - 1
+  - iron mace
+- - 1
+  - dwarven shortsword
+- - 1
+  - random_dwarven_all

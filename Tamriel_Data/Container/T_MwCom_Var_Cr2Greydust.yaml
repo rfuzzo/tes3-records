@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: T_MwCom_Var_Cr2Greydust
+name: Crate
+script: ''
+mesh: o\Contain_crate_02.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - T_De_Subst_Greydust_01
+- - 5
+  - T_Mw_Random_Greydust

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Imp_UNI_CutlassArchon
+name: Cutlass of Lilmoth
+script: ''
+mesh: Sky\w\sky_uni_cutlass_arch.nif
+icon: sky\w\sky_w_cutlass_archon.dds
+enchanting: T_Use_CutlassArchon
+data:
+  weight: 17.5
+  value: 12400
+  weapon_type: LongBladeOneHand
+  health: 1170
+  speed: 1.4
+  reach: 1.0
+  enchantment: 900
+  chop_min: 7
+  chop_max: 28
+  slash_min: 6
+  slash_max: 26
+  thrust_min: 1
+  thrust_max: 7
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

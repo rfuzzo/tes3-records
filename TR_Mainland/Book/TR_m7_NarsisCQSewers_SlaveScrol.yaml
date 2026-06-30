@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_NarsisCQSewers_SlaveScrol
+name: Worn Scroll
+script: ''
+mesh: m\Text_Scroll_01.NIF
+icon: m\Tx_scroll_open_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n[This scroll lists how many slaves are kept here, when they are due for transport, and when more are due for arrival.] <BR>"
+data:
+  weight: 1.2
+  value: 10
+  book_type: Scroll
+  skill: None
+  enchantment: 400

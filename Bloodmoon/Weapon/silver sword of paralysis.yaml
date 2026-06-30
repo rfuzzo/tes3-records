@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: silver sword of paralysis
+name: Silver Sword of Paralysis
+script: ''
+mesh: w\W_Longsword_Silver.nif
+icon: w\Tx_Silver_longsword.tga
+enchanting: paralysis weapon
+data:
+  weight: 16.0
+  value: 900
+  weapon_type: LongBladeOneHand
+  health: 720
+  speed: 1.35
+  reach: 1.0
+  enchantment: 48
+  chop_min: 20
+  chop_max: 45
+  slash_min: 12
+  slash_max: 25
+  thrust_min: 8
+  thrust_max: 20
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE | SILVER

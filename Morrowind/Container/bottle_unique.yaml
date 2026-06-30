@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: bottle_unique
+name: Glass Bottle
+script: Float
+mesh: m\Misc_Com_Bottle_05.nif
+encumbrance: 1.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - bk_note

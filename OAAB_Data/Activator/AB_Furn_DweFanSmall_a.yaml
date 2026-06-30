@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Furn_DweFanSmall_a
+name: ''
+script: Sound_Dwemer_Fan
+mesh: OAAB\u\dwe_fan_small.nif

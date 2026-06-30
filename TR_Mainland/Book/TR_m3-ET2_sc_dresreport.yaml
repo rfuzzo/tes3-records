@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3-ET2_sc_dresreport
+name: Deshaan District Report
+script: ''
+mesh: m\Text_Scroll_open_01.nif
+icon: m\Tx_scroll_open_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This parchment lists various matters reported by Imperial operatives in the Deshaan District of Morrowind. His Highness Duke Phyrios Mattimus follows up with a lengthy response.]<BR>\r\n<BR>"
+data:
+  weight: 3.0
+  value: 50
+  book_type: Scroll
+  skill: None
+  enchantment: 50

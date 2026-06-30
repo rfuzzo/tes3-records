@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_q_RD_Note
+name: Letter to Hles Vervul
+script: ''
+mesh: m\Text_Note_02.nif
+icon: m\Tx_note_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[The letter has been hastily written on a spare sheet of paper.]\r\n<BR>\r\nHles Vervul, \r\n<BR>\r\nFirstly, my sincere apologies that you feel the quality of my merchandise was not up to your standards. I hope that you can forgive me. \r\n<BR><BR>\r\nAnd secondly, the matter of repayment. All 2,000 drakes of what you paid for the item will be refunded to you. As before, the money will be relayed in three payments through reliable sources. \r\n<BR><BR>\r\nI hope that this misunderstanding doesn't come between us doing business again in the future.\r\n<BR>\r\n[The bottom of the note contains a large, jotted rendition of Irva Sedrethi's signature.]\r\n<BR>"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: bk_BlackGlove
+name: The Black Glove
+script: ''
+mesh: m\Text_Octavo_08.NIF
+icon: m\Tx_book_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe Black Glove<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nSwift and agile are the Morag Tong. Silent and unseen they move. Illusions they supply to misdirect their prey. Close and sure they strike with shortblade, or distant and secure they strike from afar with accurate missile fire. Light armor protects them from harm, and the acrobatic discipline finds for them the unseen and unlooked-for path. Have you these virtues? Then, perhaps, your oath and service may please the Morag Tong.<BR>\r\n<BR>\r\nDo you have your friends and your finery, but no place to go? Do you laugh and cry, but no longer feel? Do you wear these masks? Then, perhaps, your oath and service may please the Black Glove.<BR>\r\n<BR>\r\nThe blood of the hunter and the blood of the hunted. The joy of the hidden and the joy of the seeker. The blood of the eye and the blood of the gate. The joy of the living and the joy of the dead. Are you one with these things? Then, perhaps, your oath and service may please Mephala.<BR>\r\n<BR>\r\nTo make your oath and enter our service, the worthy must seek the Grandmaster, who by tradition lives in the unseen and unlooked-for corners of Vivec City between the blood of battle and the waters of life.<BR>\r\n<BR>\r\n"
+data:
+  weight: 2.0
+  value: 60
+  book_type: Book
+  skill: None
+  enchantment: 20

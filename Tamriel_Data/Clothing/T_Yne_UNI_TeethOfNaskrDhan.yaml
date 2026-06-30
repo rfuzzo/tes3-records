@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Yne_UNI_TeethOfNaskrDhan
+name: Teeth of Naskr'Dhan
+script: ''
+mesh: pi\c\yne_amulet_teethofnas.nif
+icon: pi\c\yne_amulet_teethofnas.dds
+enchanting: T_Const_TeethOfNaskrDhan
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 2500
+  enchantment: 1200

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Glb_Sound_Deshaan_Pool
+name: 'Sound Effect: Deshaan Acid Pool'
+script: T_ScSound_DeshaanPool
+mesh: EditorMarker.NIF

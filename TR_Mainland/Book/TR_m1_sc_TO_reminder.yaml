@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_sc_TO_reminder
+name: Reminder
+script: ''
+mesh: m\Text_Note_02.nif
+icon: m\Tx_note_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nRemember<BR>\r\n<BR>\r\nD. in Firewatch has Poppies.<BR>\r\n<BR>\r\nURGENT<BR>\r\n<BR>\r\nSatu<BR>\r\n"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

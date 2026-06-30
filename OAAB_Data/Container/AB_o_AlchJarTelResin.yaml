@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: AB_o_AlchJarTelResin
+name: Jar of Telvanni Resin
+script: ''
+mesh: OAAB\o\alchJarTelResin.nif
+encumbrance: 0.0
+container_flags: ORGANIC | IS_BASE
+inventory:
+- - 5
+  - AB_lvl_IngTelvanniResin

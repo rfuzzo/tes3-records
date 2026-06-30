@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_BoneSkelKhaTail
+name: Tail
+script: ''
+mesh: OAAB\m\skelTailKhaj.nif
+icon: OAAB\m\skelTailKhaj.tga
+data:
+  weight: 1.5
+  value: 1
+  flags: ''

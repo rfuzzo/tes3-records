@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: Furn_shrine_Olms_cure_01
+name: Shrine of St. Olms
+script: shrineOlms
+mesh: f\Furn_shrine_olms_01.NIF

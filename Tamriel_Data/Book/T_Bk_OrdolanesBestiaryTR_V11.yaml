@@ -1,0 +1,34 @@
+type: Book
+flags: ''
+id: T_Bk_OrdolanesBestiaryTR_V11
+name: Ordolane's Bestiary, vol. 11
+script: ''
+mesh: TR\m\TR_book_closed_i03_AY.nif
+icon: TR\m\TR_book_closed_i03_AY.dds
+enchanting: ''
+text: |-
+  <DIV ALIGN="CENTER"><FONT COLOR="640F0F" SIZE="3" FACE="Magic Cards"><BR>Ordolane's Bestiary, vol. 11<BR>
+  <DIV ALIGN="LEFT"><FONT COLOR="000000" SIZE="3" FACE="Magic Cards"><BR> Being a complete listing of the Fauna of Tamriel, with truthful description, assembled from the reports of sundry Savants, Naturalists, Mystics &c from across the breadth of the Empire.
+  <BR>
+  <BR><FONT COLOR="821E00" SIZE="3" FACE="Magic Cards">The Mudcrab
+  <BR><FONT COLOR="000000" SIZE="3" FACE="Magic Cards">
+  This is a common name given to several species of large crustacean that inhabit silted areas close to water. Though not commonly thought of as predators, all varieties share a taste for flesh and are in turn consumed as a delicacy or as a staple food by many societies. It is common amongst the clans of Valenwood for relatives who have died of disease to be fed as carrion to the mudcrabs, which are then themselves consumed by the family of the deceased. In this way the traditional death rites can be observed without risk of spreading any illness.<BR>
+  <BR><FONT COLOR="821E00" SIZE="3" FACE="Magic Cards">The Tinmi Dragon
+  <BR><FONT COLOR="000000" SIZE="3" FACE="Magic Cards">
+  The Tinmi Dragon is a large aquatic beast of the river Niben and its tributaries. Its folk name refers to its bulk more than to its nature, for it bears no likeness or relation to the winged tyrants of the Dawn, instead having a more mammalian appearance. Though its calves are born pale, its hide is usually a dark umber, dyed by the similarly named riverbed soil in which it is often found basking. The Tinmi Dragon commands a deep respect for the Slave Queen and her memory and will act as a stepping stone across streams for those who intone her name and proceed barefoot in her example.<BR>
+  <BR><FONT COLOR="821E00" SIZE="3" FACE="Magic Cards">The Troll
+  <BR><FONT COLOR="000000" SIZE="3" FACE="Magic Cards">
+  A large, ape-like monster, fond of lurking in caves and forests across Tamriel. Western breeds are distinguished by a remarkable third eye on the forehead. Trolls have the ability to recover from any wound, and, unless scorched by fire, can even return from death. This has led the Order of Arkay and many Meridian cults to declare the troll a revenant beast, to be exterminated under their various divine pacts. Trollbone is a popular material for armor among the Nords, who believe that the regenerative capacity of the trolls will keep their armor in good condition, and may even heal the user in their hour of need. They are not alone in this supposition: trollbone charms and amulets can be found among the Reachmen, the Bjoulsae tribes and various Bosmer clans. Furthermore, powdered trollbone is a popular ingredient in Nibenese rejuvenation potions, and the extinct Kothringi nomads were said to hammer sharp splinters of trollbone under their skins in times of war.<BR>
+  <BR><FONT COLOR="821E00" SIZE="3" FACE="Magic Cards">The Mockmouth
+  <BR><FONT COLOR="000000" SIZE="3" FACE="Magic Cards">
+  The daunting offspring of a giant borne by another creature. Upon encountering a mockmouth, one must promptly insult it or risk being attacked and devoured. They can vary in size and appearance, though they are always greatly misshapen. Mockmouths are of the few alarmingly dangerous beasts one might yet never encounter, due to both their indeterminate shape and their stark aversion to courteous contests of arms.<BR>
+  <BR><FONT COLOR="821E00" SIZE="3" FACE="Magic Cards">The Kohl Frog
+  <BR><FONT COLOR="000000" SIZE="3" FACE="Magic Cards">
+  A species of amphibian ubiquitous across Black Marsh and the bordering regions of Morrowind and Cyrodiil. Kohl Frogs reproduce in a unique fashion. When a Kohl Patriarch dies in the deepest swamps of Black Marsh its corpse disintegrates into thousands of tiny frogs no more than an inch long. These are swept into the air by the wind and carried hundreds of miles in every direction. During heavy thunderstorms they fall to the ground with the rain and begin the long journey back to their spawning pools. Kohl Frogs have a ravenous appetite, and once they have exhausted an area of insect life they will eat almost anything else that can fit in their stomachs, including their siblings. The Patriarchs that make it back to their spawning pool can be decades old and the size of a Colovian town-house. In Morrowind they are regarded as Argonian spies and the Dark Elves operate a kill-on-sight policy against them. In Cyrodiil they are harvested to make the hallucinogenic drug Kohllano, which is used in several Nibenese rituals.<BR>
+  <BR>IN DEDICATION TO THE EMPEROR URIEL SEPTIM VII <BR>
+data:
+  weight: 3.0
+  value: 60
+  book_type: Book
+  skill: None
+  enchantment: 0

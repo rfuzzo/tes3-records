@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_SkyImp_FurnM_Ds1Pos1
+name: Desk
+script: ''
+mesh: Sky\o\Sky_Furn_Desk_02_01.nif
+encumbrance: 75.0
+container_flags: IS_BASE
+inventory:
+- - 4
+  - T_Sky_Random_Pos

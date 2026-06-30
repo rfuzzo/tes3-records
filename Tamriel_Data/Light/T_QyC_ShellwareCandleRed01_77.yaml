@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_QyC_ShellwareCandleRed01_77
+name: Shellware Candlestick
+script: ''
+mesh: pi\l\pi_l_cnq_s_canag1red.nif
+icon: pi\l\pi_l_cnq_s_canag1red.dds
+sound: ''
+data:
+  weight: 2.0
+  value: 5
+  time: 120
+  radius: 77
+  color:
+  - 245
+  - 140
+  - 40
+  - 0
+  flags: DYNAMIC | CAN_CARRY | FIRE | FLICKER_SLOW

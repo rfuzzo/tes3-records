@@ -1,0 +1,43 @@
+type: Container
+flags: ''
+id: crate_01_arrille
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - -1
+  - iron_gauntlet_right
+- - -1
+  - chitin guantlet - right
+- - -1
+  - iron_gauntlet_left
+- - -1
+  - chitin guantlet - left
+- - 1
+  - fur_boots
+- - 1
+  - chitin boots
+- - 1
+  - iron_greaves
+- - 1
+  - chitin pauldron - right
+- - 1
+  - chitin pauldron - left
+- - -1
+  - nordic_ringmail_cuirass
+- - 1
+  - imperial_chain_cuirass
+- - -1
+  - iron_cuirass
+- - -1
+  - fur_cuirass
+- - -1
+  - netch_leather_cuirass
+- - -1
+  - chitin cuirass
+- - -1
+  - imperial_chain_coif_helm
+- - 1
+  - iron_helmet

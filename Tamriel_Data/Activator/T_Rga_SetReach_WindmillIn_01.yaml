@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Rga_SetReach_WindmillIn_01
+name: ''
+script: T_ScObj_WeatherAnimSHOTN
+mesh: Sky\i\Sky_In_Red_WML_01.nif

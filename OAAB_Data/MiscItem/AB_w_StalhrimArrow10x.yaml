@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_w_StalhrimArrow10x
+name: Stalhrim Arrow (10)
+script: AB_QuiverStalhrim10x_s
+mesh: OAAB\w\quiver_ice.nif
+icon: OAAB\w\tx_ice_arrow.dds
+data:
+  weight: 3.5
+  value: 170
+  flags: ''

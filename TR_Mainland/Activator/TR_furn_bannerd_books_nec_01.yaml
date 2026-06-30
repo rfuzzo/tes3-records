@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_furn_bannerd_books_nec_01
+name: Tenandus' Rare Books
+script: OutsideBanner
+mesh: f\Furn_de_banner_book_01.NIF

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_ButterflyWingSky_01
+name: Sweetroll Butterfly Wing
+script: ''
+mesh: sky\n\sky_ing_btrflywing_01.nif
+icon: sky\n\sky_ing_btrflywing_01.dds
+data:
+  weight: 0.1
+  value: 5
+  effects:
+  - FortifyAttribute
+  - FortifyAttribute
+  - WeaknessToFrost
+  - WeaknessToPoison
+  skills:
+  - Block
+  - Block
+  - None
+  - None
+  attributes:
+  - Luck
+  - Speed
+  - None
+  - None

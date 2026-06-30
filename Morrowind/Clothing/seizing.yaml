@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: seizing
+name: The Seizing of the Erabenimsun
+script: ''
+mesh: c\C_belt_Erabin.NIF
+icon: c\tx_belt_Erabinimsum.tga
+enchanting: seizing_en
+biped_objects: []
+data:
+  clothing_type: Belt
+  weight: 1.0
+  value: 1000
+  enchantment: 50

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_Siyat_02
+name: Cured Siyat
+script: ''
+mesh: PC\n\pc_ing_siyat_cur.nif
+icon: pc\n\pc_tx_ingred_siyatcur.dds
+data:
+  weight: 0.5
+  value: 25
+  effects:
+  - FortifyFatigue
+  - None
+  - None
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

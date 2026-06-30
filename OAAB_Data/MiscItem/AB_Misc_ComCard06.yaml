@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_ComCard06
+name: The Morning
+script: ''
+mesh: OAAB\m\com_card_06.nif
+icon: OAAB\m\com_card_06.dds
+data:
+  weight: 0.1
+  value: 1
+  flags: ''

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_OE_TG_KatariahDisplay03
+name: Inscribed Stone
+script: TR_m3_OE_TG_KatariahDisp02_SCP
+mesh: tr\f\TR_furn_imp_stoneplaq.nif

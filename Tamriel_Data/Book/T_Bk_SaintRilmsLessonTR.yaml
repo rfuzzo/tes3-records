@@ -1,0 +1,35 @@
+type: Book
+flags: ''
+id: T_Bk_SaintRilmsLessonTR
+name: St. Rilms' Lesson
+script: ''
+mesh: TR\m\TR_book_closed01_AA.NIF
+icon: TR\m\TR_book_closed01_AA.dds
+enchanting: ''
+text: |
+  <DIV ALIGN="CENTER"><FONT COLOR="000000" SIZE="3" FACE="Magic Cards"><BR>St Rilms' Lesson<BR>
+  <DIV ALIGN="LEFT"><BR>"Six are the walking ways, from enigma to enemy to teacher."<BR>
+  <BR>
+  To walk is to love, young pilgrims. We honor The Prophet through our travels. By walking his way, we keep the holy journey alive.<BR>
+  <BR>
+  It is the sole that keeps us in contact with Veloth. With each step, we sing the marching song of our forebears. By retracing the pattern, we strengthen the bond.<BR>
+  <BR>
+  It is with our feet that we followed Veloth. It was the exodus of the feet that brought us to Resdayn. It is our feet that now rest on the soils of Morrowind.<BR>
+  <BR>
+  "Six are the guardians of Veloth, three before and they are born again, and they will test you until you have the proper tendencies of a hero."<BR>
+  <BR>
+  To walk is to love, young pilgrims. We honor The Three through our resolve. Through overcoming opposition, we grow closer to the source. These are the stories of the sole. With each step, the story grows.<BR>
+  <BR>
+  The markings on the sole may be physical or spiritual, but are always intertwined. Scars, scabs and blisters lead to callusing of the body, but also of the mind. Tattoos mark both sole and spirit.<BR>
+  <BR>
+  Each step has an effect, yet changes nothing. Each step is taken freely, though without choice. Each step tells the story that has yet to be told, the story that has already been told and the story that must be told.<BR>
+  <BR>
+  By retracing the pattern, we strengthen the bond.<BR>
+  <BR>
+  To walk is to love, young pilgrims.<BR>
+data:
+  weight: 1.0
+  value: 25
+  book_type: Book
+  skill: None
+  enchantment: 0

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_Set_Shrine_SaintTeach_03
+name: Shrine of St. Nare
+script: T_ScObj_ShrineSaintTeachPC
+mesh: pc\x\pc_ex_wshrn_02.nif

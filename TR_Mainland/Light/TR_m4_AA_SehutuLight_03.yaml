@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: TR_m4_AA_SehutuLight_03
+name: ''
+script: TR_m4_AA_SehutuLight_Scp
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 100
+  color:
+  - 209
+  - 27
+  - 104
+  - 0
+  flags: DYNAMIC | PULSE_SLOW

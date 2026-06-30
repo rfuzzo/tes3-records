@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Dae_Auroran_Mace_01
+name: Auroran Mace
+script: ''
+mesh: pc\w\pc_w_auroran_mace.nif
+icon: pc\w\pc_w_auroran_mace.dds
+enchanting: ''
+data:
+  weight: 15.0
+  value: 700
+  weapon_type: BluntOneHand
+  health: 2400
+  speed: 1.3
+  reach: 1.0
+  enchantment: 50
+  chop_min: 4
+  chop_max: 20
+  slash_min: 4
+  slash_max: 20
+  thrust_min: 1
+  thrust_max: 5
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_i2_445_StairsFX_8
+name: ''
+script: TR_m2_445_sc_StairsFX_8
+mesh: editormarker.nif

@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_Glb_Light_BlueWaterRipple_150
+name: ''
+script: ''
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 150
+  color:
+  - 92
+  - 118
+  - 120
+  - 0
+  flags: FLICKER

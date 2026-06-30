@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: AB_ScEn_TaksimsThinkingCap
+name: Scroll of Taksim's Thinking Cap
+script: ''
+mesh: OAAB\m\scrollStandard.nif
+icon: OAAB\m\scroll_standard.tga
+enchanting: AB_sc_TaksimsThinkingCap_en
+text: <DIV ALIGN="center"><FONT COLOR="000000" SIZE="2" FACE="Daedric">AGENT OF MADNESS OR MISCHIEF THAT IS THE QUESTION</FONT><BR>
+data:
+  weight: 0.2
+  value: 122
+  book_type: Scroll
+  skill: None
+  enchantment: 0

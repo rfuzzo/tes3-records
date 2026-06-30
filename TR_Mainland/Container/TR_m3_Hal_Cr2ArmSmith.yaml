@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m3_Hal_Cr2ArmSmith
+name: Crate
+script: TR_m3_Hal_Enable_sc
+mesh: o\Contain_crate_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - -5
+  - T_MwDe_Random_Armor

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Ned_UNI_HornsofHanugalba
+name: Horns of Hanugalba
+script: ''
+mesh: tr\w\tr_w_nedeclub_uni.nif
+icon: tr\w\tr_w_nedeclub_uni.dds
+enchanting: T_Use_Hanugalba
+data:
+  weight: 30.0
+  value: 45000
+  weapon_type: BluntOneHand
+  health: 4000
+  speed: 1.3
+  reach: 1.0
+  enchantment: 500
+  chop_min: 10
+  chop_max: 30
+  slash_min: 10
+  slash_max: 35
+  thrust_min: 1
+  thrust_max: 4
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

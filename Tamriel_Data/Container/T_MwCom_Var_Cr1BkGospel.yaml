@@ -1,0 +1,29 @@
+type: Container
+flags: ''
+id: T_MwCom_Var_Cr1BkGospel
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Bk_GospelOfSaintAralorTR
+- - 1
+  - T_Bk_GospelOfSaintDelynTR
+- - 1
+  - T_Bk_GospelOfSaintFelmsTR
+- - 1
+  - T_Bk_GospelOfSaintLlothisTR
+- - 1
+  - T_Bk_GospelOfSaintMerisTR
+- - 1
+  - T_Bk_GospelOfSaintNerevarTR
+- - 1
+  - T_Bk_GospelOfSaintOlmsTR
+- - 1
+  - T_Bk_GospelOfSaintRilmsTR
+- - 1
+  - T_Bk_GospelOfSaintRorisTR
+- - 1
+  - T_Bk_GospelOfSaintSerynTR

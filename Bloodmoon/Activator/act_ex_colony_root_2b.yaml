@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: act_ex_colony_root_2b
+name: ''
+script: ColonyRoot2
+mesh: f\Act_BM_root_02.NIF

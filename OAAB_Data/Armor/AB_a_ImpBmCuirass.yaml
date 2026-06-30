@@ -1,0 +1,37 @@
+type: Armor
+flags: ''
+id: AB_a_ImpBmCuirass
+name: Imperial Battlemage Cuirass
+script: LegionUniform
+mesh: OAAB\a\mv_bm_cuirass_gnd_01.nif
+icon: OAAB\a\mv_bm_cuirass_01.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: AB_a_ImpBm_ch
+  female_bodypart: ''
+- biped_object_type: LeftUpperArm
+  male_bodypart: ''
+  female_bodypart: ''
+- biped_object_type: RightUpperArm
+  male_bodypart: ''
+  female_bodypart: ''
+- biped_object_type: LeftForearm
+  male_bodypart: ''
+  female_bodypart: ''
+- biped_object_type: RightForearm
+  male_bodypart: ''
+  female_bodypart: ''
+- biped_object_type: LeftWrist
+  male_bodypart: ''
+  female_bodypart: ''
+- biped_object_type: RightWrist
+  male_bodypart: ''
+  female_bodypart: ''
+data:
+  armor_type: Cuirass
+  weight: 28.0
+  value: 2500
+  health: 1400
+  enchantment: 260
+  armor_rating: 40

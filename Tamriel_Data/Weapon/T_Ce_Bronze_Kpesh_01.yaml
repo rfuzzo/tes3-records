@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Ce_Bronze_Kpesh_01
+name: Bronze Longsword
+script: ''
+mesh: pi\w\pi_w_bronze_kpesh_01.nif
+icon: pi\w\PI_w_bronze_kpesh01.dds
+enchanting: ''
+data:
+  weight: 16.0
+  value: 140
+  weapon_type: LongBladeOneHand
+  health: 500
+  speed: 1.35
+  reach: 1.0
+  enchantment: 28
+  chop_min: 1
+  chop_max: 20
+  slash_min: 1
+  slash_max: 20
+  thrust_min: 1
+  thrust_max: 3
+  flags: ''

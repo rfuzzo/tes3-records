@@ -1,0 +1,25 @@
+type: Armor
+flags: ''
+id: T_Imp_Dragonscale_PauldronR_01
+name: Imperial Dragonscale R Pauldron
+script: ''
+mesh: pc\a\PC_a_dragon_pauld_CL_R.NIF
+icon: pc\a\pc_a_dragon_pauld_r.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: RightPauldron
+  male_bodypart: T_A_ImpDragonscalePauldr01_ClR
+  female_bodypart: ''
+- biped_object_type: RightUpperArm
+  male_bodypart: T_A_ImpDragonscalePauldr01_UA
+  female_bodypart: ''
+- biped_object_type: RightForearm
+  male_bodypart: T_A_ImpDragonscalePauldr01_Fa
+  female_bodypart: ''
+data:
+  armor_type: RightPauldron
+  weight: 9.0
+  value: 140
+  health: 400
+  enchantment: 160
+  armor_rating: 20

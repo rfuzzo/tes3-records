@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_bk_i2-25_Temple-corpse-prep
+name: Corpse preparation directions
+script: ''
+mesh: m\Text_Octavo_05.NIF
+icon: m\Tx_book_04.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This book contains directions on the rituals used to respectfully prepare remains for cremation.]\r\n<BR>"
+data:
+  weight: 3.0
+  value: 12
+  book_type: Book
+  skill: None
+  enchantment: 0

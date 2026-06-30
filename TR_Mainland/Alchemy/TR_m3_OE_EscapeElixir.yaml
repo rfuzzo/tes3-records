@@ -1,0 +1,36 @@
+type: Alchemy
+flags: ''
+id: TR_m3_OE_EscapeElixir
+name: Astien's Escape Elixir
+script: ''
+mesh: m\Misc_Potion_Bargain_01.nif
+icon: m\Tx_potion_bargain_01.tga
+effects:
+- magic_effect: Levitate
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 10
+  min_magnitude: 50
+  max_magnitude: 50
+- magic_effect: WaterWalking
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 1
+  max_magnitude: 1
+- magic_effect: Feather
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 75
+  max_magnitude: 75
+data:
+  weight: 1.5
+  value: 300
+  flags: ''

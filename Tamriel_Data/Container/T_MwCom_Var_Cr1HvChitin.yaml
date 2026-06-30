@@ -1,0 +1,25 @@
+type: Container
+flags: ''
+id: T_MwCom_Var_Cr1HvChitin
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_De_HvChit_Boots
+- - 1
+  - T_De_HvChit_Cuirass
+- - 1
+  - T_De_HvChit_Gauntlet_L
+- - 1
+  - T_De_HvChit_Gauntlet_R
+- - 1
+  - T_De_HvChit_Greaves
+- - 1
+  - T_De_HvChit_Helmet
+- - 1
+  - T_De_HvChit_Pauldron_L
+- - 1
+  - T_De_HvChit_Pauldron_R

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: imperial shortsword severio
+name: Severia's Imperial Shortsword
+script: ''
+mesh: w\W_Shortsword_Imperial.nif
+icon: w\Tx_Shortsword_Imperial.tga
+enchanting: honorguard_en
+data:
+  weight: 9.0
+  value: 30
+  weapon_type: ShortBladeOneHand
+  health: 700
+  speed: 2.0
+  reach: 1.0
+  enchantment: 50
+  chop_min: 4
+  chop_max: 10
+  slash_min: 4
+  slash_max: 10
+  thrust_min: 6
+  thrust_max: 10
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

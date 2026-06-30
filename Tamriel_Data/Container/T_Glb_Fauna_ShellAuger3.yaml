@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Glb_Fauna_ShellAuger3
+name: Auger Shell
+script: ''
+mesh: pi\o\pi_f_shellauger_02a.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - T_Com_ShellAuger_03

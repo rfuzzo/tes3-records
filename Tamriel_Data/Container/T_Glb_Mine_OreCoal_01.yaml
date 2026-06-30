@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Glb_Mine_OreCoal_01
+name: Coal Pile
+script: ''
+mesh: TR\O\tr_cont_rock_coalpile.nif
+encumbrance: 0.0
+container_flags: ORGANIC | IS_BASE
+inventory:
+- - 5
+  - T_Glb_Random_Coal

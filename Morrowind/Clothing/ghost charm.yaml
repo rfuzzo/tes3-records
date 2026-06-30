@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: ghost charm
+name: Ghost Charm
+script: ''
+mesh: c\Amulet_Extravagant_2.NIF
+icon: c\tx_amulet_extrav2.tga
+enchanting: summon ancestral ghost_en
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 203
+  enchantment: 150

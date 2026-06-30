@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_BreadRedguard_01
+name: Bread
+script: ''
+mesh: hf\n\hf_food_Bread01.nif
+icon: hf\n\hf_food_bread01.tga
+data:
+  weight: 0.5
+  value: 2
+  effects:
+  - RestoreFatigue
+  - FortifyAttribute
+  - None
+  - None
+  skills:
+  - None
+  - Block
+  - None
+  - None
+  attributes:
+  - None
+  - Endurance
+  - None
+  - None

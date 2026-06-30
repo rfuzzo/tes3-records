@@ -1,0 +1,36 @@
+type: Alchemy
+flags: ''
+id: TR_m7_PerfectedPotion_02
+name: Perfected Potion of Flight
+script: ''
+mesh: tr\m\TR_misc_potion_03.NIF
+icon: tr\m\TR_misc_potion_03.dds
+effects:
+- magic_effect: Levitate
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 30
+  max_magnitude: 30
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Speed
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 40
+  max_magnitude: 40
+- magic_effect: Feather
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 30
+  max_magnitude: 30
+data:
+  weight: 0.3
+  value: 1000
+  flags: ''

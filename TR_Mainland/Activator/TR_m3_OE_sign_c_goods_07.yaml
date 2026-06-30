@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_OE_sign_c_goods_07
+name: 'Orto Rumaria: Outfitter'
+script: SignRotate
+mesh: f\active_sign_c_goods_02.nif

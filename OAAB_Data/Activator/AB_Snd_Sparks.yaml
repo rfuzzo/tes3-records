@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Snd_Sparks
+name: Sound_Sparks
+script: AB_SoundSparks_s
+mesh: EditorMarker.NIF

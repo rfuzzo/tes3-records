@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_Jadescales_01
+name: Jadescales
+script: ''
+mesh: pi\n\pi_ing_jadescales.nif
+icon: pi\n\pi_ing_jadescales.dds
+data:
+  weight: 0.2
+  value: 6
+  effects:
+  - DamageMagicka
+  - FortifySkill
+  - FortifyAttribute
+  - Chameleon
+  skills:
+  - None
+  - Athletics
+  - Block
+  - None
+  attributes:
+  - None
+  - Strength
+  - Luck
+  - None

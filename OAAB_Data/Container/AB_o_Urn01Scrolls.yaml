@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: AB_o_Urn01Scrolls
+name: Urn
+script: ''
+mesh: o\Contain_urn_01.NIF
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - 5
+  - AB_lvl_ScrollsEnchAll

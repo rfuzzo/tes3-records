@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_cont_m3-641_wheat
+name: Sack
+script: ''
+mesh: o\Contain_Com_Sack_01.NIF
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - ingred_wickwheat_01

@@ -1,0 +1,12 @@
+type: RepairItem
+flags: ''
+id: T_Dwe_UNI_HammerGharen_01
+name: Hammer of Gharen
+script: ''
+mesh: tr\m\tr_hammer_gharen_uni.nif
+icon: tr\m\tr_hammer_gharen_uni.dds
+data:
+  weight: 20.0
+  value: 15000
+  uses: 250
+  quality: 5.0

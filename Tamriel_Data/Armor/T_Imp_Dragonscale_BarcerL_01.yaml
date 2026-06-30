@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Imp_Dragonscale_BarcerL_01
+name: Imperial Dragonscale L Bracer
+script: ''
+mesh: pc\a\PC_a_dragon_brac_l_gnd.nif
+icon: pc\a\pc_a_dragon_bracer_l.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: LeftWrist
+  male_bodypart: T_A_ImpDragonscaleBracer01_W
+  female_bodypart: ''
+data:
+  armor_type: LeftBracer
+  weight: 4.0
+  value: 70
+  health: 60
+  enchantment: 160
+  armor_rating: 20

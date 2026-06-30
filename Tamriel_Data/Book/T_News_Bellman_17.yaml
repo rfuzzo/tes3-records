@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Bellman_17
+name: KATARIAH'S DEATH MASK RECOVERED
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_note_oe_news.nif
+icon: tr\m\tr_note_oe_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\TR_bellman_512_256.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nKATARIAH'S DEATH MASK RECOVERED<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nThe death mask of Empress Katariah has been recovered by an Imperial agent, after centuries of being lost somewhere in the catacombs underneath the city. The priceless artifact has been put on display in the great hall of the Ebon Tower palace for all to see. Some have argued that the recovery of the death mask constitutes grave robbery, but the Ebonheart Bellman wishes to point out that the actual regal remains were not disturbed in the process and urges everyone to go and pay homage to the fabled visage of the Gray Empress!<br><br>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nPUBLIC NOTICE:<BR>ON THE IMPORTING OF HORSES<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nDue to recent events, the provincial government would like to remind all citizens that, while not strictly forbidden, the importing of horses, ponies or other equine creatures into the province of Morrowind is highly ill-advised. The provincial government will not arbiter in disputes concerning lost horses nor will it pay any compensations.<br><br>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

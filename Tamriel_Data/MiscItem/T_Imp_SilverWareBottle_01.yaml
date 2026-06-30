@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_SilverWareBottle_01
+name: Silverware Bottle
+script: ''
+mesh: TR\m\TR_misc_silv_bottle_01.nif
+icon: TR\m\TR_misc_silv_bottle.dds
+data:
+  weight: 5.0
+  value: 25
+  flags: ''

@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Hr_Flora_Dragynia02
+name: Dragynia
+script: ''
+mesh: Sky\o\Sky_Flora_Drag_02.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - T_Hr_Random_FlorDragynia

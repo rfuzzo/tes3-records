@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_Narsis_Hlaalu1st_catarec2
+name: Family Interment Record
+script: ''
+mesh: m\Text_paper_roll_01.nif
+icon: m\Tx_paper_roll_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>\r\n[This document exhibits a list of interments into the Catacombs of Narsis for a family of lesser nobility.]<BR>\r\n<BR>"
+data:
+  weight: 0.2
+  value: 15
+  book_type: Scroll
+  skill: None
+  enchantment: 100

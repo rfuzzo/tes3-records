@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea _SnowraySting_01
+name: Snowray Sting
+script: ''
+mesh: sky\n\sky_ingred_SnRay_01.nif
+icon: sky\n\sky_ingred_SraySting.dds
+data:
+  weight: 0.2
+  value: 10
+  effects:
+  - Blind
+  - ResistShock
+  - SwiftSwim
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

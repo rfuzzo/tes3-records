@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_C_MinerMan60101
+name: MinerMan60101 reference
+script: ''
+mesh: tr\tr_note_pin.nif
+icon: default icon.dds
+enchanting: ''
+text: Mansit-Nur Hive is a reference to its developer, MinerMan60101.
+data:
+  weight: 0.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 0

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_w_i4-504_vurbol
+name: Vurbol's Blade
+script: ''
+mesh: TR\w\tr_w_ebony_katana.nif
+icon: TR\w\TR_w_ebony_katana.dds
+enchanting: TR_en-m4-504_Olms
+data:
+  weight: 36.0
+  value: 5600
+  weapon_type: LongBladeOneHand
+  health: 1200
+  speed: 1.5
+  reach: 1.0
+  enchantment: 120
+  chop_min: 2
+  chop_max: 23
+  slash_min: 1
+  slash_max: 25
+  thrust_min: 1
+  thrust_max: 24
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

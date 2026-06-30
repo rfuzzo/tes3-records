@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_IronSpike_01
+name: Iron Spike
+script: ''
+mesh: pc\m\PC_misc_iron_spike.nif
+icon: pc\m\pc_tx_spike.dds
+data:
+  weight: 2.0
+  value: 1
+  flags: ''

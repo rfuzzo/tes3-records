@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: TR_m3_Sanguine_FirePit_On
+name: ''
+script: TR_m3_Act_Sanguine_Island_Sc
+mesh: l\light_fire.nif
+icon: ''
+sound: Fire 50
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 256
+  color:
+  - 245
+  - 140
+  - 50
+  - 0
+  flags: DYNAMIC | FIRE | FLICKER_SLOW

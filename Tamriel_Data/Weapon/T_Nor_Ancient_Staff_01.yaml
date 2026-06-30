@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Nor_Ancient_Staff_01
+name: Ancient Nordic Staff
+script: ''
+mesh: sky\w\sky_w_anordic_staff.nif
+icon: sky\w\sky_w_anordic_staff.dds
+enchanting: ''
+data:
+  weight: 12.0
+  value: 240
+  weapon_type: BluntTwoWide
+  health: 600
+  speed: 1.5
+  reach: 1.8
+  enchantment: 140
+  chop_min: 3
+  chop_max: 8
+  slash_min: 2
+  slash_max: 7
+  thrust_min: 1
+  thrust_max: 6
+  flags: ''

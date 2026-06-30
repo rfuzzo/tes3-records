@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_Armiger_Note_gh
+name: Rolled Note
+script: TR_m7_Armiger_Note_sc
+mesh: m\Text_paper_roll_01.nif
+icon: m\Tx_paper_roll_01.tga
+enchanting: ''
+text: BOO!
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

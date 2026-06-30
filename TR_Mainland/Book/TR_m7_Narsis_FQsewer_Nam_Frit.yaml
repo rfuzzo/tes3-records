@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_Narsis_FQsewer_Nam_Frit
+name: Fritsig
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: ''
+enchanting: ''
+text: "Level 25 Sorcerer\r\nNord Female\r\nNamira Cultist \r\nHostile\r\n\r\ncommon robe 05 c\r\nHead: shotn 7\r\nHair: shotn 4\r\n\r\ndestruction spells: poison only\r\nconjuration: daedroth\r\n\r\nStanding AI\r\nHostile"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

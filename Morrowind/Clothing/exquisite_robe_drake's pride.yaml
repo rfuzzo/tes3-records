@@ -1,0 +1,23 @@
+type: Clothing
+flags: ''
+id: exquisite_robe_drake's pride
+name: Robe of the Drake's Pride
+script: ''
+mesh: c\C_M_Robe_Exquisite_1_GND.nif
+icon: c\Tx_Robe_exquisite_1.tga
+enchanting: drakespride_en_uniq
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: c_m_robe_exquisite_1
+  female_bodypart: ''
+- biped_object_type: LeftAnkle
+  male_bodypart: ''
+  female_bodypart: ''
+- biped_object_type: RightAnkle
+  male_bodypart: ''
+  female_bodypart: ''
+data:
+  clothing_type: Robe
+  weight: 3.0
+  value: 205
+  enchantment: 400

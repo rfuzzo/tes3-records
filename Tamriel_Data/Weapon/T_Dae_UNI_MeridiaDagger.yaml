@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Dae_UNI_MeridiaDagger
+name: Dagger of Meridia
+script: ''
+mesh: TR\w\TR_w_meridia_dag_uni.nif
+icon: TR\w\TR_w_meridia_dag_uni.dds
+enchanting: ''
+data:
+  weight: 6.5
+  value: 5200
+  weapon_type: ShortBladeOneHand
+  health: 600
+  speed: 2.5
+  reach: 1.0
+  enchantment: 100
+  chop_min: 8
+  chop_max: 18
+  slash_min: 10
+  slash_max: 16
+  thrust_min: 8
+  thrust_max: 20
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

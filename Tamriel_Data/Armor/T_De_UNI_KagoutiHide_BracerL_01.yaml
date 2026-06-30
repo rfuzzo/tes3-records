@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_De_UNI_KagoutiHide_BracerL_01
+name: Kagouti Hunter Left Bracer
+script: ''
+mesh: tr\a\tr_a_kagouti_brcru_gnd.nif
+icon: tr\a\tr_a_kagouti_bracer_u.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: LeftWrist
+  male_bodypart: T_A_DeKagoutiHideBracer02_W
+  female_bodypart: ''
+data:
+  armor_type: LeftBracer
+  weight: 2.0
+  value: 500
+  health: 140
+  enchantment: 235
+  armor_rating: 15

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_Hiradan Zamsi_marker
+name: Hiradan Zamsi
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: ''
+enchanting: ''
+text: "Hiradan Zamsi\r\nDunmer Shinathi M\r\ninvolved in Q3 of the Twin Lamps\r\nhttps://www.tamriel-rebuilt.org/claims/tr-twin-lamps-questline-part-one"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

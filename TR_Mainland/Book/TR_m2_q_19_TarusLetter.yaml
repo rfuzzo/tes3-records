@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2_q_19_TarusLetter
+name: Letter from Tarus
+script: ''
+mesh: m\Text_Parchment_02.nif
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nSatyana<BR>\r\n<BR>\r\nThe next delivery is ready. It's pipes again, so it's heavy. Better bring Boryn along. Come to the warehouse tomorrow one hour after dusk. We leave the crate outside of the lighthouse. The keeper'll pick it up and store it.<BR>\r\n<BR>\r\nTarus<BR>\r\n"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

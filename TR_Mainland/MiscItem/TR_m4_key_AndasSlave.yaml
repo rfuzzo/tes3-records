@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m4_key_AndasSlave
+name: Andas Estate Slave Key
+script: ''
+mesh: TR\m\TR_Key_DD21.NIF
+icon: TR\m\TR_Key_DD21.dds
+data:
+  weight: 0.0
+  value: 50
+  flags: KEY

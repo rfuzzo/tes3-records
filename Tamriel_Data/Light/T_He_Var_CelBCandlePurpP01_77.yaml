@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_He_Var_CelBCandlePurpP01_77
+name: Blue Celadon Candlestick
+script: ''
+mesh: sum\l\sum_l_celb_cnpfl.nif
+icon: sum\l\sum_l_celb_cnp.dds
+sound: ''
+data:
+  weight: 2.0
+  value: 10
+  time: 150
+  radius: 77
+  color:
+  - 177
+  - 83
+  - 255
+  - 0
+  flags: DYNAMIC | CAN_CARRY | FIRE | FLICKER_SLOW

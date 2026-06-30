@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_Ayl_DngRuin_LightGas
+name: ''
+script: ''
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 128
+  color:
+  - 136
+  - 181
+  - 96
+  - 0
+  flags: ''

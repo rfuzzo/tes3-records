@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: Act_BM_stone_wind_01
+name: Wind Stone
+script: stoneWindScript
+mesh: f\Act_BM_stone_wind_01.NIF

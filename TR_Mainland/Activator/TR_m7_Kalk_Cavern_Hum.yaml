@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_Kalk_Cavern_Hum
+name: ''
+script: TR_m7_Kalk_Lost_City_Hum
+mesh: tr\i\tr_in_mudcave_shell.nif

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: tr_m7_skelly
+name: Note To quest dev
+script: ''
+mesh: tr\tr_note_pin.nif
+icon: default icon.dds
+enchanting: ''
+text: i have no spells, please handpick a few good spells (as per mort spell advice (no filler))
+data:
+  weight: 0.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 0

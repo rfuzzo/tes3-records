@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_SetDoomstonegc_Aeth
+name: Aetherius Stone
+script: T_ScObj_DoomHAethPC
+mesh: pc\f\pc_dmstn_gc_heavens.nif

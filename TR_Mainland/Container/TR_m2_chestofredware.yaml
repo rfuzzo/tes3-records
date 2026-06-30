@@ -1,0 +1,23 @@
+type: Container
+flags: ''
+id: TR_m2_chestofredware
+name: Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 500.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - Misc_Com_Redware_Cup
+- - 5
+  - T_Mw_Random_ClutterRedware
+- - 2
+  - misc_com_redware_bowl
+- - 1
+  - misc_com_redware_bowl_01
+- - 1
+  - misc_com_redware_pitcher
+- - 2
+  - misc_com_redware_platter
+- - 1
+  - misc_com_redware_vase

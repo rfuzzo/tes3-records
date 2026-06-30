@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_Q_NinarisNote
+name: Note from Draralen Gurin
+script: TR_m1_Q_NinarisNoteScript
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nNinari, \r\n<BR>\r\nI'm ready for the next stage of your treatment.  Please see me in my home at your earliest convenience. \r\n<BR>\r\nDraralen Gurin<BR>\r\n<BR>\r\n "
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

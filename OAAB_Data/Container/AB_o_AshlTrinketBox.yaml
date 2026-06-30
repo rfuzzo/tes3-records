@@ -1,0 +1,21 @@
+type: Container
+flags: ''
+id: AB_o_AshlTrinketBox
+name: Trinket Box
+script: ''
+mesh: OAAB\o\ashl_trinketbox_01.nif
+encumbrance: 10.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - l_b_amulets
+- - 1
+  - l_b_rings
+- - 1
+  - l_m_amulets
+- - 1
+  - l_m_rings
+- - 1
+  - l_n_amulet
+- - 1
+  - l_n_rings

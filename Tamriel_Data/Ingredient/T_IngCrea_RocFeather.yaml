@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_RocFeather
+name: Roc Feather
+script: ''
+mesh: pi\n\pi_ing_rocfeather.nif
+icon: pi\n\pi_ing_rocfeather.dds
+data:
+  weight: 0.25
+  value: 200
+  effects:
+  - FortifyAttribute
+  - StuntedMagicka
+  - ResistFire
+  - Shield
+  skills:
+  - Block
+  - None
+  - None
+  - None
+  attributes:
+  - Agility
+  - None
+  - None
+  - None

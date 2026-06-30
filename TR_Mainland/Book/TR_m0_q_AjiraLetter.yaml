@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m0_q_AjiraLetter
+name: Letter to Bribanne Erien
+script: ''
+mesh: m\text_parchment_01.nif
+icon: m\tx_parchment_01.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nAjira's good friend Bribanne, <BR>\r\n<BR>\r\nAjira apologizes for not writing sooner, but she has been very busy collecting samples and studying the various flowers and mushrooms of Vvardenfell. But after all this time, Ajira has good news to tell: Ajira has been promoted to Journeyman! \r\n<BR>\r\nAjira would like to visit, but there is much work to be done here in Balmora. Ajira needs to keep working hard to prove she deserves her promotion. Perhaps Bribanne could come to Balmora some day instead. She is always welcome here.\r\n<BR>\r\nBribanne's good friend, <BR>\r\n<BR>\r\nAjira\r\n<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

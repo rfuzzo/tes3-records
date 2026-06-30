@@ -1,0 +1,23 @@
+type: Container
+flags: ''
+id: chest_02_v_potion_p_02
+name: Wooden Chest
+script: ''
+mesh: o\Contain_De_Chest_02.nif
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - -5
+  - p_restore_health_b
+- - -5
+  - p_restore_health_c
+- - 2
+  - p_restore_fatigue_c
+- - 2
+  - p_disease_resistance_c
+- - 2
+  - p_cure_poison_s
+- - 2
+  - p_fortify_health_c
+- - -2
+  - p_restore_health_s

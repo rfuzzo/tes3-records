@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: TR_m4_omaynis_smith_01
+name: Barrel
+script: ''
+mesh: o\contain_barrel10.nif
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - -100
+  - iron arrow
+- - -50
+  - iron bolt
+- - -20
+  - iron throwing knife

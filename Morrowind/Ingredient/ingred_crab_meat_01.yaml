@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_crab_meat_01
+name: Crab Meat
+script: ''
+mesh: n\Ingred_crabmeat_01.NIF
+icon: n\Tx_crabmeat_01.tga
+data:
+  weight: 0.5
+  value: 1
+  effects:
+  - RestoreFatigue
+  - ResistShock
+  - LightningShield
+  - RestoreAttribute
+  skills:
+  - Block
+  - Block
+  - Block
+  - Block
+  attributes:
+  - Strength
+  - Strength
+  - Strength
+  - Luck

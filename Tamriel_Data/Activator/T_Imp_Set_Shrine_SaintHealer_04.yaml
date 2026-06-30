@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_Set_Shrine_SaintHealer_04
+name: Shrine of St. Osla
+script: T_ScObj_ShrineSaintHealerPC
+mesh: pc\x\pc_ex_wshrn_08.nif

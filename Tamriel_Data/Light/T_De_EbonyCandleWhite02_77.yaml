@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_De_EbonyCandleWhite02_77
+name: Ebony Candlestick
+script: ''
+mesh: tr\l\tr_l_ebonycandle_2.nif
+icon: tr\l\tr_l_de_eb_candle2.dds
+sound: ''
+data:
+  weight: 6.0
+  value: 750
+  time: 120
+  radius: 77
+  color:
+  - 245
+  - 140
+  - 40
+  - 0
+  flags: DYNAMIC | CAN_CARRY | FIRE | FLICKER_SLOW

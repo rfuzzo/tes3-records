@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: tr_light_m2-56-ghostlight
+name: ''
+script: ''
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 30
+  color:
+  - 255
+  - 255
+  - 255
+  - 0
+  flags: PULSE_SLOW

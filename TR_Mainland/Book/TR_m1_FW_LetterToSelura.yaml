@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: TR_m1_FW_LetterToSelura
+name: Letter to Selura
+script: TR_m1_FW_TG4_LetterTake
+mesh: m\text_parchment_01.nif
+icon: m\tx_parchment_01.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>S,\r\n<BR>I make for Althoa tomorrow with the Legion and eight of the Order. We will retake Nivalis - we must, or the damned usurper will have us surrounded. I wish desperately that you could join me. Without you at my side, my mind is ash and smoke, my body as brittle as a stalk of rice. Perhaps the thought of your face will pull me to strength as we march into the cold north.<BR>\r\n<BR>Do you know the old tale about the two stars? I heard it once from an Ashlander who visited court. It is said that the firmament of night was once all inky blackness, until Magnus' children pierced through it like so many needles through cloth as they departed the world. Two of the spirits, though, had grown to love each other while in the mortal realm. They despaired to return to Aetherius, fearing that they would forget themselves, and each other, in the everlasting light beyond the sky.\r\n<BR>One of the stars said to the other: \"My love, I would forsake a thousand eternities in the light of the beyond and live only briefly in this mortal darkness, if I could but spend that brief darkness with you.\" The other said: \"My dear, no outside light could ever rival the glow I hold within myself for you.\" Magnus saw this, and pitied his children. He said to them: \"Cling tightly to each other as we depart this doom, and you need not be parted.\" The pair did as they were bid, and as they rushed out of the world, they embraced each other. But as they struck the roof of the sky, one of the spirits lost her grip. As the other passed into the realm beyond, she plummeted back to Nirn.\r\n<BR>The star who fell refused to pass into the beyond alone, so great was her fear of forgetting. So she resolved that she would wait for her love to return to her, so that they might exit the world together as Magnus had taught. Each night since that night in the dawn of days, the spirit has flown along the sky as a shooting star, calling out to her beloved in the light above. One day, it is said, her counterpart will return to her, and they shall pierce a new star through the sky, passing together into the endless beyond.\r\n<BR>My beloved starlight, I am ever yours, through darkness and light.\r\n<BR>-Bredami<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

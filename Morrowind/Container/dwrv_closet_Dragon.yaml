@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: dwrv_closet_Dragon
+name: Steel Dwemer Closet
+script: ''
+mesh: o\contain_dwrv_closet00.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - dragonbone_cuirass_unique

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Sc_TemplatePI
+name: Scroll
+script: ''
+mesh: pi\m\pi_sc_palm_01.nif
+icon: pi\m\pi_sc_palm_01.dds
+enchanting: ''
+text: ''
+data:
+  weight: 1.2
+  value: 10
+  book_type: Scroll
+  skill: None
+  enchantment: 0

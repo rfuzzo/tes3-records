@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Dwe_Disk_01
+name: Dwemer Disk
+script: ''
+mesh: tr\m\tr_misc_dwrv_disk00.nif
+icon: tr\m\tr_misc_dwrv_disk00.dds
+data:
+  weight: 3.0
+  value: 50
+  flags: ''

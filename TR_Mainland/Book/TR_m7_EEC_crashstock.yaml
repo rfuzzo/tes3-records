@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_EEC_crashstock
+name: Harald's EEC Stock Portfolio
+script: ''
+mesh: tr\m\tr_book_tomebk_04.nif
+icon: tr\m\tr_book_closed_tome04.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This unorganized book of papers contains thousands of shares of EEC stock.]<BR>"
+data:
+  weight: 12.0
+  value: 100000
+  book_type: Book
+  skill: None
+  enchantment: 0

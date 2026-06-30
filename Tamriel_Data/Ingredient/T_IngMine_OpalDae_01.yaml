@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngMine_OpalDae_01
+name: Opal
+script: BILL_MarksDaedraSummon
+mesh: TR\n\TR_Ing_opal_mm.NIF
+icon: TR\n\TR_Ing_opal_mm.dds
+data:
+  weight: 0.2
+  value: 100
+  effects:
+  - DrainHealth
+  - DamageAttribute
+  - Chameleon
+  - FortifyAttribute
+  skills:
+  - None
+  - Block
+  - None
+  - Block
+  attributes:
+  - None
+  - Luck
+  - None
+  - Intelligence

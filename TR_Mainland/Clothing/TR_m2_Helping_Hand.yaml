@@ -1,0 +1,17 @@
+type: Clothing
+flags: ''
+id: TR_m2_Helping_Hand
+name: Glove of Raising
+script: ''
+mesh: c\C_glove_common1_GND.NIF
+icon: c\tx_glove_common1.tga
+enchanting: TR_m2_en_Levitate_Friend
+biped_objects:
+- biped_object_type: RightHand
+  male_bodypart: c_glove_common1
+  female_bodypart: ''
+data:
+  clothing_type: RightGlove
+  weight: 0.5
+  value: 150
+  enchantment: 10

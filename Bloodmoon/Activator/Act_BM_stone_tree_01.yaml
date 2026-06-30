@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: Act_BM_stone_tree_01
+name: Tree Stone
+script: stoneTreesScript
+mesh: f\Act_BM_stone_tree_01.NIF

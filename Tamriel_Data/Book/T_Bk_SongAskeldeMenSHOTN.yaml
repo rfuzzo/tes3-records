@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_SongAskeldeMenSHOTN
+name: Song of the Askelde Men
+script: ''
+mesh: Sky\m\Sky_Book_Saga_04.nif
+icon: Sky\m\Tx_Book_Saga_04.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nSong of the Askelde Men<BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nFifty Nights from home I last awoke<BR>\r\nupon a sky-flung cliff in Hjaalmarch Hold<BR>\r\n<BR>\r\nThough my flesh had died and gone to ground<BR>\r\nMy Vision went on, from body unbound<BR>\r\n<BR>\r\nWinking there in the vale whence I came<BR>\r\nThis dead man's eyes saw pale flame<BR>\r\n<BR>\r\nWhere men the same who took life away<BR>\r\nSung high their battle-glory and praise<BR>\r\n<BR>\r\nWafting went I, a shade or a wight<BR>\r\nThrough stoic pines, pitched ink of night<BR>\r\n<BR>\r\nEre I came upon the pyre-burning throng<BR>\r\nI heard carried on wind's wing their song<BR>\r\n<BR>\r\n\"Sing high and clear, bandsmen born of sky<BR>\r\nLet Sovngarde hear and join our cry\"<BR>\r\n<BR>\r\n\"These honored dead shed blood upon the fen<BR>\r\nEnding Orc and Elf and traitor men.\"<BR>\r\n<BR>\r\n\"Your spirit went unto and filled their heart<BR>\r\nYou sped them to glory, Hail Spirit Wulfharth\"<BR>\r\n<BR>\r\nThen oil from urns fed greedy flames<BR>\r\nburning what few my legion and I slayed<BR>\r\n<BR>\r\nWordlessy they chanted then until dawn<BR>\r\nEvery flake of ash gathered ere they marched on<BR>\r\n<BR>\r\nSwept along unseen, so too went I<BR>\r\nMeekly haunting these Children of the Sky<BR>\r\n<BR>\r\nTireless they went, over hearth and hill<BR>\r\nExhaustion seemed only to spur them still<BR>\r\n<BR>\r\nUnflagging they went, a whorl of rage<BR>\r\nSoon finding our camp, bloated with prey<BR>\r\n<BR>\r\nMy dead heart ached for I knew men within<BR>\r\nDoomed, never knowing how close was their end<BR>\r\n<BR>\r\nAgain the Nord chests swelled up in refrain<BR>\r\nI screamed unheard. I wept with horror plain<BR>\r\n<BR>\r\n\"Hear us, our ancestor, Ash King, Ysmir<BR>\r\nHonor this warband as we to glory repair\"<BR>\r\n<BR>\r\n\"Those dead to whom you spoke and heard<BR>\r\nWe bear them upon us, Your valor conferred\"<BR>\r\n<BR>\r\nAnd so it was, to the man each was smeared<BR>\r\nWith ash of a Brother's bone, blood and beard<BR>\r\n<BR>\r\nThese ashen brutes, the Askelde Men<BR>\r\nSet to a gruesome task, each bowstring bent<BR>\r\n<BR>\r\nI bellowed then, a cry of desperate rage<BR>\r\nA futile howl among those men, an empty page<BR>\r\n<BR>\r\nYet one elder turned and unblinking, stared<BR>\r\ninto the vapor-soul of me, his nostrils flared<BR>\r\n<BR>\r\nHe bellowed ancient words, his beard aflame<BR>\r\nAnd my vision fell away, Peace at last came<BR>\r\n<BR>"
+data:
+  weight: 3.0
+  value: 30
+  book_type: Book
+  skill: None
+  enchantment: 0

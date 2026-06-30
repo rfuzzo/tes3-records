@@ -1,0 +1,12 @@
+type: Alchemy
+flags: ''
+id: TR_m2_q_AB_RegrowthPotion
+name: Regrowth Potion
+script: TR_m2_q_AB_regrowthpotionSCN
+mesh: m\misc_potion_exclusive_01.nif
+icon: m\tx_potion_exclusive_01.dds
+effects: []
+data:
+  weight: 0.3
+  value: 300
+  flags: ''

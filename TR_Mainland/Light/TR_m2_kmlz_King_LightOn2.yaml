@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: TR_m2_kmlz_King_LightOn2
+name: ''
+script: TR_m2_kmlz_King_PowerOn_sc
+mesh: ''
+icon: ''
+sound: Power light 50
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 360
+  color:
+  - 238
+  - 187
+  - 81
+  - 0
+  flags: DYNAMIC | PULSE_SLOW

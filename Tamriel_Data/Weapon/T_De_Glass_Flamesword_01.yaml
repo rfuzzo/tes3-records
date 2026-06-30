@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_De_Glass_Flamesword_01
+name: Glass Flamesword
+script: ''
+mesh: w\W_Longsword_crystal.nif
+icon: w\Tx_Crystal_longsword.tga
+enchanting: cruel flame_en
+data:
+  weight: 12.0
+  value: 16800
+  weapon_type: LongBladeOneHand
+  health: 480
+  speed: 1.35
+  reach: 1.0
+  enchantment: 36
+  chop_min: 2
+  chop_max: 24
+  slash_min: 1
+  slash_max: 33
+  thrust_min: 4
+  thrust_max: 30
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

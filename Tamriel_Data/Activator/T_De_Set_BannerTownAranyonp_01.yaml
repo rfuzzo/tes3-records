@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_De_Set_BannerTownAranyonp_01
+name: Aranyon Pass
+script: OutsideBanner
+mesh: TR\f\TR_banner_Aranyon_Pass.nif

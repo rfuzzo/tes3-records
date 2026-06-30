@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_AndoHH_SealedReply
+name: Glaucia's Reply
+script: TR_m4_AndoHH_SealedLetter_sc
+mesh: m\text_paper_roll_01.nif
+icon: m\tx_paper_roll_01.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nDear Nalvyna,<BR>\r\n<BR>\r\nThanks to the help of %PCName, we were able to find another job for Gerardus. Therefore, I have decided to withdraw my call to make him the chief clerk of the Bal Foyen port authority. Let me offer you my sincere apologies and my thanks for your most generous gift. <BR>\r\n<BR>\r\nYours,<BR>\r\nGlaucia Rumariil <BR>"
+data:
+  weight: 0.2
+  value: 50
+  book_type: Scroll
+  skill: None
+  enchantment: 0

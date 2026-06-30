@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m4_TT_GoldIngot1
+name: Gold Ingot
+script: TR_m4_TT_GoldIngot1Script
+mesh: tr\m\tr_misc_bar_gold_03.nif
+icon: tr\m\tr_misc_gold_ingot_03.dds
+data:
+  weight: 20.0
+  value: 1000
+  flags: ''

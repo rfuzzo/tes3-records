@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_i2_238_note_alaud
+name: Note to Alaud
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nAlaud-<BR>\r\n<BR>\r\nI will keep the words small.  So you understand.  Go to your brother Soren. Teach him to be a better gatekeeper.  Then ask him to teach you to read.<BR>\r\n<BR>\r\nCan you understand this?  If you can't then I guess I'll have to come down next week and ask you in person to go talk to your brother... Not that you'll understand these large words, because you cannot read.<BR>\r\n<BR>\r\n- Aren Sinn, Tel Muthada Efficiency Overseer<BR>\r\n<BR>"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

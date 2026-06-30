@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: active_port_andra
+name: Andasreth Propylon
+script: Warp_Andra
+mesh: i\active_port_Andra.NIF

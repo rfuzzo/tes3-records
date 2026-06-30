@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: com_chest_01_alfhedil
+name: Chest
+script: ''
+mesh: o\Contain_Com_Chest_01.NIF
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - iron battle axe
+- - 1
+  - steel battle axe
+- - 1
+  - ebony war axe
+- - 1
+  - silver war axe

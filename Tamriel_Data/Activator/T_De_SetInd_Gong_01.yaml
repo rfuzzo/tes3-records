@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_De_SetInd_Gong_01
+name: Indoril Gong
+script: T_ScObj_IndorilGong1
+mesh: TR\f\tr_active_gong_01.nif

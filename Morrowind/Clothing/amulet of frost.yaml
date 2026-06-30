@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: amulet of frost
+name: Amulet of Frost
+script: ''
+mesh: c\Amulet_Expensive_3.NIF
+icon: c\tx_amulet_expens3.tga
+enchanting: freezing touch_enu
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 46
+  enchantment: 600

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m4_RR_Jinkmace
+name: Wooden Jinkmace
+script: ''
+mesh: TR\w\TR_w_wood_mace_01.nif
+icon: TR\w\TR_w_wood_mace_01.dds
+enchanting: paralysis_en
+data:
+  weight: 5.0
+  value: 32
+  weapon_type: BluntOneHand
+  health: 250
+  speed: 1.2
+  reach: 1.0
+  enchantment: 35
+  chop_min: 3
+  chop_max: 6
+  slash_min: 3
+  slash_max: 7
+  thrust_min: 1
+  thrust_max: 2
+  flags: ''

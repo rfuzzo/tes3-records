@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Cyr_Mine_OreCHRuby04
+name: Raw Ruby
+script: ''
+mesh: PC\o\pc_cont_chrock_ruby_04.nif
+encumbrance: 0.0
+container_flags: ORGANIC | IS_BASE
+inventory:
+- - 2
+  - T_Cyr_Random_OreRuby

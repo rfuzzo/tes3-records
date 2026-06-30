@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_Bread_03
+name: Bread
+script: ''
+mesh: tr\n\tr_ingred_bread_02.nif
+icon: tr\n\tr_ingred_bread_02.dds
+data:
+  weight: 0.4
+  value: 2
+  effects:
+  - RestoreFatigue
+  - None
+  - None
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

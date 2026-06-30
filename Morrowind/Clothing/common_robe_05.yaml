@@ -1,0 +1,23 @@
+type: Clothing
+flags: ''
+id: common_robe_05
+name: Common Robe
+script: ''
+mesh: c\C_M_Robe_Common_5_GND.NIF
+icon: c\tx_robe_com05.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: c_m_robe_common_5
+  female_bodypart: ''
+- biped_object_type: LeftAnkle
+  male_bodypart: ''
+  female_bodypart: ''
+- biped_object_type: RightAnkle
+  male_bodypart: ''
+  female_bodypart: ''
+data:
+  clothing_type: Robe
+  weight: 3.0
+  value: 2
+  enchantment: 10

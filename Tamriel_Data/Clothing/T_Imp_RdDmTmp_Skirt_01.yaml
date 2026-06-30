@@ -1,0 +1,17 @@
+type: Clothing
+flags: ''
+id: T_Imp_RdDmTmp_Skirt_01
+name: Red Dome Templar Skirt
+script: ''
+mesh: tr\c\tr_c_RdDmTmp_skirt_gnd.nif
+icon: tr\c\tr_c_RDTemp_skirt.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: Skirt
+  male_bodypart: T_C_RdDmTmp_Skirt01_G
+  female_bodypart: ''
+data:
+  clothing_type: Skirt
+  weight: 2.5
+  value: 6
+  enchantment: 5

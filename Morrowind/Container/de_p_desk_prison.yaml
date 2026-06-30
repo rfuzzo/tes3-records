@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: de_p_desk_prison
+name: Prison Guard's Desk
+script: ''
+mesh: o\Contain_De_Desk_01.NIF
+encumbrance: 75.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - silver dagger
+- - 1
+  - sc_leaguestep
+- - 1
+  - p_reflection_e
+- - 1
+  - key_ministry_cells
+- - 1
+  - probe_journeyman_01

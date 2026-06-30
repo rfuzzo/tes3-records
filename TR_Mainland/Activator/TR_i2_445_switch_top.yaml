@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_i2_445_switch_top
+name: Switch
+script: TR_m2_445_sc_switch_top
+mesh: x\ex_gg_gateswitch_01.nif

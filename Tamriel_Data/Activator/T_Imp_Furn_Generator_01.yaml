@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: T_Imp_Furn_Generator_01
+name: Daedron Field Generator
+script: T_ScObj_FieldGenerator
+mesh: pc\f\pc_imp_furn_generator.nif

@@ -1,0 +1,43 @@
+type: Container
+flags: ''
+id: TR_m2_cont_chest_e_i323
+name: Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - -1
+  - amulet of opening
+- - 2
+  - amulet of shield
+- - 1
+  - crimson despair amulet
+- - 1
+  - doze charm
+- - 1
+  - magickguard robe
+- - 1
+  - poisonmirror robe
+- - -1
+  - sc_almsiviintervention
+- - -1
+  - sc_blackdespair
+- - -1
+  - sc_blackscorn
+- - -1
+  - sc_blacksloth
+- - -2
+  - sc_daydenespanacea
+- - -2
+  - sc_elementalburstfire
+- - -1
+  - sc_elementalburstfrost
+- - -1
+  - sc_elementalburstshock
+- - -1
+  - sc_heartwise
+- - -2
+  - sc_ulmjuicedasfeather
+- - 1
+  - spiritstrike ring

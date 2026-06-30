@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_M7_Narsis116_NPC2
+name: ''
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: ''
+enchanting: ''
+text: Hlaalu guard
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

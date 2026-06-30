@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_Aim_DrumEffect
+name: 'Sound "Mine": Drum Beat'
+script: TR_m3_AimrahDrumBeatScript
+mesh: EditorMarker.NIF

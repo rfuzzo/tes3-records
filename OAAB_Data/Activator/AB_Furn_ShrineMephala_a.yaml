@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Furn_ShrineMephala_a
+name: Shrine of Mephala
+script: AB_ShrineMephala_s
+mesh: OAAB\u\v_shrine_meph.nif

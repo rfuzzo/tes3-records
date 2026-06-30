@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: TR_m2_face_hortator_uni
+name: Face of the Hortator
+script: ''
+mesh: a\A_Daedric_terrifying_h.nif
+icon: a\TX_Daedric_terrifying_h.tga
+enchanting: TR_m2_en_face_hortator
+biped_objects:
+- biped_object_type: Head
+  male_bodypart: a_daedric_terrifying_h
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 15.0
+  value: 16700
+  health: 750
+  enchantment: 750
+  armor_rating: 75

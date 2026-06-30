@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: AB_IngCrea_HorseMeat01
+name: Horse Meat
+script: ''
+mesh: OAAB\n\n_horse_meat.nif
+icon: OAAB\n\n_horse_meat.dds
+data:
+  weight: 2.0
+  value: 30
+  effects:
+  - RestoreHealth
+  - DrainAttribute
+  - DamageAttribute
+  - RestoreFatigue
+  skills:
+  - None
+  - Block
+  - Block
+  - None
+  attributes:
+  - None
+  - Speed
+  - Agility
+  - None

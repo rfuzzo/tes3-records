@@ -1,0 +1,33 @@
+type: Container
+flags: ''
+id: AB_o_BasketCover1Couple
+name: Covered Basket
+script: ''
+mesh: OAAB\o\basket_picnic.nif
+encumbrance: 25.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - AB_IngFlor_Pomegranate01
+- - 3
+  - AB_IngFlor_Pomegranate02
+- - 1
+  - AB_IngFood_Bread01a
+- - 2
+  - AB_IngFood_Bread01b
+- - 1
+  - AB_IngFood_ComJam
+- - 2
+  - AB_IngFood_Sweetroll
+- - 1
+  - AB_lvl_DrinksAllAlchoholic
+- - 2
+  - misc_com_plate_02
+- - 2
+  - misc_com_wood_cup_01
+- - 2
+  - misc_com_wood_fork
+- - 2
+  - misc_com_wood_knife
+- - 2
+  - misc_de_foldedcloth00

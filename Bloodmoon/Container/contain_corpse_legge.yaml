@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: contain_corpse_legge
+name: Settler's Corpse
+script: ''
+mesh: o\contain_corpse20.NIF
+encumbrance: 120.0
+container_flags: IS_BASE
+inventory: []

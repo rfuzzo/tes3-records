@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Nor_Ringmail_Cuirass_01
+name: Nordic Ringmail Cuirass
+script: ''
+mesh: sky\a\sky_a_ringmail01_cu_g.nif
+icon: sky\a\tx_ringm01_cuirass.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_A_NorRingmailCuirass01_C
+  female_bodypart: T_A_NorRingmailCuirass01_CF
+data:
+  armor_type: Cuirass
+  weight: 21.0
+  value: 80
+  health: 300
+  enchantment: 140
+  armor_rating: 10

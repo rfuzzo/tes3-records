@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_Narsis_Market Sewers_N1
+name: Note To Self
+script: ''
+mesh: tr\tr_note_pin.nif
+icon: default icon.dds
+enchanting: ''
+text: connection to the Council District Sewers
+data:
+  weight: 0.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 0

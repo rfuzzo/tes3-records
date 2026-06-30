@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_Hlan_Oek_Smith
+name: 'NPC Name: Smith'
+script: OutsideBanner
+mesh: f\Furn_bannerD_WA_shop_01.NIF

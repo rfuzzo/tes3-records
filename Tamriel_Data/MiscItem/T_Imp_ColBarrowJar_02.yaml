@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_ColBarrowJar_02
+name: Clay Urn
+script: ''
+mesh: pc\m\PC_Misc_Col_Barr_Jar2.nif
+icon: pc\m\PC_Misc_Col_Barr_Jar2I.dds
+data:
+  weight: 2.0
+  value: 3
+  flags: ''

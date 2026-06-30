@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: Act_Ex_DE_ship_door_baro
+name: Barred Door
+script: ColonyBaroShip
+mesh: d\Ex_DE_ship_door.nif

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_SevenPennantsTR
+name: The Seven Pennants
+script: T_ScBook_SpSummonScamp
+mesh: TR\m\TR_book_closed02_AA.NIF
+icon: TR\m\TR_book_closed02_AA.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe Seven Pennants<BR>\r\n<BR>\r\nThe Duke of Scamps was a lesser thing than what he once was, as was the will infinity, himself subtracted. His ears were stretched from east to west. His bones shriveled and his muscles wasted. He bones contorted in pain as his face was twisted in a rictus of agony. In his mind was the seven pennants of Dagon.<BR>\r\n<BR>\r\nHe saw the first pennant, which commanded a legion of grim warriors who could die at least twice, and saw it fall to an army of twice as many brave souls.<BR>\r\n<BR>\r\nHe saw the second pennant, which commanded a legion of winged bulls and the emperor of color that rode upon each, and saw it fall as the winged bulls fell under the rain of bone shafts.<BR>\r\n<BR>\r\nHe saw the third pennant, which commanded a legion of inverted gorgons, great snakes whose scales were the faces of men, and saw it fall as it saw itself.<BR>\r\n<BR>\r\nHe saw the fourth pennant, which commanded a legion of double-crossed lovers, and saw it fall as the trickery dissolved.<BR>\r\n<BR>\r\nHe saw the fifth pennant, which commanded a legion of jumping wounds looking to hop onto a victim, and saw it fall to white-clad maidens and fields of green.<BR>\r\n<BR>\r\nHe saw the sixth pennant, which commanded a legion of abridged planets, and saw it fall to the fires of the forge.<BR>\r\n<BR>\r\nHe saw the seventh pennant, which commanded a legion of armored winning moves, and saw it fall as its skills were reversed.<BR>\r\n<BR>\r\nAnd each fell to these words:<BR>\r\n<BR>\r\nGHARTOK PADHOME GHARTOK PADHOME.<BR>"
+data:
+  weight: 2.0
+  value: 300
+  book_type: Book
+  skill: None
+  enchantment: 100

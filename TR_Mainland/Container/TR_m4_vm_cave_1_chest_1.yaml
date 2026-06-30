@@ -1,0 +1,23 @@
+type: Container
+flags: ''
+id: TR_m4_vm_cave_1_chest_1
+name: Velothi Chest
+script: ''
+mesh: tr\o\tr_cont_v_chest_01.nif
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - TR_m4_Ring_Gravity
+- - 2
+  - T_IngMine_Opal_01
+- - 1
+  - T_IngMine_Sapphire_01
+- - 1
+  - T_IngMine_Topaz_01
+- - 1
+  - ingred_diamond_01
+- - 2
+  - ingred_emerald_01
+- - 3
+  - ingred_ruby_01

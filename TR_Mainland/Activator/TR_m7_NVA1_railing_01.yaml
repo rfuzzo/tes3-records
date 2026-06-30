@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_NVA1_railing_01
+name: ''
+script: TR_m7_NVA_Stage1
+mesh: x\Ex_De_Railing_01.NIF

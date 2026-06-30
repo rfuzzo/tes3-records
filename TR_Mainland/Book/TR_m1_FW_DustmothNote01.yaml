@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_FW_DustmothNote01
+name: Furious Scrawlings
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This tattered scrap of paper is covered in charcoal scrawlings cursing the name \"Thorimil\" in language too appalling to repeat.]\r\n<BR>\r\n\r\n"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: T_SkyNor_Furn_Ch1Kitchen
+name: Chest
+script: ''
+mesh: Sky\o\Sky_Cont_Chest_06_01.nif
+encumbrance: 250.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - T_Nor_WoodenCup_01
+- - 2
+  - T_Nor_WoodenKnife_01b
+- - 2
+  - T_Nor_WoodenPlate_02b
+- - 2
+  - T_Nor_WoodenSpoon_01b
+- - 5
+  - T_Sky_Random_Kitchenware

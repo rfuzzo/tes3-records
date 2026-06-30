@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_MARK_MinotaurRecall
+name: player
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: m\Tx_scroll_open_01.tga
+enchanting: ''
+text: "NPC ID: player\r\nPosition Cell in script TR_m7_HL_FG_RecallBlockerSc"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_WidowkissPowder_01
+name: Widow Kiss Powder
+script: ''
+mesh: sky\n\sky_ingred_widowk_01.nif
+icon: sky\n\tx_ingred_widowk_01.dds
+data:
+  weight: 0.01
+  value: 20
+  effects:
+  - Sanctuary
+  - DamageAttribute
+  - FortifySkill
+  - WeaknessToMagicka
+  skills:
+  - None
+  - Block
+  - Conjuration
+  - Conjuration
+  attributes:
+  - None
+  - Luck
+  - Strength
+  - Strength

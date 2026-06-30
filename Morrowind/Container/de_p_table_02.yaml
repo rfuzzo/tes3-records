@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: de_p_table_02
+name: Table
+script: ''
+mesh: o\Contain_De_Table_02.NIF
+encumbrance: 25.0
+container_flags: IS_BASE
+inventory: []

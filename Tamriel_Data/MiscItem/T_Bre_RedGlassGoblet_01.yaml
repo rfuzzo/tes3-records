@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Bre_RedGlassGoblet_01
+name: Gilded Red Glass Goblet
+script: ''
+mesh: hr\m\m_red_glass_gob.nif
+icon: hr\m\m_red_glass_gob.dds
+data:
+  weight: 2.0
+  value: 240
+  flags: ''

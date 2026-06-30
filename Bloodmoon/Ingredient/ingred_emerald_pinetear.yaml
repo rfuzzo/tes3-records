@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_emerald_pinetear
+name: Pinetear
+script: ''
+mesh: n\Ingred_emerald_01.nif
+icon: n\Tx_emerald.tga
+data:
+  weight: 0.2
+  value: 50
+  effects:
+  - FortifyMagicka
+  - RestoreHealth
+  - DrainAttribute
+  - DrainAttribute
+  skills:
+  - None
+  - None
+  - Block
+  - Block
+  attributes:
+  - None
+  - None
+  - Agility
+  - Endurance

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_AebisFeathers_01
+name: Aebis Feathers
+script: ''
+mesh: pc\n\pc_ing_aebis_feathers.nif
+icon: pc\n\pc_ing_aebis_feathers.dds
+data:
+  weight: 0.1
+  value: 20
+  effects:
+  - Sound
+  - Levitate
+  - ResistParalysis
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

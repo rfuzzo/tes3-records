@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: ring_khajiit_unique
+name: Ring of Khajiit
+script: ''
+mesh: c\C_art_Ring_khajiit.NIF
+icon: c\C_ring_khajiit.tga
+enchanting: aura of khajiit
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 18000
+  enchantment: 100

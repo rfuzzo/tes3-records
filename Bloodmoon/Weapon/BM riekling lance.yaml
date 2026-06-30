@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: BM riekling lance
+name: Riekling Lance
+script: ''
+mesh: w\IceMspear.NIF
+icon: w\IceM_Spear.dds
+enchanting: ''
+data:
+  weight: 10.0
+  value: 100
+  weapon_type: ShortBladeOneHand
+  health: 300
+  speed: 1.3
+  reach: 1.0
+  enchantment: 80
+  chop_min: 1
+  chop_max: 10
+  slash_min: 1
+  slash_max: 15
+  thrust_min: 13
+  thrust_max: 24
+  flags: ''

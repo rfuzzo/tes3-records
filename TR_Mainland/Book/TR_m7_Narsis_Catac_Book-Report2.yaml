@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_Narsis_Catac_Book-Report2
+name: 'Report: Canyon Thresher Found'
+script: ''
+mesh: m\Text_Parchment_02.NIF
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"RIGHT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n3E 427, 11th of Last Seed\r\n<BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\nAs instructed, I took a small party to investigate the reported sightings of a horned horror in the deep passages of the catacombs.<BR>\r\n<BR>\r\nI have to corroborate these rumors: a canyon thresher prowls our hallowed caves. Past the broken old bridge we saw the scattered bones of a previous feast. By the grace of ALMSIVI, we gathered the courage to stride forward and found the entrance to the thresher's lair. It had tunneled into a small chamber below the entrance to the area, disturbing the rest of the ancestors wherein placed.<BR>\r\n<BR>\r\nInside the burrow we found the body of the reckless priest that went missing last month and, soon, the thresher came to investigate the intrusion. After a long fight we managed to drive the creature deeper into its lair, but it was not without sacrifice as one of the guards fell, pierced by sharp talons.<BR>\r\n<BR>\r\nTo rid our revered catacombs from this plague, I expect we will need to muster a stronger force.<BR>\r\n<BR>\r\nHumbly,<BR>\r\nNarisa Releri<BR>"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

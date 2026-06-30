@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_AlphynClaw_01
+name: Alphyn Claw
+script: ''
+mesh: pc\n\pc_ing_alphynclaw.nif
+icon: pc\n\pc_ing_alphynclaw.dds
+data:
+  weight: 0.5
+  value: 15
+  effects:
+  - FortifyAttribute
+  - Paralyze
+  - Jump
+  - DrainAttribute
+  skills:
+  - Block
+  - None
+  - Acrobatics
+  - Block
+  attributes:
+  - Agility
+  - None
+  - Strength
+  - Intelligence

@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: barrel_02_marshmerrow
+name: Barrel
+script: ''
+mesh: o\contain_barrel10.nif
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 15
+  - ingred_marshmerrow_01

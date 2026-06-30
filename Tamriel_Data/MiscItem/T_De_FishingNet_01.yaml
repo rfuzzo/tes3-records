@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_FishingNet_01
+name: Fishing Net
+script: ''
+mesh: tr\m\tr_m_fishing_net.nif
+icon: tr\m\tr_m_fishing_net.dds
+data:
+  weight: 4.0
+  value: 12
+  flags: ''

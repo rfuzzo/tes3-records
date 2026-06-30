@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_q_WTManifest
+name: Whispered Tenet Manifest
+script: ''
+mesh: m\Text_Parchment_02.nif
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>[This is a copy of a document that lists cargo, passengers and crew of the Whispered Tenet.]<BR>\r\n"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

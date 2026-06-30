@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_ShellKollop_01Half
+name: Kollop Shell
+script: ''
+mesh: pi\m\pi_m_shellkollop00half.nif
+icon: pi\m\pi_m_shellkollop00half.dds
+data:
+  weight: 0.25
+  value: 2
+  flags: ''

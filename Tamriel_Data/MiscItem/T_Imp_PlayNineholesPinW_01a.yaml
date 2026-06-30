@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_PlayNineholesPinW_01a
+name: White Nine-holes Pin
+script: T_ScObj_NineholesPinW_01a
+mesh: pc\m\pc_misc_nineholes_w_01.nif
+icon: pc\m\pc_misc_nineholes_w_01.dds
+data:
+  weight: 0.0
+  value: 0
+  flags: ''

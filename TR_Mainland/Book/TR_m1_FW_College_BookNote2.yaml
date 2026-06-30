@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_FW_College_BookNote2
+name: Notes on "First Council Census"
+script: ''
+mesh: m\text_parchment_02.nif
+icon: m\tx_parchment_02.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>JS may want to take a personal look at this strange tome, but I'm not certain it's worth her time. At any rate, it needs to stay in Rarities - we don't need some fool amateur to find it and start drumming up controversy. My notes are below.\r\n\r\nThis text is almost assuredly wrong.\r\n\r\nThe author claims to be a \"servant of the Mage and Mystery\" - common names for the obscure Dark Elf Triune Sotha Sil. But even that claim must be wrong; this book was most likely a recent work of Dissident Priests. \r\n\r\nInstead of the usual blunt attacks against the Dark Elven Temple, this book attacks the legitimacy of the Great Houses. This is done in a brief historical narrative that is completely overshadowed by the actual content of the book.\r\n\r\nPlacing different Great Houses in King Nerevar's court is one such attack. The members of Nerevar's court are a matter of traditional record. But the deeper, more subtle attack is the connection drawn between these (assuredly fictional) Great Houses and the \"current\" Great Houses. This text must thus be understood as something more akin to a fable than to real history. It is meant to teach us something about the character of the Great Houses in a cipher only the intended audience would be familiar with, in a way eerily similar to a Locked Novel.\r\n\r\nBut this falls apart easily: Dark Elves are still Elves. Once they have established a realm, they do not change. Morrowind should be proof of that: not even conquest by Tiber Septim could change their Houses or their rulership.\r\n\r\nIn short: the history in this book is so wrong that not even the opposite is right. Instead we must take it for what it is: political propaganda.\r\n\r\n-Walks-Through-Shadow, Professor of History\r\n<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

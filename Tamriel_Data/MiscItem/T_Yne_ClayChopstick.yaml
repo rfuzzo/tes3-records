@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Yne_ClayChopstick
+name: Clay Chopstick
+script: ''
+mesh: pi\m\pi_m_yne_c_c_stick.nif
+icon: pi\m\pi_m_yne_c_c_stick.dds
+data:
+  weight: 0.25
+  value: 1
+  flags: ''

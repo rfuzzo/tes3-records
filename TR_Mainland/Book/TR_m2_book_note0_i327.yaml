@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2_book_note0_i327
+name: Note
+script: ''
+mesh: m\Text_Parchment_02.NIF
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nLive One,<BR>\r\nWhat great fun we can have! You've passed the first test but there are more to follow. Oh yes, many more.<BR>\r\n<BR>\r\nA true Telvanni must conjure with the best if he hopes to pass my newest test. If you have the skill of magic a prize is in your future. If you haven't any skill then all the knowledge of Apocrypha would avail you not!<BR>\r\n<BR>\r\nNow which creature do I wish to see? For you it should be fortunate that it does not come from Apocrypha, but rather another realm. I demand an audience with one who might enlighten me on the love life of Vivec in ages past. Well -- it could enlighten me if it would speak, but alas it rarely does.<BR>\r\n<BR>\r\n-Llevran Vaerin<BR>\r\n<BR>"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

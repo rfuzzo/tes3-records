@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: Act_BM_imp_plat_02
+name: ''
+script: fortEnableScript
+mesh: x\Ex_imp_rubble_03.NIF

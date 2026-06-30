@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_De_Bonemold_Chuzei_BracerL
+name: Chuzei Bonemold L Bracer
+script: ''
+mesh: tr\a\tr_a_bone_ch_brc_01gd.nif
+icon: tr\a\tr_a_bone_ch_bracer.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: LeftWrist
+  male_bodypart: T_A_DeBonemoldChuzeiBracer_W
+  female_bodypart: ''
+data:
+  armor_type: LeftBracer
+  weight: 4.0
+  value: 50
+  health: 75
+  enchantment: 160
+  armor_rating: 15

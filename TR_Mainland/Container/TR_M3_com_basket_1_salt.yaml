@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_M3_com_basket_1_salt
+name: Basket
+script: ''
+mesh: o\Contain_Com_Basket_01.NIF
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 4
+  - random_saltrice

@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m7_MG_Console_01
+name: Control Console
+script: TR_m7_MG_ScObj_ReactorConsole
+mesh: pc\f\pc_imp_furn_console.nif

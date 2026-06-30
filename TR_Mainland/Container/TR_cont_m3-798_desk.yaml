@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: TR_cont_m3-798_desk
+name: Desk
+script: ''
+mesh: TR\o\TR_furn_de_p_desk_01.nif
+encumbrance: 40.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - Misc_Inkwell
+- - 1
+  - Misc_Quill
+- - 1
+  - TR_sc_m3-798_records
+- - 3
+  - sc_paper plain

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Sc_ThreeSonetsTR
+name: Three Sonnets
+script: T_ScBook_SpCommandHumanoid
+mesh: m\Text_Scroll_01.nif
+icon: m\Tx_scroll_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>\r\nThree Sonnets<BR>\r\nBy Santillia Phineran<BR>\r\n<BR>\r\n1. Direction<BR>\r\n<BR>\r\nChain 'round my poor eyes, sight taken from me<BR>\r\nTongue bound as with rope, silent as the grave<BR>\r\nMy fingers broken, no gestures import<BR>\r\nI hear no words, I am deaf as a stone<BR>\r\nI long for something, for feeling again<BR>\r\nBut I lack, I want for a leash to lead<BR>\r\nTo restore eternal springtime within<BR>\r\n<BR>\r\nSomeone lift my bonds, someone help me see<BR>\r\nSomeone untie my words, I be your knave<BR>\r\nMend my bones, your service shall I report<BR>\r\nYour lips to my ears, your voice, your will done<BR>\r\nTell me what to do, tell me how to sin<BR>\r\nGive me cause, give me pride, attend your need<BR>\r\nI am nothing, you afford chance to win<BR>\r\n<BR>\r\n<BR>\r\n2. Fall<BR>\r\n<BR>\r\nTemperament conflicting inflicted you<BR>\r\nStrong willed confusion, struggle all the more<BR>\r\nSaid what fills thine mind, refuted command<BR>\r\nRefuse to bow, bring thineself low. Such pride!<BR>\r\nArt thou a master, to possess such sway?<BR>\r\nDoth we but serve, elevated thou are?<BR>\r\nManner aside, no kingship thou display!<BR>\r\n<BR>\r\nRabble, commoner, chattel be what true<BR>\r\nResist as thou want, thou art but a chore<BR>\r\nSpeak out of turn, out of place, make demand<BR>\r\nQuestioning betters, thou art one to chide!<BR>\r\nAlone mine voice tellest what course to stay!<BR>\r\nThou art a servant, not a risen star!<BR>\r\nMine words come to you, you are to obey!<BR>\r\n<BR>\r\n<BR>\r\n3. Need<BR>\r\n<BR>\r\nVacant absence permitted cannot be<BR>\r\nA lacking vitality cannot go<BR>\r\nAn unfilled void devours unwary<BR>\r\nObservant for missing piece required<BR>\r\nOur watchful eyes must drink until content<BR>\r\nA vision what awaits, again at last<BR>\r\nObject searching for finally present<BR>\r\n<BR>\r\nSee now what element we were of free<BR>\r\nOffer it something that cannot take no<BR>\r\nHave it take it's place, failure be narry<BR>\r\nGive it no choice, its will be retired<BR>\r\nDuration of job, harbor no resent<BR>\r\nRegret to force your hand, this will be fast<BR>\r\nSorry for trouble, your cut will be sent <BR>\r\n"
+data:
+  weight: 1.5
+  value: 175
+  book_type: Scroll
+  skill: None
+  enchantment: 100

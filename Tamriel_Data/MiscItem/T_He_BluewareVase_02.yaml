@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_He_BluewareVase_02
+name: Blueware Vase
+script: ''
+mesh: sum\m\sum_misc_blue_vase_02.nif
+icon: sum\m\sum_misc_blue_vase_02.dds
+data:
+  weight: 4.0
+  value: 16
+  flags: ''

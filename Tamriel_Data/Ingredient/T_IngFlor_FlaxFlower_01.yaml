@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_FlaxFlower_01
+name: Blue Flax Flowers
+script: ''
+mesh: pc\n\pc_ingred_flax_B.nif
+icon: pc\n\pc_tx_ingred_flaxbl.dds
+data:
+  weight: 0.1
+  value: 1
+  effects:
+  - FortifyFatigue
+  - FortifySkill
+  - WeaknessToFire
+  - FrostShield
+  skills:
+  - None
+  - LightArmor
+  - None
+  - None
+  attributes:
+  - None
+  - Strength
+  - None
+  - None

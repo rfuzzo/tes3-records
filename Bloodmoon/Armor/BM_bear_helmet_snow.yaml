@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: BM_bear_helmet_snow
+name: Snow Bear Helmet
+script: ''
+mesh: a\A_Bear2_Helmet.NIF
+icon: A\Tx_Bear2_Helmet.dds
+enchanting: snow shield
+biped_objects:
+- biped_object_type: Hair
+  male_bodypart: A_Bear2_Helmet
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 4.0
+  value: 3500
+  health: 100
+  enchantment: 20
+  armor_rating: 35

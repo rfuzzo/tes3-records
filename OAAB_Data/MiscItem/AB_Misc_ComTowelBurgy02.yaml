@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_ComTowelBurgy02
+name: Towel
+script: ''
+mesh: OAAB\m\comTowelBurgy02.nif
+icon: OAAB\m\comTowelBurgy02.tga
+data:
+  weight: 3.0
+  value: 8
+  flags: ''

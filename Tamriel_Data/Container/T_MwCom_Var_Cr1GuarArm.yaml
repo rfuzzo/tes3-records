@@ -1,0 +1,27 @@
+type: Container
+flags: ''
+id: T_MwCom_Var_Cr1GuarArm
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_De_Guarskin_Boots_01
+- - 1
+  - T_De_Guarskin_BracerL_01
+- - 1
+  - T_De_Guarskin_BracerR_01
+- - 1
+  - T_De_Guarskin_Cuirass_01
+- - 1
+  - T_De_Guarskin_Greaves_01
+- - 1
+  - T_De_Guarskin_Helm_01
+- - 1
+  - T_De_Guarskin_PauldronL_01
+- - 1
+  - T_De_Guarskin_PauldronR_01
+- - 1
+  - T_De_Guarskin_Shield_01

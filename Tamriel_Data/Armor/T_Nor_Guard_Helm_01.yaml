@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Nor_Guard_Helm_01
+name: Karth Steel Helmet
+script: ''
+mesh: Sky\a\Sky_A_Guardarmor_HE_G.nif
+icon: Sky\a\Tx_GdArmor_Helm.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Head
+  male_bodypart: T_A_NorGuardHelm01_Hd
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 4.5
+  value: 100
+  health: 200
+  enchantment: 250
+  armor_rating: 16

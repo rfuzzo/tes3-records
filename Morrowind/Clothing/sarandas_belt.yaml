@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: sarandas_belt
+name: Racer Suede Belt
+script: ''
+mesh: c\C_belt_Expensive_1.NIF
+icon: c\tx_belt_expensive01.tga
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Belt
+  weight: 1.0
+  value: 100
+  enchantment: 50

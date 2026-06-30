@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Kha_Copper_Axe_01
+name: Copper Axe
+script: ''
+mesh: els\w\els_w_copper_axe.nif
+icon: els\w\els_w_copper_axe.tga
+enchanting: ''
+data:
+  weight: 27.0
+  value: 450
+  weapon_type: AxeOneHand
+  health: 1500
+  speed: 1.25
+  reach: 1.0
+  enchantment: 65
+  chop_min: 1
+  chop_max: 24
+  slash_min: 1
+  slash_max: 13
+  thrust_min: 1
+  thrust_max: 3
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

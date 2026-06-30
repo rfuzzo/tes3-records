@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Nor_FurnM_Bed_13
+name: Bed
+script: Bed_Standard
+mesh: sky\f\sky_act_furn_n_m_bd13.nif

@@ -1,0 +1,4 @@
+type: Static
+flags: PERSISTENT
+id: TR_FM_Stat_BoatFM
+mesh: x\Ex_longboat02.NIF

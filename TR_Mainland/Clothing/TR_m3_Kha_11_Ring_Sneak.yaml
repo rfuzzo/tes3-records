@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m3_Kha_11_Ring_Sneak
+name: Fugitives Band
+script: ''
+mesh: c\C_Ring_expensive_1.NIF
+icon: c\tx_ring_expensive01.tga
+enchanting: TR_m3_Kha_11_Ring_Sneak_en
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 150
+  enchantment: 0

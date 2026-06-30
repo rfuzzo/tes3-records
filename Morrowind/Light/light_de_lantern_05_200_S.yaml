@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: light_de_lantern_05_200_S
+name: ''
+script: ''
+mesh: l\Light_De_Lantern_05.NIF
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 10
+  time: -1
+  radius: 200
+  color:
+  - 245
+  - 140
+  - 40
+  - 0
+  flags: DYNAMIC | FIRE

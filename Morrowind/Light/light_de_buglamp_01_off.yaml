@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: light_de_buglamp_01_off
+name: Bug Lamp
+script: ''
+mesh: l\Light_buglamp_01.NIF
+icon: l\Tx_buglamp_01.tga
+sound: ''
+data:
+  weight: 3.0
+  value: 12
+  time: 120
+  radius: 128
+  color:
+  - 245
+  - 140
+  - 40
+  - 0
+  flags: DYNAMIC | CAN_CARRY | FIRE | OFF_BY_DEFAULT | FLICKER_SLOW

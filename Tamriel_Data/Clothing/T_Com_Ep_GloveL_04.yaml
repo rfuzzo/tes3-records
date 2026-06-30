@@ -1,0 +1,20 @@
+type: Clothing
+flags: ''
+id: T_Com_Ep_GloveL_04
+name: Expensive Left Glove
+script: ''
+mesh: TR\c\TR_c_exp_glove_04_GND.nif
+icon: TR\c\tr_c_exp_glove_04.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: LeftHand
+  male_bodypart: T_C_ComEpGlove04_Ha
+  female_bodypart: ''
+- biped_object_type: LeftWrist
+  male_bodypart: ''
+  female_bodypart: ''
+data:
+  clothing_type: LeftGlove
+  weight: 1.0
+  value: 10
+  enchantment: 50

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_Hlaalu2_Cookbook
+name: Hlaalu Fine Recipes
+script: ''
+mesh: m\Text_Octavo_03.NIF
+icon: m\Tx_octavo_03.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nHlaalu Fine Recipes<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nGrilled Alit Meat on Saltrice<BR>\r\n<BR>\r\n6 handfuls of saltrice<BR>\r\n6 pinches of salt<BR>\r\n4 pinches of Rihad pepper<BR>\r\n2 cloves of garlic from Cyrodiil<BR>\r\ntwo medium slabs of alit meat (two portions)<BR>\r\n1 handful of fresh comberries<BR>\r\n<BR>\r\nSeason alit meat generously with salt, pepper, and chopped garlic. Grill on a hot flame for 5 to 6 minutes each side. Serve on a bed of saltrice mixed with comberries.<BR>\r\n<BR>\r\nBread with Fig Jam<BR>\r\n<BR>\r\n1 loaf of bread<BR>\r\n2 pounds of fresh figs cut into small pieces<BR>\r\n1 handful of ground marshmerrow<BR>\r\n3 pinches of ground drumpear seeds<BR>\r\n1/2 cup of water<BR>\r\n<BR>\r\nIn a large pan, toss the fig pieces with the ground marshmerrow and drumpear until the marshmerrow and drumpear is mostly dissolved and the figs are juicy. Add the water and bring to a boil, stirring until the dry ingredients are completely dissolved. Simmer the fig jam over an open flame, stirring occasionally, until the fruit is soft and the liquid runs off the side of a spoon in thick, heavy drops, about 20 minutes. Remove from heat and let cool. When cool, spread over toasted slices of bread and serve.<BR>\r\n<BR>\r\n\r\n"
+data:
+  weight: 3.0
+  value: 30
+  book_type: Book
+  skill: None
+  enchantment: 0

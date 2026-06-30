@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: rock_ebony_01
+name: Raw Ebony
+script: ''
+mesh: o\Contain_rock_ebony_01.nif
+encumbrance: 0.0
+container_flags: ORGANIC | IS_BASE
+inventory:
+- - 8
+  - random_ebony

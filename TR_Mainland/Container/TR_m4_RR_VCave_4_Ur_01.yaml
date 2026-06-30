@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m4_RR_VCave_4_Ur_01
+name: Urn
+script: ''
+mesh: o\Contain_urn_04.NIF
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - 10
+  - food_kwama_egg_01

@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m1_Q50_GO3_RingforVSadas
+name: Ring of Averting Gaze
+script: ''
+mesh: c\C_Ring_extravagant_1.NIF
+icon: c\tx_ring_extravagant01.tga
+enchanting: TR_m1_Q50_GO3_RingtoHideID
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 1790
+  enchantment: 600

@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: T_Dwe_DngRuin_Transistor01
+name: Mysterious Dwemer Device
+script: T_ScObj_DwrvMachToggl
+mesh: tr\f\tr_furn_dwrv_trans01.nif

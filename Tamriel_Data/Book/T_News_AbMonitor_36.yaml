@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_AbMonitor_36
+name: INFAMOUS GOBLIN CHIEFTAIN SLAIN
+script: T_ScNews_Bellman_Paper
+mesh: pc\m\pc_text_note_anv_news.nif
+icon: pc\m\pc_text_note_anv_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"PC\\pc_abmonitor.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nINFAMOUS GOBLIN CHIEFTAIN SLAIN BY THE FIGHTERS GUILD<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nGuildmaster Palagrius Vinicius and %PCName of the Anvil Fighters Guild have received an official commendation from the Queen of Anvil for a recent operation to destroy Warchief Hurutka, a much-feared goblin chieftain whose \"Broken Fang\" tribe has long harassed the Anvil/Kvatch borderlands. The goblin chieftain was found in the depths of Gula Cave, a deep cavern in the northeastern Strident Coast, where it was defended by dozens of its savage kin.<BR><BR>\r\nTraders on the Gold Road can breathe easier knowing that this vicious creature has now met its end. The Monitor joins the Queen in thanking the Fighters Guild for their efforts to protect the public and stamp out threats like Warchief Hurutka in the wilderness.<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

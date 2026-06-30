@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Bre_SilverPlate_02
+name: Silver Plate
+script: ''
+mesh: hr\m\hr_m_silv_plate02.nif
+icon: hr\m\hr_m_silv_plate02.dds
+data:
+  weight: 3.0
+  value: 17
+  flags: ''

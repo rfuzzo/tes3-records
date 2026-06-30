@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Bellman_26
+name: TWO ARCH-MAGES ON VVARDENFELL?
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_note_oe_news.nif
+icon: tr\m\tr_note_oe_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\TR_bellman_512_256.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nTWO ARCH-MAGES ON VVARDENFELL?<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nIn a puzzling development, the Mages Guild in Vvardenfell reports the appointment of a second Arch-Mage, the %PCRace %PCName, to take over the day-to-day running of the guild. Normally, the Mages Guild in an Imperial district is headed by a single Arch-Mage, the penultimate rank in the guild hierarchy, who serves the post either until retirement or re-appointment. Yet, by an order strongly hinted to come from the Elder Council itself, Arch-Mage Trebonius Artorius is now relegated to a largely ceremonial role. The Vvardenfell guild under Trebonius' leadership was pursued by rumors of infiltration by Telvanni wizards, a development that the former guildmaster seemed unable to arrest. It remains to be seen whether the guild's new de facto leader can push back against the Telvanni threat in the inhospitable, but potentially lucrative Vvardenfell district.<br><br>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

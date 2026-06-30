@@ -1,0 +1,17 @@
+type: Clothing
+flags: ''
+id: TR_m7_q_Strabo_Glove
+name: Underhanded Left Glove
+script: ''
+mesh: c\C_glove_common1_GND.NIF
+icon: c\tx_glove_common1.tga
+enchanting: TR_m7_q_Strabo_Glove_en
+biped_objects:
+- biped_object_type: LeftHand
+  male_bodypart: c_glove_common1
+  female_bodypart: ''
+data:
+  clothing_type: LeftGlove
+  weight: 1.0
+  value: 200
+  enchantment: 10

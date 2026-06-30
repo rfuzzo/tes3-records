@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: AB_o_Corpse10Flies
+name: Corpse
+script: Sound_Flies
+mesh: o\contain_corpse10.NIF
+encumbrance: 120.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - ingred_bonemeal_01

@@ -1,0 +1,23 @@
+type: Weapon
+flags: PERSISTENT | BLOCKED
+id: fork_horripilation_unique
+name: Fork of Horripilation
+script: da_forkScript
+mesh: w\W_De_Fork.NIF
+icon: w\W_De_Fork.tga
+enchanting: horripilation_en
+data:
+  weight: 1.0
+  value: 1
+  weapon_type: ShortBladeOneHand
+  health: 400
+  speed: 2.5
+  reach: 1.0
+  enchantment: 100
+  chop_min: 1
+  chop_max: 2
+  slash_min: 1
+  slash_max: 2
+  thrust_min: 2
+  thrust_max: 3
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

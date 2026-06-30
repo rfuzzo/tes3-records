@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: amulet of silence
+name: Amulet of Silence
+script: ''
+mesh: c\Amulet_Extravagant_1.NIF
+icon: c\tx_amulet_extrav1.tga
+enchanting: silence_enu
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 75
+  enchantment: 600

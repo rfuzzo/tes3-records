@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_De_Wooden_StaffOfShaming_01
+name: Wooden Staff of Shaming
+script: ''
+mesh: tr\w\tr_w_wood_staff_01.nif
+icon: tr\w\tr_w_wood_staff_01.dds
+enchanting: T_Strike_WoodStaffOfShaming
+data:
+  weight: 8.0
+  value: 8
+  weapon_type: BluntTwoWide
+  health: 300
+  speed: 1.75
+  reach: 1.8
+  enchantment: 70
+  chop_min: 2
+  chop_max: 6
+  slash_min: 3
+  slash_max: 6
+  thrust_min: 1
+  thrust_max: 5
+  flags: ''

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: AB_Info_DwrvScaffold
+name: InfoBox - Dwemer Scaffold Set
+script: ''
+mesh: OAAB\h\marker_info.nif
+icon: OAAB\h\marker_info.tga
+enchanting: ''
+text: The scaffold set works best when grid snap is set to multiples of 24
+data:
+  weight: 0.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 100

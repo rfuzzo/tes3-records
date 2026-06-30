@@ -1,0 +1,49 @@
+type: Container
+flags: ''
+id: test_crate_all_wpn_bm
+name: Chest of Bloodmoon Weapons
+script: ''
+mesh: o\Contain_chest_large_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 50
+  - BM Huntsmanbolt
+- - 1
+  - BM huntsman crossbow
+- - 1
+  - BM nordic silver battleaxe
+- - 1
+  - BM ice war axe
+- - 1
+  - BM huntsman axe
+- - 1
+  - BM huntsman war axe
+- - 1
+  - BM Nordic Pick
+- - 1
+  - BM nordic silver axe
+- - 1
+  - BM Huntsman Spear
+- - 1
+  - BM ice mace
+- - 1
+  - BM nordic silver mace
+- - 1
+  - BM nordic silver claymore
+- - 1
+  - BM huntsman longsword
+- - 1
+  - BM ice longsword
+- - 1
+  - BM nordic silver longsword
+- - 1
+  - BM riekling sword
+- - 1
+  - BM_ice_minion_lance
+- - 1
+  - BM ice dagger
+- - 1
+  - BM nordic silver dagger
+- - 1
+  - BM nordic silver shortsword

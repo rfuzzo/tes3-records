@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: bk_Dren_Hlevala_note
+name: Note to Hlevala
+script: ''
+mesh: m\Text_Parchment_02.nif
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nForeman Hlevala,<BR>\r\n<BR>\r\nCurrent activities within the plantation have been highly noted with outstanding performance. The 'nemer' seem to have a fine grasp on our routines since you have given them their \"disciplinary schooling\". I commend you on your fine efforts and success. You shall be rewarded greatly.<BR>\r\n<BR>\r\nIf you will, make sure the following 'nemer' are all accounted for. I will have to have them marked as plantation property for my personal records. <BR>\r\n<BR>\r\nNeetinei<BR>\r\nArabhi<BR>\r\nGah-Julan<BR>\r\nAhzini<BR>\r\nTulz<BR>\r\n<BR>\r\nBest Regards,<BR>\r\nOrvas Dren<BR>\r\n<BR>\r\n"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

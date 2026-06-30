@@ -1,0 +1,23 @@
+type: Container
+flags: ''
+id: de_r_chest_01_maulinie
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - -2
+  - l_m_enchantitem_hlaalu_rank0
+- - -2
+  - l_m_enchantitem_imperial_rank0
+- - -2
+  - l_m_enchantitem_redoran_rank2
+- - -2
+  - l_m_enchantitem_telvanni_rank01
+- - -2
+  - l_m_enchantitem_temple_rank0_1
+- - -1
+  - l_m_enchantitem_hlaalu_rank4
+- - -1
+  - l_m_enchantitem_redoran_rank6

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_BluewarePlate_01
+name: Plate
+script: ''
+mesh: tr\m\tr_misc_blue_plate.nif
+icon: tr\m\tr_misc_blue_plate.dds
+data:
+  weight: 2.0
+  value: 5
+  flags: ''

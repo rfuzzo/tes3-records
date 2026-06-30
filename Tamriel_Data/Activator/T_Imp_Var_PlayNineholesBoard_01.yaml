@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_Var_PlayNineholesBoard_01
+name: Nine-holes Board
+script: T_ScObj_NineholesBoard
+mesh: pc\m\pc_misc_nineholes_01.nif

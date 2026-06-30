@@ -1,0 +1,22 @@
+type: Armor
+flags: ''
+id: BM_bear_right_pauldron_snow
+name: Snow Bear Right Pauldron
+script: ''
+mesh: a\A_Bear2_Pauldron_GND.NIF
+icon: A\Tx_Bear2_Pauldron.dds
+enchanting: snow shield
+biped_objects:
+- biped_object_type: RightUpperArm
+  male_bodypart: A_Bear2_Pauldron_UA
+  female_bodypart: ''
+- biped_object_type: RightForearm
+  male_bodypart: A_Bear2_Pauldron_FA
+  female_bodypart: ''
+data:
+  armor_type: RightPauldron
+  weight: 7.0
+  value: 2000
+  health: 100
+  enchantment: 16
+  armor_rating: 35

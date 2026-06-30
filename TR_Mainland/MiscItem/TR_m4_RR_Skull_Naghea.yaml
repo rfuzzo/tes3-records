@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m4_RR_Skull_Naghea
+name: Skull of Queen Naghea
+script: ''
+mesh: TR\m\TR_misc_skull_khj_02.NIF
+icon: TR\m\TR_misc_skull_khj.dds
+data:
+  weight: 0.5
+  value: 7000
+  flags: ''

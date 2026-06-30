@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_OE_sign_c_goods_03
+name: Neel Gymont's Fine Art
+script: SignRotate
+mesh: TR\f\tr_act_sign_art_01.nif

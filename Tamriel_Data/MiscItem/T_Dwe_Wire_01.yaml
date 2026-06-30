@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Dwe_Wire_01
+name: Dwemer Wire
+script: ''
+mesh: tr\m\tr_misc_dwe_wire.nif
+icon: tr\m\tr_misc_dwe_wire.tga
+data:
+  weight: 0.5
+  value: 15
+  flags: ''

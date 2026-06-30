@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: TR_AimrahIC6_FurnPDesk
+name: Desk
+script: ''
+mesh: tr\o\tr_furn_de_p_desk_01.nif
+encumbrance: 40.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - Misc_Inkwell
+- - 1
+  - Misc_Quill
+- - 1
+  - T_Mw_Random_BooksIndoril
+- - 1
+  - l_b_rings
+- - 3
+  - sc_paper plain

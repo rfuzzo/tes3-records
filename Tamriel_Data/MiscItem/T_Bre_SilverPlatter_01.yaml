@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Bre_SilverPlatter_01
+name: Silver Platter
+script: ''
+mesh: hr\m\hr_m_silv_platt01.nif
+icon: hr\m\hr_m_silv_platt01.dds
+data:
+  weight: 6.0
+  value: 25
+  flags: ''

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_InkVial_01
+name: Vial of Ink
+script: ''
+mesh: tr\m\tr_misc_ink_vial01.nif
+icon: tr\m\tr_misc_ink_vial01.dds
+data:
+  weight: 0.3
+  value: 1
+  flags: ''

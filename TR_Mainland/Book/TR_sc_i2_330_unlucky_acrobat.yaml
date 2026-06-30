@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_sc_i2_330_unlucky_acrobat
+name: My Last Will
+script: ''
+mesh: m\Text_Scroll_01.nif
+icon: m\Tx_scroll_01.tga
+enchanting: ''
+text: " <DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<BR>\r\nDear reader,<BR>\r\n<BR>\r\nWhen you read this I will be dead. I am an acrobat, and one of the best! I traveled throughout the countryside searching for places to practice my stunts. If you found this note, one of them obviously has gone wrong. This is my last will: travel the lands as I do, my friend, and honor your acrobatics the same way I honored them. Let the world know that it has lost one of its greatest acrobats, Fillimir the Lightfooted.<BR>\r\n<BR>\r\nGood Luck!<BR>\r\n<BR>"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

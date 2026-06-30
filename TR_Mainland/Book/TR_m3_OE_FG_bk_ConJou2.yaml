@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_OE_FG_bk_ConJou2
+name: Torn Journal Page
+script: TR_m3_OE_FG_q_ConstJo2Scr
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "Tirdas<br>\r\n<br>\r\nAnother day of valorous combat slaying daedra. The pilgrim has proved themselves to be quite capable in combat. I was hesitant at first, what with their disability, but they seem to have learned a lot from years of training to be a battlemage. So they say.<br>\r\n<br>\r\nThey also say that Lenwyn is secretly jealous of me and the name I've made for myself. I've certainly noticed Lenwyn becoming more aggressive recently, but jealousy? I thought we were above petty squabbles like that. I feel like pounding his head against some rocks until he comes to his senses. We approach Necrom soon, just after a brief excursion into this dwemer ruin to its northwest.\r\n<br>\r\n-C<br>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 10

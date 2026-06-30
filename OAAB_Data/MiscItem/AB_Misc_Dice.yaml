@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_Dice
+name: Dice
+script: ''
+mesh: OAAB\m\dice.nif
+icon: OAAB\m\misc_dice.dds
+data:
+  weight: 0.5
+  value: 5
+  flags: ''

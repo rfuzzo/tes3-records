@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Rea_Wormmouth_BracerL_01
+name: Wormmouth Left Bracer
+script: ''
+mesh: Sky\a\Sky_A_Wormmouth_BR_G.nif
+icon: Sky\a\Tx_Wmouth_Bracer.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: LeftWrist
+  male_bodypart: T_A_ReaWormmouthBracer01_W
+  female_bodypart: ''
+data:
+  armor_type: LeftBracer
+  weight: 3.5
+  value: 25
+  health: 120
+  enchantment: 80
+  armor_rating: 12

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m7_q_Ns_IC8_strangeRock
+name: Strange Rock
+script: TR_m7_Ns_IC8_rock_sc
+mesh: pi\n\pi_ing_bitter_01.nif
+icon: pi\n\pi_ing_bitter.dds
+data:
+  weight: 9.0
+  value: 1
+  flags: ''

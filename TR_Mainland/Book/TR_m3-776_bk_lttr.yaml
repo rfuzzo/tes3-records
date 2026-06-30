@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3-776_bk_lttr
+name: Unfinished Letter
+script: ''
+mesh: m\Text_Parchment_02.nif
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<BR>\r\nBeloved daughter,\r\n<BR>\r\nWithin the walls of the city, it's deceivingly like home. Patrolling the streets, I sometimes imagine myself magically transported back, but the illusion fades quickly with every meal. The food is a constant reminder of just how far away from home I am. I have been told it's an acquired taste, but I still bless the flow of commerce that keeps us with a small but steady supply of familiar foodstuffs. \r\n<BR>\r\nI have yet seen little of the landscape, except for what can be glanced from the city walls. At a distance, across the Inner Sea, one can see the wondrous cantons of the city of Vivec, and beyond that is the great volcano of Vvardenfell. On the far side, to the northeast, they say the land belongs to reclusive sorcerer-lords, hundreds of years old, ruling from great mushroom-towers. It's a good thing I won't go any further than this city, where the food is about the oddest thing you'll come across.\r\n<BR>\r\nI have acquired a dagger of native make, which I have enclosed. It's a curious thing, made from layers of resin and insect shells, but viciously sharp.\r\n<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

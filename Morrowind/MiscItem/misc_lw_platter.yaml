@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: misc_lw_platter
+name: Limeware Platter
+script: ''
+mesh: m\Misc_LW_Platter.NIF
+icon: m\Misc_LW_Platter.tga
+data:
+  weight: 5.0
+  value: 650
+  flags: ''

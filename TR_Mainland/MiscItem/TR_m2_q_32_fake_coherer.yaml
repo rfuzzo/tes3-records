@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m2_q_32_fake_coherer
+name: '"Royal" Dwemer Coherer'
+script: ''
+mesh: m\misc_dwrv_artifact50.nif
+icon: m\misc_dwrv_artifact50.tga
+data:
+  weight: 25.0
+  value: 90
+  flags: ''

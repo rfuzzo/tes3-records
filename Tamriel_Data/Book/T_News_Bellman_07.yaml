@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Bellman_07
+name: EBONY EXPORTS STRENGTHEN TROOPS
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_note_oe_news.nif
+icon: tr\m\tr_note_oe_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\TR_bellman_512_256.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nEBONY EXPORTS STRENGTHEN TROOPS<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nThe Caldera Mining Company continues to export vast quantities of ebony to the Imperial Province. Now, the great benefits of our access to this precious material are becoming evident to all, as a splendid set of armor made of Caldera ebony was delivered to our city all the way from the Legion's master armorers in the Imperial Heartland. Made specifically for Lord General Caecalia Victrix, the deep-black armor is studded with ruby and inlaid with golden dragons. Such richly decorated armor is rightfully reserved for the higher ranks of our Legions. Our brave soldiers need not fret, however, as the staff of the Grand Marshal is considering enhancing our troops' uniforms with specific ebony reinforcements. Caldera ebony is set to save the lives of many!<br><br>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nBELLMAN INVESTMENT TIPS<BR>\r\nBY MASTER TRADER JOLUS HERDANE<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nHoom milk! It's the hottest new investment opportunity, straight from the frigid Velothis! Now, boo-booers out there might be thinking that my latest tip, dreugh whistles, received a minor safety warning from the Imperial Commission, while the one before that, the Imperial Velk Nectar Company, ran into slight legal issues with the Dark Elves. But hoom milk is one rock solid opportunity! In fact, I've got a shipload of the stuff on a multi-month journey to Elsweyr already - the cat-folk will lap it up in no time! You'd be dumb not to invest!<br><br>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

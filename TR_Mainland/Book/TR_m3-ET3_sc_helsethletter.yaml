@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3-ET3_sc_helsethletter
+name: A Letter to King Hlaalu Helseth
+script: ''
+mesh: m\Text_Scroll_02.nif
+icon: m\Tx_scroll_03.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nYour majesty,<BR>\r\n<BR>\r\n<BR>\r\nI have been given word that my wingman, Stelian Anonius, was ambushed and assassinated by Dres thugs on his passage to Silnim. As my operatives continue to vanish from their assigned positions, I increasingly become left without the proper services to carry out my commission as Duke of Deshaan.<BR> \r\n<BR>\r\nYour gracious support and generosity in the past has allowed for my administration to maintain our critical Deshaan offices. With my newfound shortage of employees, I must request for more aid.<BR>\r\n<BR>\r\n<BR>\r\nWith best regards and well wishes,<BR>\r\nDuke Phyrios Mattimus<BR>"
+data:
+  weight: 1.5
+  value: 90
+  book_type: Scroll
+  skill: None
+  enchantment: 100

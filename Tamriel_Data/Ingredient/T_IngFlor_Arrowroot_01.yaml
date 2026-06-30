@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_Arrowroot_01
+name: Arrowroot
+script: ''
+mesh: pc\n\PC_Ingred_ArrowR.nif
+icon: pc\n\pc_tx_ingred_arrowr.dds
+data:
+  weight: 0.1
+  value: 2
+  effects:
+  - RestoreAttribute
+  - DamageAttribute
+  - FortifyAttribute
+  - Burden
+  skills:
+  - Block
+  - Block
+  - Block
+  - None
+  attributes:
+  - Agility
+  - Luck
+  - Strength
+  - None

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_RuhnAniaAlmsiviTR
+name: Ruhn Ania Almsivi
+script: T_ScBook_SpAlmsiviIntervention
+mesh: TR\m\TR_book_closed04_AA.NIF
+icon: TR\m\TR_book_closed04_AA.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nRuhn Ania ALMSIVI<BR>\r\n<BR>\r\nThe homes that sprawl and crouch<BR>\r\nSing<BR>\r\nThe homes that burrow and delve<BR>\r\nSing<BR>\r\nThe homes that soar and sway<BR>\r\nSing<BR>\r\nThe homes that stand and pose<BR>\r\nSing<BR>\r\nThe homes that swim and wade<BR>\r\nSing<BR>\r\nAnd you shall come home<BR>\r\nTo ALMSIVI <BR>"
+data:
+  weight: 2.0
+  value: 350
+  book_type: Book
+  skill: None
+  enchantment: 100

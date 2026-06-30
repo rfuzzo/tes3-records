@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m4_menaan_act_cratelid
+name: ''
+script: ''
+mesh: f\Furn_crate_lid_01.nif

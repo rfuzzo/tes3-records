@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m4_TJ_Dae_GS_Cursed
+name: Cursed Daedric Greatsword
+script: ''
+mesh: tr\w\tr_w_daedra_claymore_g.nif
+icon: tr\w\tr_w_daedra_claymore_g.dds
+enchanting: TR_m4_TJ_Guardian_Curse
+data:
+  weight: 85.0
+  value: 10000
+  weapon_type: LongBladeTwoClose
+  health: 5700
+  speed: 1.1
+  reach: 1.0
+  enchantment: 200
+  chop_min: 1
+  chop_max: 62
+  slash_min: 1
+  slash_max: 54
+  thrust_min: 1
+  thrust_max: 26
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

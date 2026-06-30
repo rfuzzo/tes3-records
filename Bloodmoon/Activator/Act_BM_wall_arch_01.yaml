@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: Act_BM_wall_arch_01
+name: ''
+script: fortDisableScript
+mesh: x\Ex_imp_wall_arch_01.nif

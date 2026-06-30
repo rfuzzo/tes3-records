@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Com_Cm_HatClothCoif_02
+name: Common Cloth Coif
+script: ''
+mesh: pc\a\pc_a_simple_coif_02_g.nif
+icon: pc\a\pc_a_cloth_coif_02.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Hair
+  male_bodypart: T_C_ComCmCoif02_Hr
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 1.0
+  value: 4
+  health: 50
+  enchantment: 20
+  armor_rating: 5

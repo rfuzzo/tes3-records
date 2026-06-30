@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: solvistapp
+name: Solvistapp
+script: ''
+mesh: w\W_Nordic_Broadsword.nif
+icon: w\Tx_Broadsword_Nordic.tga
+enchanting: frost_shield_en
+data:
+  weight: 15.0
+  value: 225
+  weapon_type: LongBladeOneHand
+  health: 800
+  speed: 1.25
+  reach: 1.0
+  enchantment: 60
+  chop_min: 1
+  chop_max: 20
+  slash_min: 1
+  slash_max: 20
+  thrust_min: 1
+  thrust_max: 20
+  flags: ''

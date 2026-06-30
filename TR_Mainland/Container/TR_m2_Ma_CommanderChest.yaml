@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: TR_m2_Ma_CommanderChest
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - l_m_potion
+- - 35
+  - random gold
+- - 4
+  - random_expensive_de_fclothes_02

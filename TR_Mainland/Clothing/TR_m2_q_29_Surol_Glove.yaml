@@ -1,0 +1,20 @@
+type: Clothing
+flags: ''
+id: TR_m2_q_29_Surol_Glove
+name: Daedric Hand of Ambidexterity
+script: ''
+mesh: tr\a\tr_a_dae_hide_glv_gnd.nif
+icon: tr\a\tr_a_daehide_glove_l.dds
+enchanting: TR_m2_q_29_surolhand_EN
+biped_objects:
+- biped_object_type: LeftHand
+  male_bodypart: T_C_DeDaedricHideGlove01_Ha
+  female_bodypart: ''
+- biped_object_type: LeftWrist
+  male_bodypart: T_C_DeDaedricHideBracer01_W
+  female_bodypart: ''
+data:
+  clothing_type: LeftGlove
+  weight: 1.0
+  value: 3000
+  enchantment: 40

@@ -1,0 +1,35 @@
+type: Clothing
+flags: ''
+id: T_Imp_Et_PantsColWest_03
+name: Extravagant Pants
+script: ''
+mesh: pc\c\PC_Col_U_Pants_W1_03G.nif
+icon: pc\c\pc_col_u_pants_w1_03i.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Groin
+  male_bodypart: T_C_ImpEtPantsColWest03_G
+  female_bodypart: ''
+- biped_object_type: RightAnkle
+  male_bodypart: T_C_ImpEtPantsColWest03_A
+  female_bodypart: ''
+- biped_object_type: LeftUpperLeg
+  male_bodypart: T_C_ImpEtPantsColWest03_UL
+  female_bodypart: ''
+- biped_object_type: RightUpperLeg
+  male_bodypart: T_C_ImpEtPantsColWest03_UL
+  female_bodypart: ''
+- biped_object_type: LeftKnee
+  male_bodypart: T_C_ImpEtPantsColWest03_K
+  female_bodypart: ''
+- biped_object_type: RightKnee
+  male_bodypart: T_C_ImpEtPantsColWest03_K
+  female_bodypart: ''
+- biped_object_type: LeftAnkle
+  male_bodypart: T_C_ImpEtPantsColWest03_A
+  female_bodypart: ''
+data:
+  clothing_type: Pants
+  weight: 3.0
+  value: 60
+  enchantment: 300

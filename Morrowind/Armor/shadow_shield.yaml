@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: shadow_shield
+name: Shadow Shield
+script: ''
+mesh: a\Shield_Dwemer.nif
+icon: a\Tx_Dwemer_shield.tga
+enchanting: shadow_shield_en
+biped_objects:
+- biped_object_type: Shield
+  male_bodypart: shield_dwemer
+  female_bodypart: ''
+data:
+  armor_type: Shield
+  weight: 15.0
+  value: 2400
+  health: 2000
+  enchantment: 500
+  armor_rating: 20

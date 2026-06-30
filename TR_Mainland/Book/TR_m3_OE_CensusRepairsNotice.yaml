@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_OE_CensusRepairsNotice
+name: Census Repairs Notice
+script: ''
+mesh: m\Text_Parchment_02.NIF
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR> NOTICE OF REPAIRS AND CHANGE OF LOCATION <BR>\r\nThe Imperial Census building is currently undergoing important structural repairs as well as an extensive aesthetic renovation. The work is scheduled to be finished in the coming years.<br> <br>\r\nFor the duration of the repairs the Grand Inspector's office is located in Dibella's Tower.\r\n<BR> <br>"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

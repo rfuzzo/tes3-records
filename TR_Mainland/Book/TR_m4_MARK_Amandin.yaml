@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_MARK_Amandin
+name: Amandin Platier
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: ''
+enchanting: ''
+text: Marker for moving tr_m4_q_amandin_platier
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

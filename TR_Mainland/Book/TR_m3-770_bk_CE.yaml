@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3-770_bk_CE
+name: Old Ebonheart Census Records
+script: ''
+mesh: TR\m\TR_book_closed06_AA.NIF
+icon: TR\m\TR_book_closed06_AA.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This book contains a long list of merchants and citizens who have visited or currently reside in Old Ebonheart. The records appear to go on for several decades.]<BR>\r\n<BR>\r\n\r\n"
+data:
+  weight: 2.0
+  value: 20
+  book_type: Book
+  skill: None
+  enchantment: 100

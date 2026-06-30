@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_HrBre_FurnP_Dw3Empty
+name: Drawers
+script: ''
+mesh: hr\o\hr_furn_bre_p_drwr3.nif
+encumbrance: 110.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Glb_Empty

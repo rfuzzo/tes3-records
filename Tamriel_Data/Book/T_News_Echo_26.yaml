@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Echo_26
+name: EEC INVESTS IN CANYON OUTPOST
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_text_note_nar_news.nif
+icon: tr\m\tr_text_note_nar_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\tr_echo_512_256.dds\" WIDTH=\"348\" HEIGHT=\"168\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nEEC INVESTS IN CANYON OUTPOST<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nA western company notorious for its trade monopoly in Morrowind (for better or for worse), the East Empire Company has announced a new investment venture: a caravanserai trading post for merchants travelling along the Purple Road between Narsis and Nibenay.<BR><BR>\r\nContracted exclusively with the Fighters Guild for protection, the \"St. Ino's Caravanserai\" is based out of a former small ranch belonging to a proud Dunmeri family -- what does this mean for the future of independent Dunmer trade with foreign merchants, when the Empire controls trade on both sides of the border? The EEC's refusal to contract a local Dunmer Tong or the proud Shinathi people of Shipal Shin, as well as the erasure of traditional familial agriculture can only mean one thing: the Empire's ruthless expansion both territoriality and monetarily will not stop, and it falls to hard working, dignified citizens of Morrowind to resolve this injustice.<BR><BR>\r\nWhile this may aid Narsis' economy in the short term -- EEC stocks rising at the Mesa Exchange as outlander excitement gets ahead of itself -- it is sure to poison the future prospects of the city and House Hlaalu should nothing be done to prevent these overzealous, expansionist western corporations.<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

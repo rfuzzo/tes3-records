@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: misc_6th_ash_hrcs
+name: Suspicious Ash Statue
+script: ashStatueTopic
+mesh: m\Misc_6th_Ash_Statue_01.NIF
+icon: m\Misc_6th_Ash_Statue_01.tga
+data:
+  weight: 4.0
+  value: 10
+  flags: ''

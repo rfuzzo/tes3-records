@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: steel firesword
+name: Steel Firesword
+script: ''
+mesh: w\W_Broadsword_leafblade.nif
+icon: w\Tx_Broadsword_leafbladed.tga
+enchanting: cruel flame_en
+data:
+  weight: 20.0
+  value: 105
+  weapon_type: LongBladeOneHand
+  health: 900
+  speed: 1.35
+  reach: 1.0
+  enchantment: 60
+  chop_min: 2
+  chop_max: 14
+  slash_min: 1
+  slash_max: 20
+  thrust_min: 4
+  thrust_max: 18
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

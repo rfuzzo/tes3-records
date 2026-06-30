@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: TR_m7_Hlaalu2_Drawers
+name: Drawers
+script: ''
+mesh: o\Contain_De_Drawers_01.NIF
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory:
+- - 1040
+  - Gold_001
+- - 4
+  - T_Sc_Blank
+- - 9
+  - sc_paper plain
+- - 11
+  - text_paper_roll_01

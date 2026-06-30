@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_Painting_UNI_Shoal
+name: The Shoals of Septimia
+script: ''
+mesh: tr\m\TR_M_Painting_Shoal.nif
+icon: tr\m\TR_M_Painting_Shoal.dds
+data:
+  weight: 9.0
+  value: 1200
+  flags: ''

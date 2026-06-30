@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_MwNed_Furn_Ch2Ameth
+name: Nedic Chest
+script: ''
+mesh: tr\o\tr_nedic_chest_02.nif
+encumbrance: 25.0
+container_flags: IS_BASE
+inventory:
+- - 3
+  - T_Mw_Random_OreAmethyst

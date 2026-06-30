@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_corkbulb_root_01
+name: Corkbulb Root
+script: ''
+mesh: n\Ingred_Corkbulb_Root_01.nif
+icon: n\Tx_corkbulb_root_01.tga
+data:
+  weight: 0.1
+  value: 5
+  effects:
+  - CureParalyzation
+  - RestoreHealth
+  - LightningShield
+  - FortifyAttribute
+  skills:
+  - Block
+  - Block
+  - Block
+  - Block
+  attributes:
+  - Strength
+  - Strength
+  - Strength
+  - Luck

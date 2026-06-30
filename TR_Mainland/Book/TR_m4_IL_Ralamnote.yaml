@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: TR_m4_IL_Ralamnote
+name: Worn Note
+script: TR_m4_IL_ralamnote_scr
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<BR>\r\nRalam,\r\n<BR>\r\nThat n'wah from the Census is causing our operation far too much trouble. Go to Teyn and end the life of the taxman Pilius Veran. See me at our usual hideout for your payment.\r\n<BR>\r\nO.\r\n<BR>\r\n<BR>\r\n\r\n"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

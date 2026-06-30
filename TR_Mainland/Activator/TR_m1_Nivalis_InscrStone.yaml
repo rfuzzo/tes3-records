@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m1_Nivalis_InscrStone
+name: Inscribed Stone
+script: TR_m1_Nivalis_VaynthStone_scp
+mesh: tr\f\tr_furn_imp_stoneplaq.nif

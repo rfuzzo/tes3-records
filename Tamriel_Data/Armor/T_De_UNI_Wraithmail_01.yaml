@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_De_UNI_Wraithmail_01
+name: Wraithmail
+script: ''
+mesh: tr\a\tr_a_wraithmail_uni.nif
+icon: tr\a\tr_a_wraithmail_01.dds
+enchanting: T_Const_Wraithmail
+biped_objects:
+- biped_object_type: Hair
+  male_bodypart: T_A_WraithmailHelm01_Hr
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 4.0
+  value: 150000
+  health: 4500
+  enchantment: 0
+  armor_rating: 50

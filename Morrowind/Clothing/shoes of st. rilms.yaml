@@ -1,0 +1,20 @@
+type: Clothing
+flags: ''
+id: shoes of st. rilms
+name: Shoes of St. Rilms
+script: ''
+mesh: c\C_Shoes_Rilms_GND.NIF
+icon: c\tx_shoes_rilms.tga
+enchanting: shoesstrilms_en
+biped_objects:
+- biped_object_type: LeftFoot
+  male_bodypart: c_shoes_rilms
+  female_bodypart: ''
+- biped_object_type: RightFoot
+  male_bodypart: c_shoes_rilms
+  female_bodypart: ''
+data:
+  clothing_type: Shoes
+  weight: 3.0
+  value: 500
+  enchantment: 100

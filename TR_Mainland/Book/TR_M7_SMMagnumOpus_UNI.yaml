@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_M7_SMMagnumOpus_UNI
+name: Galas Moran's Magnum Opus
+script: ''
+mesh: tr\m\tr_book_tomebk_o_02.nif
+icon: tr\m\tr_book_open_tome02.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[Every page of this heavy book is filled to the edges with alchemical formulas and esoteric equations. There appears to be no rhyme or reason to their layout.]<BR>\r\n<BR>"
+data:
+  weight: 8.0
+  value: 1000
+  book_type: Book
+  skill: Alchemy
+  enchantment: 0

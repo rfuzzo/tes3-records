@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_AbMonitor_29
+name: LOST MAGE FOUND UNDER THE SEA
+script: T_ScNews_Bellman_Paper
+mesh: pc\m\pc_text_note_anv_news.nif
+icon: pc\m\pc_text_note_anv_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"PC\\pc_abmonitor.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nLOST MAGE FOUND ALIVE DEEP BENEATH ABECEAN SEA<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nIn a shocking twist on a weeks-old cold case, the missing mage Divides-To-Iron has been found alive by a fellow member of the Mages Guild. The Argonian left on a solo expedition into a seafloor Ayleid ruin near the Mykoi Isles of the northern Abecean Sea, but failed to return at the expected time.<BR><BR>\r\nAccording to reports from the Mages Guild, Divides-To-Iron became trapped in a one-way passage deep inside the Ayleid ruin, which he identified as \"Nagaiarelle\". When a Mages Guild %PCRace finally found him, the mage had been living on a diet of fish and a dwindling supply of fresh water for more than three weeks. Because of his unique Argonian physiology, Divides-To-Iron was able to breathe in the ruin's depths, though the salt water made this exhausting.<BR><BR>\r\nDespite these difficulties, Divides-To-Iron appears to have taken his ordeal in good humor, telling the Monitor he \"loves seafood\". The Mages Guild made no comment on its future plans regarding explorations of Nagaiarelle.<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m4_key_mulus_roloth
+name: Key to Mulus Roloth's Shack
+script: ''
+mesh: TR\m\TR_Key_DD20.NIF
+icon: TR\m\TR_Key_DD20.dds
+data:
+  weight: 0.0
+  value: 0
+  flags: KEY

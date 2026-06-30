@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_OE_IAS_goblin
+name: Goblin Collection
+script: ''
+mesh: m\Text_Parchment_01.NIF
+icon: m\Tx_parchment_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe Goblin Collection<BR> <BR>\r\n<DIV ALIGN=\"CENTER\">\r\nGoblins have been on Nirn since the dawn of time. These items--the shield, the axe and the armor pieces--have been collected from various abandoned caves in the western Velothi Mountains near the Cyrodiil border. The red symbol is an artist's rendition of the emblem of the Grave Maggot tribe -- a clan of migratory goblins suspected to have crossed over to Morrowind.\r\n<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

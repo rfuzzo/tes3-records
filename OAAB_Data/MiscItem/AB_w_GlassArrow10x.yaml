@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_w_GlassArrow10x
+name: Glass Arrow (10)
+script: AB_QuiverGlass10x_s
+mesh: OAAB\w\quiver_glass.nif
+icon: w\tx_arrow_glass.dds
+data:
+  weight: 1.5
+  value: 80
+  flags: ''

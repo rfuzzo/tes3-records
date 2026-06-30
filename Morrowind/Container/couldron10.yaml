@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: couldron10
+name: Large Iron Couldron
+script: ''
+mesh: o\contain_couldron10.nif
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory: []

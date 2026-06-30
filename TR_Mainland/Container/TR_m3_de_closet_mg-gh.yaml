@@ -1,0 +1,85 @@
+type: Container
+flags: ''
+id: TR_m3_de_closet_mg-gh
+name: Closet
+script: ''
+mesh: o\Contain_De_Closet_01.NIF
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - Misc_SoulGem_Common
+- - 1
+  - Misc_SoulGem_Greater
+- - 2
+  - Misc_SoulGem_Lesser
+- - -3
+  - Misc_SoulGem_Petty
+- - -10
+  - T_Com_Steel_Arrow_CruelFrostB
+- - -10
+  - T_Com_Steel_Bolt_CruelFrostB
+- - -10
+  - T_Com_Steel_Dart_CruelFrostB
+- - -10
+  - T_Com_Steel_ThrowingStar_CrFrB
+- - -10
+  - T_Imp_Silver_Arrow_DirePoisonCl
+- - -10
+  - T_Imp_Silver_Bolt_DirePoisonCl
+- - -10
+  - T_Imp_Silver_Dart_DirePoisonCl
+- - -10
+  - T_Imp_Silver_ThrowingStar_DrPoi
+- - 2
+  - amulet of almsivi intervention
+- - 2
+  - amulet of divine intervention
+- - 2
+  - amulet of far silence
+- - 1
+  - amulet of frost
+- - 1
+  - amulet of levitating
+- - 3
+  - amulet of light
+- - 1
+  - amulet of recall
+- - 1
+  - cruel flamebolt ring
+- - 1
+  - cruel shardbolt ring
+- - 1
+  - cruel sparkbolt ring
+- - 1
+  - cruel viperbolt ring
+- - 1
+  - dire shardsword
+- - 3
+  - feather belt
+- - 1
+  - first barrier ring
+- - 1
+  - frosteater robe
+- - 2
+  - l_m_enchantitem_telvanni_rank01
+- - 1
+  - poisoneater robe
+- - 1
+  - poisonguard robe
+- - 1
+  - poisonmirror robe
+- - 1
+  - second barrier belt
+- - 1
+  - silver staff of reckoning
+- - 1
+  - steel staff of shaming
+- - 1
+  - third barrier ring
+- - 1
+  - wild sparksword
+- - 1
+  - wooden staff of shaming
+- - 1
+  - wooden staff of war

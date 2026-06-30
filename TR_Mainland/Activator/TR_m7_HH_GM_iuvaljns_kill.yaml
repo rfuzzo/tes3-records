@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_HH_GM_iuvaljns_kill
+name: HH GM JNS attack button
+script: TR_m7_HH_GM_jnsaldiuval_scr
+mesh: EditorMarker.NIF

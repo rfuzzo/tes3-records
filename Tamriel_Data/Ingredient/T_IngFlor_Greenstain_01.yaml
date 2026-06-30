@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_Greenstain_01
+name: Green Stain Mushroom
+script: ''
+mesh: pc\n\pc_ingred_greenstain.nif
+icon: pc\n\pc_tx_ingred_greens.dds
+data:
+  weight: 0.2
+  value: 2
+  effects:
+  - DrainAttribute
+  - Levitate
+  - DrainAttribute
+  - DrainHealth
+  skills:
+  - Block
+  - Block
+  - Block
+  - None
+  attributes:
+  - Speed
+  - Speed
+  - Agility
+  - None

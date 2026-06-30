@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_OE_bk_ETCensus_Record_02
+name: Census Record
+script: ''
+mesh: pc\m\PC_bk_Book_12.nif
+icon: pc\m\pc_bk_book_12.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nDEPOSIT OFFICE<BR>\r\n<BR>\r\nSAFETY MEASURE<BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\nBefore heading towards the deposit offices, please hand over your weapons to the reception desk for registration. They will be returned to you upon departure. <BR>\r\n<BR>\r\n[This record contains a list of dates, hours, names, diverse weapons and a rough description, with the date and hour of their restitution]<BR>"
+data:
+  weight: 4.0
+  value: 4
+  book_type: Book
+  skill: None
+  enchantment: 0

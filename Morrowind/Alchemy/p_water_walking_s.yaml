@@ -1,0 +1,20 @@
+type: Alchemy
+flags: ''
+id: p_water_walking_s
+name: Potion of Water Walking
+script: ''
+mesh: m\Misc_Potion_Fresh_01.nif
+icon: m\Tx_potion_fresh_01.tga
+effects:
+- magic_effect: WaterWalking
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 15
+  min_magnitude: 1
+  max_magnitude: 1
+data:
+  weight: 1.0
+  value: 35
+  flags: ''

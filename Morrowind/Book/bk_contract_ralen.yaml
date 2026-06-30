@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: bk_contract_ralen
+name: Weapons and Armor Contract
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nContract for Services <BR>\r\n<BR>\r\nI, Felyn Saranas, hereby agree to pay the sum of 10,000 (ten thousand) drakes upon the delivery of the following items: <BR>\r\n<BR>\r\nIron Shortsword (20) <BR>\r\nIron Claymore (15) <BR>\r\nIron Mace (10) <BR>\r\nIron Spear (15) <BR>\r\nSteel Axe (10) <BR>\r\nSteel Dagger (15) <BR>\r\nSteel Staff (10) <BR>\r\nSteel Halberd (15) <BR>\r\nSteel Longsword (10) <BR>\r\n<BR>\r\nAll items are assumed to be delivered in new and working condition, and to have been created at the forge of Ralen Tilvur, Smith, Vivec City. This contract is binding under Imperial Law, and may only be rendered null and void by a mutual agreement of both parties here undersigned. <BR>\r\n<BR>\r\nAlvur Hleran <BR>\r\nFelyn Saranas <BR>\r\n<BR>\r\n"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

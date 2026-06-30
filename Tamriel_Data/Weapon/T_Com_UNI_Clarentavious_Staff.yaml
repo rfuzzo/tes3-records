@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Com_UNI_Clarentavious_Staff
+name: Clarentavious' Staff
+script: T_ScObj_StaffLight
+mesh: pc\w\pc_w_clav_staff.nif
+icon: pc\w\pc_w_clav_staff.dds
+enchanting: T_Use_Clarentavious_Staff
+data:
+  weight: 12.5
+  value: 34000
+  weapon_type: BluntTwoWide
+  health: 2800
+  speed: 1.75
+  reach: 1.8
+  enchantment: 900
+  chop_min: 5
+  chop_max: 16
+  slash_min: 1
+  slash_max: 16
+  thrust_min: 5
+  thrust_max: 12
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

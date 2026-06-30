@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_De_BonemoldSammas_Helm_01
+name: Native Sammas Bonemold Helm
+script: ''
+mesh: tr\a\tr_a_de_sammashelm_01g.nif
+icon: tr\a\tr_a_bone_sammas_01.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Head
+  male_bodypart: T_A_DeBonemoldSammasHelm01_Hd
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 4.0
+  value: 220
+  health: 190
+  enchantment: 200
+  armor_rating: 20

@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: lava_light_2048
+name: ''
+script: ''
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 2048
+  color:
+  - 218
+  - 47
+  - 22
+  - 0
+  flags: FLICKER_SLOW

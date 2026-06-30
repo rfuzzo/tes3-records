@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_NarsisCQSewers_Note4
+name: Letter from 'Xenophus'
+script: ''
+mesh: m\Text_paper_roll_01.nif
+icon: m\Tx_paper_roll_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nFenus,<BR>\r\n<BR>\r\nThank you for your continued correspondence! I had never considered such a reading of Antecedents. You continue to impress me with your ability. We must meet again at the Temple library. Arvo has taught me his theory of hermeneutics and I hope you'll be quite mesmerized.<BR>\r\n<BR>\r\n'Xenophus' <BR>\r\nP.S. I'll return your copy when we meet.<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 100

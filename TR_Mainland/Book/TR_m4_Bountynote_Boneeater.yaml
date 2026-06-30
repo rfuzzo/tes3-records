@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_Bountynote_Boneeater
+name: 'Bounty: The Bone-Eater'
+script: TR_m4_And_Bountynote_Bone
+mesh: m\Text_Parchment_01.NIF
+icon: m\Tx_parchment_01.tga
+enchanting: ''
+text: "<BR>\r\n<DIV ALIGN=\"CENTER\">\r\nBOUNTY NOTICE:\r\n<BR>\r\n<DIV ALIGN=\"left\">\r\nBy order of Janonia Melitus, Imperial Magistrate of Bal Foyen, and under the authority of the Ruby Throne,\r\n<BR>\r\nLet it be known that the creature known only as\r\n<BR>\r\n<DIV ALIGN=\"center\">\r\nTHE BONE-EATER\r\n<BR>\r\n<DIV ALIGN=\"left\">\r\nis wanted dead for the crimes of murder, cannibalism and brigandry. <BR>\r\n<BR>\r\nReward is 1000 septims. Report to Agronak gro-Dumag at Bal Foyen's Imperial Commission for more information.\r\n<BR>\r\n<BR>\r\n<IMG SRC=\"PC\\pc_waxseal_empire.dds\" WIDTH=\"96\" HEIGHT=\"96\"><BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

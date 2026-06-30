@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_De_Var_ShrineTribunal_02
+name: Shrine of the Tribunal
+script: shrineTemple
+mesh: tr\f\tr_shrine_tribunal02.nif

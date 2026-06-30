@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m2_q_27_fleemark
+name: ''
+script: ''
+mesh: EditorMarker.NIF

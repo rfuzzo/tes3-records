@@ -1,0 +1,35 @@
+type: Container
+flags: ''
+id: TR_i2_455_Tri chest
+name: Chest
+script: ''
+mesh: TR\o\TR_furn_De_Rm_Chest.NIF
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - -3
+  - TR_i2-355-TriBlessing01
+- - -3
+  - TR_i2-355-TriBlessing02
+- - -3
+  - TR_i2-355-TriBlessing03
+- - -3
+  - TR_i2-355-TriBlessing04
+- - -3
+  - TR_i2-355-TriBlessing05
+- - -2
+  - T_Mw_Random_ArmorBonemold
+- - -4
+  - T_Mw_Random_ArmorChitin
+- - -3
+  - T_Mw_Random_ArmorNetchLeather
+- - -2
+  - T_Mw_Random_ClothingPantsCmDun
+- - -4
+  - T_Mw_Random_ClothingRobesCmDun
+- - -3
+  - T_Mw_Random_ClothingShirtsCmDun
+- - -2
+  - T_Mw_Random_ClothingSkirtsCmDun
+- - -5
+  - T_Mw_Random_WeaponsDunmer

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Imp_Silver_Longhammer_Poison
+name: Silver Viperbreaker
+script: ''
+mesh: tr\w\tr_w_silver_longhmr.nif
+icon: tr\w\tr_w_silver_longhmr.dds
+enchanting: cruel viper_en
+data:
+  weight: 32.0
+  value: 400
+  weapon_type: BluntTwoClose
+  health: 2000
+  speed: 1.0
+  reach: 1.8
+  enchantment: 70
+  chop_min: 1
+  chop_max: 30
+  slash_min: 1
+  slash_max: 28
+  thrust_min: 1
+  thrust_max: 8
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE | SILVER

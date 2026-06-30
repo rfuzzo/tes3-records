@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_WoodSpoon_c01
+name: Spoon
+script: ''
+mesh: tr\m\tr_misc_wood_spoon_c01.nif
+icon: TR\m\tr_misc_wood_spoon_c01.dds
+data:
+  weight: 0.5
+  value: 1
+  flags: ''

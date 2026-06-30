@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Echo_20
+name: MAGES GUILD HEAD MISSING?
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_text_note_nar_news.nif
+icon: tr\m\tr_text_note_nar_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\tr_echo_512_256.dds\" WIDTH=\"348\" HEIGHT=\"168\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nMAGES GUILD HEAD MISSING?<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nDespite fervent denial from the Narsis Foreign Quarter based Guild of Mages, Ysadora Bellette -- the outlander Arch-Mage of Narsis District -- has not been seen in some time, and is presumed missing. Suspicion arose as to the Arch-Mage's whereabouts after rumor got out that no resident mages of the guild hall had seen her at all in months; upon further questioning this source could provide no motive nor explanation for the Arch-Mage's disappearance.<BR><BR>\r\n\"She's just on sabbatical for a little while, can't someone take a break in peace?\", says Ralsa Ondusi, celebrity mage and second-in-command at the guild hall. Further inquiry by a Canyon Echo reporter resulted in their escorting out of the guildhall -- what does the guild know to be so guarded about?<BR><BR>\r\nWhile the Canyon Echo of course affords the Mages Guild every right to defend the status of Arch-Mage Bellette, in the name of truth and justice one must come to question the stability of the Imperial guild and its openness to justified questioning. Whether or not you believe the word of the Mages Guild (which we can neither confirm nor deny), this of course leaves the Canyon Echo -- and you, dear reader -- with one gripping question: where is Ysadora Bellette?<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

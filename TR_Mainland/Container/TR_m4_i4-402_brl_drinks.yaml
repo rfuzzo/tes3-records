@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m4_i4-402_brl_drinks
+name: Wooden Barrel
+script: ''
+mesh: o\contain_barrel10.nif
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Mw_Random_DrinkDunmer

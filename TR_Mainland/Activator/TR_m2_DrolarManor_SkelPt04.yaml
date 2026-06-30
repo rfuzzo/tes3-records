@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m2_DrolarManor_SkelPt04
+name: ''
+script: TR_m2_DrolarManor_Skel_sc
+mesh: tr\f\tr_furn_skel_farm_r.nif

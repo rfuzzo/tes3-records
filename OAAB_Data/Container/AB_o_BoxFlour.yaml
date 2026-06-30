@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: AB_o_BoxFlour
+name: Box of Flour
+script: ''
+mesh: OAAB\o\crateNew01_flour.nif
+encumbrance: 0.0
+container_flags: ORGANIC | IS_BASE
+inventory:
+- - 12
+  - AB_lvl_Flour

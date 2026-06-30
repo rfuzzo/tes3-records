@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_SetCyr_SignCompSMC_02
+name: So-Mitana Company
+script: SignRotate
+mesh: pc\f\pc_furn_sign_smc_02.nif

@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_CyrRga_ChS1Ing
+name: Small Chest
+script: ''
+mesh: hf\o\hf_furn_rga_chest04.nif
+encumbrance: 25.0
+container_flags: IS_BASE
+inventory:
+- - 4
+  - T_Cyr_Random_IngredientGC

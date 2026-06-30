@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_Narsis_56_note3
+name: Commendation Letter
+script: ''
+mesh: pc\m\pc_bk_letter_02.nif
+icon: pc\m\pc_m_letter_02.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n[A letter from the owner of Adavrin Plantation, thanking the Narsis Cat-Catchers Hall for its service in retrieving three escaped slaves.] <BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

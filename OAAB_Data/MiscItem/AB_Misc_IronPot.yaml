@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_IronPot
+name: Iron Cooking Pot
+script: ''
+mesh: OAAB\m\cook_pot_iron.nif
+icon: OAAB\m\cook_pot_iron.tga
+data:
+  weight: 17.0
+  value: 80
+  flags: ''

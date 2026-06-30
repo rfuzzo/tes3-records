@@ -1,0 +1,31 @@
+type: Container
+flags: ''
+id: TR_m4_cirifae_barrel_01
+name: Barrel
+script: ''
+mesh: o\Contain_barrel_01.NIF
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Com_Chain_Cuirass_03
+- - 1
+  - T_Imp_Silver_Cap_01
+- - 1
+  - cloth bracer left
+- - 1
+  - cloth bracer right
+- - 1
+  - imperial_chain_cuirass
+- - 1
+  - imperial_chain_greaves
+- - 1
+  - iron_cuirass
+- - 1
+  - iron_greaves
+- - 1
+  - newtscale_cuirass
+- - 1
+  - steel_pauldron_left
+- - 1
+  - steel_pauldron_right

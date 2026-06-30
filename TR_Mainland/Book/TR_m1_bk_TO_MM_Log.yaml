@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_bk_TO_MM_Log
+name: The Magic Mudcrab Logbook
+script: ''
+mesh: m\Text_Octavo_open_08.NIF
+icon: m\Tx_book_open_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nGuest Log<BR>\r\n<BR>\r\nThere are dozens of names scrawled into this logbook.  You realize that you should probably add your name to the list when you check in.<BR>"
+data:
+  weight: 2.0
+  value: 10
+  book_type: Book
+  skill: None
+  enchantment: 0

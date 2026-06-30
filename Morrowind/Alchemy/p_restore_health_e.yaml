@@ -1,0 +1,20 @@
+type: Alchemy
+flags: ''
+id: p_restore_health_e
+name: Exclusive Restore Health
+script: ''
+mesh: m\Misc_Potion_Exclusive_01.nif
+icon: m\Tx_potion_exclusive_01.tga
+effects:
+- magic_effect: RestoreHealth
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 5
+  min_magnitude: 40
+  max_magnitude: 40
+data:
+  weight: 0.25
+  value: 175
+  flags: ''

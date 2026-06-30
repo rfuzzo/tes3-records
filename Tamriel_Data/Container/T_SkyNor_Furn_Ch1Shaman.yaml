@@ -1,0 +1,21 @@
+type: Container
+flags: ''
+id: T_SkyNor_Furn_Ch1Shaman
+name: Chest
+script: ''
+mesh: Sky\o\Sky_Cont_Chest_06_01.nif
+encumbrance: 250.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Sky_Lvl_Potion
+- - 1
+  - T_Sky_Random_BookNord
+- - 1
+  - T_Sky_Random_Fur&Bone
+- - 3
+  - T_Sky_Random_HoneyComb
+- - 5
+  - T_Sky_Random_Ingredient
+- - 2
+  - T_Sky_Random_PotionQuality

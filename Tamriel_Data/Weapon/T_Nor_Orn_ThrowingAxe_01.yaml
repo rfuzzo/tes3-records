@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Nor_Orn_ThrowingAxe_01
+name: Ornate Throwing Axe
+script: ''
+mesh: sky\w\sky_throwing_axe.nif
+icon: sky\w\tx_w_throwing_axe.dds
+enchanting: ''
+data:
+  weight: 5.0
+  value: 24
+  weapon_type: MarksmanThrown
+  health: 400
+  speed: 0.75
+  reach: 1.0
+  enchantment: 30
+  chop_min: 1
+  chop_max: 15
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: ''

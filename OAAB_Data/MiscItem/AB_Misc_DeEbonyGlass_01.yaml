@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_DeEbonyGlass_01
+name: Frosted Ebony Glass
+script: ''
+mesh: OAAB\m\misc_ebony_glass.nif
+icon: OAAB\m\misc_ebony_glass.dds
+data:
+  weight: 4.0
+  value: 280
+  flags: ''

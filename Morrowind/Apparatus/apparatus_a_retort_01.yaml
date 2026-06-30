@@ -1,0 +1,12 @@
+type: Apparatus
+flags: ''
+id: apparatus_a_retort_01
+name: Apprentice's Retort
+script: ''
+mesh: m\Apparatus_A_Retort_01.NIF
+icon: m\Tx_retort_01.tga
+data:
+  apparatus_type: Retort
+  quality: 0.5
+  weight: 8.0
+  value: 20

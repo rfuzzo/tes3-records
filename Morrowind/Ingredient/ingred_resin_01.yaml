@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_resin_01
+name: Resin
+script: ''
+mesh: n\Ingred_resin_01.nif
+icon: n\Tx_resin_01.tga
+data:
+  weight: 0.1
+  value: 10
+  effects:
+  - RestoreHealth
+  - RestoreAttribute
+  - Burden
+  - ResistCommonDisease
+  skills:
+  - Block
+  - Block
+  - Block
+  - Block
+  attributes:
+  - Strength
+  - Speed
+  - Strength
+  - Speed

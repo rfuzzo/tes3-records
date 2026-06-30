@@ -1,0 +1,27 @@
+type: Container
+flags: ''
+id: TR_m7_Narsis_BazaarCr3
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - balm amulet
+- - 1
+  - common_amulet_04
+- - 1
+  - expensive_amulet_03
+- - 1
+  - extravagant_amulet_02
+- - 1
+  - extravagant_ring_01
+- - 2
+  - l_b_rings
+- - 2
+  - l_m_amulets
+- - 4
+  - l_m_rings
+- - -2
+  - l_n_rings

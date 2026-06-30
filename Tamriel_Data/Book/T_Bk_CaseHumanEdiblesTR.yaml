@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_CaseHumanEdiblesTR
+name: The CASE Against Human Edibles
+script: ''
+mesh: m\Text_Scroll_01.NIF
+icon: m\Tx_scroll_open_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<BR><BR>\r\n...that this substance which FOREIGN TRADERS would liken to scuttle comes not from the flesh of any beetle, nor is it derived from the vegetation of foreign soils,<BR>\r\nwhich being unknown to Dunmer, they have incorrectly assumed to be the origin of these foods,<BR><BR>\r\n\r\nthat they are in truth made of SUCKLING-WATER,<BR>\r\nwhich Uvris the Elder in his thoroughness has taken the time to note is FOUL and SICKENING to grown mer,<BR><BR>\r\n\r\nthat the continued consumption of it is yet known to be WIDELY PRACTISED in the outlands,<BR>\r\nthe meekness of whose inhabitants is well reflected, in that their magi substitute it for blood in sacrifice to their FALSE GODS,<BR><BR>\r\n\r\nthat great QUANTITIES of it are required, so that those humans not able to provide it themselves steal it from their Beasts and herd-beasts,<BR>\r\nwhich they do by fondling the Teats of the beasts, to coax out the liquids,<BR><BR>\r\n\r\nthat the humans then pour it in shitten or urinal SATCHELS--one must like to drink piss, who eats this fare--,<BR>\r\nwhich accounts for the shape and SMELL of the foods,<BR><BR>\r\n\r\nthat whoever has been by Curiosity carried past the preceding facts will find it now newly assaulted, learning that those liquids are not only allowed to ROT but encouraged to do so, <BR>\r\nwhich is done by the addition of sour leaves or saps or seeds, or certain other substances alike-looking -- here not named --,<BR><BR>\r\n\r\nthat this convinces some of the liquid to coagulate and CLOT like blood, and this is taken from the remaining liquid,<BR>\r\nwhich is fed to SWINE BEASTS, which as Ordolane's Bestiary reveals resemble Orc beasts with the bloodless skin of men,<BR><BR>\r\n\r\nthat such treatment is well indicative of what worth is held by these FOUL SMELLING ingredients,<BR>\r\nthe worst of which it is said do not survive crossing into Morrowind, ALMSIVI be praised,<BR><BR>\r\n\r\nthat this element the humans call in their language MOLD is used in many of their foods,<BR>\r\nwhich should therefore be avoided entirely.<BR><BR>\r\n\r\n<BR><BR>\r\n\r\nThis is written by Cook in Mournhold,<BR>\r\nfor the  benefit and education and safeguarding of discerning Dunmer<BR>\r\nas informed by the true testimonies of learned scholars and explorers.<BR><BR>\r\n"
+data:
+  weight: 0.2
+  value: 50
+  book_type: Scroll
+  skill: None
+  enchantment: 0

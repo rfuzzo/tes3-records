@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_VicarHerb_01
+name: Vicar Herb Leaves
+script: ''
+mesh: Sky\n\Sky_Ingred_VicHerb_01.nif
+icon: Sky\n\Tx_Ingred_VicHerb_01.dds
+data:
+  weight: 0.5
+  value: 2
+  effects:
+  - DamageFatigue
+  - RestoreHealth
+  - CureCommonDisease
+  - Burden
+  skills:
+  - None
+  - None
+  - Block
+  - None
+  attributes:
+  - None
+  - None
+  - Intelligence
+  - None

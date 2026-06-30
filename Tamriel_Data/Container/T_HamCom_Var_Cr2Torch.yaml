@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_HamCom_Var_Cr2Torch
+name: Crate
+script: ''
+mesh: hf\o\hf_contain_crate_02.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 7
+  - T_Ham_Random_Torch

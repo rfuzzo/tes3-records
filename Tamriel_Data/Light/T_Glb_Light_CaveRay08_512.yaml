@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_Glb_Light_CaveRay08_512
+name: ''
+script: T_ScObj_CaveRay
+mesh: tr\l\tr_l_cav_ray08.nif
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 512
+  color:
+  - 255
+  - 255
+  - 255
+  - 0
+  flags: ''

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_eec_terminationletter
+name: Letter from Rogatus
+script: ''
+mesh: m\Text_Parchment_02.NIF
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nTo our valued business partner and friend, Llaros Samalsi, Governor of Shipal-Sharai,<BR>\r\n<BR>\r\nThe East Empire Company hereby gives notice to immediately end our agreement regarding caravan services through the Shipal-Shin region. The final payment will be awaiting collection at our Narsis warehouse. I'd like to take this opportunity to thank you for your partnership and to wish you luck with your future endeavors. <BR>\r\n<BR>\r\nOn behalf of the East Empire Company,<BR>\r\n<BR>\r\nRogatus Cipius<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

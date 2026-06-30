@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: TR_i4-517_chest_01
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 267
+  - Gold_001
+- - 1
+  - Misc_SoulGem_Grand
+- - 1
+  - misc_dwrv_bowl00

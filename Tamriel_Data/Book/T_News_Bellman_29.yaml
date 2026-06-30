@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Bellman_29
+name: VVARDENFELL CRIME RISING
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_note_oe_news.nif
+icon: tr\m\tr_note_oe_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\TR_bellman_512_256.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nVVARDENFELL CRIME RISING<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nAccording to an Imperial Legion source, trouble is brewing on the island of Vvardenfell, with smuggling, thievery, and even killings on the rise. Coast Guard patrols are apprehending an increasing number of smugglers in the Bitter Coast region, while rumors speak of turf wars between rival street gangs in Balmora. Most disturbing is a wave of murders, seemingly targeting innocent citizens -- up to five Imperial settlers have been brutally killed in the past weeks in Vivec City alone. It is difficult to assess the root cause of all these disturbances, but fanatical Dark Elf separatists are a prime suspect. This is a sobering development for many in Old Ebonheart, who have profited handsomely from Vvardenfell settlement.<br><br>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

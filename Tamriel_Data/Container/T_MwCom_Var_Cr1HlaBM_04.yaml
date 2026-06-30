@@ -1,0 +1,27 @@
+type: Container
+flags: ''
+id: T_MwCom_Var_Cr1HlaBM_04
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_De_Ep_SkirtNarsisWatch_01
+- - 1
+  - T_De_NarsisWatch_Boots_01
+- - 1
+  - T_De_NarsisWatch_Cuirass_01
+- - 1
+  - T_De_NarsisWatch_GauntletL_01
+- - 1
+  - T_De_NarsisWatch_GauntletR_01
+- - 1
+  - T_De_NarsisWatch_Greaves01
+- - 1
+  - T_De_NarsisWatch_Helm_01
+- - 1
+  - T_De_NarsisWatch_PauldronL_01
+- - 1
+  - T_De_NarsisWatch_PauldronR_01

@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: ring of ironhand
+name: Ring of Ironhand
+script: ''
+mesh: c\C_Ring_common05.NIF
+icon: c\tx_ring_common05.tga
+enchanting: ironhand_en
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 42
+  enchantment: 10

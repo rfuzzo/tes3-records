@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_UNI_PaintingHerrius
+name: Pursuit of Light
+script: ''
+mesh: pc\m\pc_m_herrius_paint_01.nif
+icon: pc\m\pc_m_paint_herrius_uni.dds
+data:
+  weight: 2.0
+  value: 1000
+  flags: ''

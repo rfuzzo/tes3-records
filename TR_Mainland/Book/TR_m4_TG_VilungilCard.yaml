@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_TG_VilungilCard
+name: Vilungil's Card
+script: ''
+mesh: pc\m\pc_misc_card_07.nif
+icon: pc\m\pc_misc_card_07.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"500000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n*****<BR> <BR>\r\nVILUNGIL of VULKHEL GUARD, esq. <BR> \r\nAttorney-at-Law, Accountant, & Tax Specialist <BR>\r\nOffice in West Bal Foyen -- Open All Hours <BR>\r\n\"In a bad bind? Vilungil will get you out!\" <BR> <BR>\r\n*****\r\n<BR>"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 50

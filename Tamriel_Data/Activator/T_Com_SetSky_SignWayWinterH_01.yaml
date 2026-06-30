@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Com_SetSky_SignWayWinterH_01
+name: Winterhold
+script: ''
+mesh: sky\x\sky_act_rsign_winth1.nif

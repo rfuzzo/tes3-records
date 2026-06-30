@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m7_Ns_IL_8_BrevurAct
+name: ''
+script: TR_m7_Ns_IL_8_BrevurActSc
+mesh: EditorMarker.NIF

@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m7_Othrano_UrnSc
+name: Urn
+script: ''
+mesh: o\Contain_urn_01.NIF
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_EnSc_Dae_ForbiddenDomination

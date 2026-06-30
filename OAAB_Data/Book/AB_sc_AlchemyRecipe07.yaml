@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: AB_sc_AlchemyRecipe07
+name: Recipe - Eevle's Elixir
+script: ''
+mesh: m\Text_Scroll_02.nif
+icon: m\Tx_scroll_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nMadam Mary Madrigal's Advanced Alchemical Recipes<BR><BR>\r\n- Eevle's Elixir -<BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nPotion Effects:<BR>\r\n<BR>\r\nFortify Health<BR>\r\nRestore Health<BR>\r\nRestore Fatigue<BR>\r\nFortify Magicka<BR>\r\n<BR>\r\nThis is the ultimate potion of restoration, invented by the great alchemist Eevle.<BR>\r\n<BR>\r\nEmerald<BR>\r\nSaltrice<BR>\r\nShalk Resin<BR>\r\nLarge Kwama Egg<BR>\r\n<BR>\r\n<BR>\r\nOxidize the emerald in your calcinator until it turns clear, then crush and mix with powdered saltrice. Set this mixture to dry distill in your retort.<BR>\r\n<BR>\r\nMix the shalk resin and large kwama egg into a fine paste. Wait until the other mixture is finished distilling, then place the paste in the calcinator and heat for either five minutes or until it starts to bubble. While it is still hot, add the dry distilled emerald and saltrice powder and mix together.<BR>\r\n<BR>\r\nThis will form a thick paste that will work, but not as effectively if it is in potion form, so set the whole mixture to distill again in your retort with water. The potion should be an almost transparent light green.<BR>"
+data:
+  weight: 0.5
+  value: 75
+  book_type: Scroll
+  skill: None
+  enchantment: 20

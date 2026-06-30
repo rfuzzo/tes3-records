@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_VA_AniVamp_Cage
+name: ''
+script: TR_m7_VA_AniVamp_Cage_sc
+mesh: sky\f\sky_furn_cageck_01.nif

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m3_OE_SwordOfProtection
+name: Silver Longsword of Protection
+script: ''
+mesh: w\W_Longsword_Silver.nif
+icon: w\Tx_Silver_longsword.tga
+enchanting: TR_m3_OE_Sanctuary
+data:
+  weight: 16.0
+  value: 450
+  weapon_type: LongBladeOneHand
+  health: 640
+  speed: 1.35
+  reach: 1.0
+  enchantment: 50
+  chop_min: 1
+  chop_max: 16
+  slash_min: 1
+  slash_max: 22
+  thrust_min: 2
+  thrust_max: 20
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE | SILVER

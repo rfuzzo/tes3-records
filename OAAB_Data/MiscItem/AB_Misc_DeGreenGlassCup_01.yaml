@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_DeGreenGlassCup_01
+name: Green Glass Cup
+script: ''
+mesh: OAAB\m\misc_gr_glass_cup.nif
+icon: OAAB\m\misc_gr_glass_cup.dds
+data:
+  weight: 1.0
+  value: 1
+  flags: ''

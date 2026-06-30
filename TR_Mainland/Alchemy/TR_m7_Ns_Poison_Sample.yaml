@@ -1,0 +1,36 @@
+type: Alchemy
+flags: ''
+id: TR_m7_Ns_Poison_Sample
+name: Argonian Poison
+script: ''
+mesh: m\Misc_Potion_Quality_01.nif
+icon: m\Tx_potion_quality_01.tga
+effects:
+- magic_effect: DrainHealth
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 10
+  min_magnitude: 25
+  max_magnitude: 25
+- magic_effect: DamageFatigue
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 10
+  min_magnitude: 30
+  max_magnitude: 30
+- magic_effect: Paralyze
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 5
+  min_magnitude: 1
+  max_magnitude: 1
+data:
+  weight: 0.75
+  value: 50
+  flags: ''

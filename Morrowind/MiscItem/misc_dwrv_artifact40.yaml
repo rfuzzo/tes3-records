@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: misc_dwrv_artifact40
+name: Dwemer Scarab Schematics
+script: ''
+mesh: m\misc_dwrv_artifact40.nif
+icon: m\misc_dwrv_artifact40.tga
+data:
+  weight: 0.1
+  value: 100
+  flags: ''

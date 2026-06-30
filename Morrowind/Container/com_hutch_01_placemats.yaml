@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: com_hutch_01_placemats
+name: Hutch
+script: ''
+mesh: o\Contain_Com_Hutch_01.NIF
+encumbrance: 75.0
+container_flags: IS_BASE
+inventory: []

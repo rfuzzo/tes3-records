@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: Sound_Cave_Oldwood00
+name: Sound_Cave_Oldwood00
+script: Sound_Creeky_Wood
+mesh: EditorMarker.NIF

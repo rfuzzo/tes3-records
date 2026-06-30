@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Nor_SetTent_Door_01
+name: Tent Entrance
+script: T_ScObj_TentDoorSHOTN
+mesh: Sky\d\Sky_Ex_Nord_TDoor_01.nif

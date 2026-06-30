@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: TR_m4-436_chest_b
+name: Chest
+script: ''
+mesh: tr\o\tr_furn_de_rm_chest.nif
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - bonemold_armun-an_helm
+- - 1
+  - bonemold_armun-an_pauldron_l
+- - 1
+  - bonemold_armun-an_pauldron_r
+- - 1
+  - bonemold_greaves

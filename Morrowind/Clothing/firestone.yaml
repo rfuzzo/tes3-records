@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: firestone
+name: Firestone
+script: ''
+mesh: c\C_Ring_common02.NIF
+icon: c\tx_ring_common02.tga
+enchanting: burning touch_enu
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 11
+  enchantment: 10

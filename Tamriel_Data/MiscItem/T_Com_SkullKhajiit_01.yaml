@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_SkullKhajiit_01
+name: Khajiit Skull
+script: ''
+mesh: TR\m\TR_misc_skull_khj_01.NIF
+icon: TR\m\TR_misc_skull_khj.dds
+data:
+  weight: 0.5
+  value: 0
+  flags: ''

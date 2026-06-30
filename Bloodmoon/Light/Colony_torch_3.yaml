@@ -1,0 +1,19 @@
+type: Light
+flags: PERSISTENT
+id: Colony_torch_3
+name: ''
+script: Colony_E_Torch
+mesh: l\light_tikitorch00.NIF
+icon: ''
+sound: Fire 40
+data:
+  weight: 0.0
+  value: 1
+  time: -1
+  radius: 420
+  color:
+  - 245
+  - 140
+  - 40
+  - 0
+  flags: DYNAMIC | FIRE | FLICKER_SLOW

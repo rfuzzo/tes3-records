@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: Act_BM_steam_05
+name: ''
+script: stalsteamScript
+mesh: f\act_BM_pipe_parts00.NIF

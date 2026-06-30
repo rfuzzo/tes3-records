@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_BkGen_TradeManifest_03
+name: Trade Manifest
+script: ''
+mesh: pc\m\pc_bk_book_35.nif
+icon: pc\m\pc_bk_book_35.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n[A list of various goods for transport.]<BR>"
+data:
+  weight: 2.0
+  value: 2
+  book_type: Book
+  skill: None
+  enchantment: 0

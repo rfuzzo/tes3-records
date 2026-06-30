@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_DaeGoblet_01
+name: Daedric Goblet
+script: ''
+mesh: OAAB\m\m_dae_goblet_01.nif
+icon: OAAB\m\m_dae_goblet_01.dds
+data:
+  weight: 3.0
+  value: 75
+  flags: ''

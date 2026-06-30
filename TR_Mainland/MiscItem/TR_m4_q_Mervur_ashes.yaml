@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m4_q_Mervur_ashes
+name: Ashes of Mervur Moryn
+script: ''
+mesh: tr\m\tr_misc_urn_01.nif
+icon: tr\m\tr_misc_urn_01.dds
+data:
+  weight: 10.0
+  value: 0
+  flags: ''

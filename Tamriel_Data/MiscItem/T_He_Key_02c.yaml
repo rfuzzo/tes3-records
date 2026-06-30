@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_He_Key_02c
+name: Purple Glass Key
+script: ''
+mesh: sum\m\sum_key_02c.nif
+icon: sum\m\sum_key_02c.dds
+data:
+  weight: 0.0
+  value: 0
+  flags: ''

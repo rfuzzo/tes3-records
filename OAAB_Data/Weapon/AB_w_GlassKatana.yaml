@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_GlassKatana
+name: Glass Katana
+script: ''
+mesh: OAAB\w\w_glass_katana.nif
+icon: OAAB\w\w_glass_katana.dds
+enchanting: ''
+data:
+  weight: 10.0
+  value: 18000
+  weapon_type: LongBladeOneHand
+  health: 960
+  speed: 1.5
+  reach: 1.0
+  enchantment: 36
+  chop_min: 3
+  chop_max: 30
+  slash_min: 1
+  slash_max: 30
+  thrust_min: 1
+  thrust_max: 10
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

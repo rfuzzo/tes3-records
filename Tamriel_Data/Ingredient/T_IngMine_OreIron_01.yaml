@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngMine_OreIron_01
+name: Iron Ore
+script: ''
+mesh: sky\n\sky_ingred_iron_01.nif
+icon: sky\n\tx_ingred_iron_ore_01.dds
+data:
+  weight: 3.0
+  value: 20
+  effects:
+  - DrainAttribute
+  - Burden
+  - FortifyAttribute
+  - FortifyFatigue
+  skills:
+  - Block
+  - None
+  - Block
+  - None
+  attributes:
+  - Speed
+  - None
+  - Endurance
+  - None

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_Ns_TT_Chavana3a_Note
+name: Soaked Note
+script: ''
+mesh: m\Text_paper_roll_01.nif
+icon: m\Tx_paper_roll_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nMany thanks, %pcname.\r\n<BR>\r\n"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

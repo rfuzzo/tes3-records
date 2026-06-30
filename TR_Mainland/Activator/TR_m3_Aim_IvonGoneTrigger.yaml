@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_Aim_IvonGoneTrigger
+name: Ivon Seloth's Missing Trigger
+script: TR_m3_Aim_IvonGone_scp
+mesh: EditorMarker.NIF

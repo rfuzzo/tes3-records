@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m2_cont_chest_i327
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - TR_m2_book_note1_i327

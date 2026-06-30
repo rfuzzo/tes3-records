@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_MwCom_Var_Bls2Kwama
+name: Wooden Barrels
+script: ''
+mesh: tr\o\tr_cont_barrels_r_02.nif
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - 25
+  - random_kwama egg

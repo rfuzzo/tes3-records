@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_BookendPoor_01
+name: Bookend
+script: ''
+mesh: TR\f\TR_furn_com_p_bkend.NIF
+icon: TR\m\TR_misc_com_p_bkend.dds
+data:
+  weight: 2.0
+  value: 2
+  flags: ''

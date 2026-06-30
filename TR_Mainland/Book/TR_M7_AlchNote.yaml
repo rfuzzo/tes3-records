@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_M7_AlchNote
+name: Scrawled Note
+script: T_ScBook_SpFortifyAttack
+mesh: m\Text_Note_02.nif
+icon: m\Tx_note_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>\r\nHere is this week's supply. Limit yourselves to one a day if you don't want to bleed out of your eyes. <BR>\r\n<BR>\r\nBring me better quality test subjects. I don't need subjects half dead of blood rot. I've told you this multiple times. How much wickwheat are you eating if you can't even remember simple instructions?\r\n<BR>"
+data:
+  weight: 1.5
+  value: 100
+  book_type: Scroll
+  skill: None
+  enchantment: 100

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m2_kmlz_King_ElecCast
+name: ''
+script: TR_m2_kmlz_King_ElecCast_sc
+mesh: editormarker_box_01.nif

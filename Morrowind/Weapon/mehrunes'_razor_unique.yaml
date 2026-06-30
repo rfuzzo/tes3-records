@@ -1,0 +1,23 @@
+type: Weapon
+flags: PERSISTENT
+id: mehrunes'_razor_unique
+name: Mehrunes' Razor
+script: ''
+mesh: w\W_Art_MehrunesRazor.NIF
+icon: w\Tx_Art_MehrunesRazor.tga
+enchanting: mehrune's razor_en
+data:
+  weight: 6.0
+  value: 5000
+  weapon_type: ShortBladeOneHand
+  health: 600
+  speed: 2.5
+  reach: 1.0
+  enchantment: 250
+  chop_min: 12
+  chop_max: 15
+  slash_min: 12
+  slash_max: 15
+  thrust_min: 12
+  thrust_max: 17
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

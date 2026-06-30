@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Nor_Set_SignShopPawnbr_01
+name: Pawnbroker
+script: T_ScObj_WeatherAnimSHOTN
+mesh: sky\f\sky_act_sign_pawnb_01.nif

@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: T_SkyCom_Var_Bl3Wpn3
+name: Barrel
+script: ''
+mesh: Sky\o\Sky_Cont_Barrel_03.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Sky_Lvl_WeaponsBlunt
+- - 1
+  - T_Sky_Lvl_WeaponsDagger
+- - 1
+  - T_Sky_Lvl_WeaponsSword

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngDye_ImperialPurple_01
+name: Imperial Purple Dye
+script: ''
+mesh: tr\n\tr_ing_imppurple.nif
+icon: tr\n\tr_ing_imppurple.dds
+data:
+  weight: 0.1
+  value: 35
+  effects:
+  - FortifyAttribute
+  - DivineIntervention
+  - Shield
+  - None
+  skills:
+  - Block
+  - Block
+  - None
+  - None
+  attributes:
+  - Personality
+  - Personality
+  - None
+  - None

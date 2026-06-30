@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_SilverPalmfruit_01
+name: Palm Fruit
+script: ''
+mesh: Sky\n\Sky_Ingred_Palm_01.nif
+icon: Sky\n\Tx_Ingred_Palm_01.dds
+data:
+  weight: 0.5
+  value: 3
+  effects:
+  - RestoreFatigue
+  - ResistParalysis
+  - DetectKey
+  - DrainAttribute
+  skills:
+  - None
+  - None
+  - None
+  - Block
+  attributes:
+  - None
+  - None
+  - None
+  - Willpower

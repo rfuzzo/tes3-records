@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m1_platform_02_PT_float
+name: ''
+script: TR_m1_PTfloatPlatform
+mesh: i\In_T_platform_02.nif

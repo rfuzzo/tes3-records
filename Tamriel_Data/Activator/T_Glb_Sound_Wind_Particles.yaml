@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Glb_Sound_Wind_Particles
+name: 'Sound Effect: Wind n Particles'
+script: T_ScSound_WindParticles
+mesh: EditorMarker.NIF

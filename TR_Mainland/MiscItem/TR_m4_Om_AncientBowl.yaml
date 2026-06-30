@@ -1,0 +1,11 @@
+type: MiscItem
+flags: PERSISTENT
+id: TR_m4_Om_AncientBowl
+name: Ancient Bowl
+script: TR_m4_Om_AncientBowl_sc
+mesh: m\Misc_bowl_white_01.NIF
+icon: m\Misc_de_bowl_white_01.tga
+data:
+  weight: 3.0
+  value: 50
+  flags: ''

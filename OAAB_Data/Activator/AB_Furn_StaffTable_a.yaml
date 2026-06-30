@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Furn_StaffTable_a
+name: Staff Enchanter
+script: AB_StaffCraftResin_s
+mesh: OAAB\u\dr_tbl_staff_01.nif

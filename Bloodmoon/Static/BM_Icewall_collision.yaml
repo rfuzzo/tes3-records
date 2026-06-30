@@ -1,0 +1,4 @@
+type: Static
+flags: ''
+id: BM_Icewall_collision
+mesh: f\BM_ice_wall_collision.NIF

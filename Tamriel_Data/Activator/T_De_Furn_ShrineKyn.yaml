@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_De_Furn_ShrineKyn
+name: Shrine of Kynareth
+script: T_ScObj_ShrineHlaaluKynareth
+mesh: tr\f\tr_furn_de_altar_kyn.nif

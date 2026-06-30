@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: AB_IngMine_Sapphire_01
+name: Sapphire
+script: ''
+mesh: OAAB\n\gem_sapphire_01.nif
+icon: OAAB\n\gem_sapphire.dds
+data:
+  weight: 0.2
+  value: 150
+  effects:
+  - DrainFatigue
+  - Chameleon
+  - FrostShield
+  - DrainMagicka
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_Set_Shrine_SaintProph_05
+name: Shrine of St. Udran
+script: T_ScObj_ShrineSaintProphPC
+mesh: pc\x\pc_ex_wshrn_05.nif

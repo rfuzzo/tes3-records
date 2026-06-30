@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_SturgeonHead
+name: Sturgeon Head
+script: ''
+mesh: OAAB\m\sturgeonhead.nif
+icon: OAAB\m\sturgeonhead.dds
+data:
+  weight: 3.0
+  value: 1
+  flags: ''

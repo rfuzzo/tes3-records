@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_Steelblue_01
+name: Steel Blue Entoloma Cap
+script: ''
+mesh: pc\n\pc_ing_steelblue.nif
+icon: pc\n\pc_tx_ingred_steelblue.dds
+data:
+  weight: 0.1
+  value: 1
+  effects:
+  - RestoreMagicka
+  - FireDamage
+  - ResistFrost
+  - Burden
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

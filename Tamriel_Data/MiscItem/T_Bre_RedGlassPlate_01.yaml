@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Bre_RedGlassPlate_01
+name: Gilded Red Glass Plate
+script: ''
+mesh: hr\m\m_red_glass_pl.nif
+icon: hr\m\hr_misc_red_pl.dds
+data:
+  weight: 1.0
+  value: 80
+  flags: ''

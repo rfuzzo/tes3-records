@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_AshlGlassWarAxe
+name: Ashlander Glass War Axe
+script: ''
+mesh: OAAB\w\ashglass_waxe.nif
+icon: OAAB\w\ashglass_waraxe.tga
+enchanting: ''
+data:
+  weight: 14.0
+  value: 340
+  weapon_type: AxeOneHand
+  health: 320
+  speed: 1.25
+  reach: 1.0
+  enchantment: 30
+  chop_min: 1
+  chop_max: 24
+  slash_min: 1
+  slash_max: 13
+  thrust_min: 1
+  thrust_max: 2
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

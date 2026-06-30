@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Nor_SilverPlate_02
+name: Silver Plate
+script: ''
+mesh: sky\m\sky_misc_slv_plt_02.nif
+icon: sky\m\tx_misc_slv_plt_02.dds
+data:
+  weight: 2.0
+  value: 22
+  flags: ''

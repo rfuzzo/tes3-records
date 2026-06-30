@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_SkyNor_FurnR_Ds2Msc
+name: Desk
+script: ''
+mesh: Sky\o\Sky_Furn_N_U_DK_02.nif
+encumbrance: 250.0
+container_flags: IS_BASE
+inventory:
+- - 5
+  - T_Sky_Random_MiscItem

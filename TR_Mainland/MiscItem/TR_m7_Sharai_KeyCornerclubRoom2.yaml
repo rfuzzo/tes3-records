@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m7_Sharai_KeyCornerclubRoom2
+name: Sapphire Slouch Room 2 Key
+script: ''
+mesh: m\Key_Standard_01.NIF
+icon: m\Tx_key_standard_01.tga
+data:
+  weight: 0.0
+  value: 200
+  flags: KEY

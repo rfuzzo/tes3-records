@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_Note_TV3_Manor_1
+name: Note 1
+script: ''
+mesh: tr\tr_note_pin.nif
+icon: default icon.dds
+enchanting: ''
+text: "The barrels in the basement currently contain an unspecified Cyrodiilic wine, These should be replaced by barrels containing Shein and ideally new ones from this asset request: https://www.tamriel-rebuilt.org/asset/custom-barrels-wine-aging - Khazar\r\n\r\nAs a placeholder I have put shein into the barrels. However I don't think this represents aging but storage. Wine aged in a barrel does not also contain the bottle. The new asset should be a static rather than a container. - Aveno\r\n\r\nHi, https://www.tamriel-rebuilt.org/asset/tglbterrwatercircle-red-variants is needed for the tubs in the other room, cause I overlooked the merge notes and merged this place before this asset was ready. Oops! - chef\r\n\r\nI switched all the empty barrels out for ones that actually contain Hladri Shein (and also switched the loose ones). I think that's good enough, though I don't mind if they get replaced with non-lootable aging barrels either. It just shouldn't be a room full of empty barrels. The issue of the shein tubs that are missing their liquid asset is still relevant. - Revane"
+data:
+  weight: 0.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 0

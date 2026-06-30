@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m7_Kundasirai_Halberd
+name: Daunting Halberd
+script: ''
+mesh: TR\w\tr_w_ebony_halberd.nif
+icon: TR\w\TR_w_ebony_halberd.dds
+enchanting: TR_m7_Kundasirai_Halberd_en
+data:
+  weight: 28.0
+  value: 11500
+  weapon_type: SpearTwoWide
+  health: 1000
+  speed: 1.0
+  reach: 1.8
+  enchantment: 100
+  chop_min: 2
+  chop_max: 9
+  slash_min: 2
+  slash_max: 19
+  thrust_min: 6
+  thrust_max: 38
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

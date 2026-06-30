@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_OE_Curia_NoteHlaalu
+name: Notes on House Hlaalu
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This scroll seems to contain information on the current affairs of Great House Hlaalu. It is unclear how accurate this document is.]\r\n<BR>\r\n"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

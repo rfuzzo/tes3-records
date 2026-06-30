@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngMine_SmokyQuartz_01
+name: Smoky Quartz
+script: ''
+mesh: tr\n\tr_ing_smoke_quartz.nif
+icon: tr\n\tr_ing_smoke_quartz.dds
+data:
+  weight: 5.0
+  value: 100
+  effects:
+  - CurePoison
+  - ResistFire
+  - WeaknessToCommonDisease
+  - ResistShock
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

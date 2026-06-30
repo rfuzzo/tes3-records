@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m3_OE_TG_MoralCompassA
+name: Thief's Moral Compass
+script: ''
+mesh: tr\m\tr_misc_astrolabe_01.nif
+icon: tr\m\tr_misc_astrolabe.dds
+enchanting: TR_m3_OE_MoralCompassAEn
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 1500
+  enchantment: 150

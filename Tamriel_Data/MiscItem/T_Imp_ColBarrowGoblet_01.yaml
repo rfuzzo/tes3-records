@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_ColBarrowGoblet_01
+name: Ancient Bronze Goblet
+script: ''
+mesh: pc\m\pc_misc_cbar_goblet.nif
+icon: pc\m\pc_misc_cbar_goblet.dds
+data:
+  weight: 1.5
+  value: 15
+  flags: ''

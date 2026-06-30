@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_LA_Indoril Ruin_GateCrank
+name: Crank
+script: TR_m3_LA_OMRuinCrankGate
+mesh: f\Act_m_sewer_crank_01.nif

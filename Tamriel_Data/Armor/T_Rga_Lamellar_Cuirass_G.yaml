@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Rga_Lamellar_Cuirass_G
+name: Redguard Lamellar Cuirass
+script: ''
+mesh: pc\a\pc_a_kali_c_g_gnd.nif
+icon: pc\a\pc_a_kali_cuirass_g.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_A_RgaLamellar_C_G
+  female_bodypart: ''
+data:
+  armor_type: Cuirass
+  weight: 9.0
+  value: 65
+  health: 300
+  enchantment: 60
+  armor_rating: 10

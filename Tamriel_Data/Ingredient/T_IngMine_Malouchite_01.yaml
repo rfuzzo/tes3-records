@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngMine_Malouchite_01
+name: Malachite
+script: ''
+mesh: hr\n\mn_malouchite.nif
+icon: hr\n\mn_malouchite.dds
+data:
+  weight: 3.0
+  value: 100
+  effects:
+  - DrainAttribute
+  - Silence
+  - FortifyHealth
+  - Chameleon
+  skills:
+  - Block
+  - None
+  - None
+  - None
+  attributes:
+  - Speed
+  - None
+  - None
+  - None

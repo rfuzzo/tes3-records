@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_bk_i4-398-Invoice
+name: Delivery Invoice
+script: ''
+mesh: m\Text_Note_02.nif
+icon: m\Tx_note_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>\r\nDelivery Invoice: To be shipped to Veranis immediately.<BR>\r\n<BR>\r\n-350 Gold Pieces\r\n<BR>\r\n-Assorted Gems\r\n<BR>\r\n<BR>\r\n-R<BR>"
+data:
+  weight: 1.5
+  value: 100
+  book_type: Scroll
+  skill: None
+  enchantment: 100

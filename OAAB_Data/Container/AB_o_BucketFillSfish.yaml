@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: AB_o_BucketFillSfish
+name: Slaughterfish
+script: ''
+mesh: OAAB\o\bucketFillSfish.nif
+encumbrance: 0.0
+container_flags: ORGANIC | IS_BASE
+inventory:
+- - 3
+  - AB_lvl_IngCreaSlaughterfish

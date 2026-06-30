@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_bk_AT_TG_Q6_Ledger
+name: Hlan Oek Code Book
+script: ''
+mesh: m\Text_Octavo_08.nif
+icon: m\Tx_book_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nIECFHD NEH<BR>\r\nGBE WSISL KZPTJXYZH<BR>\r\n<BR>\r\nNFTN BEYU FHM<BR>\r\nXHSGAT ITUAA WSISL<BR>\r\n<BR>\r\nBIHPF WPNW<BR>\r\nDSOLIXPSG IJBPG WLGMGSKLY<BR>\r\n<BR>\r\nLZZX YPHP<BR>\r\nSBNCX MCQLN HPZBCZVPR<BR>\r\n<BR>\r\nKHMI CIG<BR>\r\nMJYC PHEZW<BR>\r\n<BR>\r\nXCHU YVLYX ACIP (FXTJXP)<BR>\r\nHPV WSISL KZPTJXYZH<BR>\r\n<BR>\r\n"
+data:
+  weight: 2.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 20

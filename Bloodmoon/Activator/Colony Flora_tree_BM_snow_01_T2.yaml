@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: Colony Flora_tree_BM_snow_01_T2
+name: ''
+script: ColonyServSmithDisable
+mesh: f\Flora_tree_BM_snow_01.nif

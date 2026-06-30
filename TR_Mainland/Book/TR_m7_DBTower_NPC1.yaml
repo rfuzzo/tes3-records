@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_DBTower_NPC1
+name: ''
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: ''
+enchanting: ''
+text: "Leader of the Shipal DB cell\r\n\r\nFrom Nibenay, Mir Corrup.\r\nLeft for Shipal to form a new cell & compete with the MT for trade. Potentially due to the economic downturn of Mir Corrup.\r\n\r\nmaybe has an expensive nibenese robe, enchanted\r\nnightblade with some curated spells and a unique enchanted weapon could be neat\r\n\r\nfigure level 40 or so "
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

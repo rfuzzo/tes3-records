@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_Nor_DngBarrow_CandStnDC01_128
+name: ''
+script: ''
+mesh: sky\l\sky_lgt_nord_CSDC01.nif
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 128
+  color:
+  - 230
+  - 140
+  - 5
+  - 0
+  flags: FLICKER

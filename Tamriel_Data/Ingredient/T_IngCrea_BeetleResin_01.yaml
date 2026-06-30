@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_BeetleResin_01
+name: Beetle Resin
+script: ''
+mesh: TR\n\TR_Ing_Beetle_Resin_01.nif
+icon: TR\n\TR_Ing_Beetle_Resin_01.dds
+data:
+  weight: 0.1
+  value: 40
+  effects:
+  - DrainFatigue
+  - RestoreHealth
+  - DrainAttribute
+  - FortifyAttribute
+  skills:
+  - None
+  - None
+  - Block
+  - Block
+  attributes:
+  - None
+  - None
+  - Willpower
+  - Endurance

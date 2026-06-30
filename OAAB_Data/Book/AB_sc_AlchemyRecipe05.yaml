@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: AB_sc_AlchemyRecipe05
+name: Recipe - Brick Wall
+script: ''
+mesh: m\Text_Scroll_02.nif
+icon: m\Tx_scroll_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nMadam Mary Madrigal's Advanced Alchemical Recipes<BR><BR>\r\n- Brick Wall -<BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nPotion Effects:<BR>\r\n<BR>\r\nFortify Health<BR>\r\nFortify Strength<BR>\r\nRestore Fatigue<BR>\r\n<BR>\r\nThis potion is pricy to make, but gives warriors quite a kick. They will pay through the nose for it.<BR>\r\n<BR>\r\nLarge Kwama Egg<BR>\r\nAsh Yam<BR>\r\nSaltrice<BR>\r\nVampire Dust<BR>\r\n<BR>\r\n<BR>\r\nMix a large kwama egg and ash yam into a thick paste, then distill in a retort. Distill vampire dust separately in an alembic. When this process is complete, mix both together with crushed saltrice.<BR>\r\n<BR>\r\nSet the whole mixture to reduce in your calcinator. When the whole thing turns into a gray powder, distill it in the retort with water overnight. Once the potion turns clear, it's ready to drink.<BR>"
+data:
+  weight: 0.5
+  value: 75
+  book_type: Scroll
+  skill: None
+  enchantment: 20

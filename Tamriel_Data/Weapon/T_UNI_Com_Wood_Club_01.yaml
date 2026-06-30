@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_UNI_Com_Wood_Club_01
+name: Wooden Club
+script: ''
+mesh: tr\w\tr_w_wood_club.nif
+icon: tr\w\tr_w_wood_club.dds
+enchanting: T_Const_WoodenClubUNI
+data:
+  weight: 3.5
+  value: 1
+  weapon_type: BluntOneHand
+  health: 100
+  speed: 1.5
+  reach: 1.0
+  enchantment: 400
+  chop_min: 0
+  chop_max: 1
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

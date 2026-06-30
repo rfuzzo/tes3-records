@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: Act_BM_garden_plot_01
+name: Patch of Fertile Soil
+script: plantScript
+mesh: f\Act_BM_garden_plot_01.NIF

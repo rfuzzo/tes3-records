@@ -1,0 +1,25 @@
+type: Armor
+flags: ''
+id: T_Imp_Newtscale_Greaves_01
+name: Imperial Newtscale Greaves
+script: ''
+mesh: pc\a\PC_a_newt_greaves_GND.nif
+icon: pc\a\pc_a_newt_greaves.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Groin
+  male_bodypart: T_A_ImpNewtGreaves01_G
+  female_bodypart: ''
+- biped_object_type: LeftUpperLeg
+  male_bodypart: T_A_ImpNewtGreaves01_UL
+  female_bodypart: ''
+- biped_object_type: RightUpperLeg
+  male_bodypart: T_A_ImpNewtGreaves01_UL
+  female_bodypart: ''
+data:
+  armor_type: Greaves
+  weight: 6.0
+  value: 60
+  health: 150
+  enchantment: 100
+  armor_rating: 10

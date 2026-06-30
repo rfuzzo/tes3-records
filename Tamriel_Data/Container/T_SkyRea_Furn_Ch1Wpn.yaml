@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_SkyRea_Furn_Ch1Wpn
+name: Wicker Chest
+script: ''
+mesh: Sky\o\Sky_Cont_RM_Chest_01.nif
+encumbrance: 250.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - T_Sky_Random_WeaponReachmen

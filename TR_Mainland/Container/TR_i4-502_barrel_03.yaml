@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: TR_i4-502_barrel_03
+name: Barrel
+script: ''
+mesh: o\Contain_barrel_01.NIF
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 3
+  - misc_com_bottle_05
+- - 1
+  - misc_flask_02
+- - 2
+  - p_fortify_fatigue_b
+- - 1
+  - p_restore_magicka_c

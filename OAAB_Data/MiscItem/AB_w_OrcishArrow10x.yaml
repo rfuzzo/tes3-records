@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_w_OrcishArrow10x
+name: Orcish Arrow (10)
+script: AB_QuiverOrcish10x_s
+mesh: OAAB\w\quiver_orcish.nif
+icon: OAAB\w\tx_orcish_arrow.dds
+data:
+  weight: 1.0
+  value: 40
+  flags: ''

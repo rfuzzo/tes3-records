@@ -1,0 +1,27 @@
+type: Container
+flags: ''
+id: T_MwCom_Var_Cr1IndChevA
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_De_IndChevAram_Boots_01
+- - 1
+  - T_De_IndChevAram_BracerL_01
+- - 1
+  - T_De_IndChevAram_BracerR_01
+- - 1
+  - T_De_IndChevAram_Cuirass_01
+- - 1
+  - T_De_IndChevAram_Greaves_01
+- - 1
+  - T_De_IndChevAram_Helm_01
+- - 1
+  - T_De_IndChevAram_Helm_02
+- - 1
+  - T_De_IndChevAram_PauldrL_01
+- - 1
+  - T_De_IndChevAram_PauldrR_01

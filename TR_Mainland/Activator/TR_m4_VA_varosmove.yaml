@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_VA_varosmove
+name: Orlukh_VarosMove_acti
+script: TR_m4_VA_varosmove_scr
+mesh: EditorMarker.NIF

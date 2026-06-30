@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_NVA4_0_grassplane
+name: ''
+script: TR_m7_NVA_Stage4_0
+mesh: TR\x\tr_terr_at_grasspla_01.nif

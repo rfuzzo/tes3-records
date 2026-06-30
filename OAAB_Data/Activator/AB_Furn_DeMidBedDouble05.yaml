@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Furn_DeMidBedDouble05
+name: Bed
+script: Bed_Standard
+mesh: OAAB\u\de_rm_bed_d05.nif

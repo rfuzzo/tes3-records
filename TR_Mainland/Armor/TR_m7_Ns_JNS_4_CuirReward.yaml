@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: TR_m7_Ns_JNS_4_CuirReward
+name: Instigator's Cuirass
+script: ''
+mesh: tr\a\tr_a_kagouti_cuir_gnd.nif
+icon: tr\a\tr_a_kagouti_cuirass.dds
+enchanting: TR_m7_Ns_JNS_4_CuirEnch
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_A_DeKagoutiHideCuirass01_C
+  female_bodypart: T_A_DeKagoutiHideCuirass01_C_F
+data:
+  armor_type: Cuirass
+  weight: 8.0
+  value: 550
+  health: 400
+  enchantment: 150
+  armor_rating: 15

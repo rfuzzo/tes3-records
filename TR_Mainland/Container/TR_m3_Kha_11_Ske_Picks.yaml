@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: TR_m3_Kha_11_Ske_Picks
+name: Corpse
+script: ''
+mesh: o\contain_corpse20.NIF
+encumbrance: 120.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - ingred_bonemeal_01
+- - 1
+  - pick_master
+- - 1
+  - probe_journeyman_01

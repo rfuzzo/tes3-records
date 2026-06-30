@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Com_Cm_Ring_RestoreFortitude
+name: Ring of Restore Fortitude
+script: ''
+mesh: c\c_ring_common02.nif
+icon: c\tx_ring_common02.dds
+enchanting: T_Use_RestoreFortitude
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 150
+  enchantment: 100

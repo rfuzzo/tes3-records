@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m2_q_14_IronShortsword
+name: Syrinia's Iron Shortsword
+script: ''
+mesh: w\W_Iron_shortsword.nif
+icon: w\Tx_Iron_shortsword.tga
+enchanting: ''
+data:
+  weight: 8.0
+  value: 20
+  weapon_type: ShortBladeOneHand
+  health: 600
+  speed: 2.0
+  reach: 1.0
+  enchantment: 40
+  chop_min: 4
+  chop_max: 9
+  slash_min: 4
+  slash_max: 9
+  thrust_min: 7
+  thrust_max: 11
+  flags: ''

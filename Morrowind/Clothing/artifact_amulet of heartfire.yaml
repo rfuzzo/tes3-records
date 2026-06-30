@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: artifact_amulet of heartfire
+name: Amulet of Heartfire
+script: ''
+mesh: c\Artifact_amulet_hfire_01.NIF
+icon: c\Tx_amulet_hfire_01.tga
+enchanting: ward of odros
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 5.0
+  value: 20000
+  enchantment: 150

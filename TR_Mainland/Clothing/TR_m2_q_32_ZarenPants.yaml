@@ -1,0 +1,35 @@
+type: Clothing
+flags: ''
+id: TR_m2_q_32_ZarenPants
+name: Zaren's Expensive Pants
+script: ''
+mesh: c\C_M_Pants_expensive_2_GND.nif
+icon: c\Tx_pants_expensive_2.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: Groin
+  male_bodypart: c_m_pants_expensive_2_g
+  female_bodypart: ''
+- biped_object_type: RightAnkle
+  male_bodypart: c_m_pants_expensive_2_a
+  female_bodypart: ''
+- biped_object_type: LeftUpperLeg
+  male_bodypart: c_m_pants_expensive_2_ul
+  female_bodypart: ''
+- biped_object_type: RightUpperLeg
+  male_bodypart: c_m_pants_expensive_2_ul
+  female_bodypart: ''
+- biped_object_type: LeftKnee
+  male_bodypart: c_m_pants_expensive_2_k
+  female_bodypart: ''
+- biped_object_type: RightKnee
+  male_bodypart: c_m_pants_expensive_2_k
+  female_bodypart: ''
+- biped_object_type: LeftAnkle
+  male_bodypart: c_m_pants_expensive_2_a
+  female_bodypart: ''
+data:
+  clothing_type: Pants
+  weight: 2.0
+  value: 50
+  enchantment: 75

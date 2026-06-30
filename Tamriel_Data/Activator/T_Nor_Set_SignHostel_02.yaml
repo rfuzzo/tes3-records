@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Nor_Set_SignHostel_02
+name: Hostel
+script: T_ScObj_WeatherAnimSHOTN
+mesh: sky\f\sky_act_sign_host_02.nif

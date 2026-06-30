@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_ReaverSongsSHOTN_v1
+name: Songs of the Reaver Clans, vI
+script: ''
+mesh: Sky\m\Sky_Book_Basic_08.nif
+icon: Sky\m\Tx_Book_Basic_08.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nSongs of the Ghost Sea Reaver Clans<BR>\r\nCompiled by Johannes Silvanus,<BR>\r\nChairman of the Committee for the Transposition of Indigenous Oral Traditions, Imperial University<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nVolume One<BR>\r\n<BR>\r\nIntroduction <BR>\r\nThese volumes are intended to serve as a record of the song-myths particular to the Nordic reaving clans of the Sea of Ghosts. I have devoted much of my scholastic life to studying and cohabitating with these groups, who although literate do not devote much time to recording their own traditions. It is my hope that through these works, I will be able to disabuse the popular conception of these groups as savage raiders worthy only of extermination.<BR>\r\n<BR>\r\n[Note from the author: This first song concerns the very first arrival of the gods in their new home, and is typical of the style. I have tried to retain the use of alliteration and repetition, which allows the skalds and rememberers to retain the same flow and wording between tellings. The strange metre and lack of rhyme, although harsh to more \"civilised\" ears, is consistent with the song's original form.] <BR>\r\n<BR>\r\n'Fore the proud world-hall was filled with gods and men<BR>\r\nThere was but the crashing surf and sturdy rocks<BR>\r\nThe empty sea above and the extant land of 'neath<BR>\r\nAnd e'er did they clash, as e'er they will, those two<BR>\r\n<BR>\r\nIt was to that battleground that staunch Shor<BR>\r\nFather to all that is worthy<BR>\r\nDid sail downwards, following the plumb line<BR>\r\nOf clever Jhunal, clever-man of gods<BR>\r\n<BR>\r\nAnd as the keel of Sovngarde beached on that sideways shore<BR>\r\nWhere the hot waves of never-above<BR>\r\nBreak on the frigid capes of always-below<BR>\r\nStaunch Shor leapt from the prow and shouted:<BR>\r\n<BR>\r\n\"This place, somewhat-up and almost-down,<BR>\r\nThis seething shore of possibilities<BR>\r\nThis will be known to us as Sky<BR>\r\nThe posts of our hall shall enter it lovingly\"<BR>\r\n<BR>\r\nAll his clan did love staunch Shor<BR>\r\nAnd at his crafty words they followed<BR>\r\nFirst crazed Kyne, War-Wife and warrior<BR>\r\nLeapt screaming into Sky's shined surf<BR>\r\n<BR>\r\nNext the Shield-Thanes, Stuhn and Tsun<BR>\r\nTwins to test Men, came ashore<BR>\r\nFollow'd Dibella, lustful Bed-Wife<BR>\r\n[Frigging?] and teaching the children-to-come<BR>\r\n<BR>\r\nAnd mournful Mara, Brood-Wife to Shor<BR>\r\nDescended determined and dour<BR>\r\nLastly clever Jhunal, wide-eyed and wise<BR>\r\nCame scratching his runes that are yet to be found<BR>\r\n<BR>"
+data:
+  weight: 3.0
+  value: 60
+  book_type: Book
+  skill: None
+  enchantment: 0

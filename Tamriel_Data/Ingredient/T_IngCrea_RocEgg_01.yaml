@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_RocEgg_01
+name: Roc Egg
+script: ''
+mesh: pi\n\pi_ing_rocegg.nif
+icon: pi\n\pi_ing_rocegg.dds
+data:
+  weight: 25.0
+  value: 800
+  effects:
+  - Burden
+  - FortifyMagicka
+  - SpellAbsorption
+  - Shield
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

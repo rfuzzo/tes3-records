@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_Arvud_Banner_Trader
+name: 'Hlavora Tilvur: Trader'
+script: OutsideBanner
+mesh: f\Furn_bannerD_goods_01.NIF

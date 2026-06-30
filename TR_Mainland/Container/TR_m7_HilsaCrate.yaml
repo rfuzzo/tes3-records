@@ -1,0 +1,41 @@
+type: Container
+flags: ''
+id: TR_m7_HilsaCrate
+name: Crate
+script: ''
+mesh: TR\o\TR_cont_crate_L_01.nif
+encumbrance: 400.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Com_Adamant_Staff_01
+- - 1
+  - T_Com_Iron_Morningstar_01
+- - 1
+  - T_Com_Iron_Staff_01
+- - 1
+  - T_Com_Silver_Morningstar
+- - -5
+  - T_Mw_Random_WeaponsSteel
+- - 1
+  - T_Nor_Ringmail_Boots_02
+- - 1
+  - T_Nor_Ringmail_Greaves_02
+- - -5
+  - repair_journeyman_01
+- - -5
+  - repair_prongs
+- - 1
+  - silver staff
+- - 1
+  - steel staff
+- - 1
+  - steel staff of peace
+- - 1
+  - steel staff of war
+- - 1
+  - wooden staff
+- - 1
+  - wooden staff of peace
+- - 1
+  - wooden staff of war

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_De_Ebony_Naginata_01
+name: Ebony Naginata
+script: ''
+mesh: tr\w\tr_w_ebony_naginata.nif
+icon: tr\w\tr_w_ebony_naginata.dds
+enchanting: ''
+data:
+  weight: 29.0
+  value: 12000
+  weapon_type: SpearTwoWide
+  health: 1450
+  speed: 1.3
+  reach: 1.8
+  enchantment: 110
+  chop_min: 2
+  chop_max: 8
+  slash_min: 1
+  slash_max: 11
+  thrust_min: 5
+  thrust_max: 32
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

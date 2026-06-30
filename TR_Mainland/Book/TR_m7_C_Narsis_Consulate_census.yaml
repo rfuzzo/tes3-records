@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_C_Narsis_Consulate_census
+name: Narsis Census 3E 425-427
+script: ''
+mesh: m\Text_Octavo_open_03.nif
+icon: m\Tx_octavo_open_03.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n[This record contains a long list of births, deaths, marriages, and migrations in the city of Narsis, going back two years. Many of the entries have amusing observations about the individuals in question scrawled in the margins.]<BR>"
+data:
+  weight: 3.0
+  value: 200
+  book_type: Book
+  skill: None
+  enchantment: 0

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4-114_LandDeed
+name: Land Deed
+script: ''
+mesh: m\Text_paper_roll_01.nif
+icon: m\Tx_paper_roll_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This is the deed to a property in Bal Foyen. It bears the seals of the buyer, seller and city steward.]<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

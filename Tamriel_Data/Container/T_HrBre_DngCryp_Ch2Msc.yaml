@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: T_HrBre_DngCryp_Ch2Msc
+name: Small Chest
+script: ''
+mesh: hr\o\hr_crypt_smchest_01.nif
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Hr_Random_LootCrypt
+- - 10
+  - random gold
+- - 1
+  - random gold_lev_05

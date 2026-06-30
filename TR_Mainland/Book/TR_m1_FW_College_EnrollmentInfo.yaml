@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_FW_College_EnrollmentInfo
+name: Tuition and Fees
+script: ''
+mesh: m\text_parchment_01.nif
+icon: m\tx_parchment_01.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>Tuition and Fees<BR> <BR><DIV ALIGN=\"Left\">\r\nThe College of Firewatch offers a multi-disciplinary selection of courses, each taught by an esteemed scholar in the field.<BR>\r\nCourses for the year 427-28:\r\n<BR>\r\nPrinciples of  Alchemy - Professor Tedyne Llarom (Mages Guild discount available)<BR>\r\nArchaeological Methods - Professor Odunia Hare<BR>\r\nGeography of the Eastern Provinces - Professor Sergius Antellius<BR>\r\nInnovations in Magecraft - Professor Absolon (Mages Guild discount available)<BR>\r\nModern Morrowind History - Headmaster Jeanette Sitte<BR>\r\nPhilosophies of Dark Elven Thought - Professor Adrieldan<BR>\r\nRhetoric and Oratorical Style - Professor Walks-Through-Shadow<BR>\r\n<BR>\r\nTuition for each course: 1500 Septims\r\n<BR>\r\n(with Mages Guild discount: 1000 Septims)\r\n<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: Act_BM_stone_earth_01
+name: Earth Stone
+script: stoneEarthScript
+mesh: f\Act_BM_stone_earth_01.NIF

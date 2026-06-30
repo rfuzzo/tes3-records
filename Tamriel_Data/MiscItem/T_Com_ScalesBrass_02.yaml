@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_ScalesBrass_02
+name: Brass Scales
+script: ''
+mesh: tr\m\tr_misc_com_scales_04.nif
+icon: tr\m\tr_misc_com_scales_04.dds
+data:
+  weight: 3.0
+  value: 25
+  flags: ''

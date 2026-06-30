@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: active_BM_skaaltrack3
+name: ''
+script: ''
+mesh: EditorMarker.nif

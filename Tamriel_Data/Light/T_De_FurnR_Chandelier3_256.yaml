@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_De_FurnR_Chandelier3_256
+name: ''
+script: ''
+mesh: tr\l\tr_l_chandelier_sml_2.nif
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 256
+  color:
+  - 245
+  - 140
+  - 40
+  - 0
+  flags: DYNAMIC | FIRE | FLICKER_SLOW

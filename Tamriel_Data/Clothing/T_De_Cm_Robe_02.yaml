@@ -1,0 +1,23 @@
+type: Clothing
+flags: ''
+id: T_De_Cm_Robe_02
+name: Common Robe
+script: ''
+mesh: TR\c\tr_pb_robe_com_01_gnd.nif
+icon: TR\c\tr_pb_robe_com_01.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_C_DeCmRobe02_C
+  female_bodypart: ''
+- biped_object_type: LeftAnkle
+  male_bodypart: ''
+  female_bodypart: ''
+- biped_object_type: RightAnkle
+  male_bodypart: ''
+  female_bodypart: ''
+data:
+  clothing_type: Robe
+  weight: 3.0
+  value: 20
+  enchantment: 50

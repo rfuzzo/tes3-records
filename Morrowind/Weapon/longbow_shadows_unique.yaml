@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: longbow_shadows_unique
+name: Bow of Shadows
+script: ''
+mesh: w\w_art_longbow_shade.NIF
+icon: w\W_longbow_shadows.tga
+enchanting: dram's will
+data:
+  weight: 10.0
+  value: 42000
+  weapon_type: MarksmanBow
+  health: 3000
+  speed: 1.0
+  reach: 1.0
+  enchantment: 600
+  chop_min: 4
+  chop_max: 40
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

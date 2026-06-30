@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_AA_Burial_1_Barrier
+name: Barrier
+script: TR_m4_AA_Burial_1_Barrier_Sc
+mesh: f\active_mh_forcefield.nif

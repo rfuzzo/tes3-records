@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: TR_m7_q_HH_SeventhFam_Message2
+name: Replacement Message
+script: ''
+mesh: m\Text_paper_roll_01.nif
+icon: m\Tx_paper_roll_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nReplacement Message\r\nDearest Jevale,\r\n<BR>\r\nThis season's comberry crop is looking splendid. Perhaps the abundance will fill our coffers. Or perhaps it will depress prices. Or perhaps outlanders will come to their senses and choose shein over western wines. That would certainly be a boon to us.\r\n<BR>\r\nSend my best wishes to Grandmaster Athires.\r\n<BR>\r\nRegards, F.\r\n<BR>\r\n"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: AB_o_ComMidCoffinLoot
+name: Coffin
+script: ''
+mesh: OAAB\o\comMidCoffin.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - AB_lvl_BonesAll
+- - 3
+  - AB_lvl_CorpseLoot
+- - 3
+  - AB_lvl_LootSpecial

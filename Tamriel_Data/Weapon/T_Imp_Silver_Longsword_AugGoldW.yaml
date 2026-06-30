@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Imp_Silver_Longsword_AugGoldW
+name: Longsword of Gold Wisdom
+script: ''
+mesh: w\W_Longsword_Silver.nif
+icon: w\Tx_Silver_longsword.tga
+enchanting: T_Use_AugGoldenWisdom
+data:
+  weight: 16.0
+  value: 220
+  weapon_type: LongBladeOneHand
+  health: 640
+  speed: 1.35
+  reach: 1.0
+  enchantment: 48
+  chop_min: 2
+  chop_max: 14
+  slash_min: 1
+  slash_max: 20
+  thrust_min: 4
+  thrust_max: 18
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE | SILVER

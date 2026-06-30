@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Sc_AwakenTR
+name: Awaken
+script: ''
+mesh: m\Text_Scroll_01.nif
+icon: m\Tx_scroll_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nAwaken<BR>\r\n<BR>\r\n<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\">\r\nA light was shone,<BR>\r\nFrom mine to throne<BR>\r\nAnd alas, can hearts be stone?<BR><BR>\r\nTwas sent a word,<BR>\r\nThe call was heard<BR>\r\nBut not a single soul was stirred.<BR><BR>\r\nThe word was told,<BR>\r\nThrough the lands of cold<BR>\r\nBut nary a man was bold.<BR>\r\nThe rumors were spread<BR>\r\nAnd charters were read<BR>\r\nAnd all who supported them were dead.<BR><BR>\r\nBut in the dark,<BR>\r\nYoung reader, hark!<BR>\r\nWisdom now is lit with a spark.<BR><BR>\r\nWhen you find the flame<BR>\r\n'Tis the Dres to blame.<BR>\r\nIs all this life a game?<BR>"
+data:
+  weight: 1.0999999
+  value: 15
+  book_type: Scroll
+  skill: None
+  enchantment: 0

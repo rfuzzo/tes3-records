@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Sky_Mine_OreREQuiks01
+name: Raw Quicksilver Ore
+script: ''
+mesh: sky\o\sky_cont_rock_qslv_01.nif
+encumbrance: 0.0
+container_flags: ORGANIC | IS_BASE
+inventory:
+- - 2
+  - T_Sky_Random_OreQuicksilver

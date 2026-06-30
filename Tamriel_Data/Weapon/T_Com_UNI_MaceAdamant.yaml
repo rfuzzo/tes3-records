@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Com_UNI_MaceAdamant
+name: Mace of the Adamant
+script: ''
+mesh: w\W_Adamantium_Mace.NIF
+icon: w\Tx_w_Adtium_Mace.dds
+enchanting: T_Use_MaceAdamant
+data:
+  weight: 23.0
+  value: 12000
+  weapon_type: BluntOneHand
+  health: 2800
+  speed: 1.0
+  reach: 1.0
+  enchantment: 225
+  chop_min: 5
+  chop_max: 20
+  slash_min: 5
+  slash_max: 20
+  thrust_min: 1
+  thrust_max: 5
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

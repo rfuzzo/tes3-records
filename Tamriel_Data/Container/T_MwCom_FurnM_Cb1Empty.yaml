@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: T_MwCom_FurnM_Cb1Empty
+name: Cabinet
+script: ''
+mesh: f\furn_cabinet10.nif
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory: []

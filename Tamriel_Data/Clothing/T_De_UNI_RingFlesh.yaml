@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_De_UNI_RingFlesh
+name: Ring of Flesh
+script: ''
+mesh: tr\c\tr_c_ring_flesh.nif
+icon: tr\c\tr_c_ring_flesh.dds
+enchanting: T_Use_RingFlesh
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 8000
+  enchantment: 375

@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Sky_Flora_Ironwood03
+name: Ironwood Tree
+script: ''
+mesh: sky\o\Sky_Flora_Ironwood_03.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - T_Sky_Random_FlorIronwoodNut

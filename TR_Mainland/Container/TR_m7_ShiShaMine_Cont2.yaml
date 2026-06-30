@@ -1,0 +1,23 @@
+type: Container
+flags: PERSISTENT
+id: TR_m7_ShiShaMine_Cont2
+name: Barrel
+script: ''
+mesh: o\Contain_barrel_01.NIF
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - ingred_ash_yam_01
+- - 1
+  - ingred_heather_01
+- - 1
+  - ingred_kresh_fiber_01
+- - 1
+  - ingred_marshmerrow_01
+- - 4
+  - ingred_moon_sugar_01
+- - 1
+  - ingred_saltrice_01
+- - 1
+  - ingred_wickwheat_01

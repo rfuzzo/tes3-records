@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Qy_Bronze_Staff_01
+name: Quey Bronze Staff
+script: ''
+mesh: pi\w\pi_w_bronze_staff.nif
+icon: pi\w\pi_w_bronze_staff.dds
+enchanting: ''
+data:
+  weight: 14.0
+  value: 410
+  weapon_type: BluntTwoWide
+  health: 300
+  speed: 1.75
+  reach: 1.7
+  enchantment: 164
+  chop_min: 2
+  chop_max: 7
+  slash_min: 3
+  slash_max: 9
+  thrust_min: 1
+  thrust_max: 5
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

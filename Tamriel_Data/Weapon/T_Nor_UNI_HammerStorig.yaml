@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Nor_UNI_HammerStorig
+name: Hammer of Lord Storig
+script: ''
+mesh: tr\w\tr_w_whamm_Stirg.nif
+icon: tr\w\tr_whamm_Stirg.dds
+enchanting: T_Const_HammerStorig_UNI
+data:
+  weight: 40.0
+  value: 18000
+  weapon_type: BluntTwoClose
+  health: 2400
+  speed: 1.0
+  reach: 1.0
+  enchantment: 100
+  chop_min: 1
+  chop_max: 50
+  slash_min: 1
+  slash_max: 25
+  thrust_min: 1
+  thrust_max: 20
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_He_Var_PaperLantern01_128
+name: Paper Lantern
+script: ''
+mesh: sum\l\sum_l_lntrn_paper_01.nif
+icon: sum\l\sum_l_lntrn_paper_01.dds
+sound: ''
+data:
+  weight: 3.0
+  value: 10
+  time: 150
+  radius: 128
+  color:
+  - 245
+  - 140
+  - 40
+  - 0
+  flags: DYNAMIC | CAN_CARRY | FIRE

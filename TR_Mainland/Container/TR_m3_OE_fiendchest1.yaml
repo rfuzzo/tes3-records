@@ -1,0 +1,11 @@
+type: Container
+flags: PERSISTENT
+id: TR_m3_OE_fiendchest1
+name: Ancient Small Chest
+script: TR_m3_OE_fiendchest_scr1
+mesh: o\Contain_chest_small_01.NIF
+encumbrance: 25.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - TR_m3_OE_fiendgem

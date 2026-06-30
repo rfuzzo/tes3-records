@@ -1,0 +1,14 @@
+type: Clothing
+flags: PERSISTENT
+id: TR_m4_q_Olthan_Ring
+name: Olthan Family Ring
+script: ''
+mesh: c\C_Ring_expensive_3.NIF
+icon: c\tx_ring_expensive03.tga
+enchanting: sanctuary_en
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 200
+  enchantment: 150

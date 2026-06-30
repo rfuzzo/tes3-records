@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_MwDe_Furn_U3IngVel
+name: Urn
+script: ''
+mesh: o\Contain_urn_03.NIF
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - 4
+  - T_Mw_Random_IngredientVelothis

@@ -1,0 +1,31 @@
+type: Armor
+flags: ''
+id: T_Com_Steel_Greaves_StampToad
+name: Greaves of Stamp of the Toad
+script: ''
+mesh: a\A_Steel_Greaves_GND.nif
+icon: a\TX_Steel_greaves.tga
+enchanting: T_Use_StampToad
+biped_objects:
+- biped_object_type: Groin
+  male_bodypart: a_steel_greaves_g
+  female_bodypart: ''
+- biped_object_type: LeftUpperLeg
+  male_bodypart: a_steel_greaves_ul
+  female_bodypart: ''
+- biped_object_type: RightUpperLeg
+  male_bodypart: a_steel_greaves_ul
+  female_bodypart: ''
+- biped_object_type: LeftKnee
+  male_bodypart: a_steel_greaves_k
+  female_bodypart: ''
+- biped_object_type: RightKnee
+  male_bodypart: a_steel_greaves_k
+  female_bodypart: ''
+data:
+  armor_type: Greaves
+  weight: 18.0
+  value: 550
+  health: 150
+  enchantment: 25
+  armor_rating: 15

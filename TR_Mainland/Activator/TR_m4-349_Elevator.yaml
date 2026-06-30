@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m4-349_Elevator
+name: ''
+script: TR_m4-349_ElevatorMain_Sc
+mesh: tr\f\tr_furn_dwrv_brrl_lid.nif

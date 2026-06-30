@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: TR_m4_AndoG_chest2
+name: Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 4
+  - T_Com_MetalPieceGold_01
+- - 3
+  - T_Com_MetalPieceSilver_01

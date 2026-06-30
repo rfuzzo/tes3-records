@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_EnSc_Dae_Candles
+name: Scroll of Candles
+script: ''
+mesh: m\text_scroll_01.nif
+icon: m\tx_scroll_open_01.tga
+enchanting: T_Once_DaeCandles
+text: <DIV ALIGN="center"><FONT COLOR="DA3D2A" SIZE="2" FACE="Daedric">CANDLE, BURN AT BOTH ENDS</FONT><BR>
+data:
+  weight: 0.2
+  value: 166
+  book_type: Scroll
+  skill: None
+  enchantment: 0

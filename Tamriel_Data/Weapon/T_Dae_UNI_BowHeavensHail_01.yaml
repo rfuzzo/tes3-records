@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Dae_UNI_BowHeavensHail_01
+name: Bow of Heaven's Hail
+script: ''
+mesh: tr\w\tr_w_heavens_hail.nif
+icon: tr\w\tr_w_heavenshail.dds
+enchanting: T_Const_HeavensHail
+data:
+  weight: 12.0
+  value: 75000
+  weapon_type: MarksmanBow
+  health: 640
+  speed: 1.0
+  reach: 1.0
+  enchantment: 0
+  chop_min: 2
+  chop_max: 35
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

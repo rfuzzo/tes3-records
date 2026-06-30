@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: AB_r_SfishSmallLay
+name: Small Slaughterfish
+script: ''
+mesh: OAAB\o\sfishSmallLay.nif
+encumbrance: 0.0
+container_flags: ORGANIC | IS_BASE
+inventory:
+- - 1
+  - AB_lvl_IngCreaSlaughterfish

@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_De_UNI_PenitentRing
+name: Penitent's Ring
+script: ''
+mesh: TR\c\tr_penitentring.nif
+icon: TR\c\tr_c_penitentring.dds
+enchanting: T_Use_PenitentRing
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 260
+  enchantment: 100

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_BkFaction_ImperialLegionSHOTN
+name: Ordo Legionis
+script: ''
+mesh: Sky\m\Sky_Book_Basic_09.nif
+icon: Sky\m\Tx_Book_Basic_09.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nOrdo Legionis<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>The most disciplined and effective military force in history, the Imperial Legions preserve and enforce order and rule of law all over Tamriel. Being the iron fist of Empire and Emperor, the Legions fight wherever crime and barbarism rise against lawful rule. Every capable man or woman who wishes to learn in the art of warfare is welcome to join our ranks.<BR>\r\n<BR>\r\nYou will find numerous legion garrisons all over Skyrim. In the western holds Fort Tiber and Taurus Hall guard over the political balance of the Reach. Fort Neugrad in Falkreath is a preferable site for those seeking enlistment in the Legion.<BR>\r\n<BR>\r\nFurther east you will find facilities of recruitment at Fort Greenwall in the Rift. Fort Kastav in Winterhold and Fort Mistwatch in Eastmarch are at full complement. A garrison stationed in Whiterun, containing among the best-trained units of the province, supports the native Nord troops in defense of the city. Only experienced legionnaires should consider applying for these garrisons.<BR>\r\n<BR>\r\nThe Legion selects candidates on the basis of superior endurance, the soldierly virtue, and trustworthy personality, the citizen's virtue, for service in the Legion is the model for the duties of Imperial citizenship. Troopers are expected to demonstrate mastery of the long blade, the spear, and blunt weapons. Legion troops train with shield and heavy armor, and so must be skilled at blocking and moving in heavy armor.<BR>\r\n<BR>\r\nAs a trooper or knight, you must master the long blade, spear, and blunt weapons. You must block whatever blows you can, and take unblocked blows upon your heavy armor. Recruit must also be proficient at athletics, both to march long distances with heavy packs, and to advance and maneuver, charge and retreat on the field of battle.\r\n<BR>\r\n"
+data:
+  weight: 3.0
+  value: 30
+  book_type: Book
+  skill: None
+  enchantment: 0

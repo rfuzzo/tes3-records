@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Nor_Orn_Bolt_01
+name: Nordic Bolt
+script: ''
+mesh: tr\w\tr_w_nordic_bolt.nif
+icon: tr\w\tr_w_nordic_bolt.dds
+enchanting: ''
+data:
+  weight: 0.1
+  value: 4
+  weapon_type: Bolt
+  health: 10
+  speed: 1.0
+  reach: 1.0
+  enchantment: 10
+  chop_min: 4
+  chop_max: 4
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: ''

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Rga_Yoku_Lsword_01
+name: Yoku Longsword
+script: ''
+mesh: pc\w\pc_rga_yoku_lsword.nif
+icon: pc\w\pc_rga_yoku_lsword.dds
+enchanting: ''
+data:
+  weight: 16.0
+  value: 155
+  weapon_type: LongBladeOneHand
+  health: 900
+  speed: 1.6
+  reach: 1.0
+  enchantment: 65
+  chop_min: 5
+  chop_max: 14
+  slash_min: 6
+  slash_max: 20
+  thrust_min: 4
+  thrust_max: 8
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE | SILVER

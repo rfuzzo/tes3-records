@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_research_i3-626
+name: Notes of Narvs Sodryth
+script: ''
+mesh: m\Text_Scroll_01.NIF
+icon: m\Tx_scroll_open_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[The scroll is filled with magickal forms and cryptic illustrations.]<BR>\r\n"
+data:
+  weight: 1.2
+  value: 10
+  book_type: Scroll
+  skill: None
+  enchantment: 400

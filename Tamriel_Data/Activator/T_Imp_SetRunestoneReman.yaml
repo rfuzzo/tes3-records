@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_SetRunestoneReman
+name: Reman Runestone
+script: T_ScObj_RuneReman
+mesh: pc\f\pc_rnstn_reman.nif

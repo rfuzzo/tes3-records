@@ -1,0 +1,20 @@
+type: Alchemy
+flags: ''
+id: p_frost_resistance_c
+name: Cheap Frost Resistance
+script: ''
+mesh: m\Misc_Potion_Cheap_01.nif
+icon: m\Tx_potion_cheap_01.tga
+effects:
+- magic_effect: ResistFrost
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 15
+  min_magnitude: 8
+  max_magnitude: 8
+data:
+  weight: 1.0
+  value: 15
+  flags: ''

@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: dwemer_bracer_left
+name: Dwemer Left Bracer
+script: ''
+mesh: a\A_Dwemer_Bracer_W.nif
+icon: a\TX_Dwemer_bracer.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: LeftWrist
+  male_bodypart: a_dwemer_bracer_w
+  female_bodypart: ''
+data:
+  armor_type: LeftBracer
+  weight: 5.0
+  value: 150
+  health: 100
+  enchantment: 200
+  armor_rating: 20

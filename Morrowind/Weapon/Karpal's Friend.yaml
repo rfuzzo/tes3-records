@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: Karpal's Friend
+name: Karpal's Friend
+script: ''
+mesh: w\W_Chitin_Axe.nif
+icon: w\Tx_chitin_warAxe.tga
+enchanting: bonesore_en
+data:
+  weight: 16.0
+  value: 190
+  weapon_type: AxeOneHand
+  health: 640
+  speed: 1.25
+  reach: 1.0
+  enchantment: 25
+  chop_min: 1
+  chop_max: 15
+  slash_min: 1
+  slash_max: 8
+  thrust_min: 1
+  thrust_max: 6
+  flags: ''

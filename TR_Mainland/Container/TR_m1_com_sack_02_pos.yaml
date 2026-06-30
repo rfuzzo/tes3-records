@@ -1,0 +1,25 @@
+type: Container
+flags: ''
+id: TR_m1_com_sack_02_pos
+name: Sack
+script: ''
+mesh: o\Contain_Com_Sack_02.NIF
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Mw_Random_Ingredient
+- - 5
+  - T_Mw_Random_Pos
+- - 1
+  - T_Mw_Random_WeaponsDunmer
+- - 1
+  - random gold
+- - 3
+  - random gold_lev_05
+- - 9
+  - random gold_lev_10
+- - 27
+  - random gold_lev_15
+- - 81
+  - random gold_lev_20

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Dae_UNI_FlaskLillandril
+name: Flask of Lillandril
+script: T_ScObj_FlaskLillandril
+mesh: TR\m\tr_flask_lillandril.nif
+icon: TR\m\tr_flask_lillandril.dds
+data:
+  weight: 5.0
+  value: 50000
+  flags: ''

@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m4-445_vase_hackl
+name: Vase
+script: ''
+mesh: TR\o\TR_cont_de_vase_04.nif
+encumbrance: 10.0
+container_flags: IS_BASE
+inventory:
+- - 20
+  - random_hackle-lo_leaf

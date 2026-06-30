@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: merisan club
+name: Merisan Club
+script: ''
+mesh: w\W_Dreugh_club.NIF
+icon: w\tx_dreugh_club.tga
+enchanting: rest of st. merris_en
+data:
+  weight: 10.8
+  value: 900
+  weapon_type: BluntOneHand
+  health: 400
+  speed: 1.5
+  reach: 1.0
+  enchantment: 36
+  chop_min: 7
+  chop_max: 8
+  slash_min: 3
+  slash_max: 5
+  thrust_min: 1
+  thrust_max: 5
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

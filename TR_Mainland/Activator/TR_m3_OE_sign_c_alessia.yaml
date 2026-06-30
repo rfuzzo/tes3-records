@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_OE_sign_c_alessia
+name: The Mother Alessia
+script: SignRotate
+mesh: tr\f\tr_act_sign_c_baker_04.nif

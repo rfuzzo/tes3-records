@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_OE_patrol_cutterboat
+name: ''
+script: TR_m3_OE_HauntPatrol
+mesh: pc\x\pc_ex_cutter_rowboat.nif

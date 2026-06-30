@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Bre_ClayJug_01
+name: Clay Jug
+script: ''
+mesh: hr\m\hr_misc_clay_jug.nif
+icon: hr\m\hr_misc_clay_jug.dds
+data:
+  weight: 2.0
+  value: 2
+  flags: ''

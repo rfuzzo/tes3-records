@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m7_q_BrothersLove_ch
+name: Chest
+script: ''
+mesh: TR\o\TR_furn_De_Rm_Chest.NIF
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - TR_m7_q_BrothersLove_letter

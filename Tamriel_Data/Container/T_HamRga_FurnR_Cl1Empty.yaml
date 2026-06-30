@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: T_HamRga_FurnR_Cl1Empty
+name: Closet
+script: ''
+mesh: hf\f\hf_furn_rga_r_Wdrob1.nif
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory: []

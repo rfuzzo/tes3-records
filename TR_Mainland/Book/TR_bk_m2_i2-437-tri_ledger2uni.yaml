@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_bk_m2_i2-437-tri_ledger2uni
+name: Necrom Temple Financial Summary
+script: ''
+mesh: m\Text_Folio_04.nif
+icon: m\Tx_folio_04.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR><BR>\r\n[This book is the complete account on the annual income and expenses of the Temple in Necrom. The first entries are several centuries old.]<BR>"
+data:
+  weight: 2.0
+  value: 50
+  book_type: Book
+  skill: None
+  enchantment: 0

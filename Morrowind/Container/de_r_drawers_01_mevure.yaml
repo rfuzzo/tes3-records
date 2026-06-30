@@ -1,0 +1,23 @@
+type: Container
+flags: ''
+id: de_r_drawers_01_mevure
+name: Chest of Drawers
+script: ''
+mesh: o\Contain_De_Drawers_01.NIF
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - common_robe_01
+- - 2
+  - common_robe_02
+- - 1
+  - expensive_robe_01
+- - 1
+  - expensive_robe_02
+- - 2
+  - common_belt_01
+- - 2
+  - common_belt_02
+- - 2
+  - random_common_de_mclothes_01

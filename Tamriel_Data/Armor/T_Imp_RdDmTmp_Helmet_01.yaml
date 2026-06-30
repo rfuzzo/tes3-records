@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Imp_RdDmTmp_Helmet_01
+name: Red Dome Templar Helmet
+script: ''
+mesh: tr\a\tr_a_rdtemp_helmet.nif
+icon: tr\a\tr_a_RDTmp_helmet.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: Hair
+  male_bodypart: T_A_RdDmTmpHelmet01_H
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 5.0
+  value: 75
+  health: 180
+  enchantment: 250
+  armor_rating: 18

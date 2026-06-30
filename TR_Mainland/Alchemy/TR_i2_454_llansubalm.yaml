@@ -1,0 +1,20 @@
+type: Alchemy
+flags: ''
+id: TR_i2_454_llansubalm
+name: Llansu Balm
+script: ''
+mesh: m\Misc_Redware_Flask.nif
+icon: m\misc_redware_flask.dds
+effects:
+- magic_effect: RestoreFatigue
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 150
+  min_magnitude: 5
+  max_magnitude: 5
+data:
+  weight: 1.0
+  value: 50
+  flags: ''

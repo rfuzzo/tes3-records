@@ -1,0 +1,23 @@
+type: Container
+flags: ''
+id: com_chest_02_mg_supply
+name: Mages' Guild Supply Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 300.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - sc_almsiviintervention
+- - 1
+  - sc_divineintervention
+- - 3
+  - sc_daydenespanacea
+- - 2
+  - random_book_wizard_all
+- - 10
+  - p_restore_magicka_s
+- - 5
+  - p_fortify_willpower_s
+- - 3
+  - Misc_SoulGem_Lesser

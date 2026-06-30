@@ -1,0 +1,31 @@
+type: Armor
+flags: ''
+id: AB_a_DreughGreaves
+name: Dreugh Greaves
+script: ''
+mesh: OAAB\a\dreugh_grv_gnd.nif
+icon: OAAB\a\dreugh_greaves.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: Groin
+  male_bodypart: AB_a_Dreugh_gr
+  female_bodypart: ''
+- biped_object_type: LeftUpperLeg
+  male_bodypart: AB_a_Dreugh_ul
+  female_bodypart: ''
+- biped_object_type: RightUpperLeg
+  male_bodypart: AB_a_Dreugh_ul
+  female_bodypart: ''
+- biped_object_type: LeftKnee
+  male_bodypart: AB_a_Dreugh_kn
+  female_bodypart: ''
+- biped_object_type: RightKnee
+  male_bodypart: AB_a_Dreugh_kn
+  female_bodypart: ''
+data:
+  armor_type: Greaves
+  weight: 13.5
+  value: 3300
+  health: 375
+  enchantment: 30
+  armor_rating: 40

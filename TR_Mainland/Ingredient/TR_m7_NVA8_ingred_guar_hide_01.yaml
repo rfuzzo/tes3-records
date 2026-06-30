@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: TR_m7_NVA8_ingred_guar_hide_01
+name: Guar Hide
+script: TR_m7_NVA_Stage8_Persist
+mesh: n\Ingred_Guar_Hide_01.nif
+icon: n\Tx_guarhide_01.tga
+data:
+  weight: 1.0
+  value: 5
+  effects:
+  - DrainFatigue
+  - FortifyAttribute
+  - RestoreAttribute
+  - FortifyAttribute
+  skills:
+  - None
+  - Block
+  - Block
+  - Block
+  attributes:
+  - None
+  - Endurance
+  - Personality
+  - Luck

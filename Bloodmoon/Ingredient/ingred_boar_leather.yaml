@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_boar_leather
+name: Bristleback Leather
+script: ''
+mesh: m\BoarLeather.NIF
+icon: m\Tx_BoarLeather.dds
+data:
+  weight: 1.0
+  value: 2
+  effects:
+  - Blind
+  - FrostDamage
+  - ResistFrost
+  - Recall
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

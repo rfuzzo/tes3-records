@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_OE_TG_SaltyBottle02
+name: ''
+script: TR_m3_OE_TG_PoisonWineScript
+mesh: tr\m\tr_misc_bottlet_b01.nif

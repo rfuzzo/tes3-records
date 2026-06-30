@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m2_q_TTShrine1
+name: Boethian Falls Shrine
+script: TR_m2_q_TTShrine1_Script
+mesh: TR\f\tr_shrine_almalexia.nif

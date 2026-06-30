@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: BM nordic silver longsword_cft
+name: Clanbringer
+script: thirskdudes
+mesh: w\W_Nord_longsword.NIF
+icon: w\Nord_longsword.dds
+enchanting: chieftainblade_en
+data:
+  weight: 20.0
+  value: 1000
+  weapon_type: LongBladeOneHand
+  health: 800
+  speed: 1.35
+  reach: 1.0
+  enchantment: 80
+  chop_min: 2
+  chop_max: 20
+  slash_min: 6
+  slash_max: 17
+  thrust_min: 6
+  thrust_max: 17
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE | SILVER

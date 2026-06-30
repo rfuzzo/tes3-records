@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: light_dwrv_neonbroke00
+name: ''
+script: ''
+mesh: l\light_dwrv_neonbroke00.NIF
+icon: ''
+sound: Power light 50
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 256
+  color:
+  - 205
+  - 145
+  - 63
+  - 0
+  flags: DYNAMIC | PULSE_SLOW

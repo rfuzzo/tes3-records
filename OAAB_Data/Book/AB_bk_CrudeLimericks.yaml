@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: AB_bk_CrudeLimericks
+name: Crassius' Crude Limericks
+script: ''
+mesh: OAAB\m\Text_BoV_CL.nif
+icon: OAAB\m\Tx_bov_CL.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nCrassius Curio's Collection of Crude Limericks<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nThere once was an old man from Khuul,<BR>\r\nWho had gonads the size of a bull.<BR>\r\nAnd each night he'd wager<BR>\r\nThough he's an old ager,<BR>\r\nHe'd not stop 'till the ladies were full.<BR>\r\n<BR>\r\n<BR>\r\nThere once was a Nord named Mad Hadle,<BR>\r\nWho was quite a king in the saddle.<BR>\r\nMet a lass not so fair,<BR>\r\nWith a face like a mare;<BR>\r\nSaid, \"I wouldnae ride her into battle.\"<BR>\r\n<BR>\r\n<BR>\r\nThere once was an Argonian named Skeexing,<BR>\r\nWho thought he was really quite pleasing.<BR>\r\nHe pressed the ladies in vain,<BR>\r\nFor they shouted in pain<BR>\r\n'Cause his member was bloody damned freezing.<BR>\r\n<BR>\r\n<BR>\r\nThere once was a lusty Khajiit,<BR>\r\nWho was cursed with very large feet.<BR>\r\nThey got stuck in the middle<BR>\r\nWhen he tried to diddle,<BR>\r\nSo he used them instead of his meat.<BR>\r\n<BR>\r\n<BR>\r\nThere once was a Breton named Ender,<BR>\r\nWho decided to go on a bender.<BR>\r\nHe walked into a tavern,<BR>\r\nAnd felt up a slattern<BR>\r\nWho proved to be of the wrong gender.<BR>\r\n<BR>\r\n<BR>\r\nThere once was a Dunmer from Gnisis<BR>\r\nWho decided to cheat on his missus.<BR>\r\nHe caught a disease<BR>\r\nFrom some drunken Orc sleaze<BR>\r\nAnd now, it burns when he pisses.<BR>\r\n<BR>\r\n<BR>\r\nThere once was a young Dunmer bride,<BR>\r\nWho's legs often opened too wide.<BR>\r\nShe yelled to her man,<BR>\r\n\"Push as hard as you can!\"<BR>\r\nAnd she pulled his whole body inside.<BR>\r\n<BR>\r\n<BR>\r\nThere once was a Bosmer named Rhyse,<BR>\r\nWho's member went down past his knees.<BR>\r\nWhen he got hard,<BR>\r\nHe rose up a yard<BR>\r\nAnd could finally reach up to the trees.<BR>\r\n<BR>\r\n<BR>\r\nThere once was a Bosmer named Brambles,<BR>\r\nWho loved to make wagers and gambles;<BR>\r\nOne night took a dare<BR>\r\nTo lie down with a bear,<BR>\r\nAnd now his poor rod lay in shambles.<BR>"
+data:
+  weight: 2.0
+  value: 30
+  book_type: Book
+  skill: None
+  enchantment: 20

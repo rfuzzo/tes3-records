@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_We_Cm_Ring_01
+name: Common Ring
+script: ''
+mesh: va\c\va_c_We_ring_01.nif
+icon: va\c\va_c_We_ring_01.dds
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 4
+  enchantment: 10

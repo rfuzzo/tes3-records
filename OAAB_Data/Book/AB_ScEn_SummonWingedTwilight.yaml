@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: AB_ScEn_SummonWingedTwilight
+name: Scroll of Summon Twilight
+script: ''
+mesh: OAAB\m\scrollExclusive.nif
+icon: OAAB\m\scroll_exclusive.tga
+enchanting: AB_sc_SummonWingedTwilight_en
+text: <DIV ALIGN="center"><FONT COLOR="000000" SIZE="2" FACE="Daedric">WHY DO YOU NOT DESPAIR</FONT><BR>
+data:
+  weight: 0.2
+  value: 410
+  book_type: Scroll
+  skill: None
+  enchantment: 100

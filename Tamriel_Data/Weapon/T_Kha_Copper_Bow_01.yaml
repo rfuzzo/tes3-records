@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Kha_Copper_Bow_01
+name: Copper Bow
+script: ''
+mesh: els\w\els_w_copper_bow.nif
+icon: els\w\els_w_copper_bow.tga
+enchanting: ''
+data:
+  weight: 15.0
+  value: 420
+  weapon_type: MarksmanBow
+  health: 700
+  speed: 1.0
+  reach: 1.0
+  enchantment: 65
+  chop_min: 1
+  chop_max: 35
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

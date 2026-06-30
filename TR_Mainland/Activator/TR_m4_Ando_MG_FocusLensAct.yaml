@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m4_Ando_MG_FocusLensAct
+name: Weir Gate Focus Lens
+script: TR_m4_Ando_MG_8_FocusLensFix
+mesh: pc\m\pc_uni_sharplens.nif

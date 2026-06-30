@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_BkUNI_OghmaInfinium
+name: Oghma Infinium
+script: ''
+mesh: tr\m\tr_book_oghma_infium.nif
+icon: tr\m\tr_book_oghma_infium.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<IMG SRC=\"tr\\oghma_infinium01.dds\" WIDTH=\"248\" HEIGHT=\"248\">\r\n<IMG SRC=\"tr\\oghma_infinium01b.dds\" WIDTH=\"248\" HEIGHT=\"62\"><BR>\r\n<IMG SRC=\"tr\\oghma_infinium02.dds\" WIDTH=\"248\" HEIGHT=\"248\">\r\n<IMG SRC=\"tr\\oghma_infinium02b.dds\" WIDTH=\"248\" HEIGHT=\"62\"><BR>\r\n<BR>"
+data:
+  weight: 8.0
+  value: 50000
+  book_type: Book
+  skill: None
+  enchantment: 100

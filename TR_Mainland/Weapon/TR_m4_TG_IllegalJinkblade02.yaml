@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m4_TG_IllegalJinkblade02
+name: Illegal Jinkblade
+script: ''
+mesh: tr\w\tr_w_iron_dagger_04.nif
+icon: tr\w\tr_w_iron_dagger_04.dds
+enchanting: TR_m4_TG_AndoJinkblade_En
+data:
+  weight: 3.0
+  value: 640
+  weapon_type: ShortBladeOneHand
+  health: 400
+  speed: 2.5
+  reach: 1.0
+  enchantment: 20
+  chop_min: 3
+  chop_max: 3
+  slash_min: 3
+  slash_max: 3
+  thrust_min: 5
+  thrust_max: 7
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

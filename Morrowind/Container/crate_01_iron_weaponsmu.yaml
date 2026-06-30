@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: crate_01_iron_weaponsmu
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 7
+  - random_iron_weapon

@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: Flame Light_Blue_128
+name: ''
+script: ''
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 128
+  color:
+  - 1
+  - 147
+  - 254
+  - 0
+  flags: FLICKER_SLOW

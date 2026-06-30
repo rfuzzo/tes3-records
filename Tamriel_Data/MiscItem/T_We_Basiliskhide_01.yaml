@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_We_Basiliskhide_01
+name: Basilisk Hide
+script: ''
+mesh: pc\m\pc_m_We_Basilisk_hide.nif
+icon: pc\m\pc_m_We_Basilisk_hide.dds
+data:
+  weight: 3.0
+  value: 60
+  flags: ''

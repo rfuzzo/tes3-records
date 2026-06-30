@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m1_TW_InsatiableSword
+name: Insatiable Sword
+script: ''
+mesh: sky\w\sky_w_anordic_bsword.nif
+icon: sky\w\sky_w_anordic_bsword.dds
+enchanting: TR_m1_TW_Strike_InsatiableSword
+data:
+  weight: 15.0
+  value: 7000
+  weapon_type: LongBladeOneHand
+  health: 800
+  speed: 1.25
+  reach: 1.0
+  enchantment: 60
+  chop_min: 6
+  chop_max: 18
+  slash_min: 2
+  slash_max: 18
+  thrust_min: 2
+  thrust_max: 18
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

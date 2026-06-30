@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_Briricca_Accounts
+name: Briricca Accounts
+script: ''
+mesh: m\text_quarto_03.nif
+icon: m\tx_quarto_03.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><BR><BR>\r\n[This book contains records of accounts and transactions of the Briricca Private Bank in Firewatch.]<br>"
+data:
+  weight: 3.0
+  value: 10
+  book_type: Book
+  skill: None
+  enchantment: 0

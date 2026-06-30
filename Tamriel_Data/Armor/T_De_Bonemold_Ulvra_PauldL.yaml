@@ -1,0 +1,22 @@
+type: Armor
+flags: ''
+id: T_De_Bonemold_Ulvra_PauldL
+name: Ulvra-Serad Bonemold L Pauldron
+script: ''
+mesh: tr\a\tr_a_bone_ul_pldl_01gd.nif
+icon: tr\a\tr_a_bone_ul_pauldron.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: LeftUpperArm
+  male_bodypart: T_A_DeBonemoldUlvraPauldron_UA
+  female_bodypart: ''
+- biped_object_type: LeftPauldron
+  male_bodypart: T_A_DeBonemoldUlvraPauldron_CL
+  female_bodypart: ''
+data:
+  armor_type: LeftPauldron
+  weight: 8.5
+  value: 120
+  health: 260
+  enchantment: 16
+  armor_rating: 15

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_EnSc_TT_AlmsiviFeather
+name: Scroll of Almsivi Invitation
+script: ''
+mesh: m\Text_Scroll_01.nif
+icon: m\Tx_scroll_open_01.tga
+enchanting: TR_m3_sc_TT_AlmsiviFeather_en
+text: "<DIV ALIGN=\"center\"><FONT COLOR=\"000000\" SIZE=\"2\" FACE=\"Daedric\">INVOKE SWIFTLY AND WISELY </FONT><BR>\r\n"
+data:
+  weight: 0.2
+  value: 63
+  book_type: Scroll
+  skill: None
+  enchantment: 100

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Bre_Mithril_Dagger_01
+name: Mithril Dagger
+script: ''
+mesh: tr\w\tr_w_mithril_dagger.nif
+icon: tr\w\tr_w_mithril_dagger.dds
+enchanting: ''
+data:
+  weight: 6.5
+  value: 4800
+  weapon_type: ShortBladeOneHand
+  health: 570
+  speed: 2.5
+  reach: 1.0
+  enchantment: 380
+  chop_min: 6
+  chop_max: 8
+  slash_min: 6
+  slash_max: 8
+  thrust_min: 1
+  thrust_max: 10
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

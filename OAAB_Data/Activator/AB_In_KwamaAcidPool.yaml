@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_In_KwamaAcidPool
+name: ''
+script: Sound_mud_bubbles
+mesh: OAAB\i\kwama_acid_pool.nif

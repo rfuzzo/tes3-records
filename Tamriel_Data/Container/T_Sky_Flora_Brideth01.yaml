@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Sky_Flora_Brideth01
+name: Bridethorn
+script: ''
+mesh: Sky\o\sky_flora_brideth_01.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - T_Sky_Random_FlorBridethorn

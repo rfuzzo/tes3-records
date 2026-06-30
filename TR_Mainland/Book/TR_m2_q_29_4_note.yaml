@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2_q_29_4_note
+name: Surol Volayn's Map
+script: TR_m2_q_29_4_Map_UnScript
+mesh: m\Text_Note_02.nif
+icon: m\Tx_note_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<IMG SRC=\"TR\\TR_shambalumap.dds\" WIDTH=\"390\" HEIGHT=\"370\"><BR>\r\n<BR>"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Dae_Sigil_Amulet_Iya_Entry
+name: Iya Sigil Amulet of Entry
+script: ''
+mesh: tr\c\tr_c_dae_sigil_i.nif
+icon: tr\c\tr_c_dae_sigil_i.dds
+enchanting: T_Use_Dae_Amulet_Entry
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 900
+  enchantment: 2000

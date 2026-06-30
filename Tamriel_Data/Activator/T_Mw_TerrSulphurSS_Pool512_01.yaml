@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Mw_TerrSulphurSS_Pool512_01
+name: ''
+script: lava
+mesh: tr\x\tr_sulphur_pool_512.nif

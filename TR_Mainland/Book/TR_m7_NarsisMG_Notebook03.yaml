@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_NarsisMG_Notebook03
+name: Mage's Notebook
+script: ''
+mesh: tr\m\tr_book_notebk_01.nif
+icon: tr\m\tr_book_closed_ntbk01.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><BR><BR>\r\n[Gilimeg's dense notes, which record various theories and experiments. The notebook dates back months.]\r\n<BR>"
+data:
+  weight: 0.5
+  value: 5
+  book_type: Book
+  skill: None
+  enchantment: 0

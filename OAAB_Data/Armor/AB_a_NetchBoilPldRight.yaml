@@ -1,0 +1,22 @@
+type: Armor
+flags: ''
+id: AB_a_NetchBoilPldRight
+name: Boiled Netch Leather Pauldron R
+script: ''
+mesh: OAAB\a\netchboil_pauld_GND.nif
+icon: OAAB\a\netchBoiledPauldron.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: RightUpperArm
+  male_bodypart: a_netch_m_pauldron_ua
+  female_bodypart: ''
+- biped_object_type: RightPauldron
+  male_bodypart: AB_a_NetchBoil_cl
+  female_bodypart: ''
+data:
+  armor_type: RightPauldron
+  weight: 4.0
+  value: 15
+  health: 90
+  enchantment: 10
+  armor_rating: 7

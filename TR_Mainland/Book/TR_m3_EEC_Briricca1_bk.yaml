@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_EEC_Briricca1_bk
+name: Lorindil's Briricca Report
+script: ''
+mesh: m\Text_Parchment_02.nif
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This report, written by the East Empire Company for the Briricca Private Bank, indicates that this financial period has led to strong yields on investments in commodities such as soul gems, llotham, and pottery.]<BR><BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_MorningGlory_01
+name: Morning Glory Flower
+script: ''
+mesh: pc\n\pc_ing_mglory_01.nif
+icon: pc\n\pc_tx_ingred_mglory.dds
+data:
+  weight: 0.1
+  value: 1
+  effects:
+  - RestoreAttribute
+  - DamageAttribute
+  - FortifyAttribute
+  - Blind
+  skills:
+  - Block
+  - Block
+  - Block
+  - None
+  attributes:
+  - Agility
+  - Speed
+  - Willpower
+  - None

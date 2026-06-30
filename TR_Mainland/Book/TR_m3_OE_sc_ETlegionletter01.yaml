@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_OE_sc_ETlegionletter01
+name: Aldrianus' Letter Home
+script: ''
+mesh: pc\m\pc_bk_letter_04.nif
+icon: pc\m\pc_m_letter_04.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nDear ma' and pa',<br> <BR>\r\nFirst let me thank you for the apples you sent me. The food in this province is strange to say the least (I do not even want to know what the meat they're serving us is), so they are much appreciated. <br> <br>\r\nI hope you don't worry about me too much. My cohort hasn't seen any action and the situation is unlikely to change. It's mostly boring guard and patrol duty. I've had my first interactions with the Dark Elven natives and they're a lot nicer than I had expected -- though, admittedly, they don't seem to much appreciate our presence. I'm hoping that as time goes by I can persuade at least some of them to see that the Legion is here not merely to occupy but to protect Morrowind as well. <br> <br>\r\nI bought a magical amulet from one of the natives here in Old Ebonheart. A real Ashlander she was! <br> <br>\r\nI wish you all good health and look forward to hearing from you again! And do send more apples. <br> <br>\r\n-- Aldrianus <br>\r\n"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_FungalPod_01
+name: Fungal Pod
+script: ''
+mesh: sky\n\sky_ingred_SwmpFun_01.nif
+icon: sky\n\tx_ingred_swmfung.dds
+data:
+  weight: 0.6
+  value: 3
+  effects:
+  - LightningShield
+  - SwiftSwim
+  - DrainAttribute
+  - DamageAttribute
+  skills:
+  - None
+  - None
+  - Block
+  - Block
+  attributes:
+  - None
+  - None
+  - Personality
+  - Luck

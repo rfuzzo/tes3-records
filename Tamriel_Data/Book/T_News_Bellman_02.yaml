@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Bellman_02
+name: LEGION SMASHES SOULREST REBELS
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_note_oe_news.nif
+icon: tr\m\tr_note_oe_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\TR_bellman_512_256.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nLEGION SMASHES SOULREST REBELS<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nJoyous news from southeastern Black Marsh as the Imperial Expeditionary Force has struck a decisive blow against the insurgent Argonian tribes! After strategically eliminating smaller resistance camps, Knight Commander Niranorne of Dusk finally forced the elusive rebels to engage our forces in a pitched battle on favorable terrain. The bulk of the enemy horde was wiped out, and remaining pockets of resistance were promptly dealt with. Our Far East Navy played a crucial supporting role by defending the coastal city of Soulrest while the Expeditionary Force was mopping up the last remaining rebels.<br><br>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nDASHING DESHAAN DUKE DISPLACED<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nDuke Phyrios Mattimus of Deshaan has taken up residence in our city, following threats to his life in his Ducal seat of Tear. The noble hails from the Imperial Heartland and is a socialite with a stellar reputation among the Cyrodiilic aristocracy. One can only speculate why his subjects in Deshaan are so unwelcoming to him. Perhaps crude elements among the agrarian Dres envy his sophistication.<br><br>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

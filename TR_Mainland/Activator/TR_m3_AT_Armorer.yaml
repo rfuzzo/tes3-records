@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_AT_Armorer
+name: 'Feldil Vulunith: Armorer'
+script: OutsideBanner
+mesh: f\Furn_bannerD_WA_shop_01.NIF

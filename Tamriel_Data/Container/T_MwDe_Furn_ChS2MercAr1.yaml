@@ -1,0 +1,49 @@
+type: Container
+flags: ''
+id: T_MwDe_Furn_ChS2MercAr1
+name: Small Chest
+script: ''
+mesh: o\Contain_chest_small_02.NIF
+encumbrance: 60.0
+container_flags: IS_BASE
+inventory:
+- - -20
+  - T_Com_Steel_ThrowingStar_CrFrB
+- - -20
+  - T_Com_Steel_ThrowingStar_CrFrSt
+- - -20
+  - T_Com_Steel_ThrowingStar_CrPoiC
+- - -20
+  - T_Com_Steel_ThrowingStar_CrSSph
+- - -20
+  - T_Imp_Silver_ThrowingStar_DrFSt
+- - -20
+  - T_Imp_Silver_ThrowingStar_DrFrB
+- - -20
+  - T_Imp_Silver_ThrowingStar_DrPoi
+- - -20
+  - T_Imp_Silver_ThrowingStar_DrShk
+- - -20
+  - chitin throwing star
+- - -20
+  - cruel flamestar
+- - -20
+  - cruel shardstar
+- - -20
+  - cruel sparkstar
+- - -20
+  - cruel viperstar
+- - -20
+  - firebite star
+- - -20
+  - flamestar
+- - -20
+  - glass throwing star
+- - -20
+  - shardstar
+- - -20
+  - sparkstar
+- - -20
+  - steel throwing star
+- - -20
+  - viperstar

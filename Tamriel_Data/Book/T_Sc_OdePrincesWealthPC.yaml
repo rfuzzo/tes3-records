@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Sc_OdePrincesWealthPC
+name: Ode to a Prince's Wealth
+script: ''
+mesh: m\Text_Scroll_01.nif
+icon: m\Tx_scroll_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>\r\nOde to a Prince's Wealth<BR>\r\n<BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\nMerchant prince of pious Niben stock\r\nTell us how your handsome wealth is made\r\nIs it in the sacred house of silk?\r\nIs it overseas on ships of trade?\r\nPerhaps where ruby riches are unearthed\r\nOr where men are parted from their drakes\r\nGolden brothels, gilded dens of mirth\r\nHome to courtesans and sotted rakes\r\n<BR>\r\n\r\nGambling houses, honest and less-so\r\nSurely line your pockets, regal sire\r\nAs do breweries, where liquor flows\r\nIndustry whose profits never tire\r\nOr is fishing where your interests lie?\r\nRiver's bounty worth its weight in gold\r\nMoney too, in abattoir's supply\r\nIs it beef whose treasure fills your hold?\r\n<BR>\r\n\r\nIn the city, wealth is toilsome made\r\nStench of sload oil makes the stomach turn\r\nHammers clang till hearing starts to fade\r\nMagic mixtures make the nostrils burn\r\nWorkshops toil unceasing, day and night\r\nKilns and dyers breathe a foulsome smell\r\nRenter's meager pay is your delight\r\nDebtors 'neath your looming shadow dwell\r\n<BR>\r\n\r\nIs your wealth a gift from the divine?\r\nOr is it merely humble man's design?\r\n<BR>"
+data:
+  weight: 0.2
+  value: 30
+  book_type: Scroll
+  skill: None
+  enchantment: 0

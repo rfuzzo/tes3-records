@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Bellman_03
+name: UNREST IN CYRODIIL EXAGGERATED
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_note_oe_news.nif
+icon: tr\m\tr_note_oe_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\TR_bellman_512_256.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nUNREST IN CYRODIIL EXAGGERATED<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nThe Bellman is happy to report that worrying rumors regarding mob violence in the Imperial Capital are greatly exaggerated. Malicious rabble-rousers did try their worst to incite crowds to frenzy by spouting long-debunked conspiracy theories regarding doppelgangers in the Imperial household. However, the Emperor's brave palace guard handled the matter with utmost professionalism and the crowd was dispersed with minimal violence. Lord General Caecalia Victrix of the Imperial Legion was happy to debunk the notion of widespread unrest: \"Malcontents have always existed, but as a whole, the people of the Empire are steadfast in their support of the Emperor.\" The editorial team, for one, wishes good health to the Emperor and to the gallant crown prince Geldall Septim.<br><br>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

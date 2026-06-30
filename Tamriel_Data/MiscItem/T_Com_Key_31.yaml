@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_Key_31
+name: Brass Key
+script: ''
+mesh: TR\m\TR_Key_DD30.NIF
+icon: TR\m\TR_Key_DD30.dds
+data:
+  weight: 0.0
+  value: 0
+  flags: ''

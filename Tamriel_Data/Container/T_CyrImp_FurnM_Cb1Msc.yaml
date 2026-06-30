@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: T_CyrImp_FurnM_Cb1Msc
+name: Cabinet
+script: ''
+mesh: pc\o\pc_furn_com_cabinet.nif
+encumbrance: 75.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - T_Cyr_Random_Cloths
+- - 3
+  - T_Cyr_Random_Kitchenware
+- - 10
+  - random gold

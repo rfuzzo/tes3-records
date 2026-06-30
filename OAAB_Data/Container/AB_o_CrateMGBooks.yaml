@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: AB_o_CrateMGBooks
+name: Property of Mages Guild
+script: ''
+mesh: OAAB\o\crateMG.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 3
+  - AB_lvl_ScrollsEnchAll
+- - 2
+  - AB_lvl_bk_WizardGood

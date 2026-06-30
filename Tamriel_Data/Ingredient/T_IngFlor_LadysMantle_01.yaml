@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_LadysMantle_01
+name: Lady's Mantle Leaves
+script: ''
+mesh: pc\n\PC_Ingred_LadyM.nif
+icon: pc\n\pc_tx_ingred_ladym.dds
+data:
+  weight: 0.1
+  value: 5
+  effects:
+  - RestoreHealth
+  - DamageAttribute
+  - NightEye
+  - Feather
+  skills:
+  - None
+  - Block
+  - None
+  - None
+  attributes:
+  - None
+  - Endurance
+  - None
+  - None

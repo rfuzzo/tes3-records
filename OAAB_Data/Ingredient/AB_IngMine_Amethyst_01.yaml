@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: AB_IngMine_Amethyst_01
+name: Amethyst
+script: ''
+mesh: OAAB\n\gem_amethyst_01.nif
+icon: OAAB\n\gem_amethyst.dds
+data:
+  weight: 0.2
+  value: 200
+  effects:
+  - Burden
+  - DamageFatigue
+  - WeaknessToFire
+  - SpellAbsorption
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

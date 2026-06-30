@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Echo_06
+name: NUM-ITTU STANDOFF ENDS
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_text_note_nar_news.nif
+icon: tr\m\tr_text_note_nar_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\tr_echo_512_256.dds\" WIDTH=\"348\" HEIGHT=\"168\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nNUM-ITTU STANDOFF ENDS<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nSapphire miners in Num-Ittu Mine recently agreed to end a rebellion originally started for better wages. The mine, owned and operated by the East Empire Company, was a major source of income for it, but the workers never saw much of the profits themselves. According to the foreman of the mine, Linia Trellus, the Company sent in a mercenary known as %PCName from the Fighters Guild to put down the revolt: \"I thought they were coming to scare us into backing off, but I guess even sellswords know how to bargain sometimes.\" Rogatus Cipius, the Factor of the EEC's Narsis branch, had this to say: \"The Company cares about its workers' requests. We are negotiators first and foremost, and are careful to seek out peaceful solutions where possible.\"<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

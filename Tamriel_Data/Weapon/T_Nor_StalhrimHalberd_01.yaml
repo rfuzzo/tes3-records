@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Nor_StalhrimHalberd_01
+name: Stalhrim Halberd
+script: ''
+mesh: tr\w\tr_w_ice_halberd.nif
+icon: tr\w\tr_w_ice_halberd.dds
+enchanting: ''
+data:
+  weight: 42.0
+  value: 36000
+  weapon_type: SpearTwoWide
+  health: 1900
+  speed: 1.0
+  reach: 1.8
+  enchantment: 65
+  chop_min: 2
+  chop_max: 12
+  slash_min: 2
+  slash_max: 12
+  thrust_min: 5
+  thrust_max: 50
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

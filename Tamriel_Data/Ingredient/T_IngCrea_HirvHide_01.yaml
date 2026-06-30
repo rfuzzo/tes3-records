@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_HirvHide_01
+name: Hirv Hide
+script: ''
+mesh: tr\n\tr_ing_hide_hirv.nif
+icon: TR\n\tr_ing_hide_hirv.dds
+data:
+  weight: 1.0
+  value: 5
+  effects:
+  - Burden
+  - Sound
+  - DrainAttribute
+  - FortifyAttribute
+  skills:
+  - None
+  - None
+  - Block
+  - Block
+  attributes:
+  - None
+  - None
+  - Agility
+  - Endurance

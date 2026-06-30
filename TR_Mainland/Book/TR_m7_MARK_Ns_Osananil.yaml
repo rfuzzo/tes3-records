@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_MARK_Ns_Osananil
+name: Osananil
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: pi\m\pi_m_cnq_ngopta.dds
+enchanting: ''
+text: "Osananil moves here after you get everyone off the Calaril Comet during TR_m7_HH_Alvynu_7\r\n\r\nPositionCell in TR_m7_HH_Alvynu_7_CCMove_sc"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

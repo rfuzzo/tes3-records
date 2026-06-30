@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_ColBarrowClayFlask_01
+name: Ancient Clay Flask
+script: ''
+mesh: pc\m\pc_misc_col_barr_flask.nif
+icon: pc\m\pc_misc_col_barr_flask.dds
+data:
+  weight: 2.0
+  value: 4
+  flags: ''

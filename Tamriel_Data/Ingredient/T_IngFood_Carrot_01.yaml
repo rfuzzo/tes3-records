@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_Carrot_01
+name: Carrot
+script: ''
+mesh: pc\n\pc_ingred_carrot.nif
+icon: pc\n\pc_tx_ingred_carrot.dds
+data:
+  weight: 0.2
+  value: 1
+  effects:
+  - RestoreFatigue
+  - DamageAttribute
+  - RestoreAttribute
+  - NightEye
+  skills:
+  - None
+  - Block
+  - Block
+  - Block
+  attributes:
+  - None
+  - Willpower
+  - Intelligence
+  - Endurance

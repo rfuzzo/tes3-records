@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3-270-Imp_sc_Note2
+name: Death Threat Pool
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR> <BR>\r\nNumber of received death threats (winner gets a bottle of Kvatch's finest at the end of the year): <br> <br>\r\nMarsh-Demon-At-Her-Elbow: IIII <BR>\r\nGnaea: II <BR>\r\nReynant: IIIII IIIII II <BR>\r\n<BR>\r\n"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

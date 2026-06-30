@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: bk_notes-kagouti mating habits
+name: Kagouti Mating Habits
+script: ''
+mesh: m\Text_Octavo_07.nif
+icon: m\Tx_book_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nNotes - Kagouti Mating Habits<BR>\r\nEdras Oril<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nObservations made on wild kagouti in southeastern Morrowind.<BR>\r\n<BR>\r\nKagouti do not seem to travel in large packs, as previously believed. Perhaps they group into larger packs when mating season is imminent.<BR>\r\n<BR>\r\nFemales seem to be dominant sex. Males will bring gifts of food in exchange for mating advantage. Males sometimes attacked.<BR>\r\n<BR>\r\nLoud vocalizations heard exchanged (believed to be from males), especially at night. Fascinating.<BR>\r\n<BR>\r\nMales do not seem to engage in physical confrontation for reproductive rights. Some posturing, but no conflict.<BR>\r\n<BR>\r\nAll kagouti display increased aggressiveness during mating. Must be careful not to be seen.<BR>\r\n<BR>\r\nMating kagouti found to be increasingly territorial.<BR>\r\n<BR>\r\n"
+data:
+  weight: 3.0
+  value: 50
+  book_type: Book
+  skill: None
+  enchantment: 0

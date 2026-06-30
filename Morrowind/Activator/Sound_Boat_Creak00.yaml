@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: Sound_Boat_Creak00
+name: Sound_Boat_Creak
+script: Sound_Boat_Creak
+mesh: EditorMarker.NIF

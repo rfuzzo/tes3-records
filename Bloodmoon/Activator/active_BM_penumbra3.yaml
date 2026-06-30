@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: active_BM_penumbra3
+name: ''
+script: icewallcrackScript
+mesh: f\Furn_Ashl_Chime_01.NIF

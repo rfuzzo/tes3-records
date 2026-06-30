@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: AB_bk_AlchemistFloraBloat
+name: Vvardenfell Flora - Bloatspore
+script: ''
+mesh: m\Text_Parchment_01.nif
+icon: m\Tx_parchment_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[ This appears to be a missing page from The Vvardenfell Flora Compendium. ]<BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nBloatspore<BR>\r\n<BR>\r\nBloatspore is a large mottled red pod with a thick white rim. Once abundant in the Bitter Coast region, it is now incredibly rare. Today, Bloatspore only grows in caves. Unlike other fungus, it parasitizes other fungus rather than plants. It also needs magicka to survive, which it once received from Magnus' light. Since their populations spread into caves, they are usually found clustered near magicka crystals. Due to its odd nature, scholars have long debated whether it is in fact a plant or a fungus.<BR>\r\n<BR>\r\nBloatspore can be grown indoors if planted with other types of fungus near a steady magicka source. Some alchemists to grow their own this way, as it is difficult to hunt for, but it takes skill and careful tending. Most alchemists instead rely on Telvanni cultivated Bloatspores, or Bloat imported from the Black Marshes for their supply. Bloat is in high demand amongst mages due to its alchemical properties.<BR>\r\n<BR>\r\nAlchemical Properties:<BR>\r\n<BR>\r\nDrain Magicka<BR>\r\nFortify Intelligence<BR>\r\nFortify Willpower<BR>\r\nDetect Animal<BR>\r\n<BR>\r\n<BR>\r\nDue to the Blight storms in Vvardenfell, the Bloatspore has become nearly extinct across the province. As a result, the Shalk, for which Bloat was once its primary food source, has become an aggressive creature. These insects have become a problem in the region, roaming outside their natural cave habitats to attack towns and travellers. With the decrease in Bloatspore population, and the threat of Shalks devouring the few remaining, alchemists have come to prize this rare spore, and cultivate and preserve its last remaining habitats.<BR>"
+data:
+  weight: 3.0
+  value: 50
+  book_type: Scroll
+  skill: None
+  enchantment: 20

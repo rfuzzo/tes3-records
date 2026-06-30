@@ -1,0 +1,89 @@
+type: Container
+flags: ''
+id: T_TestPC_Monitor
+name: All Abecean Monitor Articles
+script: ''
+mesh: o\Contain_Com_Chest_01.NIF
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_News_AbMonitor_01
+- - 1
+  - T_News_AbMonitor_02
+- - 1
+  - T_News_AbMonitor_03
+- - 1
+  - T_News_AbMonitor_04
+- - 1
+  - T_News_AbMonitor_05
+- - 1
+  - T_News_AbMonitor_06
+- - 1
+  - T_News_AbMonitor_07
+- - 1
+  - T_News_AbMonitor_08
+- - 1
+  - T_News_AbMonitor_09
+- - 1
+  - T_News_AbMonitor_10
+- - 1
+  - T_News_AbMonitor_11
+- - 1
+  - T_News_AbMonitor_12
+- - 1
+  - T_News_AbMonitor_13
+- - 1
+  - T_News_AbMonitor_14
+- - 1
+  - T_News_AbMonitor_15
+- - 1
+  - T_News_AbMonitor_16
+- - 1
+  - T_News_AbMonitor_17
+- - 1
+  - T_News_AbMonitor_18
+- - 1
+  - T_News_AbMonitor_19
+- - 1
+  - T_News_AbMonitor_20
+- - 1
+  - T_News_AbMonitor_21
+- - 1
+  - T_News_AbMonitor_22
+- - 1
+  - T_News_AbMonitor_23
+- - 1
+  - T_News_AbMonitor_24
+- - 1
+  - T_News_AbMonitor_25
+- - 1
+  - T_News_AbMonitor_26
+- - 1
+  - T_News_AbMonitor_27
+- - 1
+  - T_News_AbMonitor_28
+- - 1
+  - T_News_AbMonitor_29
+- - 1
+  - T_News_AbMonitor_30
+- - 1
+  - T_News_AbMonitor_31
+- - 1
+  - T_News_AbMonitor_32
+- - 1
+  - T_News_AbMonitor_33
+- - 1
+  - T_News_AbMonitor_34
+- - 1
+  - T_News_AbMonitor_35
+- - 1
+  - T_News_AbMonitor_36
+- - 1
+  - T_News_AbMonitor_37
+- - 1
+  - T_News_AbMonitor_38
+- - 1
+  - T_News_AbMonitor_39
+- - 1
+  - T_News_AbMonitor_40

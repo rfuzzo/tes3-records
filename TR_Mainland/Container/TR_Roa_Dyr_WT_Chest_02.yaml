@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_Roa_Dyr_WT_Chest_02
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 8
+  - T_Imp_Silver_Mace_02

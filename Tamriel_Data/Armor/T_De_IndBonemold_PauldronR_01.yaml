@@ -1,0 +1,22 @@
+type: Armor
+flags: ''
+id: T_De_IndBonemold_PauldronR_01
+name: Native Chuzei Right Pauldron
+script: ''
+mesh: TR\a\TR_a_ind_pld_gnd.NIF
+icon: TR\a\TR_a_ind_pldrn_R_01.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: RightPauldron
+  male_bodypart: ''
+  female_bodypart: ''
+- biped_object_type: RightUpperArm
+  male_bodypart: a_bonemold_gah_julan_ua
+  female_bodypart: ''
+data:
+  armor_type: RightPauldron
+  weight: 8.0
+  value: 145
+  health: 140
+  enchantment: 16
+  armor_rating: 17

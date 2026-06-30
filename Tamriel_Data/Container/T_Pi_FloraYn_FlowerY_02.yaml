@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: T_Pi_FloraYn_FlowerY_02
+name: Mercycress
+script: ''
+mesh: pi\f\pi_f_floweryellow_02.nif
+encumbrance: 0.0
+container_flags: ORGANIC | IS_BASE
+inventory: []

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Furn_DePlnBedLoft03
+name: Bed
+script: Bed_Standard
+mesh: OAAB\u\deplnbedloft03.nif

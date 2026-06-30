@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_i2_16 Eggmines Ledger
+name: Akamora Eggmines Ledger
+script: ''
+mesh: m\Text_Octavo_open_03.nif
+icon: m\Tx_octavo_open_03.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nVaren-Salenith Eggmine:<BR>\r\n20 eggs <BR>\r\n7 workers<BR>\r\n<BR>\r\nIndaren-Veri Eggmine:<BR>\r\n19 eggs<BR>\r\n6 workers<BR>\r\n<BR>\r\nTiranat-Parys Eggmine:<BR>\r\nRecently abandoned, the Parys family claims that it was sabotaged. We are not sure about that, perhaps the mine wasn't managed well enough.<BR>\r\n<BR>\r\nAravel-Senim Eggmine:<BR>\r\n3 eggs<BR>\r\n1 worker<BR>\r\n<BR>\r\nAbanidanon Eggmine:<BR>\r\n14 eggs<BR>\r\n4 workers<BR>\r\n<BR>\r\n"
+data:
+  weight: 1.0
+  value: 10
+  book_type: Book
+  skill: None
+  enchantment: 100

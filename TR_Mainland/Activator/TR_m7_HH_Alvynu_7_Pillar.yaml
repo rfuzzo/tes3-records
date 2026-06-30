@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_HH_Alvynu_7_Pillar
+name: Support Pillar
+script: TR_m7_HH_Alvynu_7_Pillar_sc
+mesh: sum\i\sum_in_he_shippll_01.nif

@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: crate_de_dwrv01
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 3
+  - random_dwemer_coins
+- - 3
+  - misc_dwrv_mug00
+- - 2
+  - misc_dwrv_goblet10
+- - 1
+  - misc_dwrv_pitcher00

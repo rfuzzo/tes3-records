@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2_q_22_LamentDisplay
+name: Lament of Taldeus
+script: ''
+mesh: m\Text_Scroll_open_03.nif
+icon: m\Tx_scroll_open_03.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>\r\nO Stendarr<BR>\r\nI turn to you in dark times<BR>\r\nWhen nothing is right<BR>\r\nAnd the shadows lie heavy<BR>\r\n<BR>\r\nI try to center myself<BR>\r\nBut find only emptiness within<BR>\r\n<BR>\r\nBut even when hope seems faint<BR>\r\nYou alone are left to me<BR>\r\nAnd despite all the hardship and pain<BR>\r\nThat is enough. <BR>"
+data:
+  weight: 1.0
+  value: 15
+  book_type: Scroll
+  skill: None
+  enchantment: 100

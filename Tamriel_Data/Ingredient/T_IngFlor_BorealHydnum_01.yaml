@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_BorealHydnum_01
+name: Boreal Hydnum
+script: ''
+mesh: tr\n\tr_ing_borealhydnm_01.nif
+icon: tr\n\tr_f_js_borealhydnm_01.dds
+data:
+  weight: 0.1
+  value: 8
+  effects:
+  - ResistFire
+  - WeaknessToCommonDisease
+  - Feather
+  - Paralyze
+  skills:
+  - Block
+  - Block
+  - None
+  - None
+  attributes:
+  - Endurance
+  - Agility
+  - None
+  - None

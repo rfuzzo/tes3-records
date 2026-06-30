@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_Ald_Marak_Banner_Inn
+name: Elval Tradehouse
+script: OutsideBanner
+mesh: f\Furn_banner_tavern_01.NIF

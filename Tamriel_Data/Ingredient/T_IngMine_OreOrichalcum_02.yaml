@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngMine_OreOrichalcum_02
+name: Orichalc Grains
+script: ''
+mesh: pc\n\pc_ing_origrain_01.nif
+icon: pc\n\pc_tx_ing_origrain.dds
+data:
+  weight: 0.5
+  value: 50
+  effects:
+  - DamageMagicka
+  - Burden
+  - None
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

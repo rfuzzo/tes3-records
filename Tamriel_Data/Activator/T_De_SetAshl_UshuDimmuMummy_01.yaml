@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: T_De_SetAshl_UshuDimmuMummy_01
+name: Ushu-Dimmu
+script: ''
+mesh: tr\f\tr_f_ushukur_mummy_uni.nif

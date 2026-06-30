@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Arg_Hist_Cuirass_Freedom
+name: Hist Cuirass of Freedom
+script: ''
+mesh: TR\a\tr_a_histcuirass_gnd.nif
+icon: TR\a\tr_a_histcuirass.dds
+enchanting: T_Const_Freedom
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_A_ArgHistCuirass01_C
+  female_bodypart: ''
+data:
+  armor_type: Cuirass
+  weight: 20.0
+  value: 4000
+  health: 1700
+  enchantment: 190
+  armor_rating: 21

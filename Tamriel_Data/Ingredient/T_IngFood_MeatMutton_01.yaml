@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_MeatMutton_01
+name: Mutton
+script: ''
+mesh: TR\n\tr_ing_meat_mutton.nif
+icon: TR\n\tr_ing_meat_mutton.dds
+data:
+  weight: 2.0
+  value: 5
+  effects:
+  - RestoreFatigue
+  - RestoreAttribute
+  - None
+  - None
+  skills:
+  - None
+  - Block
+  - None
+  - None
+  attributes:
+  - Strength
+  - Strength
+  - None
+  - None

@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m7_q_MildAnnoyanceAmulet
+name: Amulet of Mild Annoyance
+script: ''
+mesh: c\Amulet_Extravagant_2.NIF
+icon: c\tx_amulet_extrav2.tga
+enchanting: TR_m7_MildAnnoyanceAmulet_En
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 380
+  enchantment: 600

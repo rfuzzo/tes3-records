@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: Test_Stats
+name: I setup your stats and stuff
+script: testPlayerStats
+mesh: f\Furn_cistern_01.NIF

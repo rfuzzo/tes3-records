@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Echo_14
+name: OUTLANDER NAMED HLAALU HORTATOR
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_text_note_nar_news.nif
+icon: tr\m\tr_text_note_nar_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\tr_echo_512_256.dds\" WIDTH=\"348\" HEIGHT=\"168\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nOUTLANDER NAMED HLAALU HORTATOR<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nIn response to the increasing threat of the Blight, Hlaalu councilors on Vvardenfell have unanimously elected an outlander -- %PCName, a %PCClass of %PCRace descent -- Hortator of House Hlaalu. A Hortator, or House Champion, serves as commander-in-chief of the armed forces of a Great House. A Hortator has been selected only a handful of times by House Hlaalu since the First Era, and only ever during a House War. The most famous Hortator is, of course, St. Indoril Nerevar, who served as Hortator of the First Council. Rumors abound that the outlander bears the lost ring of St. Nerevar: One-Clan-Under-Moon-and-Star.<BR><BR>\r\nHlaalu Councilor Velanda Omani shared with the Echo: \"%PCName is a %PCRace of great determination and fine character. I am certain that they will conduct the office of Hortator wisely and well.\" When pressed for comment regarding St. Nerevar's ring, Councilor Omani said only: \"Moon-and-Star is a sacred artifact of the Dunmer people. If it has been recovered, the Temple will say so.\" Representatives of the Tribunal Temple had no comment on this story.<BR><BR>\r\nAt press time, the nature of the Hortator's role remains unclear, as does the effect of this news on Inner Sea trade. Several ships in the port of Bal Foyen were seen today offloading spirits and other luxury goods to make room for military equipment. We will publish supplemental editions as this story develops. As always, look to the Canyon Echo for the latest on trade, investment, and current affairs.<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

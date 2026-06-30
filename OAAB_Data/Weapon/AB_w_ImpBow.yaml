@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_ImpBow
+name: Imperial Shortbow
+script: ''
+mesh: OAAB\w\rem_imp_bow.nif
+icon: OAAB\w\rem_imp_shortbow.dds
+enchanting: ''
+data:
+  weight: 6.0
+  value: 140
+  weapon_type: MarksmanBow
+  health: 650
+  speed: 1.0
+  reach: 1.0
+  enchantment: 40
+  chop_min: 1
+  chop_max: 25
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: ''

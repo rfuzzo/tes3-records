@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Pi_FloraTm_Bugloss01
+name: Temarin Bugloss
+script: ''
+mesh: pi\o\pi_f_Bugloss_01.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - T_Pi_Random_FlorTemarinBugloss

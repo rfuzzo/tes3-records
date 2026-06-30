@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: TR_m2_Crate_Armor2
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - bonemold_armun-an_pauldron_l
+- - 1
+  - bonemold_bracer_left
+- - 1
+  - bonemold_bracer_right
+- - 1
+  - bonemold_greaves

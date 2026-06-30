@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_UshuKurBlock02
+name: Rocks
+script: TR_m4_UshuKurBlock02_scp
+mesh: i\act_dwe_cavein00.NIF

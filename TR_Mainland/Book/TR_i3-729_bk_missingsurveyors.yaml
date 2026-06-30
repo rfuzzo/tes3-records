@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_i3-729_bk_missingsurveyors
+name: Missing Miners
+script: ''
+mesh: m\Text_Scroll_02.NIF
+icon: m\Tx_scroll_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This scroll contains the list of miners gone missing. Most of them were sent to explore the flooded part of the cavern in search of more unmined adamantium, as a last desperate attempt to continue mining. It seems, however, that they were not given any free water breathing potions - they could instead buy them from the mine storage, at pretty steep prices.]<BR>"
+data:
+  weight: 0.2
+  value: 20
+  book_type: Scroll
+  skill: None
+  enchantment: 0

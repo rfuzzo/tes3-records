@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Glb_Sound_Water_Lake
+name: Sound_Water_Lake
+script: T_ScSound_Watr_Lake
+mesh: EditorMarker.NIF

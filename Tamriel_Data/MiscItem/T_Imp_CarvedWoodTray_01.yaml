@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_CarvedWoodTray_01
+name: Imperial Carved Wood Tray
+script: ''
+mesh: pc\m\pc_misc_imp_crv_wd_try.nif
+icon: pc\m\pc_misc_imp_crv_wd_try.dds
+data:
+  weight: 4.0
+  value: 20
+  flags: ''

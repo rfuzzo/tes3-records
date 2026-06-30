@@ -1,0 +1,12 @@
+type: RepairItem
+flags: ''
+id: AB_Rep_GrinderWheel
+name: Grinding Wheel
+script: AB_GrinderMisc_s
+mesh: OAAB\h\inviso.nif
+icon: OAAB\m\st_grindingwheel.dds
+data:
+  weight: 0.0
+  value: 0
+  uses: 100
+  quality: 1.5

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_FlyMusk_01
+name: Raw Musk
+script: ''
+mesh: TR\n\TR_Ing_Musk_01.nif
+icon: TR\n\TR_Ing_Musk_01.dds
+data:
+  weight: 0.2
+  value: 15
+  effects:
+  - DamageAttribute
+  - None
+  - DamageHealth
+  - FortifySkill
+  skills:
+  - Block
+  - Block
+  - None
+  - Speechcraft
+  attributes:
+  - Personality
+  - Personality
+  - None
+  - Strength

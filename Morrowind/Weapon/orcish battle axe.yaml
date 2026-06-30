@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: orcish battle axe
+name: Orcish Battle Axe
+script: ''
+mesh: w\W_Orcish_battleaxe.nif
+icon: w\Tx_orcish_waraxe.tga
+enchanting: ''
+data:
+  weight: 15.0
+  value: 2000
+  weapon_type: AxeTwoHand
+  health: 2400
+  speed: 1.0
+  reach: 1.0
+  enchantment: 80
+  chop_min: 17
+  chop_max: 28
+  slash_min: 2
+  slash_max: 23
+  thrust_min: 0
+  thrust_max: 2
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

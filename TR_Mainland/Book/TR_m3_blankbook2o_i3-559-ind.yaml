@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_blankbook2o_i3-559-ind
+name: Blank Book
+script: ''
+mesh: m\Text_Quarto_open_03.NIF
+icon: m\Tx_quarto_open_03.tga
+enchanting: ''
+text: ''
+data:
+  weight: 3.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 0

@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: TR_m7_NVA4_light_de_lantern_03
+name: ''
+script: TR_m7_NVA_Stage4_Persist
+mesh: l\Light_De_Lantern_03.nif
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 256
+  color:
+  - 245
+  - 140
+  - 40
+  - 0
+  flags: DYNAMIC | PULSE_SLOW

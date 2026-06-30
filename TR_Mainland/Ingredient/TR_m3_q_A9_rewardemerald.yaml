@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: TR_m3_q_A9_rewardemerald
+name: Emerald
+script: TR_m3_q_A9_daedrothreward_em
+mesh: n\Ingred_emerald_01.NIF
+icon: n\Tx_emerald.tga
+data:
+  weight: 0.2
+  value: 150
+  effects:
+  - FortifyMagicka
+  - RestoreHealth
+  - DrainAttribute
+  - DrainAttribute
+  skills:
+  - None
+  - None
+  - Block
+  - Block
+  attributes:
+  - None
+  - None
+  - Agility
+  - Endurance

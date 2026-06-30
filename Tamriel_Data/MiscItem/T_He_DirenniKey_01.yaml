@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_He_DirenniKey_01
+name: Old Key
+script: ''
+mesh: sky\m\sky_misc_dkey_01.nif
+icon: sky\m\tx_misc_dkey_01.dds
+data:
+  weight: 0.2
+  value: 0
+  flags: ''

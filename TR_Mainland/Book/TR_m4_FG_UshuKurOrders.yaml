@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_FG_UshuKurOrders
+name: Orders from serjo Tholer Andas
+script: ''
+mesh: m\Text_paper_roll_01.nif
+icon: m\Tx_paper_roll_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR> To the overseer of Ushu-Kur iron mine, <BR> <BR>\r\nAll operations of the mine shall be shut down and the mine itself abandoned. All laborers shall be terminated with no pay. The guard personnel are to report back to the Hlaalu garrison in Bal Foyen for new duties. The overseer is to report back to the Hlaalu Council Manor. <br> <br>\r\nThese orders are effective immediately. <br> <br>\r\nSigned, <br>\r\nMuthsera THOLER ANDAS <br>\r\nLord of BAL FOYEN & Honorable Councilor of GREAT HOUSE HLAALU\r\n<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

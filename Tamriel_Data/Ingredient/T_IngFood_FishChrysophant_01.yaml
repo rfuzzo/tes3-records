@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_FishChrysophant_01
+name: Chrysophant
+script: ''
+mesh: pc\n\pc_ing_chrysophant.nif
+icon: pc\n\pc_tx_ingred_chrysoph.dds
+data:
+  weight: 0.5
+  value: 2
+  effects:
+  - RestoreFatigue
+  - DrainMagicka
+  - DamageAttribute
+  - RestoreAttribute
+  skills:
+  - None
+  - Block
+  - Block
+  - Block
+  attributes:
+  - None
+  - Endurance
+  - Endurance
+  - Strength

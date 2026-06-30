@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: de_p_chest_02_fara1
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 5
+  - random_food
+- - 1
+  - misc_com_plate_02_tgrc
+- - 1
+  - misc_com_plate_06_tgrc

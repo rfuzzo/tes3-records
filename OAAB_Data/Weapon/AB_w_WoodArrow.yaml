@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_WoodArrow
+name: Wooden Arrow
+script: ''
+mesh: OAAB\w\w_arrow01.nif
+icon: OAAB\w\tx_arrow.dds
+enchanting: ''
+data:
+  weight: 0.1
+  value: 1
+  weapon_type: Arrow
+  health: 1
+  speed: 1.0
+  reach: 1.0
+  enchantment: 5
+  chop_min: 1
+  chop_max: 1
+  slash_min: 1
+  slash_max: 1
+  thrust_min: 1
+  thrust_max: 1
+  flags: ''

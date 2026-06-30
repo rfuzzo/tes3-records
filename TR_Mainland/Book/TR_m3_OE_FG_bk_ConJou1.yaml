@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_OE_FG_bk_ConJou1
+name: Torn Journal Page
+script: TR_m3_OE_FG_q_ConstJo1Scr
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "Sundas<br>\r\n<br>\r\nThree days have passed since we lost track of the wretched mage Aramak. The trail has grown cold but we shall not let this setback dampen our spirits. We have taken respite in this cave, after my faithful companion Lenwyn Barotar spotted it from the shore. Many nix-hounds were slain -- no longer shall they terrorize the farmers in this area. Shortly after settling down for the night a figure approached our camp. It was a kindly pilgrim en route to Necrom. They had lost control of both arms in a childhood accident and asked for company on their journey. I was more than happy to oblige.<br>\r\nAlso, I think the binding on these pages is failing. I knew I should have paid the extra few septims for quality glue.<br>\r\n<br>\r\n[Their next location is too smudged to read.]<br>\r\n<br>\r\n-C<br>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 10

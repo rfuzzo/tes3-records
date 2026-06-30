@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Furn_BellowsRight
+name: Bellows
+script: AB_Bellows_s
+mesh: OAAB\u\st_bellows_an_R.nif

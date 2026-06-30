@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: de_r_chest_01_sharn
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - bk_AncestorsAndTheDunmer
+- - 1
+  - bk_darkestdarkness
+- - 1
+  - bk_vampiresofvvardenfell1
+- - 1
+  - bk_sharnslegionsofthedead

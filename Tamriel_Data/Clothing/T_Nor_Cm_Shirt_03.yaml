@@ -1,0 +1,35 @@
+type: Clothing
+flags: ''
+id: T_Nor_Cm_Shirt_03
+name: Common Shirt
+script: ''
+mesh: Sky\c\Sky_C_M_SH_03_GND.nif
+icon: Sky\c\Tx_c_sh_03.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_C_NorCmShirt03_C
+  female_bodypart: T_C_NorCmShirt03_CF
+- biped_object_type: RightUpperArm
+  male_bodypart: T_C_NorCmShirt03_UA
+  female_bodypart: T_C_NorCmShirt03_UAF
+- biped_object_type: LeftUpperArm
+  male_bodypart: T_C_NorCmShirt03_UA
+  female_bodypart: T_C_NorCmShirt03_UAF
+- biped_object_type: RightForearm
+  male_bodypart: T_C_NorCmShirt03_Fa
+  female_bodypart: T_C_NorCmShirt03_FaF
+- biped_object_type: LeftForearm
+  male_bodypart: T_C_NorCmShirt03_Fa
+  female_bodypart: T_C_NorCmShirt03_FaF
+- biped_object_type: RightWrist
+  male_bodypart: T_C_NorCmShirt03_W
+  female_bodypart: T_C_NorCmShirt03_WF
+- biped_object_type: LeftWrist
+  male_bodypart: T_C_NorCmShirt03_W
+  female_bodypart: T_C_NorCmShirt03_WF
+data:
+  clothing_type: Shirt
+  weight: 3.0
+  value: 4
+  enchantment: 20

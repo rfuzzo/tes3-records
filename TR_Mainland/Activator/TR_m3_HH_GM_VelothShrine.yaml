@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_HH_GM_VelothShrine
+name: Shrine of St. Veloth
+script: TR_m3_HH_GM_glassshrine_scr
+mesh: tr\f\tr_uni_shrine_veloth.nif

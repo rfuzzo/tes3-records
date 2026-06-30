@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_OE_IAS_arnesia
+name: Arnesian War Collection
+script: ''
+mesh: m\Text_Parchment_01.NIF
+icon: m\Tx_parchment_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe Arnesian War Collection <BR> <BR>\r\n<DIV ALIGN=\"CENTER\">\r\nThe items in the collection include both an Argonian Hist cuirass and a native bonemold armor of the Dark Elven House Dres both of which were used in the Arnesian War of 3E 396 between the provinces of Morrowind and Black Marsh.<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

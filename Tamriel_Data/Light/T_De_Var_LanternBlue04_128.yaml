@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_De_Var_LanternBlue04_128
+name: Paper Lantern
+script: ''
+mesh: tr\l\tr_l_de_lantern_blu_04.nif
+icon: tr\l\tr_de_lntrn4_blu.dds
+sound: ''
+data:
+  weight: 3.0
+  value: 10
+  time: 150
+  radius: 128
+  color:
+  - 32
+  - 64
+  - 245
+  - 0
+  flags: DYNAMIC | CAN_CARRY

@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m1_btha_Door1a
+name: ''
+script: Collide_damage_kill
+mesh: i\in_dwrv_gear00.nif

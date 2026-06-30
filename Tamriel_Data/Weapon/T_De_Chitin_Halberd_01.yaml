@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_De_Chitin_Halberd_01
+name: Chitin Halberd
+script: ''
+mesh: tr\w\tr_w_chitin_halberd.nif
+icon: tr\w\tr_w_chitin_halberd.dds
+enchanting: ''
+data:
+  weight: 8.0
+  value: 26
+  weapon_type: SpearTwoWide
+  health: 650
+  speed: 1.0
+  reach: 1.8
+  enchantment: 27
+  chop_min: 1
+  chop_max: 2
+  slash_min: 1
+  slash_max: 2
+  thrust_min: 1
+  thrust_max: 15
+  flags: ''

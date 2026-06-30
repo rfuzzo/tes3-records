@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_MarasBeads_01
+name: Mara's Beads
+script: ''
+mesh: pc\n\pc_ing_marasbeads.nif
+icon: pc\n\pc_tx_ingred_marasb.dds
+data:
+  weight: 0.1
+  value: 2
+  effects:
+  - FortifyHealth
+  - ResistPoison
+  - Feather
+  - WeaknessToFire
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

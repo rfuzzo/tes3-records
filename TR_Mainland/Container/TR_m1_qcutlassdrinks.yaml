@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: TR_m1_qcutlassdrinks
+name: Crate
+script: ''
+mesh: o\Contain_crate_02.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 10
+  - Potion_Cyro_Whiskey_01
+- - 2
+  - Potion_Local_Brew_01
+- - 3
+  - potion_comberry_brandy_01
+- - 7
+  - potion_comberry_wine_01
+- - 3
+  - potion_local_liquor_01

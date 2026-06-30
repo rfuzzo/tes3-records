@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: bk_a1_2_introtocadiusus
+name: Letter to Senilias Cadiusus
+script: ''
+mesh: m\Text_Parchment_01.NIF
+icon: m\Tx_parchment_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nDearest Senilias,<BR>\r\n<BR>\r\nThe bearer of this note, %PCName, has provided useful service, and shown considerable resourcefulness. I have employed %PCName in retrieving an item from Arkngthand, so you can count on some familiarity with Dwemer ruins. If you have a place, I believe %PCName will give satisfaction.<BR>\r\n<BR>\r\nIf you have any luck, perhaps you'll use the bearer to send a note my way.<BR>\r\n<BR>\r\nMy best regards and affection to you and Pania,<BR>\r\nHasphat Antabolis<BR>\r\n"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

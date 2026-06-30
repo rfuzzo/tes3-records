@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Ex_DwrvSteamstackRod_a
+name: ''
+script: AB_DwrvLightningRod_s
+mesh: OAAB\x\dwrvSteamstackRod.nif

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m7_q_scryingglass
+name: Scrying Glass of the Seyda Neen
+script: ''
+mesh: tr\m\tr_m_glass_rod.nif
+icon: tr\m\tr_m_glass_rod.dds
+data:
+  weight: 1.5
+  value: 10000
+  flags: ''

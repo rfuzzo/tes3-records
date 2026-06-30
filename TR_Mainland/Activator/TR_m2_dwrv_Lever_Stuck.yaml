@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m2_dwrv_Lever_Stuck
+name: Dwemer Lever
+script: TR_m2_dwrv_Lever_Stuck_sc
+mesh: i\act_dwe_lever00.NIF

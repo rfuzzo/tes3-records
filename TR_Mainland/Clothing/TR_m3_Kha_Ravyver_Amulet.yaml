@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m3_Kha_Ravyver_Amulet
+name: Ravyver's Amulet
+script: ''
+mesh: TR\c\TR_ind amulet.NIF
+icon: TR\c\TR_c_ind_amulet.dds
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 0.5
+  value: 1000
+  enchantment: 500

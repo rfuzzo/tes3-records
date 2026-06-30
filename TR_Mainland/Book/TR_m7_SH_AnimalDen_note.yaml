@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_SH_AnimalDen_note
+name: Dusty Note
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe first night of my new adventure and it is such a lovely cave. I am undisturbed by the fauna down below and there is such a great view of the surrounding wilderness. There are some intriguing old bones here, but I will pay them better attention in the morning. Perhaps they hint at some old funerary practice? Such excitement, however, shall not distract me from hastily restoring myself with a good night's sleep.<BR>"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

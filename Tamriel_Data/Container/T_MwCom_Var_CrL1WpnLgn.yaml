@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_MwCom_Var_CrL1WpnLgn
+name: Crate
+script: ''
+mesh: TR\o\TR_cont_crate_L_01.nif
+encumbrance: 400.0
+container_flags: IS_BASE
+inventory:
+- - 7
+  - T_Mw_Random_WeaponsMleeImperial

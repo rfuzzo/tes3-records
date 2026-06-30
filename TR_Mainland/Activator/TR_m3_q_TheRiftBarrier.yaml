@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m3_q_TheRiftBarrier
+name: Magical Barrier
+script: TR_m3_q_TheRiftCage
+mesh: f\BM_forcefield.NIF

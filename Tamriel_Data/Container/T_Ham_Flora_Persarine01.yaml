@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Ham_Flora_Persarine01
+name: Persarine
+script: ''
+mesh: Sky\o\Sky_Flora_Persa_01.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 2
+  - T_Ham_Random_FlorPersarine

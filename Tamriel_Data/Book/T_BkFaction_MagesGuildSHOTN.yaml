@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_BkFaction_MagesGuildSHOTN
+name: Mages Guild Charter
+script: ''
+mesh: Sky\m\Sky_Book_Basic_06.nif
+icon: Sky\m\Tx_Book_Basic_06.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nImperial Charter of the Guild of Mages<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nI. Purpose<BR>\r\n<BR>\r\nThe Guild of Mages provides benefits to scholars of magic and established laws regarding the proper use of magic. The Guild is dedicated to the collection, preservation, and distribution of magical knowledge with an emphasis on ensuring that all citizens of Tamriel benefit from this knowledge.<BR>\r\n<BR>\r\nII. Authority<BR>\r\n<BR>\r\nThe Guild of Mages was established on Summerset Isle in the year 230 of the Second Era by Vanus Galerion and Rilis XII. It was later confirmed by the \"Guilds Act\" of Potentate Versidue-Shaie.<BR>\r\n<BR>\r\nIII. Rules and Procedures<BR>\r\n<BR>\r\nCrimes against fellow members of the Guild are treated with the harshest discipline. Whether a member may regain their status in the Guild is determined by the Arch-Mage.<BR>\r\n<BR>\r\nIV. Membership Requirements<BR>\r\n<BR>\r\nThe Guild of Mages only accepts candidates of keen intelligence and dominant will. Candidates must exhibit mastery in the great schools of magic: Destruction, Alteration, Illusion, and Mysticism. Candidates must also display practical knowledge of enchantments and alchemical processes.<BR>\r\n<BR>\r\nV. Applications for Membership<BR>\r\n<BR>\r\nCandidates must present themselves to the Steward of the Guild Hall for examination and approval.<BR>\r\n<BR>\r\nATTACHMENT A: Mages Guild Chapters in the southwestern kingdoms of the Province of Skyrim<BR>\r\n<BR>\r\nChapters are established in Guild-owned, free-standing guildhalls in the cities of Falkreath, Karthwasten, and Markarth Side, as well as the town of Helgen. Members should be aware that the guildhall in Dragonstar West is part of the Hammerfell Mages Guild.\r\n"
+data:
+  weight: 3.0
+  value: 30
+  book_type: Book
+  skill: None
+  enchantment: 0

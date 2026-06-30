@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_sc_m2_i2-437-Tri_oldpoem
+name: The Gift Of Consolation
+script: ''
+mesh: m\Text_Scroll_open_03.nif
+icon: m\Tx_scroll_open_03.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>[This ancient scroll, although old and brittle, contains a poem of unknown origin. However, those who dare know say that it is one of Vivec's thought-poems, which describes his intention to build the Great Ghostfence.]<BR>\r\n<BR>\r\nI will make of your word a symbol without reason to all but the dead.<BR>\r\nI will make of your sword a quill, a kiss and a thought.<BR>\r\nI will make of your love a defense against the horizon.<BR>\r\nI give this to you as to one who is no more.<BR>\r\n"
+data:
+  weight: 1.0
+  value: 300
+  book_type: Scroll
+  skill: None
+  enchantment: 200

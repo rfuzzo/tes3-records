@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_BridethornBerry_01
+name: Bridethorn Berries
+script: ''
+mesh: Sky\n\sky_ingred_brideth_01.nif
+icon: sky\n\tx_ingred_brideth.dds
+data:
+  weight: 0.1
+  value: 1
+  effects:
+  - ResistFrost
+  - FortifyFatigue
+  - Reflect
+  - Poison
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

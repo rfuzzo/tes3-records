@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: cavern_spore00
+name: Bloatspore
+script: ''
+mesh: o\contain_cavern_spore00.NIF
+encumbrance: 0.0
+container_flags: ORGANIC | IS_BASE
+inventory:
+- - 1
+  - ingred_bloat_01

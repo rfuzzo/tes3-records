@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_M1_Q66_GHT_El1_Orders
+name: Orders to Fervas Shulisa
+script: ''
+mesh: m\Text_Scroll_01.NIF
+icon: m\Tx_scroll_open_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nCxFxHxIGEFEGAARAEADIIAZJ.<BR>\r\nEDxDAAYODDxDJBTBQFDHAJDD<BR>\r\n3Cx2DxNxGHDGEQDHHxZFGGAD.FDB<BR>\r\n2HxHDxDIHVEJAIHxIGAFDJRGHB<BR>\r\nCxFxTBxBYFHxBOEEICGFJHEXJFV<BR>\r\nHxHJHxEBQHJxDJIADJIGJGIAAGGB<BR>\r\n2CxDxFxHxLxXxGIDDxQJAAAGQHD,ADD<BR>\r\n2DxFJxHDxLATAHIRCXE.JEJV<BR>\r\nGHHDVxNEGGGXGGJ,EAGDHB<BR>\r\nDxHDxEKXJxKKJGUIJHJXAFEH<BR>\r\nCxDxXDJxDAIDxEGEBSTDGTJDDIB<BR>\r\n5CxHxRxEDHDxJDDDFFHJxFDWPXIJ<BR>\r\nDxGNxNVxJEDJxCZAFRGJ<BR>"
+data:
+  weight: 0.2
+  value: 10
+  book_type: Scroll
+  skill: None
+  enchantment: 0

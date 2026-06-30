@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Com_Iron_Javelin_01
+name: Iron Javelin
+script: ''
+mesh: tr\w\tr_w_iron_javelin_01.nif
+icon: tr\w\tr_w_iron_javelin_01.dds
+enchanting: ''
+data:
+  weight: 7.0
+  value: 12
+  weapon_type: MarksmanThrown
+  health: 120
+  speed: 0.75
+  reach: 1.0
+  enchantment: 35
+  chop_min: 2
+  chop_max: 12
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: ''

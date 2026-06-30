@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: dwarven crossbow
+name: Dwarven Crossbow
+script: ''
+mesh: w\W_Crossbow_Dwemer.NIF
+icon: w\tx_crossbow_dwemer.tga
+enchanting: ''
+data:
+  weight: 10.0
+  value: 1200
+  weapon_type: MarksmanCrossbow
+  health: 750
+  speed: 1.0
+  reach: 1.0
+  enchantment: 50
+  chop_min: 30
+  chop_max: 30
+  slash_min: 0
+  slash_max: 0
+  thrust_min: 0
+  thrust_max: 0
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

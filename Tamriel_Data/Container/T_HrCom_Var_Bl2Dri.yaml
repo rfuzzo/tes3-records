@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_HrCom_Var_Bl2Dri
+name: Barrel
+script: ''
+mesh: hr\o\hr_contain_barrel_02.nif
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 6
+  - T_Hr_Random_Drink

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_DWyrmGland
+name: Danswyrm Venom Gland
+script: ''
+mesh: sky\n\sky_ingred_DWyrmGland.nif
+icon: sky\n\sky_ingred_DWyrmGland.dds
+data:
+  weight: 0.3
+  value: 15
+  effects:
+  - Poison
+  - WeaknessToMagicka
+  - DetectAnimal
+  - CurePoison
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

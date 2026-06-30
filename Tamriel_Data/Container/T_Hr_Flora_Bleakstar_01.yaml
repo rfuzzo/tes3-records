@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Hr_Flora_Bleakstar_01
+name: Bleakstar
+script: ''
+mesh: HR\o\HR_Flora_Bleakstar_01.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - T_Hr_Random_FlorBleakstar

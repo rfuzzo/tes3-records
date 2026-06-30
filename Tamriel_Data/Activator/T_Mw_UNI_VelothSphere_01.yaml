@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Mw_UNI_VelothSphere_01
+name: ''
+script: T_ScObj_VelothVisionSphere01
+mesh: tr\x\tr_x_veloth_sphere_01.nif

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_QyC_shellmold_arrow
+name: Shellmold Arrow
+script: ''
+mesh: pi\w\pi_w_shellmold_arrow.nif
+icon: pi\w\pi_shellmold_arrow.dds
+enchanting: ''
+data:
+  weight: 0.15
+  value: 2
+  weapon_type: Arrow
+  health: 10
+  speed: 1.0
+  reach: 1.0
+  enchantment: 15
+  chop_min: 1
+  chop_max: 5
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: ''

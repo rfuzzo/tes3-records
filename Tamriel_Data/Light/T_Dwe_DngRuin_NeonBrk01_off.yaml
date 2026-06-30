@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_Dwe_DngRuin_NeonBrk01_off
+name: ''
+script: ''
+mesh: tr\l\tr_l_dwrv_neon10broke.nif
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 16
+  color:
+  - 0
+  - 0
+  - 0
+  - 0
+  flags: ''

@@ -1,0 +1,17 @@
+type: Clothing
+flags: ''
+id: TR_m2_thief_vest
+name: Common Vest
+script: ''
+mesh: c\C_M_Shirt_Common_4_a_GND.nif
+icon: c\Tx_shirtcom04_a.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: c_m_shirt_common_4_a_c
+  female_bodypart: c_f_shirt_common_4_a_c
+data:
+  clothing_type: Shirt
+  weight: 2.0
+  value: 4
+  enchantment: 15

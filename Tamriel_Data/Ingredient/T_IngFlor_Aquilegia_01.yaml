@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_Aquilegia_01
+name: Aquilegia Root Pulp
+script: ''
+mesh: pc\n\pc_ing_columbinerp.nif
+icon: pc\n\pc_tx_ingred_columbine.dds
+data:
+  weight: 0.1
+  value: 1
+  effects:
+  - RestoreAttribute
+  - ResistFrost
+  - DrainMagicka
+  - Chameleon
+  skills:
+  - Block
+  - None
+  - None
+  - None
+  attributes:
+  - Personality
+  - None
+  - None
+  - None

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_FishCod_01
+name: Cod
+script: ''
+mesh: Sky\n\sky_ingred_meat_Cd01.nif
+icon: sky\n\sky_ingred_meat_cd01.dds
+data:
+  weight: 1.0
+  value: 3
+  effects:
+  - RestoreFatigue
+  - ResistFrost
+  - None
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

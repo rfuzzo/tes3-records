@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m7_Yand_AirDominance_Amulet
+name: Amulet of Air Dominance
+script: ''
+mesh: c\Amulet_Extravagant_1.NIF
+icon: c\tx_amulet_extrav1.tga
+enchanting: TR_m7_Yand_AirDominance_Amu_en
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 500
+  enchantment: 600

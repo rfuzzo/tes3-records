@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Qy_BronzeBowl_02
+name: Bronze Bowl
+script: ''
+mesh: pi\m\pi_m_cnq_b_bowl_02.nif
+icon: pi\m\pi_m_cnq_b_bowl_02.dds
+data:
+  weight: 3.5
+  value: 20
+  flags: ''

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_AndothDweRuinSaw01
+name: ''
+script: TR_m4_AndothDweBarSet01_scp
+mesh: sky\m\sky_misc_saw_01.nif

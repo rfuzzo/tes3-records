@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_UNI_Map_Akavir
+name: Invasion of Akavir Map
+script: ''
+mesh: TR\m\tr_misc_akamap_01.nif
+icon: TR\m\tr_misc_akamap_01.dds
+data:
+  weight: 0.5
+  value: 1500
+  flags: ''

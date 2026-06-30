@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Sky_Mine_OreRESilv07
+name: Raw Silver
+script: ''
+mesh: Sky\o\Sky_Cont_Rock_SLV_07.nif
+encumbrance: 0.0
+container_flags: ORGANIC | IS_BASE
+inventory:
+- - 1
+  - T_Sky_Random_OreSilver

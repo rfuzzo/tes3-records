@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_We_BonewareSpoon_01
+name: Boneware Spoon
+script: ''
+mesh: VA\m\va_m_We_spoon.nif
+icon: va\m\va_m_We_spoon.dds
+data:
+  weight: 0.4
+  value: 1
+  flags: ''

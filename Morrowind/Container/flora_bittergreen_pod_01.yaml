@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: flora_bittergreen_pod_01
+name: Bittergreen Plant
+script: ''
+mesh: o\Flora_bittergreen_pod_01.nif
+encumbrance: 0.0
+container_flags: IS_BASE
+inventory: []

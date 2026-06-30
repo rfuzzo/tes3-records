@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: contain_corpse20_mage
+name: Corpse
+script: Sound_Flies
+mesh: o\contain_corpse20.NIF
+encumbrance: 120.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - ingred_bonemeal_01
+- - 1
+  - l_m_amulets
+- - 1
+  - random gold_lev_10
+- - 1
+  - random_book_wizard_all
+- - 1
+  - random_de_pos_01_nc

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_KoboldTongue_01
+name: Kobold Tongue
+script: ''
+mesh: tr\n\tr_ing_koboldtng.nif
+icon: tr\n\tr_ing_koboldtongue.dds
+data:
+  weight: 0.5
+  value: 8
+  effects:
+  - WaterBreathing
+  - Paralyze
+  - RestoreHealth
+  - ResistParalysis
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_BottleBroken
+name: Broken Bottle
+script: ''
+mesh: OAAB\w\w_bottle_broken.nif
+icon: OAAB\w\w_bottle_broken.dds
+enchanting: ''
+data:
+  weight: 1.0
+  value: 1
+  weapon_type: ShortBladeOneHand
+  health: 100
+  speed: 2.0
+  reach: 1.0
+  enchantment: 1
+  chop_min: 1
+  chop_max: 1
+  slash_min: 1
+  slash_max: 1
+  thrust_min: 1
+  thrust_max: 1
+  flags: ''

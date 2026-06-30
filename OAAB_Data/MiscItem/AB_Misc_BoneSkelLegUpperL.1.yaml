@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_BoneSkelLegUpperL.1
+name: Upper Left Leg
+script: ''
+mesh: OAAB\m\skelLegUpperL.1.nif
+icon: OAAB\m\skelLegUpperL.tga
+data:
+  weight: 2.0
+  value: 1
+  flags: ''

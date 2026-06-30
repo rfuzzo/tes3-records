@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_BluewareSpoon01
+name: Spoon
+script: ''
+mesh: tr\m\tr_misc_blue_spoon.nif
+icon: tr\m\tr_misc_bluewspoon01.dds
+data:
+  weight: 1.0
+  value: 2
+  flags: ''

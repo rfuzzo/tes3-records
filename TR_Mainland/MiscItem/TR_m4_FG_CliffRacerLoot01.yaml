@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m4_FG_CliffRacerLoot01
+name: Ovaynel's Silver Mirror
+script: TR_m4_FG_CliffracerMirror_scp
+mesh: TR\m\tr_misc_handmirror.nif
+icon: tr\m\tr_m_hmirror.dds
+data:
+  weight: 4.5
+  value: 500
+  flags: ''

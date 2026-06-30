@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_Painting_Mona
+name: Portrait of a Khajiit
+script: ''
+mesh: pc\m\PC_M_Painting_Mona.nif
+icon: pc\m\PC_M_Painting_Mona.dds
+data:
+  weight: 6.0
+  value: 200
+  flags: ''

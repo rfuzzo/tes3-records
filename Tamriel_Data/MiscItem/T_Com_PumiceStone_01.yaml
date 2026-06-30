@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_PumiceStone_01
+name: Pumice Stone
+script: ''
+mesh: TR\m\TR_misc_pumice_stone.NIF
+icon: TR\m\TR_misc_pumice.dds
+data:
+  weight: 0.3
+  value: 10
+  flags: ''

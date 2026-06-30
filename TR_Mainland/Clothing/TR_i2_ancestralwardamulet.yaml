@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_i2_ancestralwardamulet
+name: Ancestral Ward Amulet
+script: ''
+mesh: c\Amulet_Common_2.nif
+icon: c\tx_amulet_com2.dds
+enchanting: TR_i2_454_ancestralward
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 30
+  enchantment: 100

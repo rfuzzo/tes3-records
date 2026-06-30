@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_Painting_Anvil
+name: One Last Look Back
+script: ''
+mesh: pc\m\PC_M_Painting_Anvil.nif
+icon: pc\m\PC_M_Painting_Anvil.dds
+data:
+  weight: 16.0
+  value: 1200
+  flags: ''

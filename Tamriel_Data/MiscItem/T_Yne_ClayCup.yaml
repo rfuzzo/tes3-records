@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Yne_ClayCup
+name: Clay Cup
+script: ''
+mesh: pi\m\pi_m_yne_c_cup.nif
+icon: pi\m\pi_m_yne_c_cup.dds
+data:
+  weight: 0.6
+  value: 4
+  flags: ''

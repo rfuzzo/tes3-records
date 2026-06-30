@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Imp_ColFur_Cuirass_02
+name: Colovian Fur Cuirass
+script: ''
+mesh: pc\a\pc_a_cfur_cuir_wg.nif
+icon: pc\a\pc_a_cfur_cuir_w.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_A_ImpColFurCuir02_C
+  female_bodypart: T_A_ImpColFurCuir02_CF
+data:
+  armor_type: Cuirass
+  weight: 8.0
+  value: 30
+  health: 130
+  enchantment: 60
+  armor_rating: 5

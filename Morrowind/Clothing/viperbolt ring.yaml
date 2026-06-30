@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: viperbolt ring
+name: Viperbolt Ring
+script: ''
+mesh: c\C_Ring_common04.NIF
+icon: c\tx_ring_common04.tga
+enchanting: viperbolt_en
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 12
+  enchantment: 10

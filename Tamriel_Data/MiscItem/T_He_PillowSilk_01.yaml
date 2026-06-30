@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_He_PillowSilk_01
+name: Silk Pillow
+script: ''
+mesh: sum\m\sum_misc_pillow_05.nif
+icon: sum\m\sum_misc_pillow_05.dds
+data:
+  weight: 0.5
+  value: 100
+  flags: ''

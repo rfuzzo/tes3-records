@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: misc_com_wood_knife
+name: Knife
+script: ''
+mesh: m\Misc_Com_Wood_Knife.NIF
+icon: m\Misc_Com_Wood_Knife.tga
+data:
+  weight: 0.5
+  value: 2
+  flags: ''

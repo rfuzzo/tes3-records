@@ -1,0 +1,67 @@
+type: Container
+flags: ''
+id: chest_01_v_potion_ap_02
+name: Wooden Chest
+script: ''
+mesh: o\contain_chest10.nif
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - p_lightning shield_c
+- - 1
+  - p_water_walking_s
+- - 1
+  - p_water_breathing_s
+- - 1
+  - p_swift_swim_c
+- - 1
+  - p_fire_shield_c
+- - 1
+  - p_restore_willpower_c
+- - 1
+  - p_restore_strength_c
+- - 1
+  - p_restore_magicka_c
+- - 1
+  - p_restore_speed_c
+- - 1
+  - p_restore_personality_c
+- - 1
+  - p_restore_luck_c
+- - 1
+  - p_restore_intelligence_c
+- - -3
+  - p_restore_health_c
+- - -3
+  - p_restore_fatigue_c
+- - 1
+  - p_restore_endurance_c
+- - 1
+  - p_restore_agility_c
+- - -3
+  - p_night-eye_c
+- - -2
+  - p_reflection_c
+- - -3
+  - p_poison_resistance_c
+- - -3
+  - p_disease_resistance_c
+- - -3
+  - p_disease_resistance_b
+- - 1
+  - p_light_b
+- - 1
+  - p_fortify_magicka_c
+- - 1
+  - p_fortify_health_c
+- - 1
+  - p_fortify_fatigue_c
+- - -1
+  - p_cure_poison_s
+- - -1
+  - p_cure_paralyzation_s
+- - -2
+  - p_cure_common_s
+- - -1
+  - p_cure_blight_s

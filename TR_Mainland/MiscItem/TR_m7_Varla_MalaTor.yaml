@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m7_Varla_MalaTor
+name: Varla Stone of Seared Bindings
+script: TR_m7_Varla_MalaTor_sc
+mesh: pc\m\pc_misc_varla_01.nif
+icon: pc\m\pc_misc_varla_01I.dds
+data:
+  weight: 10.0
+  value: 1400
+  flags: ''

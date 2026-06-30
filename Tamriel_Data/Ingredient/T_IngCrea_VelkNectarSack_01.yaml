@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_VelkNectarSack_01
+name: Velk Nectar Sac
+script: ''
+mesh: TR\n\tr_ing_velk_nectar_sac.nif
+icon: TR\n\tr_ing_velk_nectar_sac.tga
+data:
+  weight: 1.2
+  value: 2
+  effects:
+  - RestoreFatigue
+  - ResistParalysis
+  - CureCommonDisease
+  - WeaknessToFire
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

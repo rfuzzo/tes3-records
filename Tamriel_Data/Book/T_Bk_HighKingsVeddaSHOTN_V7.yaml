@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_HighKingsVeddaSHOTN_V7
+name: High King's Vedda Book Seven
+script: ''
+mesh: Sky\m\sky_book_basic_14.nif
+icon: Sky\m\tx_book_basic_13.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nHigh King's Vedda<BR>\r\nBook Seven<BR><BR>\r\n<IMG SRC=\"sky\\Sky_Bk_HighKingsVedda_seven.dds\" WIDTH=\"240\" HEIGHT=\"240\">\r\n<BR> <DIV ALIGN=\"LEFT\"> <BR>\r\nI. LET all burn, that nothing remains.\r\n<BR>\r\nII. The Kalpa is by now within the Dragon's mouth, embers of Shor's creation. The jaws of Fate are closing, even now.\r\n<BR>\r\nIII. And so it is, in a howling storm of Fire, that each of the five World-Breaths will cease. Just as Fire draws the Breath from a burning hall, so shall the World be ended.\r\n<BR>\r\nIV. The searching left eye of ALDUIN will open, and the first Breath of Kyne will burn.\r\n<BR>\r\nV. Kyne will say: \"Would that My scaly fingers could have wrought the death of elf-kind.\"\r\n<BR>\r\nVI. The beady right eye of ALDUIN will open, and the second Breath of Kyne will burn.\r\n<BR>\r\nVII. Mara will say: \"Would that My shaggy breast could have felt solace in this World.\"\r\n<BR>\r\nVIII. The mighty nostrils of ALDUIN will flare, and the third Breath of Kyne will burn.\r\n<BR>\r\nIX. Dibella will say: \"Would that My dusty mouth could divulge the last few pleasures I have devised.\"\r\n<BR>\r\nX. The hungry teeth of ALDUIN will glint, and the fourth Breath of Kyne will burn.\r\n<BR>\r\nXI. With one Voice the Hirser will say: \"It will not be so. The World is burning, and so does regret. The Dragon awakes and We are released from Our oath.\"\r\n<BR>\r\nXII. The all-encompassing jaws of ALDUIN will meet, and the fifth and final Breath of Kyne, the Children of the Sky themselves, will burn.\r\n<BR>\r\nXIII. And so the last of the Hirser, stalwart hearth-guardians, will descend amidst flames deep into the earth-memory of the World-That-Was and take Their place in Sovngarde, to await Their awakening at the dawn of the new Kalpa.\r\n<BR>\r\nXIV. This is the true fate of the World, every Kalpa that has been and will be. ALDUIN is the measure of existence and permanence is His alone. He will awaken no earlier than the appointed time, for the Gods are stronger than any mortal and Their will has set it so.\r\n<BR>\r\nMeditate on this: Every Breath will end, but it is foolishness never to breathe at all. So breathe, Child of the Sky, and win glory for your Gods and King! The way to Sovngarde is open!\r\n<BR><BR>\r\n"
+data:
+  weight: 3.0
+  value: 300
+  book_type: Book
+  skill: None
+  enchantment: 0

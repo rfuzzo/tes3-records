@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_DeYelGlassBowl_01
+name: Yellow Glass Bowl
+script: ''
+mesh: OAAB\m\misc_yel_glass_bowl.nif
+icon: OAAB\m\misc_yel_glass_bowl.dds
+data:
+  weight: 4.0
+  value: 5
+  flags: ''

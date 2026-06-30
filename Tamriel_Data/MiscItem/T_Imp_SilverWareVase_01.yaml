@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_SilverWareVase_01
+name: Silverware Vase
+script: ''
+mesh: TR\m\TR_misc_silv_vase_02.NIF
+icon: TR\m\TR_misc_silv_vase_02.dds
+data:
+  weight: 7.0
+  value: 30
+  flags: ''

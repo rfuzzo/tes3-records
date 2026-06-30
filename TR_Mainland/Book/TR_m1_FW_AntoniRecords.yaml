@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_FW_AntoniRecords
+name: Antoni Records
+script: ''
+mesh: tr\m\tr_book_notebk_o_01.nif
+icon: tr\m\tr_book_open_ntbk01.dds
+enchanting: ''
+text: <DIV ALIGN="LEFT"><FONT COLOR="000000" SIZE="3" FACE="Magic Cards"><BR>[A record of personal finances kept by Friela Antoni which details a series of failed investments and a rather severe slide into near-insolvency.]<BR>
+data:
+  weight: 1.0
+  value: 10
+  book_type: Book
+  skill: None
+  enchantment: 0

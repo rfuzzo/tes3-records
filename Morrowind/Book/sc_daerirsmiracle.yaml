@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: sc_daerirsmiracle
+name: Scroll of Daerir's Miracle
+script: ''
+mesh: m\text_scroll_01.nif
+icon: m\tx_scroll_open_01.tga
+enchanting: sc_daerirsmiracle_en
+text: "<DIV ALIGN=\"center\">\r\n<FONT FACE=\"Daedric\"><BR>\r\n\r\n<B>\r\nMiracle of Daerir<P>\r\n</B>\r\n\r\nRide the storms, lest they ride thee.<P>\r\nConsume the red sands, lest they consume thee<P>\r\nBy the one from the dark waters<P>\r\nBy the one who was first in the deep waters<P>\r\nBy my will I cleanse myself of the red sands.<P>\r\n\r\n</FONT>\r\n</DIV>"
+data:
+  weight: 0.2
+  value: 80
+  book_type: Scroll
+  skill: None
+  enchantment: 0

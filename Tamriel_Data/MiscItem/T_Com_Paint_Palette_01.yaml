@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_Paint_Palette_01
+name: Palette
+script: ''
+mesh: pc\m\pc_misc_p_palette.nif
+icon: pc\m\pc_misc_p_palette.dds
+data:
+  weight: 2.0
+  value: 3
+  flags: ''

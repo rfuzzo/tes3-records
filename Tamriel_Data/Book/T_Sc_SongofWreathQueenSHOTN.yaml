@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Sc_SongofWreathQueenSHOTN
+name: Song of the Wreath-Queen
+script: ''
+mesh: m\Text_Scroll_01.nif
+icon: m\Tx_scroll_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe Song of the Wreath-Queen<BR>\r\nBy Talbyord the Fickle<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\n<BR>\r\n[Taken from a variety of incomplete oral verse and chorus found across Skyrim.]<BR>\r\n<BR>\r\n<BR>\r\nAnd by baret and spin, the northern wind blows,<BR>\r\nthrough Kyne's breath we spoke to a mother's glow.<BR>\r\nThe Wreath-Queen's hair still glimmers and grows,<BR>\r\nDown to her knees, the hair did flow.<BR>\r\nUntil one morning the a seer witnessed her frown,<BR>\r\nAs she walked in endless gown.<BR>\r\nThat night she thrashed throughout the town,<BR>\r\nRaking the halls and tumbling down.<BR>\r\nThe fallen had come to take back her seat,<BR>\r\nAs her hair grew white like a frightened sheep.<BR>\r\nThe heart of the queen lay quiet as sleet,<BR>\r\nBy the sight of unknown, with a promise to keep.<BR>\r\n<BR>\r\nWhen hallowed throne, lay defiled and barren,<BR>\r\nThe forgotten will rise from ice and cairn.<BR>\r\nThe seat of winter wreaths will come to an end,<BR>\r\nAnd the chords of beginnings will speak of a rend.<BR>\r\nTo all those sway in the wreaths,<BR>\r\nBeware the gaze of those lie beneath.<BR>\r\nAnd to those who mind the Wreath-Queen's heirs,<BR>\r\nBe hopeful that Kyne will return you to air.<BR><BR>"
+data:
+  weight: 1.2
+  value: 50
+  book_type: Scroll
+  skill: None
+  enchantment: 0

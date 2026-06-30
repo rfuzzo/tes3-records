@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_Orcscrown
+name: Orcscrown
+script: ''
+mesh: tr\n\tr_ing_orcscrown.nif
+icon: tr\n\tr_ing_orcscrown.dds
+data:
+  weight: 0.1
+  value: 9
+  effects:
+  - Poison
+  - ResistNormalWeapons
+  - FortifyAttribute
+  - None
+  skills:
+  - None
+  - None
+  - Block
+  - None
+  attributes:
+  - None
+  - None
+  - Agility
+  - None

@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Nor_UNI_DCultMask_01
+name: Mask of the Precentor
+script: ''
+mesh: sky\a\sky_uni_dcult_mask_01.nif
+icon: sky\a\sky_uni_dcult_mask_01.dds
+enchanting: T_Const_DCultMaskUNI
+biped_objects:
+- biped_object_type: Head
+  male_bodypart: T_A_NorDCultMask_01_Hd
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 4.5
+  value: 2560
+  health: 780
+  enchantment: 100
+  armor_rating: 39

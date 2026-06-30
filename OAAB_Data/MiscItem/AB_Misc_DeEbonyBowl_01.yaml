@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_DeEbonyBowl_01
+name: Frosted Ebony Bowl
+script: ''
+mesh: OAAB\m\misc_ebony_bowl.nif
+icon: OAAB\m\misc_ebony_bowl.dds
+data:
+  weight: 6.0
+  value: 620
+  flags: ''

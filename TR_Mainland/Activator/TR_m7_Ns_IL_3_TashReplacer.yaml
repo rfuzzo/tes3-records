@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m7_Ns_IL_3_TashReplacer
+name: ''
+script: TR_m7_Ns_IL_3_GdPlacerTashSc
+mesh: EditorMarker.NIF

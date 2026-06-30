@@ -1,0 +1,11 @@
+type: MiscItem
+flags: PERSISTENT
+id: TR_m3_RD_HisEyes_Intelligence
+name: Legion Intelligence Report
+script: TR_m3_Rd_HisEyes_Report_sc
+mesh: pc\m\PC_misc_scrollcase02.nif
+icon: pc\m\pc_misc_scrollcase02.dds
+data:
+  weight: 2.0
+  value: 100
+  flags: ''

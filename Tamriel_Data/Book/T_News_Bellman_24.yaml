@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Bellman_24
+name: DAEDRIC DOPPELGANGER DEAD
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_note_oe_news.nif
+icon: tr\m\tr_note_oe_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\TR_bellman_512_256.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nDAEDRIC DOPPELGANGER DEAD<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nImperial justice has triumphed once more against the poisonous machinations of the accursed traitor Jagar Tharn! The former general Casik - who briefly and illegally ruled Ebonheart as his personal fief during the chaotic years of the Imperial Simulacrum - has been revealed to be a daedric imposter, and slain. Ebonheart's noble Minister of Justice, Belisatha Mede, cited the vital assistance of a capable %PCRace %PCClass in finally putting the thirty-year-old case to rest. Citizens are encouraged to bring any information about surviving associates of the demon general to the authorities, and to be ever-vigilant against the ongoing threat of Tharnite plots.<br><br>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_Narsis_104_schedule
+name: Work Schedule
+script: ''
+mesh: m\Text_Parchment_02.nif
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This paper details Rylara Karaleth's monthly work schedule as silt strider caravaner. She doesn't appear to have much time off.]<BR>\r\n"
+data:
+  weight: 0.1
+  value: 5
+  book_type: Scroll
+  skill: None
+  enchantment: 100

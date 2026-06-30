@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2-410_bk5_IndorilArmor
+name: Indoril Armor
+script: ''
+mesh: m\Text_Parchment_02.NIF
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe armor set lying on this table belonged once to Fendel Giretha. A common mer of low birth, he lived an inconspicuous life as a petty commoner and criminal in the city of Almalexia. When at last confronted with the reality of his crimes and brought to justice, Fendel Giretha rediscovered through the priest who ministered to him the glory of Almsivi. Awed by the tale of Saint Roris, martyred by the heathen Argonians, Fendel Giretha swore to devote his life similarly to the sword-service of the blessed Tribunal. Reclaiming his honor, Fendel Giretha became a retainer of the Great House Indoril, and served that House as a scout in Argonia. At the crucial battle of Arl Shilpan, the scout was the first to raise the alarm as the heathen war chief Itei-dar attacked the camp at the night. Fendel Giretha was slain fighting the heathen, who overwhelmed his novice blade, but was avenged thousandfold by the proud warriors of Great House Indoril. It is to honor their sacrifice and the inspiration of such a lowly mer that Fendel Giretha's armor is here preserved as a relic of the war. \r\n<BR>"
+data:
+  weight: 0.1
+  value: 5
+  book_type: Scroll
+  skill: None
+  enchantment: 0

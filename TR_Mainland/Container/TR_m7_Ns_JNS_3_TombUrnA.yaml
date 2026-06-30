@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m7_Ns_JNS_3_TombUrnA
+name: Urn
+script: TR_m7_Ns_JNS_3_ScTombObjDisable
+mesh: o\Contain_urn_03.NIF
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - ingred_gravedust_01

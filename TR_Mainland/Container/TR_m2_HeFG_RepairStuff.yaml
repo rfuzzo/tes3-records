@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m2_HeFG_RepairStuff
+name: Chest
+script: ''
+mesh: o\contain_chest10.nif
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - 4
+  - TR_m2_HeFG_RepairStuffLL

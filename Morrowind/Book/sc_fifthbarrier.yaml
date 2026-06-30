@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: sc_fifthbarrier
+name: Scroll of The Fifth Barrier
+script: ''
+mesh: m\text_scroll_01.nif
+icon: m\tx_scroll_open_01.tga
+enchanting: sc_fifthbarrier_en
+text: <DIV ALIGN="center"><FONT COLOR="000000" SIZE="2" FACE="Daedric">ENDLESS PAIN AND SUFFERING</FONT><BR>
+data:
+  weight: 0.2
+  value: 156
+  book_type: Scroll
+  skill: None
+  enchantment: 0

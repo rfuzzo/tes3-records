@@ -1,0 +1,23 @@
+type: Container
+flags: ''
+id: T_MwCom_Var_Cr1SacBM_01
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_De_BonemoldSacred_Boots_01
+- - 1
+  - T_De_BonemoldSacred_Cuirass_01
+- - 1
+  - T_De_BonemoldSacred_GauntL_01
+- - 1
+  - T_De_BonemoldSacred_GauntR_01
+- - 1
+  - T_De_BonemoldSacred_Helm_01
+- - 1
+  - T_De_BonemoldSacred_PauldL_01
+- - 1
+  - T_De_BonemoldSacred_PauldR_01

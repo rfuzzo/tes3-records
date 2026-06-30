@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_SetCyr_SignCompHaaf_01
+name: Royal Haafingar Company
+script: SignRotate
+mesh: pc\f\pc_furn_sign_haaf_01.nif

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Bellman_37
+name: EBONHEART FASHION TRENDSETTER
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_note_oe_news.nif
+icon: tr\m\tr_note_oe_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\TR_bellman_512_256.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nEBONHEART FASHION TRENDSETTER<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nAetia Nemesia, the formidable top administrator of the East Empire Company, may also be the most fashionable woman in the city. Recently, she wowed the city's elite society with her sleek new outfit of tight-fitting cream trousers, a deep-blue velvet robe tastefully ornamented with golden embroidery and matching silken shoes, tailor-made to suit the fast-paced lifestyle of the foremost merchant in Old Ebonheart. Note that all of Aetia's garments are ordered straight from the finest couturier houses in Cyrodiil City, representing the latest in Imperial design. In her own words, \"Life is too short for half measures. I dress the same way I run my EEC chapter: ruthlessly, without false scruples.\" Whether shocked or thrilled by these new winds in fashion, one thing is clear: in matters of style, this is a woman to keep in mind.<br><br>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

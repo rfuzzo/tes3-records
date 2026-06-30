@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m1_q_TTShrine1
+name: Shrine of Purging
+script: TR_m1_q_TTShrine1_Script
+mesh: f\Furn_shrine_vivec_01.NIF

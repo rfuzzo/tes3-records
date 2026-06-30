@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_Nars_TheaterProgram
+name: Theater Program
+script: ''
+mesh: pc\m\pc_bk_letter_04.nif
+icon: pc\m\pc_m_letter_04.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>\r\nUpcoming premieres at the Hlaalu Theater of Narsis: <BR>\r\n<BR>\r\nThe Wealth of Wayrest by Muncia Naintes<BR>\r\n<BR>\r\nThe Six Demons of Snowhawk by Stigvald Fire-Singer<BR>\r\n<BR>\r\nAntediluvian Secrets by Enura Nelas<BR>\r\n<BR>\r\n[To Be Announced] by Councilman Crassius Curio<BR>\r\n<BR>\r\n"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

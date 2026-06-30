@@ -1,0 +1,45 @@
+type: Container
+flags: ''
+id: de_r_closet_01_tuveso1
+name: Closet
+script: ''
+mesh: o\Contain_De_Closet_01.NIF
+encumbrance: 500.0
+container_flags: IS_BASE
+inventory:
+- - -50
+  - iron bolt
+- - -100
+  - iron arrow
+- - 100
+  - flame arrow
+- - -50
+  - iron throwing knife
+- - -1
+  - steel spear
+- - -1
+  - steel warhammer
+- - -1
+  - steel club
+- - -1
+  - steel mace
+- - -1
+  - bonemold_bracer_right
+- - -1
+  - bonemold_bracer_left
+- - -1
+  - bonemold_boots
+- - -1
+  - bonemold_greaves
+- - -1
+  - bonemold_armun-an_pauldron_r
+- - -1
+  - bonemold_armun-an_pauldron_l
+- - -1
+  - bonemold_armun-an_cuirass
+- - -1
+  - bonemold_armun-an_helm
+- - -2
+  - random_iron_weapon
+- - -3
+  - random_armor_steel

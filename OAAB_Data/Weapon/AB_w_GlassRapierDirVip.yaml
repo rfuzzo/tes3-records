@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_GlassRapierDirVip
+name: Glass Viperlunger
+script: ''
+mesh: OAAB\w\w_rapier_glass.nif
+icon: OAAB\w\w_rapglass.dds
+enchanting: dire viper_en
+data:
+  weight: 12.0
+  value: 18000
+  weapon_type: LongBladeOneHand
+  health: 470
+  speed: 1.55
+  reach: 1.1
+  enchantment: 36
+  chop_min: 2
+  chop_max: 18
+  slash_min: 3
+  slash_max: 20
+  thrust_min: 6
+  thrust_max: 34
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

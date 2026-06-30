@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_CoiledRope_01
+name: Rope Coil
+script: ''
+mesh: m\misc_ropecoil00.nif
+icon: m\misc_ropecoil00.dds
+data:
+  weight: 2.0
+  value: 2
+  flags: ''

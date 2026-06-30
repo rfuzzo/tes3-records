@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_EnSc_TT_AlmsiviBurden
+name: Scroll of Almsivi Penance
+script: ''
+mesh: m\Text_Scroll_01.nif
+icon: m\Tx_scroll_open_01.tga
+enchanting: TR_m3_sc_TT_AlmsiviBurden_en
+text: <DIV ALIGN="center"><FONT COLOR="000000" SIZE="2" FACE="Daedric">THE PENITENT SHOWS FORTITUDE </FONT><BR>
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 100

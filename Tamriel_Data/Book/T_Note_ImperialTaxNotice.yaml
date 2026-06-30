@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Note_ImperialTaxNotice
+name: Imperial Tax Notice
+script: ''
+mesh: m\Text_Parchment_01.NIF
+icon: m\Tx_parchment_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">By order of Uriel Septim VII, Emperor of Tamriel, and the esteemed members of the Elder Council<BR>\r\n<BR>\r\nLet it hereby be known that the Elder Council, in the session of the 18th day of First Seed this year, has unanimously decided upon the abolishment of the 34th war tax, this tax having been instated in the year of 3E 401 in order to support continued pacification of the provinces in the wake of the perversions of the Simulacrum.<BR><BR>\r\nAs peace and prosperity have henceforth returned to all quarters of the Empire, through the tireless vigilance of the noble Imperial Legions, it is now decided that the 34th war tax is to be replaced with a citizen contribution not exceeding 10 Septim per head of a household, for the maintenance of roads and watchtowers in these times of great need.<BR><BR>\r\n\r\n<BR>\r\nThe Empire is Law,<BR>\r\nthe Law is sacred.<BR>\r\n<BR>\r\n<BR>\r\n<IMG SRC=\"PC\\pc_waxseal_empire.dds\" WIDTH=\"96\" HEIGHT=\"96\"><BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

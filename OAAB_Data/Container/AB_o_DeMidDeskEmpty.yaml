@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: AB_o_DeMidDeskEmpty
+name: Desk
+script: ''
+mesh: OAAB\o\de_rm_desk01.nif
+encumbrance: 40.0
+container_flags: IS_BASE
+inventory: []

@@ -1,0 +1,17 @@
+type: Clothing
+flags: ''
+id: T_De_Et_SkirtRedHero_01
+name: Redoran Skirt
+script: ''
+mesh: TR\c\TR_c_Red_Hero_SkirtRG.nif
+icon: TR\c\TR_c_red_hero_skirtr.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Skirt
+  male_bodypart: T_C_DeEtSkirtRedHero01_G
+  female_bodypart: ''
+data:
+  clothing_type: Skirt
+  weight: 6.0
+  value: 50
+  enchantment: 200

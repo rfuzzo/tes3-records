@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_StudyOnDreughsTR
+name: A Study on Dreughs
+script: ''
+mesh: TR\m\TR_book_closed_i05_AY.nif
+icon: TR\m\TR_book_closed_i05_AY.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nA Study on Dreughs <BR>\r\nUnknown <BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nThose who spend time at sea tell stories about sea monsters and giant squids so often that a common person may be fooled to believe them to be true. There are indeed fearsome sea creatures, the most commonly mistaken of which are the dreughs, a half-man, and half-squid creature. They are shrouded in mystery, though it is believed that current dreughs are the remnants of a once great civilization. <BR>\r\n<BR>\r\nCertain experienced fighters may serve as a worthy opponent to a dreugh, but they are fearsome fighters and should be avoided as a general rule. For this reason, goods made of or coming from dreughs have a relatively high market value, such as dreugh wax, dreugh weapons, or armor made from dreugh hide. Certain Temple members believe that it was Vivec who made the dreughs able to allow their shells for human use as armor, though that theory may be contested. <BR>\r\n<BR>\r\nOne peculiar behavior of the dreughs is a stage in life they go through called karvinasim. During this period of their life, they have the ability to walk the surface of the land. When the stage is over, they consume their land-based appendages and spit them out into balls known as grom. Dreughs found in caves and grottos usually got there during their karvinasim period while they migrated to land or walked on the surface. Currently, I am studying one such cave to the north of the Telvanni islands.<BR>\r\n"
+data:
+  weight: 1.0
+  value: 35
+  book_type: Book
+  skill: None
+  enchantment: 100

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_Set_Shrine_SaintWar_03
+name: Shrine of St. Wren
+script: T_ScObj_ShrineSaintWarPC
+mesh: pc\x\pc_ex_wshrn_03.nif

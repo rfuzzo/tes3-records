@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m7_AmuletBlastingCharm
+name: Amulet of Blasting Charm
+script: ''
+mesh: c\Amulet_Extravagant_1.NIF
+icon: c\tx_amulet_extrav1.tga
+enchanting: TR_m7_BlastingCharm_en
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 1250
+  enchantment: 600

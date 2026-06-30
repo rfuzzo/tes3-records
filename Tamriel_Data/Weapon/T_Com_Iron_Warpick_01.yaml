@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Com_Iron_Warpick_01
+name: Iron War Pick
+script: ''
+mesh: tr\w\tr_w_iron_wpick_01.nif
+icon: tr\w\tr_w_iron_wpick_01.dds
+enchanting: ''
+data:
+  weight: 13.0
+  value: 25
+  weapon_type: AxeOneHand
+  health: 1000
+  speed: 1.3
+  reach: 1.0
+  enchantment: 60
+  chop_min: 6
+  chop_max: 12
+  slash_min: 6
+  slash_max: 12
+  thrust_min: 1
+  thrust_max: 2
+  flags: ''

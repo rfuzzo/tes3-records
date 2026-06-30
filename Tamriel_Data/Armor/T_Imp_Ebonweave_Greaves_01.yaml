@@ -1,0 +1,31 @@
+type: Armor
+flags: ''
+id: T_Imp_Ebonweave_Greaves_01
+name: Ebonweave Greaves
+script: ''
+mesh: tr\a\tr_a_ebonw_grvs_gnd.nif
+icon: tr\a\tr_a_ebonw_greaves.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Groin
+  male_bodypart: T_A_ImpEbonweaveGreaves_G
+  female_bodypart: ''
+- biped_object_type: LeftUpperLeg
+  male_bodypart: T_A_ImpEbonweaveGreaves_UL
+  female_bodypart: ''
+- biped_object_type: LeftKnee
+  male_bodypart: T_A_ImpEbonweaveGreaves_K
+  female_bodypart: ''
+- biped_object_type: RightUpperLeg
+  male_bodypart: T_A_ImpEbonweaveGreaves_UL
+  female_bodypart: ''
+- biped_object_type: RightKnee
+  male_bodypart: T_A_ImpEbonweaveGreaves_K
+  female_bodypart: ''
+data:
+  armor_type: Greaves
+  weight: 7.0
+  value: 9500
+  health: 380
+  enchantment: 80
+  armor_rating: 30

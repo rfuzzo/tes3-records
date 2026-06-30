@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: silver staff
+name: Silver Staff
+script: ''
+mesh: w\W_silver_staff.nif
+icon: w\Tx_silver_staff.tga
+enchanting: ''
+data:
+  weight: 6.4
+  value: 56
+  weapon_type: BluntTwoWide
+  health: 270
+  speed: 1.75
+  reach: 1.5
+  enchantment: 56
+  chop_min: 2
+  chop_max: 7
+  slash_min: 3
+  slash_max: 7
+  thrust_min: 1
+  thrust_max: 5
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE | SILVER

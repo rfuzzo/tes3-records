@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: T_SkyNor_FurnP_Dw1CltMal
+name: Dresser
+script: ''
+mesh: Sky\o\Sky_Furn_N_L_DRS_01.nif
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Sky_Random_Clothing
+- - 1
+  - T_Sky_Random_ClothingPantsPoor

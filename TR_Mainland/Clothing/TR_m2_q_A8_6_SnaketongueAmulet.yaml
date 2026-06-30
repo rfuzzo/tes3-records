@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m2_q_A8_6_SnaketongueAmulet
+name: Snaketongue Amulet
+script: ''
+mesh: c\Amulet_Expensive_2.NIF
+icon: c\tx_amulet_expens2.tga
+enchanting: TR_m2_q_A8_6_SnaketongueEnch
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 444
+  enchantment: 300

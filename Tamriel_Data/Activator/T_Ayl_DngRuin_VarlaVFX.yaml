@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Ayl_DngRuin_VarlaVFX
+name: ''
+script: T_ScObj_VarlaVFX
+mesh: tr\i\tr_collision_box_01.nif

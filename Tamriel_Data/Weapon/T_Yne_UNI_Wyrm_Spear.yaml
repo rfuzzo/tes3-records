@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Yne_UNI_Wyrm_Spear
+name: Wyrm's Fang Spear
+script: ''
+mesh: pi\w\Pi_w_wyrm's_fang.nif
+icon: pi\w\pi_w_wyrm's fang.dds
+enchanting: T_Strike_Wyrm_Spear
+data:
+  weight: 10.0
+  value: 30000
+  weapon_type: SpearTwoWide
+  health: 750
+  speed: 1.0
+  reach: 1.8
+  enchantment: 50
+  chop_min: 8
+  chop_max: 24
+  slash_min: 2
+  slash_max: 8
+  thrust_min: 4
+  thrust_max: 46
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

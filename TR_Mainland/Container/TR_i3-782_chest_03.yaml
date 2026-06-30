@@ -1,0 +1,55 @@
+type: Container
+flags: ''
+id: TR_i3-782_chest_03
+name: Wooden Chest
+script: ''
+mesh: o\contain_chest10.nif
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - BookSkill_Alchemy2
+- - 1
+  - BookSkill_Alchemy3
+- - 1
+  - apparatus_a_mortar_01
+- - 1
+  - apparatus_j_mortar_01
+- - 2
+  - p_chameleon_c
+- - 2
+  - p_cure_common_s
+- - 2
+  - p_cure_paralyzation_s
+- - 2
+  - p_cure_poison_s
+- - 1
+  - p_disease_resistance_s
+- - 1
+  - p_dispel_s
+- - 2
+  - p_fortify_strength_s
+- - 1
+  - p_invisibility_c
+- - 2
+  - p_invisibility_s
+- - 1
+  - p_jump_c
+- - 2
+  - p_levitation_s
+- - 2
+  - p_light_c
+- - 1
+  - p_night-eye_s
+- - 2
+  - p_restore_health_c
+- - 4
+  - p_restore_health_s
+- - 2
+  - p_restore_magicka_c
+- - 4
+  - p_restore_magicka_s
+- - 1
+  - p_water_breathing_s
+- - 1
+  - p_water_walking_s

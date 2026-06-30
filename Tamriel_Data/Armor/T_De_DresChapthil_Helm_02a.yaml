@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_De_DresChapthil_Helm_02a
+name: Chap-thil Hat
+script: ''
+mesh: tr\a\tr_a_dres_strawhat_02a.nif
+icon: tr\a\tr_a_dres_strawhat_02a.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Head
+  male_bodypart: T_A_DeDresChapHat02a_Hd
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 2.0
+  value: 35
+  health: 100
+  enchantment: 10
+  armor_rating: 5

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Imp_Vampyrum_Warpick_Leech
+name: Vampyrum Order Leechpick
+script: ''
+mesh: pc\w\pc_w_vampyr_wpick_01.nif
+icon: pc\w\pc_w_vampyr_wpick_01.dds
+enchanting: T_Strike_VampyrumWeapon
+data:
+  weight: 7.5
+  value: 11200
+  weapon_type: AxeOneHand
+  health: 1600
+  speed: 1.25
+  reach: 1.0
+  enchantment: 50
+  chop_min: 1
+  chop_max: 29
+  slash_min: 1
+  slash_max: 16
+  thrust_min: 1
+  thrust_max: 4
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

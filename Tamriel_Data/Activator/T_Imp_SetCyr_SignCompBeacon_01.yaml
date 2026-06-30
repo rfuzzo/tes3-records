@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_SetCyr_SignCompBeacon_01
+name: Beacon Company
+script: SignRotate
+mesh: pc\f\pc_furn_sign_beacon_01.nif

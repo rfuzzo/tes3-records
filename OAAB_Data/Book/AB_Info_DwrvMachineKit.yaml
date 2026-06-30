@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: AB_Info_DwrvMachineKit
+name: InfoBox - Dwemer Machine Kit
+script: ''
+mesh: OAAB\h\marker_info.nif
+icon: OAAB\h\marker_info.tga
+enchanting: ''
+text: "Rotating parts in the Dwemer Machine Kit have rotation direction markers on them.\r\n\r\nStatic versions do not have the rotation marker.\r\n\r\nSteam meshes have a \"particle cloud\" marker to show the approximate volume of the particle effect(s)."
+data:
+  weight: 0.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 100

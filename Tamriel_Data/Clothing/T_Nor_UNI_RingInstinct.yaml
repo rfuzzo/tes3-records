@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Nor_UNI_RingInstinct
+name: Ring of Instinct
+script: ''
+mesh: sky\c\sky_c_ring_instinct.nif
+icon: sky\c\sky_c_ring_instinct.dds
+enchanting: T_Const_RingInstinct
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 8000
+  enchantment: 0

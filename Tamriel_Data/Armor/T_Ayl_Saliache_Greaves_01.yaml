@@ -1,0 +1,25 @@
+type: Armor
+flags: ''
+id: T_Ayl_Saliache_Greaves_01
+name: Saliache Greaves
+script: ''
+mesh: pc\a\pc_a_ayl_greav_g.nif
+icon: pc\a\pc_a_ayl_greaves.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Groin
+  male_bodypart: T_A_AylSaliacheGreaves01_G
+  female_bodypart: ''
+- biped_object_type: LeftUpperLeg
+  male_bodypart: T_A_AylSaliacheGreaves01_UL
+  female_bodypart: ''
+- biped_object_type: RightUpperLeg
+  male_bodypart: T_A_AylSaliacheGreaves01_UL
+  female_bodypart: ''
+data:
+  armor_type: Greaves
+  weight: 9.0
+  value: 1800
+  health: 150
+  enchantment: 50
+  armor_rating: 25

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_Omaynis_Banner_Inn
+name: The Kwama's Scuttle
+script: TR_m4_OmaynisInnBanner_script
+mesh: f\Furn_banner_tavern_01.nif

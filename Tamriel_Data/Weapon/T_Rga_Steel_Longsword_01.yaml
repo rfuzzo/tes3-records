@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Rga_Steel_Longsword_01
+name: Redguard Steel Longsword
+script: ''
+mesh: hf\w\hf_w_rgasteel_longsw1.nif
+icon: hf\w\pc_w_rgasteel_longsw1.dds
+enchanting: ''
+data:
+  weight: 20.0
+  value: 100
+  weapon_type: LongBladeOneHand
+  health: 1350
+  speed: 1.35
+  reach: 1.0
+  enchantment: 70
+  chop_min: 2
+  chop_max: 16
+  slash_min: 4
+  slash_max: 22
+  thrust_min: 4
+  thrust_max: 20
+  flags: ''

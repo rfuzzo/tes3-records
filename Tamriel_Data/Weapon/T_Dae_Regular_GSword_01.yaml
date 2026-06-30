@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Dae_Regular_GSword_01
+name: Daedric Greatsword
+script: ''
+mesh: tr\w\tr_w_daedra_claymore_g.nif
+icon: tr\w\tr_w_daedra_claymore_g.dds
+enchanting: ''
+data:
+  weight: 85.0
+  value: 90000
+  weapon_type: LongBladeTwoClose
+  health: 5700
+  speed: 1.25
+  reach: 1.0
+  enchantment: 200
+  chop_min: 1
+  chop_max: 62
+  slash_min: 1
+  slash_max: 54
+  thrust_min: 1
+  thrust_max: 26
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

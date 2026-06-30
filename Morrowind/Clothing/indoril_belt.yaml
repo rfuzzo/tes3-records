@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: indoril_belt
+name: Indoril Belt
+script: ''
+mesh: c\C_belt_Common_2.NIF
+icon: c\tx_belt_common02.tga
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Belt
+  weight: 2.0
+  value: 5
+  enchantment: 5

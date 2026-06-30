@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_DaedricStar
+name: Daedric Throwing Star
+script: ''
+mesh: OAAB\w\daedric_star.nif
+icon: OAAB\w\daedric_star.tga
+enchanting: ''
+data:
+  weight: 0.2
+  value: 4000
+  weapon_type: MarksmanThrown
+  health: 900
+  speed: 1.0
+  reach: 1.0
+  enchantment: 30
+  chop_min: 4
+  chop_max: 13
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

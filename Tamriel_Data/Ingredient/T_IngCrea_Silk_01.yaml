@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_Silk_01
+name: Raw Silk
+script: ''
+mesh: pc\n\pc_ing_silk_01.nif
+icon: pc\n\pc_tx_ingred_silk.dds
+data:
+  weight: 0.1
+  value: 5
+  effects:
+  - DrainMagicka
+  - DetectEnchantment
+  - Dispel
+  - DetectAnimal
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

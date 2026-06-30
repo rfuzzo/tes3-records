@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_De_Ind_BellHammer_01
+name: Indoril Bell Hammer
+script: ''
+mesh: tr\w\tr_w_ind_bell_ham.nif
+icon: tr\w\tr_w_ind_bell_ham.dds
+enchanting: ''
+data:
+  weight: 60.0
+  value: 4000
+  weapon_type: BluntTwoClose
+  health: 3800
+  speed: 1.0
+  reach: 1.5
+  enchantment: 95
+  chop_min: 1
+  chop_max: 45
+  slash_min: 1
+  slash_max: 40
+  thrust_min: 1
+  thrust_max: 3
+  flags: ''

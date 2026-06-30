@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_ChitinGreatmace
+name: Chitin Greatmace
+script: ''
+mesh: OAAB\w\chitin_greatmace.nif
+icon: OAAB\w\chitin_greatmace.dds
+enchanting: ''
+data:
+  weight: 28.0
+  value: 23
+  weapon_type: BluntTwoClose
+  health: 1300
+  speed: 1.0
+  reach: 1.5
+  enchantment: 23
+  chop_min: 1
+  chop_max: 25
+  slash_min: 1
+  slash_max: 22
+  thrust_min: 1
+  thrust_max: 2
+  flags: ''

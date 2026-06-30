@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_Tray_01
+name: Tray
+script: ''
+mesh: f\furn_tray_01.nif
+icon: tr\m\tr_m_tray_01.dds
+data:
+  weight: 5.0
+  value: 12
+  flags: ''

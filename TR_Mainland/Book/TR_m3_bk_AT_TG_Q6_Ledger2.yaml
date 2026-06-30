@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_bk_AT_TG_Q6_Ledger2
+name: Deciphered Hlan Oek Code Book
+script: ''
+mesh: m\Text_Octavo_08.nif
+icon: m\Tx_book_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nNARROW SAW<BR>\r\nSIX BOXES DELIVERED<BR>\r\n<BR>\r\nCRAG GANG MAR<BR>\r\nTWENTY EIGHT BOXES<BR>\r\n<BR>\r\nUNDER DISS<BR>\r\nSEVENTEEN BOXES DELIVERED<BR>\r\n<BR>\r\nHOLE RUDE<BR>\r\nEIGHT BOXES DELIVERED<BR>\r\n<BR>\r\nRARE RUN<BR>\r\nFOUR BOXES<BR>\r\n<BR>\r\nMOON DRAKE THEE (REMOTE)<BR>\r\nTWO BOXES DELIVERED<BR>\r\n<BR>\r\nNARROW SAW -- Narusa Winery<BR>\r\nCRAG GANG MAR -- Kragenmoor<BR>\r\nUNDER DISS -- Andrethis<BR>\r\nHOLE RUDE -- Hla Rud<BR>\r\nRARE RUN -- Raran Manor, Indal-ruhn<BR>\r\nMOON DRAKE THEE -- Mundrethi Plantation<BR>\r\n<BR>\r\n"
+data:
+  weight: 2.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 20

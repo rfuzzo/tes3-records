@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Imp_Newtscale_GauntletR_01
+name: Imperial Newtscale R Gauntlet
+script: ''
+mesh: pc\a\PC_a_newt_glove_GND.nif
+icon: pc\a\pc_a_newt_gauntlet.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: RightHand
+  male_bodypart: T_A_ImpNewtGauntl01_Ha
+  female_bodypart: ''
+data:
+  armor_type: RightGauntlet
+  weight: 3.0
+  value: 20
+  health: 50
+  enchantment: 100
+  armor_rating: 10

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_TG_DironLetter01
+name: Scandalous Letter, I
+script: ''
+mesh: m\Text_Parchment_02.nif
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This letter describes the various acts that the writer has done or wishes to do with the recipient, addressed as 'my sweet Dervara', in vivid detail. They read like excerpts from the banned edition of 'The Real Barenziah'. It also has a short paragraph where the writer complains about his wife. The letter is signed 'Vermie'.]<BR>\r\n<BR>"
+data:
+  weight: 0.05
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

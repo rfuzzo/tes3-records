@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: Dagger of Judgement
+name: Dagger of Judgement
+script: ''
+mesh: w\W_dagger_chitin.nif
+icon: w\Tx_chitin_dagger.tga
+enchanting: judgement_en
+data:
+  weight: 1.5
+  value: 6
+  weapon_type: ShortBladeOneHand
+  health: 400
+  speed: 2.5
+  reach: 1.0
+  enchantment: 10
+  chop_min: 3
+  chop_max: 3
+  slash_min: 3
+  slash_max: 3
+  thrust_min: 3
+  thrust_max: 3
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_De_Ebony_Shortsword_02
+name: Ebony Shortsword
+script: ''
+mesh: pc\w\pc_w_ebon_ssword2.nif
+icon: pc\w\pc_w_ebon_ssword2.tga
+enchanting: ''
+data:
+  weight: 16.0
+  value: 10000
+  weapon_type: ShortBladeOneHand
+  health: 1200
+  speed: 2.0
+  reach: 1.0
+  enchantment: 80
+  chop_min: 10
+  chop_max: 20
+  slash_min: 10
+  slash_max: 22
+  thrust_min: 15
+  thrust_max: 25
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

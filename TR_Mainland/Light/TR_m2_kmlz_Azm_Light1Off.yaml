@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: TR_m2_kmlz_Azm_Light1Off
+name: ''
+script: TR_m2_kmlz_Azm_Light_sc
+mesh: l\light_dwe_bulb00.NIF
+icon: ''
+sound: Power light 50
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 16
+  color:
+  - 255
+  - 219
+  - 164
+  - 0
+  flags: DYNAMIC

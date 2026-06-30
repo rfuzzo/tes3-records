@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: T_SkyCom_Var_Cr2Msc6
+name: Crate
+script: ''
+mesh: Sky\o\Sky_Cont_Crate_02.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Sky_Lvl_Potion
+- - 1
+  - T_Sky_Lvl_Soulgems
+- - 3
+  - T_Sky_Random_Pos

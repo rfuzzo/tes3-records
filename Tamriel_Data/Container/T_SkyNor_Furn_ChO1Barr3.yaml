@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: T_SkyNor_Furn_ChO1Barr3
+name: Worn Chest
+script: ''
+mesh: Sky\o\Sky_Cont_Chest_W_01.nif
+encumbrance: 250.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - T_Sky_Lvl_BarrowLoot
+- - 40
+  - T_Sky_Lvl_Missiles

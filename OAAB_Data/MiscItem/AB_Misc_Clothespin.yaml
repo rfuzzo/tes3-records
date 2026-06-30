@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_Clothespin
+name: Clothespin
+script: ''
+mesh: OAAB\m\clothespin.nif
+icon: OAAB\m\clothespin.tga
+data:
+  weight: 0.1
+  value: 1
+  flags: ''

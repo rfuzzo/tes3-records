@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_MwDe_Furn_U2Corkbulb
+name: Urn
+script: ''
+mesh: o\Contain_urn_02.nif
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - 10
+  - random_corkbulb_root

@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: TR_m2_i2-274_deadwarrio
+name: Corpse
+script: ''
+mesh: o\contain_corpse20.NIF
+encumbrance: 120.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - common_ring_01
+- - 1
+  - ingred_bonemeal_01
+- - 1
+  - p_water_breathing_s
+- - 1
+  - wooden staff

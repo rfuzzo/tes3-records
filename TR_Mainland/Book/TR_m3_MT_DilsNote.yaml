@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_MT_DilsNote
+name: Letter from I.
+script: TR_m3_MT_DilsNote_scr
+mesh: m\Text_Parchment_01.nif
+icon: m\Tx_parchment_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\nYou may recall a certain black-handed brother who has been of great assistance to us recently. In exchange for this, I have promised him a big bag of gold and a new name.<BR>\r\n<BR>\r\nHe will arrive in Idathren with all the necessary papers proving him to be a veteran of the Arnesian War, and now a common tradesmer from Kragenmoor, looking for a new business opportunity on Lake Andaram. I have provided him with enough money to buy a property and turn it into an inn. You only need to put your signature to it, and collect your cut of his earnings every year.<BR>\r\n<BR>\r\nOur cowardly friend will get to live out his life in peace, and Idathren will get a new business enterprise. I hope this is a satisfactory outcome for all parties involved.<BR><BR>\r\nI picked Sadri for his new name -- there's so many of that brood running around all over Morrowind that no one will question one more.<BR>\r\n<BR>\r\nI.<BR>\r\n<BR>\r\n"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 100

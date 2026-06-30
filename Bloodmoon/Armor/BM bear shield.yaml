@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: BM bear shield
+name: Bear Shield
+script: ''
+mesh: a\A_Bear_Shield.NIF
+icon: A\Tx_Bear_Shield.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Shield
+  male_bodypart: bm_bearshield
+  female_bodypart: ''
+data:
+  armor_type: Shield
+  weight: 10.0
+  value: 100
+  health: 150
+  enchantment: 20
+  armor_rating: 15

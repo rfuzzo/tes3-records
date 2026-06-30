@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_TartRedguard_01
+name: Tart
+script: ''
+mesh: hf\n\hf_food_Tart01.nif
+icon: hf\n\hf_food_tart01.dds
+data:
+  weight: 1.0
+  value: 18
+  effects:
+  - RestoreMagicka
+  - FortifyHealth
+  - DrainFatigue
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

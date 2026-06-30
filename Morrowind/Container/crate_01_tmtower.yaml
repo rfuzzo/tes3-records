@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: crate_01_tmtower
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - p_levitation_e
+- - 1
+  - p_light_q
+- - 1
+  - p_night-eye_s

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2_q_36_LetterFromNethan
+name: Letter from Nethan Dralor
+script: ''
+mesh: m\Text_Parchment_02.nif
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nCommander Rethrathi<BR>\r\n<BR>\r\nHere's the sum we agreed upon, and I don't have to remind you that by all means it must look like an attempted escape.<BR>\r\n<BR>\r\nSigned<BR>\r\nNethan<BR>\r\n<BR>"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 100

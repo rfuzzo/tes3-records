@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_FrogEye_01
+name: Frog Eyeball
+script: ''
+mesh: pc\n\pc_ing_frogeye.nif
+icon: pc\n\pc_tx_ingred_frogeye.dds
+data:
+  weight: 0.2
+  value: 5
+  effects:
+  - FortifyAttribute
+  - DrainMagicka
+  - WaterBreathing
+  - SpellAbsorption
+  skills:
+  - Block
+  - None
+  - None
+  - None
+  attributes:
+  - Intelligence
+  - None
+  - None
+  - None

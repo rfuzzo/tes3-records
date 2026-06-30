@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_CyrImp_FurnR_Dw1G
+name: Drawers
+script: ''
+mesh: pc\o\pc_com_drawers_s.nif
+encumbrance: 75.0
+container_flags: IS_BASE
+inventory:
+- - 25
+  - random gold

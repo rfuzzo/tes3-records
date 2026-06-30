@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_Monkshood_01
+name: Monkshood
+script: ''
+mesh: pc\n\pc_ingred_monkshade.nif
+icon: pc\n\pc_tx_ingred_monksha.dds
+data:
+  weight: 0.1
+  value: 1
+  effects:
+  - RestoreAttribute
+  - DamageAttribute
+  - FortifyAttribute
+  - Burden
+  skills:
+  - Block
+  - Block
+  - Block
+  - None
+  attributes:
+  - Strength
+  - Intelligence
+  - Endurance
+  - None

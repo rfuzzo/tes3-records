@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Bre_PewterSpoon_01
+name: Pewter Spoon
+script: ''
+mesh: hr\m\hr_misc_pew_spoon_01.nif
+icon: hr\m\hr_misc_pew_spoon_01.dds
+data:
+  weight: 1.0
+  value: 1
+  flags: ''

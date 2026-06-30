@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_Card_Deck_01
+name: Deck of Cards
+script: ''
+mesh: pc\m\pc_misc_card_deck_01.nif
+icon: pc\m\pc_misc_card_deck_01.dds
+data:
+  weight: 1.0
+  value: 15
+  flags: ''

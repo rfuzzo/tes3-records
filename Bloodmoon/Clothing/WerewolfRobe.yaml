@@ -1,0 +1,17 @@
+type: Clothing
+flags: ''
+id: WerewolfRobe
+name: ''
+script: ''
+mesh: Add World Art
+icon: ''
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: WerewolfSkin
+  female_bodypart: ''
+data:
+  clothing_type: Robe
+  weight: 1.0
+  value: 1
+  enchantment: 100

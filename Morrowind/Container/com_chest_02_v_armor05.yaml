@@ -1,0 +1,29 @@
+type: Container
+flags: ''
+id: com_chest_02_v_armor05
+name: Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - -1
+  - bonemold_bracer_right
+- - -1
+  - bonemold_bracer_left
+- - -1
+  - chitin_shield
+- - -1
+  - bonemold_boots
+- - -1
+  - chitin greaves
+- - -1
+  - chitin pauldron - right
+- - -1
+  - chitin pauldron - left
+- - -1
+  - dragonscale_cuirass
+- - -1
+  - bonemold_cuirass
+- - -1
+  - bonemold_founders_helm

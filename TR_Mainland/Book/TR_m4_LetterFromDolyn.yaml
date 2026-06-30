@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: TR_m4_LetterFromDolyn
+name: Letter from Dolyn
+script: ''
+mesh: M\text_note_01.nif
+icon: m\tx_note_01.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<BR>\r\nAmozhgar, <BR>\r\n<BR>\r\nI'm sick of mopping your floors and dusting your shelves. All of this in hopes of receiving the crumbs of knowledge that you cast my way. If you think I'm going to wait around forever you can forget it.<BR>"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

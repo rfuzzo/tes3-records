@@ -1,0 +1,31 @@
+type: Armor
+flags: ''
+id: BM_NordicMail_greaves
+name: Nordic Mail Greaves
+script: ''
+mesh: a\A_NordicMail_Greaves_GND.NIF
+icon: A\NordicMail_Greaves.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Groin
+  male_bodypart: A_NordicMail_M_Groin
+  female_bodypart: A_NordicMail_F_Groin
+- biped_object_type: LeftUpperLeg
+  male_bodypart: A_NordicMail_M_UL
+  female_bodypart: A_NordicMail_F_UL
+- biped_object_type: LeftKnee
+  male_bodypart: A_NordicMail_M_K
+  female_bodypart: A_NordicMail_F_K
+- biped_object_type: RightUpperLeg
+  male_bodypart: A_NordicMail_M_UL
+  female_bodypart: A_NordicMail_F_UL
+- biped_object_type: RightKnee
+  male_bodypart: A_NordicMail_M_K
+  female_bodypart: A_NordicMail_F_K
+data:
+  armor_type: Greaves
+  weight: 18.0
+  value: 2000
+  health: 300
+  enchantment: 80
+  armor_rating: 66

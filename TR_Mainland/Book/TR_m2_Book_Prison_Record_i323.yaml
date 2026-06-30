@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2_Book_Prison_Record_i323
+name: Fort Windmoth Prison Record
+script: ''
+mesh: m\Text_Octavo_open_03.nif
+icon: m\Tx_octavo_open_03.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This book is a record of the prisoners held at Fort Windmoth.]<BR>\r\n<BR>\r\nMaliferous Lend, Champion of Fort Windmoth: Arrested for insubordination. Died while awaiting trial when his prison cell collapsed.<BR>\r\n<BR>\r\nGidaves Vari, Spellsword: Arrested for attacking travelers. His magicka has been drained with a bracer, similar to the ones used on slaves.<BR>\r\n<BR>"
+data:
+  weight: 3.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 0

@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: TR_m2_q_A9_5_brazier_on
+name: ''
+script: TR_m2_q_A9_5_LightOnScript
+mesh: l\Light_Velothi_Brazier.nif
+icon: ''
+sound: Fire 50
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 320
+  color:
+  - 245
+  - 140
+  - 40
+  - 0
+  flags: DYNAMIC | FIRE | FLICKER_SLOW

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_Set_Shrine_SaintEmp_05
+name: Shrine of St. Uriel
+script: T_ScObj_ShrineSaintEmpPC
+mesh: pc\x\pc_ex_wshrn_04.nif

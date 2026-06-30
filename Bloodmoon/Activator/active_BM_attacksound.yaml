@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: active_BM_attacksound
+name: ''
+script: skaaldoorSound
+mesh: f\Furn_Ashl_Chime_01.NIF

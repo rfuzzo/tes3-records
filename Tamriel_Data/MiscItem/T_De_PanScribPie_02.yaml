@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_PanScribPie_02
+name: Unbaked Scrib Pie
+script: ''
+mesh: TR\m\TR_misc_pan_03.nif
+icon: TR\m\TR_misc_pan_03.dds
+data:
+  weight: 2.0
+  value: 5
+  flags: ''

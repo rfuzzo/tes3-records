@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_TeloserasKeyNote
+name: KeyNote
+script: ''
+mesh: tr\tr_note_pin.nif
+icon: default icon.dds
+enchanting: ''
+text: This room has a key to the sealed area in the vault level. The gold is cursed, and the carpet drains all magicka. Unless the player was not thorough in getting here, this is only a minor problem because they can leave the room to rest, but there is a rat in the next room the player probably didn't kill which prevents sleep. The worst case scenario would be if enemies were left upstairs, the player had no magicka or levitation potions, and they had no lockpicks. This is my answer to the claim saying this ought to be a deathtrap.
+data:
+  weight: 0.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 0

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_De_Set_Guarskin_01
+name: ''
+script: OutsideBanner
+mesh: TR\f\TR_furn_de_guarskin_02.nif

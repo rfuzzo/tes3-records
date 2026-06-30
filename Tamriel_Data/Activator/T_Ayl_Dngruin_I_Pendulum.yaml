@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Ayl_Dngruin_I_Pendulum
+name: ''
+script: Collide_damage_100
+mesh: pc\i\pc_in_ar_hall_02_pend.nif

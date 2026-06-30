@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_HuntsBow
+name: Huntsman Longbow
+script: ''
+mesh: OAAB\w\w_huntsman_longbow.nif
+icon: OAAB\w\tx_w_huntsman_bow.dds
+enchanting: ''
+data:
+  weight: 8.0
+  value: 350
+  weapon_type: MarksmanBow
+  health: 800
+  speed: 1.0
+  reach: 1.0
+  enchantment: 350
+  chop_min: 1
+  chop_max: 35
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: ''

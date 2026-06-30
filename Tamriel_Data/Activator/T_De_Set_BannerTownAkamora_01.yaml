@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_De_Set_BannerTownAkamora_01
+name: Akamora
+script: ''
+mesh: TR\x\tr_act_ind_mark_aka.nif

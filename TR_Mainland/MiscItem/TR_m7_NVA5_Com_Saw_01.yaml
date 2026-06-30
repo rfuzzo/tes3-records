@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m7_NVA5_Com_Saw_01
+name: Saw
+script: TR_m7_NVA_Stage5_NP
+mesh: Sky\m\Sky_Misc_Saw_01.nif
+icon: Sky\m\Tx_Misc_Saw_01.dds
+data:
+  weight: 5.0
+  value: 30
+  flags: ''

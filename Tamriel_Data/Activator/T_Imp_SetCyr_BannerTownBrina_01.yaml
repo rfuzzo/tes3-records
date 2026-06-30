@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_SetCyr_BannerTownBrina_01
+name: ''
+script: OutsideBanner
+mesh: pc\f\pc_furn_brin_flag.nif

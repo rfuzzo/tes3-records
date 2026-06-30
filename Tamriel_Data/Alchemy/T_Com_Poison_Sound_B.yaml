@@ -1,0 +1,20 @@
+type: Alchemy
+flags: ''
+id: T_Com_Poison_Sound_B
+name: Bargain Potion of Cacophony
+script: ''
+mesh: m\Misc_Potion_Bargain_01.nif
+icon: m\Tx_potion_bargain_01.tga
+effects:
+- magic_effect: Sound
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 10
+  min_magnitude: 1
+  max_magnitude: 1
+data:
+  weight: 1.5
+  value: 8
+  flags: ''

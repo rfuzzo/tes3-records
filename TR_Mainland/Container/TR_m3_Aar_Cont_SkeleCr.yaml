@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: TR_m3_Aar_Cont_SkeleCr
+name: Crushed Skeleton
+script: ''
+mesh: o\contain_corpse20.NIF
+encumbrance: 120.0
+container_flags: IS_BASE
+inventory:
+- - 127
+  - Gold_001
+- - 1
+  - P_Levitation_Q
+- - 1
+  - ingred_bonemeal_01
+- - 1
+  - pick_master
+- - 1
+  - probe_apprentice_01

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_CuriaVaultCrank
+name: Crank
+script: TR_m3_OE_CuriaVaultCrankSCP
+mesh: f\Act_m_sewer_crank_01.nif

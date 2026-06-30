@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: foe-quern
+name: Foe-Quern
+script: ''
+mesh: c\C_Ring_common05.NIF
+icon: c\tx_ring_common05.tga
+enchanting: foe-quern_EN
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 500
+  enchantment: 100

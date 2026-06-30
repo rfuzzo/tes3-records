@@ -1,0 +1,17 @@
+type: Clothing
+flags: ''
+id: BM_Nordic01_gloveR
+name: Right Glove
+script: ''
+mesh: c\C_common_Nordic01GlGND.NIF
+icon: c\Tx_Common_Nordic01_Hand.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: RightHand
+  male_bodypart: C_common_Nordic01_Gl
+  female_bodypart: ''
+data:
+  clothing_type: RightGlove
+  weight: 1.0
+  value: 4
+  enchantment: 20

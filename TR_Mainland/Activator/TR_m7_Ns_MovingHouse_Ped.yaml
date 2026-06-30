@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_Ns_MovingHouse_Ped
+name: Pedestal
+script: TR_m7_Ns_MovingHouse_Pedsc
+mesh: tr\x\tr_ex_strong_balc00.nif

@@ -1,0 +1,36 @@
+type: Alchemy
+flags: ''
+id: TR_m4_menaan_int_8_flin
+name: Complimentary Flin
+script: ''
+mesh: n\Potion_Cyro_whiskey_01.NIF
+icon: n\Tx_cyro_whiskey_01.tga
+effects:
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Willpower
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 20
+  max_magnitude: 20
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Strength
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 20
+  max_magnitude: 20
+- magic_effect: Poison
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 75
+  min_magnitude: 1
+  max_magnitude: 1
+data:
+  weight: 1.0
+  value: 20
+  flags: ''

@@ -1,0 +1,20 @@
+type: Alchemy
+flags: ''
+id: T_Com_Potion_ResistParalysis_S
+name: Standard Paralysis Resistance
+script: ''
+mesh: m\Misc_Potion_Standard_01.nif
+icon: m\Tx_potion_standard_01.tga
+effects:
+- magic_effect: ResistParalysis
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 45
+  min_magnitude: 15
+  max_magnitude: 15
+data:
+  weight: 0.75
+  value: 45
+  flags: ''

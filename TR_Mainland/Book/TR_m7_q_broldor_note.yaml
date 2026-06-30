@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_q_broldor_note
+name: Note to Broldor
+script: TR_m7_ShiSha_Sense_Note_sc
+mesh: m\Text_Note_02.nif
+icon: m\Tx_note_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR><BR>\r\nThe monthly shipment, as always. Managed to get 10 pieces of moon sugar in Mir Corrup. Deliver to Broldor in Shipal-Sharai. Careful around Septim's Gate: I hear a lot of people are getting caught these days.<BR><BR>"
+data:
+  weight: 1.0
+  value: 3
+  book_type: Scroll
+  skill: None
+  enchantment: 50

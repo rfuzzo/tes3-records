@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_ComWoodTankard
+name: Tankard
+script: ''
+mesh: OAAB\m\0s_wood_tankard.nif
+icon: OAAB\m\wood_tankard.tga
+data:
+  weight: 1.0
+  value: 2
+  flags: ''

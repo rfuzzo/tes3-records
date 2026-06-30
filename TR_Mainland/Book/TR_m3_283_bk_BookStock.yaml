@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_283_bk_BookStock
+name: EEC Book of Stockholders
+script: ''
+mesh: m\Text_Quarto_open_01.NIF
+icon: m\Tx_quarto_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">[This is a book of the people who own stock in the East Empire Company. Looking down the list a large number of the stockholders are Imperials in Cyrodiil, but there are a few residents of Morrowind amongst them, several people in positions of power.]\r\n<BR>"
+data:
+  weight: 4.0
+  value: 100
+  book_type: Book
+  skill: None
+  enchantment: 0

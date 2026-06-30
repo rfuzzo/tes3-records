@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_SetDoomstoneGC_Nirn
+name: Nirn Stone
+script: T_ScObj_DoomHNirnPC
+mesh: pc\f\pc_dmstn_gc_heavens.nif

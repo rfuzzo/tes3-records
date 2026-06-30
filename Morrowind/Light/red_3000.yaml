@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: red_3000
+name: ''
+script: ''
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 1
+  time: -1
+  radius: 3000
+  color:
+  - 179
+  - 21
+  - 17
+  - 0
+  flags: ''

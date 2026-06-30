@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m1_q_BradasouRing
+name: Bradasou's Ring
+script: ''
+mesh: c\C_Ring_common01.NIF
+icon: c\Tx_ring_common01.tga
+enchanting: TR_m1_q_BradasouRing_en
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 60
+  enchantment: 225

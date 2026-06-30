@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: flora_kreshweed_01
+name: Kreshweed
+script: ''
+mesh: o\Flora_kreshweed_01.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - random_kresh_fiber

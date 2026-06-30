@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_q_eecscroll
+name: Scroll of Sacred Grasping
+script: ''
+mesh: m\text_scroll_01.nif
+icon: m\tx_scroll_open_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"center\"><FONT COLOR=\"000000\" SIZE=\"2\" FACE=\"Daedric\">THE CONTENTS OF THIS SPECIFIC CHEST ARE HEREBY CURSED TO SUMMON A DREMORA WHEN PICKED UP <BR>\r\nPS MORT WROTE THIS IF YOU CAN READ DAEDRIC FONT THATS A VERY WEIRD SKILL</FONT><BR>"
+data:
+  weight: 0.2
+  value: 15
+  book_type: Scroll
+  skill: None
+  enchantment: 0

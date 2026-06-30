@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Sky_Mine_Amber01
+name: Amber
+script: ''
+mesh: Sky\o\Sky_Cont_Amber_01.nif
+encumbrance: 0.0
+container_flags: ORGANIC | IS_BASE
+inventory:
+- - 3
+  - T_Sky_Random_Amber

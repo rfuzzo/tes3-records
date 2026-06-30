@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Orc_Regular_Crossbow_01
+name: Orcish Crossbow
+script: ''
+mesh: tr\w\tr_w_orcish_crossbow.nif
+icon: tr\w\tr_w_orcish_crossbow.dds
+enchanting: ''
+data:
+  weight: 10.0
+  value: 900
+  weapon_type: MarksmanCrossbow
+  health: 650
+  speed: 1.0
+  reach: 1.0
+  enchantment: 50
+  chop_min: 25
+  chop_max: 25
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

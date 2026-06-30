@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: tr_m3_q_SadrynsAmulet
+name: Seles Family Crest
+script: ''
+mesh: c\Amulet_Extravagant_1.NIF
+icon: c\tx_amulet_extrav1.tga
+enchanting: TR_m3_q_SadrynsAmulet_luck
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 50
+  enchantment: 100

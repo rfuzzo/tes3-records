@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_FM_Act_Fix8BannerN
+name: ''
+script: TR_FM_Stage8Perm_sc
+mesh: tr\f\tr_furn_banner_imp_02.nif

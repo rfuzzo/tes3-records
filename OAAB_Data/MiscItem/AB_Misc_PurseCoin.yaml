@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_PurseCoin
+name: Coin Purse
+script: AB_PurseCoin_s
+mesh: OAAB\m\dr_misc_purse_01.nif
+icon: OAAB\m\misc_purse.tga
+data:
+  weight: 1.0
+  value: 0
+  flags: ''

@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_De_GlassGilded_Cuirass_01
+name: Gilded Glass Cuirass
+script: ''
+mesh: tr\a\tr_a_glassgd_cuir_01gd.nif
+icon: tr\a\tr_a_glassgilded_cuir.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_A_DeGlassGildedCuirass01_C
+  female_bodypart: ''
+data:
+  armor_type: Cuirass
+  weight: 18.0
+  value: 28000
+  health: 1500
+  enchantment: 120
+  armor_rating: 50

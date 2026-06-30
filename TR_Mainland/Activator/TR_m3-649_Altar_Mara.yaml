@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3-649_Altar_Mara
+name: Altar of Mara
+script: TR_m3-649_MaraScript
+mesh: x\ex_imp_mooring_01.nif

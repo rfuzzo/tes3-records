@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_LoveLetterEno
+name: Letter from Eno Rothalen
+script: TR_m7_LoveLetterEno_sc
+mesh: m\Text_Parchment_02.nif
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<BR>\r\nSweet Dradiva,<BR>\r\n<BR>\r\nI can't really find the right words, but I want you to know how much you mean to me. Every day, when the sun comes up, I can't help but think of you. Your smile, your laugh, the way you talk -- they're like the best parts of my day.<BR>\r\n<BR>\r\nI might not be great with fancy talk, but you're like a star in the sky, guiding me through day and night. Even though Ivul is in charge of this city, it's you who really rules my heart. Your kindness and looks are something else.<BR>\r\n<BR>\r\nI know we can't be open about things because of how things are, but I can't help dreaming about a time when we can be together without hiding. Just holding your hand, talking without worries -- that's something I really wish for.<BR>\r\n<BR>\r\nEven though we have to keep things secret, I want you to know that you're on my mind all the time. Your happiness, your laughter, they're like music in my head. And even though things are hard, I'm here, thinking about you.<BR>\r\n<BR>\r\nUntil the day we can be free to show how we feel, I'll be here, missing you and dreaming of when we can be together. You're like a puzzle I want to solve, and I hope one day we can put all the pieces together.<BR>\r\n<BR>\r\nI can dream about you, if I can't hold you tonight.<BR>\r\n<BR>\r\nWith all my heart,<BR>\r\nEno Rothalen<BR>\r\n"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: azura talker
+name: ''
+script: ''
+mesh: f\Furn_banner_hlaalu_01.nif

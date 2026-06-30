@@ -1,0 +1,30 @@
+type: Book
+flags: ''
+id: T_Bk_Ami-ElPC_V1
+name: The First Ami-El
+script: ''
+mesh: pc\m\pc_bk_book_26.nif
+icon: pc\m\pc_bk_book_26.tga
+enchanting: ''
+text: |
+  <DIV ALIGN="CENTER"><FONT COLOR="000000" SIZE="3" FACE="Magic Cards"><BR>The First Ami-El<BR>
+  <BR>
+  <BR>
+  I. BIRTH OF AMET<BR>
+  <DIV ALIGN="LEFT"><BR>
+  [One of the few surviving accounts of Ami-El, Cyrodiil's forgotten third Emperor. The historical merits of this tale are dubious, and many of its claims are contested and contradicted by other sources. The serious student of First Empire history would do well to put this story aside, save perhaps as a curiosity of Nibenese thinking.]<BR>
+  <BR>
+  In the days of Cyrodiil new-forged the blood of Morihaus was strong in the veins of Empire. So it was with Belharza, Man-Bull, defender against the winged hordes of Ayleidoon, who wreathed the city anew in brightly colored silks, for the expanses of white stone were loathsome to us. In silk we lived, and in silk our children slept, and the whole of the city was as silk, until we called the Woven City.<BR>
+  <BR>
+  Belharza's children slept in silk, and their dreams were as of silk, for these were the days of First Freedom. Belharza had fathered many children on the women of the north, whose blood is as water, whose skin is white as the snow, whose hair like the gold found in the Corbol-a. All save his youngest child, whom Belharza fathered on a woman of Nibennum, Llesa, his favored bride, whose blood runs thick and red as the river, whose skin was patterned with whorls and snakes, whose hair was wiry. And within her the aspect of Morihaus manifested itself anew, so that when the child was still in the womb, it grew the black horns of the bull, and pierced her mother's side, and killed her.<BR>
+  <BR>
+  And Belharza grieved the death of Llesa, whom he had cherished, saying: "This child, manifest of the divine blood, has come to us garbed not in silk, but in the blood of the mother. I cannot hold her and not see this. We have paid the price of blood many times over, first in slavery, then in revolt. I am loath to pay it anew. Rather I give this child to the river." And after this, great Belharza became a cold man.<BR>
+  <BR>
+  So the horned child was cast into the lake, which did not swallow her, but carried her along its back to the banks of the Niben. There it was found by humble people of Nibennum, a man of the fisher caste, a woman who sang silk fishing-nets. They were pious, and in their heart's ear they heard the river speak to them and bade them care for this child. And they named the child Amet.<BR>
+  <BR>
+data:
+  weight: 2.0
+  value: 200
+  book_type: Book
+  skill: None
+  enchantment: 0

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_eec_FGorders
+name: Caravan Guard Instructions
+script: ''
+mesh: m\Text_Parchment_02.NIF
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nStanding orders for all guild members stationed at St. Ino's,<BR>\r\n<BR>\r\n1. Maintain and guard the caravanserai from thieves, raiders and wildlife. \r\n<BR>\r\n2. Protect the cargo temporarily stored here. That means no theft of any goods: all shipments are recorded, and the company will find out if there's any nonsense.\r\n<BR>\r\n3. Two guild members are to join each guar caravan that runs through the caravanserai. Guide them safely into the Narsis warehouse and return.\r\n<BR>\r\n4. No fraternizing and absolutely no drinking with the Imperial Legion troops at Septim's Pass.\r\n<BR> \r\n5. Maintain the good name of the guild and our employer, The East Empire Company.\r\n<BR>\r\n\r\nAuthorized and ordered by,<BR>\r\n<BR>\r\nTeris Vandenius<BR>\r\n"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

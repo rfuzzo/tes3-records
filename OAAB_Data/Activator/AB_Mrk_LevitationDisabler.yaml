@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Mrk_LevitationDisabler
+name: Disables levitation in the cell
+script: AB_LevitationDisabler_s
+mesh: OAAB\h\LevitationDisabler.nif

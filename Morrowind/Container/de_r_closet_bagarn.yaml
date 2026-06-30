@@ -1,0 +1,43 @@
+type: Container
+flags: ''
+id: de_r_closet_bagarn
+name: Closet
+script: ''
+mesh: o\Contain_De_Closet_01.NIF
+encumbrance: 400.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - dwarven war axe
+- - 1
+  - dwemer_bracer_right
+- - 1
+  - dwemer_bracer_left
+- - 1
+  - dwemer_shield
+- - 1
+  - dwemer_boots
+- - 1
+  - dwemer_greaves
+- - 1
+  - dwemer_pauldron_right
+- - 1
+  - dwemer_pauldron_left
+- - 1
+  - dwemer_cuirass
+- - 1
+  - dwemer_helm
+- - 1
+  - BookSkill_Alchemy3
+- - 1
+  - BookSkill_Athletics1
+- - 1
+  - BookSkill_Axe3
+- - 1
+  - BookSkill_Blunt Weapon2
+- - 1
+  - BookSkill_Security3
+- - 1
+  - BookSkill_Sneak3
+- - 246
+  - misc_dwrv_coin00

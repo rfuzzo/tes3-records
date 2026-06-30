@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Com_UNI_RingOfWarding
+name: Ring of Warding
+script: ''
+mesh: Sky\c\sky_uni_warding_01.nif
+icon: sky\c\tx_ring_warding_01.dds
+enchanting: T_Const_RingWarding
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 6000
+  enchantment: 0

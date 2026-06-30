@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: ring of shocking touch
+name: Ring of Shocking Touch
+script: ''
+mesh: c\C_Ring_common01.NIF
+icon: c\Tx_ring_common01.tga
+enchanting: shocking touch_enu
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 14
+  enchantment: 150

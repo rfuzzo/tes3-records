@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m4_Bd_Alvur_key
+name: Alvur Nirano's Key
+script: ''
+mesh: tr\m\tr_key_dd04.nif
+icon: tr\m\tr_key_dd04.dds
+data:
+  weight: 0.0
+  value: 0
+  flags: KEY

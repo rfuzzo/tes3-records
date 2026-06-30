@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: saint's black sword
+name: Saint's Black Sword
+script: ''
+mesh: w\W_Shortsword_Ebony.nif
+icon: w\Tx_Shortsword_Ebony.tga
+enchanting: saint's black sword_en
+data:
+  weight: 16.0
+  value: 12500
+  weapon_type: ShortBladeOneHand
+  health: 1200
+  speed: 2.0
+  reach: 1.0
+  enchantment: 80
+  chop_min: 10
+  chop_max: 17
+  slash_min: 10
+  slash_max: 17
+  thrust_min: 12
+  thrust_max: 20
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

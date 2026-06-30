@@ -1,0 +1,35 @@
+type: Clothing
+flags: ''
+id: T_Com_Et_Shirt_02
+name: Extravagant Shirt
+script: ''
+mesh: tr\c\tr_c_shirt_oe_01_gnd.nif
+icon: tr\c\tr_c_shirt_oe_01.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_C_ComEtShirt02_C
+  female_bodypart: ''
+- biped_object_type: LeftUpperArm
+  male_bodypart: T_C_ComEtShirt02_UA
+  female_bodypart: ''
+- biped_object_type: RightUpperArm
+  male_bodypart: T_C_ComEtShirt02_UA
+  female_bodypart: ''
+- biped_object_type: LeftForearm
+  male_bodypart: T_C_ComEtShirt02_Fa
+  female_bodypart: ''
+- biped_object_type: RightForearm
+  male_bodypart: T_C_ComEtShirt02_Fa
+  female_bodypart: ''
+- biped_object_type: LeftWrist
+  male_bodypart: T_C_ComEtShirt02_W
+  female_bodypart: ''
+- biped_object_type: RightWrist
+  male_bodypart: T_C_ComEtShirt02_W
+  female_bodypart: ''
+data:
+  clothing_type: Shirt
+  weight: 2.0
+  value: 60
+  enchantment: 120

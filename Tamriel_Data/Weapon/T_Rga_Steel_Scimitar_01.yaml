@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Rga_Steel_Scimitar_01
+name: Redguard Steel Scimitar
+script: ''
+mesh: hf\w\hf_w_rgasteel_scimit1.nif
+icon: hf\w\pc_w_rgasteel_scimit1.dds
+enchanting: ''
+data:
+  weight: 22.0
+  value: 110
+  weapon_type: LongBladeOneHand
+  health: 1600
+  speed: 1.2
+  reach: 1.0
+  enchantment: 70
+  chop_min: 1
+  chop_max: 16
+  slash_min: 1
+  slash_max: 27
+  thrust_min: 4
+  thrust_max: 12
+  flags: ''

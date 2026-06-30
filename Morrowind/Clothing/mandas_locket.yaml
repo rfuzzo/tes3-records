@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: mandas_locket
+name: Mandas Family Locket
+script: ''
+mesh: c\Amulet_Exquisit_1.NIF
+icon: c\tx_amulet_exquisite1.tga
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 240
+  enchantment: 1200

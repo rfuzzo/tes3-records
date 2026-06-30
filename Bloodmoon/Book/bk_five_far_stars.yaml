@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: bk_five_far_stars
+name: The Five Far Stars
+script: ''
+mesh: m\Text_Octavo_03.NIF
+icon: m\Tx_octavo_03.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe Five Far Stars<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\n[This is a volume of verse collected from wise women of the Urshilaku Ashlanders. It consists of verses composed by Ashlander warriors, champions, and ashkhans, committed to memory by the wise women and transmitted down the generations. 'May I shrink to dust' is attributed to the long-dead poet and warrior Zershishi Mus-Manul.]<BR>\r\n<BR>\r\nRise from darkness, Red Mountain!<BR>\r\nSpread your dark clouds and green vapors!<BR>\r\nBirth earthquakes, shatter stones!<BR>\r\nFeed the winds with fire!<BR>\r\nFlay the tents of the tribes from the land!<BR>\r\nFeed the burned earth with our souls!<BR>\r\n<BR>\r\nYet never shall you have your rule over me.<BR>\r\nNever shall I tremble or flinch from your power.<BR>\r\nNever shall I yield my home and hearth.<BR>\r\nAnd from my tears shall spring forth<BR>\r\nThe flowers of grassland springs.<BR>\r\n"
+data:
+  weight: 3.0
+  value: 25
+  book_type: Book
+  skill: None
+  enchantment: 0

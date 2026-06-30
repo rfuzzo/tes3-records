@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_De_Var_ShrineAndothren_01
+name: Shrine of Almalexia's Fury
+script: T_ScObj_ShrineAndothrenAlma
+mesh: tr\x\tr_act_shrine_ando.nif

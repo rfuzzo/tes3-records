@@ -1,0 +1,31 @@
+type: Armor
+flags: ''
+id: T_Imp_NibBronze_Greaves_01
+name: Nibenese Bronze Greaves
+script: ''
+mesh: pc\a\pc_a_n_bronze_greav_g.nif
+icon: pc\a\pc_a_n_bronze_greaves.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Groin
+  male_bodypart: T_A_ImpNibBronzeGreaves01_G
+  female_bodypart: ''
+- biped_object_type: LeftUpperLeg
+  male_bodypart: T_A_ImpNibBronzeGreaves01_UL
+  female_bodypart: ''
+- biped_object_type: RightUpperLeg
+  male_bodypart: T_A_ImpNibBronzeGreaves01_UL
+  female_bodypart: ''
+- biped_object_type: LeftKnee
+  male_bodypart: T_A_ImpNibBronzeGreaves01_K
+  female_bodypart: ''
+- biped_object_type: RightKnee
+  male_bodypart: T_A_ImpNibBronzeGreaves01_K
+  female_bodypart: ''
+data:
+  armor_type: Greaves
+  weight: 18.0
+  value: 110
+  health: 180
+  enchantment: 25
+  armor_rating: 18

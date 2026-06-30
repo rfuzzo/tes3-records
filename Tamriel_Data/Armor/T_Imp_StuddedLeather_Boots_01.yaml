@@ -1,0 +1,28 @@
+type: Armor
+flags: ''
+id: T_Imp_StuddedLeather_Boots_01
+name: Studded Leather Boots
+script: ''
+mesh: TR\a\tr_A_stud_leath_bt_gnd.NIF
+icon: TR\a\TR_a_stud_lthr_boots.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: LeftAnkle
+  male_bodypart: T_A_ImpStuddedLeatherBoots01_A
+  female_bodypart: ''
+- biped_object_type: RightAnkle
+  male_bodypart: T_A_ImpStuddedLeatherBoots01_A
+  female_bodypart: ''
+- biped_object_type: LeftFoot
+  male_bodypart: T_A_ImpStuddedLeatherBoots01_F
+  female_bodypart: ''
+- biped_object_type: RightFoot
+  male_bodypart: T_A_ImpStuddedLeatherBoots01_F
+  female_bodypart: ''
+data:
+  armor_type: Boots
+  weight: 6.0
+  value: 20
+  health: 100
+  enchantment: 26
+  armor_rating: 10

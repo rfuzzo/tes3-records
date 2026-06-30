@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Com_SetSky_SignWayMarkarth_01
+name: Markarth
+script: ''
+mesh: sky\x\sky_act_rsign_mark1.nif

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngMine_RubyDeTomb_01
+name: Ruby
+script: T_ScObj_DeTombSpiritSummon
+mesh: n\Ingred_ruby_01.NIF
+icon: n\Tx_ruby.tga
+data:
+  weight: 0.2
+  value: 200
+  effects:
+  - DrainHealth
+  - Feather
+  - RestoreAttribute
+  - DrainAttribute
+  skills:
+  - None
+  - None
+  - Block
+  - Block
+  attributes:
+  - None
+  - None
+  - Intelligence
+  - Agility

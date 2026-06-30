@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_He_AltmerGlass_Helm_01
+name: Altmer Closed Glass Helmet
+script: ''
+mesh: TR\a\tr_a_hie_glass_hel01.nif
+icon: TR\A\tr_a_hie_glass_hel01.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: Head
+  male_bodypart: T_A_HeGlassHelm01_H
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 3.0
+  value: 16800
+  health: 580
+  enchantment: 165
+  armor_rating: 48

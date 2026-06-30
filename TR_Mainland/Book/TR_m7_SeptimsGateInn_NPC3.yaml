@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_SeptimsGateInn_NPC3
+name: Laudio Carus
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: ''
+enchanting: ''
+text: "male imperial, innkeeper\r\n\r\nwears common shirt / pants / shoes"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

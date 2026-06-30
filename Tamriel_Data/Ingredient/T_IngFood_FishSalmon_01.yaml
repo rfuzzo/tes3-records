@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_FishSalmon_01
+name: Salmon Meat
+script: ''
+mesh: sky\n\sky_ingred_meat_sl_01.nif
+icon: sky\n\tx_ingred_meat_sl_01.dds
+data:
+  weight: 1.0
+  value: 2
+  effects:
+  - RestoreFatigue
+  - RestoreAttribute
+  - None
+  - None
+  skills:
+  - None
+  - Block
+  - None
+  - None
+  attributes:
+  - None
+  - Endurance
+  - None
+  - None

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngMine_PearlBlue_01
+name: Blue Pearl
+script: ''
+mesh: pi\n\tr_ing_pearlblue.nif
+icon: pi\n\pi_ing_pearlblue.dds
+data:
+  weight: 0.2
+  value: 150
+  effects:
+  - DamageAttribute
+  - WaterBreathing
+  - RestoreMagicka
+  - FortifyMagickaMultiplier
+  skills:
+  - Block
+  - None
+  - None
+  - None
+  attributes:
+  - Intelligence
+  - None
+  - None
+  - None

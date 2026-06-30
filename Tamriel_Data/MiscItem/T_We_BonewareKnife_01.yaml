@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_We_BonewareKnife_01
+name: Boneware Knife
+script: ''
+mesh: VA\m\va_m_We_knife.nif
+icon: va\m\va_m_We_knife.dds
+data:
+  weight: 0.4
+  value: 1
+  flags: ''

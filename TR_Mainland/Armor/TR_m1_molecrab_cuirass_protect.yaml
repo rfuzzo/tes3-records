@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: TR_m1_molecrab_cuirass_protect
+name: Mole Crab Cuirass of Fortitude
+script: ''
+mesh: TR\a\TR_a_mlcrb_cuir_gnd.NIF
+icon: TR\a\tr_a_molec_cuirass.dds
+enchanting: TR_m1_prot1
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_A_DeMolecrabCuirass01_C
+  female_bodypart: ''
+data:
+  armor_type: Cuirass
+  weight: 8.0
+  value: 45
+  health: 180
+  enchantment: 500
+  armor_rating: 6

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_scalesSilver
+name: Silver Scales
+script: ''
+mesh: OAAB\m\scalesSilver.nif
+icon: OAAB\m\scalesSilver.dds
+data:
+  weight: 2.5
+  value: 50
+  flags: ''

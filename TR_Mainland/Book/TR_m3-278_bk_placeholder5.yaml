@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3-278_bk_placeholder5
+name: ABC's for Archaeologists
+script: ''
+mesh: TR\m\TR_book_closed03_AA.NIF
+icon: TR\m\TR_book_closed03_AA.dds
+enchanting: ''
+text: "A is for Archaeology, the thing that you do;<BR>\r\nB is for Boring, the skill that breaks through.<BR>\r\nC is for Caves, those spots you explore;<BR>\r\nD is for Dead Guy, whose bones make a great score.<BR>\r\n<BR>"
+data:
+  weight: 1.5
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 0

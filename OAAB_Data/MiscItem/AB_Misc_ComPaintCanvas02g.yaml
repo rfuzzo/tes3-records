@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_ComPaintCanvas02g
+name: Blank Canvas
+script: ''
+mesh: OAAB\m\com_paint_canv_02g.nif
+icon: OAAB\m\com_paint_canv_02.tga
+data:
+  weight: 1.5
+  value: 10
+  flags: ''

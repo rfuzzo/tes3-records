@@ -1,0 +1,35 @@
+type: Container
+flags: ''
+id: de_r_chest_01_cienne1
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - -1
+  - p_cure_common_s
+- - -1
+  - p_cure_poison_s
+- - 1
+  - p_disease_resistance_c
+- - 1
+  - p_fire_resistance_c
+- - -1
+  - p_fortify_health_c
+- - 1
+  - p_magicka_resistance_c
+- - -1
+  - p_restore_health_c
+- - -1
+  - p_cure_paralyzation_s
+- - 2
+  - p_night-eye_c
+- - 1
+  - p_fire_shield_s
+- - 1
+  - p_swift_swim_c
+- - 1
+  - p_water_walking_s
+- - 1
+  - p_water_breathing_s

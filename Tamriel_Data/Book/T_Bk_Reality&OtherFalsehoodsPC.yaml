@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_Reality&OtherFalsehoodsPC
+name: Reality and Other Falsehoods
+script: ''
+mesh: pc\m\PC_bk_Book_21.nif
+icon: pc\m\pc_bk_book_21.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nReality and Other Falsehoods<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nIt is easy to confuse Illusion and Alteration. Both schools of magic attempt to create what is not there. The difference is in the rules of nature. Illusion is not bound by them, while Alteration is. This may seem to indicate that Alteration is the weaker of the two, but this is not true. Alteration creates a reality that is recognized by everyone. Illusion's reality is only in the mind of the caster and the target.<BR>\r\n<BR>\r\nTo master Alteration, first accept that reality is a falsehood. There is no such thing. Our reality is a perception of greater forces impressed upon us for their amusement. Some say that these forces are the gods, other that they are something beyond the gods. For the wizard, it doesn't really matter. What matters is the appeal couched in a manner that cannot be denied. It must be insistent without being insulting.<BR>\r\n<BR>\r\nTo cast Alteration spells is to convince a greater power that it will be easier to change reality as requested than to leave it alone. Do not assume that these forces are sentient. Our best guess is that they are like wind and water. Persistent but not thoughtful. Just like directing the wind or water, diversions are easier than outright resistance. Express the spell as a subtle change and it is more likely to be successful.<BR>\r\n<BR>"
+data:
+  weight: 3.0
+  value: 215
+  book_type: Book
+  skill: Alteration
+  enchantment: 0

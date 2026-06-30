@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_bk_attention
+name: Attention
+script: ''
+mesh: m\Text_Note_02.nif
+icon: m\Tx_note_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe owner is not responsible for any accidents or drownings!<BR>\r\n<BR>\r\nDon't complain, because I can't hear you!\r\n<BR>\r\n"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

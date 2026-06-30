@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_NVA1_struc01
+name: ''
+script: TR_m7_NVA_Stage1
+mesh: TR\x\tr_ex_hla_con_struc_01.nif

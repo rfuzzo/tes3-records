@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_Card_06
+name: The Morning
+script: ''
+mesh: pc\m\pc_misc_card_06.nif
+icon: pc\m\pc_misc_card_06.dds
+data:
+  weight: 0.1
+  value: 1
+  flags: ''

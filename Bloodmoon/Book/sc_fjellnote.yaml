@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: sc_fjellnote
+name: Bloody Note
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nLucian,<BR>\r\n<BR>\r\nHere's the loot from the jeweler heist. Like my marker? I figured that would get your attention. The grahl make great guards, and I knew you'd be able to slip past them. I've paid off the crew and given the Guild its cut. I'll see you in Cyrodiil at that inn we talked about.<BR>\r\n<BR>\r\nThe museum should be an easy haul. Security is light, and there's a broken window in the basement. But we can talk more about that later.<BR>\r\n<BR>\r\nJacques<BR>\r\n<BR>\r\n "
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: Security
+  enchantment: 0

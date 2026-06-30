@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_He_DngDirenni_Crystalsound_01
+name: ''
+script: T_ScSound_DirenniCrystal
+mesh: editormarker.nif

@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_act_banner_aralor01_refu
+name: Refuge of St. Aralor
+script: TR_m2_q_29_banneraralor
+mesh: TR\f\TR_act_banner_aralor01.nif

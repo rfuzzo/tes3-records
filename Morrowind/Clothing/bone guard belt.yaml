@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: bone guard belt
+name: Bone Guard Belt
+script: ''
+mesh: c\C_belt_Expensive_3.NIF
+icon: c\tx_belt_expensive03.tga
+enchanting: bone guard_en
+biped_objects: []
+data:
+  clothing_type: Belt
+  weight: 1.0
+  value: 30
+  enchantment: 10

@@ -1,0 +1,31 @@
+type: Container
+flags: ''
+id: TR_m7_FatbuxRestockCh
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - -1
+  - Misc_SoulGem_Grand
+- - -40
+  - T_De_Ebony_Bolt_01
+- - -2
+  - T_IngMine_Sapphire_01
+- - -20
+  - ebony arrow
+- - -20
+  - ebony throwing star
+- - -30
+  - glass arrow
+- - -20
+  - glass throwing knife
+- - -1
+  - ingred_diamond_01
+- - -3
+  - p_restore_fatigue_e
+- - -3
+  - p_restore_health_e
+- - -3
+  - p_restore_magicka_e

@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m7_Kalk_Chest
+name: Daedric Chest
+script: ''
+mesh: o\contain_daedric_chest_01.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - TR_m7_Jovian_Dew_uni

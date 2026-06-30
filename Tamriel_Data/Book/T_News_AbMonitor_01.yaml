@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_AbMonitor_01
+name: NAVY PATROL ATTACKED
+script: T_ScNews_Bellman_Paper
+mesh: pc\m\pc_text_note_anv_news.nif
+icon: pc\m\pc_text_note_anv_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"PC\\pc_abmonitor.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nNAVY PATROL ATTACKED, CAPTAIN KILLED<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nThe Monitor has learned that the Navy recently suffered a grievous and unprovoked attack by an unknown assailant not a day's sail from Anvil. According to an anonymous Navy source who claims to have experienced the attack firsthand, the Imperial vessels TEM Brinerunner and TEM Surfrunner were caught unawares by aggressive enemy vessels while on patrol in the northern Blue Divide. Shockingly, these mysterious attackers were able to overwhelm the two unprepared patrol ships, resulting in the sinking of Surfrunner with all hands. Captain Rulan, commander of the vessel, is among those presumed killed. Per the anonymous source, Brinerunner took heavy damage but was able to narrowly outrun the attackers and return to Anvil.<BR><BR>\r\nFort Telodrach declined to share details on the circumstances surrounding the disaster at sea. According to Navarch Tiledorus Cadmerius' aide-de-camp, Ensign Anandaya, \"West Navy patrols routinely encounter brigands, pirates, smugglers, and other such troublemakers while underway, all of whom face swift Imperial justice. The details of individual deployments are a matter of Imperial security and shall not be disclosed.\"<BR><BR>\r\nAdraria Lethris, overseer at the Anvil Shipworks, has confirmed that TEM Brinerunner is indeed in dry dock. Lethris declined to offer further comment.<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

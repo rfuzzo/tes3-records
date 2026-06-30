@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_AbMonitor_37
+name: DRUG KINGPIN ARRESTED IN ANVIL
+script: T_ScNews_Bellman_Paper
+mesh: pc\m\pc_text_note_anv_news.nif
+icon: pc\m\pc_text_note_anv_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"PC\\pc_abmonitor.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nDRUG KINGPIN ARRESTED IN ANVIL<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nSkingrad-based drug kingpin Za'Rabi has been arrested in Anvil's Little Arenthia neighborhood, and is now imprisoned and awaiting trial in Goldstone. The Skingrad-based Khajiit drug lord was caught in a complex sting operation which also involved several other drug traffickers operating in Anvil and its environs. Reymanus Pelelius, Marshal of the Strident Coast, commended the city guard for their efforts and thanked %PCName, a new recruit to the Anvil constabulary, for their critical role in the sting operation.<BR><BR>\r\nSkooma addiction has become an increasingly serious issue in Anvil in recent years, and locating the drug's primary importer has long been a priority of the city authorities. The source remained a mystery until a local merchant named Straler Loronus turned himself in, claiming to be the city's primary skooma manufacturer. Loronus, citing the fatigue and stress inherent to his criminal lifestyle, offered to collaborate with the city authorities in the operation to catch Za'Rabi.<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

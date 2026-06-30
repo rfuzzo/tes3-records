@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: com_chest_02_vendu
+name: Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - -5
+  - l_m_enchantitem_telvanni_rank01
+- - -4
+  - l_m_enchantitem_telvanni_rank6
+- - -2
+  - l_m_enchantitem_telvanni_rank8
+- - -2
+  - random_scroll_all

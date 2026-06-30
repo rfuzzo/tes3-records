@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Ham_Flora_PersarineH1
+name: Dried Persarine
+script: ''
+mesh: Sky\o\Sky_Cont_Persa_Dry.nif
+encumbrance: 0.0
+container_flags: ORGANIC | IS_BASE
+inventory:
+- - 1
+  - T_IngFlor_Persarine_01

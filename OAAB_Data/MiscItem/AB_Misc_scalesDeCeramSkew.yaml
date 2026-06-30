@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_scalesDeCeramSkew
+name: Ceramic Scales
+script: ''
+mesh: OAAB\m\scalesDeCeramicSkew.nif
+icon: OAAB\m\scalesDeCerSkew.dds
+data:
+  weight: 3.0
+  value: 40
+  flags: ''

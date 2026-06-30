@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: Furn_shrine_Nerevar_cure_01
+name: Shrine of St. Nerevar
+script: shrineNerevar
+mesh: f\Furn_shrine_nerevar_01.NIF

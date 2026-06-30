@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m2_fourcornershrine4
+name: Triolith
+script: TR_m2_fourcornersMA
+mesh: f\Furn_triolith_01.nif

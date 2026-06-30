@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_HsaarikElegySHOTN_V2
+name: The Hsaarik Elegy, Book Two
+script: ''
+mesh: Sky\m\Sky_Book_Saga_04.nif
+icon: Sky\m\Tx_Book_Saga_04.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe Hsaarik Elegy<BR>\r\nby Goderlog the Song-Maiden<BR>\r\n<BR>\r\nBook Two<BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n[...]<BR>\r\n<BR>\r\nThe last death without violence belonged to AASVEIG<BR>\r\nAge at last enacted its threat upon the veteran<BR>\r\nShe slipped gently away against the walls that still smouldered<BR>\r\nGazing upon a land she had never known<BR>\r\nHer knowing was thought to be<BR>\r\n<FONT COLOR=\"500F0F\">DIS<BR>\r\n<FONT COLOR=\"000000\">The hands of those who loved her were many<BR>\r\nAnd they piled stones to an awesome height<BR>\r\n<BR>\r\nThe earliest death on the frosted slopes about Saarthal was ORVAR<BR>\r\nHe had hastened ahead of Ysgramor's host<BR>\r\nHoping to find the snowy elves, and instead<BR>\r\nHe had found their cruel spears and ragged cries<BR>\r\nHis knowing was to be<BR>\r\n<FONT COLOR=\"500F0F\">ARG<BR>\r\n<FONT COLOR=\"000000\">Though his lustiness sputtered and cooled<BR>\r\nBuried in the falling snows evermore<BR>\r\n<BR>\r\nThe next to die was UNNR<BR>\r\nIn her eagerness she nearly overtook Orvar<BR>\r\nRushing to her demise, though she was not swift enough<BR>\r\nHer hearth-husband soon found another, but never forgot<BR>\r\nHer knowing then was<BR>\r\n<FONT COLOR=\"500F0F\">GRA<BR>\r\n<FONT COLOR=\"000000\">And her long black braids never turned<BR>\r\nThough countless seasons did around them<BR>\r\n<BR>\r\n[...]<BR>\r\n<BR>\r\nThe ninth death in true battle belonged to BJARNE<BR>\r\nA sword-point pressed through his throat as he tried to stand<BR>\r\nHe had saved three Men on the crossing from Atmora<BR>\r\nHis body ravaged by the cold sea he had dragged them from<BR>\r\nHis knowing was thus<BR>\r\n<FONT COLOR=\"500F0F\">HEEDIG<BR>\r\n<FONT COLOR=\"000000\">And at last he could rest<BR>\r\nImmersed forever in the cold<BR>\r\n<BR>\r\n[...]<BR>"
+data:
+  weight: 3.0
+  value: 150
+  book_type: Book
+  skill: None
+  enchantment: 0

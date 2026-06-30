@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_EnSc_Com_FourArmsGoingUp
+name: Scroll of Four Arms Going Up
+script: ''
+mesh: m\text_scroll_01.nif
+icon: m\tx_scroll_open_01.tga
+enchanting: T_Once_FourArmsGoingUp
+text: <DIV ALIGN="center"><FONT COLOR="000000" SIZE="2" FACE="Daedric">WIELD THE SPIRIT-DOOM IN THE WAR UPON OUR ENEMIES!</FONT><BR>
+data:
+  weight: 0.2
+  value: 746
+  book_type: Scroll
+  skill: None
+  enchantment: 0

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_sc_faruna_notes
+name: Faruna's Notes
+script: ''
+mesh: m\Misc_paper_plain_01.nif
+icon: m\Tx_paper_plain_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This paper is filled with faint, illegible scribbled notes taken by Mistress Faruna about the properties of Poppy Pods.]<BR>"
+data:
+  weight: 1.0
+  value: 3
+  book_type: Scroll
+  skill: None
+  enchantment: 50

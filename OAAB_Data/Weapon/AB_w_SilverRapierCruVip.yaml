@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_SilverRapierCruVip
+name: Silver Viperlunger
+script: ''
+mesh: OAAB\w\w_rapier_silver.nif
+icon: OAAB\w\w_rapsilver.dds
+enchanting: cruel viper_en
+data:
+  weight: 16.0
+  value: 190
+  weapon_type: LongBladeOneHand
+  health: 620
+  speed: 1.55
+  reach: 1.1
+  enchantment: 60
+  chop_min: 3
+  chop_max: 11
+  slash_min: 3
+  slash_max: 13
+  thrust_min: 5
+  thrust_max: 20
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE | SILVER

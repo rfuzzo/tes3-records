@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_MothWingMw_03
+name: Lute Moth Wing
+script: ''
+mesh: tr\n\tr_ing_moth_wing_03.nif
+icon: tr\n\tr_ing_moth_wing_03.dds
+data:
+  weight: 0.1
+  value: 5
+  effects:
+  - DrainHealth
+  - ResistParalysis
+  - Sound
+  - ResistNormalWeapons
+  skills:
+  - Block
+  - None
+  - None
+  - None
+  attributes:
+  - Agility
+  - None
+  - None
+  - None

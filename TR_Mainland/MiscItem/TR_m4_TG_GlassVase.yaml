@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m4_TG_GlassVase
+name: Cheap Glass Vase
+script: ''
+mesh: tr\m\tr_misc_de_g_pot.nif
+icon: tr\m\tr_misc_de_g_pot.dds
+data:
+  weight: 2.0
+  value: 1
+  flags: ''

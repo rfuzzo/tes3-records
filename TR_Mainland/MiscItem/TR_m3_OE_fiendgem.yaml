@@ -1,0 +1,11 @@
+type: MiscItem
+flags: PERSISTENT
+id: TR_m3_OE_fiendgem
+name: Hazy Soul Gem
+script: ''
+mesh: m\Misc_soulgem_grand.NIF
+icon: m\Tx_soulgem_Grand.tga
+data:
+  weight: 2.0
+  value: 100
+  flags: ''

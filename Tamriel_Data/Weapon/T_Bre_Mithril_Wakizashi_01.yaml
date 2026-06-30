@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Bre_Mithril_Wakizashi_01
+name: Mithril Wakizashi
+script: ''
+mesh: tr\w\tr_w_mithril_wzashi.nif
+icon: tr\w\tr_w_mithril_wzashi.dds
+enchanting: ''
+data:
+  weight: 14.5
+  value: 6400
+  weapon_type: ShortBladeOneHand
+  health: 670
+  speed: 2.25
+  reach: 1.0
+  enchantment: 500
+  chop_min: 9
+  chop_max: 16
+  slash_min: 8
+  slash_max: 17
+  thrust_min: 5
+  thrust_max: 8
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

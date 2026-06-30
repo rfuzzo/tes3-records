@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_De_Molecrab_BracerR_01
+name: Telvanni Mole Crab Right Bracer
+script: ''
+mesh: TR\a\TR_a_mlcrb_w.NIF
+icon: TR\a\TR_a_molec_brcr_R.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: RightWrist
+  male_bodypart: T_A_DeMolecrabBracer01_W
+  female_bodypart: ''
+data:
+  armor_type: RightBracer
+  weight: 2.0
+  value: 19
+  health: 30
+  enchantment: 400
+  armor_rating: 6

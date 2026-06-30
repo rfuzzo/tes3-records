@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_M7_SH1_Tomb1_Ring1
+name: Ageless
+script: ''
+mesh: c\C_Ring_common05.NIF
+icon: c\tx_ring_common05.tga
+enchanting: TR_M7_SH1_Tomb1_Ring1_en
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 2
+  enchantment: 10

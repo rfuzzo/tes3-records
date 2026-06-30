@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_OE_FG_bk_KamNote
+name: Ruminations on Illusion - Draft
+script: TR_m3_OE_FG_q_KamaraNoteScr
+mesh: m\Text_paper_roll_01.nif
+icon: m\Tx_paper_roll_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nRuminations on Illusion<BR>\r\nNarrated by Kamara, transcribed by Boethius<BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n<BR>\r\nIllusion magic is one of the most underutilized schools of magic in use today. These notes shall make apparent why that is a mistake.<BR>\r\n<BR>\r\nMany associate illusion with simple timesaving spells such as Light or Night Eye. Useful spells, not to be taken for granted, but the school of Illusion has many more uses to the aspiring mage.\r\n<BR>\r\nBlind can hide the world from foes, and invisibility can hide you from the world. Silence can prevent foes from making a sound, while Sound can make your foes wish for silence. Calm can make your worst enemy your best friend, while Frenzy could even make two friends into enemies.\r\n<BR>\r\n<BR>\r\nChapter One: Frenzy\r\n<BR>\r\nMany years ago I had the good fortune to encounter many test subjects on my travels throughout Morrowind. While most were native Dunmer, the subjects spanned the breadth of Tamriel's races. One should note that frenzy spells are subject to the target's racial inclination to magicka. Those with a natural weakness such as Altmer are much more susceptible to frenzy than Orcs. This goes against one's natural assumption that the more violent or excitable races would be more likely to frenzy. <BR>\r\nAnother interesting and poorly understood trait is the ability to build up frenzy over time. Long before I joined the guild, I was traveling with two barbaric thugs in Morrowind. Rather than ending our uneasy relationship with a simple fireball, I chose to use the occasion for an experiment. Their aggression and distrust towards each other grew and grew until they ended each other almost simultaneously. Their contribution towards the school of illusion magic will not be forgotten.\r\n<BR>\r\n[End of text - rough draft]\r\n<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

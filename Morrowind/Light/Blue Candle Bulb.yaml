@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: Blue Candle Bulb
+name: ''
+script: ''
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 64
+  color:
+  - 26
+  - 198
+  - 255
+  - 0
+  flags: ''

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m1_BO_muskfly_oil
+name: Lighthouse Oil
+script: ''
+mesh: n\Potion_Local_liquor_01.nif
+icon: n\Tx_local_liquor_01.tga
+data:
+  weight: 5.0
+  value: 10
+  flags: ''

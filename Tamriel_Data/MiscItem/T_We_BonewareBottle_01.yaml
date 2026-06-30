@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_We_BonewareBottle_01
+name: Boneware Bottle
+script: ''
+mesh: VA\m\va_m_We_bottle.nif
+icon: va\m\va_m_We_bottle.dds
+data:
+  weight: 1.8
+  value: 5
+  flags: ''

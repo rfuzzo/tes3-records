@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_bk_HH_Ulvo_Receipt
+name: Smith's Receipt
+script: TR_m4_HH_Ulvo_ToolReceiptSc
+mesh: m\Text_Parchment_02.NIF
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nPlantation tools order:<BR>\r\n<BR>\r\n5 x Shovel (full length)<BR>\r\n3 x Rock-breaking pick<BR>\r\n10 x Agricultural grade trowel<BR>\r\n<BR>\r\nRegards<BR>\r\nOlje<BR>\r\n"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

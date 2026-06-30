@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: artifact_heart_ring
+name: Heart Ring
+script: ''
+mesh: c\Artifact_amulet_hring_01.NIF
+icon: c\Tx_ashv_r_hthrum_01.tga
+enchanting: heartring_en
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.2
+  value: 30000
+  enchantment: 250

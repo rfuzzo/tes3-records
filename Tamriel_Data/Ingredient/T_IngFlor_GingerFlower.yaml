@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_GingerFlower
+name: Ginger Flower
+script: ''
+mesh: pi\n\pi_ing_gingerflower.nif
+icon: pi\n\pi_ing_gingerflower.dds
+data:
+  weight: 0.1
+  value: 3
+  effects:
+  - ResistFire
+  - DrainMagicka
+  - FortifyAttribute
+  - DrainAttribute
+  skills:
+  - None
+  - None
+  - Block
+  - Block
+  attributes:
+  - None
+  - None
+  - Willpower
+  - Speed

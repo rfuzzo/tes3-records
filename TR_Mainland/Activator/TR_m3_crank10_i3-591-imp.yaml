@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_crank10_i3-591-imp
+name: Crank
+script: TR_m3-591_crank10_script
+mesh: f\Act_m_sewer_crank_01.nif

@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: TR_m1_treasurehunt_3
+name: Stashed Chest
+script: TR_m1_treasurehunt_3_script
+mesh: o\Contain_De_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 206
+  - Gold_001
+- - 1
+  - apparatus_g_alembic_01
+- - 2
+  - ingred_hackle-lo_leaf_01

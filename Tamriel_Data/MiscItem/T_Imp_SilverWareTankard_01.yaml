@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_SilverWareTankard_01
+name: Silverware Tankard
+script: ''
+mesh: tr\m\tr_misc_silv_tank_01.nif
+icon: tr\m\tr_misc_silvtank01.dds
+data:
+  weight: 1.0
+  value: 13
+  flags: ''

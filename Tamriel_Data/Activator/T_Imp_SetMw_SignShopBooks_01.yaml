@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_SetMw_SignShopBooks_01
+name: ''
+script: SignRotate
+mesh: TR\f\TR_act_sign_books_01.nif

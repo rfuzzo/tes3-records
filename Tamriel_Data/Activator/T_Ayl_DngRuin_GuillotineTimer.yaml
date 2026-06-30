@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Ayl_DngRuin_GuillotineTimer
+name: Blade Trap
+script: T_ScObj_AylGuillotineTimer
+mesh: pc\i\pc_in_ar_guillotine.nif

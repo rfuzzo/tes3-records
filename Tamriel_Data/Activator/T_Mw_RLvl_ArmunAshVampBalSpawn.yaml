@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Mw_RLvl_ArmunAshVampBalSpawn
+name: Vampire Spawner
+script: T_ScObj_Armun_BaluathSpawner
+mesh: editormarker.nif

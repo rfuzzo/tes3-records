@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_Tomato_01
+name: Tomato
+script: ''
+mesh: pc\n\pc_ing_tomato.nif
+icon: pc\n\pc_tx_ingred_tomato.dds
+data:
+  weight: 0.1
+  value: 2
+  effects:
+  - RestoreFatigue
+  - DrainAttribute
+  - DrainAttribute
+  - RestoreAttribute
+  skills:
+  - None
+  - Block
+  - Block
+  - Block
+  attributes:
+  - None
+  - Endurance
+  - Luck
+  - Willpower

@@ -1,0 +1,23 @@
+type: Weapon
+flags: PERSISTENT
+id: katana_bluebrand_unique
+name: Eltonbrand
+script: ''
+mesh: w\W_art_katana_goldbrand.NIF
+icon: w\W_katana_goldbrand.tga
+enchanting: bluebrand
+data:
+  weight: 40.0
+  value: 150000
+  weapon_type: LongBladeOneHand
+  health: 4500
+  speed: 1.5
+  reach: 1.0
+  enchantment: 700
+  chop_min: 10
+  chop_max: 60
+  slash_min: 5
+  slash_max: 55
+  thrust_min: 5
+  thrust_max: 25
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

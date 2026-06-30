@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_Foghorn
+name: Foghorn
+script: ''
+mesh: OAAB\m\foghorn.nif
+icon: OAAB\m\foghorn.tga
+data:
+  weight: 5.0
+  value: 10
+  flags: ''

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_OE_MG_AstienBox
+name: Astien Lothaire
+script: TR_m3_OE_MG_AstienGreeting
+mesh: TR\i\TR_in_clearbox_01.nif

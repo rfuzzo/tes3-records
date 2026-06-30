@@ -1,0 +1,9 @@
+type: Container
+flags: PERSISTENT
+id: TR_m2_q_32_Vodunius
+name: Crate
+script: TR_m1_EEC_Lora2_crate
+mesh: o\Contain_crate_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory: []

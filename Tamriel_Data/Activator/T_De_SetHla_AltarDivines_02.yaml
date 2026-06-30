@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_De_SetHla_AltarDivines_02
+name: Imperial Cult Altar
+script: T_ScObj_ShrineDivines
+mesh: tr\f\tr_furn_hla_altar_02.nif

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_q_OE_MG_Dremora
+name: Dremora
+script: TR_m3_q_OE_MG_DremoraScript
+mesh: r\Dremora.nif

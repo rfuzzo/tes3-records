@@ -1,0 +1,28 @@
+type: Alchemy
+flags: ''
+id: T_Bre_Drink_AperitifBevonche_01
+name: Bevonche
+script: ''
+mesh: hr\m\hr_misc_bevonche.nif
+icon: hr\m\hr_misc_bevonche.dds
+effects:
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Speed
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 10
+  max_magnitude: 10
+- magic_effect: DrainAttribute
+  skill: None
+  attribute: Endurance
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 10
+  max_magnitude: 10
+data:
+  weight: 1.0
+  value: 50
+  flags: ''

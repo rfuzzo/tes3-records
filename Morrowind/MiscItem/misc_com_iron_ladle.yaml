@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: misc_com_iron_ladle
+name: Iron Ladle
+script: ''
+mesh: m\Misc_Com_Iron_Ladle.NIF
+icon: m\Misc_Com_Iron_Ladle.tga
+data:
+  weight: 2.0
+  value: 1
+  flags: ''

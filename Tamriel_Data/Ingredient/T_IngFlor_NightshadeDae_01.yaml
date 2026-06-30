@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_NightshadeDae_01
+name: Nightshade
+script: BILL_MarksDaedraSummon
+mesh: pc\n\pc_ing_dry_nshade.nif
+icon: pc\n\pc_tx_ingred_nshade.dds
+data:
+  weight: 0.1
+  value: 5
+  effects:
+  - DamageHealth
+  - Burden
+  - DamageAttribute
+  - FortifyMagicka
+  skills:
+  - None
+  - None
+  - Block
+  - None
+  attributes:
+  - None
+  - None
+  - Luck
+  - None

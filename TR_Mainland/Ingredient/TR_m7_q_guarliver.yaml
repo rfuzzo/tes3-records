@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: TR_m7_q_guarliver
+name: Guar Liver
+script: ''
+mesh: TR\n\tr_ing_meat_guar.nif
+icon: TR\n\tr_ing_meat_guar.dds
+data:
+  weight: 1.0
+  value: 1
+  effects:
+  - DamageMagicka
+  - DrainAttribute
+  - RestoreFatigue
+  - None
+  skills:
+  - None
+  - Block
+  - None
+  - None
+  attributes:
+  - None
+  - Agility
+  - None
+  - None

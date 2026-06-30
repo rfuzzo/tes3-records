@@ -1,0 +1,29 @@
+type: Container
+flags: ''
+id: T_MwDe_FurnR_Ds1Alchm
+name: Desk
+script: ''
+mesh: TR\o\TR_De_R_Desk01.NIF
+encumbrance: 75.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Mw_Random_BooksScholar
+- - 1
+  - T_Mw_Random_ClutterDesk
+- - 1
+  - T_Mw_Random_ClutterPeachware
+- - 2
+  - T_Mw_Random_ClutterPotionFlask
+- - 2
+  - T_Mw_Random_Minerals
+- - 5
+  - T_Mw_Random_Plant
+- - 1
+  - T_Mw_Random_Pos
+- - 3
+  - T_Mw_Random_Shell
+- - 1
+  - l_n_apparatus
+- - 50
+  - random gold

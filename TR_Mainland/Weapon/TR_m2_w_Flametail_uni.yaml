@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m2_w_Flametail_uni
+name: Flametail
+script: ''
+mesh: TR\w\tr_w_ebony_dagger.nif
+icon: TR\w\tr_w_ebony_dagger.tga
+enchanting: TR_m2_en_Flametail
+data:
+  weight: 5.0
+  value: 12500
+  weapon_type: ShortBladeOneHand
+  health: 800
+  speed: 2.5
+  reach: 1.0
+  enchantment: 37
+  chop_min: 6
+  chop_max: 12
+  slash_min: 6
+  slash_max: 12
+  thrust_min: 8
+  thrust_max: 16
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

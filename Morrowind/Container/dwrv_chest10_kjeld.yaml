@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: dwrv_chest10_kjeld
+name: Ornate Dwemer Chest
+script: ''
+mesh: o\contain_dwrv_chest10.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 4
+  - repair_journeyman_01
+- - 1
+  - repair_prongs
+- - 6
+  - hammer_repair
+- - 1
+  - repair_master_01

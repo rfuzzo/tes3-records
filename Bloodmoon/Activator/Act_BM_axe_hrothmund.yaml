@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: Act_BM_axe_hrothmund
+name: Hrothmund's Axe
+script: HrothmundAxe
+mesh: w\W_Nord_battleaxe.NIF

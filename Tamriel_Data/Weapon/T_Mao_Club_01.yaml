@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Mao_Club_01
+name: Maormer Club
+script: ''
+mesh: tr\w\tr_w_mao_club.nif
+icon: tr\w\tr_w_mao_club.dds
+enchanting: ''
+data:
+  weight: 8.0
+  value: 500
+  weapon_type: BluntOneHand
+  health: 500
+  speed: 1.5
+  reach: 1.0
+  enchantment: 32
+  chop_min: 7
+  chop_max: 10
+  slash_min: 4
+  slash_max: 5
+  thrust_min: 3
+  thrust_max: 5
+  flags: ''

@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: TR_i3-726-Imp_crate_20
+name: Crate
+script: ''
+mesh: o\Contain_crate_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 9
+  - ingred_comberry_01
+- - 5
+  - ingred_frost_salts_01

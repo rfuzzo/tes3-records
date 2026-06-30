@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: crate_de_floater
+name: Floating Crate
+script: Float
+mesh: o\contain_DE_crate_logo.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory: []

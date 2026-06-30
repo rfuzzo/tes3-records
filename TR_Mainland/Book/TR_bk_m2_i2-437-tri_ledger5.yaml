@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_bk_m2_i2-437-tri_ledger5
+name: Necrom Temple Annual Income
+script: ''
+mesh: TR\m\tr_book_closed_i08_ay.nif
+icon: tr\m\tr_book_closed_i08_ay.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR><BR>\r\n[This is one volume of the journal that contains precise entries on the daily income of the administration of the Temple in Necrom for the last five years.]<BR>"
+data:
+  weight: 3.0
+  value: 15
+  book_type: Book
+  skill: None
+  enchantment: 0

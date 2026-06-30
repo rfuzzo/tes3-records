@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: AB_o_ComRchDrawr02Empty
+name: Chest of Drawers
+script: ''
+mesh: OAAB\o\com_r_drawers_s.nif
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory: []

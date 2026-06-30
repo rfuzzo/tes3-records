@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_AldKhanShrine
+name: Shrine of the Banquet
+script: TR_m7_AldKhanShrine_sc
+mesh: f\Furn_shrine_vivec_01.NIF

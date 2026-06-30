@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: TR_m3_supchst_i3-128-in
+name: Chest of Drawers
+script: ''
+mesh: o\Contain_De_Drawers_01.NIF
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory:
+- - 4
+  - TR_m3_esskanet_i3-128-ind
+- - 1
+  - TR_m3_essnirth_i3-128-ind
+- - 2
+  - TR_m3_essstone_i3-128-ind
+- - 10
+  - misc_de_foldedcloth00

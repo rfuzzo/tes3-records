@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m4_And_Temple_ChIngr
+name: Small Chest
+script: ''
+mesh: o\Contain_chest_small_02.NIF
+encumbrance: 25.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - ingred_frost_salts_01

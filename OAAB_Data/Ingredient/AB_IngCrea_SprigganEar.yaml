@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: AB_IngCrea_SprigganEar
+name: Spriggan's Ear
+script: ''
+mesh: OAAB\n\spriggan_ear.nif
+icon: OAAB\n\spriggan_ear.dds
+data:
+  weight: 0.4
+  value: 16
+  effects:
+  - FortifyMagicka
+  - DrainAttribute
+  - Sound
+  - FrostShield
+  skills:
+  - None
+  - Block
+  - None
+  - None
+  attributes:
+  - None
+  - Agility
+  - None
+  - None

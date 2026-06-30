@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: doze charm
+name: Doze Charm
+script: ''
+mesh: c\Amulet_Common_2.NIF
+icon: c\tx_amulet_com2.tga
+enchanting: doze_en
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 8
+  enchantment: 150

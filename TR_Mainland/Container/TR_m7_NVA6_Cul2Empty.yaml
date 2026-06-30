@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: TR_m7_NVA6_Cul2Empty
+name: Culdem
+script: TR_m7_NVA_Stage6_Persist
+mesh: TR\o\TR_cont_Ind_02.nif
+encumbrance: 60.0
+container_flags: IS_BASE
+inventory: []

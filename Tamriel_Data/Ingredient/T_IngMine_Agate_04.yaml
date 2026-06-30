@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngMine_Agate_04
+name: White Agate
+script: ''
+mesh: tr\n\tr_ing_agate_04.nif
+icon: tr\n\tr_ing_agate_04.dds
+data:
+  weight: 0.2
+  value: 100
+  effects:
+  - Burden
+  - SlowFall
+  - Light
+  - Reflect
+  skills:
+  - None
+  - Alchemy
+  - None
+  - None
+  attributes:
+  - None
+  - Strength
+  - None
+  - None

@@ -1,0 +1,11 @@
+type: Container
+flags: PERSISTENT
+id: chest_ClawFang_UNIQUE
+name: Chest
+script: totemchestScript
+mesh: o\Contain_De_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - Misc_BM_ClawFang_UNIQUE

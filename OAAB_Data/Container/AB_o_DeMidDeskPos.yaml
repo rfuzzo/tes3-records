@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: AB_o_DeMidDeskPos
+name: Desk
+script: ''
+mesh: OAAB\o\de_rm_desk01.nif
+encumbrance: 40.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - AB_lvl_PosCheapAll
+- - 3
+  - AB_lvl_PosExpensiveAll

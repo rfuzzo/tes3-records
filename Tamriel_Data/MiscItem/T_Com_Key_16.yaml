@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_Key_16
+name: Large Iron Key
+script: ''
+mesh: TR\m\TR_Key_DD15.NIF
+icon: TR\m\TR_Key_DD15.dds
+data:
+  weight: 0.0
+  value: 0
+  flags: ''

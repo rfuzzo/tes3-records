@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Echo_28
+name: ANCESTORS' ANGUISH REVEALED
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_text_note_nar_news.nif
+icon: tr\m\tr_text_note_nar_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\tr_echo_512_256.dds\" WIDTH=\"348\" HEIGHT=\"168\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nANCESTORS' ANGUISH REVEALED<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nThose troubled by the hostile spirits in the Foreign Quarter sewers, take notice. The Canyon Echo's intrepid reporting has revealed the reason for at least one of our ancestors' unrest: damage to the catacombs. In a sit down with the Echo's source, one of the more agreeable spirits revealed that several chambers of the catacombs have been flooded with sewage, disturbing the peaceful existence of all interred within. Most shockingly of all, the spirit cast blame on House Hlaalu and the Temple for failing to prevent this occurrence.<BR><BR>\r\nWhether or not this vitriol is directed at the proper targets is unclear, however. While it is true that Hlaalu officials recently ordered the expansion of the Foreign Quarter sewers, a spokeswoman for the House claims that measures were taken to ensure structural integrity, both of the sewers themselves and the catacombs they were constructed near. The issue, she suggests, may instead be a result of the Ja-Natta Syndicate's illicit activities within the sewers.<BR><BR>\r\nAs for the Temple, Milara Orvayn, the master of the Eight-Bones Temple, took a decisive viewpoint. \"The wellbeing of our ancestors has always been, and continues to be, our utmost concern. A project to undo any damage to the catacombs will begin as soon as we establish the sections affected.\"<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: bk_notetocalderaslaves
+name: Note to Slaves
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nRules:<BR>\r\n<BR>\r\nDamage to company property will not be tolerated. If any further scratch marks are found on the bedposts, all miners will be given double shifts for the rest of the month.<BR>\r\n<BR>\r\nNo talking after sundown. No talking during feedings. No talking before sunrise.<BR>\r\n<BR>\r\nAlways obey the guards and mages promptly and without question. <BR>"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

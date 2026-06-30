@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: light_sconce00
+name: ''
+script: ''
+mesh: l\light_sconce00.NIF
+icon: ''
+sound: Fire 40
+data:
+  weight: 0.0
+  value: 1
+  time: -1
+  radius: 320
+  color:
+  - 242
+  - 174
+  - 49
+  - 0
+  flags: DYNAMIC | FIRE | FLICKER_SLOW

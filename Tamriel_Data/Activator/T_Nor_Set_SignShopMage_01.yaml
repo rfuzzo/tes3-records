@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Nor_Set_SignShopMage_01
+name: Magic Services
+script: T_ScObj_WeatherAnimSHOTN
+mesh: sky\f\sky_act_sign_mage_01.nif

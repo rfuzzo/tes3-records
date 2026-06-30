@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_ThorntailBerry_01
+name: Thorntail Berry
+script: ''
+mesh: EPoS\n\els_cactus_fruit_01.nif
+icon: epos\n\cactus_fruit_01.dds
+data:
+  weight: 0.1
+  value: 10
+  effects:
+  - DrainAttribute
+  - DrainAttribute
+  - RestoreHealth
+  - NightEye
+  skills:
+  - Block
+  - Block
+  - None
+  - None
+  attributes:
+  - Willpower
+  - Endurance
+  - None
+  - None

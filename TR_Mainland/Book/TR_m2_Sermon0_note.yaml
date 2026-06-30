@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2_Sermon0_note
+name: Note of Seizing
+script: ''
+mesh: m\Text_Parchment_01.NIF
+icon: m\Tx_parchment_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n\r\n<BR>Vendor: Jobasha, Vivec city Foreign Quarters. Siezed by the Office of the Watch.\r\n<BR>\r\n"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

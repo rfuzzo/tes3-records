@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Rea_Cm_Necklace_01
+name: Amber Necklace
+script: ''
+mesh: Sky\c\Sky_Necklace_Amber_01.nif
+icon: Sky\c\Tx_Necklace_Amber_01.dds
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 5
+  enchantment: 10

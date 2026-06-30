@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Imp_Et_Amulet_AdamantineWill
+name: Amulet of Adamantine Will
+script: ''
+mesh: pc\c\pc_c_etamulet_01d.nif
+icon: pc\c\pc_c_etamulet_01d.dds
+enchanting: T_Use_FortifyWillpower20-15
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 225
+  enchantment: 600

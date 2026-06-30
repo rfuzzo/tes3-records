@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Rga_Pot_01
+name: Small Basket
+script: ''
+mesh: pc\m\pc_misc_rga_pot_01.nif
+icon: pc\m\pc_rga_pot_01.dds
+data:
+  weight: 1.0
+  value: 2
+  flags: ''

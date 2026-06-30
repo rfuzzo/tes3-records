@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m4_Ando_RivenwakePlank
+name: ''
+script: TR_m4_Andoth_Rivenwake_Scp
+mesh: x\ex_ship_plank.nif

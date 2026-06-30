@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_ChunzefkRuinNote
+name: Excavation site -- Keep out!
+script: ''
+mesh: m\Text_Parchment_01.NIF
+icon: m\Tx_parchment_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>\r\nEXCAVATION SITE -- KEEP OUT!\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nThis ruin is an official excavation site of the Imperial Archaeological Society, under the protection of the Elder Council. Entry not allowed except for Society members. <br>\r\nAll trespassers will be FINED and REMOVED from the site. The Society guards have the sanction to use LETHAL FORCE if necessary. <BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

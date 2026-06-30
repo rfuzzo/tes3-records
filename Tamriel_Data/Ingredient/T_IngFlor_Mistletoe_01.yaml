@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_Mistletoe_01
+name: Mistletoe Berries
+script: ''
+mesh: sky\n\sky_ingred_mistlet.nif
+icon: sky\n\tx_ingred_mistletoe.dds
+data:
+  weight: 0.1
+  value: 7
+  effects:
+  - Dispel
+  - ResistMagicka
+  - DamageHealth
+  - CureBlightDisease
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

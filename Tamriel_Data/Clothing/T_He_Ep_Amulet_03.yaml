@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_He_Ep_Amulet_03
+name: Expensive Amulet
+script: ''
+mesh: sum\c\sum_c_epamulet_03.nif
+icon: sum\c\sum_c_epamulet_03.dds
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 30
+  enchantment: 150

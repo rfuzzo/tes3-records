@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Rga_UNI_Tangra_01
+name: Tangra
+script: ''
+mesh: sky\w\sky_w_orich_sword_02.nif
+icon: sky\w\sky_w_orich_sword_02.dds
+enchanting: ''
+data:
+  weight: 21.0
+  value: 80000
+  weapon_type: LongBladeOneHand
+  health: 2200
+  speed: 1.35
+  reach: 1.0
+  enchantment: 380
+  chop_min: 2
+  chop_max: 50
+  slash_min: 1
+  slash_max: 50
+  thrust_min: 4
+  thrust_max: 40
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

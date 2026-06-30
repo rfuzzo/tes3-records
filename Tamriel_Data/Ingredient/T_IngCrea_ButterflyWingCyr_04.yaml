@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_ButterflyWingCyr_04
+name: Fruitbearer Butterfly Wing
+script: ''
+mesh: pc\n\pc_ing_btrfly_wing_04.nif
+icon: pc\n\pc_ing_btrfly_wing_04.dds
+data:
+  weight: 0.1
+  value: 5
+  effects:
+  - RestoreAttribute
+  - FortifyAttribute
+  - ResistShock
+  - None
+  skills:
+  - Block
+  - Block
+  - None
+  - None
+  attributes:
+  - Strength
+  - Willpower
+  - None
+  - None

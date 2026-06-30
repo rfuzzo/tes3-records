@@ -1,0 +1,25 @@
+type: Container
+flags: ''
+id: T_MwCom_Var_Cr1RedWatch
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_De_RedoranWatchman_Boots
+- - 1
+  - T_De_RedoranWatchman_Cuirass
+- - 1
+  - T_De_RedoranWatchman_GauntletL
+- - 1
+  - T_De_RedoranWatchman_GauntletR
+- - 1
+  - T_De_RedoranWatchman_Greaves
+- - 1
+  - T_De_RedoranWatchman_PauldronL
+- - 1
+  - T_De_RedoranWatchman_PauldronR
+- - 1
+  - chitin_watchman_helm

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: active_kolfinna_bedenable
+name: Bed
+script: BedEnable
+mesh: f\Furn_Com_Bed_03.nif

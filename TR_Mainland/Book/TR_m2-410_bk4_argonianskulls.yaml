@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2-410_bk4_argonianskulls
+name: Argonian Skulls
+script: ''
+mesh: m\Text_Parchment_02.NIF
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThese two skulls belong to the Argonian heathen shamans who inspired and led the Argonian assaults on our homeland. The first was captured at the battle of Han Hloadal by the stern warriors of Great House Redoran, but the second would not be killed until the last days of the war by the skilled hunters of Great House Dres. Until the last, these barbarian shamans refused to submit to the blades of the Dunmer, and so they have been brought here, as a symbol and sign of the ultimate victory won by the Dunmer of Morrowind in the Arnesian War. \r\n<BR>"
+data:
+  weight: 0.1
+  value: 5
+  book_type: Scroll
+  skill: None
+  enchantment: 0

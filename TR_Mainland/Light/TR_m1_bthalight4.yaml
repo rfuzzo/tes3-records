@@ -1,0 +1,19 @@
+type: Light
+flags: PERSISTENT
+id: TR_m1_bthalight4
+name: ''
+script: TR_m1_bthalight_sc
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 128
+  color:
+  - 250
+  - 30
+  - 69
+  - 0
+  flags: PULSE_SLOW

@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_De_Et_Amulet_MeriyonsFins
+name: Amulet of Meriyon's Fins
+script: ''
+mesh: c\Amulet_Exquisit_1.NIF
+icon: c\tx_amulet_exquisite1.tga
+enchanting: T_Use_Swiftswim60-60
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 540
+  enchantment: 1200

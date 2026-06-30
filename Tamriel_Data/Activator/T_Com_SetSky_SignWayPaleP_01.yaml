@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Com_SetSky_SignWayPaleP_01
+name: Pale Pass
+script: ''
+mesh: sky\x\sky_act_rsign_palep1.nif

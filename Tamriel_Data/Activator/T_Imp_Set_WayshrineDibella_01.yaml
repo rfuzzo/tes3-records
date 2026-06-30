@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_Set_WayshrineDibella_01
+name: Wayshrine of Dibella
+script: T_ScObj_ShrineWayDibellaPC
+mesh: pc\x\PC_Act_WShrn.nif

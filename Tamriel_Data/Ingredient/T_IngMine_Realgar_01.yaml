@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngMine_Realgar_01
+name: Realgar
+script: ''
+mesh: tr\n\tr_ing_realgar.nif
+icon: tr\n\tr_ing_realgar.dds
+data:
+  weight: 1.0
+  value: 50
+  effects:
+  - Poison
+  - FortifySkill
+  - ResistMagicka
+  - None
+  skills:
+  - None
+  - Alchemy
+  - None
+  - None
+  attributes:
+  - None
+  - Strength
+  - None
+  - None

@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: de_p_chest_02_mclothes3
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 3
+  - random_common_de_mclothes_01
+- - 5
+  - random gold
+- - 1
+  - random_loot_special

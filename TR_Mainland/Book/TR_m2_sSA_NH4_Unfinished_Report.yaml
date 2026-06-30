@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2_sSA_NH4_Unfinished_Report
+name: Unfinished Report
+script: ''
+mesh: m\Text_Scroll_02.NIF
+icon: m\Tx_scroll_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe militia is not getting the proper support that it needs from the Imperial Court of Helnim. If the Telvanni make trouble we will be hard pressed to defend the city. We are not properly supplied and too poorly trained.<BR>\r\n<BR>\r\n[This report is currently unfinished, this is all there is to it.]<BR>\r\n<BR>\r\n"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

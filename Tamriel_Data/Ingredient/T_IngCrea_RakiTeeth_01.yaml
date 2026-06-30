@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_RakiTeeth_01
+name: Raki Teeth
+script: ''
+mesh: Sky\n\sky_ingred_rakiteeth.nif
+icon: sky\n\tx_ingred_rakiteeth.dds
+data:
+  weight: 0.3
+  value: 15
+  effects:
+  - DrainHealth
+  - WeaknessToShock
+  - NightEye
+  - Jump
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

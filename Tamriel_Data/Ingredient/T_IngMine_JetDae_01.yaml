@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngMine_JetDae_01
+name: Jet
+script: BILL_MarksDaedraSummon
+mesh: TR\n\TR_ing_jet_mm.nif
+icon: TR\n\TR_Ing_jet.dds
+data:
+  weight: 0.2
+  value: 100
+  effects:
+  - DamageFatigue
+  - RestoreAttribute
+  - WeaknessToFire
+  - Dispel
+  skills:
+  - None
+  - Block
+  - None
+  - None
+  attributes:
+  - None
+  - Personality
+  - None
+  - None

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_FW_College_MusMap
+name: Navigational Tools
+script: ''
+mesh: m\text_parchment_01.nif
+icon: m\tx_parchment_01.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nNavigational Tools of the Imperial Navy<BR> <BR>\r\n<DIV ALIGN=\"LEFT\">\r\nDisplayed above is a period map of Emperor Uriel V's invasion of the Uttermost East, produced for internal use by the Imperial Navy in 283. The complex preparatory naval operations that took place between 282 and 289 are marked, as is the final invasion following the Fleets' rendezvous at Black Harbor. While several such maps have been retained by collectors, this specimen is the best-preserved map of the Akavir invasion anywhere in Tamriel. Below the map are several antique navigational implements used during the Invasion.\r\n<BR>\r\nThis map is on loan to the College of Firewatch from the Museum of the Imperial Navy in Thorn. It was bequeathed to the public by the late Admiral Varus Caro, commander of the 3rd (Southern) Squadron from 277-285. The navigational tools are authentic 280s pieces once owned by Captain Rochar of the light galleon TEM 'Dellese Rain'.<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

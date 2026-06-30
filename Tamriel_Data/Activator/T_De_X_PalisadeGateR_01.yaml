@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_De_X_PalisadeGateR_01
+name: Gate
+script: T_ScObj_De_X_PalisadeGate
+mesh: tr\d\tr_ex_de_palis_gateR.nif

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Yne_Iron_KnifeDecorated
+name: Ynesai Iron Decorated Knife
+script: ''
+mesh: pi\w\pi_w_yiron_knifedeco.nif
+icon: pi\w\pi_w_yiron_knifedeco.dds
+enchanting: ''
+data:
+  weight: 1.5
+  value: 45
+  weapon_type: ShortBladeOneHand
+  health: 100
+  speed: 2.5
+  reach: 1.0
+  enchantment: 50
+  chop_min: 1
+  chop_max: 3
+  slash_min: 1
+  slash_max: 3
+  thrust_min: 1
+  thrust_max: 3
+  flags: ''

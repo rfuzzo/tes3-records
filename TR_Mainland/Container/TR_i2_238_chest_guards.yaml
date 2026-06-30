@@ -1,0 +1,27 @@
+type: Container
+flags: ''
+id: TR_i2_238_chest_guards
+name: Wooden Chest
+script: ''
+mesh: o\Contain_De_Chest_02.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - bonemold_boots
+- - 2
+  - bonemold_bracer_left
+- - 2
+  - bonemold_bracer_right
+- - 2
+  - bonemold_cuirass
+- - 2
+  - bonemold_greaves
+- - 2
+  - bonemold_pauldron_l
+- - 2
+  - bonemold_pauldron_r
+- - 1
+  - steel broadsword
+- - 1
+  - steel longsword

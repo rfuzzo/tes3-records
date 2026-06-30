@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_Saw_03
+name: Saw
+script: ''
+mesh: pc\m\pc_misc_saw02.nif
+icon: pc\m\pc_misc_saw02.dds
+data:
+  weight: 4.0
+  value: 13
+  flags: ''

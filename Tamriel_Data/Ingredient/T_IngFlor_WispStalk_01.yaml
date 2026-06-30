@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_WispStalk_01
+name: Wisp Stalks
+script: ''
+mesh: pc\n\pc_ing_wispstalk.nif
+icon: pc\n\pc_ing_wispstalks.dds
+data:
+  weight: 0.1
+  value: 2
+  effects:
+  - DamageHealth
+  - Chameleon
+  - FortifyAttribute
+  - Silence
+  skills:
+  - None
+  - None
+  - Block
+  - None
+  attributes:
+  - None
+  - None
+  - Speed
+  - None

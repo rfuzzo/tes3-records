@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m3_TaintedWAmulet
+name: Interesting Amulet
+script: TR_m3_TaintedWAmulet_sc
+mesh: TR\c\TR_ind amulet.NIF
+icon: TR\c\TR_c_ind_amulet.dds
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 0.5
+  value: 10
+  enchantment: 10

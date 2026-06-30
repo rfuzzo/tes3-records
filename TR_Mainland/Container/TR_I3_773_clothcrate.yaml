@@ -1,0 +1,21 @@
+type: Container
+flags: ''
+id: TR_I3_773_clothcrate
+name: Crate
+script: ''
+mesh: o\Contain_crate_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - common_pants_02
+- - 1
+  - common_shirt_01
+- - 2
+  - common_shirt_02
+- - 1
+  - common_shoes_01
+- - 1
+  - common_shoes_02
+- - 1
+  - common_skirt_02

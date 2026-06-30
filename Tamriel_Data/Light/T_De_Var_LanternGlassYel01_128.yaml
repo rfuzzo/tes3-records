@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_De_Var_LanternGlassYel01_128
+name: Glass Lantern
+script: ''
+mesh: tr\l\tr_l_de_lantgl_yel01.nif
+icon: tr\l\tr_l_de_lantg_yel01.dds
+sound: ''
+data:
+  weight: 3.0
+  value: 12
+  time: 150
+  radius: 128
+  color:
+  - 255
+  - 223
+  - 0
+  - 0
+  flags: DYNAMIC | CAN_CARRY | FIRE | FLICKER_SLOW

@@ -1,0 +1,20 @@
+type: Alchemy
+flags: ''
+id: T_Com_Poison_DamageWill_B
+name: Bargain Damage Willpower
+script: ''
+mesh: m\Misc_Potion_Bargain_01.nif
+icon: m\Tx_potion_bargain_01.tga
+effects:
+- magic_effect: DamageAttribute
+  skill: None
+  attribute: Willpower
+  range: OnSelf
+  area: 0
+  duration: 0
+  min_magnitude: 5
+  max_magnitude: 5
+data:
+  weight: 1.5
+  value: 5
+  flags: ''

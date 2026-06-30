@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_IL_Kathyletter
+name: Letter to Caecalia Victrix
+script: ''
+mesh: m\Text_Parchment_02.NIF
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nTo the esteemed Caecalia Victrix, Lord-General of Morrowind<BR>\r\n<BR>\r\nI am writing to you today of Fort Commandant and Commander of the Ancylis Legions, Rojanna. I do not believe it is in the best of the Legions for her to remain at her post, and humbly request that you do what you can to have her relocated elsewhere.<BR>\r\n<BR>\r\nIn recent memory, Commandant Rojanna has ordered her troops to free legal slaves at the Savrethi Distrillery, to extralegally murder ex-Camonna Tong member Ralam Hlaan, and to conduct patrols and arrest smugglers outside of Mournhold District (thereby overstepping her bounds as Commandant of Fort Ancylis). She is virulently anti-Hlaalu, and lacks understanding of the Legion's bounds in Morrowind.<BR>\r\n<BR>\r\nWhile I have thus far been able to undercut her authority and prevent scandal with House Hlaalu, her command over Fort Ancylis cannot continue without dire consequences for the Legion's relationship with House Hlaalu. I am respected by the men, and should be able to assume command until you are able to name an adequate replacement.<BR>\r\n<BR>\r\nHumbly,<BR>\r\nChampion Kathellomar of Fort Ancylis<BR>\r\n"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

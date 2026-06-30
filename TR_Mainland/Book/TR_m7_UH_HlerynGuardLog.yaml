@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_UH_HlerynGuardLog
+name: Hleryn Estate Guard Log
+script: ''
+mesh: m\Text_Octavo_04.nif
+icon: m\Tx_octavo_04.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n[This logbook records the Hleryn Estate's official guard schedule and related logs.]<BR>\r\n"
+data:
+  weight: 3.0
+  value: 2
+  book_type: Book
+  skill: None
+  enchantment: 0

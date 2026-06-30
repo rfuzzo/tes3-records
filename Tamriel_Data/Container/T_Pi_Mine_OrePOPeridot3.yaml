@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Pi_Mine_OrePOPeridot3
+name: Raw Peridot
+script: ''
+mesh: pi\o\pi_cont_porock_peri_03.nif
+encumbrance: 0.0
+container_flags: ORGANIC | IS_BASE
+inventory:
+- - 8
+  - T_Pi_Random_OrePeridot

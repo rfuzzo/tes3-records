@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m2_NH4_Barrel_Arrows
+name: Barrel
+script: ''
+mesh: o\Contain_barrel_01.NIF
+encumbrance: 75.0
+container_flags: IS_BASE
+inventory:
+- - 50
+  - iron arrow

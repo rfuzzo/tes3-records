@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_AndothDweRuinRope01
+name: ''
+script: TR_m4_AndothDweBarSet01_scp
+mesh: tr\f\tr_furn_com_rope_01.nif

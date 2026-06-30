@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_Mw_Light_Bloatspore_512
+name: ''
+script: ''
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 512
+  color:
+  - 25
+  - 15
+  - 60
+  - 0
+  flags: PULSE_SLOW

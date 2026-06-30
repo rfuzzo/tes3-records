@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_LexImperia_07
+name: Lex Imperii VII
+script: ''
+mesh: pc\m\PC_bk_Book_20.nif
+icon: pc\m\pc_bk_book_20.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nLEX IMPERII VII<BR>\r\n<BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\n<BR>\r\n[...]<BR>\r\n<BR>\r\nVII.XIII Sales<BR>\r\n1. A sale is an agreement according to which one Citizen is bound to deliver an object, and another Citizen to provide payment<BR>\r\n2. A sale is complete between the parties, and as such property is acquired in Law by the purchaser with regards to the seller, on the moment the object of the sale and the price are agreed on<BR>\r\n3. A sale may be absolute, or conditional<BR>\r\n4. When merchandise is not sold in bulk, but by weight or measure, the sale is not complete until the goods are weighed, counted, or measured, as such it remains at the risk of the vendor<BR>\r\n5. If the good is sold in bulk, the sale is considered perfect even when the merchandise has not been weighed, counted, or measured<BR>\r\n6. With respect to wine, oil, and other products which persons are in the habit of tasting before making purchase thereof, the sale is not complete so long as the Citizen purchasing has not tasted and approved of them<BR>\r\n<BR>\r\n[...]<BR>\r\n<BR>\r\nVII.XXII The Capacity to Buy and Sell<BR>\r\n1. All Citizens not under interdict of Law are capable of buying and selling<BR>\r\n2. The following Citizens are forbidden to become purchasers on pain of nullity: guardians of property, factors of goods which they are entasked with selling, administrators of common or public establishments, Imperial Executors tasked with the care of Imperial Property<BR>\r\n3 Every thing that is considered the object of Commerce may be sold, unless Law of particular nature prohibits it<BR>\r\n4. Any sale of property owned by another Citizen is null<BR>\r\n<BR>\r\n[...]<BR>\r\n<BR>"
+data:
+  weight: 4.0
+  value: 50
+  book_type: Book
+  skill: None
+  enchantment: 0

@@ -1,0 +1,31 @@
+type: Container
+flags: ''
+id: chest_tomb_gladroon2
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - flameeater robe
+- - 1
+  - shockguard robe
+- - 1
+  - fur_bracer_right
+- - 1
+  - fur_bracer_left
+- - 1
+  - glass_shield
+- - 1
+  - chitin boots
+- - 1
+  - fur_boots
+- - 1
+  - orcish_greaves
+- - 1
+  - chitin cuirass
+- - 1
+  - bonemold_cuirass
+- - 1
+  - orcish_helm

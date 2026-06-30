@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_PaintpotY_02
+name: Yellow Paint Pot
+script: ''
+mesh: pc\m\pc_misc_p_pot_yw_02.nif
+icon: pc\m\pc_misc_p_pot_closed.dds
+data:
+  weight: 1.0
+  value: 6
+  flags: ''

@@ -1,0 +1,22 @@
+type: Armor
+flags: ''
+id: AB_a_DustPldrLeft
+name: Dust Merchant Pauldron L.
+script: ''
+mesh: OAAB\a\a_dust_pldr_gnd.nif
+icon: OAAB\a\a_dust_pauldron.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: LeftUpperArm
+  male_bodypart: AB_a_Dust_ua
+  female_bodypart: ''
+- biped_object_type: LeftPauldron
+  male_bodypart: AB_a_Dust_cl
+  female_bodypart: ''
+data:
+  armor_type: LeftPauldron
+  weight: 4.0
+  value: 50
+  health: 200
+  enchantment: 30
+  armor_rating: 20

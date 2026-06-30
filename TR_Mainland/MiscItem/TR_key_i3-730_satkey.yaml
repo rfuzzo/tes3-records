@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_key_i3-730_satkey
+name: Sathis' Key
+script: ''
+mesh: m\key_standard_01.nif
+icon: m\tx_key_standard_01.dds
+data:
+  weight: 0.0
+  value: 300
+  flags: KEY

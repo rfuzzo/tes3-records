@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_RedGreenPepper_01
+name: Red-green Pepper
+script: ''
+mesh: pi\n\pi_ing_redgreenpepper.nif
+icon: pi\n\pi_ing_redgreenpepper.dds
+data:
+  weight: 0.1
+  value: 3
+  effects:
+  - RestoreFatigue
+  - FireDamage
+  - FortifyAttribute
+  - None
+  skills:
+  - None
+  - None
+  - Block
+  - None
+  attributes:
+  - None
+  - None
+  - Strength
+  - None

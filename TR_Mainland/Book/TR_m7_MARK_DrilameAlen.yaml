@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_MARK_DrilameAlen
+name: Drilame Alen
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: ''
+enchanting: ''
+text: "TR_m7_Drilame_Alen appears here when you give her a Divine Intervention scroll during TR_m7_Ns_RescuePotLady\r\n\r\nScript: TR_m7_Ns_RescuePotLady_Move_sc"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

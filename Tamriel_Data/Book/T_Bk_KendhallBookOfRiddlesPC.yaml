@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_KendhallBookOfRiddlesPC
+name: The Kendhall Book of Riddles
+script: ''
+mesh: pc\m\PC_bk_Book_02.nif
+icon: pc\m\pc_bk_book_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe Kendhall Book of Riddles<BR>\r\nby Kendhall<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\n[[Among the hundreds of riddles in this weighty tome, THE KENDHALL BOOK OF RIDDLES, four have been marked with scraps of paper:]]<BR>\r\n<BR> \r\nLoadbearer, Warrior\r\nSpirited, Brave\r\nFleet-foot, Ironshod\r\nFaithful One, Slave\r\n\r\nAnswer: Horse<BR>\r\n<BR> \r\nI rise above the roofs below\r\nFinger up-raised to heaven.\r\nI speak in clear tones\r\nThat aim for others\r\nTo gather where I call.\r\n\r\nAnswer: Bell Tower<BR>\r\n<BR> \r\nSome live in me, some live on,\r\nAnd some shave me to stride upon.\r\nI rarely leave my native land.\r\nUntil my death I always stand.\r\nHigh and low I may be found\r\nBoth above and under ground.\r\n\r\nAnswer: Tree<BR>\r\n<BR> \r\nArmor bright\r\nGleaming white\r\nA single rank\r\nTheir faces blank\r\nNow hid by night\r\nNow bold by light\r\nBright red the land\r\nWhere soldiers stand\r\n\r\nAnswer: Teeth<BR>\r\n<BR>"
+data:
+  weight: 2.0
+  value: 50
+  book_type: Book
+  skill: None
+  enchantment: 0

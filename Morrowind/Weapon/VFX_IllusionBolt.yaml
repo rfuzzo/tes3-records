@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: VFX_IllusionBolt
+name: ''
+script: ''
+mesh: w\magic_target_ill.NIF
+icon: ''
+enchanting: ''
+data:
+  weight: 0.0
+  value: 0
+  weapon_type: Arrow
+  health: 0
+  speed: 0.0
+  reach: 0.0
+  enchantment: 0
+  chop_min: 0
+  chop_max: 0
+  slash_min: 0
+  slash_max: 0
+  thrust_min: 0
+  thrust_max: 0
+  flags: ''

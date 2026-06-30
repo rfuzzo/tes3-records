@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: AB_o_ComChestWornTrink
+name: Worn Chest
+script: ''
+mesh: o\contain_chest10.nif
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - 50
+  - AB_lvl_Gold001
+- - 1
+  - AB_lvl_c_EnchSpecialSmall

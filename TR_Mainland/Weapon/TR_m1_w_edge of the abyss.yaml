@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m1_w_edge of the abyss
+name: Edge of the Abyss
+script: ''
+mesh: TR\w\TR_w_adamant_lsword.NIF
+icon: TR\w\TR_w_adamant_lsword.dds
+enchanting: TR_m1_edge_en
+data:
+  weight: 35.0
+  value: 65000
+  weapon_type: LongBladeOneHand
+  health: 2500
+  speed: 1.4
+  reach: 1.0
+  enchantment: 1700
+  chop_min: 5
+  chop_max: 30
+  slash_min: 8
+  slash_max: 39
+  thrust_min: 6
+  thrust_max: 38
+  flags: ''

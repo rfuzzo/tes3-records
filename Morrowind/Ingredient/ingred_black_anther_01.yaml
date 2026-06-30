@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_black_anther_01
+name: Black Anther
+script: ''
+mesh: n\Ingred_Black_Anther_01.nif
+icon: n\Tx_black_anther_01.tga
+data:
+  weight: 0.1
+  value: 2
+  effects:
+  - DrainAttribute
+  - ResistFire
+  - DrainAttribute
+  - Light
+  skills:
+  - Block
+  - Block
+  - Block
+  - Block
+  attributes:
+  - Agility
+  - Strength
+  - Endurance
+  - Strength

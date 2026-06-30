@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: daedric katana
+name: Daedric Katana
+script: ''
+mesh: w\W_katana_daedric.nif
+icon: w\Tx_katana_daedric.tga
+enchanting: ''
+data:
+  weight: 54.0
+  value: 50000
+  weapon_type: LongBladeOneHand
+  health: 4800
+  speed: 1.5
+  reach: 1.0
+  enchantment: 180
+  chop_min: 3
+  chop_max: 44
+  slash_min: 1
+  slash_max: 40
+  thrust_min: 1
+  thrust_max: 14
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

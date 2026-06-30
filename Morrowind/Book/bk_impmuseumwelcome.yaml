@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: bk_impmuseumwelcome
+name: Imperial Museum Welcome
+script: ''
+mesh: m\Text_Note_02.nif
+icon: m\Tx_note_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nWelcome to the Imperial Museum and Library. Please feel free to peruse the exhibits at your leisure, but please do take care around the prisoner. He has been in a terrible mood since we had to cut down his rations after the escape attempt.<BR>\r\n<BR>\r\nMaster Aryon<BR>\r\n"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

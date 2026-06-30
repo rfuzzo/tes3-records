@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_De_Bonemold_SparkStar_01
+name: Dire Sparkstar
+script: ''
+mesh: tr\w\tr_w_bonemold_star.nif
+icon: tr\w\tr_w_bonemold_star.dds
+enchanting: dire spark_en
+data:
+  weight: 0.1
+  value: 24
+  weapon_type: MarksmanThrown
+  health: 40
+  speed: 1.0
+  reach: 1.0
+  enchantment: 10
+  chop_min: 2
+  chop_max: 6
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

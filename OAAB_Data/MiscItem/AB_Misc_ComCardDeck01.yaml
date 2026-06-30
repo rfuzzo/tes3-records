@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_ComCardDeck01
+name: Deck of Cards
+script: ''
+mesh: OAAB\m\com_card_deck_01.nif
+icon: OAAB\m\com_card_deck_01.dds
+data:
+  weight: 1.0
+  value: 15
+  flags: ''

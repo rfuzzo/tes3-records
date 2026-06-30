@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_LA_Stronghold_Pilgrim
+name: Note to Pilgrim
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<BR>\r\n<BR>\r\nPilgrim,<BR><BR>\r\nNew batch of foreigners fresh off the boat in Almas Thirr. Get ready, I want you leading them down \"Veloth's Path\" tomorrow morning. We'll be waiting.<BR><BR>\r\nDon't screw this up.\r\n<BR>\r\n\r\n"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

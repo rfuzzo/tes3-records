@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m3_Kha_Chest_06
+name: Daedric Chest
+script: TR_m3_Kha_DaeChestCont_06_Sc
+mesh: o\contain_daedric_chest_01.nif
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_De_Glass_Warhammer_01

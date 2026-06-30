@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m1_FW_IC_SwordEnableAct
+name: ''
+script: TR_m1_FW_IC5_SwordEnable
+mesh: EditorMarker.NIF

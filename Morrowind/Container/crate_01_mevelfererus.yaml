@@ -1,0 +1,43 @@
+type: Container
+flags: ''
+id: crate_01_mevelfererus
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - -40
+  - bonemold bolt
+- - -50
+  - corkbulb bolt
+- - -50
+  - iron bolt
+- - -30
+  - silver bolt
+- - -50
+  - steel bolt
+- - -75
+  - bonemold arrow
+- - -100
+  - chitin arrow
+- - -100
+  - corkbulb arrow
+- - -100
+  - iron arrow
+- - -50
+  - silver arrow
+- - -100
+  - steel arrow
+- - -1
+  - steel crossbow
+- - -1
+  - bonemold long bow
+- - -1
+  - chitin short bow
+- - -1
+  - long bow
+- - -1
+  - short bow
+- - -1
+  - steel longbow

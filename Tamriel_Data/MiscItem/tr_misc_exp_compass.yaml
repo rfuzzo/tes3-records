@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: tr_misc_exp_compass
+name: Expensive Compass
+script: ''
+mesh: tr\m\tr_misc_exp_compass.nif
+icon: tr\m\tr_misc_exp_compass.dds
+data:
+  weight: 1.75
+  value: 450
+  flags: ''

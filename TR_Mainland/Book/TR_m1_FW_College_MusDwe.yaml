@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_FW_College_MusDwe
+name: Dwarven Artifacts
+script: ''
+mesh: m\text_parchment_01.nif
+icon: m\tx_parchment_01.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nDwarven Artifacts<BR> <BR>\r\n<DIV ALIGN=\"LEFT\">\r\nAbove are various artifacts of the extinct Dwarves, who once inhabited much of Telvannis District. The object in the center of the display, speculatively referred to by modern scholars as a \"coherer\", is of unknown purpose, though it is thought to have been powered by the clear tubes displayed to the left.\r\n<BR>\r\nThe shield and helmet - both remarkably well-preserved - were recovered by an excavation at Amthuandz in southern Telvannis District by the Imperial Archaeological Society. The Dwarven halberd was donated anonymously to the College, and is retained with the permission of the Census and Excise Office. The coherer and power tubes were recovered in 421 from the ruins of Kemel-Ze, and are on indefinite loan from the offices of the Imperial Archaological Society in Helnim.\r\n<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

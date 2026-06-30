@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_OE_MG_PuzzleJournal1
+name: Potelie Sincel's Entrance Log
+script: TR_m3_OE_MG_PuzzleJournal_sc
+mesh: pc\m\pc_bk_letter_05.nif
+icon: pc\m\pc_m_letter_05.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nPotelie Sincel's Log - Entrance<BR>\r\n<BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\nEntry 1<BR>\r\nI finally entered the sealed off guildhall! Unfortunately the door locked right behind me. It looks like I will have to find a key in here.<BR>\r\n<BR>\r\nEntry 2<BR>\r\nIt was a good idea to take some paper with me. I will use it to keep track of my exploration and hand in a full report when I get back. I'll reach journeyman in no time this way!<BR>\r\n<BR>\r\nEntry 3<BR>\r\nWell, all doors are either barred, locked or trapped... except the one at the top of this staircase. Seeing the weirdness of this first \"room\", I am starting to understand why this place was abandoned. I finally found a key, having to sacrifice my only telekinesis potion to reach it. I hope I won't need another one...<BR>\r\n<BR>\r\nEntry 4<BR>\r\nI dragged a bedroll from the bedroom into the hall. This way I won't have to put up with that horrible bed ever again.<BR>\r\n<BR>\r\nEntry 5<BR>\r\nBy the Divines! I can't get through most of these damned rooms! Where are all the keys? I should've learned the Detect Key spell before stepping through that door. How long have I been trapped in here?<BR>\r\n<BR>\r\nEntry 6<BR>\r\nMaybe my mentor was right. I'm not good enough to get out of this maze and I've completely lost track of time. Well, time to try another door.<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

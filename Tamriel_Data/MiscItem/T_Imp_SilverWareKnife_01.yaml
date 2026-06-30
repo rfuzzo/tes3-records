@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_SilverWareKnife_01
+name: Silverware Knife
+script: ''
+mesh: TR\m\TR_misc_silv_knife_02.nif
+icon: TR\m\TR_misc_silv_knife_02.dds
+data:
+  weight: 1.0
+  value: 4
+  flags: ''

@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Com_Iron_BracerL_02
+name: Iron Left Bracer
+script: ''
+mesh: TR\a\TR_a_Iron_Bracer_W_3.nif
+icon: TR\a\TR_a_iron_brcr_L_03.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: LeftWrist
+  male_bodypart: T_A_ComIronBracer02_W
+  female_bodypart: ''
+data:
+  armor_type: LeftBracer
+  weight: 5.0
+  value: 20
+  health: 50
+  enchantment: 200
+  armor_rating: 10

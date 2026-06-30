@@ -1,0 +1,83 @@
+type: Container
+flags: ''
+id: com_chest_02_v_trader03
+name: Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 500.0
+container_flags: IS_BASE
+inventory:
+- - -100
+  - silver bolt
+- - -100
+  - silver arrow
+- - 20
+  - glass arrow
+- - -50
+  - silver dart
+- - -50
+  - silver throwing star
+- - 1
+  - silver war axe
+- - 1
+  - silver staff
+- - 1
+  - silver claymore
+- - -1
+  - steel longsword
+- - 1
+  - silver longsword
+- - -1
+  - steel shortsword
+- - 1
+  - silver shortsword
+- - 1
+  - silver dagger
+- - 1
+  - expensive_amulet_01
+- - 1
+  - expensive_amulet_02
+- - 1
+  - expensive_amulet_03
+- - 1
+  - expensive_skirt_01
+- - 1
+  - expensive_skirt_02
+- - 1
+  - expensive_skirt_03
+- - 1
+  - expensive_robe_01
+- - 1
+  - expensive_robe_02
+- - 1
+  - expensive_robe_03
+- - 1
+  - expensive_shirt_01
+- - 1
+  - expensive_shirt_02
+- - 1
+  - expensive_shirt_03
+- - 1
+  - expensive_shoes_01
+- - 1
+  - expensive_shoes_02
+- - 1
+  - expensive_shoes_03
+- - 1
+  - expensive_pants_01
+- - 1
+  - expensive_pants_02
+- - 1
+  - expensive_pants_03
+- - -1
+  - steel_towershield
+- - -1
+  - steel_shield
+- - -3
+  - random_steel_weapon
+- - -3
+  - random_armor_steel
+- - -5
+  - random_com_kitchenware
+- - -3
+  - torch

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2_bk_LOE_HeRecordBook3
+name: Ledger of Employees
+script: ''
+mesh: m\Text_Octavo_04.nif
+icon: m\Tx_octavo_04.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This book shows the list of all EEC employees and their monthly earnings here in Helnim.]<BR>\r\n\r\n"
+data:
+  weight: 1.0
+  value: 15
+  book_type: Book
+  skill: None
+  enchantment: 100

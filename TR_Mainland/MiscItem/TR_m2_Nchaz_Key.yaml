@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m2_Nchaz_Key
+name: Nchazdrumn Skeleton Key
+script: ''
+mesh: m\misc_dwrv_Ark_key00.nif
+icon: m\misc_dwrv_Ark_key00.tga
+data:
+  weight: 5.0
+  value: 300
+  flags: KEY

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: AB_IngFlor_ViMuscaria_01
+name: Vicious Chanterelle
+script: ''
+mesh: OAAB\n\ing_muscaria02.nif
+icon: OAAB\n\n_muscaria02.dds
+data:
+  weight: 0.5
+  value: 2
+  effects:
+  - DamageHealth
+  - DrainFatigue
+  - WeaknessToPoison
+  - Shield
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

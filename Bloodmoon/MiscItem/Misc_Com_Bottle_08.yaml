@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: Misc_Com_Bottle_08
+name: Bottle
+script: ''
+mesh: m\Misc_Com_Bottle_08.NIF
+icon: m\Misc_Com_Bottle_08.tga
+data:
+  weight: 1.0
+  value: 1
+  flags: ''

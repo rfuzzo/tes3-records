@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Bellman_43
+name: INNER SEA SECURED
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_note_oe_news.nif
+icon: tr\m\tr_note_oe_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\TR_bellman_512_256.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nINNER SEA SECURED<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nThe proud banners of the Empire grace the walls of Fort Firemoth and Sulfurwatch Keep once more. After vanquishing the undead horde occupying the archipelago, the Imperial Legion and Imperial Navy joined hands to rebuild these fortifications raised to guard the Inner Sea. The future looked bleak for a moment when the Vvardenfell District Grand Council sought to dispute direct Imperial control, but thankfully Duke Dren was able to dismiss the matter after the intervention of a skilled Legion negotiator.<BR><BR>\r\nThrough the generous donations and hard work of loyal citizens, both Fort Firemoth and Sulfurwatch Keep are operational once again. Commodore Kventus Lucilius has already moved his detachment out of Fort Ancylis and back to its traditional home of Sulfurwatch Keep. Meanwhile, Lord General Caecalia Victrix has appointed %PCName as commandant of Fort Firemoth. This %PCRace played a vital role in liberating the archipelago from Grurn and assisted in the rebuilding of the fort.<br><br>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

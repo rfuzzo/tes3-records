@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Imp_Silver_Battleaxe_01
+name: Silver Battle Axe
+script: ''
+mesh: tr\w\tr_w_silver_battleaxe.nif
+icon: tr\w\tr_w_silver_battleaxe.dds
+enchanting: ''
+data:
+  weight: 24.0
+  value: 200
+  weapon_type: AxeTwoHand
+  health: 900
+  speed: 1.0
+  reach: 1.0
+  enchantment: 46
+  chop_min: 1
+  chop_max: 36
+  slash_min: 1
+  slash_max: 27
+  thrust_min: 1
+  thrust_max: 4
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE | SILVER

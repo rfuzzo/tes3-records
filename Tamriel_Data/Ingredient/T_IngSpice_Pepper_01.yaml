@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngSpice_Pepper_01
+name: Rihad Pepper
+script: ''
+mesh: pc\n\pc_ing_pepper.nif
+icon: pc\n\pc_ingred_pepper.dds
+data:
+  weight: 0.1
+  value: 20
+  effects:
+  - DrainAttribute
+  - ResistMagicka
+  - FireDamage
+  - None
+  skills:
+  - Block
+  - None
+  - None
+  - None
+  attributes:
+  - Personality
+  - None
+  - None
+  - None

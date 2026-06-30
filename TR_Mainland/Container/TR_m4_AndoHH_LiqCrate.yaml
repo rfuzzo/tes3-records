@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m4_AndoHH_LiqCrate
+name: Crate
+script: TR_m4_AndoHH_SujammaCrate
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 9
+  - potion_local_liquor_01

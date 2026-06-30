@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_EbonTowerLegionNail04
+name: Fort Ancylis
+script: TR_m3_act_OE_LegHQnails_scpt
+mesh: sky\m\sky_misc_nails_01.nif

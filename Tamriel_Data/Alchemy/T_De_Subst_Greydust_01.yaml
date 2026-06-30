@@ -1,0 +1,44 @@
+type: Alchemy
+flags: ''
+id: T_De_Subst_Greydust_01
+name: Greydust
+script: ''
+mesh: tr\m\tr_flask_greydust.nif
+icon: tr\m\tr_m_greydust_01.dds
+effects:
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Strength
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 20
+  max_magnitude: 20
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Agility
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 20
+  max_magnitude: 20
+- magic_effect: DrainAttribute
+  skill: None
+  attribute: Endurance
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 20
+  max_magnitude: 20
+- magic_effect: DrainAttribute
+  skill: None
+  attribute: Intelligence
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 20
+  max_magnitude: 20
+data:
+  weight: 1.0
+  value: 500
+  flags: ''

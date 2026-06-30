@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_EbonyClaymore
+name: Ebony Claymore
+script: ''
+mesh: OAAB\w\w_ebony_claymore.nif
+icon: OAAB\w\tx_w_ebony_claymore.dds
+enchanting: ''
+data:
+  weight: 61.0
+  value: 41000
+  weapon_type: LongBladeTwoClose
+  health: 2800
+  speed: 1.25
+  reach: 1.0
+  enchantment: 160
+  chop_min: 1
+  chop_max: 52
+  slash_min: 1
+  slash_max: 45
+  thrust_min: 1
+  thrust_max: 31
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

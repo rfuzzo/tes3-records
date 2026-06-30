@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_TG_ThreeEyesReceipt
+name: Receipt for Thoricles' Bane
+script: ''
+mesh: m\Text_Parchment_02.NIF
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>\r\nReceipt of Payment <BR> <BR>\r\nRecipient: Three-Eyes, a citizen of the Empire <BR>\r\nSum: Twenty-Five Thousand standard Imperial gold septims <BR>\r\nPaid for goods and/or services they have provided to serjo Vermilius Vendicci<BR>\r\n<BR> <BR>\r\nSigned, <BR>\r\nV.V. -- on behalf of serjo Vendicci <BR>\r\n<BR>"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

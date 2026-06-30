@@ -1,0 +1,27 @@
+type: Container
+flags: ''
+id: TR_m1_FW_IronGrip_silvW
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - -1
+  - silver claymore
+- - -1
+  - silver dagger
+- - 25
+  - silver dart
+- - -1
+  - silver longsword
+- - -1
+  - silver shortsword
+- - -1
+  - silver spear
+- - -1
+  - silver staff
+- - 25
+  - silver throwing star
+- - -1
+  - silver war axe

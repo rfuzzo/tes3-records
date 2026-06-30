@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_ImperialProverbsPC
+name: Imperial Proverbs
+script: ''
+mesh: pc\m\PC_bk_Book_05.nif
+icon: pc\m\pc_bk_book_05.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<BR>Imperial Proverbs<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\n[A collection of moralizing sayings and aphorisms from across Cyrodiil, illustrating various aspects from the worldview of the common Imperial.]<BR>\r\n<BR>\r\nDo not mistake red for ripe.<BR>\r\n<BR>\r\nBy the color of their silk will you know friend from foe. <BR>\r\n<BR>\r\nGive to the Emperor that which belongs to the Emperor by right. <BR>\r\n<BR>\r\nAs a lamp lights up a dark room, so does law shine upon the people.<BR>\r\n<BR>\r\nAs with red dye, the first coloring is never lost. <BR>\r\n<BR>\r\nBlessed forever are they who are blessed from the first hour.<BR>\r\n<BR>\r\nBeware the saint who knows no patron.<BR>\r\n<BR>\r\nThe pilgrim purchases divinity by walking the correct road, which has been prepared for him in advance.<BR>\r\n<BR>\r\nHeed the jungle, crouched in hostility.<BR>\r\n<BR>\r\nA blind man eats until he is sated, for he cannot see the feast before him.<BR>\r\n<BR>\r\nBeware he who builds his house with the words of another.<BR>\r\n<BR>\r\nIf three men claim to have seen a tiger in the market, a tiger there will be.<BR>\r\n<BR>\r\nThe wound of the knife will heal, but not that of the tongue.<BR>\r\n<BR>\r\nBetter a cunning foe than a foolish friend.<BR>\r\n<BR>\r\nA broken blade, when kept in its sheath, can still keep enemies at bay.<BR>\r\n<BR>\r\nMeasure all you posses, even that which you throw away.<BR>\r\n<BR>\r\nThe word \"rice\" has never filled a belly.<BR>\r\n<BR>\r\nThere is a hole in every law.<BR>\r\n<BR>\r\nProfit is also what you carry from a burning house. <BR>\r\n<BR>\r\nPoison and wine pass through the same throat.<BR>\r\n<BR>\r\nThere is no work for a coutal in a silkhouse.<BR>\r\n<BR>\r\nThe runner may be fast, but the jungle is deep.<BR>\r\n<BR>\r\nA jug of wine can work more miracles than a temple full of saints.<BR>\r\n<BR>\r\nA drawn sword is the greatest shield.<BR>\r\n<BR>\r\nWisdom is a coin not easily stolen.<BR>\r\n<BR>\r\nBetter to die as a beggar than to live as one. <BR>\r\n<BR>\r\nIf you cannot speak, don't show your tongue.<BR>\r\n<BR>\r\nHe who excuses himself, accuses himself.<BR>\r\n<BR>\r\nIf the wood doesn't burn, throw it back into the jungle. <BR>\r\n<BR>\r\nWhen one generation eats with much salt, the next will thirst for water. <BR>\r\n<BR>\r\nA man's tongue has the power to cleave the world.<BR>\r\n<BR>"
+data:
+  weight: 2.0
+  value: 35
+  book_type: Book
+  skill: None
+  enchantment: 0

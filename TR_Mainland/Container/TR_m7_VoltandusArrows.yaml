@@ -1,0 +1,25 @@
+type: Container
+flags: ''
+id: TR_m7_VoltandusArrows
+name: Barrel
+script: ''
+mesh: o\Contain_barrel_01.NIF
+encumbrance: 75.0
+container_flags: IS_BASE
+inventory:
+- - -25
+  - T_Com_Adamant_Arrow_01
+- - -25
+  - T_Com_Adamant_Bolt_01
+- - -50
+  - T_De_Dreugh_Arrow_01
+- - -50
+  - T_De_Dreugh_Bolt_01
+- - -30
+  - T_De_Glass_Bolt_01
+- - -30
+  - glass arrow
+- - -150
+  - silver arrow
+- - -150
+  - silver bolt

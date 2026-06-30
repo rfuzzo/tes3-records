@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_Kalkusara_Journal_Note_01
+name: Canex Sacipter's Note
+script: ''
+mesh: m\Text_Note_02.nif
+icon: m\Tx_note_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nI was not able to find my brother, Anerax. However, I did find the moths he was searching for.\r\n<BR>\r\nI cannot go any further. Whoever finds this note -- please tell my father, Venaros Sacipter, that his son died honorably and take our family sword back to him.<BR>\r\n<BR>\r\nCanex Sacipter<BR><BR>\r\n"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 100

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_RiverstriderEgg_01
+name: Waterstrider Egg
+script: ''
+mesh: tr\n\tr_ing_riverstrideregg.nif
+icon: tr\n\tr_ing_riverstrideregg.dds
+data:
+  weight: 0.2
+  value: 1
+  effects:
+  - Paralyze
+  - DrainAttribute
+  - Shield
+  - ResistMagicka
+  skills:
+  - None
+  - Block
+  - None
+  - None
+  attributes:
+  - None
+  - Personality
+  - None
+  - None

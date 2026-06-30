@@ -1,0 +1,33 @@
+type: Container
+flags: ''
+id: TR_m7_rallabala_ondr_ch
+name: Chest
+script: ''
+mesh: o\contain_de_chest_02.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Com_Cm_Ring_DivineIntervent
+- - 1
+  - T_Com_Cm_Shirt_ResistParalysis
+- - 2
+  - T_Mw_Random_ScrollsLvl2
+- - 3
+  - T_Mw_Random_WeaponsDreuEnchant
+- - 1
+  - T_Mw_Random_WeaponsGlassEnchant
+- - 1
+  - feather_shield
+- - 1
+  - helm of wounding
+- - 3
+  - l_m_enchantitem_imperial_rank0
+- - 1
+  - l_m_enchantitem_redoran_rank2
+- - 1
+  - l_m_enchantitem_temple_rank4
+- - 2
+  - random_scroll_all
+- - 1
+  - st. felm's fire

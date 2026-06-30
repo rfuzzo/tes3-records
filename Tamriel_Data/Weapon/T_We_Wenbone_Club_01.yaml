@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_We_Wenbone_Club_01
+name: Wenbone Club
+script: ''
+mesh: va\w\va_w_wenbone_club.nif
+icon: va\w\va_w_wenbone_club.dds
+enchanting: ''
+data:
+  weight: 10.0
+  value: 25
+  weapon_type: BluntOneHand
+  health: 450
+  speed: 1.5
+  reach: 1.0
+  enchantment: 35
+  chop_min: 3
+  chop_max: 7
+  slash_min: 2
+  slash_max: 6
+  thrust_min: 1
+  thrust_max: 6
+  flags: ''

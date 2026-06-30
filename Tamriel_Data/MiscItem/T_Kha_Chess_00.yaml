@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Kha_Chess_00
+name: Khajiiti Chessboard
+script: ''
+mesh: els\m\els_misc_khaChess_00.nif
+icon: els\m\els_misc_khaChess_00.dds
+data:
+  weight: 1.0
+  value: 150
+  flags: ''

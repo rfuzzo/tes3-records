@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_BelharzaretaPC_V2
+name: The Belharzareta II
+script: ''
+mesh: pc\m\pc_bk_book_10.nif
+icon: pc\m\pc_bk_book_10.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>Book II: Belharza the Man-Bull<BR>\n\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n\nOn the eve of his ninth name-day, Belharza grew bold, and in his boldness formed a plan that would forever alter his destiny. It was customary in those days of totem-worship for gifts to be exchanged on the first nine of a child's name days -- a carving or song in the Year of the Moth, a new sword or fishing-net in the Year of the Whale, and so on.<BR>\n\nBut on the ninth year, the Year of the Dragon, tradition held that a child might ask for anything at all and receive it, were it in his guardian's power to grant. So it was that on that fateful morning, Belharza arrayed himself in his finest furs and armor and presented himself before his father to make his demand -- freedom to leave the castle as he will.<BR>\n\nThe warlord, however, was not amused by his child's bravery, and not to be so easily rid of his trophy. He took up his axe and dragged young Belharza out to the yard, spittle and thu'um fast falling from his thick tongue, demanding that the boy bow down and beg for quarter. and beg forgiveness for his arrogance. But Belharza's eyes now flared with half-remembered royalty, and he would not bend nor break before such a man as this But as the Nord readied his weapon over the boy's neck, as Belharza's honored ancestors smiled down, a shadow fell over the castle and a glorious trumpeting broke through the morning mist. A great golden form crashed down between the boy and his father, and with gore-painted horns ended the warlord's schemes and ambitions in one august instant.<BR>\n\nWith fiery eyes, Morihaus (for indeed it was he) looked over the boy, starved for love and honor, and thus spake; \"YOU ARE NO CHILD OF MINE OWN, YOU PALE-FACED BETRAYAL OF STAR-CROSSED LOVE. BUT I SMELL SOMETHING ABOUT YOU STILL, LIKE A DAWN-STREAKED DREAM OF BLOODY CRUSADE AND RESPLENDENT PASSION. YOU ARE ONLY MAN, AND I HAVE BUT A BULL'S WIT, BUT PERHAPS I CAN HELP YOU BECOME MORE THAN YOU SEEM.\" And Morihaus touched his snout to the boy's forehead, and Belharza cried out as a bull's horns sprouted from his temples. Morihaus looked over this work with satisfaction, and snorted, \"THOUGH YOU HAVE KNOWN NO LIFE BUT THIS ONE, 'TIS CLEAR TO ME THAT YOU ARE INDEED YOUR MOTHER'S SON, FIRST OF THE ALESSIANS. SEEK OUT YOUR HALF-BROTHERS AND SISTERS IN THE HIGH LONELY PLACES OF ALD CYROD, SHOULD YOU SEEK TO CLAIM YOUR BIRTHRIGHT.\" And with a stroke of his wings Morihaus disappeared into the sky, and the marcher lords looked upon this in wonder and from the timbers of the castle built shrines upon the ground where the Breath-of-Kyne had walked in taurine nobility.<BR>\n\n"
+data:
+  weight: 2.0
+  value: 200
+  book_type: Book
+  skill: None
+  enchantment: 0

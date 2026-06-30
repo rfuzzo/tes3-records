@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_ReedPen
+name: Reed Pen
+script: ''
+mesh: OAAB\m\reedPen.nif
+icon: OAAB\m\reedPen.tga
+data:
+  weight: 0.05
+  value: 3
+  flags: ''

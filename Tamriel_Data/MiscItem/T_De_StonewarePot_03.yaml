@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_StonewarePot_03
+name: Stoneware Pot
+script: ''
+mesh: TR\m\tr_misc_stn_pot_03.nif
+icon: TR\m\tr_misc_stn_pot_03.dds
+data:
+  weight: 1.0
+  value: 4
+  flags: ''

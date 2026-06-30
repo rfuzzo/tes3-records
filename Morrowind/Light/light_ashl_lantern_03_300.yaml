@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: light_ashl_lantern_03_300
+name: ''
+script: ''
+mesh: l\Light_Ashl_Lantern_03.NIF
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 300
+  color:
+  - 255
+  - 0
+  - 0
+  - 0
+  flags: DYNAMIC | PULSE_SLOW

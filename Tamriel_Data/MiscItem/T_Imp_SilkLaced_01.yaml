@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_SilkLaced_01
+name: Laced Moth-Silk
+script: ''
+mesh: pc\m\pc_misc_silk_01.nif
+icon: pc\m\pc_misc_silk_01.dds
+data:
+  weight: 0.5
+  value: 20
+  flags: ''

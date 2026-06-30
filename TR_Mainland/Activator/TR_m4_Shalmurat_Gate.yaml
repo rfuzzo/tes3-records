@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m4_Shalmurat_Gate
+name: ''
+script: ''
+mesh: TR\x\TR_ex_portcullis_01.nif

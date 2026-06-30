@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m3_Kha_9_Saber_Cursed
+name: Daedric Saber
+script: TR_m3_Kha_9_Saber_Cursed_Sc
+mesh: TR\w\TR_w_daedra_saber.NIF
+icon: TR\w\TR_w_daedra_saber.tga
+enchanting: ''
+data:
+  weight: 40.0
+  value: 28000
+  weapon_type: LongBladeOneHand
+  health: 4000
+  speed: 1.4
+  reach: 1.0
+  enchantment: 160
+  chop_min: 5
+  chop_max: 42
+  slash_min: 4
+  slash_max: 38
+  thrust_min: 1
+  thrust_max: 15
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Glb_TerrWater_Circle_0064_01
+name: ''
+script: T_ScSound_Water
+mesh: tr\x\tr_water_circle64_dg.nif

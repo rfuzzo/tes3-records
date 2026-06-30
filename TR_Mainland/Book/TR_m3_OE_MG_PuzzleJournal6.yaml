@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_OE_MG_PuzzleJournal6
+name: Potelie Sincel's Half Maze Log
+script: TR_m3_OE_MG_PuzzleJournal_sc
+mesh: pc\m\pc_bk_letter_05.nif
+icon: pc\m\pc_m_letter_05.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nPotelie Sincel's Log - Half Maze<BR>\r\n<BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\nEntry 1<BR>\r\nThis whole maze is so clunky and narrow, it makes me feel claustrophobic.<BR>\r\n<BR>\r\nEntry 2<BR>\r\nAt least here I know what to avoid: touching the Red Dragon. I've been warned that this is a horrible trap. I'll go back now and grab a few potions and scrolls on the way out.<BR>\r\n<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_Uddanu, Laboratory_npc1
+name: Imga Accountant
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: ''
+enchanting: ''
+text: "Should be an imga accountant\r\nPlacement might not be final"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

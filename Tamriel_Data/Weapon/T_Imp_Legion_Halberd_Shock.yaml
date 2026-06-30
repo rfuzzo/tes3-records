@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Imp_Legion_Halberd_Shock
+name: Imperial Sparkcleaver
+script: ''
+mesh: tr\w\tr_w_imp_halberd.nif
+icon: tr\w\tr_w_imp_halberd.dds
+enchanting: cruel spark_en
+data:
+  weight: 15.0
+  value: 100
+  weapon_type: SpearTwoWide
+  health: 850
+  speed: 1.0
+  reach: 1.8
+  enchantment: 55
+  chop_min: 1
+  chop_max: 4
+  slash_min: 1
+  slash_max: 4
+  thrust_min: 1
+  thrust_max: 19
+  flags: ''

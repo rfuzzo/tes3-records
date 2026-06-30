@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_DeCeramicPlate_01
+name: Ceramic Plate
+script: ''
+mesh: OAAB\m\misc_ceramic_plt.nif
+icon: OAAB\m\misc_ceramic_plt.dds
+data:
+  weight: 1.0
+  value: 2
+  flags: ''

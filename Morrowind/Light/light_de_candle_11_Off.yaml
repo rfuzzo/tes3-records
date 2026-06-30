@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: light_de_candle_11_Off
+name: Candle
+script: ''
+mesh: l\Light_De_Candle_11.NIF
+icon: l\Light_De_Candle_11.tga
+sound: ''
+data:
+  weight: 1.0
+  value: 2
+  time: 120
+  radius: 64
+  color:
+  - 245
+  - 140
+  - 40
+  - 0
+  flags: DYNAMIC | CAN_CARRY | FIRE | OFF_BY_DEFAULT | FLICKER_SLOW

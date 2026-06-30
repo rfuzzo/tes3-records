@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: sc_summondaedroth_hto
+name: Milyn Faram's Scroll
+script: ''
+mesh: m\Text_Scroll_01.nif
+icon: m\Tx_scroll_open_01.tga
+enchanting: summon_daedroth_HTO_en
+text: <DIV ALIGN="center"><FONT COLOR="000000" SIZE="2" FACE="Daedric">WOE UPON YOU</FONT><BR>
+data:
+  weight: 1.0
+  value: 211
+  book_type: Scroll
+  skill: None
+  enchantment: 100

@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: TR_m2_cont_emp_urn_i332
+name: Urn
+script: ''
+mesh: o\Contain_urn_05.NIF
+encumbrance: 10.0
+container_flags: IS_BASE
+inventory: []

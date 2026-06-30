@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: silver shardblade
+name: Silver Shardblade
+script: ''
+mesh: w\W_silver_Shortsword.nif
+icon: w\Tx_Shortsword_Silver.tga
+enchanting: dire shard_en
+data:
+  weight: 6.0
+  value: 120
+  weapon_type: ShortBladeOneHand
+  health: 600
+  speed: 2.5
+  reach: 1.0
+  enchantment: 36
+  chop_min: 5
+  chop_max: 10
+  slash_min: 5
+  slash_max: 10
+  thrust_min: 6
+  thrust_max: 12
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

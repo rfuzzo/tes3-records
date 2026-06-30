@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_De_Dreugh_Sparkclever_01
+name: Dreugh Sparkcleaver
+script: ''
+mesh: tr\w\tr_w_dreugh_halberd.nif
+icon: tr\w\tr_w_dreugh_halberd.dds
+enchanting: cruel spark_en
+data:
+  weight: 16.0
+  value: 1000
+  weapon_type: SpearTwoWide
+  health: 860
+  speed: 1.0
+  reach: 1.8
+  enchantment: 55
+  chop_min: 1
+  chop_max: 5
+  slash_min: 1
+  slash_max: 5
+  thrust_min: 7
+  thrust_max: 24
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

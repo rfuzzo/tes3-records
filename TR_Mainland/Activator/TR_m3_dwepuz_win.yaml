@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m3_dwepuz_win
+name: ''
+script: TR_m3_dwepuz_winstm
+mesh: i\act_sotha_steam00.NIF

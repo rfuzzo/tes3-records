@@ -1,0 +1,60 @@
+type: Alchemy
+flags: ''
+id: T_Com_Potion_FortifyCasting_B
+name: Bargain Fortify Casting
+script: ''
+mesh: m\Misc_Potion_Bargain_01.nif
+icon: m\Tx_potion_bargain_01.tga
+effects:
+- magic_effect: FortifySkill
+  skill: Alteration
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 8
+  min_magnitude: 5
+  max_magnitude: 5
+- magic_effect: FortifySkill
+  skill: Conjuration
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 8
+  min_magnitude: 5
+  max_magnitude: 5
+- magic_effect: FortifySkill
+  skill: Destruction
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 8
+  min_magnitude: 5
+  max_magnitude: 5
+- magic_effect: FortifySkill
+  skill: Illusion
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 8
+  min_magnitude: 5
+  max_magnitude: 5
+- magic_effect: FortifySkill
+  skill: Mysticism
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 8
+  min_magnitude: 5
+  max_magnitude: 5
+- magic_effect: FortifySkill
+  skill: Restoration
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 8
+  min_magnitude: 5
+  max_magnitude: 5
+data:
+  weight: 1.5
+  value: 5
+  flags: ''

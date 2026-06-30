@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_De_AlitHide_Cuirass_01
+name: Alit Hide Cuirass
+script: ''
+mesh: tr\a\tr_a_alit_cuirass_gnd.nif
+icon: tr\a\tr_a_alit_cuirass.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_A_DeAlitHideCuirass_C
+  female_bodypart: T_A_DeAlitHideCuirass_CF
+data:
+  armor_type: Cuirass
+  weight: 7.0
+  value: 225
+  health: 330
+  enchantment: 120
+  armor_rating: 20

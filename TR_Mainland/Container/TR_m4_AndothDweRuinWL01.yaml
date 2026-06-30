@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m4_AndothDweRuinWL01
+name: Thirrine Water Lily
+script: TR_m4_AndothDwePlants01_scp
+mesh: tr\f\tr_flora_thirrlily_flw.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - T_IngFlor_ThirrineLily_01

@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: TR_m7_nars_llarenchest1
+name: Small Chest
+script: ''
+mesh: o\Contain_chest_small_02.NIF
+encumbrance: 25.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_De_Bonemold_Dart_01
+- - 5
+  - T_De_Bonemold_ThrowStar_01
+- - 8
+  - T_De_Chitin_Dart_01
+- - 20
+  - T_Mw_Random_WeaponArrowNative

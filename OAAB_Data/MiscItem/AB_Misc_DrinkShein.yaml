@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_DrinkShein
+name: Empty Jug
+script: ''
+mesh: OAAB\m\dri_shein_empty.nif
+icon: OAAB\m\dri_shein_empty.tga
+data:
+  weight: 2.5
+  value: 1
+  flags: ''

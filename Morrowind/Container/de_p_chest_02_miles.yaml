@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: de_p_chest_02_miles
+name: Crate
+script: ''
+mesh: o\Contain_De_Chest_02.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - bookskill_restoration1
+- - 50
+  - Gold_001

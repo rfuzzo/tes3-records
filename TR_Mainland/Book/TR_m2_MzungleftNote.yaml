@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2_MzungleftNote
+name: Torn Note
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "Tirdas<br>\r\n<br>\r\nHa, our explorations went even smoother than we had supposed. The finds were plentiful, and the resistance minor. We were easily able to dispatch the Dwarven machines that we found.<br>\r\n<br>\r\nStill, something about this place gives me the creeps. I'll be sure to get Horis to keep watch tonight. Tomorrow, we move out.<br>"
+data:
+  weight: 1.0
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 10

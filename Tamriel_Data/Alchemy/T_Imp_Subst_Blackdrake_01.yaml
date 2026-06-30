@@ -1,0 +1,52 @@
+type: Alchemy
+flags: ''
+id: T_Imp_Subst_Blackdrake_01
+name: Blackdrake
+script: ''
+mesh: pc\n\pc_ing_blackdrake.nif
+icon: pc\n\pc_icon_blackdrake.dds
+effects:
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Speed
+  range: OnSelf
+  area: 0
+  duration: 90
+  min_magnitude: 30
+  max_magnitude: 30
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Strength
+  range: OnSelf
+  area: 0
+  duration: 90
+  min_magnitude: 30
+  max_magnitude: 30
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Endurance
+  range: OnSelf
+  area: 0
+  duration: 90
+  min_magnitude: 30
+  max_magnitude: 30
+- magic_effect: DrainAttribute
+  skill: None
+  attribute: Intelligence
+  range: OnSelf
+  area: 0
+  duration: 90
+  min_magnitude: 30
+  max_magnitude: 30
+- magic_effect: DrainHealth
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 90
+  min_magnitude: 1
+  max_magnitude: 1
+data:
+  weight: 0.5
+  value: 1400
+  flags: ''

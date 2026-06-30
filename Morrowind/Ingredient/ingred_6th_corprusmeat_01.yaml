@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_6th_corprusmeat_01
+name: Large Wrapped Corprusmeat
+script: ''
+mesh: n\Ingred_6th_Corpusmeat_01.NIF
+icon: n\Ingred_6th_Corpusmeat_01.tga
+data:
+  weight: 1.0
+  value: 0
+  effects:
+  - DrainFatigue
+  - DrainHealth
+  - DrainMagicka
+  - None
+  skills:
+  - Block
+  - Block
+  - Block
+  - Block
+  attributes:
+  - Strength
+  - Strength
+  - Strength
+  - Strength

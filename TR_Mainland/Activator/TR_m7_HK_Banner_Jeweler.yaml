@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_HK_Banner_Jeweler
+name: 'Annalina Conrel: Jeweler'
+script: OutsideBanner
+mesh: tr\f\tr_act_banner_jewel_01.nif

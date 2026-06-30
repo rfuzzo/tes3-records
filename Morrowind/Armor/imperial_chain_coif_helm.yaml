@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: imperial_chain_coif_helm
+name: Imperial Chain Coif
+script: ''
+mesh: a\A_M_ImperialChain_Helmet.nif
+icon: a\Tx_ImperialChain_Helmet.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: Hair
+  male_bodypart: a_m_imperialchain_helmet
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 3.5
+  value: 35
+  health: 100
+  enchantment: 175
+  armor_rating: 10

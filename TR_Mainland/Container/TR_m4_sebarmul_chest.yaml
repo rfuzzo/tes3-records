@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m4_sebarmul_chest
+name: Ancient Chest
+script: ''
+mesh: o\contain_chest_large_01.nif
+encumbrance: 250.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - TR_m4_frostfire_blade

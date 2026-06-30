@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Imp_Ep_HatColWest_04
+name: Expensive Colovian Hat
+script: ''
+mesh: pc\a\pc_imp_exp_colhat_02g.nif
+icon: pc\a\pc_a_exp_colhat_02.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Hair
+  male_bodypart: T_C_ImpEpColHat02_Hr
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 1.5
+  value: 15
+  health: 60
+  enchantment: 60
+  armor_rating: 6

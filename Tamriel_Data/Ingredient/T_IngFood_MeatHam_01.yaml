@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_MeatHam_01
+name: Ham
+script: ''
+mesh: Sky\n\Sky_Ingred_Ham_01.nif
+icon: Sky\n\Tx_Ingred_Ham_01.dds
+data:
+  weight: 8.0
+  value: 50
+  effects:
+  - FortifyFatigue
+  - FortifyAttribute
+  - None
+  - None
+  skills:
+  - None
+  - Block
+  - Block
+  - Block
+  attributes:
+  - None
+  - Strength
+  - Strength
+  - Strength

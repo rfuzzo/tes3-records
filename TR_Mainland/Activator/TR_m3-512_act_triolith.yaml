@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3-512_act_triolith
+name: Triolith
+script: TR_m3-512_act_shrine
+mesh: f\Active_triolith_01a.NIF

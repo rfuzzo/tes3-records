@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m3_Hal_ChestSmall
+name: Small Chest
+script: TR_m3_Hal_Enable_sc
+mesh: o\Contain_chest_small_02.NIF
+encumbrance: 25.0
+container_flags: IS_BASE
+inventory:
+- - 25
+  - Gold_001

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_w_DreughArrow10x
+name: Dreugh Arrow (10)
+script: AB_QuiverDreugh10x_s
+mesh: OAAB\w\quiver_dreugh.nif
+icon: OAAB\w\Dreugh_arrow.dds
+data:
+  weight: 1.0
+  value: 30
+  flags: ''

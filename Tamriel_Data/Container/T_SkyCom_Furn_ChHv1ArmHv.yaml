@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_SkyCom_Furn_ChHv1ArmHv
+name: Chest
+script: ''
+mesh: Sky\o\Sky_Cont_Chest_04_01.nif
+encumbrance: 250.0
+container_flags: IS_BASE
+inventory:
+- - 3
+  - T_Sky_Lvl_ArmorHeavy

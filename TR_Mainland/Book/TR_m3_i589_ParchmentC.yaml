@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_i589_ParchmentC
+name: Parchment
+script: ''
+mesh: m\Text_Parchment_02.nif
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe high way may seem blocked,<BR>\r\nBut passing through you should not dread,<BR>\r\nThe way exists, but it is locked,<BR>\r\nA friendship clasp, and my claws won't shred.<BR>"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

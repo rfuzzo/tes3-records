@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: TR_m4_q_AG_gift
+name: Heirloom of the Lost Tribe
+script: ''
+mesh: tr\n\tr_ing_ice_crystal.nif
+icon: tr\n\tr_ing_ice_crystal.dds
+data:
+  weight: 0.2
+  value: 50
+  effects:
+  - WeaknessToFrost
+  - FrostDamage
+  - FrostShield
+  - ResistFrost
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

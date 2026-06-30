@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_BezoarStone_01
+name: Bezoar Stone
+script: ''
+mesh: tr\n\tr_ing_bezoarstn.nif
+icon: tr\n\tr_ing_bezoarstn.dds
+data:
+  weight: 0.5
+  value: 75
+  effects:
+  - CurePoison
+  - ResistNormalWeapons
+  - Burden
+  - None
+  skills:
+  - None
+  - None
+  - Block
+  - None
+  attributes:
+  - None
+  - None
+  - Strength
+  - None

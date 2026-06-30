@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_bk_m4-368-ArmorerNote
+name: Tattered Note
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe only reason we aren't cleaning your things in the next room is because at one time you were capable of fixing armor instead of making it, impossibly, even more broken.\r\n<BR>\r\nI know you are popular with the others but I swear that if one more handle falls off when a customer picks up a shield then the last kindness you'll get from me is a quick death. Mention this to the others and you won't even get that<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

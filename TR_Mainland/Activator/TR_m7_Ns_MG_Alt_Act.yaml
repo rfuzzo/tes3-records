@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m7_Ns_MG_Alt_Act
+name: ''
+script: TR_m7_Ns_MG_Alt_Nelvana_sc
+mesh: EditorMarker.nif

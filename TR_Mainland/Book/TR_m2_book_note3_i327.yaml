@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2_book_note3_i327
+name: Note
+script: ''
+mesh: m\Text_Parchment_02.NIF
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nLive One,<BR>\r\nAt last you've found me! One more step and your journey is done!<BR>\r\n<BR>\r\nTelvanni lords endure for ages, and the prize you seek was crafted by the hand of old Vaerin. However, know that this mighty prize will outlast you, for it was crafted with the strength of an eternal soul.<BR>\r\n<BR>\r\nBut there is nothing here yet! You must cast the final spell to claim what will be yours, but which spell is the one? I suppose I can tell... As the hand of Llevran Vaerin created the prize, so did the master of the servant I seek mold a race of many kinds; a kind for every purpose under the moon you might even say.<BR>\r\n<BR>\r\n-Llevran Vaerin<BR>\r\n<BR>"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

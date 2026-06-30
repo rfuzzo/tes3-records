@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_FW_College_MusPottery
+name: Dark Elf Craftsmanship
+script: ''
+mesh: m\text_parchment_01.nif
+icon: m\tx_parchment_01.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nDark Elf Craftsmanship<BR> <BR>\r\n<DIV ALIGN=\"LEFT\">\r\nVarious examples of fine Dark Elven craftsmanship are displayed below.<BR>\r\n<BR>The clay pitcher at furthest left was discovered during the construction of the College in 380. It is thought today that a Dark Elven settlement once stood on the site of modern Firewatch, though any such village was long abandoned and forgotten by the time of the Armistice and the city's founding.<BR>\r\n<BR>The ornately-carved turquoise container and lid are of southern make, and were recovered in 403 from the ruins of an abandoned Telvanni tower in the borderlands between the Telvannis and Mournhold Districts. Such items are commonly used by the Dark Elf Great House Indoril in strange rituals known only to its innermost nobility. <BR>\r\n<BR>For much of Morrowind's history, stone was among the most common materials available for use by ordinary mer. Displayed here is an assortment of stoneware vessels dated to the late Second Era. The art of working stone has not been lost in modern times, but modern Dark Elves often rely on limeware, clay, or glass instead for general-use vessels.<BR>\r\n<BR>The yellow bowl seen here is a fine example of the intricate Velothi patterns that mark the signature style of Tribunate Dunmer craftsmanship. The scarab, a holy symbol to Dark Elves since the hazy days of the First Era, is prominently displayed, as are the stylized holy figures commonly seen in Temple art. Vessels such as this bowl are often used as decorative pieces, rather than for storing food.<BR>\r\n<BR>The strange carved stone seen at bottom right is of unknown origin and function, though the carved markings on its surface suggest Dark Elven make. The item is thought to be the oldest piece in the Museum's collection (older even than the College's Dwarven artifacts), which makes its intended purpose difficult to identify. According to Odunia Hare, Professor of Archaeology at the College, the object is likely a primitive spokeshave.<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

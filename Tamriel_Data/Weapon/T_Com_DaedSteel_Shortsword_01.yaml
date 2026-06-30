@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Com_DaedSteel_Shortsword_01
+name: Witch Steel Shortsword
+script: ''
+mesh: TR\w\TR_w_steel_dae_ssword.nif
+icon: TR\w\TR_w_steel_dae_ssword.dds
+enchanting: ''
+data:
+  weight: 12.0
+  value: 400
+  weapon_type: ShortBladeOneHand
+  health: 1350
+  speed: 2.0
+  reach: 1.0
+  enchantment: 100
+  chop_min: 8
+  chop_max: 15
+  slash_min: 8
+  slash_max: 15
+  thrust_min: 10
+  thrust_max: 15
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

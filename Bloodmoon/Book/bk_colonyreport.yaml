@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: bk_colonyreport
+name: Colony Status Report
+script: ''
+mesh: m\Text_Parchment_02.nif
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nRAVEN ROCK PROGRESS UPDATE\r\n<BR>\r\nAs the Factor is no doubt aware, the mine has been expanded, yielding an increase in ore output by 18 percent. Weekly quotas are being met regularly.<BR>\r\nDuring the last two shipments of supplies, two crates of wickwheat were noted to be rotten. The matter has been addressed with the supplier, and a refund should be arriving at the Factor's office sometime within the next few days.<BR>\r\nAt this time, there is nothing further to report.<BR>\r\n<BR>\r\nHumbly,<BR>\r\n<BR>\r\nFalco Galenus<BR>\r\n"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

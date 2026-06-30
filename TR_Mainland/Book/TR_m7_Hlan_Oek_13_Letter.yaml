@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: TR_m7_Hlan_Oek_13_Letter
+name: Letter from Tiralos
+script: ''
+mesh: m\Text_Parchment_02.NIF
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nMy dear brother,<BR>\r\n<BR>\r\nyou're far away from my sight, but I want you to know that you're always in my thoughts. I constantly pray to the Three that they may grant you a long and peaceful life. I forged this fine silver dagger for you to keep you safe wherever you go. I hope you like it.<BR>\r\n<BR>\r\nTiralos<BR>\r\n<BR>\r\np.s. Drala keeps nagging me about your whereabouts. What should I tell her?<BR>\r\n"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

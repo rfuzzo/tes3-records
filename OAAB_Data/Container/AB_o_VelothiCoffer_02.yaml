@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: AB_o_VelothiCoffer_02
+name: Coffer
+script: ''
+mesh: OAAB\o\rem_v_coffer02.nif
+encumbrance: 20.0
+container_flags: IS_BASE
+inventory:
+- - 4
+  - AB_lvl_VelothiCoffer_01
+- - 2
+  - AB_lvl_VelothiCoffer_02
+- - 30
+  - random gold

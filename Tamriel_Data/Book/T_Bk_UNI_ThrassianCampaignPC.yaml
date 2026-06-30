@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_UNI_ThrassianCampaignPC
+name: The Thrassian Campaign
+script: ''
+mesh: pc\m\pc_bk_book_09_open.nif
+icon: pc\m\pc_bk_book_09_open.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe Thrassian Campaign<BR>\r\nOn the nature of the Sload, collected from the Notes of Bendu Olo, West King of Anvil and Baron-Admiral of the All Flags Navy, and Dealer of Swift Justice to the Foul Spot of Thras.<BR>\r\n<BR>\r\n\r\n---<BR>\r\nLife Cycle<BR>\r\n---<BR>\r\n<BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\nJuvenile: disgusting little amorphous grubs.<BR>\r\n<BR>\r\nAdolescent: soft, squishy octopuslike things that cannot emerge on land.<BR>\r\n<BR>\r\nAdult: no outside limit to age or size. Individuals seen on land in Tamriel tend to be older, corpulent adults; the trait of greed is common in these individuals, and they excel as merchants and smuggling entrepreneurs. Younger adults lack essential surface survival skills, and are rarely seen on land. Older adults collapse under their own weight unless buoyed by water.<BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\n---<BR>\r\nGifts<BR>\r\n---<BR>\r\n<BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\nPerfect memory. They cannot read or write, but they remember everything they see or hear.<BR>\r\n<BR>\r\nMagic-adept: all land-traveling Sload know the Recall spell at a high level of skill, and use it casually and frequently as the default mode of travel. It also provides the best defense; they teleport out of difficulty instinctively. We must be on our feet!<BR>\r\n<DIV ALIGN=\"CENTER\"><BR>\r\n---<BR>\r\nLiabilities<BR>\r\n---<BR>\r\n<BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\nSload slowly adapt their outer integument to conform with surfaces and objects, permitting them to pick things up or climb things like disgusting slugs. Slow! They think very quickly, but never enough to suit their careful, deliberate personalities. They move slowly, and act slowly. It takes them a long time to come to decisions. They can answer questions quickly, if they choose to - which they seldom do.<BR>\r\n<BR>\r\nCautious. They have no word in their language for adventure. The closest equivalent means 'tragic disaster'. All their heroic myths are about individuals who sit around and think for years and years, consulting cautiously with wise Sload, until finally they act - always deliberately, always successfully. All their mythic villains act quickly, and always fail.<BR>\r\n<BR>\r\nlaughter at lame jokes, weeping at apparent misfortunes, furious tirades at folly or ineptitude. They have no compunctions about blasphemy, theft, torture, kidnapping, murder, or genocide. They break laws whenever they calculate it in their best interests. They do not perceive or honor friendship or loyalty in the familiar human terms, except for a cheerful affinity for those who defeat them or trick them in any endeavor. The adult form does not apparently reproduce, and shows no interest in the fate of its offspring.<BR>\r\n\r\n"
+data:
+  weight: 1.0
+  value: 500
+  book_type: Book
+  skill: None
+  enchantment: 0

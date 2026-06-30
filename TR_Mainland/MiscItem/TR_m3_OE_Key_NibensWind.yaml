@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m3_OE_Key_NibensWind
+name: Niben's Wind Key
+script: ''
+mesh: tr\m\tr_key_dd23.nif
+icon: tr\m\tr_key_dd23.dds
+data:
+  weight: 0.0
+  value: 50
+  flags: KEY

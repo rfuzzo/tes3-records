@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: colony_smoke_4_4_F2
+name: ''
+script: ColonyFactor2_Final
+mesh: chimney_smoke_small.NIF

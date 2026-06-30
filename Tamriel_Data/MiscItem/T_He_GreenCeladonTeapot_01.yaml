@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_He_GreenCeladonTeapot_01
+name: Green Celadon Teapot
+script: ''
+mesh: sum\m\sum_misc_celg_teapot.nif
+icon: sum\m\sum_misc_celg_teapot.dds
+data:
+  weight: 4.0
+  value: 20
+  flags: ''

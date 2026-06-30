@@ -1,0 +1,44 @@
+type: Alchemy
+flags: ''
+id: T_Orc_Drink_LiquorUngorth_02
+name: Ungorth
+script: ''
+mesh: Sky\n\Sky_Potion_Ungorth_01.nif
+icon: Sky\n\Tx_Potion_Ungorth_01.dds
+effects:
+- magic_effect: DrainAttribute
+  skill: None
+  attribute: Personality
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 30
+  max_magnitude: 30
+- magic_effect: DrainMagicka
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 30
+  max_magnitude: 30
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Willpower
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 10
+  max_magnitude: 10
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Strength
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 10
+  max_magnitude: 10
+data:
+  weight: 1.0
+  value: 50
+  flags: ''

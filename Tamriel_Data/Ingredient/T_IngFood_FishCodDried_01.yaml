@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_FishCodDried_01
+name: Salted Cod
+script: ''
+mesh: Sky\n\sky_ingred_meat_CdD01.nif
+icon: sky\n\sky_ingred_meat_cdd01.dds
+data:
+  weight: 1.0
+  value: 2
+  effects:
+  - RestoreFatigue
+  - None
+  - None
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

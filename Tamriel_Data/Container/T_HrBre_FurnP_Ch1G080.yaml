@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_HrBre_FurnP_Ch1G080
+name: Chest
+script: ''
+mesh: hr\o\hr_bigpchest2.nif
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - 110
+  - random gold

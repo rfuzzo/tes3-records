@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: TR_i2_303_barrel_poison
+name: Floating Barrel
+script: TR_i2_303_poisonbarrel
+mesh: o\contain_barrel10.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - misc_com_bottle_09
+- - 1
+  - misc_com_bottle_13

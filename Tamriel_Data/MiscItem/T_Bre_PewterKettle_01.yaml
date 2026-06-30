@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Bre_PewterKettle_01
+name: Pewter Kettle
+script: ''
+mesh: hr\m\hr_misc_pew_kettle_01.nif
+icon: hr\m\hr_misc_pew_kettle_01.dds
+data:
+  weight: 3.0
+  value: 3
+  flags: ''

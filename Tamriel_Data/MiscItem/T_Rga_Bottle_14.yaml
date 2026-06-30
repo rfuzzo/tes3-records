@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Rga_Bottle_14
+name: Bottle
+script: ''
+mesh: hf\m\hf_misc_rga_Bottle_14.nif
+icon: hf\m\hf_misc_rga_bottle14.dds
+data:
+  weight: 1.0
+  value: 1
+  flags: ''

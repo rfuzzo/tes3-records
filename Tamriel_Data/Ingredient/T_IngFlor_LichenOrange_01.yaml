@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_LichenOrange_01
+name: Orange Lichen
+script: ''
+mesh: tr\n\tr_ing_olichen_01.nif
+icon: tr\n\tr_ing_orangelichen.dds
+data:
+  weight: 0.1
+  value: 3
+  effects:
+  - DrainAttribute
+  - CureCommonDisease
+  - ResistParalysis
+  - DrainFatigue
+  skills:
+  - Block
+  - None
+  - None
+  - None
+  attributes:
+  - Endurance
+  - None
+  - None
+  - None

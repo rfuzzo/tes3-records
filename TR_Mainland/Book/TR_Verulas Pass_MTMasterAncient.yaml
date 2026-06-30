@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_Verulas Pass_MTMasterAncient
+name: Book of the Master
+script: ''
+mesh: TR\m\TR_book_closed_i11_AY.nif
+icon: TR\m\TR_book_closed_i11_AY.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nBook of the Master<br>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n<br>\r\nWritings in this book are barely legible, the ink is now faded grey. <br>\r\n<br>\r\nA few words stand out, though. Some dates. Some names.<br>\r\n<br>\r\n... New Era...<br>\r\n<br>\r\n... Versidue Shaie... <br>\r\n<br>\r\n... Blood... <br>\r\n<br>\r\nNothing else. <br>\r\n<br>"
+data:
+  weight: 3.0
+  value: 50
+  book_type: Book
+  skill: None
+  enchantment: 0

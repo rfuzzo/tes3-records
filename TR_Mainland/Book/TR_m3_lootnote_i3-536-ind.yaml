@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_lootnote_i3-536-ind
+name: Dead Thief's Note
+script: ''
+mesh: m\Text_Note_02.nif
+icon: m\Tx_note_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nI did it.  The plan worked out perfectly.  I, Veril Sarvela, am the first to ever steal from the forges of Anudnabia.  Rolamus Hilbongard slept while I crept down into his forge and stole one of his prize works.  No doubt my name will be immortalized by this crime.  No longer will people remain ignorant of the noble family of Sarvela.<BR>\r\n<BR>\r\n<BR>\r\nI have hid in this cavern for a few days now.  There is a daedric temple nearby.  Word has spread from Vvardenfell of my crime.  I am being hunted by priests and warriors alike.  What good is 22,000 gold if I'm dead?  I will remain in hiding for the next few days.<BR>\r\n<BR>\r\nThis cave is infested with beetles and shalk.  One of them has bit me.  The sting is unbearable.  I wish I had brought that bottle of cure common disease.<BR>\r\n<BR>\r\n<BR>\r\nMy entire leg is infected.  I only have to hold out for a few more days.  Then I'll make my escape.  May Azura have mercy on me.<BR>\r\n"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 100

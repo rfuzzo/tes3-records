@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_AbMonitor_11
+name: MERCHANTS TO SAIL FOR AKAVIR?
+script: T_ScNews_Bellman_Paper
+mesh: pc\m\pc_text_note_anv_news.nif
+icon: pc\m\pc_text_note_anv_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"PC\\pc_abmonitor.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nMERCHANTS SEEK FUNDS FOR AKAVIR TRADE MISSION<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nMerchant brothers Domenicus and Bartol Fontanarius spoke with the Monitor to share details of their audacious proposal to organize a trade mission to Akavir. Contact with the far eastern continent has been irregular since the failure of Emperor Uriel V's invasion in the late third century, and Imperial policy has generally discouraged mercantile exchange ever since. This fact, and the colossal distances separating west Cyrodiil from the Uttermost East, have not discouraged the Fontanarius brothers, who sat with the Monitor's Barbona Disenne to discuss their venture. Their interview is transcribed in abridged form below.<BR><BR>\r\nB. Disenne: \"Thank you for agreeing to discuss this remarkable plan of yours. How did you come by the inspiration for such a scheme?\"<BR><BR>\r\nD. Fontanarius: \"My brother and I are businessmen, madam -- businessmen with a nose for profit. We haven't made it as far as we have in the import business without a keen sense for new opportunities.\"<BR><BR>\r\nB. Disenne: \"What makes you so certain that a voyage from Anvil could reach Akavir? Would it not be easier to organize such a mission from Thorn, Necrom, or Archon?\"<BR><BR>\r\nB. Fontanarius: \"I'm sure an educated journalist like yourself knows that the world is round. As the War-Emperor learned to his sorrow, the western coasts of Akavir are inhabited by vicious Tsaesci with little love for Tamrielics and our Empire. By sailing west, we are confident that we can instead trade with the peaceable monkey-folk of Akavir's eastern isles.\"<BR><BR>\r\nB. Disenne: \"I assume you have detailed maps of the lands of Yokuda, which lie between us and these faraway isles? It is said that they are quite treacherous.\"<BR><BR>\r\nD. Fontanarius: \"I've been well informed by traders from the Far West that the isles of Yokuda are quite placid in modern times, and host only gentle farmers and peaceable merchants. Nevertheless, our crew will be well-prepared to take arms in the event of an attack.\"<BR><BR>\r\nB. Disenne: \"On that subject -- what ship do you intend to take west?\"<BR><BR>\r\nD. Fontanarius: \"At this stage, we are seeking a ship capable of the long journey. I'm certain that the famous ports of the Kingdom of Anvil will provide a vessel up to the task.\"<BR><BR>\r\nB. Disenne: \"Thank you for your time, gentlemen. May the Goddess fill your sails with her breath. When you get a ship, that is.\"<BR>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

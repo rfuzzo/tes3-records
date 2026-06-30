@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_FW_College_NotesGeog
+name: Student's Notes
+script: ''
+mesh: m\text_parchment_02.nif
+icon: m\tx_parchment_02.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[A student's notes on the geography of Deshaan District and the Arnesian Basin. There are doodles in the margins.]\r\n<BR>"
+data:
+  weight: 0.0
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m2_q_26_alluringcharm
+name: Amulet of Alluring Charm
+script: ''
+mesh: c\Amulet_teeth_Urshilaku.NIF
+icon: c\tx_amulet_urshilaku.tga
+enchanting: TR_m2_q_26_aluringcharm_en
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 350
+  enchantment: 1200

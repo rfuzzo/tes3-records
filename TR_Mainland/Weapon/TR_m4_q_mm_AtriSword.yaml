@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m4_q_mm_AtriSword
+name: Atriban Deras' Sword
+script: ''
+mesh: w\W_silver_Shortsword.nif
+icon: w\Tx_Shortsword_Silver.tga
+enchanting: dire flame_en
+data:
+  weight: 6.0
+  value: 200
+  weapon_type: ShortBladeOneHand
+  health: 600
+  speed: 2.5
+  reach: 1.0
+  enchantment: 36
+  chop_min: 6
+  chop_max: 12
+  slash_min: 6
+  slash_max: 12
+  thrust_min: 7
+  thrust_max: 14
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE | SILVER

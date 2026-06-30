@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_CuttingBoard_03
+name: Cutting Board
+script: ''
+mesh: sky\m\sky_misc_w_ctb_01_02.nif
+icon: sky\m\tx_misc_w_ctb_01_02.dds
+data:
+  weight: 1.5
+  value: 2
+  flags: ''

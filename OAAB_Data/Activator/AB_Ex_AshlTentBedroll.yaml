@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Ex_AshlTentBedroll
+name: Tent
+script: Bed_Standard
+mesh: OAAB\x\ashl_tent.nif

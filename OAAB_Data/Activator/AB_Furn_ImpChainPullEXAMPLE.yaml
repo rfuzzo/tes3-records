@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Furn_ImpChainPullEXAMPLE
+name: Metal Ring
+script: AB_Example_s
+mesh: OAAB\u\impChainPull.nif

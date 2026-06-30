@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_smith_i3-58-ind
+name: 'Adosl Drinith: Smith'
+script: OutsideBanner
+mesh: f\Furn_bannerD_WA_shop_01.NIF

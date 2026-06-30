@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: daedric longsword
+name: Daedric Longsword
+script: ''
+mesh: w\W_Longsword_daedric.nif
+icon: w\Tx_Daedric_longsword.tga
+enchanting: ''
+data:
+  weight: 60.0
+  value: 40000
+  weapon_type: LongBladeOneHand
+  health: 3200
+  speed: 1.35
+  reach: 1.0
+  enchantment: 180
+  chop_min: 2
+  chop_max: 32
+  slash_min: 1
+  slash_max: 44
+  thrust_min: 4
+  thrust_max: 40
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

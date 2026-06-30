@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_i3-721-cellar
+name: Nickel Key
+script: ''
+mesh: TR\m\TR_key_DD05.NIF
+icon: TR\m\TR_Key_DD05.dds
+data:
+  weight: 0.0
+  value: 0
+  flags: KEY

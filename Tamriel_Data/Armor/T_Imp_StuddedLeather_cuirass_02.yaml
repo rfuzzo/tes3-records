@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Imp_StuddedLeather_cuirass_02
+name: Brena Studded Leather Cuirass
+script: ''
+mesh: a\A_StuddedLeather_C_GND.nif
+icon: a\Tx_StuddedLeather_cuirass.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: a_studdedleather_cuirass
+  female_bodypart: ''
+data:
+  armor_type: Cuirass
+  weight: 9.0
+  value: 65
+  health: 300
+  enchantment: 60
+  armor_rating: 10

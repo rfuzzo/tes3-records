@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_SomnaliusFrond_01
+name: Somnalius Frond
+script: ''
+mesh: pc\n\pc_ingred_somnalius.nif
+icon: pc\n\pc_ingred_somnalius.dds
+data:
+  weight: 0.1
+  value: 3
+  effects:
+  - RestoreAttribute
+  - DamageAttribute
+  - FortifyHealth
+  - Feather
+  skills:
+  - Block
+  - Block
+  - None
+  - None
+  attributes:
+  - Speed
+  - Endurance
+  - None
+  - None

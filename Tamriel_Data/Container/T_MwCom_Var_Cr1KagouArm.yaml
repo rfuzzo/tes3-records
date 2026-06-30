@@ -1,0 +1,25 @@
+type: Container
+flags: ''
+id: T_MwCom_Var_Cr1KagouArm
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_De_KagoutiHide_Boots_01
+- - 1
+  - T_De_KagoutiHide_BracerL_01
+- - 1
+  - T_De_KagoutiHide_BracerR_01
+- - 1
+  - T_De_KagoutiHide_Cuirass_01
+- - 1
+  - T_De_KagoutiHide_Greaves_01
+- - 1
+  - T_De_KagoutiHide_Helm_01
+- - 1
+  - T_De_KagoutiHide_PauldronL_01
+- - 1
+  - T_De_KagoutiHide_PauldronR_01

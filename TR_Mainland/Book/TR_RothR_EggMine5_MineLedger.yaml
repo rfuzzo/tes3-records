@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_RothR_EggMine5_MineLedger
+name: Egg Mine Ledger
+script: ''
+mesh: m\text_octavo_03.nif
+icon: m\tx_octavo_03.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nEgg Mine Ledger<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\n[This book contains a meticulous record of the production of kwama eggs and their shipment, as well as the listing of various maladies sustained during work by either the miners or the kwama. Costs of healings and restorations are precisely recorded.]<BR>\r\n<BR>\r\n"
+data:
+  weight: 2.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 20

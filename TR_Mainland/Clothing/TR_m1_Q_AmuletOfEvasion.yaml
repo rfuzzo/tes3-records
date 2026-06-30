@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m1_Q_AmuletOfEvasion
+name: Amulet of Evasion
+script: ''
+mesh: c\Amulet_Common_4.NIF
+icon: c\tx_amulet_com4.tga
+enchanting: TR_m1_sanctuary_en
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 40
+  enchantment: 10

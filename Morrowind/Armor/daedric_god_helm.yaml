@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: daedric_god_helm
+name: Daedric Face of God
+script: ''
+mesh: a\A_Daedric_god_h.NIF
+icon: a\TX_Daedric_god_h.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: Head
+  male_bodypart: a_daedric_god_h
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 15.0
+  value: 15000
+  health: 800
+  enchantment: 750
+  armor_rating: 80

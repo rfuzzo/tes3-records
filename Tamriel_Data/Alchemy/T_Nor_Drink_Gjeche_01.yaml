@@ -1,0 +1,28 @@
+type: Alchemy
+flags: ''
+id: T_Nor_Drink_Gjeche_01
+name: Gjeche Ale
+script: ''
+mesh: sky\m\sky_misc_gjeche.nif
+icon: sky\m\tx_sky_m_gjeche.dds
+effects:
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Strength
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 20
+  max_magnitude: 20
+- magic_effect: DrainAttribute
+  skill: None
+  attribute: Intelligence
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 20
+  max_magnitude: 20
+data:
+  weight: 4.0
+  value: 20
+  flags: ''

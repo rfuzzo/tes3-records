@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_M7_SH1_Tomb_1_Urn_4
+name: Urn of Sevus Hlaalu
+script: ''
+mesh: o\Contain_urn_05.NIF
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - TR_M7_SH1_Tomb_1_Sevus

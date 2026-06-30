@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_HairSilverComb
+name: Comb
+script: ''
+mesh: OAAB\m\hair_silver_comb.nif
+icon: OAAB\m\hair_silver_comb.dds
+data:
+  weight: 1.0
+  value: 12
+  flags: ''

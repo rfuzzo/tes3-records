@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m3_q_Kha_teleport_amulet
+name: Silhaenil's Amulet
+script: TR_m3_q_Kha_teleport_amulet_sc
+mesh: c\Amulet_Expensive_1.NIF
+icon: c\tx_amulet_expens1.tga
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 50
+  enchantment: 0

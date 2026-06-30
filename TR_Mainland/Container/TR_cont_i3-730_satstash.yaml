@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: TR_cont_i3-730_satstash
+name: Small Chest
+script: ''
+mesh: o\contain_chest_small_01.nif
+encumbrance: 25.0
+container_flags: IS_BASE
+inventory:
+- - 150
+  - Gold_001
+- - 1
+  - p_water_breathing_s

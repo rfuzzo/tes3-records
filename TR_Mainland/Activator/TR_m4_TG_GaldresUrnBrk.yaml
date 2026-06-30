@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_TG_GaldresUrnBrk
+name: ''
+script: TR_m4_TG_GeldrasUrnBrk_scp
+mesh: tr\m\tr_de_urn_broke07.nif

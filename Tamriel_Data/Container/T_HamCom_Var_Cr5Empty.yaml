@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: T_HamCom_Var_Cr5Empty
+name: Crate
+script: ''
+mesh: hf\o\hf_contain_crate_05.nif
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory: []

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: AB_IngMine_Firejade_01
+name: Firejade
+script: ''
+mesh: OAAB\n\gem_firejade_01.nif
+icon: OAAB\n\gem_firejade.dds
+data:
+  weight: 0.2
+  value: 150
+  effects:
+  - ResistFire
+  - DamageHealth
+  - CureParalyzation
+  - WeaknessToFrost
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

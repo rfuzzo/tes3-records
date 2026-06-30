@@ -1,0 +1,31 @@
+type: Armor
+flags: ''
+id: T_Imp_Gold_Greaves_02
+name: Imperial Gold Greaves
+script: ''
+mesh: tr\a\tr_a_impgold_greav_gnd.nif
+icon: tr\a\tr_a_impgold_greaves.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Groin
+  male_bodypart: T_A_ImpGoldGreaves02_G
+  female_bodypart: ''
+- biped_object_type: LeftUpperLeg
+  male_bodypart: T_A_ImpGoldGreaves02_UL
+  female_bodypart: ''
+- biped_object_type: RightUpperLeg
+  male_bodypart: T_A_ImpGoldGreaves02_UL
+  female_bodypart: ''
+- biped_object_type: LeftKnee
+  male_bodypart: T_A_ImpGoldGreaves02_K
+  female_bodypart: ''
+- biped_object_type: RightKnee
+  male_bodypart: T_A_ImpGoldGreaves02_K
+  female_bodypart: ''
+data:
+  armor_type: Greaves
+  weight: 17.0
+  value: 560
+  health: 180
+  enchantment: 50
+  armor_rating: 18

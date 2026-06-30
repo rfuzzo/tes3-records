@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: AB_Info_DwrvStencilTricks
+name: InfoBox - Dwemer Stencil Tricks
+script: ''
+mesh: OAAB\h\marker_info.nif
+icon: OAAB\h\marker_info.tga
+enchanting: ''
+text: "These meshes uses a StencilProperty trick to make certain parts visible through other meshes. Works best on mostly flat surfaces.\r\n\r\nThese meshes are affected by reference order in a cell. If it's not working, delete the object in the CS and place it again. This will generally fix that issue.\r\n\r\nNotes:\r\n1) Game renders this differently than the CS\r\n2) May have issues in OpenMW"
+data:
+  weight: 0.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 100

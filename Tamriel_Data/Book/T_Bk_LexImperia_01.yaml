@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_LexImperia_01
+name: Lex Imperii I
+script: ''
+mesh: pc\m\PC_bk_Book_20.nif
+icon: pc\m\pc_bk_book_20.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nLEX IMPERII I<BR>\r\n<BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\n1. The Empire is Law, the Law is Sacred<BR>\r\n2. The Law is Empire, to be promulgated under the rule of the Emperors Cyrodiil<BR>\r\n3. The rule of the Emperors Cyrodiil is Sacred, and legitimate under Law<BR>\r\n<BR>\r\n[...]<BR>\r\n<BR>\r\nI.VIII The Citizen<BR>\r\n1. The Citizen is they, born under the benevolent rule of the Emperors Cyrodiil<BR>\r\n2. Let Law, Duty and the Exercise of Rights flow freely from the status of Citizen<BR>\r\n3. Let Law, Duty and the Exercise of Rights be in accordance to the Citizen's Caste, Race, or Inherent Nobility in adherence to the Provincial Codices<BR>\r\n4. That all born under the rule of the Emperors Cyrodiil, being all of the Lands and Provinces of Tamriel, and its Protectorates, be considered Citizens the year which shall succeed the period of their majority<BR>\r\n5. That all children born of they born under the rule of the Emperors of Cyrodiil, be they children born in the Lands and Provinces of Tamriel, or be they born elsewhere, be considered Citizens from the year which shall succeed the period of their majority; when in accordance to underlying statutes<BR>\r\n6. That a Stranger of Strange Lands shall enjoy the same Civil Rights accorded to true Citizens of the Empire in this Stranger's land of origin, by treaty, or by the grace of the Emperors Cyrodiil, or by their Ennobled Representatives<BR>\r\n7. That an Outsider of the Principalities shall not enjoy Civil Rights as others, but be judged and treated as according the Codices befitting the denizens of Oblivion<BR>\r\n<BR>\r\n[...]<BR>\r\n<BR>\r\nI.IX Indigence of Citizenship<BR>\r\n1. The Quality of Citizenship may be lost by: naturalization in Strange Lands; acclimatization in Principalities; assumption of public function in either Strange Lands or Principalities; adoption in sodalities which shall require distinctions of birth; enrollment or association in military service of Strange Lands or Principalities, any settlements made in extramundial territories without intention of return<BR>\r\n2. The Quality of Citizenship may not be lost by commercial or mercantile establishment, this being in accordance to the natural proclivities of Man<BR>\r\n3. A Citizen deprived of their Quality may, at any time, recover it by Sanction and Judgment of the Emperor or their Ennobled Representatives<BR>\r\n<BR>\r\n[...] <BR>\r\n<BR>"
+data:
+  weight: 4.0
+  value: 50
+  book_type: Book
+  skill: None
+  enchantment: 0

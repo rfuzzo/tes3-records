@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: T_MwCom_Var_CSkC2Empty
+name: Sack
+script: ''
+mesh: TR\o\tr_cont_canvsack_c_02.nif
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory: []

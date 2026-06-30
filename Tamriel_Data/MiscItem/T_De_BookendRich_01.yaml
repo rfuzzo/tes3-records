@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_BookendRich_01
+name: Bookend
+script: ''
+mesh: TR\f\TR_furn_de_r_bkend.NIF
+icon: TR\m\TR_misc_de_r_bkend.dds
+data:
+  weight: 2.0
+  value: 10
+  flags: ''

@@ -1,0 +1,12 @@
+type: Apparatus
+flags: ''
+id: apparatus_a_mortar_01
+name: Apprentice's Mortar and Pestle
+script: ''
+mesh: m\Misc_mortarpestle_01.NIF
+icon: m\Tx_mortarpestle_01.tga
+data:
+  apparatus_type: MortarAndPestle
+  quality: 0.5
+  weight: 5.0
+  value: 100

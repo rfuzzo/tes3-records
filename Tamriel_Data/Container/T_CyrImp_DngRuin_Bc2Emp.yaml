@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: T_CyrImp_DngRuin_Bc2Emp
+name: Old Wooden Bookcase
+script: ''
+mesh: pc\o\pc_cont_impr_bksh_02.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory: []

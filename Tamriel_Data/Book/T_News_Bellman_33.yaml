@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Bellman_33
+name: KING MOVES TO CONSOLIDATE POWER
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_note_oe_news.nif
+icon: tr\m\tr_note_oe_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\TR_bellman_512_256.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nKING MOVES TO CONSOLIDATE POWER<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nKing Helseth, the rightful monarch of the province of Morrowind, has unveiled a bold new initiative to overhaul the governance of the province. The Armistice, which established the Empire's hold on Morrowind, essentially left the day-to-day governance of large parts of the province to Dark Elf Great Houses. However, King Helseth points to recent attacks by strange beasts and magical weather disasters in the native capital, which the Great Houses seemed unable to prevent, and calls for a stronger central authority. In this challenge, the King is backed by what he says is the personal support of the Dark Elf goddess Almalexia. The Temple has protested this interpretation of the goddess' will, but there is room for doubt, unless Almalexia herself were to confirm her position.<br><br>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

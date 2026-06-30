@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_ShearsSilver
+name: Silver Shears
+script: ''
+mesh: OAAB\m\shearsSilver.nif
+icon: OAAB\m\misc_shearsSilver.dds
+data:
+  weight: 1.0
+  value: 15
+  flags: ''

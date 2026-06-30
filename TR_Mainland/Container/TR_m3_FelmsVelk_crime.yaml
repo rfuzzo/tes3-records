@@ -1,0 +1,9 @@
+type: Container
+flags: PERSISTENT
+id: TR_m3_FelmsVelk_crime
+name: crime hack
+script: TR_m3_FelmsVelk_sc
+mesh: o\Contain_Com_Sack_02.nif
+encumbrance: 0.0
+container_flags: IS_BASE
+inventory: []

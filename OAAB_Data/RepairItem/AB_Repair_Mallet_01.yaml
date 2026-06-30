@@ -1,0 +1,12 @@
+type: RepairItem
+flags: ''
+id: AB_Repair_Mallet_01
+name: Mallet
+script: ''
+mesh: OAAB\m\repair_mallet_01.nif
+icon: OAAB\m\repair_mallet_01.dds
+data:
+  weight: 1.0
+  value: 3
+  uses: 15
+  quality: 0.5

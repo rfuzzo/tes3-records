@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: TR_m4_TJ_MoonshadowRose
+name: Moonshadow Rose
+script: ''
+mesh: tr\n\tr_ing_blackrose01.nif
+icon: tr\n\tr_ing_blackrose01.dds
+data:
+  weight: 0.2
+  value: 500
+  effects:
+  - FortifyAttribute
+  - NightEye
+  - Sanctuary
+  - WaterBreathing
+  skills:
+  - Block
+  - Block
+  - None
+  - None
+  attributes:
+  - Personality
+  - Luck
+  - None
+  - None

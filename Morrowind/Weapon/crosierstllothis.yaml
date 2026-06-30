@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: crosierstllothis
+name: Crosier of St. Llothis
+script: ''
+mesh: w\W_Art_CrosierStLloth.NIF
+icon: w\tx_art_crosierStLlothis.tga
+enchanting: stllothis_en
+data:
+  weight: 4.8
+  value: 5000
+  weapon_type: BluntTwoWide
+  health: 180
+  speed: 1.75
+  reach: 1.5
+  enchantment: 42
+  chop_min: 2
+  chop_max: 12
+  slash_min: 3
+  slash_max: 12
+  thrust_min: 1
+  thrust_max: 9
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

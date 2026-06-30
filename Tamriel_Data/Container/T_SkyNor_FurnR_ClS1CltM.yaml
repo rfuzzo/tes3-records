@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: T_SkyNor_FurnR_ClS1CltM
+name: Nighttable
+script: ''
+mesh: Sky\o\Sky_Furn_N_U_NT_01.nif
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Sky_Random_Clothing
+- - 1
+  - T_Sky_Random_ClothingPantsRich

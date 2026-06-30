@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Mus_6thFlute
+name: Sixth House Flute
+script: ''
+mesh: OAAB\m\dk_6th_flute.nif
+icon: OAAB\m\dk_6th_flute.dds
+data:
+  weight: 1.0
+  value: 20
+  flags: ''

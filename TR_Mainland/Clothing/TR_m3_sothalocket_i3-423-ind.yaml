@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m3_sothalocket_i3-423-ind
+name: Sotha Family Locket
+script: ''
+mesh: c\Amulet_Extravagant_2.NIF
+icon: c\tx_amulet_extrav2.tga
+enchanting: lord's praise
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 350
+  enchantment: 600

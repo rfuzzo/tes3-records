@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_EbonTowerLegionNail11
+name: Septim's Gate Pass
+script: TR_m3_act_OE_LegHQnails_scpt
+mesh: sky\m\sky_misc_nails_01.nif

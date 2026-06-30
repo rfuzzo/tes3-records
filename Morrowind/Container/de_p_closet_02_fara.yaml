@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: de_p_closet_02_fara
+name: Closet
+script: ''
+mesh: o\Contain_De_Closet_02.NIF
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - common_amulet_02
+- - 2
+  - common_skirt_02
+- - 2
+  - common_shirt_02_t
+- - 2
+  - common_pants_02

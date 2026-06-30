@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_MARK_AI_TT_Garnas
+name: Garnas Mano
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: pi\m\pi_m_cnq_ngopta.dds
+enchanting: ''
+text: "During the quest TR_m7_AI_TT_Q6, Garnas Mano moves here and dies\r\nNPC ID: TR_m7_Garnas Mano\r\nPositionCell in script TR_m7_AI_TT_6_Sc"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

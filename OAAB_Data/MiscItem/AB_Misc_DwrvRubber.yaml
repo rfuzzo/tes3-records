@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_DwrvRubber
+name: Dwemer Rubber
+script: ''
+mesh: OAAB\m\dwrvRubber.nif
+icon: OAAB\m\dwrvRubber.tga
+data:
+  weight: 3.0
+  value: 20
+  flags: ''

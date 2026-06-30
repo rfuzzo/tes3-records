@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: Act_banner_Tel_Vos
+name: Tel Vos
+script: OutsideBanner
+mesh: f\Act_banner_Tel_Vos.nif

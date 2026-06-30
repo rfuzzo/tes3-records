@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_De_DresHunter_Helm_01
+name: Dres Hunter Helm
+script: ''
+mesh: TR\a\tr_a_dres_hunt_hh_gnd.nif
+icon: TR\a\tr_a_dres_hh.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Head
+  male_bodypart: T_A_DeDresHunterHelm01_Hd
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 3.0
+  value: 120
+  health: 180
+  enchantment: 80
+  armor_rating: 17

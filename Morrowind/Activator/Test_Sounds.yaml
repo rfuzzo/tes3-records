@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: Test_Sounds
+name: I test Sounds
+script: SoundTest
+mesh: f\Furn_cistern_01.NIF

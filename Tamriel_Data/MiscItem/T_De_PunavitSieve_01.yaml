@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_PunavitSieve_01
+name: Punavit Sieve
+script: ''
+mesh: tr\m\TR_Ind_Velk_Sieve01.nif
+icon: tr\m\TR_ind_velk_sieve01.dds
+data:
+  weight: 0.5
+  value: 150
+  flags: ''

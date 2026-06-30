@@ -1,0 +1,11 @@
+type: MiscItem
+flags: PERSISTENT
+id: T_Com_UNI_KingOrgnumCoffer_01
+name: King Orgnum's Coffer
+script: T_ScObj_KingOrgnumCoffer_01
+mesh: TR\m\tr_king_orgnums_coffer.nif
+icon: TR\m\tr_king_orgnums_coffer.dds
+data:
+  weight: 0.1
+  value: 10000
+  flags: ''

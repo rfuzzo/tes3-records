@@ -1,0 +1,25 @@
+type: Ingredient
+flags: PERSISTENT
+id: ingred_udyrfrykte_heart
+name: Heart of the Udyrfrykte
+script: ''
+mesh: n\Ingred_Daedra_heart_01.NIF
+icon: n\Tx_daedra_heart_01.tga
+data:
+  weight: 5.0
+  value: 300
+  effects:
+  - RestoreMagicka
+  - FortifyAttribute
+  - DrainAttribute
+  - NightEye
+  skills:
+  - None
+  - Block
+  - Block
+  - None
+  attributes:
+  - None
+  - Endurance
+  - Agility
+  - None

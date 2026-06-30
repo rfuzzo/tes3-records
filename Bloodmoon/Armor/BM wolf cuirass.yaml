@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: BM wolf cuirass
+name: Wolf Cuirass
+script: ''
+mesh: a\A_Wolf2_Cuirass_GND.NIF
+icon: A\Tx_Wolf2_Cuirass.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: A_Wolf2_Cuirass
+  female_bodypart: A_Wolf2_Skinf
+data:
+  armor_type: Cuirass
+  weight: 9.0
+  value: 150
+  health: 325
+  enchantment: 60
+  armor_rating: 15

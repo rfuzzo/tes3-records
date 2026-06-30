@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_HR_AM_Q4_MineStateAct
+name: ''
+script: TR_m7_HR_AM_Q4_ActSc
+mesh: EditorMarker.NIF

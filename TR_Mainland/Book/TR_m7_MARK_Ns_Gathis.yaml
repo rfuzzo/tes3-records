@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_MARK_Ns_Gathis
+name: Gathis Alasian
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: pi\m\pi_m_cnq_ngopta.dds
+enchanting: ''
+text: "NPC ID: TR_m7_Gathis Alasian\r\nPositionCell in scripts \"TR_m7_Ns_StageFright_ScRehearSt\" and \"TR_m7_Ns_StageFright_ScMedMove\""
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: TR_i3-280_com_closet_mc
+name: Closet
+script: ''
+mesh: o\Contain_Com_Closet_01.NIF
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - T_Mw_Random_ClothingRobesCmDun
+- - 1
+  - dwemer_bracer_right
+- - 2
+  - random_common_de_mclothes_01
+- - 1
+  - random_loot_special

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_i3-30-urnlog
+name: records
+script: ''
+mesh: m\Misc_paper_plain_01.nif
+icon: m\Tx_paper_plain_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nMorning Star 426<BR>\r\nImports: 78<BR>\r\nUsed: 63<BR>\r\nRemaining: 231<BR>\r\n<BR>\r\nSun's Dawn 426<BR>\r\nImports: 52<BR>\r\nUsed: 58<BR>\r\nRemaining 225<BR>\r\n<BR>\r\nFirst Seed 426<BR>\r\nImports: 68<BR>\r\nUsed: 42<BR>\r\nRemaining:251<BR>\r\n<BR>\r\nRain's Hand 426<BR>\r\nImports: 54<BR>\r\nUsed: 56<BR>\r\nRemaining: 249<BR>\r\n<BR>\r\nSecond Seed 426<BR>\r\nImports: 67<BR>\r\nUsed: 52<BR>\r\nRemaining: 258<BR>\r\n<BR>\r\nMidyear 426<BR>\r\nImports: 19<BR>\r\nUsed: 63<BR>\r\nRemaining: 214<BR>\r\n<BR>\r\nSun's Height 426<BR>\r\nImports: 36<BR>\r\nUsed: 39<BR>\r\nRemaining: 211<BR>\r\n<BR>\r\nLast Seed 426<BR>\r\nImports: 56<BR>\r\nUsed:43<BR>\r\nRemaining: 224<BR>\r\n<BR>\r\nHearthfire 426<BR>\r\nImports: 42<BR>\r\nUsed: 48<BR>\r\nRemaining: 218<BR>\r\n<BR>\r\nFrost Fall 426<BR>\r\nImports: 36<BR>\r\nUsed: 50<BR>\r\nRemaining: 204<BR>\r\n<BR>\r\nSun's Dusk 426<BR>\r\nImports:45<BR>\r\nUsed: 32<BR>\r\nRemaining: 217<BR>\r\n<BR>\r\nEvening Star 426<BR>\r\nImports: 61<BR>\r\nUsed: 40<BR>\r\nRemaining: 238<BR>\r\n<BR>"
+data:
+  weight: 1.0
+  value: 3
+  book_type: Scroll
+  skill: None
+  enchantment: 50

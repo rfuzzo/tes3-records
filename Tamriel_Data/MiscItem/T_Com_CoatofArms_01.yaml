@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_CoatofArms_01
+name: Coat of Arms
+script: ''
+mesh: m\furn_com_coatofarms_01.nif
+icon: m\misc_com_coatofarms_01.dds
+data:
+  weight: 10.0
+  value: 50
+  flags: ''

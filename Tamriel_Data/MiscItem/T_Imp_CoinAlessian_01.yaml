@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_CoinAlessian_01
+name: First Empire Coin
+script: ''
+mesh: pc\m\pc_coin_alessian.nif
+icon: pc\m\pc_misc_alessian_coin.dds
+data:
+  weight: 0.05
+  value: 35
+  flags: ''

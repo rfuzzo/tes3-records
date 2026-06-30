@@ -1,0 +1,25 @@
+type: Container
+flags: ''
+id: TR_i2-66_pot_01
+name: Soup Pot
+script: ''
+mesh: o\Contain_pot_01.NIF
+encumbrance: 10.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - Ingred_scrib_cabbage_01
+- - 1
+  - ingred_hackle-lo_leaf_01
+- - 1
+  - ingred_marshmerrow_01
+- - 1
+  - ingred_muck_01
+- - 1
+  - ingred_rat_meat_01
+- - 1
+  - ingred_russula_01
+- - 4
+  - ingred_saltrice_01
+- - 1
+  - ingred_scuttle_01

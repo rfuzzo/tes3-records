@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Bre_UNI_TricksterShield
+name: Shield of the Trickster
+script: ''
+mesh: tr\a\tr_a_gnome_shld_UNI.nif
+icon: tr\a\tr_a_hr_gnomeS_uni.dds
+enchanting: T_Const_TricksterShieldUni
+biped_objects:
+- biped_object_type: Shield
+  male_bodypart: T_A_Bre_UNI_TricksterShield_S
+  female_bodypart: ''
+data:
+  armor_type: Shield
+  weight: 15.0
+  value: 10000
+  health: 770
+  enchantment: 800
+  armor_rating: 45

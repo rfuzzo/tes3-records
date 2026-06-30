@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_i3-534-Ind
+name: Ancient Tome
+script: ''
+mesh: m\Text_Folio_03.NIF
+icon: m\Tx_folio_03.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[The pages of this old book are brittle with age.] <BR>\r\n<BR>\r\nLord Voryn Dagoth has been slain beneath Red Mountain. The song changes each day. The ancestors warned us to leave but we did not listen. I only pray that House Dagoth will stand immortal as all seven-as-one Houses of the Chimer have stood since Veloth...<BR>\r\n<BR>\r\nFollowers of the false gods came to our home, took our slaves for their own and ordered us to gather our things. My son refused to leave and took his father's sword from the wall and tried to fend them off. But there were so many of them.They killed him, though he was only a boy. Several of the wicked men then desecrated the tombs of my family. They decapitated the body of my elderly father, Dagoth Morvyn. He had once been one of Voryn Dagoth's chap'thil.<BR>\r\n<BR>\r\nWe were forced onto barges which sailed for the Mourning Hold from the temple city of Ashurnibibi. My daughter Namora has grown very sick. I fear for her. <BR>\r\n<BR>    \r\nNamora passed before we reached the Thirr. They stole her body from my arms and cast her into the sea.<BR>\r\n<BR>\r\nI was ordered to drag our family chest to the deck of the ship, but the Mourning Hold was not in sight. Instead, they huddled us in this cave and divided the women from the men. <BR>\r\n<BR>\r\nNeither my daughter Urshra, last of my children, nor I could sleep all night. I could hear our men screaming, calling out Voryn's name. The followers of the Three Devils were torturing the last men of House Dagoth. The song was failing.<BR>\r\n<BR> \r\nA man of House Indoril came and ordered us to hand over our jewelry and any belongings with the seal of our House. He then ordered his troops to pull the younger children away from us as they wailed and cried out. He said they would become members of one of the surviving houses while the rest of us would die as Dagoths. <BR>\r\n<BR>\r\nMy daughter Urshra was one of the children taken away to join another House. She is all that is left of our family. She will live. The rest of us will die here today.<BR>\r\n<BR>\r\nMay Resdayn one day regret its wickedness.<BR>\r\n<BR>"
+data:
+  weight: 4.0
+  value: 100
+  book_type: Book
+  skill: None
+  enchantment: 0

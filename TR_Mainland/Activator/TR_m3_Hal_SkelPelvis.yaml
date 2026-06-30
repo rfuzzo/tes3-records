@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_Hal_SkelPelvis
+name: ''
+script: TR_m3_Hal_Disable_sc
+mesh: tr\f\tr_furn_skel_pelvis.nif

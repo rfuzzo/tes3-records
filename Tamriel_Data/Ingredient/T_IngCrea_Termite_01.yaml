@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_Termite_01
+name: Termites
+script: ''
+mesh: hf\n\hf_ingred_Termite_01.nif
+icon: hf\n\hf_ingred_Termite_01.dds
+data:
+  weight: 0.2
+  value: 2
+  effects:
+  - FortifyAttribute
+  - None
+  - None
+  - None
+  skills:
+  - Block
+  - None
+  - None
+  - None
+  attributes:
+  - Strength
+  - None
+  - None
+  - None

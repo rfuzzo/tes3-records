@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: AB_light_DaeLamp_256
+name: ''
+script: ''
+mesh: OAAB\l\dae_lamp_01.nif
+icon: ''
+sound: Fire 50
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 256
+  color:
+  - 244
+  - 153
+  - 51
+  - 0
+  flags: DYNAMIC | FIRE | FLICKER_SLOW

@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: BM_drawers_clothing
+name: Chest of Drawers
+script: ''
+mesh: o\Contain_Com_Drawers_01.NIF
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - BM_Nordic01_gloveL
+- - 1
+  - BM_Nordic01_gloveR
+- - 1
+  - BM_Nordic01_Robe
+- - 1
+  - BM_Nordic02_shirt
+- - 1
+  - BM_Wool01_shirt

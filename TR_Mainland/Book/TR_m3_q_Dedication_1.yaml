@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_q_Dedication_1
+name: Omathi Dedication
+script: TR_m3_q_Dedication1Sc
+mesh: m\Text_Scroll_01.nif
+icon: m\Tx_scroll_open_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[The paper of this scroll is lightly singed around the edges, but is otherwise perfectly legible. On it is a dedication made by Gaden Omathi, and lines added to it by his son. There is more than enough space for other family members.] <BR>"
+data:
+  weight: 1.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

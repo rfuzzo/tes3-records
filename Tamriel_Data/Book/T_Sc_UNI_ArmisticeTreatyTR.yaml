@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Sc_UNI_ArmisticeTreatyTR
+name: Treaty of the Armistice
+script: ''
+mesh: tr\m\tr_note_uni_armistice.nif
+icon: tr\m\tr_sc_armistice_uni.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\"> <BR>\r\n[Signed in the last years of the Second Era, this weighty and nigh invaluable document details the terms of peace between Morrowind and the Cyrodiilic Empire. It bears the signatures of both Emperor Tiber Septim and the Tribunal god Vivec.] <br> <BR>"
+data:
+  weight: 5.0
+  value: 100000
+  book_type: Scroll
+  skill: None
+  enchantment: 0

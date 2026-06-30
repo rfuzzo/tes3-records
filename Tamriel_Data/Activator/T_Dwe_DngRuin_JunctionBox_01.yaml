@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Dwe_DngRuin_JunctionBox_01
+name: Unusual Dwemer Socket
+script: T_ScObj_Dwe_JuncBox
+mesh: tr\f\tr_act_dwe_juncbox.nif

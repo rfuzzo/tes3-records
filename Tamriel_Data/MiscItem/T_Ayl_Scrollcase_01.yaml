@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Ayl_Scrollcase_01
+name: Ayleid Scroll Case
+script: ''
+mesh: PC\m\pc_misc_arscrollcase.nif
+icon: pc\m\pc_misc_arscrollcase.dds
+data:
+  weight: 2.0
+  value: 15
+  flags: ''

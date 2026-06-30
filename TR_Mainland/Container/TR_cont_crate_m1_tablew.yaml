@@ -1,0 +1,33 @@
+type: Container
+flags: ''
+id: TR_cont_crate_m1_tablew
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Imp_SilverWareDish_01
+- - 3
+  - misc_com_redware_flask
+- - 3
+  - misc_com_redware_plate
+- - 1
+  - misc_com_wood_fork
+- - 3
+  - misc_com_wood_spoon_01
+- - 1
+  - misc_de_goblet_05
+- - 2
+  - misc_de_goblet_08
+- - 2
+  - misc_de_pitcher_01
+- - 1
+  - misc_de_pot_blue_02
+- - 3
+  - misc_de_pot_glass_peach_01
+- - 2
+  - misc_de_pot_mottled_01
+- - 4
+  - misc_de_pot_redware_01

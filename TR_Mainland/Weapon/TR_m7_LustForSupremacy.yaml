@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m7_LustForSupremacy
+name: Lust for Supremacy
+script: ''
+mesh: TR\w\TR_w_adamant_katana.NIF
+icon: TR\w\TR_w_adamant_katana.dds
+enchanting: TR_m7_LustForSupremacyEn
+data:
+  weight: 35.0
+  value: 7500
+  weapon_type: LongBladeOneHand
+  health: 3500
+  speed: 1.5
+  reach: 1.0
+  enchantment: 150
+  chop_min: 3
+  chop_max: 34
+  slash_min: 1
+  slash_max: 32
+  thrust_min: 1
+  thrust_max: 11
+  flags: ''

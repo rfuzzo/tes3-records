@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Nor_IronwoodPlate_01
+name: Ironwood Plate
+script: ''
+mesh: sky\m\sky_misc_iw_plt_01.nif
+icon: sky\m\tx_misc_iw_plt_01.dds
+data:
+  weight: 2.0
+  value: 50
+  flags: ''

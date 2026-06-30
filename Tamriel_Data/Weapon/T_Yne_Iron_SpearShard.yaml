@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Yne_Iron_SpearShard
+name: Ynesai Iron Shardskewer
+script: ''
+mesh: pi\w\pi_w_yiron_spear.nif
+icon: pi\w\pi_w_yiron_spear.dds
+enchanting: shard_enu
+data:
+  weight: 14.0
+  value: 46
+  weapon_type: SpearTwoWide
+  health: 600
+  speed: 1.0
+  reach: 1.8
+  enchantment: 50
+  chop_min: 2
+  chop_max: 4
+  slash_min: 2
+  slash_max: 4
+  thrust_min: 6
+  thrust_max: 18
+  flags: ''

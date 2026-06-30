@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m3_OE_raathim_urn_4
+name: Urn of Cruethys
+script: ''
+mesh: o\Contain_urn_05.NIF
+encumbrance: 10.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - TR_i3-591_ingred_RaathimAsh

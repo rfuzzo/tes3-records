@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_act_m4_Inn_07
+name: ''
+script: TR_m4_OmaynisInn_E2
+mesh: tr\x\tr_ex_hla_steps_balc_L.nif

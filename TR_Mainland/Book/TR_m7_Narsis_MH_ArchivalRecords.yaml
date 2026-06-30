@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_Narsis_MH_ArchivalRecords
+name: Archival Records
+script: ''
+mesh: tr\m\tr_book_tomebk_04.nif
+icon: tr\m\tr_book_closed_tome04.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n[This heavy tome contains exhaustive archived records of bureaucratic paperwork, documented by the clerks of House Hlaalu.]<BR>"
+data:
+  weight: 8.0
+  value: 20
+  book_type: Book
+  skill: None
+  enchantment: 100

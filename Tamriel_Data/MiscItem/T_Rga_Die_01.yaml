@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Rga_Die_01
+name: Spindie
+script: ''
+mesh: pc\m\pc_misc_rga_die_01.nif
+icon: pc\m\pc_rga_dice.dds
+data:
+  weight: 1.0
+  value: 2
+  flags: ''

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_CheeseBreton_01
+name: Cheese
+script: ''
+mesh: hr\n\hr_ing_cheese_01.nif
+icon: hr\n\hr_ing_cheese_01.dds
+data:
+  weight: 1.0
+  value: 5
+  effects:
+  - RestoreFatigue
+  - DrainAttribute
+  - ResistCommonDisease
+  - None
+  skills:
+  - None
+  - Block
+  - None
+  - None
+  attributes:
+  - None
+  - Agility
+  - None
+  - None

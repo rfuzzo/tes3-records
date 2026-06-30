@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_MG_fourliquors
+name: Tarramon's Liquor Report
+script: ''
+mesh: m\Text_Scroll_01.NIF
+icon: m\Tx_scroll_open_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nLiquor of Morrowind<BR>\r\nJourneyman Report by Amelphia Tarramon<BR><BR>\r\n\r\nMazte is among one of the most common liquors of Morrowind, being brewed from saltrice, one of the province's most common foodstuffs. It is plentiful and cheap, and its taste belies this: terrible. It is suited for common laborers looking to get through their workday, as it appears to increase one's strength at the cost of willpower and intelligence.<BR><BR>\r\n\r\nShein is a comberry wine brewed primarily on Vvardenfell. It is as cheap and plentiful as mazte, but is not as potent. As one can expect from such a cheap wine, the bitter taste is nothing to write home about, though it may be suitable for the Ashlander natives, as it increases endurance at the cost of some intelligence.<BR><BR>\r\n\r\nSujamma is described as having the kick of a guar by the locals. I've never been kicked by a guar, but it sure is strong stuff. I'm not sure what's in sujamma; I think I will need more to further investigate this.<BR><BR>\r\n\r\nGreef is brandy--comberries. Strong kick than shein--like guar kick--could kick guar around for sure greef good get some more so good nice<BR>"
+data:
+  weight: 0.2
+  value: 100
+  book_type: Scroll
+  skill: None
+  enchantment: 0

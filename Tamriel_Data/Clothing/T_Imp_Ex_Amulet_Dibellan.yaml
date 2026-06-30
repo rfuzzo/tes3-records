@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Imp_Ex_Amulet_Dibellan
+name: Dibellan Talisman
+script: ''
+mesh: pc\c\pc_c_examulet_01.nif
+icon: pc\c\pc_c_examulet_01.dds
+enchanting: T_Use_CharmTouch30-15
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 440
+  enchantment: 1200

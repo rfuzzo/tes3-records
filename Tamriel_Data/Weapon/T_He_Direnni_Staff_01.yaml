@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_He_Direnni_Staff_01
+name: Old Elven Staff
+script: ''
+mesh: Sky\w\sky_direnni_staff_01.nif
+icon: sky\w\tx_dir_staff_01.dds
+enchanting: ''
+data:
+  weight: 6.0
+  value: 140
+  weapon_type: BluntTwoWide
+  health: 250
+  speed: 1.85
+  reach: 1.45
+  enchantment: 200
+  chop_min: 1
+  chop_max: 7
+  slash_min: 1
+  slash_max: 7
+  thrust_min: 1
+  thrust_max: 7
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

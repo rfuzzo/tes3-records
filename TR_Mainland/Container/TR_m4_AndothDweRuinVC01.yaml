@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m4_AndothDweRuinVC01
+name: Violet Coprinus
+script: TR_m4_AndothDwePlants02_scp
+mesh: f\Flora_BC_mushroom_08.NIF
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - ingred_coprinus_01

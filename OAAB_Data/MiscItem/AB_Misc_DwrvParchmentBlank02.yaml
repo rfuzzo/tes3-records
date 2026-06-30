@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_DwrvParchmentBlank02
+name: Dwemer Parchment
+script: ''
+mesh: OAAB\m\dwrvParchBlank02.nif
+icon: OAAB\m\dwrvParchBlank02.tga
+data:
+  weight: 0.1
+  value: 10
+  flags: ''

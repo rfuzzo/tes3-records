@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_guestbook_i3-128-ind
+name: Guest Sign-In Book
+script: ''
+mesh: m\Text_Octavo_open_03.nif
+icon: m\Tx_octavo_open_03.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"MAGIC CARDS\"><BR><BR>\r\n[This book shows the names of everyone who has visited the spa in the past five years. You note some interesting names among which are Grand Ascendant of House Indoril Neril Sevuro, King Helseth, King Llethan. Queen Barenziah's name is listed over twelve times.)<BR>"
+data:
+  weight: 3.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 0

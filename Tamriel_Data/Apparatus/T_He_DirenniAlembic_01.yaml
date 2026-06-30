@@ -1,0 +1,12 @@
+type: Apparatus
+flags: ''
+id: T_He_DirenniAlembic_01
+name: Direnni Alembic
+script: ''
+mesh: Sky\m\Sky_App_DAlembic_01.nif
+icon: Sky\m\Tx_App_DAlembic_01.dds
+data:
+  apparatus_type: Alembic
+  quality: 1.2
+  weight: 6.0
+  value: 1600

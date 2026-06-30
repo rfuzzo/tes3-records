@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: TR_m1_Q50_GO1_PaperScrap
+name: Scrap of Paper
+script: TR_m1_q50_GO1_note_scpt
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This torn scrap of paper has only a few words on it.]<BR>\r\n<BR>\r\n...must report the connection to Akamora immediately.<BR>\r\n<BR>\r\n\r\n\r\n"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

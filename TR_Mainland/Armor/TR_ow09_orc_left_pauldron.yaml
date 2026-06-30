@@ -1,0 +1,22 @@
+type: Armor
+flags: ''
+id: TR_ow09_orc_left_pauldron
+name: Kharag's Left Pauldron
+script: ''
+mesh: a\A_Orcish_Pauldron_GND.nif
+icon: a\TX_Orcish_pauldron.tga
+enchanting: TR_m7_kharag_paul_l_en
+biped_objects:
+- biped_object_type: LeftUpperArm
+  male_bodypart: a_orcish_pauldron_ua
+  female_bodypart: ''
+- biped_object_type: LeftPauldron
+  male_bodypart: A_Orcish_CL_Pauldron
+  female_bodypart: ''
+data:
+  armor_type: LeftPauldron
+  weight: 8.0
+  value: 7500
+  health: 300
+  enchantment: 24
+  armor_rating: 50

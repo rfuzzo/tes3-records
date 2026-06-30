@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: misc_dwrv_pitcher00
+name: Ornate Dwemer Pitcher
+script: ''
+mesh: m\misc_dwrv_pitcher00.nif
+icon: m\misc_dwrv_pitcher00.tga
+data:
+  weight: 8.0
+  value: 40
+  flags: ''

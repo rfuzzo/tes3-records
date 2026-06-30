@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m7_HO_TT_06_pilgrim_act
+name: ''
+script: TR_m7_HO_TT_06_pilgrim_scr
+mesh: EditorMarker.nif

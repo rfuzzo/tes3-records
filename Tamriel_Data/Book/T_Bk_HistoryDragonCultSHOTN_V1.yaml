@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_HistoryDragonCultSHOTN_V1
+name: History of the Dragon Cult I
+script: ''
+mesh: pc\m\PC_bk_Book_02.nif
+icon: pc\m\pc_bk_book_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nHistory of the Dragon Cult, vol. i<BR>\r\nby Forameus<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nOrigins of the Dragon Cult<BR>\r\n<BR> \r\nThe Dragon Cult has its origins far back in the Atmoran period of Nordic history and the totemic beliefs of that time. The many tribes and clans of Atmora each followed their own totem, representing a tutelary spirit that guided and protected their people, though they recognised the totems of other groups as well as other more malign spirits. A ship's crew might follow a slaughterfish totem, for instance, that guided their ship to savage success in their raids across the sea.<BR>\r\n<BR>\r\nThe period of strife that preceded the exodus from Atmora had a profound effect upon their animistic religion as well. As warfare brought smaller tribes under the control of larger ones, the number of predominant totems shrank to a number closer to the Nordic pantheon of today. Furthermore, as the Atmorans are not believed to have had a written language, totems that did not survive into Tamriel are lost to history.<BR>\r\n<BR>\r\nAlthough dominant groups established the primacy of their totems, conquered tribes continued to follow and share their own spirits with one another. At this time, accepting a plurality of totems became common -- an Atmoran might follow, for example, the spirits for their family, clan, tribe and overlord, all concurrently -- and the followers of the Dragon saw great success in spreading their beliefs amongst the agrarian, non-warrior classes. The Dragon had been a recognised figure throughout Atmoran mythology, but the teachings of \"rebirth through destruction\" resonated with those who were bearing the brunt of whatever it was that ultimately pushed the Nords out of Atmora.<BR>\r\n<BR>\r\nBy the time of the Return, it had become popular to view the greater spirits as anthropomorphised individuals (this was, perhaps, an import of merish theology brought back from Tamrielic colonies such as Saarthal). Similarly, the pressures facing the Nords in Atmora meant that they could not survive divided, and their co-mingling and cooperation led to a blending of their spirits as well -- the first concrete existence of a Nordic pantheon.<BR>\r\n<BR>\r\nThe followers of the Dragon, with their influence amongst those in neither the noble nor warrior classes, rejected this reduction of powerful totemic spirits into mere individuals, and Alduin forever remained a dragon. As well as the more eschatological elements of their teachings, their practical associations with the mundane aspects of agrarian life -- the cycle of the seasons mirroring the cycle of the kalpa, their oversight of crucial fire-farming practices -- cemented the role of the Dragon in Nordic culture and (for a time) society.<BR>\r\n<BR>"
+data:
+  weight: 4.0
+  value: 150
+  book_type: Book
+  skill: None
+  enchantment: 0

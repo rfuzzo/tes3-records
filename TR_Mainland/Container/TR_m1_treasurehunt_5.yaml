@@ -1,0 +1,23 @@
+type: Container
+flags: ''
+id: TR_m1_treasurehunt_5
+name: Engraved Chest
+script: TR_m1_treasurehunt_5_script
+mesh: o\Contain_De_Chest_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 3264
+  - Gold_001
+- - 1
+  - TR_m1_bugmusk
+- - 1
+  - TR_m1_raptures fist
+- - 1
+  - T_Bk_HandInHandTR
+- - 1
+  - T_Com_Brush_01
+- - 1
+  - ebony_bracer_right
+- - 2
+  - potion_t_bug_musk_01

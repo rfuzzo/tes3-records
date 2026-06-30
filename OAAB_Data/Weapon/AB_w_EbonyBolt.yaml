@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_EbonyBolt
+name: Ebony Bolt
+script: ''
+mesh: OAAB\w\w_bolt_ebony.nif
+icon: OAAB\w\tx_w_ebony_bolt.dds
+enchanting: ''
+data:
+  weight: 0.2
+  value: 24
+  weapon_type: Bolt
+  health: 10
+  speed: 1.0
+  reach: 1.0
+  enchantment: 30
+  chop_min: 4
+  chop_max: 11
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

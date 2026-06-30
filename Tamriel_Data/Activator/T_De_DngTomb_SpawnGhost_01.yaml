@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_De_DngTomb_SpawnGhost_01
+name: spawns behind player
+script: T_ScObj_DeTombSpiritBehind
+mesh: EditorMarker_box_01.NIF

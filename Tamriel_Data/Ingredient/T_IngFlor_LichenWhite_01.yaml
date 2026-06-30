@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_LichenWhite_01
+name: White Lichen
+script: ''
+mesh: tr\n\tr_ing_wlichen_01.nif
+icon: tr\n\tr_ing_whitelichen.dds
+data:
+  weight: 0.1
+  value: 20
+  effects:
+  - FortifyAttribute
+  - Blind
+  - ResistParalysis
+  - DrainMagicka
+  skills:
+  - Block
+  - None
+  - None
+  - None
+  attributes:
+  - Luck
+  - None
+  - None
+  - None

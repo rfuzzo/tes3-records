@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_ComCard11
+name: Four of Hours
+script: ''
+mesh: OAAB\m\com_card_11.nif
+icon: OAAB\m\com_card_11.dds
+data:
+  weight: 0.1
+  value: 1
+  flags: ''

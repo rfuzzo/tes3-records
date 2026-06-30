@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_Dae_cursed_raw_ebony_01
+name: Raw Ebony
+script: BILL_MarksDaedraSummon
+mesh: n\Ingred_RawEbony_01.NIF
+icon: n\Tx_RawEbony.tga
+data:
+  weight: 10.0
+  value: 200
+  effects:
+  - DrainAttribute
+  - CurePoison
+  - FrostShield
+  - RestoreAttribute
+  skills:
+  - Block
+  - None
+  - None
+  - Block
+  attributes:
+  - Agility
+  - None
+  - None
+  - Speed

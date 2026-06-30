@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: TR_m3_EEC_MerxiaAid
+name: ''
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: ''
+enchanting: ''
+text: TR_m3_Merxia Vendicci is teleported here in the events of TR_m3_EEC_curse
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

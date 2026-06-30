@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_DeEbonyPlate_01
+name: Frosted Ebony Plate
+script: ''
+mesh: OAAB\m\misc_ebony_plate.nif
+icon: OAAB\m\misc_ebony_plate.dds
+data:
+  weight: 2.0
+  value: 120
+  flags: ''

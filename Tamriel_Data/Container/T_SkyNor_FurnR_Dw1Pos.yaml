@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_SkyNor_FurnR_Dw1Pos
+name: Chest of Drawers
+script: ''
+mesh: Sky\o\Sky_Furn_N_U_DW_01.nif
+encumbrance: 250.0
+container_flags: IS_BASE
+inventory:
+- - 4
+  - T_Sky_Random_Pos

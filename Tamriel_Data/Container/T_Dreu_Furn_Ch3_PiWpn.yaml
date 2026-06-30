@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: T_Dreu_Furn_Ch3_PiWpn
+name: Chest
+script: ''
+mesh: tr\o\tr_furn_dreu_chest_03.nif
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_PI_Random_WeaponsObsidian
+- - 1
+  - T_PI_Random_WeaponsShellmold
+- - 1
+  - T_Pi_Lvl_WeaponsArrowQy
+- - 15
+  - random gold

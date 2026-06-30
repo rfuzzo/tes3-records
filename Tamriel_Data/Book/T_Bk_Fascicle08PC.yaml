@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_Fascicle08PC
+name: Fascicle 29-31
+script: ''
+mesh: pc\m\PC_bk_Book_10.nif
+icon: pc\m\pc_bk_book_10.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe Testament of the Church-Mothers<BR>\r\nFascicle 29-31<BR>\r\nThe Obscured Spirits<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\n29. There were many other spirits, the Dmath, the spirits of the Daedra and the spirits of the Elves, but of these we know nothing, for they speak of things that are not of Man, and the rules they bring to bear on the world do not apply to us, and their will and commandments are obscured to us.<BR>\r\n<BR>\r\n30. Know then, the spirits of the Daedra, greater and lesser, some had come forth from the workings of the Divines, and some had come from the Outer Darkness, biding their time, and some had come from strange angles, knowledge of whom falls under the edict of Akatosh: know not! And these spirits were enamored with darkness and nothingness, and so they came to live in the outer places of darkness and nothingness, and they live there still. When they speak, listen, and show them respect, for these are your master's cousins, but ever remember that they have no claim over you, and the man who submits to their will is a wanderer.<BR>\r\n<BR>\r\n31. Know then, the spirits of the Elves, who revel in their own weakness, and are ever dissatisfied with their part in the place of the living. Do not listen to their moaning, for they would seek to lead you astray, and take you back to the Void of the Beginning, to an age of no time, and no life or death, of no knowledge or wisdom, a stifling place without the breath of life, where no beauty, no worth, and no mercy are to be found, anywhere. They are the gods of not things, and of the blind reachers. They are loathsome and evil spirits, and they have cost us dearly, in the long red hours of slavery, and hardship.<BR>\r\n<BR>"
+data:
+  weight: 4.0
+  value: 300
+  book_type: Book
+  skill: HeavyArmor
+  enchantment: 0

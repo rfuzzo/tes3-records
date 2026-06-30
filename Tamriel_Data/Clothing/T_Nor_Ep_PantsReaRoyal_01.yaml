@@ -1,0 +1,29 @@
+type: Clothing
+flags: ''
+id: T_Nor_Ep_PantsReaRoyal_01
+name: Reach Royal Guard Pants
+script: ''
+mesh: sky\c\sky_a_rch_ryl_pnts_gd.nif
+icon: sky\c\sky_rch_ryl_pnts.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: Groin
+  male_bodypart: T_C_NorEpPantsReaRoy_G
+  female_bodypart: ''
+- biped_object_type: LeftKnee
+  male_bodypart: T_C_NorEpPantsReaRoy_K
+  female_bodypart: ''
+- biped_object_type: RightKnee
+  male_bodypart: T_C_NorEpPantsReaRoy_K
+  female_bodypart: ''
+- biped_object_type: LeftUpperLeg
+  male_bodypart: T_C_NorEpPantsReaRoy_UL
+  female_bodypart: ''
+- biped_object_type: RightUpperLeg
+  male_bodypart: T_C_NorEpPantsReaRoy_UL
+  female_bodypart: ''
+data:
+  clothing_type: Pants
+  weight: 2.0
+  value: 15
+  enchantment: 75

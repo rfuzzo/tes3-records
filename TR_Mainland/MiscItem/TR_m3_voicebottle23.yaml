@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m3_voicebottle23
+name: '"Rolf the Nord"'
+script: ''
+mesh: m\Misc_flask_02.NIF
+icon: m\Tx_flask_02.tga
+data:
+  weight: 1.0
+  value: 0
+  flags: ''

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_SetCyr_SignCompEEC_01
+name: East Empire Company
+script: SignRotate
+mesh: pc\f\pc_furn_sign_eec_01.nif

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_Card_10
+name: Six of Circles
+script: ''
+mesh: pc\m\pc_misc_card_10.nif
+icon: pc\m\pc_misc_card_10.dds
+data:
+  weight: 0.1
+  value: 1
+  flags: ''

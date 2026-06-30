@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: TR_i3-649_imp shield nopickup
+name: Imperial Shield
+script: noPickUp
+mesh: a\A_Shield_Imperial.nif
+icon: a\Tx_Imperial_shield.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: Shield
+  male_bodypart: a_shield_imperial
+  female_bodypart: ''
+data:
+  armor_type: Shield
+  weight: 14.0
+  value: 78
+  health: 320
+  enchantment: 500
+  armor_rating: 16

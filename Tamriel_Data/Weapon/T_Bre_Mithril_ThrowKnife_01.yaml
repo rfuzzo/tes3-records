@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Bre_Mithril_ThrowKnife_01
+name: Mithril Throwing Knife
+script: ''
+mesh: tr\w\tr_w_mithril_knife.nif
+icon: tr\w\tr_w_mithril_knife.dds
+enchanting: ''
+data:
+  weight: 0.4
+  value: 1000
+  weapon_type: MarksmanThrown
+  health: 90
+  speed: 1.0
+  reach: 1.0
+  enchantment: 200
+  chop_min: 1
+  chop_max: 6
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

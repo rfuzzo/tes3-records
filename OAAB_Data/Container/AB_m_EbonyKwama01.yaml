@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: AB_m_EbonyKwama01
+name: Raw Ebony Vein
+script: ''
+mesh: OAAB\o\kwama_ebony_01.nif
+encumbrance: 0.0
+container_flags: ORGANIC | IS_BASE
+inventory:
+- - 8
+  - random_ebony

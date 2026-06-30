@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: bk_auranefrernis2
+name: Aurane Frernis' Recipies
+script: ''
+mesh: m\Text_Scroll_01.NIF
+icon: m\Tx_scroll_open_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe Alchemical Recipes<BR>\r\nof Aurane Frernis<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nA potion to cure common diseases is another frequent request. These are quite simple to make here in Vvardenfell and often cheaper as grave dust is far more plentiful (and better preserved) by these fastidious Dunmer. Mix equal parts gravedust and green lichens. Heat over a low flame until the mixture turns brown.<BR>\r\n<BR>\r\nNotes: Daedra skin is just as effective, but very expensive. Chokeweed can be used in an emergency.<BR>\r\n<BR>\r\nResearch notes on curing blight diseases:<BR>\r\n<BR>\r\nSo far the only mixtures I've found to be even partially effective is scrib jelly and ash salts. These ingredients are not too hard to find, but the ratio needs some adjustment and the potion is not fully effective.<BR>\r\n<BR>\r\n\r\n"
+data:
+  weight: 0.2
+  value: 100
+  book_type: Scroll
+  skill: None
+  enchantment: 0

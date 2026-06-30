@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_AbMonitor_20
+name: WHITE SCARAB COMPANY ANNEXED
+script: T_ScNews_Bellman_Paper
+mesh: pc\m\pc_text_note_anv_news.nif
+icon: pc\m\pc_text_note_anv_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"PC\\pc_abmonitor.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nABECEAN TRADING CO. ACQUIRES WHITE SCARAB CO. IN TITANIC ANNEXATION<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nAfter months of preliminary negotiations, the acquisition of the White Scarab Company by the Abecean Trading Company has been finalized in a formal meeting of both companies' boards of directors at the Salthearth manor-estate of Velius Ivrol in the Kingdom of Sutch. The terms of the acquisition preserve the White Scarab Company as a separate firm with its own board of directors headquartered in Sutch, but restructure it as a subsidiary of the larger Anvil-based Abecean Trading Company.<BR><BR>\r\nMicella Marin, Director and Chairwoman of the ATC, gave the following statement to the Monitor.<BR><BR>\r\n\"This merger represents the product of months of diligent, patient negotiations between representatives of both Companies. All involved parties strongly feel that the combined interests of our two firms are stronger as a single whole. Shareholders of both firms should see immediate growth in their investments -- growth which we intend to build upon further in the coming years.\"<BR><BR>\r\nAlthough Goldstone declined a statement, Queen Millona of Anvil was thought to oppose the two corporations' merger. The Abecean Trading Company, already one of the most powerful companies in the world, is largely controlled by Herrius Thimistrel, the Queen's wealthiest and most influential critic. Thimistrel, who controls a majority of ATC shares but largely stays out of the Company's day-to-day affairs, is thought to be a leading contender for the crown of Anvil in the event of a new royal auction.<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

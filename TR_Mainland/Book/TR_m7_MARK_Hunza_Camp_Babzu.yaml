@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_MARK_Hunza_Camp_Babzu
+name: Babzu Handel
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: ''
+enchanting: ''
+text: This is a marker for the NPC "TR_m7_q_Babzu Handel" who will be moved here upon completion of the quest "TR_m7_SepGaP_Shinathi"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

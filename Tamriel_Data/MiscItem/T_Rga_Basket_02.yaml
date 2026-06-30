@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Rga_Basket_02
+name: Basket
+script: ''
+mesh: hf\m\hf_misc_wick_basket_02.nif
+icon: hf\m\hf_misc_wick_basket_02.tga
+data:
+  weight: 2.0
+  value: 6
+  flags: ''

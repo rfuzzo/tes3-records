@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m3_Hal_Amulet
+name: Amulet of Afterlife Peace
+script: ''
+mesh: TR\c\TR_ind amulet.NIF
+icon: TR\c\TR_c_ind_amulet.dds
+enchanting: TR_m3_Hal_AmuletEnchant
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 0.5
+  value: 232
+  enchantment: 10

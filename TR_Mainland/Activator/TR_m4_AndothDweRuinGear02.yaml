@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_AndothDweRuinGear02
+name: ''
+script: TR_m4_AndothDweGear02_scp
+mesh: i\in_dwrv_gear00.nif

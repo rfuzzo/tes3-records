@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_Music_Shiratar
+name: Shiratar
+script: ''
+mesh: tr\m\tr_misc_de_shiratar.nif
+icon: tr\m\tr_misc_de_shiratar.dds
+data:
+  weight: 7.0
+  value: 50
+  flags: ''

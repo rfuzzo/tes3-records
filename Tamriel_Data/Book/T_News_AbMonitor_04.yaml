@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_AbMonitor_04
+name: BRUSH FIRES ALONG GOLD ROAD
+script: T_ScNews_Bellman_Paper
+mesh: pc\m\pc_text_note_anv_news.nif
+icon: pc\m\pc_text_note_anv_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"PC\\pc_abmonitor.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nBRUSH FIRE BURNS ACRES OF STRIDENT COAST<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nA lightning strike recently ignited a conflagration near the Anvil-Sutch border, burning the dry shrubland and many trees. The blaze temporarily halted all travel along the western Gold Road while Legionnaires from Fort Heath and the Sutch-Anvil border post worked to contain it.<BR><BR>\r\nThe wildfire seems to have burned for two days and nights before being extinguished by rain. Although no property was damaged, the disruption to trade highlights the importance of sound Imperial infrastructure to the economic vitality of the Oloman kingdoms of West Cyrodiil.<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

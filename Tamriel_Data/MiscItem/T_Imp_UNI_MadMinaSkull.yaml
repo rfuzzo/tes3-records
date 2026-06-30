@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_UNI_MadMinaSkull
+name: Skull of Mad Mina Amarant
+script: ''
+mesh: pc\m\PC_M_UNI_MadMinaSkull.nif
+icon: pc\m\PC_M_UNI_MadMinaSkull.dds
+data:
+  weight: 5.9
+  value: 540
+  flags: ''

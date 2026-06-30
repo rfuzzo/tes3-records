@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Dwe_Schematic01
+name: Steam Centurion Schematics
+script: ''
+mesh: TR\m\tr_note_dwe_sch01.nif
+icon: TR\m\tr_note_dwe_sch01.dds
+data:
+  weight: 1.0
+  value: 100
+  flags: ''

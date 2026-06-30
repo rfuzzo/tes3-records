@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Nor_Orn_Halberd_01
+name: Nordic Halberd
+script: ''
+mesh: tr\w\tr_w_nordic_halberd.nif
+icon: tr\w\tr_w_nordic_halberd.dds
+enchanting: ''
+data:
+  weight: 21.0
+  value: 70
+  weapon_type: SpearTwoWide
+  health: 950
+  speed: 1.0
+  reach: 1.8
+  enchantment: 60
+  chop_min: 3
+  chop_max: 18
+  slash_min: 1
+  slash_max: 14
+  thrust_min: 6
+  thrust_max: 28
+  flags: ''

@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Mw_Fauna_MolecrEggs02
+name: Mole Crab Egg Clutch
+script: ''
+mesh: TR\o\TR_cont_MClutch02.NIF
+encumbrance: 0.0
+container_flags: ORGANIC | IS_BASE
+inventory:
+- - 5
+  - T_Mw_Random_FaunMolecrabEggs

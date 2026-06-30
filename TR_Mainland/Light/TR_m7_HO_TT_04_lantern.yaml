@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: TR_m7_HO_TT_04_lantern
+name: Travel Lantern
+script: TR_m7_Gethis_RaviroIt_scr
+mesh: l\Light_Com_Lantern_01.NIF
+icon: l\Light_Com_Lantern_01.tga
+sound: ''
+data:
+  weight: 5.0
+  value: 10
+  time: 120
+  radius: 128
+  color:
+  - 245
+  - 140
+  - 40
+  - 0
+  flags: DYNAMIC | CAN_CARRY | FIRE | FLICKER_SLOW

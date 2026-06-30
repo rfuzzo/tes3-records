@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_TT_FelaniLetter2
+name: Ulmon's Unsent Letter
+script: TR_m4_TT_FelaniLetter2_sc
+mesh: m\Text_Parchment_02.NIF
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nDear Felani,<BR>\r\n<BR>\r\nI know I'm a stubborn old hoom, I see that now. You were only following your heart, and I made life so much more difficult for you. Leaving me was the only sensible thing to do. Please, be careful when you traverse the mountain paths. I long to see you, and your Marja. I hope we still have time.<BR>\r\n<BR>\r\nYours always,<BR>\r\nUlmon<BR>\r\n<BR>\r\n"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

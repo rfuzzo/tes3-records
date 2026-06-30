@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: TR_m3_Hal_LightSpearSkull
+name: ''
+script: TR_m3_Hal_Disable_sc
+mesh: l\light_spear_skull00.NIF
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 128
+  color:
+  - 255
+  - 162
+  - 34
+  - 0
+  flags: DYNAMIC | FLICKER | FIRE

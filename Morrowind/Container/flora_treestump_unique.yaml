@@ -1,0 +1,9 @@
+type: Container
+flags: PERSISTENT
+id: flora_treestump_unique
+name: Hollow Treestump
+script: treestumpScript
+mesh: f\Flora_treestump_WG_01.nif
+encumbrance: 0.0
+container_flags: ORGANIC | IS_BASE
+inventory: []

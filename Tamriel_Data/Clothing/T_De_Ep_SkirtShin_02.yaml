@@ -1,0 +1,17 @@
+type: Clothing
+flags: ''
+id: T_De_Ep_SkirtShin_02
+name: Expensive Shinathi Skirt
+script: ''
+mesh: tr\c\tr_c_skirt_shin_02_gnd.nif
+icon: tr\c\tr_c_skirt_shin_02.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Groin
+  male_bodypart: T_C_DeEpSkirtShin02_G
+  female_bodypart: ''
+data:
+  clothing_type: Skirt
+  weight: 2.0
+  value: 15
+  enchantment: 75

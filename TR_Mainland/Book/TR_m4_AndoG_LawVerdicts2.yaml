@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_AndoG_LawVerdicts2
+name: Court Verdicts
+script: ''
+mesh: pc\m\pc_bk_book_19.nif
+icon: pc\m\pc_bk_book_19.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n[These are copies of judicial decisions made by Bal Foyen's Imperial Magistrate. They mostly involve small disputes, petty crime, and the removal of vagrants from the public road.]<BR>\r\n\r\n"
+data:
+  weight: 4.0
+  value: 2
+  book_type: Book
+  skill: None
+  enchantment: 0

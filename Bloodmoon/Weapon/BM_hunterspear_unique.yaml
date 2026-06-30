@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: BM_hunterspear_unique
+name: Spear of the Hunter
+script: ''
+mesh: w\w_hircine_spear.NIF
+icon: w\hircine_spear.dds
+enchanting: bm_hunterspear
+data:
+  weight: 25.0
+  value: 25000
+  weapon_type: SpearTwoWide
+  health: 2000
+  speed: 1.0
+  reach: 1.8
+  enchantment: 270
+  chop_min: 12
+  chop_max: 15
+  slash_min: 12
+  slash_max: 15
+  thrust_min: 40
+  thrust_max: 60
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

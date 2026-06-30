@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: ex_t_pc_hold_bridge_lcurved
+name: ''
+script: Strong2_Complete
+mesh: x\Ex_T_bridge_Lcurved.nif

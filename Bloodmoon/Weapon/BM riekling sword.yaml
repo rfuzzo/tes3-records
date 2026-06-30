@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: BM riekling sword
+name: Riekling Blade
+script: ''
+mesh: w\W_IceMsword2.NIF
+icon: w\IceM_Sword.dds
+enchanting: ''
+data:
+  weight: 20.0
+  value: 350
+  weapon_type: LongBladeOneHand
+  health: 500
+  speed: 1.0
+  reach: 1.0
+  enchantment: 35
+  chop_min: 13
+  chop_max: 28
+  slash_min: 18
+  slash_max: 30
+  thrust_min: 11
+  thrust_max: 23
+  flags: ''

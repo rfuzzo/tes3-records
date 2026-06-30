@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m2_q_A9_5_Aryn_Skull
+name: Skull of Aryn Salvarys
+script: ''
+mesh: m\misc_skull10.nif
+icon: m\misc_skull10.tga
+data:
+  weight: 0.5
+  value: 0
+  flags: ''

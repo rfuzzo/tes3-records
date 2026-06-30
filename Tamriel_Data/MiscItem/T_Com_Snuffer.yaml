@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_Snuffer
+name: Candle Snuffer
+script: ''
+mesh: tr\m\tr_m_com_snuffer.nif
+icon: tr\m\tr_m_com_snuffer.dds
+data:
+  weight: 3.0
+  value: 2
+  flags: ''

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_HighKingsVeddaSHOTN_V6
+name: High King's Vedda Book Six
+script: ''
+mesh: Sky\m\sky_book_basic_14.nif
+icon: Sky\m\tx_book_basic_13.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nHigh King's Vedda<BR>\r\nBook Six<BR><BR>\r\n<IMG SRC=\"sky\\Sky_Bk_HighKingsVedda_six.dds\" WIDTH=\"240\" HEIGHT=\"240\">\r\n<BR> <DIV ALIGN=\"LEFT\"> <BR>\r\nI. LET all the Children, forwards and back, paint their brows in elated mourning.\r\n<BR>\r\nII. For as the body of Shor hung from the standard of the demon king, mocking form that he is, the spirit of Shor took form in the misted realm beneath our own.\r\n<BR>\r\nIII. Within the World, there are three realms revealed to us:\r\n<BR>\r\nIV. Sovngarde, the foundation, the place uneaten, the fortress-hall of the Gods and home to the glorious dead.\r\n<BR>\r\nV. Upon it, the nameless cavern of fog, an encapsulation of the void through which the Gods first journeyed, and home to the unworthy dead. They will be eaten, when the time comes.\r\n<BR>\r\nVI. Upon it, the joyous unclouded Sky, the realm of the living and the birthright of the Children. The highest point of all is called the Throat of the World, upon which the Children were breathed.\r\n<BR>\r\nVII. Shor and Tsun, now the dead Gods of legend, resolutely descended the undulating tunnels of the misted realm between Sky and Sovngarde, for They themselves had built them at the founding of the World.\r\n<BR>\r\nVIII. At every step, numinous elf-souls ebbed forth and were cast back, for the elves cannot set foot within the Godshall of Sovngarde. They are shades of fog and their lust for eternity marks them as unworthy of succession into the next Kalpa.\r\n<BR>\r\nIX. And so at last, standing before the mighty gatehouse of Sovngarde, Tsun took His watchful place, and Shor charged him thus:\r\n<BR>\r\nX. \"Remain at this post, loyal Thane of Mine, and keep watch upon the murky void beyond. The Children of the Sky are glorious, and their dead glorious also; they alone can move sideways through the cracks of burning, and so will wish to prove their righteousness. You shall test them, and permit only the most worthy, and they shall defend the Godshall of Sovngarde in the Battle until the final day, when the Dragon awakens and all but We are eaten.\"\r\n<BR>\r\nXI. And so it was that Tsun, Shield-Thane of Shor, and the glorious dead, Sky-Children of Shor, were charged with their sacred duty, which will last no longer than the burning of the World.\r\n<BR>\r\nMeditate on this: Even to prove worthy of Sovngarde is not to gain eternity. Banish instantly such thoughts from the mind.\r\n<BR><BR>\r\n"
+data:
+  weight: 3.0
+  value: 300
+  book_type: Book
+  skill: None
+  enchantment: 0

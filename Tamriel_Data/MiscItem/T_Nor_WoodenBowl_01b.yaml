@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Nor_WoodenBowl_01b
+name: Wooden Bowl
+script: ''
+mesh: Sky\m\Sky_Misc_W_Bowl_01_02.nif
+icon: Sky\m\Tx_Misc_W_Bowl_01_02.dds
+data:
+  weight: 1.5
+  value: 2
+  flags: ''

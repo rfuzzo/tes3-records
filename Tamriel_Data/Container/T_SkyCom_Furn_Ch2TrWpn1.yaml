@@ -1,0 +1,43 @@
+type: Container
+flags: ''
+id: T_SkyCom_Furn_Ch2TrWpn1
+name: Chest
+script: ''
+mesh: Sky\o\Sky_Cont_Chest_02_02.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - -200
+  - iron bolt
+- - -1
+  - iron broadsword
+- - -1
+  - iron dagger
+- - -1
+  - iron longsword
+- - -1
+  - iron spear
+- - -1
+  - iron war axe
+- - -1
+  - silver dagger
+- - -1
+  - silver shortsword
+- - -1
+  - steel battle axe
+- - -200
+  - steel bolt
+- - -1
+  - steel club
+- - -1
+  - steel halberd
+- - -1
+  - steel longsword
+- - -1
+  - steel shortsword
+- - -1
+  - steel tanto
+- - -50
+  - steel throwing star
+- - -1
+  - steel warhammer

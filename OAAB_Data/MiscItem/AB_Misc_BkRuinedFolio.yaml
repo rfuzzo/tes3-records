@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_BkRuinedFolio
+name: Ruined Book
+script: ''
+mesh: OAAB\m\bk_ruined_folio.nif
+icon: OAAB\m\bk_ruined_folio.tga
+data:
+  weight: 4.0
+  value: 1
+  flags: ''

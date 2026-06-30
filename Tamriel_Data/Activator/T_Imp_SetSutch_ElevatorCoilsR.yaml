@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_SetSutch_ElevatorCoilsR
+name: ''
+script: T_ScObj_SutchElevatorCoilsR
+mesh: pc\i\pc_in_sut_elevcoil_01.nif

@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: T_MwCom_Var_Bl1WpnSteel
+name: Barrel
+script: ''
+mesh: o\Contain_barrel_01.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 7
+  - T_Mw_Random_WeaponsSteel
+- - 20
+  - steel throwing knife
+- - 20
+  - steel throwing star

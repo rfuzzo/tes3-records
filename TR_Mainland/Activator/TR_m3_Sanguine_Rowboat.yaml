@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_Sanguine_Rowboat
+name: ''
+script: TR_m3_Act_Sanguine_Island_Sc
+mesh: x\ex_de_rowboat.nif

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_EEC_BririccaUpdate_bk
+name: Briricca EEC Update
+script: ''
+mesh: m\Text_Parchment_02.nif
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nEast Empire Company<BR>\r\nOld Ebonheart<BR>\r\n<BR>\r\nWe have extended your loan into the coming financial period. The interest rate remains as it was: 9%.<BR>\r\n<BR>\r\nDon't let us down.<BR>\r\n<BR>\r\nyr. obt. srvt.<BR>\r\nLady Phedre Briricca<BR>\r\nDirector of the Briricca Private Bank at Old Ebonheart<BR>\r\nAgent of the Briricca Company<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

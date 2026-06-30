@@ -1,0 +1,19 @@
+type: Armor
+flags: PERSISTENT
+id: TR_m4_UshuDimmuCrown_01
+name: Crown of Ushu-Dimmu
+script: TR_m4_FG_UshuCrown_01_scp
+mesh: tr\a\tr_a_ushudimmu_uni.nif
+icon: tr\a\tr_a_ushudimmu_crown.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Hair
+  male_bodypart: ''
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 3.0
+  value: 7500
+  health: 300
+  enchantment: 0
+  armor_rating: 5

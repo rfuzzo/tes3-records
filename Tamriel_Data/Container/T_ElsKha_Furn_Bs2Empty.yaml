@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: T_ElsKha_Furn_Bs2Empty
+name: Basket
+script: ''
+mesh: els\o\els_cont_basket_02.nif
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory: []

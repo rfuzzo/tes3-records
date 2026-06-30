@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: rock_diamond_07
+name: Diamond
+script: ''
+mesh: o\Contain_rock_diamond_07.nif
+encumbrance: 0.0
+container_flags: ORGANIC | IS_BASE
+inventory:
+- - 10
+  - random_diamond

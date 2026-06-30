@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2_bk_LOE_HeRecordBook2
+name: Helnim Ledger of Traders
+script: ''
+mesh: m\Text_Octavo_03.nif
+icon: m\Tx_octavo_03.tga
+enchanting: ''
+text: "[This book contains a list of all traders in town.]<BR>\r\n"
+data:
+  weight: 1.0
+  value: 20
+  book_type: Book
+  skill: None
+  enchantment: 100

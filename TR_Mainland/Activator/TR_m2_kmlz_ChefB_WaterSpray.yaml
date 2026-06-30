@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m2_kmlz_ChefB_WaterSpray
+name: ''
+script: TR_m2_kmlz_ChefB_WaterObject_sc
+mesh: x\Ex_waterfall_mist_01.NIF

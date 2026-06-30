@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_ShutagJelly_01
+name: Shutag Jelly
+script: ''
+mesh: TR\n\tr_ing_shutag_jelly.nif
+icon: TR\n\tr_ing_shutag_jelly.dds
+data:
+  weight: 0.1
+  value: 3
+  effects:
+  - FortifyAttribute
+  - DrainAttribute
+  - WeaknessToFrost
+  - RestoreSkill
+  skills:
+  - Block
+  - Block
+  - None
+  - Athletics
+  attributes:
+  - Endurance
+  - Agility
+  - None
+  - Strength

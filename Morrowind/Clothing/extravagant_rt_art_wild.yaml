@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: extravagant_rt_art_wild
+name: Gambolpuddy
+script: ''
+mesh: c\c_glove_extravagant1_GND.NIF
+icon: c\tx_glove_extravagant_1.tga
+enchanting: wildjack
+biped_objects: []
+data:
+  clothing_type: RightGlove
+  weight: 1.0
+  value: 16000
+  enchantment: 200

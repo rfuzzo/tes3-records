@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_De_Et_Amulet_Horker
+name: Horker Talisman
+script: ''
+mesh: c\Amulet_Extravagant_2.NIF
+icon: c\tx_amulet_extrav2.tga
+enchanting: T_Use_Swiftswim30-40
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 290
+  enchantment: 600

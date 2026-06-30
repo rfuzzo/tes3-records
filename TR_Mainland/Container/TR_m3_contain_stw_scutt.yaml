@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m3_contain_stw_scutt
+name: Stoneware pot
+script: ''
+mesh: TR\m\tr_misc_stn_pot_03.nif
+encumbrance: 1.0
+container_flags: IS_BASE
+inventory:
+- - 3
+  - ingred_scuttle_01

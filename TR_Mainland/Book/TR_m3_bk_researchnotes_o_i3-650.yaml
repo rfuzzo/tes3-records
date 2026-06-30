@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_bk_researchnotes_o_i3-650
+name: Research Notes
+script: ''
+mesh: m\Text_Octavo_open_08.NIF
+icon: m\Tx_book_open_02.tga
+enchanting: ''
+text: '[This book contains the most recent notes on the research that is being done here.]<BR>'
+data:
+  weight: 2.0
+  value: 10
+  book_type: Book
+  skill: None
+  enchantment: 0

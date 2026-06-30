@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_i3-762_Key_Chest
+name: Worn Iron Key
+script: ''
+mesh: tr\m\tr_key_dd24.nif
+icon: tr\m\tr_key_dd24.dds
+data:
+  weight: 0.0
+  value: 0
+  flags: KEY

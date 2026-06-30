@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_MARK_Icebreaker_Guard
+name: Icebreaker Keep Guard
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: ''
+enchanting: ''
+text: "In Nivalis quest \"Cracking Icebreaker\", a guard will be added if the player reveals Lish gro-Garrok's plan to Tibera Rone\r\nNPC ID: TR_m1_imp_guard_navy_s\r\nPlaceItemCell in script TR_m1_Niv_Lish_scr"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

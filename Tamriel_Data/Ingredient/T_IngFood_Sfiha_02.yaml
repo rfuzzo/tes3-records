@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_Sfiha_02
+name: Sfiha
+script: ''
+mesh: hf\n\hf_food_Sfiha02.nif
+icon: hf\n\hf_food_sfiha02.dds
+data:
+  weight: 0.7
+  value: 12
+  effects:
+  - RestoreFatigue
+  - FortifyAttackBonus
+  - DamageMagicka
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

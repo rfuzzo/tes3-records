@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: TR_m1_FW_10sack
+name: Arrell's Sack
+script: ''
+mesh: o\Contain_Com_Sack_02.NIF
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - pick_journeyman_01
+- - 1
+  - probe_bent
+- - 1
+  - probe_journeyman_01

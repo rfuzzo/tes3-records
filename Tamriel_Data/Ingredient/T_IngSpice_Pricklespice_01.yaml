@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngSpice_Pricklespice_01
+name: Pricklespice
+script: ''
+mesh: hf\n\hf_ing_pricklespice.nif
+icon: hf\n\hf_ing_pricklespice.dds
+data:
+  weight: 1.0
+  value: 10
+  effects:
+  - ShockDamage
+  - DamageFatigue
+  - FortifyAttribute
+  - FortifyHealth
+  skills:
+  - None
+  - None
+  - Block
+  - None
+  attributes:
+  - None
+  - None
+  - Endurance
+  - None

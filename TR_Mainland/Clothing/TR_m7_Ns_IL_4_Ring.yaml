@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m7_Ns_IL_4_Ring
+name: Dirty Ring
+script: ''
+mesh: hr\c\hr_c_epring_01.nif
+icon: hr\c\hr_c_epring_01.dds
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 2
+  enchantment: 0

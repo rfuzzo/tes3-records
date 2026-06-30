@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Mw_FloraOR_Raflesia01
+name: Lovers Rafflesia
+script: ''
+mesh: tr\o\tr_flora_lovraflesia.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 4
+  - T_Mw_Random_FlorRaflesiaPistil

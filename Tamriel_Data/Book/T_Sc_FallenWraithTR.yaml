@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Sc_FallenWraithTR
+name: Fallen Wraith
+script: ''
+mesh: m\Text_Scroll_01.nif
+icon: m\Tx_scroll_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nFallen Wraith<BR>\r\nHoratio Gargonath<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\">\r\nFeathered wraith, cursed above,<BR>\r\nTo loose thy flight, condoned to love.<BR>\r\nSnipped the wings of jaded dove.<BR>\r\nHide behind a mask, a glove.<BR><BR>\r\nRealm alone, words of woe,<BR>\r\nWhims are raped, the fallen foe,<BR>\r\nReturn alive, she scarce but know,<BR>\r\nIf not be damned to a life of low.<BR><BR>\r\nTrespass naught this tragic night,<BR>\r\nConfounded moon, waxen light<BR>\r\nAshen curse disturb thy sight,<BR>\r\nTo no escape this wicked blight.<BR><BR>"
+data:
+  weight: 1.1
+  value: 100
+  book_type: Scroll
+  skill: None
+  enchantment: 0

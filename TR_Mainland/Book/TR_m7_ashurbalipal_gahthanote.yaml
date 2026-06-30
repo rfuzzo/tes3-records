@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_ashurbalipal_gahthanote
+name: Weathered Note
+script: ''
+mesh: m\Text_Note_02.nif
+icon: m\Tx_note_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[On this paper is a scrawl of diagrams, lists, and images, all linking different figures and institutions to some Imperial intelligence agency.]<BR>\r\n"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: tr_m7_HO_19 Hand
+name: Hand of St Roris
+script: ''
+mesh: tr\f\tr_furn_skel_hand_l.nif
+icon: tr\m\tr_misc_skel_hand_l.dds
+data:
+  weight: 1.0
+  value: 10
+  flags: ''

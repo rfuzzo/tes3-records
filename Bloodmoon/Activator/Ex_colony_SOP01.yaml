@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: Ex_colony_SOP01
+name: ''
+script: ColonyServSmith
+mesh: x\Ex_colony_SOP01.NIF

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_Andothren_Chapel_Note2
+name: Rolled Prayer
+script: ''
+mesh: m\Text_paper_roll_01.nif
+icon: m\Tx_paper_roll_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<BR>\r\nBenevolent mother of fertility and much abound. Call upon your children of blood and allow them all to hear my thanks!<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

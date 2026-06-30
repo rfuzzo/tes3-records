@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: TR_i2_445_GreenLightSmall
+name: ''
+script: ''
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 230
+  color:
+  - 3
+  - 92
+  - 67
+  - 0
+  flags: DYNAMIC

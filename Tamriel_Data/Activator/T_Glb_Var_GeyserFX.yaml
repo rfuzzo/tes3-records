@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Glb_Var_GeyserFX
+name: ''
+script: T_ScObj_GeyserVFX
+mesh: tr\x\tr_water_geyserwater.nif

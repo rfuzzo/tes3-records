@@ -1,0 +1,36 @@
+type: Alchemy
+flags: ''
+id: T_We_Drink_Wine_01
+name: Valenwood Wine
+script: ''
+mesh: VA\m\va_m_We_valwine.nif
+icon: va\m\va_m_We_valwine.dds
+effects:
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Agility
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 15
+  max_magnitude: 15
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Speed
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 5
+  max_magnitude: 5
+- magic_effect: DrainAttribute
+  skill: None
+  attribute: Strength
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 20
+  max_magnitude: 20
+data:
+  weight: 2.0
+  value: 25
+  flags: ''

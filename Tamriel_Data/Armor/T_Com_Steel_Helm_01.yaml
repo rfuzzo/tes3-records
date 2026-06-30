@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Com_Steel_Helm_01
+name: Steel Helm
+script: ''
+mesh: TR\a\TR_A_Steel_Helmet_05.nif
+icon: TR\a\TR_a_steel_helmet_05.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Head
+  male_bodypart: T_A_ComSteelHelm01_Hd
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 5.0
+  value: 60
+  health: 150
+  enchantment: 250
+  armor_rating: 15

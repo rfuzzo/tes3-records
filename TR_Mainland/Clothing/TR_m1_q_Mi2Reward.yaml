@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m1_q_Mi2Reward
+name: Ring of Ostros' Knack
+script: ''
+mesh: c\C_Ring_common04.NIF
+icon: c\tx_ring_common04.tga
+enchanting: TR_m1_q_Mi2RewardEnch
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 50
+  enchantment: 10

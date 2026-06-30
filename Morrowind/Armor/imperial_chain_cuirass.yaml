@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: imperial_chain_cuirass
+name: Imperial Chain Cuirass
+script: LegionUniform
+mesh: a\A_M_ImperialChain_C_GND.nif
+icon: a\Tx_ImperialChain_Cuirass.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: a_m_imperialchain_cuirass
+  female_bodypart: ''
+data:
+  armor_type: Cuirass
+  weight: 21.0
+  value: 90
+  health: 300
+  enchantment: 140
+  armor_rating: 12

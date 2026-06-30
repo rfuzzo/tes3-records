@@ -1,0 +1,14 @@
+type: Clothing
+flags: PERSISTENT
+id: BM_ring_hircine
+name: Hircine's Ring
+script: hircineringScript
+mesh: c\C_Ring_Hircine.NIF
+icon: c\Tx_Ring_Hircine.dds
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 6400
+  enchantment: 1200

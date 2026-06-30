@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_Ns_TG_8_TimerActivator
+name: ''
+script: TR_m7_Ns_TG_8_TimerActi_sc
+mesh: EditorMarker.NIF

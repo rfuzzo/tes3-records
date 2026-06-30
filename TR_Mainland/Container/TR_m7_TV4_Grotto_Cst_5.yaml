@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: TR_m7_TV4_Grotto_Cst_5
+name: Ancient Chest
+script: ''
+mesh: o\contain_daedric_chest_01.nif
+encumbrance: 0.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - random_scroll_all
+- - 4
+  - sc_daynarsairybubble
+- - 4
+  - sc_reynosfins

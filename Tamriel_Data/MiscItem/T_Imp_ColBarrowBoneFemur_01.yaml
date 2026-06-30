@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_ColBarrowBoneFemur_01
+name: Colovian Relic
+script: ''
+mesh: pc\m\pc_misc_cbar_femur.nif
+icon: pc\m\pc_misc_cbar_femur.dds
+data:
+  weight: 3.0
+  value: 40
+  flags: ''

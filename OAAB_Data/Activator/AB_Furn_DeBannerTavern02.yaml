@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Furn_DeBannerTavern02
+name: ''
+script: OutsideBanner
+mesh: OAAB\u\de_banner_inn_02.nif

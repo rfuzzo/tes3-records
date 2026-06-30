@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Note_IndorilCallArmsTR
+name: Indoril Notice - Call to Arms
+script: ''
+mesh: m\Text_Parchment_01.nif
+icon: m\Tx_parchment_01.tga
+enchanting: ''
+text: "Come, brethren!<br>\r\nLet us wrest back our ancient rights from the avarice of greedy Hlaalu hands.<br>\r\nToo long have they annexed our territories, stolen our powers and mocked us in our trials.<br>\r\nWe must unite - we must drive these foul usurpers from our most sacred lands and restore sanctity to our temples, shrines and tombs.<br>\r\nFor too long they have haunted us on our very doorstep! Come, let us rid ourselves of this pestilence once and for all! <br>\r\nWe rally tonight. The Hlaalu will pay for their insolence!<br>\r\n<br>\r\nSigned <br>\r\n<br>\r\n  - Barys Hrothmalen<BR>\r\n<BR>"
+data:
+  weight: 1.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

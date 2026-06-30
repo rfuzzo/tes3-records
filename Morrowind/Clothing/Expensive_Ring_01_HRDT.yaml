@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: Expensive_Ring_01_HRDT
+name: Nervion Ancestor Ring
+script: ''
+mesh: c\c_ring_expensive_1.nif
+icon: c\tx_ring_expensive01.tga
+enchanting: summon ancestral ghost_en
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 30
+  enchantment: 150

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Nor_Set_SignShopAlchemist_03
+name: Alchemist
+script: T_ScObj_WeatherAnimSHOTN
+mesh: sky\f\sky_act_sign_alch_03.nif

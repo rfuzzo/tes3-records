@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_Q59_LiT_sc_ls
+name: Scroll of Leaguestep
+script: TR_m1_Q59_LiT_Scroll_sc
+mesh: m\text_scroll_01.nif
+icon: m\tx_scroll_open_01.tga
+enchanting: sc_leaguestep_en
+text: <DIV ALIGN="center"><FONT COLOR="000000" SIZE="2" FACE="Daedric">WOE UPON YOU</FONT><BR>
+data:
+  weight: 0.2
+  value: 85
+  book_type: Scroll
+  skill: None
+  enchantment: 0

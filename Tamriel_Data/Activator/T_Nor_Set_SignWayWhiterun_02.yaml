@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Nor_Set_SignWayWhiterun_02
+name: Whiterun
+script: ''
+mesh: sky\f\sky_act_signpost_02.nif

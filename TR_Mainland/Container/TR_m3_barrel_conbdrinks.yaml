@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: TR_m3_barrel_conbdrinks
+name: Barrel
+script: ''
+mesh: o\Contain_barrel_01.NIF
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 3
+  - potion_comberry_brandy_01
+- - 3
+  - potion_comberry_wine_01

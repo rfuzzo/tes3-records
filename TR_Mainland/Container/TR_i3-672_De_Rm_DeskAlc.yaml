@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: TR_i3-672_De_Rm_DeskAlc
+name: Desk
+script: ''
+mesh: TR\o\TR_furn_De_Rm_Desk01.NIF
+encumbrance: 40.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 5
+  - T_Mw_Random_Ingredient
+- - 3
+  - T_Mw_Random_KwamaGoodies
+- - 1
+  - T_Mw_Random_Minerals
+- - 50
+  - random gold

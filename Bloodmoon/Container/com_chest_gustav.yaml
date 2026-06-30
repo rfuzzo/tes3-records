@@ -1,0 +1,37 @@
+type: Container
+flags: ''
+id: com_chest_gustav
+name: Gustav's Chest
+script: ''
+mesh: o\contain_chest10.nif
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - 20
+  - flame_bolt
+- - 1
+  - steel crossbow
+- - 1
+  - steel flameblade
+- - 1
+  - nordic_leather_shield
+- - 1
+  - fur_gauntlet_right
+- - 1
+  - fur_gauntlet_left
+- - 1
+  - fur_boots
+- - 1
+  - fur_greaves
+- - 1
+  - fur_pauldron_right
+- - 1
+  - fur_pauldron_left
+- - 1
+  - nordic_ringmail_cuirass
+- - 1
+  - nordic_iron_helm
+- - 4
+  - p_restore_health_q
+- - 4
+  - p_restore_endurance_q

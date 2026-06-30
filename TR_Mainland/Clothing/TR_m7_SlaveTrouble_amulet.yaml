@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m7_SlaveTrouble_amulet
+name: Amulet of Lucky Blows
+script: ''
+mesh: c\Amulet_Common_2.NIF
+icon: c\tx_amulet_com2.tga
+enchanting: TR_m7_SlaveTrouble_am_en
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 660
+  enchantment: 10

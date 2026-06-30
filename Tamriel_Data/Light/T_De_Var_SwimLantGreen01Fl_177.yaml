@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_De_Var_SwimLantGreen01Fl_177
+name: ''
+script: Float
+mesh: tr\l\tr_l_de_flolant_gre_01.nif
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 177
+  color:
+  - 13
+  - 210
+  - 162
+  - 0
+  flags: DYNAMIC

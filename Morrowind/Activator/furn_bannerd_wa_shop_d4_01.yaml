@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: furn_bannerd_wa_shop_d4_01
+name: 'Radras: Smith'
+script: OutsideBanner
+mesh: f\Furn_bannerD_WA_shop_01.NIF

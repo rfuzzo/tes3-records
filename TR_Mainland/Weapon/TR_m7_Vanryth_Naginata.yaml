@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m7_Vanryth_Naginata
+name: Resolution
+script: ''
+mesh: tr\w\tr_w_steel_naginata.nif
+icon: tr\w\tr_w_steel_naginata.dds
+enchanting: TR_m7_Vanryth_Naginata_en
+data:
+  weight: 15.0
+  value: 1000
+  weapon_type: SpearTwoWide
+  health: 1200
+  speed: 1.3
+  reach: 1.8
+  enchantment: 55
+  chop_min: 2
+  chop_max: 5
+  slash_min: 2
+  slash_max: 8
+  thrust_min: 6
+  thrust_max: 17
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

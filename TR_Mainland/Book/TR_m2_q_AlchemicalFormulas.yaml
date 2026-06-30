@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2_q_AlchemicalFormulas
+name: Alchemical Notes
+script: ''
+mesh: m\Text_Parchment_02.nif
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nAfter some investigation, I have found a number of ingredients around Tel Gilan which can produce the effect of the common restore health potion. Both marshmerrow and wickwheat have health restoring properties, and can be mixed to successfully distil and magnify these properties into a marketable potion. The potion is very popular with adventurers who often pass through Tel Gilan on their way to Kemel-Ze, but a more powerful alternative may have to be found to truly lead this competitive market.<BR>\r\n<BR>\r\nA rarer potion I have learned to create is a levitation potion, which can cause the imbiber to rise up off the ground as if they can fly. I discovered the effect when I received a shipment of ingredients from the Bitter Coast region of Vvardenfell. This region is on the southwest side of the island, so the ingredients can thus be difficult and expensive to import, but their rare and potent effects make it worth the while.<BR>\r\n<BR>\r\nOne particular ingredient named the coda flower has the exciting levitation property, but in order for it to be usable as a potion, it must first be mixed with the plumes found on a cliff racer. While these creatures are not exactly rare, the process of hunting them down can be difficult and dangerous. A more reliable source of these plumes are the adventurers who often return to shops to sell the cliff racer plumes in large volumes. The trader Lariast often receives these, which I have occasionally bought off him, but I dislike his snobbish Imperial tone. I would be very grateful if another, cheaper source could be found. As it is I am relegated to produce these levitation potions only on rare occasions, which is a shame as they often make one stand apart from the competition and sell well among adventurers and wizards alike.<BR>\r\n<BR>"
+data:
+  weight: 0.05
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

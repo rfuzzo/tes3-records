@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_HillOfKvatchPC
+name: The Hill of Kvatch
+script: ''
+mesh: pc\m\PC_bk_Book_09.nif
+icon: pc\m\pc_bk_book_09.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe Hill of Kvatch<BR>\r\n<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nKvatch is the smallest of the Colovian counties, yet also one of the most influential. Geographically, it lies on the intersection of three major regions: the Gold Coast to the west, the low, fertile plains of the West Weald to he east, and the unforgiving Colovian Highlands to the north. To the south, across the low ridge of the Dasek moors, lies the reedy Strid River bordering on Valenwood. Besides the moors and wetlands of the south, most of the Kvetchi Pass consists of grasslands, crumbling cliffs, and sombre forests. <BR>\r\n<BR>\r\n\r\nThough the pass is usually quite rainy, the circumstances of the soil leave much to be desired. The upper highlands proper are, outside of a number of successful vineyards, unfit for agriculture. Isolated farmsteads congregate in the arable valley along the Gold Road. The rural Kvatchi specialize in animal husbandry, mostly of goats, cows, and horses, or work in the region's quarries and mines.<BR>\r\n<BR>\r\n\r\nThe county has one dominant city, its namesake. Kvatch is perched on top of a broad butte overlooking the Gold Road. This high seat hosts the Duke of Colovia and the High Temple of Akatosh, both great authorities in Colovia. The city prospers thanks to the high tolls the Duke imposes on the Gold Road merchant traffic.<BR>\r\n<BR>\r\n\r\nOther than the city and its outskirts, there are few settlements in the county. Small villages are scattered across the crags of the southern Colovian Highlands, ruled by overly competitive local lords who squabble over land claims and the rights on the few profitable pit mines -- of which the town of Hal Vincherik is an example. Goat-herding is the most common profession here. To the northeast lies the monastery of the Ardent Order, an influential sub-cult dedicated to Akatosh in his facet aspect of the Aka Ardentii.<BR>\r\n<BR>\r\n\r\nFurther north lies the Imperial Reserve, one of the Emperor's personal estates. Designated a hunting grounds, the Reserve is rarely visited by the Emperor or his kin as it mainly serves to defuse border friction with nearby Hammerfell. Most of the Reserve is untouched wilderness, save for the successful (and controversial) marble quarries at Thyra, which the local lords consider a Curiate land-grab.<BR>\r\n<BR>\r\n\r\nLife in the southern Highlands is hard, and its people are often said to be haughty, humorless, and obstinate. The Kvatchi pride themselves on being the most steadfast, austere, and pious -- in short, the most Colovian -- of all Colovians. Still, if one can look past their arrogant demeanor, the Kvatchi are a surprisingly generous people: a friend made in Kvatch is a friend for life, so the saying goes.<BR>\r\n<BR>\r\n"
+data:
+  weight: 2.0
+  value: 50
+  book_type: Book
+  skill: None
+  enchantment: 0

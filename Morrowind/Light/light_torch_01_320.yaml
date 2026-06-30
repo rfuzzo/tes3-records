@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: light_torch_01_320
+name: ''
+script: ''
+mesh: l\Light_torch_01.NIF
+icon: ''
+sound: Fire 40
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 320
+  color:
+  - 245
+  - 140
+  - 40
+  - 0
+  flags: DYNAMIC | FIRE | FLICKER_SLOW

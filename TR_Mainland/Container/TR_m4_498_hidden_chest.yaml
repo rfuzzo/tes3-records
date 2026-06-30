@@ -1,0 +1,17 @@
+type: Container
+flags: PERSISTENT
+id: TR_m4_498_hidden_chest
+name: Small Chest
+script: ''
+mesh: o\Contain_chest_small_02.NIF
+encumbrance: 25.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - TR_m4_498_belt_of_leaping
+- - 1
+  - T_IngMine_Topaz_01
+- - 1
+  - expensive_ring_02
+- - 1
+  - eye-maze ring

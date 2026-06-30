@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_BoneSkelTorsoBroken
+name: Broken Torso
+script: ''
+mesh: OAAB\m\skelTorsoBroken.nif
+icon: OAAB\m\skelTorsoBroken.tga
+data:
+  weight: 2.5
+  value: 1
+  flags: ''

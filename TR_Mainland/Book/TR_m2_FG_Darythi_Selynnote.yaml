@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: TR_m2_FG_Darythi_Selynnote
+name: Note to Neloreth Selyn
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nNeloreth,<BR>\r\nIt has been many years since we last spoke, I hope this note is finding you well. I understand your Dwemer research is some of the most advanced in Tamriel. If you can find the time, please stop by in the next few years.<BR>\r\n<BR>\r\nSincerely, <BR>\r\n<BR>\r\nDarythi<BR>\r\n<BR>\r\n\r\n"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

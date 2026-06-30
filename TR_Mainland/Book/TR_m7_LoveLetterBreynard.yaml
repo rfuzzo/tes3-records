@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_LoveLetterBreynard
+name: Letter from Breynard Ancois
+script: ''
+mesh: m\Text_Parchment_02.nif
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<BR>\r\nMy Dearest Ulyne,<BR>\r\n<BR>\r\nWith quill in hand and heart aflame,<BR>\r\nI pen these words to you, fair dame,<BR>\r\nIn dreams of days when we'll be free,<BR>\r\nUnburdened by chains that shackle thee.<BR>\r\n<BR>\r\nLike a songbird trapped in gilded cage,<BR>\r\nYour spirit yearns for an open stage,<BR>\r\nWhere love's sweet notes can freely soar,<BR>\r\nAnd shadows of Oblivion are seen no more.<BR>\r\n<BR>\r\nA knight of noble lineage true,<BR>\r\nI've traversed realms to rescue you,<BR>\r\nFrom that man's grasp, his cruel embrace,<BR>\r\nTo bring you solace, in Mara's own grace.<BR>\r\n<BR>\r\nOh, Ulyne, like a rose midst thorns concealed,<BR>\r\nYour heart's true desires must be revealed,<BR>\r\nIn moonlit letters, our hopes entwine,<BR>\r\nTwo souls bound, by Arkay's design.<BR>\r\n<BR>\r\nWith all the fervor of a Breton's heart,<BR>\r\nI send this plea, my love's own art,<BR>\r\nTo hold you close, in my arms so true,<BR>\r\nAnd make our dreams, together, bloom anew.<BR>\r\n<BR>\r\nEternally Yours,<BR>\r\nBreynard Ancois<BR>\r\n<BR>"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

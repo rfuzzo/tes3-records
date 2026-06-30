@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_Mw_DngSkyrend_I_Light_03_128
+name: ''
+script: ''
+mesh: tr\l\tr_l_Skyrend_Light_03.nif
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 128
+  color:
+  - 200
+  - 110
+  - 65
+  - 0
+  flags: PULSE_SLOW

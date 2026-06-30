@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: TR_m4_olmshelm_i4-261-hla
+name: Helm of St. Olms
+script: OrdinatorUniform
+mesh: a\A_Indoril_M_Helmet.nif
+icon: a\Tx_Indoril_helmet.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: Head
+  male_bodypart: indoril hlelmet
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 4.5
+  value: 3250
+  health: 600
+  enchantment: 225
+  armor_rating: 50

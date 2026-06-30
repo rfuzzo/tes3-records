@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Qy_Bottle_01d
+name: Bottle
+script: ''
+mesh: pi\m\pi_misc_bottlequey_01d.nif
+icon: pi\m\pi_misc_bottlequey_01d.dds
+data:
+  weight: 1.5
+  value: 2
+  flags: ''

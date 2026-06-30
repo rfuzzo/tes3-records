@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_i2_238_bk_aquisition
+name: Scroll Lending Rules
+script: ''
+mesh: m\Text_Parchment_01.nif
+icon: m\Tx_parchment_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThese scrolls are available for use by all House Telvanni Retainers.  However do not use them unless you are truly in need of magical assistance.  To check out a scroll, please sign your name to the ledger and note which scroll(s) you checked out as well as the reason you are in need of them.<BR>\r\n<BR>\r\n-Aren Sinn, Tel Muthada Efficiency Overseer\r\n<BR>"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

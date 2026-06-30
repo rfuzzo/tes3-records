@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_Onion_01
+name: Onion
+script: ''
+mesh: Sky\n\Sky_Ingred_Onion_01.nif
+icon: Sky\n\Tx_Ingred_Onion_01.dds
+data:
+  weight: 0.2
+  value: 1
+  effects:
+  - RestoreFatigue
+  - ResistPoison
+  - DamageAttribute
+  - Paralyze
+  skills:
+  - None
+  - None
+  - Block
+  - None
+  attributes:
+  - None
+  - None
+  - Personality
+  - None

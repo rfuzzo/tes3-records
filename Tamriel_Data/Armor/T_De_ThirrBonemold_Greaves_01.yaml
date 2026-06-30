@@ -1,0 +1,31 @@
+type: Armor
+flags: ''
+id: T_De_ThirrBonemold_Greaves_01
+name: Iuvan-Thir Bonemold Greaves
+script: ''
+mesh: tr\a\tr_a_Thirr_Gr_gnd.nif
+icon: tr\a\tr_a_thirr_gr.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Groin
+  male_bodypart: T_A_DeThirrBonemoldGrea01_G
+  female_bodypart: ''
+- biped_object_type: LeftUpperLeg
+  male_bodypart: T_A_DeThirrBonemoldGrea01_UL
+  female_bodypart: ''
+- biped_object_type: RightUpperLeg
+  male_bodypart: T_A_DeThirrBonemoldGrea01_UL
+  female_bodypart: ''
+- biped_object_type: LeftKnee
+  male_bodypart: a_bonemold_greaves_k
+  female_bodypart: ''
+- biped_object_type: RightKnee
+  male_bodypart: a_bonemold_greaves_k
+  female_bodypart: ''
+data:
+  armor_type: Greaves
+  weight: 13.4
+  value: 220
+  health: 150
+  enchantment: 20
+  armor_rating: 15

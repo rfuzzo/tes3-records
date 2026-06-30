@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m2_KL_banner_bazaar
+name: Underground Bazaar
+script: OutsideBanner
+mesh: f\Furn_bannerD_goods_01.nif

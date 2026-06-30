@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m2_He_Banner_ench_Ervul
+name: 'Ervul Dranoth: Enchanter'
+script: OutsideBanner
+mesh: f\Furn_bannerD_alchemy_01.NIF

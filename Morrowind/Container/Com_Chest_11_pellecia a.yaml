@@ -1,0 +1,23 @@
+type: Container
+flags: ''
+id: Com_Chest_11_pellecia a
+name: Chest
+script: ''
+mesh: o\contain_chest10.nif
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - imperial right gauntlet
+- - 1
+  - imperial left gauntlet
+- - 1
+  - imperial_greaves
+- - 1
+  - imperial right pauldron
+- - 1
+  - imperial left pauldron
+- - 1
+  - imperial cuirass_armor
+- - 1
+  - imperial helmet armor

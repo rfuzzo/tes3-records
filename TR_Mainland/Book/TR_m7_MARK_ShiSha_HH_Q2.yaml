@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_MARK_ShiSha_HH_Q2
+name: Mirara Filansi
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: pi\m\pi_m_cnq_ngopta.dds
+enchanting: ''
+text: "After completing \"House Hlaalu: Our Prying Friends\", Mirara Filansi moves here if you swapped the documents\r\nNPC ID: TR_m7_Mirara Filansi\r\nPositionCell in script TR_m7_ShiSha_HH_Q2_sc"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

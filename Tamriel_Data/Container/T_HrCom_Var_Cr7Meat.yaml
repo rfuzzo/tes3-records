@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_HrCom_Var_Cr7Meat
+name: Crate
+script: ''
+mesh: hr\o\hr_contain_crate_07.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 6
+  - T_Hr_Random_Meat

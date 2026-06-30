@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_BrokenBottle_08
+name: Broken Bottle
+script: ''
+mesh: tr\m\tr_misc_bottlet_r01.nif
+icon: tr\m\tr_misc_bottlet_r01.dds
+data:
+  weight: 0.6
+  value: 1
+  flags: ''

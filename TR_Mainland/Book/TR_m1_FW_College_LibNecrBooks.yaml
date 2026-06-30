@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_FW_College_LibNecrBooks
+name: Necromantic Texts
+script: ''
+mesh: m\text_parchment_01.nif
+icon: m\tx_parchment_01.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>Necromantic Texts<BR> <BR><DIV ALIGN=\"Left\">\r\nThe College of Firewatch is a law-abiding institution. The Library Tower's texts on necromancy are thus for PASSIVE STUDY ONLY.\r\n<BR>\r\nPermitted texts for supervised academic study:\r\n- \"Corpse Preparation\" - Volumes I, II, III\r\n- \"Legions of the Dead\"\r\n- \"On Necromancy\"\r\n\r\nTexts under evaluation by the faculty and not yet permitted for study:\r\n- \"Fourth Book of Dust\"\r\n<BR>\r\nAll requests for access to necromantic texts must be approved personally by the Headmaster. Study of the profane tracts  \"Arkay the Enemy\", \"N'Gasta! Kvata! Kvakis!\", and \"Saka'Punika! Rahkspondu! Kvata!\" is forbidden on College grounds, and will result in disciplinary action. Any study of the King of Worms or the accursed Worm Cult will result in immediate expulsion.\r\n<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

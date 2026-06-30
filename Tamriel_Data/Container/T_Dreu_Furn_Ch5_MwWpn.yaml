@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: T_Dreu_Furn_Ch5_MwWpn
+name: Chest
+script: ''
+mesh: tr\o\tr_furn_dreu_chest_05.nif
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - 15
+  - T_Mw_Lvl_WeaponsArrow
+- - 1
+  - T_Mw_Lvl_WeaponsShortOneHand
+- - 2
+  - T_Mw_Random_Skull
+- - 20
+  - random gold

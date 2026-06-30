@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_cont_crate_m1_booze4
+name: Crate
+script: ''
+mesh: o\Contain_crate_02.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 7
+  - potion_comberry_wine_01

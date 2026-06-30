@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m2_Bthang_key2
+name: Key from Lower Bthangthamuzand
+script: ''
+mesh: m\misc_dwrv_Ark_key00.nif
+icon: m\misc_dwrv_Ark_key00.tga
+data:
+  weight: 0.0
+  value: 1
+  flags: KEY

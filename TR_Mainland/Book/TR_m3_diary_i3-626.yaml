@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_diary_i3-626
+name: Diary of Narvs Sodryth
+script: ''
+mesh: m\Text_Octavo_04.nif
+icon: m\Tx_octavo_04.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>\r\n[The book contains the diary and the studies of Narvs Sodryth.]\r\n<BR><BR>\r\nAt last! I have found a new pattern in the flowing of the magick that repeats itself so insidiously, so warily it's almost unnoticeable. <BR>\r\nIf I can reproduce this motif in itself, it would be a real breakthrough! I'm so excited... is it possible that I have found a new effect? A whole new spectrum of spells maybe!<BR><BR><BR>\r\nI was a fool, it wasn't repeating itself of course, it was just another wavering self-similarity.<BR>\r\nMysticism is like music... while in the other schools every spell is a single instrument, here only this small pattern is almost much more complex, then an orchestra. <BR>\r\nThousands of different and hidden notes creating one little vibration.<BR>\r\nI need to be patient, ambitions blinded me.<BR>\r\n<BR>"
+data:
+  weight: 3.0
+  value: 200
+  book_type: Book
+  skill: None
+  enchantment: 100

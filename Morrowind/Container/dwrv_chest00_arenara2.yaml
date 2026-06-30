@@ -1,0 +1,35 @@
+type: Container
+flags: ''
+id: dwrv_chest00_arenara2
+name: Heavy Dwemer Chest
+script: ''
+mesh: o\contain_dwrv_chest00.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - netch_leather_shield
+- - 1
+  - dwemer_shield
+- - 1
+  - netch_leather_gauntlet_right
+- - 1
+  - netch_leather_gauntlet_left
+- - 1
+  - left gauntlet of the horny fist
+- - 1
+  - netch_leather_boots
+- - 1
+  - glass_boots
+- - 1
+  - dwemer_boots
+- - 1
+  - netch_leather_pauldron_right
+- - 1
+  - netch_leather_pauldron_left
+- - 1
+  - netch_leather_boiled_cuirass
+- - 1
+  - netch_leather_boiled_helm
+- - 1
+  - netch_leather_helm

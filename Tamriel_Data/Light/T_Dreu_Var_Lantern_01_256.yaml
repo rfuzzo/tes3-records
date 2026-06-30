@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_Dreu_Var_Lantern_01_256
+name: ''
+script: ''
+mesh: tr\l\tr_l_dreu_lant_01.nif
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 256
+  color:
+  - 32
+  - 183
+  - 216
+  - 0
+  flags: DYNAMIC

@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_MwCom_Var_Bs2Kreshfbr
+name: Basket
+script: ''
+mesh: tr\o\tr_de_shack_basket_01.nif
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 15
+  - random_kresh_fiber

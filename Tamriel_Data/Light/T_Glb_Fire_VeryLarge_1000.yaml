@@ -1,0 +1,19 @@
+type: Light
+flags: PERSISTENT
+id: T_Glb_Fire_VeryLarge_1000
+name: ''
+script: ''
+mesh: tr\f\tr_act_megafire_01.nif
+icon: ''
+sound: BM big fire
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 1000
+  color:
+  - 250
+  - 196
+  - 10
+  - 0
+  flags: DYNAMIC | FIRE | FLICKER_SLOW

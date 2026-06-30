@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Imp_UNI_BladeOfKenes
+name: Blade of Kenes
+script: ''
+mesh: pc\w\pc_w_UNI_BladeKenes.nif
+icon: pc\w\pc_w_UNI_BladeKenes.dds
+enchanting: T_Strike_BladeOfKenes
+data:
+  weight: 18.0
+  value: 18000
+  weapon_type: LongBladeTwoClose
+  health: 700
+  speed: 1.6
+  reach: 1.0
+  enchantment: 600
+  chop_min: 10
+  chop_max: 22
+  slash_min: 10
+  slash_max: 22
+  thrust_min: 12
+  thrust_max: 15
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

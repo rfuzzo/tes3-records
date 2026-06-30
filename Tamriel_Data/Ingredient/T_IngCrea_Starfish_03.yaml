@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_Starfish_03
+name: Starfish Leg
+script: ''
+mesh: pi\n\pi_ing_starfish_03.nif
+icon: pi\n\pi_ing_starfish_03.dds
+data:
+  weight: 0.3
+  value: 6
+  effects:
+  - WaterBreathing
+  - WeaknessToFrost
+  - RestoreMagicka
+  - Feather
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

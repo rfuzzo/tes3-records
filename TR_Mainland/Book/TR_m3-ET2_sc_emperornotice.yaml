@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3-ET2_sc_emperornotice
+name: Emperor's Notice
+script: ''
+mesh: m\Text_Scroll_open_02.nif
+icon: m\Tx_scroll_open_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[Here are written priority matters concerning the province of Morrowind in the case of Emperor Uriel Septim VII's arrival.]<BR>\r\n<BR>"
+data:
+  weight: 1.5
+  value: 350
+  book_type: Scroll
+  skill: None
+  enchantment: 0

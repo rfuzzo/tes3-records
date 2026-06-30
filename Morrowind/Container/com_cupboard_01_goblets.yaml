@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: com_cupboard_01_goblets
+name: Cupboard
+script: ''
+mesh: o\Contain_Com_Cupboard_01.NIF
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - 4
+  - misc_com_metal_goblet_02

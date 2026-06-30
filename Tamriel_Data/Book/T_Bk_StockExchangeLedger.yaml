@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_StockExchangeLedger
+name: Stock Exchange Ledger
+script: T_ScObj_StockExchangeLedger
+mesh: pc\m\pc_bk_book_01_open.nif
+icon: pc\m\pc_bk_book_01_open.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<DIV ALIGN=\"LEFT\">[This ledger holds the market prices of the company stocks listed at the stock exchange. You skip to today's share prices.]<BR><BR>\r\n(ATC) Abecean Trading Company: %T_Glob_StockpriceATC septims [%T_Glob_StockCompareATC septims on your last transaction. Number of shares you own: %T_Glob_StockCountPlayerATC.]<BR><BR>\r\n(CMC) Caldera Mining Company: %T_Glob_StockpriceCMC septims [%T_Glob_StockCompareCMC septims on your last transaction. Number of shares you own: %T_Glob_StockCountPlayerCMC.]<BR><BR>\r\n(CWA) Colovian Wagoners Association: %T_Glob_StockpriceCWA septims [%T_Glob_StockCompareCWA septims on your last transaction. Number of shares you own: %T_Glob_StockCountPlayerCWA.]<BR><BR>\r\n(EEC) East Empire Company: %T_Glob_StockpriceEEC septims [%T_Glob_StockCompareEEC septims on your last transaction. Number of shares you own: %T_Glob_StockCountPlayerEEC.]<BR><BR>\r\n(NWT) North Wind Traders: %T_Glob_StockpriceNWT septims [%T_Glob_StockCompareNWT septims on your last transaction. Number of shares you own: %T_Glob_StockCountPlayerNWT.]<BR><BR>\r\n(RHC) Royal Haafingar Company: %T_Glob_StockpriceRHC septims [%T_Glob_StockCompareRHC septims on your last transaction. Number of shares you own: %T_Glob_StockCountPlayerRHC.]<BR><BR>\r\n(STC) Southpoint Trading Company: %T_Glob_StockpriceSTC septims [%T_Glob_StockCompareSTC septims on your last transaction. Number of shares you own: %T_Glob_StockCountPlayerSTC.]<BR><BR>\r\n(WSC) White Scarab Company: %T_Glob_StockpriceWSC septims [%T_Glob_StockCompareWSC septims on your last transaction. Number of shares you own: %T_Glob_StockCountPlayerWSC.]<BR><BR>\r\n<BR>"
+data:
+  weight: 2.0
+  value: 100
+  book_type: Book
+  skill: None
+  enchantment: 0

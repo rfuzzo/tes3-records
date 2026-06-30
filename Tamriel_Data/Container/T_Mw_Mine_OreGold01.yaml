@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Mw_Mine_OreGold01
+name: Raw Gold
+script: ''
+mesh: TR\o\TR_cont_rock_gold_01.nif
+encumbrance: 0.0
+container_flags: ORGANIC | IS_BASE
+inventory:
+- - 8
+  - T_Mw_Random_OreGold

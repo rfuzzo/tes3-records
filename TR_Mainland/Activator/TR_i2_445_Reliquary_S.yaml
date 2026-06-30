@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_i2_445_Reliquary_S
+name: Reliquary
+script: TR_m2_445_sc_Reliquary_S
+mesh: tr\f\TR_act_nec_uc_reliqry.nif

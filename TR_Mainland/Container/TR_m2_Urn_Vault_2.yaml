@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: TR_m2_Urn_Vault_2
+name: Urn
+script: ''
+mesh: o\Contain_urn_03.NIF
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - chitin boots
+- - 1
+  - chitin cuirass
+- - 1
+  - chitin greaves

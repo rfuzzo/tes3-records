@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: AB_IngCrea_KwamaPoison
+name: Kwama Poison
+script: ''
+mesh: OAAB\n\acidCystIngred.nif
+icon: OAAB\n\ingred_acidCyst.tga
+data:
+  weight: 0.1
+  value: 1
+  effects:
+  - Poison
+  - None
+  - None
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

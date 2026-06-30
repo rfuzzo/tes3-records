@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m1_FG_Forcefield
+name: ''
+script: TR_m1_q_Nas_ForceField
+mesh: f\Active_MH_Forcefield.NIF

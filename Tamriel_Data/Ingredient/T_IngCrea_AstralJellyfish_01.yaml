@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_AstralJellyfish_01
+name: Astral Jellyfish
+script: ''
+mesh: pi\n\pi_ing_astraljellyfish.nif
+icon: pi\n\pi_ing_astraljellyfish.dds
+data:
+  weight: 1.0
+  value: 4
+  effects:
+  - Paralyze
+  - RestoreHealth
+  - DrainFatigue
+  - NightEye
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

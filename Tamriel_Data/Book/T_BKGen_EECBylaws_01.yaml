@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_BKGen_EECBylaws_01
+name: EEC By-laws
+script: ''
+mesh: TR\m\TR_book_closed_i11_AY.nif
+icon: TR\m\TR_book_closed_i11_AY.dds
+enchanting: ''
+text: "I<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\n[This book details the various by-laws of the East Empire Company.]\r\n<BR>"
+data:
+  weight: 3.0
+  value: 5
+  book_type: Book
+  skill: None
+  enchantment: 0

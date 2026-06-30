@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Ayl_Regular_WarAxe_01
+name: Ayleid War Axe
+script: ''
+mesh: pc\w\pc_w_ayl_axe01.nif
+icon: pc\w\pc_w_ayl_axe01.dds
+enchanting: ''
+data:
+  weight: 22.0
+  value: 700
+  weapon_type: AxeOneHand
+  health: 650
+  speed: 1.25
+  reach: 1.0
+  enchantment: 200
+  chop_min: 4
+  chop_max: 27
+  slash_min: 1
+  slash_max: 16
+  thrust_min: 1
+  thrust_max: 2
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

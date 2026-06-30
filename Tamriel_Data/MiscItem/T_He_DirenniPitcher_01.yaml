@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_He_DirenniPitcher_01
+name: Direnni Pitcher
+script: ''
+mesh: sky\m\sky_misc_dptchr_01.nif
+icon: sky\m\tx_misc_dptchr_01.dds
+data:
+  weight: 5.0
+  value: 30
+  flags: ''

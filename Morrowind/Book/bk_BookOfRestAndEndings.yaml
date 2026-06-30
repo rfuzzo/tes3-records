@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: bk_BookOfRestAndEndings
+name: Book of Rest and Endings
+script: ''
+mesh: m\Text_Octavo_05.NIF
+icon: m\Tx_book_04.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[The pages of the BOOK OF REST AND ENDINGS are filled with obscure bits of cult mumbo-jumbo.]<BR>\r\n<BR>\r\nTHE RITUAL FOR ENDING OF WRATHMEN<BR>\r\n<BR>\r\nFrom fifty Fathers<BR>\r\nFrozen in slavepast<BR>\r\nRip from the wraithloom<BR>\r\nSunder the lifeweave<BR>\r\nLock tight in earthgrip<BR>\r\nHold firm in gravefast<BR>\r\n<BR>\r\n"
+data:
+  weight: 3.0
+  value: 40
+  book_type: Book
+  skill: None
+  enchantment: 0

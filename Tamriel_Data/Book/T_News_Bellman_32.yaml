@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Bellman_32
+name: DAGOTH UR DESTROYED
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_note_oe_news.nif
+icon: tr\m\tr_note_oe_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\TR_bellman_512_256.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nDAGOTH UR DEFEATED<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nDagoth Ur, the immortal enemy of the Dark Elven people and the source of the corruption at the heart of Vvardenfell, has been vanquished. This feat is attributed to the heroic %PCRace %PCName, an agent of our Emperor, who strode into Red Mountain and did battle with the ancient devil and his host of malformed monsters. Details of the events that transpired beneath Red Mountain are scarce, but it is clear that our Empire has won a great victory against the forces that seek to destabilize it.<br><br>\n\nThough little was known about the exact nature of the devil Dagoth Ur, it was well established that the Red Mountain region was home to an insidious and expanding threat to the Imperial province of Morrowind. Conflicting sources characterized Dagoth Ur as either an exceptionally powerful sorcerer, a malevolent spirit, a fallen demigod, or a metaphor for the depravity of man and mer. Whatever the case may be, the entity appears to have been at the center of a dangerous cult of Dark Elf separatists. Normally tight-lipped sources in the upper echelons of the Imperial administration confirmed that the Emperor himself had taken a keen interest in the threat posed by Dagoth Ur and his worshippers. Their defeat proves once more that nothing can withstand the might of the Emperor, long may he reign!<br><br>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nVVARDENFELL BLIGHT STORMS RECEDE<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nScouts report that along with the fall of Dagoth Ur, blight storms have entirely receded from Red Mountain. The sickening mystical ash storms once engulfed the region with no interruption, but skies are now clear around central Vvardenfell for the first time in Imperial memory. This calls for quick action in securing Imperial land grants: the untapped resources of Red Mountain could enrich the Empire in Morrowind for generations to come.<br><br>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

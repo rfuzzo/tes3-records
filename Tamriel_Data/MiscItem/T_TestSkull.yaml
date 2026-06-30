@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_TestSkull
+name: Testing Skull
+script: T_ScTest_SkullTR
+mesh: m\misc_skull10.nif
+icon: m\misc_skull10.tga
+data:
+  weight: 0.5
+  value: 0
+  flags: ''

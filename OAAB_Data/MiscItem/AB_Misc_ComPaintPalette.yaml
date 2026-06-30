@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_ComPaintPalette
+name: Palette
+script: ''
+mesh: OAAB\m\paint_palette.nif
+icon: OAAB\m\paint_palette.tga
+data:
+  weight: 2.5
+  value: 28
+  flags: ''

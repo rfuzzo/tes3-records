@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: TR_m1_GrazgobCrate01
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - TR_m1_GrazgobShield
+- - 15
+  - random gold

@@ -1,0 +1,41 @@
+type: Container
+flags: ''
+id: T_MwCom_Furn_Ch2MercAr1
+name: Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - -50
+  - T_Com_Steel_Arrow_CruelFirestrm
+- - -50
+  - T_Com_Steel_Arrow_CruelFrostB
+- - -50
+  - T_Com_Steel_Arrow_CruelPoisonCl
+- - -50
+  - T_Com_Steel_Arrow_CruelShockSph
+- - -50
+  - arrow of wasting flame
+- - -50
+  - arrow of wasting shard
+- - -50
+  - arrow of wasting spark
+- - -50
+  - arrow of wasting viper
+- - -50
+  - bonemold arrow
+- - -50
+  - chitin arrow
+- - -50
+  - corkbulb arrow
+- - -50
+  - cruel flamearrow
+- - -50
+  - cruel frostarrow
+- - -50
+  - cruel shardarrow
+- - -50
+  - cruel sparkarrow
+- - -50
+  - cruel viperarrow

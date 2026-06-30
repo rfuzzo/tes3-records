@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_De_Glass_Flamemauler_01
+name: Glass Flamemauler
+script: ''
+mesh: tr\w\tr_w_glass_warhammer.nif
+icon: tr\w\tr_w_glass_warhammer.dds
+enchanting: cruel flame_en
+data:
+  weight: 21.0
+  value: 18500
+  weapon_type: BluntTwoClose
+  health: 1800
+  speed: 1.0
+  reach: 1.5
+  enchantment: 35
+  chop_min: 1
+  chop_max: 48
+  slash_min: 1
+  slash_max: 43
+  thrust_min: 1
+  thrust_max: 3
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

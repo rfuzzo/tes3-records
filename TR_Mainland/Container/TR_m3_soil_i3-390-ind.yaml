@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m3_soil_i3-390-ind
+name: Sack of Potting Soil
+script: ''
+mesh: o\Contain_Com_Sack_01.NIF
+encumbrance: 25.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 5
+  - TR_m3_dirt_i3-390-ind

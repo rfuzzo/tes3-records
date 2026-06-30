@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Imp_Legion_Club_01
+name: Imperial Club
+script: ''
+mesh: tr\w\tr_w_imp_club.nif
+icon: tr\w\tr_w_imp_club.dds
+enchanting: ''
+data:
+  weight: 13.0
+  value: 15
+  weapon_type: BluntOneHand
+  health: 500
+  speed: 1.5
+  reach: 1.0
+  enchantment: 45
+  chop_min: 3
+  chop_max: 4
+  slash_min: 2
+  slash_max: 3
+  thrust_min: 2
+  thrust_max: 3
+  flags: ''

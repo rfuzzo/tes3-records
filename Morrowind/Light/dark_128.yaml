@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: dark_128
+name: ''
+script: ''
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 128
+  color:
+  - 255
+  - 255
+  - 255
+  - 0
+  flags: NEGATIVE

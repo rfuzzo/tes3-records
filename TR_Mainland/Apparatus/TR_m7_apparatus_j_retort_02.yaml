@@ -1,0 +1,12 @@
+type: Apparatus
+flags: PERSISTENT
+id: TR_m7_apparatus_j_retort_02
+name: Journeyman's Retort
+script: TR_m7_SM_j_retort_disable
+mesh: m\Apparatus_J_Retort_01.nif
+icon: m\Tx_retort_02.tga
+data:
+  apparatus_type: Retort
+  quality: 1.0
+  weight: 6.0
+  value: 80

@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: TR_m3_Bos6_table1
+name: Table
+script: ''
+mesh: o\Contain_De_Table_01.NIF
+encumbrance: 25.0
+container_flags: IS_BASE
+inventory:
+- - 24
+  - Gold_001
+- - 1
+  - ingred_ash_yam_01

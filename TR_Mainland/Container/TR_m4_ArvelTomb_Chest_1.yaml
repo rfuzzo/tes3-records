@@ -1,0 +1,19 @@
+type: Container
+flags: PERSISTENT
+id: TR_m4_ArvelTomb_Chest_1
+name: Chest
+script: TR_m4_DisableOnce_scp
+mesh: o\Contain_De_Chest_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 100
+  - Gold_001
+- - 1
+  - T_IngMine_Garnet_01
+- - 2
+  - T_IngMine_TopazBlue_01
+- - 1
+  - T_IngMine_Topaz_01
+- - 50
+  - random gold

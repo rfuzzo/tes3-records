@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: bk_BoethiahPillowBook
+name: Boethiah's Pillow Book
+script: ''
+mesh: m\Text_Octavo_03.NIF
+icon: m\Tx_octavo_03.tga
+enchanting: ''
+text: '[No words can describe what you see. Or what you think you see.]<BR>'
+data:
+  weight: 10.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 0

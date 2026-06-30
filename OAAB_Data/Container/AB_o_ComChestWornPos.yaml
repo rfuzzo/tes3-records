@@ -1,0 +1,21 @@
+type: Container
+flags: ''
+id: AB_o_ComChestWornPos
+name: Rusted Chest
+script: ''
+mesh: o\contain_chest10.nif
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - AB_lvl_BanditGoods
+- - 5
+  - AB_lvl_Gold001
+- - 1
+  - AB_lvl_LootSpecial
+- - 1
+  - AB_lvl_PosCheapAll
+- - 30
+  - random_loot_special_marksman
+- - 1
+  - random_potion_attribute_restore

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: AB_Info_LightRay
+name: InfoBox - Light Rays
+script: ''
+mesh: OAAB\h\marker_info.nif
+icon: OAAB\h\marker_info.tga
+enchanting: ''
+text: "Deactivates at night\r\n\r\nUse with \"AB_light@_Day####\" ( LIGH ) which also deactivate at night\r\n\r\nCan be used along with \"AB_Fx_DarkHole_a\" ( ACTI ) which activates at night."
+data:
+  weight: 0.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 100

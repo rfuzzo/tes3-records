@@ -1,0 +1,23 @@
+type: Clothing
+flags: ''
+id: TR_m1_q_TT_2_Reward
+name: Robe of Llothis' Piety
+script: ''
+mesh: TR\c\TR_com_h_robe_AA01_GND.nif
+icon: TR\c\TR_com_h_robe_AA01.dds
+enchanting: TR_m1_q_TT_2_Reward_Ench
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_C_DeCmRobe01_C
+  female_bodypart: ''
+- biped_object_type: LeftAnkle
+  male_bodypart: ''
+  female_bodypart: ''
+- biped_object_type: RightAnkle
+  male_bodypart: ''
+  female_bodypart: ''
+data:
+  clothing_type: Robe
+  weight: 3.0
+  value: 300
+  enchantment: 215

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_De_Set_BannerTownDarnimW_01
+name: Ildrim
+script: OutsideBanner
+mesh: tr\f\tr_banner_ildrim.nif

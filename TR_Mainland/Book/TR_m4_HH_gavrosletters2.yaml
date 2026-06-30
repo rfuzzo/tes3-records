@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_HH_gavrosletters2
+name: Letter to Honon Falas
+script: TR_m4_HH_GavrosLetterScript
+mesh: m\Text_Parchment_02.nif
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nDear Honon, <BR>\r\n<BR>\r\nI know you worry about me, my dear nephew, but I ask you to remember I have been in this business longer than you have. I know what I am doing! <BR>\r\n<BR>\r\nNo, the trade partnership with the Indoril did not pan out, but my patronage by House Hlaalu should more than compensate. I find the rumors of the Morrowind House Wars to be overstated: Darane Navur was very well-mannered, even if her head was stuck too firmly into the edicts of the Temple. If she is to start trouble, then she is far more subtle than her demeanor would have me believe. I would expect that level of trickery out of an Ashlander, not the civilized folk in Almas Thirr! <BR>\r\n<BR>\r\nI haven't given up yet, however. Just last night my contact left me a message saying to meet her in the cave of Molkobal. I expect we will have this deal signed and sealed by tomorrow, and I will no longer have to worry about the native sentiments getting in the way of trading such cultural curiosities as these ash statues. The history behind them is rich, and I imagine them bringing good prices among collectors back in the homeland. I cannot understand why the Camonna Tong would be so adverse to their trade? All true smugglers want is profit, and even these bigots should be pleased that their culture is spreading to all corners of the Empire. Judging by their threats, they are more upset by me cutting in on their profits than they are by me breaking their laws. You'll learn the native Morrowind elves are a very hypocritical people, Honon.<BR>\r\n<BR>\r\nMay this tide you over until my next letter,<BR>\r\nUncle Gavros <BR>\r\n<BR>"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 100

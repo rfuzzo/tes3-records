@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: AB_bk_AlchemistFlora5
+name: Vvardenfell Flora Volume V
+script: ''
+mesh: OAAB\m\Text_BoV_Flora_V5.nif
+icon: OAAB\m\Tx_bov_FloraV.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nVvardenfell Flora Volume V<BR>\r\nAn Herbalists Guide to Grazelands<BR><BR>\r\nby Madame Mary Madrigal<BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nVvardenfell, a large island of the province Morrowind, has many unique plants with interesting alchemical properties. This series focuses on Vvardenfell's different regions, and the plants most commonly found within them.<BR>\r\n<BR>\r\n<BR>\r\nThe Grazelands are grassy plains on the northeastern edge of Vvardenfell. Due east of the barren Ashlands, the Grazelands are protected from ash storms by a vast mountain range. Stoneflowers, previously covered in the West Gash volume, also grow in this temperate, semi-arid region. Though there is not much floral variety in this area, there is certainly abundance. The soil is fertile, perfect for farmland, but the land remains wild and untamed. This pastoral landscape is fraught with danger, as it it also home to roaming Daedra. Locals fear to stray too far from the roads, sticking closely to established settlements. There are also several Ashlander camps in this region.<BR>\r\n<BR>\r\nHackle-Lo<BR>\r\n<BR>\r\nHackle-lo is a large palm, consisting of a trunk of soft prickly fibers topped by a frond of long green leaves. Coastal hackle-lo are often shorter and look like ferns, due to environmental differences in light levels, predators, and competition. Though hackle-lo is found across Vvardenfell's coastal regions, it thrives in the southern Grazelands near Falensarano. Here, the hackle-lo stand tall as they did, across the continent, in ages past. Hackle-lo is in danger of extinction as the Ashlands creep ever closer to the coasts. Despite hackle-lo's rough exterior, this plant is delicate, and ash storms are deadly to it. Despite the plant's dwindling numbers, hackle-lo leaf remains a common local food source.<BR>\r\n<BR>\r\nAlchemical Properties:<BR>\r\n<BR>\r\nRestore Fatigue<BR>\r\nParalyze<BR>\r\nWater Breathing<BR>\r\nRestore Luck<BR>\r\n<BR>\r\n<BR>\r\nWickwheat<BR>\r\n<BR>\r\nThe Grazelands thrives with wickwheat, growing like weeds in the area. It is the most abundant plant in Vvardenfell, yet it is hardly used as a common food source. More Dunmer use wickwheat to patch their roofs than eat it; one wonders why. It has restorative properties when eaten, and makes fine bread. However, most locals prefer bread made with saltrice.<BR>\r\n<BR>\r\nAlchemical Properties:<BR>\r\n<BR>\r\nRestore Health<BR>\r\nFortify Willpower<BR>\r\nParalyze<BR>\r\nDamage Intelligence<BR>\r\n<BR>\r\n<BR>\r\nThus concludes the volume on the Grazelands. The next volume discusses the flora found in Azura's Coast and Sheogorad. Until then, dear reader.<BR>"
+data:
+  weight: 3.0
+  value: 300
+  book_type: Book
+  skill: None
+  enchantment: 20

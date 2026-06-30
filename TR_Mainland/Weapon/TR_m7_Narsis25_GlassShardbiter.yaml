@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m7_Narsis25_GlassShardbiter
+name: Glass Shardbiter
+script: ''
+mesh: TR\w\tr_w_glass_wakazashi.nif
+icon: TR\w\tr_w_glass_wakazashi.dds
+enchanting: freezing touch_en
+data:
+  weight: 7.0
+  value: 8700
+  weapon_type: ShortBladeOneHand
+  health: 280
+  speed: 2.25
+  reach: 1.0
+  enchantment: 33
+  chop_min: 1
+  chop_max: 21
+  slash_min: 1
+  slash_max: 22
+  thrust_min: 1
+  thrust_max: 17
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_NVA8_fish02
+name: ''
+script: TR_m7_NVA_Stage8_Persist
+mesh: tr\x\MomoFishBeheaded02.nif

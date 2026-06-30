@@ -1,0 +1,25 @@
+type: Ingredient
+flags: PERSISTENT
+id: ingred_bread_01_UNI2
+name: Bread
+script: ''
+mesh: n\Ingred_bread_01.NIF
+icon: m\Tx_bread_01.tga
+data:
+  weight: 0.2
+  value: 1
+  effects:
+  - RestoreFatigue
+  - None
+  - None
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

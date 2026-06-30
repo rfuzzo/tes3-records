@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: T_SkyCom_Var_BlFl3Dri
+name: Floating Barrel
+script: Float
+mesh: Sky\o\Sky_Cont_Barrel_03.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - T_Nor_Drink_Beer_01
+- - 1
+  - T_Sky_Random_Drinks

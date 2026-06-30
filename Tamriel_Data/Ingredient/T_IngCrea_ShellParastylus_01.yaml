@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_ShellParastylus_01
+name: Parastylus Shell Fragment
+script: ''
+mesh: TR\n\TR_Ing_Parastylus_Shel.nif
+icon: TR\n\TR_Ing_Parastylus_Shel.dds
+data:
+  weight: 0.7
+  value: 10
+  effects:
+  - Jump
+  - DamageMagicka
+  - Blind
+  - RestoreAttribute
+  skills:
+  - None
+  - None
+  - None
+  - Block
+  attributes:
+  - None
+  - None
+  - None
+  - Endurance

@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_MwDe_SetInd_Cul1Velk
+name: Culdem
+script: ''
+mesh: TR\o\TR_cont_Ind_01.nif
+encumbrance: 60.0
+container_flags: IS_BASE
+inventory:
+- - 5
+  - T_Mw_Random_FaunVelkSac

@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: Act_BM_tree_01
+name: First Tree Seedling
+script: ''
+mesh: f\Act_BM_tree_03.NIF

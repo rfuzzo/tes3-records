@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: AB_Info_DwrvStove
+name: InfoBox - Dwemer Stove
+script: ''
+mesh: OAAB\h\marker_info.nif
+icon: OAAB\h\marker_info.tga
+enchanting: ''
+text: "This dwemer stove can be hooked up the pipe kit at 1/2 scale.\r\n\r\nThe stove door attached to this is set up as a door so that it can be opened by the player."
+data:
+  weight: 0.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 100

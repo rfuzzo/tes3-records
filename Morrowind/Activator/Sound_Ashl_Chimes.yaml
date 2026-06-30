@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: Sound_Ashl_Chimes
+name: Sound_Ashl_Chimes
+script: Sound_chimes_wood
+mesh: EditorMarker.NIF

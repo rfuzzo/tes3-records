@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_FW_College_MusDeTomb
+name: Ancestral Tombs
+script: ''
+mesh: m\text_parchment_01.nif
+icon: m\tx_parchment_01.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nAncestral Tombs<BR> <BR>\r\n<DIV ALIGN=\"LEFT\">\r\nThe burial customs of the Dark Elves are shrouded in traditions and rituals that date back to the ancient Velothi tribes of Resdayn. For millennia, Dark Elven clans have maintained ancestral tombs to both inter and venerate their departed kin. The people of Morrowind are intensely private about this sacred relationship with their ancestors, and rarely allow outsiders into these burial chambers. Much of modern Western knowledge of the ancestral tombs therefore comes from the many ruined and abandoned burials found throughout the Province. Long after their abandonment, many of these burial grounds are still haunted by the spirits of the extinct families. To foreign eyes, the magicks that animate these sentries resemble nothing so much as necromancy. But the Dark Elves emphasize the distinctive characteristics of their ancestor worship, and despise necromancy in its more typical forms.\r\n<BR>\r\nThis ancient urn and coffer were recovered in 402 from an abandoned ancestral tomb on the Nedweisra Peninsula, now fallen into ruin.\r\n<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

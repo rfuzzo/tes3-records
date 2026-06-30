@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_Draketail_01
+name: Draketail Webbing
+script: ''
+mesh: hr\n\hr_Ingr_Draketail_01.nif
+icon: hr\n\hr_ing_Draketail.dds
+data:
+  weight: 0.8
+  value: 15
+  effects:
+  - DrainAttribute
+  - FortifyAttribute
+  - FireShield
+  - Paralyze
+  skills:
+  - Block
+  - Block
+  - None
+  - None
+  attributes:
+  - Endurance
+  - Luck
+  - None
+  - None

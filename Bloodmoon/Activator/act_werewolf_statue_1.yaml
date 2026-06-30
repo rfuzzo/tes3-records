@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: act_werewolf_statue_1
+name: Werewolf Ice Statue
+script: werestatue1Script
+mesh: i\act_werewolf_statue.NIF

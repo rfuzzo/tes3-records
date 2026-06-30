@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Nor_Orn_Club_01
+name: Nordic Club
+script: ''
+mesh: tr\w\tr_w_nordic_club.nif
+icon: tr\w\tr_w_nordic_club.dds
+enchanting: ''
+data:
+  weight: 13.6
+  value: 50
+  weapon_type: BluntOneHand
+  health: 600
+  speed: 1.5
+  reach: 1.0
+  enchantment: 40
+  chop_min: 8
+  chop_max: 8
+  slash_min: 4
+  slash_max: 6
+  thrust_min: 4
+  thrust_max: 6
+  flags: ''

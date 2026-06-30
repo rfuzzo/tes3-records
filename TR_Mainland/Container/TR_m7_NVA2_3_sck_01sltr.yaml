@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m7_NVA2_3_sck_01sltr
+name: Sack
+script: TR_m7_NVA_Stage2_3
+mesh: o\Contain_Com_Sack_01.NIF
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 5
+  - ingred_saltrice_01

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_DwrvToolClamp
+name: Dwemer Clamp Tool
+script: ''
+mesh: OAAB\m\dwrvToolClamp.nif
+icon: OAAB\m\dwrvToolClamp.dds
+data:
+  weight: 4.0
+  value: 30
+  flags: ''

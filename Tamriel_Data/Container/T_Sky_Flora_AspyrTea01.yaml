@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Sky_Flora_AspyrTea01
+name: Aspyr Tea
+script: ''
+mesh: Sky\o\Sky_Flora_Aspyr_T_01.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - T_Sky_Random_FlorAspyrTea

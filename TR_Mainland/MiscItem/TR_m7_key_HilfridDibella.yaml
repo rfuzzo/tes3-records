@@ -1,0 +1,11 @@
+type: MiscItem
+flags: PERSISTENT
+id: TR_m7_key_HilfridDibella
+name: Hilfrid's Chapel of Dibella Key
+script: TR_m7_IC_TempleKeySc
+mesh: tr\m\tr_key_dd22.nif
+icon: tr\m\tr_key_dd22.dds
+data:
+  weight: 0.0
+  value: 10
+  flags: KEY

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_DreughGreatmace
+name: Dreugh Greatmace
+script: ''
+mesh: OAAB\w\dreugh_greatmace.nif
+icon: OAAB\w\dreugh_greatmace.tga
+enchanting: ''
+data:
+  weight: 29.1
+  value: 1000
+  weapon_type: BluntTwoClose
+  health: 2700
+  speed: 1.0
+  reach: 1.5
+  enchantment: 50
+  chop_min: 1
+  chop_max: 36
+  slash_min: 1
+  slash_max: 32
+  thrust_min: 1
+  thrust_max: 6
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

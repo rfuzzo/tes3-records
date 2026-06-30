@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: TR_m3_logo2_i3-58-ind
+name: Crate
+script: ''
+mesh: o\contain_DE_crate_logo.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - T_Mw_Random_FaunOrnadaEgg
+- - 1
+  - T_Mw_Random_FaunOrnadaMeat

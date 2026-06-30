@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: misc_de_muck_shovel_01
+name: Muck Shovel
+script: ''
+mesh: m\Misc_muck_shovel_01.NIF
+icon: m\Tx_muck_shovel_01.tga
+data:
+  weight: 3.0
+  value: 1
+  flags: ''

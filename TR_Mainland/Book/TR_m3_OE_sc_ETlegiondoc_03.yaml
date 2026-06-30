@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_OE_sc_ETlegiondoc_03
+name: Letter from Varus Vantinius
+script: ''
+mesh: m\Text_paper_roll_01.nif
+icon: m\Tx_paper_roll_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nLord General! <br> <br>\r\nIt is my sad duty to inform you that the Armor of Morihaus, the Lord's Mail, has disappeared from its shrine in Ebonheart-on-Vvardenfell. Magistrate Rufinus Alleius, whose responsibility the relic ultimately was, presumes that it has been stolen. <br>\r\nSeveral suspects have already been jailed and properly interrogated. Rest assured that I have my best men working on the case and that we will find the Lord's Mail. <br> <br>\r\nSigned, <br>\r\nSir Varus Vantinius <br>\r\nKnight of the Imperial Dragon on Vvardenfell <br> <br>\r\nPS On a related note: we have identified the culprit behind the theft of Chrysamere. A Dark Elven witch. She is still on the run, but not for long! <br>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_sc_note_abandonment
+name: Notice of Abandonment
+script: ''
+mesh: m\Text_Parchment_02.nif
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nAttention:<BR>\r\n<BR>\r\n    Due to our unfortunate financial situation, the Verdunasha-Beracavada Egg Mine has been shut down permanently.  This mine is off limits to anyone without prior consent.  Going beyond this point is strictly prohibited.  You must turn back immediately.  Failure to do so promptly is punishable by law.  <BR>\r\n<BR>\r\n    Thank you.<BR>\r\n<BR>\r\nVaranit Suavyn,<BR>\r\n Mine Supervisor  <BR>  \r\n          \r\n"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

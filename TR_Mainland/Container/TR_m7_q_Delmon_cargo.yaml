@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: TR_m7_q_Delmon_cargo
+name: Barrels
+script: TR_m7_q_Delmon_cargo_sc
+mesh: tr\o\tr_cont_barrels_r_01.nif
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - 10
+  - T_IngFood_FishSlaughterDried_01
+- - 20
+  - T_IngFood_FishSlaughterDried_02
+- - 50
+  - T_IngFood_FishSlaughterDried_03
+- - 40
+  - ingred_crab_meat_01

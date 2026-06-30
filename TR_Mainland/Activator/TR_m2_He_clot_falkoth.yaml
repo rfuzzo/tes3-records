@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m2_He_clot_falkoth
+name: 'Falkoth: Clothier'
+script: SignRotate
+mesh: tr\f\tr_act_sign_cloth_02.nif

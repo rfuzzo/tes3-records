@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_Set_Shrine_SaintColo_02
+name: Shrine of St. Kantus
+script: T_ScObj_ShrineSaintColoPC
+mesh: pc\x\pc_ex_wshrn_09.nif

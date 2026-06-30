@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: ex_t_pc_hold_housepod_02c
+name: ''
+script: Strong3
+mesh: x\Ex_T_housepod_02.nif

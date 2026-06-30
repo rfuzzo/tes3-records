@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_Ns_FG_4_NayalimmuJournal
+name: Nayalimmu's Journal
+script: TR_m7_Ns_FG_4_ScFindJour
+mesh: tr\m\tr_book_notebk_05.nif
+icon: tr\m\tr_book_closed_ntbk05.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This journal's entries go back for some time, but a few of the most recent ones catch your eye.]\r\n<BR>\r\n<BR>\r\nWell, the Legion finally put a bounty out for me. Never good to see your name on a wanted poster, but I think we're safe enough here. Barano worries, but he always does. I say that any threats from second-rate soldiers in a backwater town are empty ones.\r\n<br>\r\n<br>\r\nAnother raid today. It went well enough, although Gurma almost had her throat cut by a merchant who tried to get smart with a hidden dagger. Don't know what the fool was thinking, after we killed his guards. Didn't have a chance to think for long, anyway.\r\n<BR>\r\n<BR>\r\nBarano is really getting nervous about that bounty. Says we've made a good haul, but we should try moving someplace else. I think I'm actually beginning to agree with him, but I'll be damned if we leave this town without one last raid. And I think I know where it's going to be.\r\n<BR>\r\n<BR>\r\nI sent Edjod into town today. It was risky, but no one seemed to recognize her without her helmet on. And better yet, I think the raid will work. Edjod paid some pauper -- Thalvys Berethi, I think his name was -- to watch the warehouse for us. He makes a distraction, lets us know about it, we get in without worrying about the guards, and we all leave rich. It's perfect. <BR> "
+data:
+  weight: 0.5
+  value: 10
+  book_type: Book
+  skill: None
+  enchantment: 0

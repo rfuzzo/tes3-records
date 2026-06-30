@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_NVA7_dock_steps01
+name: ''
+script: TR_m7_NVA_Stage7
+mesh: x\Ex_De_Docks_Steps_01.NIF

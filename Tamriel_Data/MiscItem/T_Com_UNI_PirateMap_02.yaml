@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_UNI_PirateMap_02
+name: Map
+script: ''
+mesh: pc\m\PC_Misc_PMap_02.nif
+icon: pc\m\pc_misc_pmap_02.dds
+data:
+  weight: 1.0
+  value: 1
+  flags: ''

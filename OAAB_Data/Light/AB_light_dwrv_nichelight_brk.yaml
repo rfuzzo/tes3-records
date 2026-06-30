@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: AB_light_dwrv_nichelight_brk
+name: ''
+script: ''
+mesh: OAAB\l\dwrvNichebulbBrk.nif
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 16
+  color:
+  - 252
+  - 152
+  - 152
+  - 0
+  flags: NEGATIVE | FLICKER

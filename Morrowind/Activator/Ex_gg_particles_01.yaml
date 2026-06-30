@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: Ex_gg_particles_01
+name: ''
+script: GhostfenceScript
+mesh: x\Ex_gg_particles_01.NIF

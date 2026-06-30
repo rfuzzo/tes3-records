@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_Spyglass01
+name: Spyglass
+script: ''
+mesh: pi\m\pi_m_spyglass01.nif
+icon: pi\m\pi_m_spyglass01.dds
+data:
+  weight: 1.0
+  value: 75
+  flags: ''

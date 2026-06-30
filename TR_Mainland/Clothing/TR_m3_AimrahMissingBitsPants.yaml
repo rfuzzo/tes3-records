@@ -1,0 +1,35 @@
+type: Clothing
+flags: ''
+id: TR_m3_AimrahMissingBitsPants
+name: Pants of Missing Bits
+script: ''
+mesh: TR\c\TR_c_extr_pants_01_GND.nif
+icon: TR\c\TR_extrav_pants_01.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Groin
+  male_bodypart: T_C_DeEtPants01_G
+  female_bodypart: ''
+- biped_object_type: LeftFoot
+  male_bodypart: ''
+  female_bodypart: ''
+- biped_object_type: LeftKnee
+  male_bodypart: T_C_DeEtPants01_K
+  female_bodypart: ''
+- biped_object_type: LeftUpperLeg
+  male_bodypart: T_C_DeEtPants01_UL
+  female_bodypart: ''
+- biped_object_type: LeftAnkle
+  male_bodypart: ''
+  female_bodypart: ''
+- biped_object_type: RightKnee
+  male_bodypart: T_C_DeEtPants01_K
+  female_bodypart: ''
+- biped_object_type: RightUpperLeg
+  male_bodypart: T_C_DeEtPants01_UL
+  female_bodypart: ''
+data:
+  clothing_type: Pants
+  weight: 2.0
+  value: 60
+  enchantment: 300

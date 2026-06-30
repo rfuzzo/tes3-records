@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Com_Var_BearTrapDisarmed_01
+name: Bear Trap (Disarmed)
+script: T_ScObj_BearTrap_Dis
+mesh: tr\f\tr_act_beartrap_o_01.nif

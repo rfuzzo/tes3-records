@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngMine_AmberDae_01
+name: Amber
+script: BILL_MarksDaedraSummon
+mesh: sky\n\sky_ingred_amber_02.nif
+icon: sky\n\tx_ingred_amber_02.dds
+data:
+  weight: 0.2
+  value: 100
+  effects:
+  - Paralyze
+  - LightningShield
+  - WaterWalking
+  - FireShield
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

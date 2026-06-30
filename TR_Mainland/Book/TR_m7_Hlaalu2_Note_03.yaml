@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_Hlaalu2_Note_03
+name: Shift Schedule
+script: ''
+mesh: m\Text_Parchment_02.NIF
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n[This schedule outlines the shifts of the Hlaalu Second Family's private guard detail, signed by the High Hlaalu's head of security.]<BR>"
+data:
+  weight: 1.2
+  value: 5
+  book_type: Scroll
+  skill: None
+  enchantment: 0

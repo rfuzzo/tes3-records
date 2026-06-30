@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m4_Andoth_AndasMassageTable
+name: Massage Table
+script: TR_m4_Andoth_AndasTable_scp
+mesh: pc\f\PC_Active_Ex_Bedroll.nif

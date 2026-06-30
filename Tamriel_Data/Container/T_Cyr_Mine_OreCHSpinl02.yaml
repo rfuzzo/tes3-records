@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Cyr_Mine_OreCHSpinl02
+name: Raw Spinel
+script: ''
+mesh: PC\o\pc_cont_chrock_spnl_02.nif
+encumbrance: 0.0
+container_flags: ORGANIC | IS_BASE
+inventory:
+- - 2
+  - T_Cyr_Random_OreSpinel

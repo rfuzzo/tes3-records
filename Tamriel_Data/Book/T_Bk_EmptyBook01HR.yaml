@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_EmptyBook01HR
+name: <Placeholder>
+script: ''
+mesh: hr\m\HR_Bk_01.nif
+icon: hr\m\hr_bk_01.dds
+enchanting: ''
+text: ''
+data:
+  weight: 3.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 0

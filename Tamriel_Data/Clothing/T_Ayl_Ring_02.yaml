@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Ayl_Ring_02
+name: Ayleid Ring
+script: ''
+mesh: pc\c\pc_ayl_ring_02.nif
+icon: pc\c\pc_ayl_ring02.dds
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 240
+  enchantment: 1200

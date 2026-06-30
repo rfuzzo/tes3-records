@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3-ET2_bk_maintenancelog
+name: Ebon Tower Maintenance Log
+script: ''
+mesh: m\Text_Quarto_03.NIF
+icon: m\Tx_quarto_03.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[Here are detailed the various chores and activities carried out by servants of the Ebon Tower.]<BR>\r\n<BR>\r\n"
+data:
+  weight: 4.0
+  value: 10
+  book_type: Book
+  skill: None
+  enchantment: 0

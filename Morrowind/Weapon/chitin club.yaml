@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: chitin club
+name: Chitin Club
+script: ''
+mesh: w\W_chitin_club.nif
+icon: w\Tx_chitin_club.tga
+enchanting: ''
+data:
+  weight: 6.0
+  value: 6
+  weapon_type: BluntOneHand
+  health: 320
+  speed: 1.5
+  reach: 1.0
+  enchantment: 20
+  chop_min: 3
+  chop_max: 3
+  slash_min: 2
+  slash_max: 2
+  thrust_min: 1
+  thrust_max: 2
+  flags: ''

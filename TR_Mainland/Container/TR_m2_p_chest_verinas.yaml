@@ -1,0 +1,25 @@
+type: Container
+flags: ''
+id: TR_m2_p_chest_verinas
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - common_belt_04
+- - 1
+  - common_pants_01
+- - 1
+  - common_robe_02
+- - 1
+  - common_robe_02_t
+- - 1
+  - common_shirt_02
+- - 1
+  - p_vintagecomberrybrandy1
+- - 2
+  - sc_healing
+- - 3
+  - sc_paper plain

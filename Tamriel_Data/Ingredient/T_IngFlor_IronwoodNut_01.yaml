@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_IronwoodNut_01
+name: Ironwood Nuts
+script: ''
+mesh: sky\n\Sky_Ingred_Ironwood.nif
+icon: sky\n\Tx_Ingred_Ironwoodnut.dds
+data:
+  weight: 0.5
+  value: 5
+  effects:
+  - Paralyze
+  - FortifyHealth
+  - FortifyAttribute
+  - DetectAnimal
+  skills:
+  - None
+  - None
+  - Block
+  - None
+  attributes:
+  - None
+  - None
+  - Strength
+  - None

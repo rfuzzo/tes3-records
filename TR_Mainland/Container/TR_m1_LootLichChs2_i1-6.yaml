@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: TR_m1_LootLichChs2_i1-6
+name: Old Chest
+script: ''
+mesh: o\Contain_De_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_De_Ebony_Dagger_01
+- - 2
+  - goblin_health
+- - 200
+  - random gold
+- - 1
+  - random_potion_attribute_restore

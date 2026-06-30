@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_SkyCom_Var_SkS1Gems
+name: Small Sack
+script: ''
+mesh: sky\o\sky_cont_small_sack.nif
+encumbrance: 20.0
+container_flags: IS_BASE
+inventory:
+- - 3
+  - T_Sky_Random_Gem

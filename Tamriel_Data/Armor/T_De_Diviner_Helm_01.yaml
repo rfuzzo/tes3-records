@@ -1,0 +1,22 @@
+type: Armor
+flags: ''
+id: T_De_Diviner_Helm_01
+name: Diviner Helm
+script: ''
+mesh: TR\a\tr_a_diviner_h_gnd.nif
+icon: TR\a\tr_a_diviner_h.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Hair
+  male_bodypart: T_A_DeDivinerHelm01_Hr
+  female_bodypart: ''
+- biped_object_type: Neck
+  male_bodypart: T_A_DeDivinerHelm01_N
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 2.0
+  value: 180
+  health: 150
+  enchantment: 180
+  armor_rating: 15

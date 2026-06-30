@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_i3-591_act-imp_pitgate2
+name: ''
+script: ''
+mesh: tr\i\tr_in_nec_templegrate.nif

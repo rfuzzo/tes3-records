@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Echo_23
+name: BLOODBATH BELOW BAZAAR
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_text_note_nar_news.nif
+icon: tr\m\tr_text_note_nar_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\tr_echo_512_256.dds\" WIDTH=\"348\" HEIGHT=\"168\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nBLOODBATH BELOW BAZAAR<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nRumor has practically exploded through the streets of Narsis about a total massacre within a gang hideout in the sewers beneath the city's Grand Bazaar.<BR><BR>\r\nIt is currently theorized that the slaughtered gang members, believed to have belonged to the Camonna Tong, were deliberately attacked by a rival criminal organisation within the city. It is somewhat known that the criminal underworld of the Hlaalu capital, once kept only in the rational, native hands of the Camonna Tong, has since become oversaturated, and something of a tug of war between the Tong, the Empire's Thieves Guild, and the newly established Ja-Natta Syndicate, infamous for its new drug \"Greydust\". Whatever shadowy organisation could have gone to such drastic measures, however, is currently unknown.<BR><BR>\r\n\"It's terrifying to think that such violence happened right beneath my feet -- that it can happen at any time,\" says one merchant at the Grand Bazaar.<BR><BR>\r\nRest assured dear readers, that as long as you hold yourself in esteem and stay on the right side of the law, you have no reason to fear petty criminals -- we can all trust that the dedicated guards of the Canyon Watch shall protect us from all injustice.<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

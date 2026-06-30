@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_CyrCom_Furn_Ch2Miner
+name: Wooden Chest
+script: ''
+mesh: o\contain_chest10.nif
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - 7
+  - T_Cyr_Random_Miner

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Com_SetSky_SignWayDragonst_01
+name: Dragonstar
+script: ''
+mesh: sky\x\sky_act_rsign_dragn1.nif

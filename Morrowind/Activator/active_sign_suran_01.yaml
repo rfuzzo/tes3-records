@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: active_sign_suran_01
+name: Suran
+script: ''
+mesh: f\Active_signpost_01.NIF

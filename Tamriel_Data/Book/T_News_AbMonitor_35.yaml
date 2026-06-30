@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_AbMonitor_35
+name: USURPER'S NECROMANCER DESTROYED
+script: T_ScNews_Bellman_Paper
+mesh: pc\m\pc_text_note_anv_news.nif
+icon: pc\m\pc_text_note_anv_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"PC\\pc_abmonitor.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nMAGES GUILD DESTROYS NECROMANCER IN AYLEID RUIN<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nGuildmaster Tisia and %PCName of the Anvil Mages Guild have received an official commendation from the Queen of Anvil for a recent operation to destroy Edroth, a long-concealed necromancer general of the Camoran Usurper. The infamous necromancer, who disappeared in the chaotic years after the reconquest of Anvil, was thought dead for over a century before the Guild found him in the depths of Valsar, a ruined Ayleid citadel in the Strident Coast region.<BR><BR>\r\nEdroth had assembled an army of reanimated undead in his lair, and was no doubt plotting some grievous new attack on the people of the Kingdom of Anvil. The Monitor joins the Queen in thanking the Mages Guild for their efforts to protect the public and stamp out those who abuse magic wherever they are found.<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

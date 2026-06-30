@@ -1,0 +1,23 @@
+type: Container
+flags: ''
+id: TR_m1_de_chest_fergathi
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 3
+  - Misc_SoulGem_Lesser
+- - 1
+  - bk_SaryonisSermons
+- - 1
+  - p_restore_fatigue_e
+- - 4
+  - p_restore_health_e
+- - 5
+  - p_restore_magicka_e
+- - 3
+  - p_restore_strength_c
+- - 1
+  - wooden staff

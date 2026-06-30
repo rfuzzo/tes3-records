@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Mw_Flora_Swtbarrel_02
+name: Flowering Sweetbarrel
+script: ''
+mesh: tr\o\tr_f_sweetbarrel02.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 2
+  - random_sweetpulp

@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_Yne_ClayCandleSPink_64
+name: Clay Candlestick
+script: ''
+mesh: pi\l\pi_l_yne_c_candlepinkS.nif
+icon: pi\l\pi_l_yne_c_candlepinkS.dds
+sound: ''
+data:
+  weight: 2.0
+  value: 4
+  time: 120
+  radius: 64
+  color:
+  - 245
+  - 140
+  - 40
+  - 0
+  flags: DYNAMIC | CAN_CARRY | FIRE | FLICKER_SLOW

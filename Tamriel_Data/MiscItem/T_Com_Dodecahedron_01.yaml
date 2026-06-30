@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_Dodecahedron_01
+name: Brass Implement
+script: ''
+mesh: pc\m\pc_misc_dodecahedron.nif
+icon: pc\m\pc_misc_dodecahedron.dds
+data:
+  weight: 4.0
+  value: 30
+  flags: ''

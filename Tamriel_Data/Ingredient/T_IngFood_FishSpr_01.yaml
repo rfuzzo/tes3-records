@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_FishSpr_01
+name: Spearmouth
+script: ''
+mesh: pc\n\pc_ing_soldierfish.nif
+icon: pc\n\pc_tx_ingred_sldrfish.dds
+data:
+  weight: 0.5
+  value: 2
+  effects:
+  - RestoreFatigue
+  - SwiftSwim
+  - DamageAttribute
+  - DrainMagicka
+  skills:
+  - None
+  - None
+  - Block
+  - None
+  attributes:
+  - None
+  - None
+  - Luck
+  - None

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: clutterbane
+name: Clutterbane
+script: ''
+mesh: w\W_Dwemer_mace.nif
+icon: w\Tx_Dwemer_mace.tga
+enchanting: clutterbane's curse
+data:
+  weight: 50.0
+  value: 50000
+  weapon_type: BluntOneHand
+  health: 4000
+  speed: 1.3
+  reach: 1.0
+  enchantment: 100
+  chop_min: 10
+  chop_max: 45
+  slash_min: 10
+  slash_max: 35
+  thrust_min: 6
+  thrust_max: 10
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

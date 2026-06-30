@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Kha_Copper_Claymore_01
+name: Copper Claymore
+script: ''
+mesh: els\w\els_w_cpr_claymore.nif
+icon: els\w\els_w_cpr_claymore.tga
+enchanting: ''
+data:
+  weight: 32.0
+  value: 1200
+  weapon_type: LongBladeTwoClose
+  health: 2800
+  speed: 1.25
+  reach: 1.0
+  enchantment: 90
+  chop_min: 1
+  chop_max: 33
+  slash_min: 1
+  slash_max: 29
+  thrust_min: 1
+  thrust_max: 20
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

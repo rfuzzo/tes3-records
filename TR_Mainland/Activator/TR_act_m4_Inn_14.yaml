@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_act_m4_Inn_14
+name: ''
+script: TR_m4_OmaynisInn_C2
+mesh: x\Ex_de_constr_06.NIF

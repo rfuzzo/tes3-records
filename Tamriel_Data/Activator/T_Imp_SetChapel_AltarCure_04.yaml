@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_SetChapel_AltarCure_04
+name: Nine Divines Altar
+script: T_ScObj_ShrineImperialPC
+mesh: pc\f\pc_furn_altar_sq_01.nif

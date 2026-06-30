@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: shockbite warhammer
+name: Shockbite Warhammer
+script: ''
+mesh: w\W_Warhammer.nif
+icon: w\Tx_Warhammer.tga
+enchanting: sparkbolt_en
+data:
+  weight: 32.0
+  value: 110
+  weapon_type: BluntTwoClose
+  health: 2000
+  speed: 1.0
+  reach: 1.5
+  enchantment: 55
+  chop_min: 1
+  chop_max: 32
+  slash_min: 1
+  slash_max: 27
+  thrust_min: 1
+  thrust_max: 2
+  flags: ''

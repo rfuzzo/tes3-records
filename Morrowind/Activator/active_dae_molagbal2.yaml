@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: active_dae_molagbal2
+name: Statue of Molag Bal
+script: VampireMolag
+mesh: x\Ex_Dae_MolagBal.NIF

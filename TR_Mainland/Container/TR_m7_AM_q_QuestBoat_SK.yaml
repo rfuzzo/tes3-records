@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: TR_m7_AM_q_QuestBoat_SK
+name: Barrels
+script: TR_m7_HR_AldIuval_q2_Skooma_sc
+mesh: tr\o\tr_cont_barrels_r_01.nif
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - 10
+  - T_IngFlor_Tanna_01
+- - 7
+  - potion_skooma_01

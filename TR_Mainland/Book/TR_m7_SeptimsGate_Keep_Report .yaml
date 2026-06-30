@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: 'TR_m7_SeptimsGate_Keep_Report '
+name: 'Report to Fort Waxmoth '
+script: ''
+mesh: m\Text_Parchment_02.nif
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This report details the operational status of Septim's Gate Pass and relays information regarding Narsis district. It requests likewise details of Fort Waxmouth and news regarding Mir Corrup.] <BR>\r\n"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

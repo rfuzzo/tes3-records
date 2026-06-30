@@ -1,0 +1,23 @@
+type: Clothing
+flags: ''
+id: T_Dwe_Robe_01
+name: Dwemer Robe
+script: ''
+mesh: tr\c\tr_c_dwe_robe_01_gnd.nif
+icon: tr\c\tr_c_dwe_robe_01.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_C_DweRobe01_C
+  female_bodypart: T_C_DweRobe01_CF
+- biped_object_type: LeftAnkle
+  male_bodypart: ''
+  female_bodypart: ''
+- biped_object_type: RightAnkle
+  male_bodypart: ''
+  female_bodypart: ''
+data:
+  clothing_type: Robe
+  weight: 3.0
+  value: 100
+  enchantment: 200

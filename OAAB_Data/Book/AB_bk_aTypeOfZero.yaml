@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: AB_bk_aTypeOfZero
+name: A Type of Zero
+script: ''
+mesh: m\Text_Quarto_04.NIF
+icon: m\Tx_quarto_04.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nA Type of Zero Still to Be Discovered<BR>\r\n-- a traditional Dwemeri children's rhyme --<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nWake up, khundakar, it¡¦s a new day, traditional style, and thank you for breathing.<BR>\r\n<BR>\r\nWake up, suchi-el, get dressed, reconsider your [science], here¡¦s an official daguerreotype.<BR>\r\n<BR>\r\nGood morning, Ae, here's a side of the story you seldom suffer.<BR>\r\n<BR>\r\nGood morning, Aurbis, you¡¦ve got numbers to ignore.<BR>\r\n<BR>\r\nLook out, First Moon, wearing those are dangerous in this industry, so try to enjoy.<BR>\r\n<BR>\r\nLook out, Second Moon, not everything is inexplicable and extortion is for [skeptics].<BR>\r\n<BR>\r\nNice day, khundakar, we have your table ready, the divinities are already waiting.<BR>\r\n<BR>\r\nNice day, suchi-el, the world-nirn cannot be mapped, so forward your dismissals to the eight givers.<BR>\r\n<BR>\r\nAfternoon, Ae, I hope all is well in the world of modern folklore.<BR>\r\n<BR>\r\nAfternoon, Aurbis, the reports are true, there is a type of zero still to be discovered, all [critics- ?] agree.<BR>\r\n<BR>\r\nGood night, First Moon, stay out past [supper], return these to the [proper authorities].<BR>\r\n<BR>\r\nGood night, Second Moon, it's time to go, love the metal all you want, three easy ways of comfort.<BR>\r\n<BR>\r\nBedtime, khundakar, put away your star-mobiles, [anecdotes- ?], and bone collection.<BR>\r\n<BR>\r\nBedtime, suchi-el, stay over, bring your astrolabe, we think there's still some ghosts.<BR>\r\n<BR>\r\nSleep well, my children, tomorrow I'll buy you both the sea.<BR>\r\n<BR>"
+data:
+  weight: 4.0
+  value: 35
+  book_type: Book
+  skill: None
+  enchantment: 0

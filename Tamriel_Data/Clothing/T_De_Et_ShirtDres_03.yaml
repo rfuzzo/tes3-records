@@ -1,0 +1,35 @@
+type: Clothing
+flags: ''
+id: T_De_Et_ShirtDres_03
+name: Extravagant Shirt
+script: ''
+mesh: tr\c\tr_c_shirt_ext_d03_gnd.nif
+icon: tr\c\tr_extrav_shirt_d03.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_C_DeEtShirtDres03_C
+  female_bodypart: ''
+- biped_object_type: LeftUpperArm
+  male_bodypart: T_C_DeEtShirtDres03_UA
+  female_bodypart: ''
+- biped_object_type: RightUpperArm
+  male_bodypart: T_C_DeEtShirtDres03_UA
+  female_bodypart: ''
+- biped_object_type: LeftForearm
+  male_bodypart: T_C_DeEtShirtDres03_Fa
+  female_bodypart: ''
+- biped_object_type: RightForearm
+  male_bodypart: T_C_DeEtShirtDres03_Fa
+  female_bodypart: ''
+- biped_object_type: LeftWrist
+  male_bodypart: T_C_DeEtShirtDres03_W
+  female_bodypart: ''
+- biped_object_type: RightWrist
+  male_bodypart: T_C_DeEtShirtDres03_W
+  female_bodypart: ''
+data:
+  clothing_type: Shirt
+  weight: 2.0
+  value: 60
+  enchantment: 300

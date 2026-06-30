@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Imp_GuardTown1_ShieldAnv_01
+name: Anvil Guard Shield
+script: ''
+mesh: pc\a\pc_a_anvil_shield.nif
+icon: pc\a\pc_a_anv_guard_shield.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Shield
+  male_bodypart: T_A_ImpGuardtown1ShieldAnv01_S
+  female_bodypart: ''
+data:
+  armor_type: Shield
+  weight: 9.5
+  value: 65
+  health: 260
+  enchantment: 500
+  armor_rating: 13

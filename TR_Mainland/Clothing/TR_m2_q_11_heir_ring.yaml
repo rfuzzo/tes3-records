@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m2_q_11_heir_ring
+name: House Enlaris Ring
+script: ''
+mesh: c\C_Ring_expensive_2.NIF
+icon: c\tx_ring_expensive02.tga
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 75
+  enchantment: 150

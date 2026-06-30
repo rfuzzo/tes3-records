@@ -1,0 +1,35 @@
+type: Clothing
+flags: ''
+id: T_Imp_Cm_ShirtColWest_04
+name: Common Shirt
+script: ''
+mesh: pc\c\PC_Col_C_Shirt_W1_04G.nif
+icon: pc\c\PC_Col_C_Shirt_W1_04I.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_C_ImpCmShirtColWest04_C
+  female_bodypart: T_C_ImpCmShirtColWest04_CF
+- biped_object_type: LeftUpperArm
+  male_bodypart: T_C_ImpCmShirtColWest04_UA
+  female_bodypart: ''
+- biped_object_type: RightUpperArm
+  male_bodypart: T_C_ImpCmShirtColWest04_UA
+  female_bodypart: ''
+- biped_object_type: LeftForearm
+  male_bodypart: T_C_ImpCmShirtColWest04_Fa
+  female_bodypart: ''
+- biped_object_type: RightForearm
+  male_bodypart: T_C_ImpCmShirtColWest04_Fa
+  female_bodypart: ''
+- biped_object_type: LeftWrist
+  male_bodypart: T_C_ImpCmShirtColWest04_W
+  female_bodypart: ''
+- biped_object_type: RightWrist
+  male_bodypart: T_C_ImpCmShirtColWest04_W
+  female_bodypart: ''
+data:
+  clothing_type: Shirt
+  weight: 3.0
+  value: 5
+  enchantment: 20

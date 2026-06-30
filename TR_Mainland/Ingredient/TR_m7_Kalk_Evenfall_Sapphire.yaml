@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: TR_m7_Kalk_Evenfall_Sapphire
+name: Evenfall
+script: ''
+mesh: TR\n\TR_Ing_sapphire_mm.NIF
+icon: TR\n\TR_Ing_sapphire_mm.dds
+data:
+  weight: 0.2
+  value: 1500
+  effects:
+  - DamageHealth
+  - Shield
+  - ResistMagicka
+  - DamageFatigue
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

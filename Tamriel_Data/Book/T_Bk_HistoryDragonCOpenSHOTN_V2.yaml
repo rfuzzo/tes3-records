@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_HistoryDragonCOpenSHOTN_V2
+name: History of the Dragon Cult II
+script: ''
+mesh: pc\m\PC_bk_Book_02_open.nif
+icon: pc\m\pc_bk_book_02_open.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nHistory of the Dragon Cult, vol. ii<BR>\r\nby Forameus<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nBeliefs and practices of the original Dragon Cult<BR>\r\n<BR> \r\nThe influence of the Dragon totem on Nordic society remained all the way through the exodus to Tamriel and the settlement of Skyrim, although it took on an increasingly dour tone. Whether it was the loss of Atmora, the massacre in Saarthal and conflict with the Falmer, or some other dire portent, the followers of the Dragon (hereafter termed the \"Dragon Cult\") came to believe that the kalpa had already run its course and that Alduin's awakening had been delayed, likening it to an endless winter that held back the return of spring.<BR>\r\n<BR>\r\nDragon Cultists in the holds of weaker jarls and kings dared even to blame the new gods, in particular Shor, for this unnaturally-long kalpa and sporadic uprisings -- a couple even temporarily successful -- broke out against the upper Nordic classes and their veneration of those corrupting spirits that were preventing the world's fiery renewal.<BR>\r\n<BR>\r\nSinging was a central part of the Cult's religious practice -- there was, and remains, a belief that the songs of mortals influence Alduin's moods. In the present day, this is almost exclusively lullabies to keep the Dragon sleeping (see vol. iv of this series for changes in theology) but at the zenith of the Dragon Cult's power, great choirs would sing the notes and harmonies that it was believed would rouse the sleeping Alduin from his stupor.<BR>\r\n<BR>\r\nAccusations of human sacrifice persist until the present day, but these cannot be verified. Although there is some evidence that the Nords of early Tamriel practiced sporadic human sacrifice, it seems just as likely that this charge against the Dragon Cult is persistent slur by King Harald and his successors.<BR>\r\n<BR>\r\nWhat is known about the original Dragon Cult is their belief that Alduin's awakening -- their most treasured hope -- was imminent, and that those who feared they would die before its occurrence took extraordinary steps to overcome this. Mummification was a common Nordic funerary practice at this time, but the Dragon Cult went even further: through a practice not understood in the present day, the ghosts of the dead were kept bound to Mundus and induced back into their own corpses. Although this was deeply unpleasant and nothing like true immortality, these haunted mummies allowed dying Cultists to believe they would experience the kalpa's fiery end.<BR>\r\n<BR>"
+data:
+  weight: 4.0
+  value: 150
+  book_type: Book
+  skill: None
+  enchantment: 0

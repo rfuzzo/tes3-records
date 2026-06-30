@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: colony cave bue1024
+name: ''
+script: ''
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 1024
+  color:
+  - 35
+  - 47
+  - 95
+  - 0
+  flags: ''

@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: heartstone
+name: Heartstone
+script: ''
+mesh: c\C_Ring_common03.NIF
+icon: c\tx_ring_common03.tga
+enchanting: fortitude_en
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 6
+  enchantment: 1200

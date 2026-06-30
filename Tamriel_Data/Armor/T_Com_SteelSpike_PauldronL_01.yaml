@@ -1,0 +1,25 @@
+type: Armor
+flags: ''
+id: T_Com_SteelSpike_PauldronL_01
+name: Spiked Steel Left Pauldron
+script: ''
+mesh: TR\a\TR_a_SteelSpiked_PldCl.nif
+icon: TR\a\TR_a_steelspiked_pld.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: LeftForearm
+  male_bodypart: a_steel_pauldron_fa
+  female_bodypart: ''
+- biped_object_type: LeftPauldron
+  male_bodypart: T_A_ComSteelSpikedPauldr_Cl
+  female_bodypart: ''
+- biped_object_type: LeftUpperArm
+  male_bodypart: a_steel_pauldron_ua
+  female_bodypart: ''
+data:
+  armor_type: LeftPauldron
+  weight: 10.0
+  value: 55
+  health: 170
+  enchantment: 30
+  armor_rating: 16

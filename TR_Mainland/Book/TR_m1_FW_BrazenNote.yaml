@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_FW_BrazenNote
+name: An unsigned note
+script: ''
+mesh: m\Text_Note_02.nif
+icon: m\Tx_note_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nUdrasi, you s'wit, I knew you couldn't resist taking a peek. Now you know why I told you to avoid any imperial entanglements. Remember, no stops until Helnim. Work double-shifts if you have to, throw that chitin-hearted captain overboard if you have to. Once you're there, Jorval will take care of the rest. <BR>\r\n"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m1_FW_DremoraSummoner
+name: ''
+script: TR_m1_FW_TG6_Summoner
+mesh: EditorMarker.NIF

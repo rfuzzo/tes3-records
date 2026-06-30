@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_HandsOffTR
+name: Hands Off
+script: T_ScBook_SpBoundGloves
+mesh: m\Text_Octavo_03.nif
+icon: m\Tx_octavo_03.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>\r\n\r\nHands Off<BR>\r\n<BR>\r\nBy Farglos<BR>\r\n<BR>\r\n\r\n\"Those little things?\" the thief laughed, \"I know what the old legends say, but surely they were not serious about that. Look at them!\"<BR>\r\n<BR>\r\nHis fellow thief studied the Bal Molagmer gloves, and shrugged. \"Maybe they're magical. Maybe the Bal Molagmer really used something else. Maybe it was all just made up. I don't know. All I do know is that I'm not going to put my hands in these, and stick them in the lava. I just don't want to find out that badly, I suppose.\"<BR>\r\n<BR>\r\nThe first thief shook his head in agreement. \"Now these, I would trust.\" He waved his hands about as he summoned a pair of bound gloves. The two thieves admired the dark design of the gloves, tinted red by the glow of the lava. As the first thief reached toward the burning blood of mountains, his fellow offered a word of warning:<BR>\r\n<BR>\r\n\"Those things, they have daedra in them. I don't know if they feel anything, but it doesn't strike me as a good idea to go out of your way to . . .\" He trailed off, as the first thief plunged his hands into the inferno. He pulled them out, seconds later, laughing.<BR>\r\n<BR>\r\n\"See? My hands feel fine. No dark tricks from bound daedra.\" He reached into the pool of lava, and scooped out a handful. \"See? Do you hear my gloves scream in protest? I do not. Could those Bal Molagmer gloves do this? I think not.\" He laughed a few moments more before his mirth gave way to agony.<BR>\r\n<BR>\r\nThe first thief had forgotten the duration of his spell; when the bound gloves were called back to Oblivion, the lava he held simply fell onto his bare hands. <BR>\r\n"
+data:
+  weight: 2.0
+  value: 250
+  book_type: Book
+  skill: None
+  enchantment: 100

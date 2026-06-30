@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: T_SkyNor_FurnM_Dw2Empty
+name: Drawers
+script: ''
+mesh: sky\o\sky_furn_n_m_drwr_02.nif
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory: []

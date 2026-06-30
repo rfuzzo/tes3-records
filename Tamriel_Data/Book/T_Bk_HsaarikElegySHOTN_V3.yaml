@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_HsaarikElegySHOTN_V3
+name: The Hsaarik Elegy, Book Three
+script: ''
+mesh: Sky\m\Sky_Book_Saga_04.nif
+icon: Sky\m\Tx_Book_Saga_04.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe Hsaarik Elegy<BR>\r\nby Goderlog the Song-Maiden<BR>\r\n<BR>\r\nBook Three<BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\nFifty-first to fall amidst the sword-din was IDUNN<BR>\r\nThe endless clangour breaking down her resolve<BR>\r\nUntil it was bloody kindness to crush her throat<BR>\r\nGranting peace to her wracked and sobbing form<BR>\r\nHer knowing ought to be<BR>\r\n<FONT COLOR=\"500F0F\">HAAFIN<BR>\r\n<FONT COLOR=\"000000\">Her name true not even once<BR>\r\nForgotten where she fell<BR>\r\n<BR>\r\n[...]<BR>\r\n<BR>\r\nFifty-fourth, one-hundredth since Atmora, was KYNMUD<BR>\r\nShe spoke with the tongue of the goddess herself<BR>\r\nShe screamed her foe to pieces until, in a single moment<BR>\r\nShe finally came apart, tendon by tendon<BR>\r\nHer knowing is still spoken as<BR>\r\n<FONT COLOR=\"500F0F\">OTTRA<BR>\r\n<FONT COLOR=\"000000\">First of her kind upon Mereth<BR>\r\nFive hundred summers undone<BR>\r\n<BR>\r\n[...]<BR>\r\n<BR>\r\nLast death upon the first day of battle was TRYGVE<BR>\r\nThough fighting had ceased none heard his cries<BR>\r\nHe nursed the spilling wound that opened up his gut<BR>\r\nAs though it were the babe he left behind at Jylkurfyk<BR>\r\nHis knowing she would learn as<BR>\r\n<FONT COLOR=\"500F0F\">URDLAV<BR>\r\n<FONT COLOR=\"000000\">And truly none had seen this<BR>\r\nAll had thought him blessed<BR>\r\n<BR>\r\n[...]<BR><BR>"
+data:
+  weight: 3.0
+  value: 150
+  book_type: Book
+  skill: None
+  enchantment: 0

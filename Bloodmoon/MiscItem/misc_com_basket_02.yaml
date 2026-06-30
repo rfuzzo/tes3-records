@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: misc_com_basket_02
+name: Basket
+script: ''
+mesh: m\Misc_Com_Basket_02.NIF
+icon: m\Misc_Com_Basket_02.tga
+data:
+  weight: 2.0
+  value: 5
+  flags: ''

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Rga_PorcelainBowl_02
+name: Porcelain Bowl
+script: ''
+mesh: hf\m\hf_misc_rga_PcBowl_02.nif
+icon: hf\m\hf_misc_rga_PCBowl_02.dds
+data:
+  weight: 4.0
+  value: 15
+  flags: ''

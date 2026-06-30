@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_Bitterstar_01
+name: Bitterstar Seeds
+script: ''
+mesh: hr\n\hr_ing_bitters_01.nif
+icon: hr\n\hr_ing_bitters01.tga
+data:
+  weight: 0.1
+  value: 1
+  effects:
+  - RestoreFatigue
+  - FortifyHealth
+  - DrainAttribute
+  - WeaknessToPoison
+  skills:
+  - None
+  - None
+  - Block
+  - None
+  attributes:
+  - None
+  - None
+  - Willpower
+  - None

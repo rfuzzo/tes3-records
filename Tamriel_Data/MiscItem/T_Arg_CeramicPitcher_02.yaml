@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Arg_CeramicPitcher_02
+name: Ceramic Pitcher
+script: ''
+mesh: bm\m\bm_cer_pict_02.nif
+icon: bm\m\bm_misc_pict_02.dds
+data:
+  weight: 2.1
+  value: 3
+  flags: ''

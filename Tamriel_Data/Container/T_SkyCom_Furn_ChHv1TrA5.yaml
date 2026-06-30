@@ -1,0 +1,35 @@
+type: Container
+flags: ''
+id: T_SkyCom_Furn_ChHv1TrA5
+name: Chest
+script: ''
+mesh: Sky\o\Sky_Cont_Chest_04_01.nif
+encumbrance: 250.0
+container_flags: IS_BASE
+inventory:
+- - -1
+  - T_Nor_Steel_Cuirass_01
+- - -1
+  - T_Nor_Steel_GauntletL_01
+- - -1
+  - T_Nor_Steel_GauntletR_01
+- - -1
+  - T_Nor_Steel_PauldronL_01
+- - -1
+  - T_Nor_Steel_PauldronR_01
+- - -1
+  - iron boots
+- - -1
+  - iron_greaves
+- - -1
+  - iron_pauldron_left
+- - -1
+  - iron_pauldron_right
+- - -1
+  - iron_towershield
+- - -1
+  - nordic_iron_cuirass
+- - -1
+  - nordic_iron_helm
+- - -1
+  - orcish_helm

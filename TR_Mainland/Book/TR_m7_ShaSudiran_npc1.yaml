@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_ShaSudiran_npc1
+name: Dunmer Outlaw
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: ''
+enchanting: ''
+text: Dunmer outlaw, member of the gang hiding out in this cave, reletively low level with loot to match.
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

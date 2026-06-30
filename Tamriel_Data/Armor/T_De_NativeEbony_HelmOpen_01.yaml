@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_De_NativeEbony_HelmOpen_01
+name: Native Ebony Open Helmet
+script: ''
+mesh: TR\a\Tr_a_NatEbon_Helm_O01.nif
+icon: tr\a\Tr_a_NatEbon_O_helm01.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Hair
+  male_bodypart: T_A_DeNativeEbonyHelm01_Hr
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 4.5
+  value: 10000
+  health: 400
+  enchantment: 400
+  armor_rating: 55

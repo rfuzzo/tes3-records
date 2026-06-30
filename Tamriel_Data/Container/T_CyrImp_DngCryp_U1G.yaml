@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: T_CyrImp_DngCryp_U1G
+name: Urn
+script: ''
+mesh: pc\o\PC_Cont_Imp_Urn.nif
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - ingred_bonemeal_01
+- - 1
+  - random gold_lev_05

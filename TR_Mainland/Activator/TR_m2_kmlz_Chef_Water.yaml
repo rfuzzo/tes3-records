@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m2_kmlz_Chef_Water
+name: ''
+script: TR_m2_kmlz_Chef_Water_sc
+mesh: x\Ex_waterfall_mist_01.NIF

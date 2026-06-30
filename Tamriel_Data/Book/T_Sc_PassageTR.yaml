@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Sc_PassageTR
+name: Passage
+script: ''
+mesh: m\Text_Scroll_01.nif
+icon: m\Tx_scroll_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nPassage<BR>\r\n<BR>\r\n<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\">\r\nLight falls down   trapped arms and eyes   radiant light on his dark face   mother save me   His Eyes Gone   His Teeth Fall out and I cannot touch them when they rot and I smell them   we are always crouching and waiting for the light to rise   the rats do wait for us to sleep but we cannot struggle   the light falls down   a cold place<BR><BR>\r\nI smell His Eyes   a cold place   the Marsh no more   I eat His Eyes as they close   there is only morning water for us   there is no water to weep no water for Tear   the colored ones watch   His Eyes gone   a cold place<BR><BR>\r\nShe told of flowers   I was beneath the vines when they came   father's head for a toy and mother's body for sale   Hides Her Eyes   the water fell last   a pool around my flowers where they found me   a cold place<BR><BR>\r\nWe are trapped   we crouch stacked upon others   His Eyes rot to theirs of fire red   they take him to the surface for water and I do not see His Eyes again   the splinter light breaks to their steps and I know what is death   it is mine   a cold place<BR><BR>\r\nTear   they die by hundreds   I am naked for them   they see me like meat and eat my body with hungry eyes   wooden bars and iron shackles around my arms and soul   here I may be graced with death and His Eyes   a cold place<BR>"
+data:
+  weight: 1.0999999
+  value: 25
+  book_type: Scroll
+  skill: None
+  enchantment: 0

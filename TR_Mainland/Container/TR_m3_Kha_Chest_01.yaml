@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m3_Kha_Chest_01
+name: Daedric Chest
+script: TR_m3_Kha_DaeChestCont_01_Sc
+mesh: o\contain_daedric_chest_01.nif
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory:
+- - 5
+  - T_Dae_Regular_ThrowingStar_01

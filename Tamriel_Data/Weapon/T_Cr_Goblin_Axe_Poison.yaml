@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Cr_Goblin_Axe_Poison
+name: Goblin Axe of Poison
+script: ''
+mesh: pc\w\PC_W_Goblin_Axe.nif
+icon: pc\w\pc_w_gob_axe_01.dds
+enchanting: T_Strike_GoblinPoison
+data:
+  weight: 1.0
+  value: 20
+  weapon_type: AxeOneHand
+  health: 100
+  speed: 1.0
+  reach: 1.0
+  enchantment: 100
+  chop_min: 1
+  chop_max: 5
+  slash_min: 1
+  slash_max: 5
+  thrust_min: 1
+  thrust_max: 5
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

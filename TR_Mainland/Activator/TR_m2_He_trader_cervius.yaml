@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m2_He_trader_cervius
+name: 'Cervius Veris: General Merchant'
+script: SignRotate
+mesh: tr\f\tr_act_sign_goods_01.nif

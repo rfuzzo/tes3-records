@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_Corkscrew
+name: Corkscrew
+script: ''
+mesh: OAAB\m\corkscrew.nif
+icon: OAAB\m\corkscrew.tga
+data:
+  weight: 2.0
+  value: 2
+  flags: ''

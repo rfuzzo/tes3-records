@@ -1,0 +1,4 @@
+type: Static
+flags: PERSISTENT
+id: Mudan_door00
+mesh: d\door_dwrv_main00.nif

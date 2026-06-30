@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_Bre_GrnGlassCandlePurp01_77
+name: Green Glass Candlestick
+script: ''
+mesh: hr\l\hr_l_gglass_cnd_01pur.nif
+icon: hr\l\hr_l_gglass_cnd_01pur.dds
+sound: ''
+data:
+  weight: 2.0
+  value: 10
+  time: 0
+  radius: 77
+  color:
+  - 245
+  - 140
+  - 40
+  - 0
+  flags: DYNAMIC | CAN_CARRY | FIRE | FLICKER_SLOW

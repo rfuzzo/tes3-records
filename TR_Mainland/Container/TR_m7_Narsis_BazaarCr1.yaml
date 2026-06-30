@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: TR_m7_Narsis_BazaarCr1
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - Light_De_Lantern_01_128
+- - 1
+  - light_de_candle_15_64
+- - 1
+  - light_de_candle_18_64
+- - 2
+  - light_de_lantern_02_128
+- - 1
+  - light_de_lantern_05_128_Carry

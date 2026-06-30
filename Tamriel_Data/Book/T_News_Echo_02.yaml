@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Echo_02
+name: SOULREST REBELLION DETERS TRADE
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_text_note_nar_news.nif
+icon: tr\m\tr_text_note_nar_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\tr_echo_512_256.dds\" WIDTH=\"348\" HEIGHT=\"168\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nBLACK MARSH TRADE DWINDLES AMIDST REBELLION<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nThe Census & Excise Office at Stormgate Pass has reported a 40% reduction in traffic passing through the border post in the last quarter of 3E426. This comes as fears in this city, and throughout the southern border region, grow that the Soulrest rebellion may spread even further throughout Black Marsh. The savage natives, who took control of the southwestern part of the province last year, have plunged the wider area into anarchy. Many traders in Narsis still have grim memories of the Arnesian War and the Argonian barbarism that claimed the lives of many innocent people less than thirty years ago. The decline of trade between Narsis and our sister city Stormhold has resulted in several Narsis businesses struggling to remain open. Sources within the Temple indicate that the amount of mer relying on donations for the poor has risen sharply over the past year.<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngDye_Vermilion_01
+name: Vermilion Dye
+script: ''
+mesh: tr\n\tr_ing_vermilion.nif
+icon: tr\n\tr_ing_vermilion.dds
+data:
+  weight: 0.1
+  value: 30
+  effects:
+  - ResistFire
+  - FortifyAttribute
+  - SlowFall
+  - None
+  skills:
+  - None
+  - Block
+  - None
+  - None
+  attributes:
+  - None
+  - Personality
+  - None
+  - None

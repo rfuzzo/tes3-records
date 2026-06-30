@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: chest_small_01_soulgem
+name: Small Stone Chest
+script: ''
+mesh: o\Contain_chest_small_01.NIF
+encumbrance: 25.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - Misc_SoulGem_Greater
+- - 3
+  - Misc_SoulGem_Petty
+- - 2
+  - Misc_SoulGem_Common

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Imp_Legion_Broadsword_03
+name: Imperial Broadsword
+script: ''
+mesh: TR\w\TR_w_imp_bsword_04.nif
+icon: TR\w\TR_w_imp_bsword_04.dds
+enchanting: ''
+data:
+  weight: 12.0
+  value: 60
+  weapon_type: LongBladeOneHand
+  health: 600
+  speed: 1.25
+  reach: 1.0
+  enchantment: 70
+  chop_min: 6
+  chop_max: 12
+  slash_min: 4
+  slash_max: 12
+  thrust_min: 4
+  thrust_max: 12
+  flags: ''

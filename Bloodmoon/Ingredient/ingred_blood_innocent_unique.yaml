@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_blood_innocent_unique
+name: Blood of an Innocent
+script: ''
+mesh: n\Ingred_Red_Lichen_01.nif
+icon: n\Tx_red_lichen_01.tga
+data:
+  weight: 0.1
+  value: 25
+  effects:
+  - DrainAttribute
+  - Light
+  - CureCommonDisease
+  - DrainMagicka
+  skills:
+  - Block
+  - None
+  - None
+  - None
+  attributes:
+  - Speed
+  - None
+  - None
+  - None

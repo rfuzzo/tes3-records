@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: dwemer_helm
+name: Dwemer Helm
+script: ''
+mesh: a\A_Dwemer_Helmet.NIF
+icon: a\TX_Dwemer_helmet.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: Head
+  male_bodypart: a_dwemer_helmet
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 5.0
+  value: 450
+  health: 200
+  enchantment: 250
+  armor_rating: 20

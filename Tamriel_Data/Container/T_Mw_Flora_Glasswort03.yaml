@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Mw_Flora_Glasswort03
+name: Glasswort
+script: ''
+mesh: TR\o\TR_f_glasswort03.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 3
+  - T_Mw_Random_FlorGlasswort

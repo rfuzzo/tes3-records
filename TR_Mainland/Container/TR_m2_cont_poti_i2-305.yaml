@@ -1,0 +1,41 @@
+type: Container
+flags: ''
+id: TR_m2_cont_poti_i2-305
+name: Wooden Chest
+script: ''
+mesh: o\contain_chest10.nif
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - 6
+  - p_chameleon_c
+- - 1
+  - p_chameleon_e
+- - 9
+  - p_invisibility_b
+- - 5
+  - p_invisibility_c
+- - 8
+  - p_light_b
+- - 2
+  - p_light_c
+- - 2
+  - p_light_e
+- - 2
+  - p_light_q
+- - 4
+  - p_night-eye_c
+- - 1
+  - p_night-eye_e
+- - 7
+  - p_paralyze_b
+- - 1
+  - p_paralyze_e
+- - 3
+  - p_paralyze_q
+- - 3
+  - p_silence_b
+- - 4
+  - p_silence_c
+- - 1
+  - p_silence_q

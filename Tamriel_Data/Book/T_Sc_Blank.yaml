@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Sc_Blank
+name: Blank Scroll
+script: ''
+mesh: m\Text_Scroll_01.NIF
+icon: m\Tx_scroll_open_01.tga
+enchanting: ''
+text: ''
+data:
+  weight: 1.1999998
+  value: 10
+  book_type: Scroll
+  skill: None
+  enchantment: 400

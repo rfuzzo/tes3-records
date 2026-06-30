@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_EEC_Briricca2_bk
+name: Mero Maro's Briricca Report
+script: ''
+mesh: m\Text_Parchment_02.nif
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This report, written by the East Empire Company for the Briricca Private Bank, summarizes the results of previous years' attempts to break into markets on the east bank of the Aanthirin. Before 3E 412, all were unsuccessful.]<BR><BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

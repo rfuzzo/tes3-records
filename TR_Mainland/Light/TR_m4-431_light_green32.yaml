@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: TR_m4-431_light_green32
+name: ''
+script: ''
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 1
+  time: -1
+  radius: 32
+  color:
+  - 2
+  - 136
+  - 99
+  - 0
+  flags: ''

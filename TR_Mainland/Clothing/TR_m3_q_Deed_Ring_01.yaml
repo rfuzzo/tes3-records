@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m3_q_Deed_Ring_01
+name: Ring of the Chained Eye
+script: ''
+mesh: c\C_Ring_expensive_2.NIF
+icon: c\tx_ring_expensive02.tga
+enchanting: TR_m3_q_Deed_Enchant_02
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 200
+  enchantment: 150

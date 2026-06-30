@@ -1,0 +1,35 @@
+type: Clothing
+flags: ''
+id: T_Com_Cm_Pants_03
+name: Common Pants
+script: ''
+mesh: pc\c\pc_fcot_c_pants05_gnd.nif
+icon: pc\c\pc_fcot_pants05.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Groin
+  male_bodypart: T_C_ComCmPants03_G
+  female_bodypart: ''
+- biped_object_type: RightAnkle
+  male_bodypart: T_C_ComCmPants03_A
+  female_bodypart: ''
+- biped_object_type: LeftUpperLeg
+  male_bodypart: T_C_ComCmPants03_UL
+  female_bodypart: ''
+- biped_object_type: RightUpperLeg
+  male_bodypart: T_C_ComCmPants03_UL
+  female_bodypart: ''
+- biped_object_type: LeftKnee
+  male_bodypart: T_C_ComCmPants03_K
+  female_bodypart: ''
+- biped_object_type: RightKnee
+  male_bodypart: T_C_ComCmPants03_K
+  female_bodypart: ''
+- biped_object_type: LeftAnkle
+  male_bodypart: T_C_ComCmPants03_A
+  female_bodypart: ''
+data:
+  clothing_type: Pants
+  weight: 2.0
+  value: 4
+  enchantment: 20

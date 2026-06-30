@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m3_belt_of_antipode
+name: Belt of Antipode
+script: ''
+mesh: c\C_belt_Common_5.NIF
+icon: c\tx_belt_common05.tga
+enchanting: TR_m3_belt_of_antipode_en
+biped_objects: []
+data:
+  clothing_type: Belt
+  weight: 2.0
+  value: 1350
+  enchantment: 0

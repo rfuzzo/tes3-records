@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: TR_m7_WaterfallDesk
+name: Desk
+script: ''
+mesh: TR\o\TR_furn_De_Rm_Desk01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - -3
+  - Misc_SoulGem_Common
+- - -5
+  - Misc_SoulGem_Lesser
+- - -5
+  - Misc_SoulGem_Petty
+- - -10
+  - T_Mw_Random_ScrollsLvl1
+- - -10
+  - T_Mw_Random_ScrollsLvl2

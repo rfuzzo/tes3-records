@@ -1,0 +1,4 @@
+type: Static
+flags: ''
+id: T_Aid_PlayerHomeMarker
+mesh: tr\tr_player_home_marker.nif

@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: TR_cont_m4-358_corpse
+name: Crushed Corpse
+script: ''
+mesh: o\contain_corpse20.NIF
+encumbrance: 120.0
+container_flags: IS_BASE
+inventory:
+- - 11
+  - Gold_001
+- - 1
+  - dwarven mace
+- - 1
+  - ingred_bonemeal_01
+- - 1
+  - p_invisibility_c
+- - 8
+  - probe_apprentice_01

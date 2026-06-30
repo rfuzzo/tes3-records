@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Ayl_DngRuin_DWelkynd_SHK_dum
+name: ''
+script: T_ScObj_DWelk_SHK_dum
+mesh: pc\f\pc_act_ar_dwelkynd_dum.nif

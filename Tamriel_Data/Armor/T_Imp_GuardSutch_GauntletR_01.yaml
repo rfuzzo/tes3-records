@@ -1,0 +1,22 @@
+type: Armor
+flags: ''
+id: T_Imp_GuardSutch_GauntletR_01
+name: Sutch Mail Right Gauntlet
+script: ''
+mesh: pc\a\pc_a_sutch_gauntl_gnd.nif
+icon: pc\a\pc_a_sutchg_gaunt.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: RightHand
+  male_bodypart: T_A_ImpGuardSutchGaunt01_Ha
+  female_bodypart: ''
+- biped_object_type: RightWrist
+  male_bodypart: ''
+  female_bodypart: ''
+data:
+  armor_type: RightGauntlet
+  weight: 3.5
+  value: 33
+  health: 65
+  enchantment: 200
+  armor_rating: 13

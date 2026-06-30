@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Bellman_38
+name: GRIFT EXPOSED IN EEC
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_note_oe_news.nif
+icon: tr\m\tr_note_oe_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\TR_bellman_512_256.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nGRIFT EXPOSED IN EEC<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nThe East Empire Company in Old Ebonheart was shocked to discover it's former top administrator, Aetia Nemesia, has for several years been skimming from company coffers and collaborating with criminal elements. The disgraced official is currently on route to a trial in Cyrodiil City. Behind the investigation was Merxia Vendicci, head of one of the prime families in Old Ebonheart and Director of the EEC. \"I want to stress that this outrage was the singular work of a corrupt official. In uncovering this crime, I was able to rely on the overall incorruptible and loyal nature of most EEC employees,\" she maintains. Despite Vendicci's assurances, charges such as these have long dogged the EEC, who maintain substantial operations in remote Imperial outposts, often beyond the immediate grasp of its central administration.<br><br>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nBELLMAN ANALYSIS:<BR>STYLE ISN'T EVERYTHING<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nThe editorial team would like to express dismay at the outrageous corruption displayed by Aetia Nemesia, until recently considered by many to be an exemplary member of the city's elite. This goes to show something the Bellman has always stressed: don't be fooled by good appearances. In fact, many in the team have always been suspicious of Nemesia's extravagant manners.<br><br>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

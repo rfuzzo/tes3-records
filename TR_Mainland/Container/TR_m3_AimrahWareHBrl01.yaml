@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m3_AimrahWareHBrl01
+name: Wooden Barrel
+script: TR_m3_Aim_BasementBarrelScp
+mesh: o\contain_barrel10.nif
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 5
+  - T_Mw_Random_CheapfoodDunmerM1/2

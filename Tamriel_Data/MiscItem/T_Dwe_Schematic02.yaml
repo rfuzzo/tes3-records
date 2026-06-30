@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Dwe_Schematic02
+name: Spider Centurion Schematics
+script: ''
+mesh: TR\m\tr_note_dwe_sch02.nif
+icon: TR\m\tr_note_dwe_sch02.dds
+data:
+  weight: 1.0
+  value: 400
+  flags: ''

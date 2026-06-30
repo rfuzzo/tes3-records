@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m3_Hal_SkelCorpse7
+name: Corpse
+script: TR_m3_Hal_Disable_sc
+mesh: o\contain_corpse10.NIF
+encumbrance: 120.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - ingred_bonemeal_01

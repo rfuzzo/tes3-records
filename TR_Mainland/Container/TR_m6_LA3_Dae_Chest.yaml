@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m6_LA3_Dae_Chest
+name: Ancient Chest
+script: BILL_MarksDaedraSummon
+mesh: o\contain_com_chest_02.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Dae_Regular_HelmRebellion_01

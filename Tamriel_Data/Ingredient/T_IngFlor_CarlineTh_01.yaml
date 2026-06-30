@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_CarlineTh_01
+name: Carline Thistle Seeds
+script: ''
+mesh: Sky\n\Sky_ingred_CarlTh_01.nif
+icon: sky\n\tx_ingred_CarlTh_01.dds
+data:
+  weight: 0.1
+  value: 4
+  effects:
+  - DrainAttribute
+  - DetectAnimal
+  - DamageFatigue
+  - ResistMagicka
+  skills:
+  - Block
+  - None
+  - None
+  - None
+  attributes:
+  - Strength
+  - None
+  - None
+  - None

@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_MwCom_FurnM_Cb1Ktch
+name: Cabinet
+script: ''
+mesh: f\furn_cabinet10.nif
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - random_com_kitchenware

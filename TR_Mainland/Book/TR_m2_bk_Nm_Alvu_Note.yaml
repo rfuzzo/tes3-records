@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2_bk_Nm_Alvu_Note
+name: Letter to Alvu Sareleth
+script: ''
+mesh: m\Text_Parchment_02.NIF
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nTo Her Eminence the Archmatron Alvu Sareleth,\r\n<BR>\r\nAuriel's Bow is now at Ghostgate to help with the defense against Dagoth Ur and the Blight. Fitting that it's used once again in defiance of Lorkhan. Many thanks for sending it to me in such a timely manner.\r\n<BR>\r\n<BR>\r\nLong live ALMSIVI!\r\n<BR>\r\n<BR>\r\nRalyn Othravel\r\n<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m3_OE_act_ETCensus_Repair
+name: ''
+script: TR_m3_OE_ETCensus_RepairScript
+mesh: EditorMarker.nif

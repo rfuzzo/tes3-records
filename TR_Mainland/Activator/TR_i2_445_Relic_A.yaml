@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_i2_445_Relic_A
+name: Lady Almalexia's Skin
+script: TR_m2_445_sc_AyemRelic
+mesh: n\ingred_daedra_skin_01.nif

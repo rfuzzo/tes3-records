@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: T_Yne_FurnP_TableS_01
+name: Table
+script: ''
+mesh: pi\o\yn_contp_table_01.nif
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory: []

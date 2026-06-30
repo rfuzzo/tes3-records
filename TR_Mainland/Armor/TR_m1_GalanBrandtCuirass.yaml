@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: TR_m1_GalanBrandtCuirass
+name: Cuirass of Great Bulwark
+script: ''
+mesh: a\A_Ringmail_Cuirass_GND.nif
+icon: a\Tx_Ringmail_cuirass.tga
+enchanting: TR_m1_GalanBrandtCuirassEn
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: a_ringmail_cuirass
+  female_bodypart: ''
+data:
+  armor_type: Cuirass
+  weight: 21.0
+  value: 6000
+  health: 300
+  enchantment: 140
+  armor_rating: 10

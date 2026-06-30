@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: T_SkyOrc_SetNmd_Ch1Hun1
+name: Orc Chest
+script: ''
+mesh: Sky\o\Sky_Cont_Orc_Chest_01.nif
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Com_Var_Harpoon_01
+- - 2
+  - T_Ham_Random_FaunWormmouth
+- - 3
+  - T_Sky_Random_Hide

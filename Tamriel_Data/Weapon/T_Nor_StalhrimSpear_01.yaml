@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Nor_StalhrimSpear_01
+name: Stalhrim Spear
+script: ''
+mesh: tr\w\tr_w_ice_spear.nif
+icon: w\Ice_spear.dds
+enchanting: ''
+data:
+  weight: 52.0
+  value: 35000
+  weapon_type: SpearTwoWide
+  health: 800
+  speed: 1.5
+  reach: 1.8
+  enchantment: 15
+  chop_min: 2
+  chop_max: 19
+  slash_min: 2
+  slash_max: 19
+  thrust_min: 5
+  thrust_max: 50
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

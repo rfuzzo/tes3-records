@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_Pedestal_Muatra
+name: Muatra's Pedestal
+script: TR_m7_Pedestal_Muatra_sc
+mesh: tr\i\tr_in_v_pedestal_01.nif

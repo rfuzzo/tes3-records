@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m7_Narsis_KeyArdi
+name: Ardi Oaken-Cave's Key
+script: ''
+mesh: TR\m\TR_key_DD04.NIF
+icon: TR\m\TR_Key_DD04.dds
+data:
+  weight: 0.0
+  value: 200
+  flags: KEY

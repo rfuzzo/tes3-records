@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: AB_IngFood_DoughRolled
+name: Dough
+script: ''
+mesh: OAAB\n\doughRolled.nif
+icon: OAAB\n\doughRolled.tga
+data:
+  weight: 0.2
+  value: 1
+  effects:
+  - None
+  - None
+  - None
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_act_m4_Inn_21
+name: ''
+script: TR_m4_OmaynisInn_D1
+mesh: tr\x\tr_terr_rock_rr_20.nif

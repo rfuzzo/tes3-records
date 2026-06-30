@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_OE_CirtielAdvert
+name: Advertisement
+script: ''
+mesh: m\text_note_01.nif
+icon: m\tx_note_01.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR><BR>\r\nVisit Cirtiel's Outlandish Goods at the Docks gates!<BR>\r\nThe finest Dark Elf trinkets and baubles for sale!<BR>\r\nLearn the ways of the Zingamajig Ashlanders from<BR>Cirtiel, the traveling Wise-Woman!<BR>\r\n<BR>"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

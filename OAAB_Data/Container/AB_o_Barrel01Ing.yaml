@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: AB_o_Barrel01Ing
+name: Barrel
+script: ''
+mesh: o\Contain_barrel_01.NIF
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 20
+  - AB_lvl_IngBasic

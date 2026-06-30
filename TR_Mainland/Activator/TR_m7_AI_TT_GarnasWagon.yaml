@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m7_AI_TT_GarnasWagon
+name: ''
+script: TR_m7_AI_TT_Q6DisableSc
+mesh: tr\f\tr_furn_wood_wagon.nif

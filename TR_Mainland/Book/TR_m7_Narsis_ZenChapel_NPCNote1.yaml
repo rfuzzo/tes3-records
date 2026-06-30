@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_Narsis_ZenChapel_NPCNote1
+name: Note To Npcer
+script: ''
+mesh: tr\tr_note_pin.nif
+icon: default icon.dds
+enchanting: ''
+text: "have kept bdaccs npc markers, moved them where they fit\r\nthere's a spare trader table but not enough beds for it to be a priest who sleeps here\r\nmy headcanon was a local dunmer lay selling local goods\r\n\r\n- aveno"
+data:
+  weight: 0.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 0

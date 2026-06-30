@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Nor_Ice_Bow_01
+name: Stalhrim Longbow
+script: ''
+mesh: tr\w\tr_w_ice_bow.nif
+icon: tr\w\tr_w_ice_bow.dds
+enchanting: ''
+data:
+  weight: 30.0
+  value: 55000
+  weapon_type: MarksmanBow
+  health: 800
+  speed: 1.1
+  reach: 1.0
+  enchantment: 50
+  chop_min: 2
+  chop_max: 60
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

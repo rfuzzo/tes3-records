@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_AT_monast
+name: Monastery of St. Veloth
+script: OutsideBanner
+mesh: f\Furn_banner_temple_01.nif

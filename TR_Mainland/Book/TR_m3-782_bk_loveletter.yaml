@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3-782_bk_loveletter
+name: Love Letter
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nIt's you and me, my sweetheart, just you and me ... <BR>\r\n<BR>\r\nI love what we made together and I want you to know that no words can describe how deeply you touch my heart.<BR>\r\n<BR>\r\nI tried so hard to put my thoughts on a paper, but words escape every time I try.<BR>\r\n<BR>\r\nI only know that I love you truly ... I love you deeply, more and more each day. I don't know what I would do without you.<BR>\r\n<BR>\r\nYou and me, only you and me until our last days.<BR>\r\n<BR>"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

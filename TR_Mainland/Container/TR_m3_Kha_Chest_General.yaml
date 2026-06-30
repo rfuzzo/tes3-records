@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: TR_m3_Kha_Chest_General
+name: Chest
+script: ''
+mesh: o\contain_com_chest_02.nif
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - TR_m3_Kha_Dae_Amulets
+- - 1
+  - T_Mw_Random_ScrollsLvl3
+- - 1
+  - l_m_potion_h

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m4_FG_CliffracerWhistle
+name: Training Whistle
+script: ''
+mesh: pc\m\PC_Misc_Goblin_Whstl.nif
+icon: pc\m\pc_misc_goblinwhistle.dds
+data:
+  weight: 1.5
+  value: 15
+  flags: ''

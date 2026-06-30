@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m4_AndothDweRuinPillow01
+name: Pillow
+script: TR_m4_AndothDwePillow01_scp
+mesh: m\Misc_Com_Pillow_01.NIF
+icon: m\Misc_Com_Pillow_01.tga
+data:
+  weight: 1.0
+  value: 1
+  flags: ''

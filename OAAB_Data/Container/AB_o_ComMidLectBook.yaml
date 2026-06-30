@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: AB_o_ComMidLectBook
+name: Lectern
+script: ''
+mesh: OAAB\o\commidlectern.nif
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - AB_lvl_bk_Imperial

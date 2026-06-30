@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_Set_Shrine_SaintTrade_01
+name: Shrine of St. Al-Khered
+script: T_ScObj_ShrineSaintTradePC
+mesh: pc\x\pc_ex_wshrn_01.nif

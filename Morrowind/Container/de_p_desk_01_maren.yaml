@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: de_p_desk_01_maren
+name: Desk
+script: ''
+mesh: o\Contain_De_Desk_01.NIF
+encumbrance: 75.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - Misc_SoulGem_Grand

@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: fur_colovian_helm_white
+name: White Colovian Fur Helm
+script: ''
+mesh: a\A_Helm_Colovian_W.NIF
+icon: A\Tx_ColovianHelm_W.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Hair
+  male_bodypart: A_Helm_Colovian_W
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 2.0
+  value: 25
+  health: 70
+  enchantment: 75
+  armor_rating: 7

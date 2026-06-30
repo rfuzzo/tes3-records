@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Glb_Var_SummonFX
+name: ''
+script: T_ScObj_DeleteAfter1700ms
+mesh: TR\f\tr_act_summonfx.nif

@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: TR_m3_braz_i3-453-ind
+name: ''
+script: ''
+mesh: l\Light_OM_brazier.NIF
+icon: ''
+sound: Fire
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 165
+  color:
+  - 255
+  - 128
+  - 0
+  - 0
+  flags: FLICKER | FIRE

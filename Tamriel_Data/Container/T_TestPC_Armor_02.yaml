@@ -1,0 +1,187 @@
+type: Container
+flags: ''
+id: T_TestPC_Armor_02
+name: Vanilla Cyrodiil Armor Chest
+script: ''
+mesh: o\Contain_Com_Chest_01.NIF
+encumbrance: 999.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - DarkBrotherhood Boots
+- - 1
+  - DarkBrotherhood Cuirass
+- - 1
+  - DarkBrotherhood Helm
+- - 1
+  - DarkBrotherhood gauntlet_L
+- - 1
+  - DarkBrotherhood gauntlet_R
+- - 1
+  - DarkBrotherhood greaves
+- - 1
+  - DarkBrotherhood pauldron_L
+- - 1
+  - DarkBrotherhood pauldron_R
+- - 1
+  - T_Imp_AlessianBrnz_Boots_01
+- - 1
+  - T_Imp_AlessianBrnz_Cuirass_01
+- - 1
+  - T_Imp_AlessianBrnz_GauntletL_01
+- - 1
+  - T_Imp_AlessianBrnz_GauntletR_01
+- - 1
+  - T_Imp_AlessianBrnz_Helm_01
+- - 1
+  - T_Imp_AlessianBrnz_PauldronL_01
+- - 1
+  - T_Imp_AlessianBrnz_PauldronR_01
+- - 1
+  - T_Imp_AlessianBrnz_TShield_01
+- - 1
+  - cloth bracer left
+- - 1
+  - cloth bracer right
+- - 1
+  - dragonscale_cuirass
+- - 1
+  - dragonscale_helm
+- - 1
+  - dragonscale_towershield
+- - 1
+  - fur_bearskin_cuirass
+- - 1
+  - fur_boots
+- - 1
+  - fur_bracer_left
+- - 1
+  - fur_bracer_right
+- - 1
+  - fur_colovian_helm
+- - 1
+  - fur_colovian_helm_red
+- - 1
+  - fur_colovian_helm_white
+- - 1
+  - fur_cuirass
+- - 1
+  - fur_gauntlet_left
+- - 1
+  - fur_gauntlet_right
+- - 1
+  - fur_greaves
+- - 1
+  - fur_helm
+- - 1
+  - fur_pauldron_left
+- - 1
+  - fur_pauldron_right
+- - 1
+  - heavy_leather_boots
+- - 1
+  - imperial boots
+- - 1
+  - imperial cuirass_armor
+- - 1
+  - imperial helmet armor
+- - 1
+  - imperial helmet armor_Dae_curse
+- - 1
+  - imperial left gauntlet
+- - 1
+  - imperial left pauldron
+- - 1
+  - imperial right gauntlet
+- - 1
+  - imperial right pauldron
+- - 1
+  - imperial shield
+- - 1
+  - imperial_chain_coif_helm
+- - 1
+  - imperial_chain_cuirass
+- - 1
+  - imperial_chain_greaves
+- - 1
+  - imperial_chain_pauldron_left
+- - 1
+  - imperial_chain_pauldron_right
+- - 1
+  - imperial_greaves
+- - 1
+  - imperial_studded_cuirass
+- - 1
+  - iron boots
+- - 1
+  - iron_bracer_left
+- - 1
+  - iron_bracer_right
+- - 1
+  - iron_cuirass
+- - 1
+  - iron_gauntlet_left
+- - 1
+  - iron_gauntlet_right
+- - 1
+  - iron_greaves
+- - 1
+  - iron_helmet
+- - 1
+  - iron_pauldron_left
+- - 1
+  - iron_pauldron_right
+- - 1
+  - iron_shield
+- - 1
+  - iron_towershield
+- - 1
+  - nordic_iron_cuirass
+- - 1
+  - nordic_iron_helm
+- - 1
+  - nordic_leather_shield
+- - 1
+  - nordic_ringmail_cuirass
+- - 1
+  - silver_cuirass
+- - 1
+  - silver_dukesguard_cuirass
+- - 1
+  - silver_helm
+- - 1
+  - steel_boots
+- - 1
+  - steel_cuirass
+- - 1
+  - steel_gauntlet_left
+- - 1
+  - steel_gauntlet_right
+- - 1
+  - steel_greaves
+- - 1
+  - steel_helm
+- - 1
+  - steel_pauldron_left
+- - 1
+  - steel_pauldron_right
+- - 1
+  - steel_shield
+- - 1
+  - steel_towershield
+- - 1
+  - templar boots
+- - 1
+  - templar bracer left
+- - 1
+  - templar bracer right
+- - 1
+  - templar_cuirass
+- - 1
+  - templar_greaves
+- - 1
+  - templar_helmet_armor
+- - 1
+  - templar_pauldron_left
+- - 1
+  - templar_pauldron_right

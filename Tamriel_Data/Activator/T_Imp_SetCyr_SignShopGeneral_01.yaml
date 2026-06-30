@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_SetCyr_SignShopGeneral_01
+name: ''
+script: SignRotate
+mesh: pc\f\pc_furn_sign_trader_01.nif

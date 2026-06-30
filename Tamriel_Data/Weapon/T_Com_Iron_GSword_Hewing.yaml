@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Com_Iron_GSword_Hewing
+name: Iron Greatsword of Hewing
+script: ''
+mesh: sky\w\sky_w_iron_gsword.nif
+icon: sky\w\sky_w_iron_gsword.dds
+enchanting: dynamic hewing_en
+data:
+  weight: 32.0
+  value: 135
+  weapon_type: LongBladeTwoClose
+  health: 1600
+  speed: 1.25
+  reach: 1.0
+  enchantment: 72
+  chop_min: 1
+  chop_max: 26
+  slash_min: 1
+  slash_max: 24
+  thrust_min: 1
+  thrust_max: 8
+  flags: ''

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_PaintpotB_01
+name: Blue Paint Pot
+script: ''
+mesh: pc\m\pc_misc_p_pot_bl_01.nif
+icon: pc\m\pc_misc_p_pot_bl.dds
+data:
+  weight: 1.0
+  value: 6
+  flags: ''

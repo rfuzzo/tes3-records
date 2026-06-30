@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_CharityAndLeadershipTR
+name: Charity and Leadership
+script: ''
+mesh: m\Text_Octavo_06.NIF
+icon: m\Tx_book_03.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nCharity and Leadership<BR>\r\nby Serjo Indoril Daris Varen<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\"><BR>\r\nHouse Indoril prides itself as being the holiest of Morrowind's Great Houses despite the claims of some of the members of House Redoran. We are the most in touch with the divine ALMSIVI, Blessed Be Their Holy Names, and therefore the true leaders of Morrowind. Many Hlaalu would have you believe that the Empire is the future, and that we should embrace their money-first, godless ways. But this only leads to self destruction as the Empire will, no doubt, soon prove to us.<BR>\r\n<BR>\r\nOur duties lead us to care for those Dunmer that were not born into the good grace of ALMSIVI as we were. For that is our main calling on this plane, to perform charity for the lower class and lead them to a new and better life in the Temple's grace and service. Without our guidance, the people of Morrowind would be spiritually empty and would still be following the darkness of the Daedra.<BR>\r\n<BR>\r\nKnow also that when you find yourself at the mercy of an Indoril, you stand before someone who bears an iron will and the endurance to withstand the harshest tests of the Four Corners of the House of Troubles. Without these two basic traits, one can never hope to be the kind of leader of the people that the Indoril were born to be.<BR>\r\n<BR>\r\nThe blood of the Indoril also flows with many traits: we are natural healers caring for the poor and sickly, as Ayem has shown us with her love. Our mystic minds seek to unravel the true nature of this world and to make ourselves aware of the trick of the false gods, as Seht did before us. Like Vehk has taught us, we must also be ready to shed the blood of our enemies with mace and shield, when speech and open dialogue fail.<BR>"
+data:
+  weight: 2.0
+  value: 40
+  book_type: Book
+  skill: None
+  enchantment: 0

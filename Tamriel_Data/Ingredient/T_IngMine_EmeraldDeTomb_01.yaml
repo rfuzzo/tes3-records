@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngMine_EmeraldDeTomb_01
+name: Emerald
+script: T_ScObj_DeTombSpiritSummon
+mesh: n\Ingred_emerald_01.NIF
+icon: n\Tx_emerald.tga
+data:
+  weight: 0.2
+  value: 150
+  effects:
+  - FortifyMagicka
+  - RestoreHealth
+  - DrainAttribute
+  - DrainAttribute
+  skills:
+  - None
+  - None
+  - Block
+  - Block
+  attributes:
+  - None
+  - None
+  - Agility
+  - Endurance

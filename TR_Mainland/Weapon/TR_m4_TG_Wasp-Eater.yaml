@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m4_TG_Wasp-Eater
+name: Wasp-Eater Dai-Katana
+script: ''
+mesh: tr\w\tr_w_imp_daikatana.nif
+icon: tr\w\tr_w_imp_daikatana.dds
+enchanting: poison arrow_en
+data:
+  weight: 21.0
+  value: 1130
+  weapon_type: LongBladeTwoClose
+  health: 2400
+  speed: 1.35
+  reach: 1.0
+  enchantment: 80
+  chop_min: 1
+  chop_max: 28
+  slash_min: 1
+  slash_max: 24
+  thrust_min: 1
+  thrust_max: 18
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

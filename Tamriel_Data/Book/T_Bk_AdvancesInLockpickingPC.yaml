@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_AdvancesInLockpickingPC
+name: Advances in Lock Picking
+script: ''
+mesh: pc\m\PC_bk_Book_26.nif
+icon: pc\m\pc_bk_book_26.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nAdvances in Lock Picking<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nI am not a writer. I am a thief. I am a good thief. I am not such a good writer. Anyway, I want to write about picking locks. I read a book about designing locks once. It was good. It gave me lots of ideas.<BR>\r\n<BR> \r\nSome guys make locks with angled keyholes. Always carry a bent lockpick. They will work good in these locks. I do, and I open lots of locks. Sometimes I carry copper lockpicks. Copper bends easy. That way I can bend it right there. Copper lockpicks break easy too. Be careful.<BR>\r\n<BR> \r\nSometimes the locks have weird springs. They all spring differently, which makes picking it hard. I hold my torch close to the lock. This makes it hot. When it's hot, the springs are all the same. They don't bounce so differently any more. Be careful not to burn yourself.<BR>\r\n<BR> \r\nSome thieves can't read. If you can't read, get someone to read this book to you. It will make more sense then.<BR>\r\n<BR>"
+data:
+  weight: 2.0
+  value: 200
+  book_type: Book
+  skill: Security
+  enchantment: 0

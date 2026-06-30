@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: TR_m7_q_HH_SeventhFam_Message
+name: Suspicious Message
+script: TR_m7_HH_SeventhFam_Message_sc
+mesh: m\Text_paper_roll_01.nif
+icon: m\Tx_paper_roll_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nDearest Jevale,\r\n<BR>\r\nThe big man is on the lookout for new agricultural investments. Speak with him and bring up the vacant land east of Narun. Pique his interest but be careful not to linger on the subject too long or he will become wary. If all goes well he will purchase it, only to see his newly planted crops and newly purchased slaves all get washed away when the Kanit floods.\r\n<BR>\r\nRegards, F.\r\n<BR>\r\nP.S. I hope all is well at the manor. When you next visit the plantation, bring the latest fashions of the city. \r\n<BR>\r\n\r\n"
+data:
+  weight: 0.2
+  value: 50
+  book_type: Scroll
+  skill: None
+  enchantment: 100

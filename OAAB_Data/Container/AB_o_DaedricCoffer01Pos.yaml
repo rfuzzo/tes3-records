@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: AB_o_DaedricCoffer01Pos
+name: Daedric Coffer
+script: ''
+mesh: OAAB\o\rem_dae_coffer_01.nif
+encumbrance: 40.0
+container_flags: IS_BASE
+inventory:
+- - 15
+  - AB_lvl_Gold001
+- - 1
+  - AB_lvl_TombStuff
+- - 1
+  - AB_lvl_bk_WizardEvil
+- - 2
+  - AB_lvl_c_Jewelry
+- - 2
+  - l_m_potion

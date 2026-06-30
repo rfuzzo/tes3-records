@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m7_Ns_JNS_3_TombBarr
+name: Barrels
+script: TR_m7_Ns_JNS_3_ScTombObjEnable
+mesh: tr\o\tr_cont_barrels_r_01.nif
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - 20
+  - T_Mw_Random_FoodM1/2

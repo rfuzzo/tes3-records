@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m1_ITO_FW_KeyEmberKeep06
+name: Ember Keep Treasure Chamber Key
+script: ''
+mesh: TR\m\TR_Key_DD31.NIF
+icon: TR\m\TR_Key_DD31.dds
+data:
+  weight: 0.0
+  value: 500
+  flags: KEY

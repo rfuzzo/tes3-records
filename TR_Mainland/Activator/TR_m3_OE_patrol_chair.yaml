@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_OE_patrol_chair
+name: ''
+script: TR_m3_OE_HauntPatrol
+mesh: f\Furn_Com_Chair_02.nif

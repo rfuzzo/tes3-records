@@ -1,0 +1,12 @@
+type: Apparatus
+flags: ''
+id: apparatus_g_alembic_01
+name: Grandmaster's Alembic
+script: ''
+mesh: m\Apparatus_G_Alembic_01.nif
+icon: m\Tx_alembic_04.tga
+data:
+  apparatus_type: Alembic
+  quality: 1.5
+  weight: 3.0
+  value: 4000

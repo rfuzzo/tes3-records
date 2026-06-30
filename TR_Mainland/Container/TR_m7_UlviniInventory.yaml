@@ -1,0 +1,47 @@
+type: Container
+flags: ''
+id: TR_m7_UlviniInventory
+name: Drawers
+script: ''
+mesh: o\Contain_De_Drawers_01.NIF
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory:
+- - -1
+  - T_De_Ex_PantsHla_04
+- - -1
+  - T_De_Ex_PantsHla_05
+- - -1
+  - T_De_Ex_PantsHla_06
+- - -1
+  - T_De_Ex_PantsHla_07
+- - -1
+  - T_De_Ex_PantsHla_08
+- - -1
+  - T_De_Ex_RobeHla_01
+- - -1
+  - T_De_Ex_RobeHla_02
+- - -1
+  - T_De_Ex_ShirtHla_04
+- - -1
+  - T_De_Ex_ShirtHla_05
+- - -1
+  - T_De_Ex_ShirtHla_06
+- - -1
+  - T_De_Ex_ShirtHla_07
+- - -1
+  - T_De_Ex_ShirtHla_08
+- - -1
+  - T_De_Ex_ShoesHla_08
+- - -1
+  - T_De_Ex_SkirtHla_04
+- - -1
+  - T_De_Ex_SkirtHla_05
+- - -1
+  - T_De_Ex_SkirtHla_06
+- - -1
+  - T_De_Ex_SkirtHla_07
+- - -4
+  - T_Mw_Random_ClothingFemXvDun
+- - -4
+  - T_Mw_Random_ClothingMaleXvDun

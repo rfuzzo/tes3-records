@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Imp_Legion_Claymore_Poison
+name: Imperial Viperslayer
+script: ''
+mesh: tr\w\tr_w_imp_claymore.nif
+icon: tr\w\tr_w_imp_claymore.dds
+enchanting: cruel viper_en
+data:
+  weight: 28.0
+  value: 180
+  weapon_type: LongBladeTwoClose
+  health: 1900
+  speed: 1.25
+  reach: 1.0
+  enchantment: 90
+  chop_min: 1
+  chop_max: 25
+  slash_min: 1
+  slash_max: 21
+  thrust_min: 1
+  thrust_max: 14
+  flags: ''

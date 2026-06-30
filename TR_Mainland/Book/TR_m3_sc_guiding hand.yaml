@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_sc_guiding hand
+name: Scroll of Guiding Hand
+script: ''
+mesh: m\Text_Scroll_01.nif
+icon: m\Tx_scroll_01.tga
+enchanting: TR_m3_sc_Jalyin
+text: <DIV ALIGN="center"><FONT COLOR="000000" SIZE="2" FACE="Daedric">BY ALMSIVI I COMMAND YOU TO OBEY</FONT><BR>
+data:
+  weight: 0.2
+  value: 350
+  book_type: Scroll
+  skill: None
+  enchantment: 0

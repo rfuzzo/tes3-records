@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Pi_Mine_OrePODiamond3
+name: Diamond
+script: ''
+mesh: pi\o\pi_cont_porock_diam_03.nif
+encumbrance: 0.0
+container_flags: ORGANIC | IS_BASE
+inventory:
+- - 8
+  - random_diamond

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Sc_RedRoseOfTimeTR
+name: The Red Rose of Time
+script: ''
+mesh: m\Text_Scroll_01.nif
+icon: m\Tx_scroll_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe Red Rose of Time<BR>\r\nHoratio Gargonath<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\">\r\nOh you, who laughs at me,<BR>\r\nYou'll not be laughing with glee<BR>\r\nWhen time has slowly crept upon you,<BR>\r\nand you seek to hide in morning dew.<BR><BR>\r\nI tell you I will find you<BR>\r\nAmongst concealing blades.<BR>\r\nI tell you I will find you<BR>\r\nWithin the deadly glades.<BR><BR>\r\nDeath will be swift and painless<BR>\r\nFor my poisoned thorns are quite famous<BR>\r\nI fail to see why you hide...<BR>\r\nYou who above all else, time cannot abide.<BR><BR>\r\nYou who believes in your security<BR>\r\nThat nothing, no one, can defeat your surity<BR>\r\nTime, my friend, will find you one day<BR>\r\nAnd on that day, I promise - you'll pray<BR>"
+data:
+  weight: 1.1
+  value: 50
+  book_type: Scroll
+  skill: None
+  enchantment: 0

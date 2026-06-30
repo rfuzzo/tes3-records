@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m2_q_A9_6_skull
+name: Dunmer Skull
+script: TR_m2_q_A9_6_SkullScript
+mesh: m\misc_skull00.nif
+icon: m\misc_skull00.tga
+data:
+  weight: 0.5
+  value: 0
+  flags: ''

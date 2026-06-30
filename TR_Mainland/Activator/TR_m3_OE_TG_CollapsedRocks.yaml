@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_OE_TG_CollapsedRocks
+name: Collapsed Rocks
+script: TR_m3_OE_TG_ChunzefkRockSCP
+mesh: i\act_dwe_cavein00.NIF

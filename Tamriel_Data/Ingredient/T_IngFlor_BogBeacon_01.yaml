@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_BogBeacon_01
+name: Bog Beacon Cap
+script: ''
+mesh: pc\n\PC_Ing_BogBeacon.nif
+icon: pc\n\pc_tx_ingred_bogbeacon.dds
+data:
+  weight: 0.1
+  value: 1
+  effects:
+  - RestoreMagicka
+  - Shield
+  - DamageAttribute
+  - DamageAttribute
+  skills:
+  - None
+  - None
+  - Block
+  - Block
+  attributes:
+  - None
+  - None
+  - Personality
+  - Endurance

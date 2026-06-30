@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_AbMonitor_39
+name: QUEEN MILLONA DEPOSED
+script: T_ScNews_Bellman_Paper
+mesh: pc\m\pc_text_note_anv_news.nif
+icon: pc\m\pc_text_note_anv_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"PC\\pc_abmonitor.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nQUEEN MILLONA DEPOSED, NEW QUEEN CROWNED<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nGoldstone sources have confirmed reports that Millona Pelelia Conomorus, Queen of Anvil since 3E 407, has been removed from power. While the circumstances surrounding her fall remain unclear at this time, there can be no doubt that the Kingdom of Anvil is now entering a new and unexpected era. A spokesperson for Goldstone confirmed that Queen Millona remains safe and unharmed.<BR><BR>\r\nAccording to reports, Akaterina Hadrach made the customary royal donative to the Red Treasury shortly after Queen Millona conceded the throne, and in doing so thus claimed the Trident Crown. The new Queen Akaterina has urged calm and patience while her administration takes control of the realm, and has promised that her predecessor's most important investments will be maintained. The Kingdom's Marshals, Reeves, and guard captains, including Queen Millona's brother Marshal Reymanus Pelelius, are expected to retain their positions, at least for the moment.<BR><BR>\r\nQueen Millona, who entered her office as the wife and queen of the elected King Claudius Conomorus, has ruled ably in her own right since the disappearance of King Claudius some ten years ago. Known for her generous support of local charitable institutions, sponsorship of the arts, and infrastructure projects, Queen Millona used the power of her throne in the service of the common people, a trait altogether too rare in these times.<BR><BR>\r\nThe Abecean Monitor makes no secret of its longstanding support for the deposed Queen Millona. While our staff are disappointed in this outcome, we ask that the new Queen consider with fresh eyes the many wise decisions of her good-hearted predecessor, and continue to support this newspaper's editorial independence. The Monitor is a critical paper of record for the entire Abecean region, one which informs readers from Taneth to Firsthold on the happenings that most affect their lives. We look forward to a new and productive journalistic relationship with Queen Akaterina and her administration.<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

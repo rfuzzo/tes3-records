@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: TR_m7_Narsis_UlveniBarr
+name: Barrel
+script: ''
+mesh: o\contain_barrel10.nif
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - -1
+  - T_Imp_Silver_Greaves_01
+- - -5
+  - T_IngMine_OreSilver_01

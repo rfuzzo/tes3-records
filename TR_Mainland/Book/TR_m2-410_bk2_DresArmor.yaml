@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2-410_bk2_DresArmor
+name: Dres Armor
+script: ''
+mesh: m\Text_Parchment_02.NIF
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThis suit of armor belonged to Giladis Rothan who was slain in the Argonian borderlands during the Arnesian War. Rothan was born in Silnim and was a proud servant-at-arms of Great House Dres. At the height of the war effort he helped quell the uprisings of Argonian slaves in Dres plantations and was commended for services to our nation. Towards the end of the war, Rothan helped lead a detachment of warriors in battle against our heathen foe. At the peak of his victory, however, the proud warrior of Dres was brought low by Argonian poisons in a fierce battle. Our warriors did not leave his sacrifice in vain, however, and the proud soldiers of Great House Indoril and Dres overran the enemy encampment and secured the final and greatest victory of the war. The Rothan family agreed that his ashes might be brought here to Necrom to serve as a memorial to all those brave Dunmeri warriors who fought and died for the Tribunal during the Arnesian War.  \r\n<BR>"
+data:
+  weight: 0.1
+  value: 5
+  book_type: Scroll
+  skill: None
+  enchantment: 0

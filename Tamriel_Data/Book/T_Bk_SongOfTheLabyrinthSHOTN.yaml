@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_SongOfTheLabyrinthSHOTN
+name: The Song of the Labyrinth
+script: ''
+mesh: sky\m\sky_book_basic_04.nif
+icon: sky\m\tx_book_basic_04.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe Song of the Labyrinth<BR>\r\nby Thelen Kaarn, 3E 386<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\n<BR>\r\n[Author's note: This song has been in my family since the late First Empire. I can't say whether or not this is true, but it is still something worth mentioning. I've merely copied this song down so it is not forgotten by history and our people.]<BR>\r\n<BR>\r\n\"This is the tale of two brothers,<BR>\r\nwho sought the secret of life.<BR>\r\nThey ventured into this labyrinthian,<BR>\r\nweary from war and strife.<BR>\r\n<BR>\r\nThe first was Kanen the Elder,<BR>\r\na strong and cunning man.<BR>\r\nHe quested for riches and jewels,<BR>\r\nyet found Orkey had other plans.<BR>\r\n<BR>\r\nThe second was Mogrus the Dim,<BR>\r\nand few knew what he was worth.<BR>\r\nThey saw only the lumbering giant,<BR>\r\nnot the child who was blessed at birth.<BR>\r\n<BR>\r\nKanen had spoken of treasure,<BR>\r\nGlamoril beckoned his ear.<BR>\r\nTo descend into Labyrinthian,<BR>\r\nand be free of Old Knocker's sneer.<BR>\r\n<BR>\r\nThe few they told of their plans,<BR>\r\nbegged them to desist at their feet.<BR>\r\nBut the brothers would test this puzzle to the North,<BR>\r\nfor till then they had known no defeat.<BR>\r\n<BR>\r\nMogrus the Dim had followed his brother,<BR>\r\ninto the web of stone and death.<BR>\r\nAt the fork the left each other,<BR>\r\nAnd apart, held their last breath.<BR>\r\n<BR>\r\nMogrus fell first, eaten in full,<BR>\r\nCleaved to Dragon's Jot.<BR>\r\nKanen fell second, starved and poisoned,<BR>\r\nAnd the brothers were left to rot.<BR>\r\n<BR>\r\nThe Glamoril is still waiting,<BR>\r\nsomewhere by watchful eye.<BR>\r\nThe stubborn magicks of Shalidor protecting,<BR>\r\nwhere the secret of life still lies.<BR>\r\n<BR>\r\nThis is the tale of two brothers,<BR>\r\nwho failed the secret of life.<BR>\r\nForever held by two riddles which lead to the prize,<BR>\r\nand a wit as cunning, and sharp as a knife...\"<BR>"
+data:
+  weight: 1.0
+  value: 50
+  book_type: Book
+  skill: None
+  enchantment: 100

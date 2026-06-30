@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Imp_UNI_WeatherwardCirclet
+name: Weatherward Circlet
+script: ''
+mesh: pc\c\pc_c_weatherward_uni.nif
+icon: pc\c\pc_c_weatherward_uni.dds
+enchanting: T_Const_WeatherwardCirclet
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 5200
+  enchantment: 0

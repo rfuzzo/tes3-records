@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngSpice_Cinnamon_01
+name: Cinnamon Bark
+script: ''
+mesh: sum\n\sum_n_cinnamon01.nif
+icon: sum\n\sum_n_cinnamon01.dds
+data:
+  weight: 0.2
+  value: 40
+  effects:
+  - FireDamage
+  - RestoreSkill
+  - DamageFatigue
+  - None
+  skills:
+  - None
+  - Destruction
+  - None
+  - None
+  attributes:
+  - None
+  - Strength
+  - None
+  - None

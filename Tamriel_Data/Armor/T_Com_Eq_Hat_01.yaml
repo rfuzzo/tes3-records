@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Com_Eq_Hat_01
+name: Exquisite Hat
+script: ''
+mesh: pc\a\pc_a_exquis_hat_01_g.nif
+icon: pc\a\pc_a_exquis_hat_01.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Hair
+  male_bodypart: T_C_ComEqHat01_Hr
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 3.0
+  value: 100
+  health: 100
+  enchantment: 200
+  armor_rating: 7

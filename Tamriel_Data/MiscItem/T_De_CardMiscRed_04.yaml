@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_CardMiscRed_04
+name: 'Redoran Warrior: Soldier'
+script: ''
+mesh: tr\m\tr_misc_card_r_warrior.nif
+icon: tr\m\tr_misc_card_r_warrior.dds
+data:
+  weight: 0.02
+  value: 20
+  flags: ''

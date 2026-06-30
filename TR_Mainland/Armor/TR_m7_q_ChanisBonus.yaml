@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: TR_m7_q_ChanisBonus
+name: Chanis' Glass Helm
+script: ''
+mesh: a\A_Glass_Helmet.nif
+icon: a\TX_Glass_helmet.tga
+enchanting: TR_m7_q_ChanisBonus_en
+biped_objects:
+- biped_object_type: Hair
+  male_bodypart: a_glass_helmet
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 3.0
+  value: 16900
+  health: 500
+  enchantment: 150
+  armor_rating: 50

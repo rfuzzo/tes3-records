@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m3_dwemeroreprobe
+name: Dwemer Ore Probe
+script: TR_m3_dwemeroreprobe_scr
+mesh: TR\m\TR_misc_explodo_eye.NIF
+icon: TR\m\TR_misc_dwrv_exp_eye.dds
+data:
+  weight: 10.0
+  value: 500
+  flags: ''

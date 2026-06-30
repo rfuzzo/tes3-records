@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m1_q_GaldasiReward
+name: Amulet of Swiftstep
+script: ''
+mesh: c\Amulet_Common_2.NIF
+icon: c\tx_amulet_com2.tga
+enchanting: TR_m1_q_Galdasi Amulet
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 950
+  enchantment: 10

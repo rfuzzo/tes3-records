@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: dwarven mace
+name: Dwarven Mace
+script: ''
+mesh: w\W_Dwemer_mace.nif
+icon: w\Tx_Dwemer_mace.tga
+enchanting: ''
+data:
+  weight: 15.0
+  value: 360
+  weapon_type: BluntOneHand
+  health: 3000
+  speed: 1.5
+  reach: 1.0
+  enchantment: 50
+  chop_min: 5
+  chop_max: 17
+  slash_min: 5
+  slash_max: 17
+  thrust_min: 1
+  thrust_max: 2
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

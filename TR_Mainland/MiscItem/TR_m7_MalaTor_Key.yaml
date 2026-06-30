@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m7_MalaTor_Key
+name: Mala Tor Keystone
+script: ''
+mesh: pc\m\pc_ay_key_01.nif
+icon: pc\m\pc_ay_key_01.dds
+data:
+  weight: 0.4
+  value: 300
+  flags: KEY

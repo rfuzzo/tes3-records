@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: misc_com_bottle_07
+name: Jug
+script: ''
+mesh: m\Misc_Com_Bottle_07.NIF
+icon: m\Misc_Com_Bottle_07.tga
+data:
+  weight: 2.0
+  value: 2
+  flags: ''

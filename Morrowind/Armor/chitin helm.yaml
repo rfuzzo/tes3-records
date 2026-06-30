@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: chitin helm
+name: Chitin Helm
+script: ''
+mesh: a\A_M_Chitin_Helmet.nif
+icon: a\TX_Chitin_helmet.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: Head
+  male_bodypart: a_m_chitin_helmet
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 1.0
+  value: 19
+  health: 100
+  enchantment: 125
+  armor_rating: 10

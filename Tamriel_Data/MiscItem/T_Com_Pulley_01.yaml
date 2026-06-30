@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_Pulley_01
+name: Pulley
+script: ''
+mesh: pc\m\PC_misc_pulley.nif
+icon: pc\m\pc_tx_pulley.dds
+data:
+  weight: 2.0
+  value: 2
+  flags: ''

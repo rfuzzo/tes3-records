@@ -1,0 +1,20 @@
+type: Alchemy
+flags: ''
+id: T_Nor_Potion_FortifyAgility_C
+name: Cheap Fortify Agility
+script: ''
+mesh: Sky\m\Sky_Misc_Potion_P_C.nif
+icon: Sky\m\Tx_Misc_Potion_P_C.dds
+effects:
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Agility
+  range: OnSelf
+  area: 0
+  duration: 15
+  min_magnitude: 8
+  max_magnitude: 8
+data:
+  weight: 0.6
+  value: 15
+  flags: ''

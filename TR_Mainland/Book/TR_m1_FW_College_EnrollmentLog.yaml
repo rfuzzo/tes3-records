@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_FW_College_EnrollmentLog
+name: Enrollment Log
+script: ''
+mesh: tr\m\tr_book_notebk_o_01.nif
+icon: tr\m\tr_book_open_ntbk01.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>College of Firewatch\r\nBR>Enrollment Log<BR><BR><DIV ALIGN=\"Left\">\r\n<BR>\r\nYear - 427\r\n<BR>\r\n- Adette Riatelle, third year | Innovations in Magecraft\r\n<BR>\r\n- Antonius Machus, fourth year | Modern Morrowind History\r\n<BR>\r\n- Endinalas, second year | Principles of Alchemy\r\n<BR>\r\n- Eririda Vendidus, second year | Archaeological Methods\r\n<BR>\r\n- Ladil, second year | Philosophies of Dark Elven Thought\r\n<BR>\r\n- Malpeg gro-Hersgrun, first year | Principles of Alchemy\r\n<BR>\r\n- Marcus Bennelus, first year | Philosophies of Dark Elven Thought\r\n<BR>\r\n- Peera-Jah, first year | Innovations in Magecraft\r\n<BR>\r\n[The rolls go back much further.]\r\n<BR>"
+data:
+  weight: 1.0
+  value: 10
+  book_type: Book
+  skill: None
+  enchantment: 0

@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_CyrImp_DngColB_j2Empty
+name: Clay Jar
+script: ''
+mesh: pc\o\PC_Col_Barr_Jar2.nif
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Glb_Empty

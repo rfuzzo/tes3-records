@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_ToolHandscythe00
+name: Farmer's Sickle
+script: ''
+mesh: OAAB\w\hand_scythe00.nif
+icon: OAAB\w\tool_handscythe00.tga
+enchanting: ''
+data:
+  weight: 0.9
+  value: 9
+  weapon_type: ShortBladeOneHand
+  health: 150
+  speed: 2.5
+  reach: 0.9
+  enchantment: 10
+  chop_min: 3
+  chop_max: 6
+  slash_min: 5
+  slash_max: 7
+  thrust_min: 1
+  thrust_max: 2
+  flags: ''

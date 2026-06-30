@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Glb_Var_WereboarMorph
+name: ''
+script: sprigganeffect
+mesh: sky\f\sky_wereboar_morph.NIF

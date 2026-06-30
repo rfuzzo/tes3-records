@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_immetarca_walkway
+name: ''
+script: TR_m4_immetarca_path_script
+mesh: EditorMarker_box_01.NIF

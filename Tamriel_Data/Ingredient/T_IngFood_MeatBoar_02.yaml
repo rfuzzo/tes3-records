@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_MeatBoar_02
+name: Boar Meat
+script: ''
+mesh: Sky\n\Sky_Ingred_Meat_03.nif
+icon: Sky\n\Tx_Ingred_Meat_03.dds
+data:
+  weight: 1.0
+  value: 2
+  effects:
+  - RestoreFatigue
+  - ResistFrost
+  - DrainAttribute
+  - None
+  skills:
+  - None
+  - Block
+  - Block
+  - None
+  attributes:
+  - None
+  - Speed
+  - Agility
+  - None

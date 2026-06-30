@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_AbMonitor_12
+name: 'EDITORIAL: DARK ELF SLAVERY'
+script: T_ScNews_Bellman_Paper
+mesh: pc\m\pc_text_note_anv_news.nif
+icon: pc\m\pc_text_note_anv_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"PC\\pc_abmonitor.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nEDITORIAL: THE COSTS OF DARK ELF SLAVERY<BR>by Cydne Jouarge<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nNone doubt that the Law reigns supreme in the Empire -- indeed, the Empire IS Law, as the Emperor's coinage and proclamations so often remind us. In the West, the inviolability of Sacred Law is held implicit, and the maxims of Imperial order hold sway throughout public life. This enlightened, civilized consensus holds from Lune to the Nibenmouth, in almost every land of this vast continent. Even the Summersets have been held to account before the light of Imperial Law, and the grim serfdom once common in those lands no longer poisons the human soul.<BR><BR>\r\nOnly in Morrowind -- impudent, intemperate Morrowind -- does the barbarity of slavery still blight the face of modernity. Only in Morrowind does the law of Tiber Imperator stand silent before the savage law of petty subject fiefdoms. Only in Morrowind does the promise of Alessia and Tiber fall to its knees, gasping for breath in the choking ash of that cruel land.<BR><BR>\r\nSome Western defenders of slavery have chosen to depict the Armistice of the last era as itself a shackle around the Imperial wrist, binding and twisting our shared common Law to protect its Dark Elf subjects' pernicious institution. But this is a folly. Imperial Law is upheld by the Imperial Legions, the mightiest fighting force ever assembled. Should justice come to pass, and the Emperor withdraw the provisions of the Armistice, none but the most foolish slavers would dare to contest the Legions' might.<BR><BR>\r\nThe natural proclivities of man are the foundational principle of Sacred Law, as upheld by centuries of legal tradition. The imposition of slavery on a free Empire is an affront to the dignity of the enslaved and free alike, as those of us who watch helpless as Imperial citizens languish in the chattel pits of Tear or the sweltering plantations of the Thirr must witness with horror the desecration of Imperial Law. Four and a half centuries of this insult must be met with answer -- by the sword, if necessary.<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

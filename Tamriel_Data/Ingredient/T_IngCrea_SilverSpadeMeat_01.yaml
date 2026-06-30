@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_SilverSpadeMeat_01
+name: Silver Spade Meat
+script: ''
+mesh: pi\n\pi_ing_silverspademeat.nif
+icon: pi\n\pi_ing_silverspademeat.dds
+data:
+  weight: 2.0
+  value: 5
+  effects:
+  - RestoreFatigue
+  - None
+  - None
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

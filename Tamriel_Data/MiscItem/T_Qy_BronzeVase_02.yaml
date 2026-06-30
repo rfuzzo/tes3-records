@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Qy_BronzeVase_02
+name: Bronze Vase
+script: ''
+mesh: pi\m\pi_m_cnq_b_vase_02.nif
+icon: pi\m\pi_m_cnq_b_vase_02.dds
+data:
+  weight: 4.0
+  value: 25
+  flags: ''

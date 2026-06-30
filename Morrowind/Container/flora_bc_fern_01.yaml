@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: flora_bc_fern_01
+name: Slough Fern
+script: ''
+mesh: f\Flora_BC_Fern_01.NIF
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 3
+  - ingred_bc_spore_pod

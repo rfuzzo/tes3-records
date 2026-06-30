@@ -1,0 +1,12 @@
+type: Apparatus
+flags: ''
+id: T_De_Ebony_Alembic
+name: Ebony Alembic
+script: ''
+mesh: tr\m\tr_app_e_alembic.nif
+icon: tr\m\tr_app_e_alembic.dds
+data:
+  apparatus_type: Alembic
+  quality: 1.75
+  weight: 9.0
+  value: 3200

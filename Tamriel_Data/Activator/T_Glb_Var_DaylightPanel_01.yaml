@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Glb_Var_DaylightPanel_01
+name: ''
+script: T_ScObj_DaylightPanel
+mesh: pc\i\PC_In_Daylightpanel.nif

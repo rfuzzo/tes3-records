@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_De_UNI_AmuletOfPrecision
+name: Amulet of Precision
+script: ''
+mesh: c\amulet_common_3.nif
+icon: c\tx_amulet_com3.dds
+enchanting: T_Const_Precision
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 85
+  enchantment: 20

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Furn_DeRchBedDouble02
+name: Bed
+script: Bed_Standard
+mesh: OAAB\u\de_r_bed_d2_blue.nif

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_NOTE_NarsisMG
+name: Note To Self
+script: ''
+mesh: tr\tr_note_pin.nif
+icon: default icon.dds
+enchanting: ''
+text: "Exterior tower windows need update to reflect int windows. Their placements are included in main floor tower.\r\n\r\nLighting is fairly standardized in 1st floor, guild guide pad, training hall, and arch mage's quarters. arboretum should be bright due to plants needing light. supplied by windows and orb assets. summoning chamber I left untouched from tani's lighting, I thought it looked good but its your call if the standard lighting is better. reactor room is a little darker to let the reactor lighting pop. library is also untouched from tani's lighting, again I'm leaving this up to the reviewer. \r\n\r\nSome Breton assets are used  throughout the claim to characterize the archmage's heritage more. The only ones I added were the lamps in the archmage's chambers and some alcohol on the meeting table on the first floor interior, the rest are tani's placements. \r\n\r\nTani had implemented some NPCs already, and one was shuffled over to the Labs from the main floor. I'm not sure of the extent she added ownership to things. \r\n\r\nClaim calls for rich furnature, although m furnature is utilized in some common areas and work areas. \r\n\r\nThe orbs in the arboretum were assets tani was waiting on for this tower. Default resolution texture version are missing glow maps\r\n\r\n1st floor to be renamed Guild of Mages: Foyer\r\nTraining hall to be renamed Guild of Mages: Labs\r\nGuild Pad to be renamed Guild of Mages: Commons\r\nReactor Room -> Genatorium? not sure\r\n\r\nUPD (FlinSunset):\r\nleaving the 1st floor as \"Narsis, Guild of Mages\" for dialogue filtering\r\nrenamed the Training Hall to Laboratories\r\nrenamed the Guild Guide Pad to Commons\r\nrenamed the Reactor Room to Genatorium\r\n\r\nPer tani - in arcane lab, pottery assets from different provinces are used to denote a collecting hobby of the caretaker there\r\n\r\nQuesters please make use of the bulletin board in commons for quest hooks\r\n\r\n2 NPCS to be teleported from rescues quests to main floor, be sure there is space for them\r\n\r\nReminder for JNMD, please script itermerel's notes reactor room to appear if npc returns after vanilla quest\r\nUPD (FlinSunset): done\r\n\r\nAdditionally Tani noted the reactor control panel needed scripts\r\n\r\n"
+data:
+  weight: 0.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 0

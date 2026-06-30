@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m7_Amulet_Circumnavigation
+name: Amulet of Circumnavigation
+script: ''
+mesh: c\Amulet_Expensive_2.NIF
+icon: c\tx_amulet_expens2.tga
+enchanting: TR_m7_Amulet_Circumnavi_en
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 320
+  enchantment: 100

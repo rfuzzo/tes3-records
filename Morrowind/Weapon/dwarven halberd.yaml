@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: dwarven halberd
+name: Dwarven Halberd
+script: ''
+mesh: w\W_Dwemer_halberd.nif
+icon: w\Tx_Dwemer_halberd.tga
+enchanting: ''
+data:
+  weight: 24.0
+  value: 600
+  weapon_type: SpearTwoWide
+  health: 1000
+  speed: 1.0
+  reach: 1.8
+  enchantment: 70
+  chop_min: 3
+  chop_max: 17
+  slash_min: 1
+  slash_max: 13
+  thrust_min: 5
+  thrust_max: 28
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

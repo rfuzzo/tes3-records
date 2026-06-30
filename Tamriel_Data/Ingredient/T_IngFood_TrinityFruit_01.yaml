@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_TrinityFruit_01
+name: Trinity Fruit
+script: ''
+mesh: pc\n\pc_ing_trinfruit.nif
+icon: pc\n\pc_tx_ingred_trinfruit.dds
+data:
+  weight: 0.2
+  value: 1
+  effects:
+  - DrainAttribute
+  - ResistFire
+  - WeaknessToPoison
+  - RestoreHealth
+  skills:
+  - Block
+  - Block
+  - Block
+  - None
+  attributes:
+  - Luck
+  - Luck
+  - Luck
+  - None

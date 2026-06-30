@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: in_dagoth_taunt2
+name: ''
+script: DagothTaunt_2
+mesh: i\in_dwrv_hall4_02.nif

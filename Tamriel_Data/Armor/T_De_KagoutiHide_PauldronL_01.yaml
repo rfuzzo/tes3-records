@@ -1,0 +1,22 @@
+type: Armor
+flags: ''
+id: T_De_KagoutiHide_PauldronL_01
+name: Kagouti Hide Left Pauldron
+script: ''
+mesh: tr\a\tr_a_kagouti_pldrn_gnd.nif
+icon: tr\a\tr_a_kagouti_pauldron.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: LeftUpperArm
+  male_bodypart: T_A_DeKagoutiHidePauldron_01_UA
+  female_bodypart: ''
+- biped_object_type: LeftPauldron
+  male_bodypart: T_A_DeKagoutiHidePauldron_01_Cl
+  female_bodypart: ''
+data:
+  armor_type: LeftPauldron
+  weight: 4.0
+  value: 185
+  health: 150
+  enchantment: 20
+  armor_rating: 25

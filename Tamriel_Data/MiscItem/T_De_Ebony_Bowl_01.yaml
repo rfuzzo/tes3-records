@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_Ebony_Bowl_01
+name: Ebony Bowl
+script: ''
+mesh: tr\m\tr_misc_ebony_bowl_01.nif
+icon: tr\m\tr_misc_ebony_bowl_01.dds
+data:
+  weight: 6.5
+  value: 400
+  flags: ''

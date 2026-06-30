@@ -1,0 +1,12 @@
+type: Alchemy
+flags: ''
+id: TR_m3_voicebottle5
+name: '"Veradul Delvas"'
+script: ''
+mesh: m\Misc_Potion_Fresh_01.nif
+icon: m\Tx_potion_fresh_01.tga
+effects: []
+data:
+  weight: 0.5
+  value: 0
+  flags: ''

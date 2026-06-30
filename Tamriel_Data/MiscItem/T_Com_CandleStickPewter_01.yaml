@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_CandleStickPewter_01
+name: Pewter Candlestick
+script: ''
+mesh: pc\m\PC_Misc_Candelabra_01.nif
+icon: pc\m\pc_misc_candelabra01.dds
+data:
+  weight: 4.0
+  value: 10
+  flags: ''

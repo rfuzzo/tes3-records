@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: ex_t_pc_hold_root_stem_p1_comp
+name: ''
+script: Strong1_Only
+mesh: x\Ex_T_root_stem.NIF

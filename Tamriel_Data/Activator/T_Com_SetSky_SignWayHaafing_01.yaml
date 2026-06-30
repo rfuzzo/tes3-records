@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Com_SetSky_SignWayHaafing_01
+name: Haafingar
+script: ''
+mesh: sky\x\sky_act_rsign_haaf1.nif

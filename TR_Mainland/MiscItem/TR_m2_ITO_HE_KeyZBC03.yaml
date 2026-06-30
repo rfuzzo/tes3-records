@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m2_ITO_HE_KeyZBC03
+name: ZBC Staff Key
+script: ''
+mesh: TR\m\TR_Key_DD31.NIF
+icon: TR\m\TR_Key_DD31.dds
+data:
+  weight: 0.0
+  value: 100
+  flags: KEY

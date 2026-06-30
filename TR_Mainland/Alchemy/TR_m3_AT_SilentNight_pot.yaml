@@ -1,0 +1,20 @@
+type: Alchemy
+flags: ''
+id: TR_m3_AT_SilentNight_pot
+name: Narusya's Potion of Silence
+script: ''
+mesh: tr\m\TR_misc_potion_03.NIF
+icon: tr\m\TR_misc_potion_03.dds
+effects:
+- magic_effect: Silence
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 1200
+  min_magnitude: 1
+  max_magnitude: 1
+data:
+  weight: 0.3
+  value: 200
+  flags: ''

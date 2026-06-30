@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Bellman_23
+name: GENERAL CASIK ACQUITTED
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_note_oe_news.nif
+icon: tr\m\tr_note_oe_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\TR_bellman_512_256.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nGENERAL CASIK ACQUITTED<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nIn a shocking reversal, the former general Casik has been acquitted of all charges and released from Legion custody, following a three-decade stint in the city dungeons. Minister of Justice Belisatha Mede, citing the vital assistance of a capable %PCRace %PCClass, informed the Bellman that the freed Casik has been cleared of any ties to the traitorous plots of Jagar Tharn, and intends to return to his family in the Nibenay. Though the former general has been found innocent, the threat of Tharnite conspiracy remains, and citizens are encouraged to report any information on such treasons to the authorities.<br><br>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

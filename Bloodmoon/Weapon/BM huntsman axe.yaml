@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: BM huntsman axe
+name: Huntsman Axe
+script: ''
+mesh: w\W_Huntsman_waraxe.NIF
+icon: w\Huntsman_waraxe.dds
+enchanting: ''
+data:
+  weight: 24.0
+  value: 100
+  weapon_type: AxeOneHand
+  health: 800
+  speed: 1.25
+  reach: 1.0
+  enchantment: 50
+  chop_min: 1
+  chop_max: 20
+  slash_min: 1
+  slash_max: 15
+  thrust_min: 1
+  thrust_max: 3
+  flags: ''

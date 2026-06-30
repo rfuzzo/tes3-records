@@ -1,0 +1,25 @@
+type: Container
+flags: ''
+id: T_MwCom_Var_Cr1RedBM_02
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_De_Bonemold_Water_Boots
+- - 1
+  - T_De_Bonemold_Water_BracerL
+- - 1
+  - T_De_Bonemold_Water_BracerR
+- - 1
+  - T_De_Bonemold_Water_Cuirass
+- - 1
+  - T_De_Bonemold_Water_Greaves
+- - 1
+  - T_De_Bonemold_Water_Helm
+- - 1
+  - T_De_Bonemold_Water_PauldL
+- - 1
+  - T_De_Bonemold_Water_PauldR

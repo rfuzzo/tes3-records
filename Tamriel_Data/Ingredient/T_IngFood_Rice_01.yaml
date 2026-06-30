@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_Rice_01
+name: Rice
+script: ''
+mesh: pc\n\pc_ingred_rice.nif
+icon: pc\n\pc_tx_ingred_rice.dds
+data:
+  weight: 0.1
+  value: 1
+  effects:
+  - RestoreFatigue
+  - None
+  - None
+  - None
+  skills:
+  - None
+  - Block
+  - Block
+  - None
+  attributes:
+  - None
+  - Agility
+  - Strength
+  - None

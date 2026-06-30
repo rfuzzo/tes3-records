@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Dae_UNI_Gem_Goblet_01
+name: Gem Encrusted Goblet
+script: ''
+mesh: tr\m\tr_m_cup_passage.nif
+icon: tr\m\tr_m_cup_passage.dds
+data:
+  weight: 10.0
+  value: 25000
+  flags: ''

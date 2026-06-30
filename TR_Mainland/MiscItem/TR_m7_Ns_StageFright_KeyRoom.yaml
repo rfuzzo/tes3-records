@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m7_Ns_StageFright_KeyRoom
+name: Mederyl Llendules' Key
+script: ''
+mesh: TR\m\TR_key_DD01.NIF
+icon: TR\m\TR_Key_DD01.dds
+data:
+  weight: 0.0
+  value: 50
+  flags: KEY

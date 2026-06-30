@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_He_ClayPot_01
+name: Clay Pot
+script: ''
+mesh: sum\m\sum_misc_clay_pot_01.nif
+icon: sum\m\sum_misc_clay_pot_01.dds
+data:
+  weight: 2.0
+  value: 5
+  flags: ''

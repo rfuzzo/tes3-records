@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_CodifiedLaw01PC
+name: Codified Law, Vol. I
+script: ''
+mesh: pc\m\PC_bk_Book_08.nif
+icon: pc\m\pc_bk_book_08.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nCODIFIED LAW<BR>\r\n-- Vol. I --<BR>\r\n<BR>\r\nThe Empire is Law;<BR>\r\nThe Law is Sacred<BR>\r\n<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n[The Alessian Doctrines, written by the prophet Marukh, were the founding edicts of the so-called Alessian Order. Though considered heretic and blasphemous today, some Marukhati principles remain the foundation of Imperial Law. Excerpt-books such as this one are one of the few ways in which the Doctrines are allowed to be promulgated, and even then only among authorized students and practitioners of law. They are encrypted by legal ciphers whose keys are the closely guarded secrets of the Guild of Barristers.] <BR>\r\n<BR>\r\nNHP BUMG GBQ - ICM - LCIWM GW MUY EMEDBGID KNUHELUIA IGQ BQ ANQW - YYF GBCK FYDDNVMF NIQFB MUYUZ - GWGTOQA - VV VVLOTRA PVNTWHB FRUZQAO ERN FPRU - PUCEXRZ - MUY IWBLL SID Q NU IEIFMPBXQ VK BUM - XKUXBRL - HAY EPR EAB CE VVVX GBACFIGQ MBQEQMF IR OEMTG - QTQFXXE - UZL GPX FIDKRZHHM AVRA WRPUARL T PUSM SWK GBQ - ICM - TAX TQF BAEYQ JHUUYCZO NALVMFIABL GBQQE VTZYE ERZX - CMGSUIT - ZODVNI - DULGCXIT - NHP BUZHHAT BJQLGCZO GPXVL - FWAONRM - FPRG FNXQ BUM UEUZKUML TLAE VV T - CLUABV - TAX EW RVLAUDMQ BAR - UBM - FXHXY MONQG FUKQAO - T TLQIGMK PUSM GPTA NTQF Q ANPQ TVDXQ CZ - IYT FL FUNR - EBYF XQIM BA GMVL GXNLE AGQEY\r\n\r\n\r\nTAX U EVTE TI - QIFB - MBQMZQA MUY UAYML BZ XIZMGGUFQBV PUYDM ZG - OBCOM - JQEY LQIPP MUY QIE WY XCZOF OKRUFME BANH KWH - NHE WQVGCKL C TIIM WBHQ - XRVTAWQ - BB ANSZQZ VA MUY ZIGCKR MFIGM HS YJQFBXAWQ BUM PUCFM PQML QUTY EXYWAUR UX - NHP AUQYG UZL FPTCY UBFMES UOKBZWVHSTL - IL VN TIF LHAY EW VV MUY BIFB YBL FPR -EAVNQ KVBR - VM M OEMTG MZIXM - T YUWM FMKCYZB - NVW VN OWABHENE IAL KRZAZZA UL WAUZIGQ IR PR EAB BMA GPX XYK BB BAR - NAERZ - LB CF QF<BR>"
+data:
+  weight: 3.0
+  value: 150
+  book_type: Book
+  skill: None
+  enchantment: 0

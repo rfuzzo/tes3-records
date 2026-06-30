@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_De_UNI_TotemKushimmu
+name: Totem of the Kushimmu
+script: ''
+mesh: tr\c\tr_c_t_kushimmu.nif
+icon: tr\c\tr_c_t_kushimmu.dds
+enchanting: T_Const_TotemKushimmu
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 2400
+  enchantment: 0

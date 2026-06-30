@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Bre_PewterPlate_01
+name: Pewter Plate
+script: ''
+mesh: hr\m\hr_misc_pew_plate_01.nif
+icon: hr\m\hr_misc_pew_plate_01.dds
+data:
+  weight: 2.0
+  value: 2
+  flags: ''

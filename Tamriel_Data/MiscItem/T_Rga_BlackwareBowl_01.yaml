@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Rga_BlackwareBowl_01
+name: Bowl
+script: ''
+mesh: pc\m\pc_misc_rga_bbowl01.nif
+icon: pc\m\pc_misc_rga_bbowl01.dds
+data:
+  weight: 3.0
+  value: 3
+  flags: ''

@@ -1,0 +1,43 @@
+type: Container
+flags: ''
+id: com_chest_02_v_weapon05
+name: Wooden Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 700.0
+container_flags: IS_BASE
+inventory:
+- - -200
+  - iron bolt
+- - -200
+  - steel bolt
+- - -50
+  - steel throwing star
+- - -1
+  - steel battle axe
+- - -1
+  - iron war axe
+- - -1
+  - iron spear
+- - -1
+  - steel halberd
+- - -1
+  - steel warhammer
+- - -1
+  - steel club
+- - -1
+  - iron broadsword
+- - -1
+  - iron longsword
+- - -1
+  - steel longsword
+- - -1
+  - iron dagger
+- - -1
+  - steel shortsword
+- - -1
+  - steel tanto
+- - -1
+  - silver dagger
+- - -1
+  - silver shortsword

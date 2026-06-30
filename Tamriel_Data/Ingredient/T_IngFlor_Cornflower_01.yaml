@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_Cornflower_01
+name: Cornflower Sprig
+script: ''
+mesh: HR\n\T_ingr_cornflower_01.nif
+icon: hr\hr_ingr_cornflower.dds
+data:
+  weight: 0.1
+  value: 1
+  effects:
+  - DrainAttribute
+  - RestoreAttribute
+  - DrainAttribute
+  - ResistShock
+  skills:
+  - Block
+  - Block
+  - Block
+  - None
+  attributes:
+  - Personality
+  - Endurance
+  - Luck
+  - None

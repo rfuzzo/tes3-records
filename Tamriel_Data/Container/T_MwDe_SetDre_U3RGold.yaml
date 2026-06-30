@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: T_MwDe_SetDre_U3RGold
+name: Stoneware Urn
+script: ''
+mesh: tr\o\tr_cont_sturn_03.nif
+encumbrance: 75.0
+container_flags: IS_BASE
+inventory:
+- - 3
+  - Gold_001
+- - 15
+  - random gold
+- - 10
+  - random gold_lev_05
+- - 5
+  - random gold_lev_10

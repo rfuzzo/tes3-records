@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Com_Adamant_Bolt_01
+name: Adamantium Bolt
+script: ''
+mesh: tr\w\tr_w_adamant_bolt.nif
+icon: tr\w\tr_w_adamant_bolt.dds
+enchanting: ''
+data:
+  weight: 0.1
+  value: 25
+  weapon_type: Bolt
+  health: 10
+  speed: 1.0
+  reach: 1.0
+  enchantment: 33
+  chop_min: 5
+  chop_max: 8
+  slash_min: 1
+  slash_max: 1
+  thrust_min: 1
+  thrust_max: 1
+  flags: ''

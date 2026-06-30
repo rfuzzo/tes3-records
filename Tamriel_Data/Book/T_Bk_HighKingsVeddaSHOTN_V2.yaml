@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_HighKingsVeddaSHOTN_V2
+name: High King's Vedda Book Two
+script: ''
+mesh: Sky\m\sky_book_basic_14.nif
+icon: Sky\m\tx_book_basic_13.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nHigh King's Vedda<BR>\r\nBook Two<BR><BR>\r\n<IMG SRC=\"sky\\Sky_Bk_HighKingsVedda_two.dds\" WIDTH=\"240\" HEIGHT=\"240\">\r\n<BR> <DIV ALIGN=\"LEFT\"> <BR>\r\nI. LET it be remembered that this land is Sky, the birthright of Man bequeathed by Shor. All others are interlopers.\r\n<BR>\r\nII. As the last embers of the last World dimmed to ash, the Gods stirred in the dark place that ALDUIN does not eat. This is Sovngarde, the place between the Kalpas.\r\n<BR>\r\nIII. Shor, Father to all, was the first to awaken in the lightless halls of Sovngarde. He meditated on the Breath of his War-Wife, Kyne, and learned of His savage death.\r\n<BR>\r\nIV. Therefore Kyne, War-Wife of Shor, was the next to awaken in the darkness. She meditated on the Breath and learned of the fury of Her grief.\r\n<BR>\r\nV. Therefore Mara, Brood-Wife of Shor, was the next to awaken in the darkness. She meditated on the Breath and learned of the misery of Her tears.\r\n<BR>\r\nVI. Therefore Dibella, Bed-Wife of Shor, was the next to awaken in the darkness. She meditated on the Breath and learned of Her own beauty.\r\n<BR>\r\nVII. Therefore Stuhn, Shield-Thane of Shor, was the next to awaken in the darkness. He meditated on the Breath and learned of the belief in the value of Mercy.\r\n<BR>\r\nVIII. Therefore Tsun, Shield-Thane of Shor, was the last to awaken in the darkness. He did not meditate on the Breath, and learned nothing.\r\n<BR>\r\nIX. This is the Clan of the Hirser, the beams that hold up the world. They are the foremost Gods, always. Remember their names (Shor, Kyne, Mara, Dibella, Stuhn, Tsun) and their meditations.\r\n<BR>\r\nMeditate on this: Like Gods, the Children of the Sky know Their own deaths. For all is eaten, and nothing survives.\r\n<BR> <BR>\r\n"
+data:
+  weight: 3.0
+  value: 300
+  book_type: Book
+  skill: None
+  enchantment: 0

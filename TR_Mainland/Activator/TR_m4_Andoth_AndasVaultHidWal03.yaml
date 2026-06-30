@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m4_Andoth_AndasVaultHidWal03
+name: Bowl of Embers
+script: TR_m4_AndasPrayerBowl_scp
+mesh: tr\f\tr_furn_incense_02.nif

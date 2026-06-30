@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_CastleNarsis_Inventory
+name: Vault Inventory
+script: ''
+mesh: m\Text_Scroll_02.NIF
+icon: m\Tx_scroll_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n[This document records all items currently stored in the Riverkeep vault, as well as a detailed accounting of items that have entered or left the vault over the past few years.]<BR>"
+data:
+  weight: 0.2
+  value: 2
+  book_type: Scroll
+  skill: None
+  enchantment: 100

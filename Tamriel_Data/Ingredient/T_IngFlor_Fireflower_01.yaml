@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_Fireflower_01
+name: Duskbell
+script: ''
+mesh: TR\n\TR_Ing_fireflower.nif
+icon: TR\n\tr_ing_fireflower.dds
+data:
+  weight: 0.1
+  value: 6
+  effects:
+  - Light
+  - ResistFrost
+  - Blind
+  - WeaknessToShock
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

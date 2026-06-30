@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: T_SkyNor_DngBarr_U1Jewel
+name: Old Clay Urn
+script: ''
+mesh: sky\o\sky_furn_bar_urn_01.nif
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Sky_Random_BarrowGravedust
+- - 1
+  - T_Sky_Random_BarrowJewelry

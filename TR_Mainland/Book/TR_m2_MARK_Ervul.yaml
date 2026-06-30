@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2_MARK_Ervul
+name: Ervul Dranoth
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: ''
+enchanting: ''
+text: "Marker for moving TR_m2_Ervul Dranoth\r\nscript: TR_m2_q_sc_NisirelDiary\r\nquest: TR_m2_TGi_ComplicatComp"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

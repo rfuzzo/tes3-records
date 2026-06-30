@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4-114_CharterRoll_01
+name: Charters Roll
+script: ''
+mesh: m\text_scroll_open_01.nif
+icon: m\tx_scroll_open_01.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[The scroll details proclamations and resolutions made by the Bal Foyen Council for the current year.]<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

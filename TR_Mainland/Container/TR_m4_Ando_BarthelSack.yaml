@@ -1,0 +1,25 @@
+type: Container
+flags: ''
+id: TR_m4_Ando_BarthelSack
+name: Barthel Moret's Inventory Sack
+script: ''
+mesh: o\Contain_Com_Sack_02.NIF
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Com_Et_Shirt_03
+- - 1
+  - T_De_Et_Shirt_02
+- - 1
+  - T_De_Et_Shirt_06
+- - 1
+  - T_De_Et_Shirt_08
+- - 1
+  - T_De_Ex_Pants_02
+- - 1
+  - belt of nimbleness
+- - 1
+  - extravagant_robe_01
+- - 1
+  - extravagant_skirt_02

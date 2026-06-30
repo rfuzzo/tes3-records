@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_OE_haraldnote
+name: A torn Census page
+script: ''
+mesh: m\Text_Scroll_01.NIF
+icon: m\Tx_scroll_open_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nComplete Listing of Every High Elf in Old Ebonheart<BR>\r\n<BR>\r\nAhtimbar<BR>\r\nUnaarie<BR>\r\nTalision<BR>\r\nNarusya<BR>\r\nCallitara<BR>\r\nPelmenwe<BR>\r\nElencarya<BR>\r\nUraanwen<BR>\r\nFalinerron<BR>\r\nQuilmaro<BR>\r\nLissaire<BR>\r\n[The rest of the list is covered in black ink]\r\n<BR>\r\n<BR>\r\n"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

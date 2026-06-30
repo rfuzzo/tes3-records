@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngMine_DiamondBlue_01
+name: Blue Diamond
+script: ''
+mesh: tr\n\tr_ing_blue_diamd.nif
+icon: tr\n\tr_ing_blue_diamd.dds
+data:
+  weight: 0.2
+  value: 500
+  effects:
+  - DrainAttribute
+  - Invisibility
+  - Reflect
+  - ResistFrost
+  skills:
+  - Block
+  - None
+  - None
+  - None
+  attributes:
+  - Intelligence
+  - None
+  - None
+  - None

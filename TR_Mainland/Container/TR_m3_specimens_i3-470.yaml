@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m3_specimens_i3-470
+name: Specimen Drawers
+script: ''
+mesh: o\Contain_De_Closet_01.NIF
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Mw_Random_Plant

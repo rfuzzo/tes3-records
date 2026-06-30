@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_MothWingCyr_03
+name: Yellow Moth Wing
+script: ''
+mesh: pc\n\pc_ing_moth_wing_03.nif
+icon: pc\n\pc_ing_moth_wing_03.dds
+data:
+  weight: 0.1
+  value: 10
+  effects:
+  - CureParalyzation
+  - SlowFall
+  - WeaknessToFire
+  - FortifyAttribute
+  skills:
+  - Block
+  - None
+  - None
+  - Block
+  attributes:
+  - Willpower
+  - None
+  - None
+  - Willpower

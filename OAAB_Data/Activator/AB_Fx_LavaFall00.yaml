@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Fx_LavaFall00
+name: ''
+script: AB_Lava_s
+mesh: OAAB\e\lava_fall_00.nif

@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: barrel_01_de_pos1
+name: Barrel
+script: ''
+mesh: o\Contain_barrel_01.NIF
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 6
+  - random_de_pos_01_nc
+- - 1
+  - random_loot_special
+- - 30
+  - random_loot_special_marksman

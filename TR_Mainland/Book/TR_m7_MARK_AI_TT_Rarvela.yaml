@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_MARK_AI_TT_Rarvela
+name: Rarvela Malvani
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: pi\m\pi_m_cnq_ngopta.dds
+enchanting: ''
+text: "Durning the quest TR_m7_AI_TT_Q4, Rarvela Malvani moves here\r\nNPC ID: TR_m7_Rarvela Malvani\r\nPositionCell in script TR_m7_AI_TT_4_Sc"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Imp_Legion_Daikatana_01
+name: Imperial Dai-katana
+script: ''
+mesh: tr\w\tr_w_imp_daikatana.nif
+icon: tr\w\tr_w_imp_daikatana.dds
+enchanting: ''
+data:
+  weight: 21.0
+  value: 230
+  weapon_type: LongBladeTwoClose
+  health: 2400
+  speed: 1.35
+  reach: 1.0
+  enchantment: 80
+  chop_min: 1
+  chop_max: 25
+  slash_min: 1
+  slash_max: 21
+  thrust_min: 1
+  thrust_max: 12
+  flags: ''

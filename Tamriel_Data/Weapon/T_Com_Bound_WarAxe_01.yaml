@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Com_Bound_WarAxe_01
+name: Bound War Axe
+script: ''
+mesh: w\W_waraxe_daedric.nif
+icon: w\Tx_waraxe_daedric.tga
+enchanting: bound battle-axe_effect_en
+data:
+  weight: 0.0
+  value: 0
+  weapon_type: AxeOneHand
+  health: 3200
+  speed: 1.25
+  reach: 1.0
+  enchantment: 150
+  chop_min: 1
+  chop_max: 44
+  slash_min: 1
+  slash_max: 24
+  thrust_min: 1
+  thrust_max: 6
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Imp_UNI_SwiftcutSaber
+name: Swiftcut Saber
+script: ''
+mesh: TR\w\tr_w_swiftcut_saber.nif
+icon: TR\w\tr_w_swiftcut_saber.dds
+enchanting: T_Const_SwitftcutSaber
+data:
+  weight: 20.0
+  value: 25000
+  weapon_type: LongBladeOneHand
+  health: 1650
+  speed: 2.0
+  reach: 1.0
+  enchantment: 0
+  chop_min: 7
+  chop_max: 30
+  slash_min: 6
+  slash_max: 27
+  thrust_min: 3
+  thrust_max: 10
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Imp_Legion_Dagger_02
+name: Imperial Dagger
+script: ''
+mesh: tr\w\tr_w_imp_dagger_02.nif
+icon: tr\w\tr_w_imp_dagger_02.dds
+enchanting: ''
+data:
+  weight: 3.5
+  value: 40
+  weapon_type: ShortBladeOneHand
+  health: 450
+  speed: 2.5
+  reach: 1.0
+  enchantment: 45
+  chop_min: 3
+  chop_max: 5
+  slash_min: 3
+  slash_max: 5
+  thrust_min: 6
+  thrust_max: 7
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

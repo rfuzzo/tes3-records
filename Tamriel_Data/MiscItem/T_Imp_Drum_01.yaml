@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_Drum_01
+name: Drum
+script: ''
+mesh: pc\m\pc_Misc_drum_01.nif
+icon: pc\m\pc_misc_drum_01.dds
+data:
+  weight: 2.0
+  value: 2
+  flags: ''

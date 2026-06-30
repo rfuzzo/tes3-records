@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_q_OE_CriminalLawyerNote
+name: Change of Location Notice
+script: ''
+mesh: m\Text_Parchment_01.NIF
+icon: m\Tx_parchment_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<BR><BR>\r\nThis is to notify that REYNANT ALCIENTE<BR><BR>\r\nhas vacated his place at the BARRISTERS GUILD of OLD EBONHEART<BR><BR>\r\nand his new offices can be found in ALCAIRE, HIGH ROCK<BR><BR>\r\nWe apologize for the inconvenience, and thank you for your business. <br>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

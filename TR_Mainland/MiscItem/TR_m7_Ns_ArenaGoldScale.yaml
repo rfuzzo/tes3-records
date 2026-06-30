@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m7_Ns_ArenaGoldScale
+name: Arena Gold Scale
+script: ''
+mesh: tr\m\tr_misc_com_scales_05.nif
+icon: tr\m\tr_misc_com_scales_05.dds
+data:
+  weight: 15.0
+  value: 280
+  flags: ''

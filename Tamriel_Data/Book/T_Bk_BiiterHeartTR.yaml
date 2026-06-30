@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_BiiterHeartTR
+name: Bitter Heart
+script: ''
+mesh: TR\m\TR_book_closed_i11_AY.nif
+icon: TR\m\TR_book_closed_i11_AY.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nBitter Heart <BR>\r\nUnknown Nord <BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nSkali was the greatest hunter in all of Solstheim. He had killed many snow bears and tusked bristlebacks, and had become rather wealthy. He won the hand of the chieftain's daughter, and in the course of time they had a son.<BR>\r\n<BR>\r\nNow Skali loved his son very much, and when he was about seven years old, Skali began to teach him the ways of a hunter. One day, when they were out hunting, Skali heard a cry from his son, who was following behind him. He spun about to see and realized that his son had not followed him around the last bend in the trail. Skali dashed back to find the bloody rags of his son's clothing and a giant black wolf with blood-stained jaws which ran as he rounded the bend. Calling curses down upon the beast, Skali gave chase, but the wolf quickly outpaced him.<BR>\r\n<BR>\r\nSkali hunted the wolf for days, but it always evaded him. When his wife heard of their son's death, she grew sick with grief. Skali vowed to kill the beast and spent weeks hunting it to no avail. Returning to find that his wife had died from heartbreak, he called in despair upon the Trickster, who the Dark Elves call Clavicus Vile. He felt a weight in his hands and looked down to see a spear, dark and twisted. A voice whispered in his head, \"With this spear you will kill the beast you hunt.\"<BR>\r\n<BR>\r\nSkali set out yet again after the wolf. After several days, he caught up to the beast. As it turned to flee, Skali threw the spear, piercing the wolf's heart. When he reached the place where it fell, he was horrified to find his son in place of the wolf. Heartbroken, Skali cursed the Trickster. Calling himself Skali Bitter-Heart, he sailed east, never to hunt again.<BR>\r\n"
+data:
+  weight: 1.5
+  value: 30
+  book_type: Book
+  skill: None
+  enchantment: 100

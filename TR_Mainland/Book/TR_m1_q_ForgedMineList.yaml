@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: TR_m1_q_ForgedMineList
+name: Fake Ranyon-ruhn Mining Ledger
+script: ''
+mesh: m\Text_Octavo_open_03.nif
+icon: m\Tx_octavo_open_03.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This book shows a list of miners and mining activities at the Ranyon-ruhn mine, along with figures detailing how much ebony has been moved to storage. However, even a cursory inspection reveals large discrepancies, indicating the figures have been tampered with.]<BR>\r\n<BR>\r\n"
+data:
+  weight: 2.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 20

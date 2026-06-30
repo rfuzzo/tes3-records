@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_DeCeramicPot_01
+name: Ceramic Pot
+script: ''
+mesh: OAAB\m\misc_ceramic_pot.nif
+icon: OAAB\m\misc_ceramic_pot.dds
+data:
+  weight: 2.0
+  value: 4
+  flags: ''

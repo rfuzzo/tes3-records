@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m1_w_glaive_anarchy
+name: Anarchy
+script: TR_m1_scpt_i2_Glaive
+mesh: tr\w\tr_w_daedra_naginata.nif
+icon: tr\w\tr_w_daedra_naginata.dds
+enchanting: TR_m1_anarchy_en
+data:
+  weight: 42.0
+  value: 24000
+  weapon_type: SpearTwoWide
+  health: 1200
+  speed: 1.3
+  reach: 1.8
+  enchantment: 0
+  chop_min: 4
+  chop_max: 9
+  slash_min: 4
+  slash_max: 12
+  thrust_min: 7
+  thrust_max: 40
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

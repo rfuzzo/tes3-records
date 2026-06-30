@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Imp_Legion_Tanto_01
+name: Imperial Tanto
+script: ''
+mesh: tr\w\tr_w_imp_tanto.nif
+icon: tr\w\tr_w_imp_tanto.dds
+enchanting: ''
+data:
+  weight: 5.0
+  value: 20
+  weapon_type: ShortBladeOneHand
+  health: 500
+  speed: 2.25
+  reach: 1.0
+  enchantment: 30
+  chop_min: 4
+  chop_max: 9
+  slash_min: 4
+  slash_max: 9
+  thrust_min: 5
+  thrust_max: 9
+  flags: ''

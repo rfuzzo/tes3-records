@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: AB_bk_CodexArcana2_sk
+name: Codex Arcana, Volume II
+script: ''
+mesh: m\Text_Octavo_07.NIF
+icon: m\Tx_book_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nCodex Arcana, Volume II<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nSTUDENTS AND SCHOLAR: Attend our Abjurations!<BR>\r\nSHOWING DUE PROPRIETY IN THE CUSTODY OF BOOKS<BR>\r\n<BR>\r\nWe not only render service to the Emperor in preparing volumes of new books, but also exercise an office of sacred piety when we treat books carefully, and again when we restore them to their proper places and commend them to inviolable custody; that they may rejoice in purity while we have them in our hands, and rest securely when they are restored to their repositories. And surely next to the vestments and engines dedicated to the Emperor's glory, arcane books deserve to be rightly treated by the battlemage, to which great injury is done so often as they are touched by unclean hands. Wherefore we deem it expedient to warn our students against various negligences, such as might be easily avoided and which do wonderful harm to books.<BR>\r\n<BR>\r\nBeing a partial index of arcane contrivances known to the scholars and alchemists of Battlespire, that these contrivances might more readily be known to all students, and neither abused, nor neglected, nor wasted in their employment.<BR>\r\n<BR>\r\n\"Faremyle of Burning Blows\"<BR>\r\nRenders the power of Medium Fire Damage<BR>\r\n<BR>\r\n\"Father of Blight\"<BR>\r\nProduces the casting of Medium Continuous Damage to the victim<BR>\r\n<BR>\r\n\"Fin of Spite\"<BR>\r\nProduces the casting of Minor Continuous Damage to the victim<BR>\r\n<BR>\r\n\"Flakes of Snow\"<BR>\r\nProduces the casting of Minor Frost Damage<BR>\r\n<BR>\r\n\"Flame of the Greater Vigil\"<BR>\r\nCasts the spell of Medium Shield<BR>\r\n<BR>\r\n\"Forks of Bonefrost\"<BR>\r\nCasts the spell of Major Frost Damage Range<BR>\r\n<BR>\r\n\"Glaze of Mysteries\"<BR>\r\nProduces the casting of Medium Delayed Damage<BR>\r\n<BR>\r\n\"Gleam of the Shock Ward\"<BR>\r\nProduces the casting of Resistance to Shock<BR>\r\n<BR>\r\n\"Harkenor of Agony\"<BR>\r\nRenders the power of Major Continuous Damage to the victim<BR>\r\n<BR>\r\n\"Harrow of Wizardbrand\"<BR>\r\nCasts the spell of Major Magic Damage<BR>\r\n<BR>\r\n\"Heart of the Subtle Force\"<BR>\r\nProduces the casting of Minor Shock Damage<BR>\r\n<BR>\r\n\"Horn of Magepain\"<BR>\r\nRenders the power of Medium Magic Damage Range<BR>\r\n<BR>\r\n\"Hue of the Journeyman\"<BR>\r\nCasts the spell of Medium Poison Damage<BR>\r\n<BR>\r\n\"Husk of the Fiery Ward\"<BR>\r\nCasts the spell of Resistance to Fire<BR>\r\n<BR>\r\n\"Incidence of Biter Bitten\"<BR>\r\nProduces the casting of Fire shield<BR>\r\n<BR>"
+data:
+  weight: 2.0
+  value: 60
+  book_type: Book
+  skill: Alteration
+  enchantment: 20

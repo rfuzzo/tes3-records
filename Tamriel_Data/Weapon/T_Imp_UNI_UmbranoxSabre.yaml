@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Imp_UNI_UmbranoxSabre
+name: Saber of King Fasil
+script: ''
+mesh: pc\w\pc_w_sabre_umbranox.nif
+icon: pc\w\pc_w_sabre_umbranox.dds
+enchanting: ''
+data:
+  weight: 11.0
+  value: 50000
+  weapon_type: LongBladeOneHand
+  health: 750
+  speed: 1.4
+  reach: 1.0
+  enchantment: 100
+  chop_min: 2
+  chop_max: 20
+  slash_min: 1
+  slash_max: 18
+  thrust_min: 1
+  thrust_max: 5
+  flags: SILVER

@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m2_q_MuthadaRing
+name: Tel Muthada Teleportation Ring
+script: TR_m2_q_MuthadaRing_sc
+mesh: c\C_Ring_extravagant_2.NIF
+icon: c\tx_ring_extravagant02.tga
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 120
+  enchantment: 600

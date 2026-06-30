@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Nor_Antler_02
+name: Antler
+script: ''
+mesh: Sky\m\Sky_Misc_Antler02.nif
+icon: sky\m\Tx_Misc_Antler02.dds
+data:
+  weight: 5.0
+  value: 40
+  flags: ''

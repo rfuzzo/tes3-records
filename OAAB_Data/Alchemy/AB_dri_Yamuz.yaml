@@ -1,0 +1,28 @@
+type: Alchemy
+flags: ''
+id: AB_dri_Yamuz
+name: Yamuz
+script: ''
+mesh: OAAB\n\dri_yamuz_01.nif
+icon: OAAB\n\dri_yamuz.dds
+effects:
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Willpower
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 25
+  max_magnitude: 25
+- magic_effect: DrainAttribute
+  skill: None
+  attribute: Agility
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 25
+  max_magnitude: 25
+data:
+  weight: 3.0
+  value: 20
+  flags: ''

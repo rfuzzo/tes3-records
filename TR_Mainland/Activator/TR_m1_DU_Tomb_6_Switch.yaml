@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m1_DU_Tomb_6_Switch
+name: Switch
+script: TR_m1_DU_Tomb_6_Switch_sc
+mesh: x\Ex_GG_gateswitch_01.nif

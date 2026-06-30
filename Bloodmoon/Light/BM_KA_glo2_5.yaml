@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: BM_KA_glo2_5
+name: ''
+script: ''
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 384
+  color:
+  - 64
+  - 170
+  - 189
+  - 0
+  flags: ''

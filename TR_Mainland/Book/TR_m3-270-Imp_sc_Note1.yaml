@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3-270-Imp_sc_Note1
+name: Note from Reynant
+script: ''
+mesh: m\Text_Note_02.nif
+icon: m\Tx_note_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nA former client of mine just got released. If someone by the name Stabby-Jak Merrus comes knocking, you don't know who or where I am. <br>\r\n<br>\r\nThanks, <br>\r\nReynant\r\n<BR>"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

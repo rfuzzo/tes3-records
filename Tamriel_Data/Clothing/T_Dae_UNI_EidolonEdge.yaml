@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Dae_UNI_EidolonEdge
+name: Ring of Eidolon's Edge
+script: ''
+mesh: pc\c\pc_c_ring_eidolon.nif
+icon: pc\c\pc_c_ring_eidolon.dds
+enchanting: T_Const_Eidolon
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 24000
+  enchantment: 0

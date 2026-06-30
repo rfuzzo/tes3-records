@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: T_CyrRga_Ch2PosRga
+name: Chest
+script: ''
+mesh: hf\o\hf_furn_rga_chest02.nif
+encumbrance: 40.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - T_Cyr_Random_Ceramic
+- - 2
+  - T_Cyr_Random_Cloths
+- - 5
+  - T_Cyr_Random_Redguard

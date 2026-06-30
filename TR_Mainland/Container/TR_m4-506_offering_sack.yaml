@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: TR_m4-506_offering_sack
+name: Small Sack
+script: ''
+mesh: TR\o\TR_contain_small_sack.nif
+encumbrance: 5.0
+container_flags: IS_BASE
+inventory:
+- - 5
+  - Gold_001
+- - 1
+  - Ingred_meadow_rye_01
+- - 3
+  - Ingred_timsa-come-by_01
+- - 2
+  - ingred_heather_01

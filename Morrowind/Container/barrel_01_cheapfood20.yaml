@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: barrel_01_cheapfood20
+name: Wooden Barrel
+script: ''
+mesh: o\Contain_barrel_01.NIF
+encumbrance: 75.0
+container_flags: IS_BASE
+inventory:
+- - 20
+  - random_de_cheapfood_01_nc

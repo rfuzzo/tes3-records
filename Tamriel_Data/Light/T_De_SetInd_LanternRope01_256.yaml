@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_De_SetInd_LanternRope01_256
+name: ''
+script: SignRotate
+mesh: l\Light_MH_Rope_Lantern.NIF
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 256
+  color:
+  - 255
+  - 140
+  - 40
+  - 0
+  flags: DYNAMIC | FLICKER_SLOW

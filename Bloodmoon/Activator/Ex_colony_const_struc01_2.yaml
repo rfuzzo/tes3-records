@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: Ex_colony_const_struc01_2
+name: ''
+script: Colony_E_2_M
+mesh: x\Ex_colony_const_struc01.NIF

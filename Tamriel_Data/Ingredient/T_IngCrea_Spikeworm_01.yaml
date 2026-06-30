@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_Spikeworm_01
+name: Spikeworm Carapace
+script: ''
+mesh: Sky\n\Sky_Ingred_SPKWRM_01.nif
+icon: Sky\n\Tx_Ingred_SPKWRM_01.dds
+data:
+  weight: 0.2
+  value: 5
+  effects:
+  - DrainFatigue
+  - Burden
+  - ResistNormalWeapons
+  - Light
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

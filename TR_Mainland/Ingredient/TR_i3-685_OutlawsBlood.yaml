@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: TR_i3-685_OutlawsBlood
+name: Blood Stone
+script: ''
+mesh: TR\n\TR_Ing_bloodstone_mm.NIF
+icon: TR\n\TR_Ing_bloodstone_mm.dds
+data:
+  weight: 2.0
+  value: 200
+  effects:
+  - WaterWalking
+  - Sanctuary
+  - None
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

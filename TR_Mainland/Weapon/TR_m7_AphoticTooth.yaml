@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m7_AphoticTooth
+name: Aphotic Tooth
+script: ''
+mesh: tr\w\tr_w_dreugh_shortsword.nif
+icon: tr\w\tr_w_dreugh_shortsword.dds
+enchanting: TR_m7_AphoticTooth_en
+data:
+  weight: 10.0
+  value: 500
+  weapon_type: ShortBladeOneHand
+  health: 800
+  speed: 2.0
+  reach: 1.0
+  enchantment: 52
+  chop_min: 5
+  chop_max: 12
+  slash_min: 5
+  slash_max: 12
+  thrust_min: 8
+  thrust_max: 13
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

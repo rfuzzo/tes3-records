@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: TR_m4_TT_OmaynisChest3
+name: Chest
+script: TR_m4_TT_LastWillEnable_sc
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 735
+  - Gold_001
+- - 1
+  - T_EnSc_Com_DidalasSplendor
+- - 1
+  - T_EnSc_Com_EphemeralLight
+- - 1
+  - sc_heartwise

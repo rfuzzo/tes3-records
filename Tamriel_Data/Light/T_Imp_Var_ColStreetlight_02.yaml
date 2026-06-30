@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_Imp_Var_ColStreetlight_02
+name: ''
+script: SignRotate
+mesh: pc\l\pc_col_streetlamp_01.nif
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 223
+  color:
+  - 245
+  - 140
+  - 40
+  - 0
+  flags: FIRE | FLICKER_SLOW

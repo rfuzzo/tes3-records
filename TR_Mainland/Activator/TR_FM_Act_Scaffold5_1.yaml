@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_FM_Act_Scaffold5_1
+name: ''
+script: TR_FM_Stage5Scaffold_sc
+mesh: x\Ex_de_scaffold_01.NIF

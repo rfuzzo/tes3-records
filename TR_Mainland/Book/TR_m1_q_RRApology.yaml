@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_q_RRApology
+name: Letter of Apology
+script: ''
+mesh: m\Text_Parchment_02.nif
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nRatagos,<BR>\r\n<BR>\r\nI apologize for my actions earlier, and hope you can accept these drakes in compensation. Please do not bear Master Mithras any ill will because of my wrongdoing. I hope you remain here in Ranyon-ruhn as our priest.\r\n<BR>\r\n<BR>\r\nDilnar Llenim<BR>\r\n<BR>"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

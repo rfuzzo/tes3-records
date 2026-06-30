@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Bre_Fine_Dagger_01
+name: Fine Betony Dagger
+script: ''
+mesh: sky\w\sky_bre_fine_dagger.nif
+icon: sky\w\tx_w_bre_dagger_01.dds
+enchanting: ''
+data:
+  weight: 4.5
+  value: 800
+  weapon_type: ShortBladeOneHand
+  health: 500
+  speed: 2.5
+  reach: 1.0
+  enchantment: 80
+  chop_min: 5
+  chop_max: 9
+  slash_min: 5
+  slash_max: 9
+  thrust_min: 6
+  thrust_max: 8
+  flags: ''

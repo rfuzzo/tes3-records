@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Imp_Silver_DaiKatana_01
+name: Silver Dai-Katana
+script: ''
+mesh: tr\w\tr_w_silver_daikatana.nif
+icon: tr\w\tr_w_silver_daikatana.dds
+enchanting: ''
+data:
+  weight: 17.5
+  value: 480
+  weapon_type: LongBladeTwoClose
+  health: 1800
+  speed: 1.35
+  reach: 1.0
+  enchantment: 55
+  chop_min: 1
+  chop_max: 27
+  slash_min: 1
+  slash_max: 23
+  thrust_min: 1
+  thrust_max: 14
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE | SILVER

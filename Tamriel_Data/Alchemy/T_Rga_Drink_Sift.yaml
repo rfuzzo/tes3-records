@@ -1,0 +1,36 @@
+type: Alchemy
+flags: ''
+id: T_Rga_Drink_Sift
+name: Sift
+script: ''
+mesh: pc\m\pc_misc_rga_sift.nif
+icon: pc\m\pc_misc_rga_sift01.dds
+effects:
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Strength
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 20
+  max_magnitude: 20
+- magic_effect: DrainAttribute
+  skill: None
+  attribute: Willpower
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 20
+  max_magnitude: 20
+- magic_effect: DrainAttribute
+  skill: None
+  attribute: Intelligence
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 20
+  max_magnitude: 20
+data:
+  weight: 5.0
+  value: 15
+  flags: ''

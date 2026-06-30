@@ -1,0 +1,37 @@
+type: Container
+flags: ''
+id: TR_m3_OE_chestAnjzhirra
+name: Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 400.0
+container_flags: IS_BASE
+inventory:
+- - -1
+  - T_Mw_Lvl_Soulgems
+- - -100
+  - T_Mw_Lvl_WeaponsArrow
+- - -3
+  - T_Mw_Random_BooksScholar
+- - 5
+  - T_Mw_Random_Clothing
+- - 2
+  - T_Mw_Random_ClutterBlueWare
+- - 2
+  - T_Mw_Random_ClutterGreenWare
+- - 3
+  - T_Mw_Random_ClutterPurpleWare
+- - 5
+  - T_Mw_Random_Ingredient
+- - 1
+  - T_Mw_Random_PosDunmer01
+- - -2
+  - p_restore_fatigue_b
+- - -2
+  - p_restore_health_b
+- - -4
+  - random_com_kitchenware
+- - 3
+  - random_potion_bad
+- - -3
+  - torch

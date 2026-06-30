@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: sanguinebeltmartialcraft
+name: Belt of Sanguine Martial Craft
+script: ''
+mesh: c\C_belt_Extravagant_2.NIF
+icon: c\tx_belt_extravagant02.tga
+enchanting: sanguine martial craft_en
+biped_objects: []
+data:
+  clothing_type: Belt
+  weight: 1.0
+  value: 1500
+  enchantment: 200

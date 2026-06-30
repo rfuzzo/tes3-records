@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: AB_f_GlowingMuscaria_01
+name: Glowing Chanterelle
+script: ''
+mesh: OAAB\f\f_muscaria01.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - AB_lvl_f_GlMuscaria_01

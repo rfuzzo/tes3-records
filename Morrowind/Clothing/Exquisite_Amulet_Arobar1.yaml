@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: Exquisite_Amulet_Arobar1
+name: Arobar's Amulet
+script: ''
+mesh: c\amulet_exquisit_1.nif
+icon: c\tx_amulet_exquisite1.tga
+enchanting: arobar_amulet_en_uniq
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 240
+  enchantment: 1200

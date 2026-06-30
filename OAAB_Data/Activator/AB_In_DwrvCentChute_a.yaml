@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_In_DwrvCentChute_a
+name: ''
+script: AB_DwrvCentChute_s
+mesh: OAAB\i\dwrvCentChute.nif

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_GoldTanthaBeak_01
+name: Gold Tantha Beak
+script: ''
+mesh: pc\n\pc_ing_tanthabeak.nif
+icon: pc\n\pc_ing_tanthabeak.dds
+data:
+  weight: 0.5
+  value: 10
+  effects:
+  - ResistParalysis
+  - DamageMagicka
+  - Jump
+  - LightningShield
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

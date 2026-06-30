@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: iron claymore
+name: Iron Claymore
+script: ''
+mesh: w\W_Iron_Claymore.nif
+icon: w\Tx_Claymore_Iron.tga
+enchanting: ''
+data:
+  weight: 27.0
+  value: 80
+  weapon_type: LongBladeTwoClose
+  health: 1400
+  speed: 1.25
+  reach: 1.0
+  enchantment: 70
+  chop_min: 1
+  chop_max: 24
+  slash_min: 1
+  slash_max: 21
+  thrust_min: 1
+  thrust_max: 14
+  flags: ''

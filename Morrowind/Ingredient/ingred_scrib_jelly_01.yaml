@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_scrib_jelly_01
+name: Scrib Jelly
+script: ''
+mesh: n\Ingred_Scrib_Jelly_01.nif
+icon: n\Tx_scrib_jelly_01.tga
+data:
+  weight: 0.1
+  value: 10
+  effects:
+  - FortifyAttribute
+  - CurePoison
+  - CureBlightDisease
+  - RestoreAttribute
+  skills:
+  - Block
+  - Block
+  - Block
+  - Block
+  attributes:
+  - Willpower
+  - Strength
+  - Strength
+  - Willpower

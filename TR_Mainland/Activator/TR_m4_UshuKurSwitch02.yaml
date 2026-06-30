@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m4_UshuKurSwitch02
+name: Lever
+script: TR_m4_UshkuKurPlat_Scp
+mesh: pc\f\pc_furn_switch_01.nif

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: AB_IngCrea_DungCake
+name: Dung Cake
+script: ''
+mesh: OAAB\n\dungcake.nif
+icon: OAAB\n\dungcake.dds
+data:
+  weight: 3.0
+  value: 3
+  effects:
+  - Poison
+  - None
+  - None
+  - WeaknessToFire
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: ex_scrapwood01
+name: ''
+script: Float
+mesh: x\ex_scrapwood01.NIF

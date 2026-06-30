@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_KettleCeremonial
+name: Ceremonial Teapot
+script: ''
+mesh: OAAB\m\kettle_akaviri.nif
+icon: OAAB\m\kettle_akaviri.tga
+data:
+  weight: 2.5
+  value: 90
+  flags: ''

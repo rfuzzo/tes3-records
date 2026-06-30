@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Nor_Set_SignTravel_03
+name: Travel Service
+script: ''
+mesh: sky\f\sky_act_sign_travl_03.nif

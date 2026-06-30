@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_SweetbreadPolypore_01
+name: Sweetbread Polypore
+script: ''
+mesh: tr\n\tr_ing_ow_shelfshroom1.nif
+icon: tr\n\tr_ing_ow_shelfshroom1.dds
+data:
+  weight: 0.5
+  value: 4
+  effects:
+  - RestoreFatigue
+  - FireShield
+  - DrainSkill
+  - RestoreAttribute
+  skills:
+  - None
+  - Block
+  - Mysticism
+  - Block
+  attributes:
+  - None
+  - Personality
+  - Strength
+  - Willpower

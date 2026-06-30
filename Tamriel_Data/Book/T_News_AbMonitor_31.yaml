@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_AbMonitor_31
+name: URRI THE RED PARDONED
+script: T_ScNews_Bellman_Paper
+mesh: pc\m\pc_text_note_anv_news.nif
+icon: pc\m\pc_text_note_anv_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"PC\\pc_abmonitor.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nURRI THE RED ACCEPTS LETTER OF MARQUE<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nTraders and sailors in Anvil's Port Quarter were taken by surprise by the arrival of the infamous pirate galleon Heat Lightning to the city. Goldstone sources confirmed to the Monitor that her captain, Urri the Red, has accepted a letter of marque from Queen Millona, bringing her much-feared skills into the service of the Kingdom of Anvil. The Nord corsair, who had previously been the target of high bounties in Anvil, Rihad, and Hegathe, received a pardon for her crimes in exchange for becoming a privateer and swearing a solemn oath to cease all attacks on peaceful trade ships.<BR><BR>\r\nHeat Lightning has long been a feared sight for sailors on the high seas. Urri the Red burst onto the pirate scene eight years ago with her defeat of the fearsome Minna Amarant, whose Sapphire Squall had afflicted Stros M'Kai and the Chain for decades. Urri proved less provocative, but far more cunning than \"Mad Minna\", thriving in the violent world of Abecean piracy for years, while less skilled captains were deposed by the ascendant kingpin of the pirate world, the mysterious Masqued Captain.<BR><BR>\r\nLetters of marque were once common in the Abecean Sea, but have largely fallen into disuse as local rulers came to rely on the Imperial Navy to protect their shores. The West Navy's recent decision to draw down its force projection in the Near Abecean has no doubt informed the Queen's decision to pardon and deputize such a notorious pirate as Urri the Red.<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

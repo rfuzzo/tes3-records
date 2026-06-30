@@ -1,0 +1,49 @@
+type: Container
+flags: ''
+id: TR_m4_Menaan_Smith
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 250.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Imp_Silver_Mace_01
+- - -50
+  - iron arrow
+- - -50
+  - iron bolt
+- - 1
+  - iron club
+- - 1
+  - iron dagger
+- - 1
+  - iron longsword
+- - 1
+  - iron mace
+- - 1
+  - iron shortsword
+- - 1
+  - iron spear
+- - 1
+  - iron war axe
+- - -30
+  - silver bolt
+- - -40
+  - steel arrow
+- - 1
+  - steel axe
+- - 1
+  - steel crossbow
+- - -10
+  - steel dart
+- - 1
+  - steel shortsword
+- - -10
+  - steel throwing star
+- - 1
+  - steel warhammer
+- - 1
+  - steel_cuirass
+- - 1
+  - steel_greaves

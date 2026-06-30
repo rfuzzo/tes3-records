@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Com_Steel_Cuirass_FinalVirtue
+name: Cuirass of Final Virtue
+script: ''
+mesh: a\A_Steel_Cuirass_GND.nif
+icon: a\TX_Steel_curaiss.tga
+enchanting: T_Use_FinalVirtueCuirass
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: a_steel_cuirass
+  female_bodypart: A_Steel_Cuir_Female
+data:
+  armor_type: Cuirass
+  weight: 30.0
+  value: 800
+  health: 450
+  enchantment: 200
+  armor_rating: 15

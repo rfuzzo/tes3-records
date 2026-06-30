@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Fx_WaterRapidSt256c
+name: ''
+script: Sound_Water_Spout
+mesh: OAAB\e\water_rectr256_03.nif

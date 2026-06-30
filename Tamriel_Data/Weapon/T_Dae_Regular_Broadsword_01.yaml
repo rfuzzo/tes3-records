@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Dae_Regular_Broadsword_01
+name: Daedric Broadsword
+script: ''
+mesh: tr\w\tr_w_daedric_bsword.nif
+icon: tr\w\tr_w_daedric_bsword.dds
+enchanting: ''
+data:
+  weight: 45.0
+  value: 35000
+  weapon_type: LongBladeOneHand
+  health: 3400
+  speed: 1.25
+  reach: 1.0
+  enchantment: 160
+  chop_min: 4
+  chop_max: 29
+  slash_min: 2
+  slash_max: 40
+  thrust_min: 2
+  thrust_max: 36
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

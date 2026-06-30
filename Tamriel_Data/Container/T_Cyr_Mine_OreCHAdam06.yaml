@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Cyr_Mine_OreCHAdam06
+name: Raw Adamantium
+script: ''
+mesh: PC\o\pc_cont_chrock_adam_06.nif
+encumbrance: 0.0
+container_flags: ORGANIC | IS_BASE
+inventory:
+- - 1
+  - T_Cyr_Random_Adamantium

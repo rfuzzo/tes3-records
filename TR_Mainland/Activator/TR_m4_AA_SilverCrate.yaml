@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_AA_SilverCrate
+name: Old Wooden Lid
+script: TR_m4_AA_SilverAshLid_scp
+mesh: pc\f\pc_furn_farm_box_01.nif

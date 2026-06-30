@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m7_Ns_MG_Arch02_Cont
+name: Containment Field
+script: TR_m7_Ns_MG_Arch02_Cont_sc
+mesh: pc\f\pc_vfx_reactor_field.nif

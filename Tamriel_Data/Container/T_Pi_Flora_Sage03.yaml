@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Pi_Flora_Sage03
+name: Padomaic Sage
+script: ''
+mesh: pi\o\pi_f_sage_03.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - T_Pi_Random_FlorSage

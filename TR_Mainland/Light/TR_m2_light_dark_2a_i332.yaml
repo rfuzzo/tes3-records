@@ -1,0 +1,19 @@
+type: Light
+flags: PERSISTENT
+id: TR_m2_light_dark_2a_i332
+name: ''
+script: TR_m2_script_dark_2a_i332
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 256
+  color:
+  - 163
+  - 94
+  - 27
+  - 0
+  flags: DYNAMIC | NEGATIVE | FIRE | FLICKER_SLOW

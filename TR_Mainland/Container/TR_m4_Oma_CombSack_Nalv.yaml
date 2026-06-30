@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: TR_m4_Oma_CombSack_Nalv
+name: Sack
+script: TR_m4_Oma_NalvosFood
+mesh: o\Contain_Com_Sack_01.NIF
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 6
+  - ingred_comberry_01
+- - 4
+  - random_comberry

@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: TR_m2_l_cavern_blue_700
+name: ''
+script: ''
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 700
+  color:
+  - 18
+  - 83
+  - 252
+  - 0
+  flags: ''

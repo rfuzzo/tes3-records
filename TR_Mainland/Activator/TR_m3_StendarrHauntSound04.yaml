@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m3_StendarrHauntSound04
+name: Sound_Haunted00
+script: TR_m3_EbonT_HauntedSoundSCP
+mesh: EditorMarker.NIF

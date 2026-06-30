@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_GreenGlassPot_01
+name: Green Glass Vase
+script: ''
+mesh: tr\m\tr_misc_de_g_pot.nif
+icon: tr\m\tr_misc_de_g_pot.dds
+data:
+  weight: 4.0
+  value: 16
+  flags: ''

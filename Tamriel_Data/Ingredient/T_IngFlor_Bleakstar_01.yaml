@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_Bleakstar_01
+name: Bleakstar Stalk
+script: ''
+mesh: HR\n\hr_Ingr_Bleakstar_01.nif
+icon: hr\n\hr_ing_Bleakstar.dds
+data:
+  weight: 0.3
+  value: 15
+  effects:
+  - Blind
+  - Light
+  - NightEye
+  - Dispel
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

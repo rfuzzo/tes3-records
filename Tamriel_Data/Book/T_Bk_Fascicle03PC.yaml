@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_Fascicle03PC
+name: Fascicle 13-16
+script: ''
+mesh: pc\m\PC_bk_Book_10.nif
+icon: pc\m\pc_bk_book_10.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe Testament of the Church-Mothers<BR>\r\nFascicle 13-16<BR>\r\nThe Making of Knowledge<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\n13. The Beginning Place grew sharper, and under the benevolence of Mara there were born not only the spirits, but new ideas and dreams, also. And all were overwhelmed by these new thoughts, which came between them and constricted them, and could not be held, nor cherished, without the secrets of knowing, of knowledge, and of insight.<BR>\r\n<BR>\r\n14. Then from the space between the whispered word there was born Julianos, of Incantations, who knew of knowing, and was a teacher, too. And Julianos was a spirit of wisdom and knowledge, and he made all wisdom and knowledge his domain, to instruct, and give the gifts of wisdom and knowledge. His children were Learning, and Insight, and the solace of Memory. Julianos knew all of the Beginning Place, and freely gave his knowledge to others, and under his tutelage all other spirits did grow in splendor.<BR>\r\n<BR>\r\n15. But Julianos grew attached to two ideas, whom he cherished as children, and taught more than all he knew. The first of these was Has-Mora, a darkling idea, and a quick and eager student. Has-Mora knew all of his teacher's words, but desired more still, so that he grew to love the unthinkable, and the false, and at long last he invented the Lie, and for this he was banished to the Outer Darkness. And there he waited an age and more, until in the Hour of Creation he returned, and stole many things not meant to be, and became a keeper of forbidden things.<BR>\r\n<BR>\r\n16. The other was a spirit named Magnus, who was born from the blind energies and fed on them, and he too learned all of Julianos' words. But Magnus cared not for wisdom and knowledge, but only for the abstract and the ideal, the schematic and the formula. He set about to draw and plan the knowledge of the Beginning in lines and figments, and forgot the truth of substance. For in the Beginning Place, substance was a dream, and all in nature was a figment and a dream, and Magnus grew to overshadow Julianos, and the student grew to overshadow the master.<BR>\r\n<BR>"
+data:
+  weight: 4.0
+  value: 300
+  book_type: Book
+  skill: Mysticism
+  enchantment: 0

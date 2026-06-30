@@ -1,0 +1,20 @@
+type: Clothing
+flags: ''
+id: T_Com_Cm_Shoes_ResistParalysis
+name: Shoes of Resist Paralysis
+script: ''
+mesh: c\c_shoes_common_3_gnd.nif
+icon: c\tx_shoes_common_3.dds
+enchanting: T_Const_ResistParalysis
+biped_objects:
+- biped_object_type: LeftFoot
+  male_bodypart: c_shoes_common_3
+  female_bodypart: ''
+- biped_object_type: RightFoot
+  male_bodypart: c_shoes_common_3
+  female_bodypart: ''
+data:
+  clothing_type: Shoes
+  weight: 3.0
+  value: 250
+  enchantment: 100

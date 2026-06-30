@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: T_ValWe_Var_Bs2Empty
+name: Hide Basket
+script: ''
+mesh: pc\o\pc_cont_we_basket02.nif
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory: []

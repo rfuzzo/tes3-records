@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_De_Glass_JinkbladeAegis_01
+name: Glass Jinkblade of the Aegis
+script: ''
+mesh: w\W_dagger_glass.nif
+icon: w\tx_dagger_glass.tga
+enchanting: steel jinkblade of the aegis_en
+data:
+  weight: 1.8
+  value: 9000
+  weapon_type: ShortBladeOneHand
+  health: 400
+  speed: 2.5
+  reach: 1.0
+  enchantment: 100
+  chop_min: 7
+  chop_max: 9
+  slash_min: 7
+  slash_max: 9
+  thrust_min: 6
+  thrust_max: 9
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

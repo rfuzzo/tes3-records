@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: bound_mace
+name: Bound Mace
+script: ''
+mesh: w\W_mace_daedric.nif
+icon: w\Tx_mace_daedric.tga
+enchanting: bound mace_effect_en
+data:
+  weight: 0.0
+  value: 0
+  weapon_type: BluntOneHand
+  health: 4800
+  speed: 1.3
+  reach: 1.0
+  enchantment: 150
+  chop_min: 5
+  chop_max: 30
+  slash_min: 5
+  slash_max: 30
+  thrust_min: 1
+  thrust_max: 4
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

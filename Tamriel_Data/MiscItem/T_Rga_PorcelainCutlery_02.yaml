@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Rga_PorcelainCutlery_02
+name: Porcelain Knife
+script: ''
+mesh: hf\m\hf_misc_rga_PcCutl_02.nif
+icon: hf\m\hf_misc_rga_PCCutl_02.dds
+data:
+  weight: 1.0
+  value: 6
+  flags: ''

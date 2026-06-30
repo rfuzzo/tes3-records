@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_HrCom_Var_Bs2Pos
+name: Basket
+script: ''
+mesh: hr\o\hr_contain_basket_02.nif
+encumbrance: 35.0
+container_flags: IS_BASE
+inventory:
+- - 3
+  - T_Hr_Random_Pos

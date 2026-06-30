@@ -1,0 +1,21 @@
+type: Container
+flags: ''
+id: de_p_chest_percius_02
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - orcish_bracer_right
+- - 1
+  - orcish_bracer_left
+- - 1
+  - orcish_towershield
+- - 1
+  - orcish_pauldron_right
+- - 1
+  - orcish_pauldron_left
+- - 1
+  - orcish_cuirass

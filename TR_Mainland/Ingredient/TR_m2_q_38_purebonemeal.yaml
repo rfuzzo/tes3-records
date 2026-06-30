@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: TR_m2_q_38_purebonemeal
+name: Bonemeal
+script: TR_m2_q_38_s_purebonemeal
+mesh: n\Ingred_Blonemeal_01.nif
+icon: n\Tx_bonemeal_01.tga
+data:
+  weight: 0.2
+  value: 2
+  effects:
+  - RestoreAttribute
+  - Telekinesis
+  - DrainFatigue
+  - DrainAttribute
+  skills:
+  - Block
+  - None
+  - None
+  - Block
+  attributes:
+  - Agility
+  - None
+  - None
+  - Personality

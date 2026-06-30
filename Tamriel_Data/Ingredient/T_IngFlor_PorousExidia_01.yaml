@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_PorousExidia_01
+name: Porous Exidia
+script: ''
+mesh: tr\n\tr_ing_porousexidia.nif
+icon: tr\n\tr_ing_porousexidia.dds
+data:
+  weight: 0.2
+  value: 1
+  effects:
+  - DrainAttribute
+  - ResistCommonDisease
+  - DetectAnimal
+  - FortifyAttribute
+  skills:
+  - Block
+  - None
+  - None
+  - Block
+  attributes:
+  - Personality
+  - None
+  - None
+  - Luck

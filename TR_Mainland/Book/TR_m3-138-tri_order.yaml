@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3-138-tri_order
+name: Receipt of Purchase
+script: ''
+mesh: m\Text_Parchment_02.NIF
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nMaster Salas,<BR>\r\nMy wife has asked me to order four dozen purple candles and holders for our daughter's wedding. Please ship them to our estate, Vedas Manor, outside of Narsis. I will be expecting the shipment in one month. Enclosed you will find the payment of 96 drakes. If there is any delay, send a messenger and I will gladly compensate for the cost.<BR>\r\n<BR>\r\nUrthai Vedas<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

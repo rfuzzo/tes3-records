@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_q_3_chair
+name: Chair
+script: TR_m3_q_3_chair_sc
+mesh: f\Furn_De_Chair_03.nif

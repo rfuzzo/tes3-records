@@ -1,0 +1,21 @@
+type: Container
+flags: ''
+id: crate_01_medernulen1
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - common_amulet_02
+- - 1
+  - common_glove_left_01
+- - 1
+  - common_glove_right_01
+- - 1
+  - common_robe_02_t
+- - 1
+  - common_belt_02
+- - 1
+  - common_pants_02

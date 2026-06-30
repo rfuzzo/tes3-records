@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_Vandir_Note
+name: Note
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "Instructions for Handling Slaves<BR>\r\n<BR>\r\nSlaves are to conduct the repairs of Mighty Vandirelyon. Downtrodden slaves are the burned, and will be treated with dignity. As they renounce their unburned ways, release them from their shackles and allow them to join his ranks. <BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

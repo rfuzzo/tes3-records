@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Hr_Food_CheeseWheel01
+name: Cheese Wheel
+script: ''
+mesh: hr\o\hr_food_cwheel_01.nif
+encumbrance: 0.0
+container_flags: ORGANIC | IS_BASE
+inventory:
+- - 4
+  - T_IngFood_CheeseBreton_01

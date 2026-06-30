@@ -1,0 +1,85 @@
+type: Container
+flags: ''
+id: TR_m7_OpheliaChest
+name: Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - -5
+  - T_IngCrea_ShellMolecrab_02
+- - -3
+  - T_IngFlor_Hamumroot_01
+- - -3
+  - T_IngFlor_LichenBlue_01
+- - -5
+  - T_IngFlor_Tanna_01
+- - 40
+  - T_Mw_Random_IngredientNarsis
+- - 1
+  - apparatus_g_alembic_01
+- - 1
+  - apparatus_g_calcinator_01
+- - 1
+  - apparatus_g_mortar_01
+- - 1
+  - apparatus_g_retort_01
+- - -2
+  - ingred_bc_coda_flower
+- - -3
+  - ingred_bloat_01
+- - -5
+  - ingred_frost_salts_01
+- - -2
+  - ingred_racer_plumes_01
+- - -3
+  - ingred_scrib_jelly_01
+- - -5
+  - ingred_void_salts_01
+- - -2
+  - p_chameleon_e
+- - -3
+  - p_cure_common_s
+- - -3
+  - p_cure_paralyzation_s
+- - -2
+  - p_cure_poison_s
+- - -2
+  - p_dispel_s
+- - -2
+  - p_feather_e
+- - -5
+  - p_fire_resistance_e
+- - -2
+  - p_fire_shield_e
+- - -5
+  - p_frost_resistance_e
+- - -2
+  - p_frost_shield_e
+- - -2
+  - p_invisibility_e
+- - -2
+  - p_levitation_e
+- - -2
+  - p_light_e
+- - -2
+  - p_lightning shield_e
+- - -5
+  - p_magicka_resistance_e
+- - -2
+  - p_night-eye_e
+- - -5
+  - p_poison_resistance_e
+- - -6
+  - p_restore_fatigue_e
+- - -6
+  - p_restore_health_e
+- - -10
+  - p_restore_magicka_e
+- - -5
+  - p_shock_resistance_e
+- - -3
+  - p_swift_swim_e
+- - -3
+  - p_water_breathing_s

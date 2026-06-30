@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: AB_light@_Oilslick64
+name: ''
+script: ''
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 1
+  time: -1
+  radius: 64
+  color:
+  - 3
+  - 184
+  - 134
+  - 0
+  flags: ''

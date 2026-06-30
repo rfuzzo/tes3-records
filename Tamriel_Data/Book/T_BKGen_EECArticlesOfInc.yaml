@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_BKGen_EECArticlesOfInc
+name: EEC Articles of Incorporation
+script: ''
+mesh: pc\m\PC_bk_Book_15.nif
+icon: pc\m\pc_bk_book_15.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\n[This book contains the East Empire Company's articles of incorporation.]\r\n<BR>"
+data:
+  weight: 2.0
+  value: 5
+  book_type: Book
+  skill: None
+  enchantment: 0

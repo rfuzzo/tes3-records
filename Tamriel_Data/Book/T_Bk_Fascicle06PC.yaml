@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_Fascicle06PC
+name: Fascicle 25-27
+script: ''
+mesh: pc\m\PC_bk_Book_10.nif
+icon: pc\m\pc_bk_book_10.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe Testament of the Church-Mothers<BR>\r\nFascicle 25-27<BR>\r\nThe Measurer<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\n25. But even in her not-yet-grief Dibella was above all a joyful spirit, and the Beginning Place did echo with her moans. From her Beauty the spirits learned to know the worth of things, and from worth they learned to know value, and from value came forth Zenithar, the provider of our ease, who of all things knows their estimation. He then knew of the wheels and workings in a way than none other knew, and he set about to count and measure the Beginning Place, until he was knowledgeable of all that moves and works, that is transmitted.<BR>\r\n<BR>\r\n26. And Zenithar spoke: \"From this place in the absence of places, there can be no growth, for there is neither the spark of creation nor the boldness of the new. Here, we can rule, and we are rulers, and rulers we shall be. But mark, spirits of the fold, that you who praise this state and wish for no weight, may never ask for more than this, not the hand on the laborer's back, not the strain of work or the pleasure of things well-gained. For in this place such things will not come about.\"<BR>\r\n<BR>\r\n27. And Zenithar was displeased with the Void of the Beginning, and the serenity of his peers, though he could not conceive of the solution. And he became a reclusive spirit, whose self was denied in blissful tranquility, and his true worth was not to be seen until the Hour of Creation.<BR>\r\n<BR>"
+data:
+  weight: 4.0
+  value: 300
+  book_type: Book
+  skill: Mercantile
+  enchantment: 0

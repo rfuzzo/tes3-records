@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: contain_corpse_Saloth00
+name: Corpse of a warrior
+script: Sound_Flies
+mesh: o\contain_corpse00.NIF
+encumbrance: 120.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - exquisite_ring_01
+- - 1
+  - expensive_ring_01
+- - 1
+  - ingred_bonemeal_01
+- - 5
+  - Gold_001

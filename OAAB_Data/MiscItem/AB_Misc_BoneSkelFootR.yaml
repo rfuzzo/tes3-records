@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_BoneSkelFootR
+name: Right Foot
+script: ''
+mesh: OAAB\m\skelFootR.nif
+icon: OAAB\m\skelFootR.tga
+data:
+  weight: 0.5
+  value: 1
+  flags: ''

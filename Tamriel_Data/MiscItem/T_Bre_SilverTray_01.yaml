@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Bre_SilverTray_01
+name: Silver Tray
+script: ''
+mesh: hr\m\hr_m_silv_tray01.nif
+icon: hr\m\hr_m_silv_tray.dds
+data:
+  weight: 8.0
+  value: 40
+  flags: ''

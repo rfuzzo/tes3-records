@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_EbonyWakizashi
+name: Ebony Wakizashi
+script: ''
+mesh: OAAB\w\ebony_wakizashi.nif
+icon: OAAB\w\ebony_wakizashi.dds
+enchanting: ''
+data:
+  weight: 18.0
+  value: 24000
+  weapon_type: ShortBladeOneHand
+  health: 800
+  speed: 2.25
+  reach: 1.0
+  enchantment: 105
+  chop_min: 9
+  chop_max: 25
+  slash_min: 9
+  slash_max: 20
+  thrust_min: 7
+  thrust_max: 10
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

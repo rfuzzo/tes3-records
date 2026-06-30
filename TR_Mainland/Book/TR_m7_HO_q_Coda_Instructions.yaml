@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: TR_m7_HO_q_Coda_Instructions
+name: Shipbuilders' Instructions
+script: TR_m7_HO_q_Coda_Note_sc
+mesh: m\Text_Note_02.nif
+icon: m\Tx_note_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>\r\nGet this crate onto the Brave Coda.<BR>\r\nDO NOT BE SEEN BY THE CAPTAIN OR CREW\r\n<BR>\r\n<BR>\r\nIR<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 100

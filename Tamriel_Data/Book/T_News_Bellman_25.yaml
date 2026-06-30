@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Bellman_25
+name: HARD-HEART HARD DONE BY
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_note_oe_news.nif
+icon: tr\m\tr_note_oe_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\TR_bellman_512_256.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nHARD-HEART HARD DONE BY<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nThe Master of the Fighters Guild on Vvardenfell, Sjoring Hard-Heart, has been killed inside his private quarters. Reports on what conspired have been difficult to obtain, but according to some exclusive insider information, the killing of Sjoring was a response to his corruption and his deep ties to the Camonna Tong. This native Dark Elf crime syndicate is rumored to engage in smuggling, slavery, the production and distribution of Skooma, terrorism against Imperial Citizens, and has been tied to at least two acts of vandalism perpetrated against Old Ebonheart's Grand Chapel of Talos. As such, if the connections are found to be true, this apparent tragedy could turn out to instead be a great boon to the continued state of peace and prosperity in the Empire. Sjoring's brother Radd, a high-ranking and respected member of the Imperial Legion, had this to say: \"I don't know. Sjoring was one of the best damn fighters I knew. But he certainly liked gambling, and he could've gotten mixed up in a bad situation. Him being in with the Camonna thugs isn't impossible, sure.\"<br><br>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

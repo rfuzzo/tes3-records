@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m1_crate_spools
+name: Rotten Crate
+script: ''
+mesh: o\Contain_crate_02.nif
+encumbrance: 0.0
+container_flags: IS_BASE
+inventory:
+- - 10
+  - misc_spool_01

@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_QyC_CockleCandleRedR02_64
+name: ''
+script: ''
+mesh: pi\l\pi_l_cnq_s_canck2redR.nif
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 64
+  color:
+  - 255
+  - 15
+  - 5
+  - 0
+  flags: DYNAMIC | FIRE | FLICKER_SLOW

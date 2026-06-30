@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_SetDoomstoneGC_Drag
+name: Dragon Stone
+script: T_ScObj_DoomHDragonPC
+mesh: pc\f\pc_dmstn_gc_heavens.nif

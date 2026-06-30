@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Sc_MapSacredLandsSoutheastTR
+name: <Deprecated>
+script: ''
+mesh: td\td_help_deprec_01.nif
+icon: default icon.dds
+enchanting: ''
+text: ''
+data:
+  weight: 1.2
+  value: 50
+  book_type: Scroll
+  skill: None
+  enchantment: 400

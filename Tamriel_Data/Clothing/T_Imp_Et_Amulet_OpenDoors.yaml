@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Imp_Et_Amulet_OpenDoors
+name: Amulet of Open Doors
+script: ''
+mesh: pc\c\pc_c_etamulet_01d.nif
+icon: pc\c\pc_c_etamulet_01d.dds
+enchanting: T_Use_Open35
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 195
+  enchantment: 600

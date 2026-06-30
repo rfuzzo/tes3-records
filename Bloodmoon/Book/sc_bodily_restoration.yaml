@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: sc_bodily_restoration
+name: Scroll of Bodily Restoration
+script: ''
+mesh: m\text_scroll_01.nif
+icon: m\tx_scroll_open_01.tga
+enchanting: sc_bodily_restoration_en
+text: <DIV ALIGN="center"><FONT COLOR="000000" SIZE="2" FACE="Daedric">I AM THAT IS AND ALWAYS WAS</FONT><BR>
+data:
+  weight: 0.2
+  value: 152
+  book_type: Scroll
+  skill: None
+  enchantment: 0

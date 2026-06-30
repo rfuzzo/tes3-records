@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_Ns_TheaterBlood
+name: ''
+script: TR_m7_Ns_StageFright_ScBlood
+mesh: tr\i\tr_f_blood_decal_04.nif

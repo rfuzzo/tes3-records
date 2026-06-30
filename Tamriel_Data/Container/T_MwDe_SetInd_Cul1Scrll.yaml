@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_MwDe_SetInd_Cul1Scrll
+name: Culdem
+script: ''
+mesh: TR\o\TR_cont_Ind_01.nif
+encumbrance: 60.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - random_scroll_all

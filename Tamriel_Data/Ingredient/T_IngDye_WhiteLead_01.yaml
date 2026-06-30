@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngDye_WhiteLead_01
+name: White Lead Dye
+script: ''
+mesh: tr\n\tr_ing_whitelead.nif
+icon: tr\n\tr_ing_whitelead.dds
+data:
+  weight: 0.1
+  value: 5
+  effects:
+  - Poison
+  - DamageAttribute
+  - FortifySkill
+  - ResistPoison
+  skills:
+  - None
+  - Block
+  - Alchemy
+  - None
+  attributes:
+  - None
+  - Intelligence
+  - Strength
+  - None

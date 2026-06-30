@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_FM_Act_RecallFixer_SWI
+name: ''
+script: TR_FM_Act_RecallFixer_SWI_sc
+mesh: EditorMarker.NIF

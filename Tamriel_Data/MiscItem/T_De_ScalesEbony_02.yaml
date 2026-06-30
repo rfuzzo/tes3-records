@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_ScalesEbony_02
+name: Ebony Scales
+script: ''
+mesh: tr\m\tr_misc_eb_scales_02.nif
+icon: tr\m\tr_misc_eb_scales_02.dds
+data:
+  weight: 12.0
+  value: 1250
+  flags: ''

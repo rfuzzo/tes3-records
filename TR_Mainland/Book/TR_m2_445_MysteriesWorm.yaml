@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: TR_m2_445_MysteriesWorm
+name: Mysteries of the Worm
+script: TR_m2_445_sc_MysteriesWorm
+mesh: TR\m\tr_book_mystworm.nif
+icon: TR\m\tr_book_mystworm.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\">\r\n<FONT COLOR=\"000000\" SIZE=\"2\" FACE=\"Daedric\">\r\n<IMG SRC=\"TR\\WormMystery01.dds\" WIDTH=\"240\" HEIGHT=\"240\"><BR> ENSNARE A MORTAL WITH THESE SIGILS <br>\r\n<IMG SRC=\"TR\\WormMystery02.dds\" WIDTH=\"240\" HEIGHT=\"240\"><BR>\r\nAND ITS SOUL SHALL SPLIT INTO THREE <BR>\r\n</FONT><BR>\r\n<BR>"
+data:
+  weight: 3.0
+  value: 250
+  book_type: Book
+  skill: None
+  enchantment: 100

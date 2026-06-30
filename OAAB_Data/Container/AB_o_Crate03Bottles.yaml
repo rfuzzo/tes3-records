@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: AB_o_Crate03Bottles
+name: Crate
+script: ''
+mesh: OAAB\o\crate03.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 10
+  - AB_lvl_Bottles

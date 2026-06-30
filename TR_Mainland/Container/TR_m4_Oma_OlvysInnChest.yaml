@@ -1,0 +1,23 @@
+type: Container
+flags: ''
+id: TR_m4_Oma_OlvysInnChest
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - -3
+  - T_De_Drink_LiquorLlotham_01
+- - -3
+  - T_IngFood_MeatKwama_01
+- - -4
+  - food_kwama_egg_01
+- - -2
+  - food_kwama_egg_02
+- - -2
+  - ingred_crab_meat_01
+- - -5
+  - ingred_hound_meat_01
+- - -6
+  - potion_comberry_brandy_01

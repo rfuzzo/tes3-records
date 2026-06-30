@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Bre_RedGlassSpoon_01
+name: Gilded Red Glass Spoon
+script: ''
+mesh: hr\m\m_red_glass_spn.nif
+icon: hr\m\m_red_glass_spn.dds
+data:
+  weight: 1.0
+  value: 50
+  flags: ''

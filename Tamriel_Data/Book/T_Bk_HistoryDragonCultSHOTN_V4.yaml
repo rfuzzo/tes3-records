@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_HistoryDragonCultSHOTN_V4
+name: History of the Dragon Cult IV
+script: ''
+mesh: pc\m\PC_bk_Book_02.nif
+icon: pc\m\pc_bk_book_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nHistory of the Dragon Cult, vol. iv<BR>\r\nby Forameus<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nThe Dragon Cult today<BR>\r\n<BR> \r\nAlthough Harald did not exterminate the Dragon Cult completely, he reworked it in such a fashion that veneration of Alduin today bears almost no recognisable similarity to that of the mighty demagogues of early Skyrim.<BR>\r\n<BR>\r\nIdeas of waking Alduin or hastening the end of the kalpa were strongly discouraged. Instead, those who follow the Dragon continue their practices of harvest festivals and agrarian administration, but are also charged with singing the lullabies that keep Alduin sleeping and this age of Man alive. The renewal wrought by the Dragon's destructive flames is kept esoteric and allegorical: Alduin may be propitiated when one seeks the destruction of want or weakness, for example, but the matter of the kalpa's end is best left to the gods themselves.<BR>\r\n<BR>\r\nAlthough ruined, the temples of the Dragon Cult (which, it should be said, represent another departure from the generally decentralised religious practices of the Nords) can still sometimes be found in use. Those near villages, in particular, may be occupied by one or two Dragon Cultists, who assist local agriculture and oversee the various rituals and rites of Alduin across the seasons. Today, the Dragon Cult is generally an institution only in rural, traditional areas.<BR>\r\n<BR>\r\nHowever, during the sacred reign of the late Reman Cyrodiil a number of remote and long-unoccupied temples were excavated and opened. Forty years on, we can still only speculate what future scholars may uncover deep within the walls of these maligned spaces. A word of warning, nonetheless:<BR>\r\n<BR>\r\nThe lower levels of these ruined temples remain dangerous. Those who feared they would die before the return of the Dragon practiced strange magicks to bind themselves to their corpses, willingly trapping themselves in a tortured existence in anticipation of the kalpa's imminent end. As the millennia have passed, a few of these baleful watchers still roam the catacombs, attacking intruders in their madness and despair. Tread carefully, truth-seeker, for the path of knowledge is overgrown with violence.<BR>\r\n<BR>"
+data:
+  weight: 4.0
+  value: 150
+  book_type: Book
+  skill: None
+  enchantment: 0

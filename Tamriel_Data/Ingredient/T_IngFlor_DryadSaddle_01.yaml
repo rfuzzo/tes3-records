@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_DryadSaddle_01
+name: Dryad's Saddle Polypore Cap
+script: ''
+mesh: pc\n\PC_Ingred_Dryad.nif
+icon: pc\n\pc_tx_ingred_dryad.dds
+data:
+  weight: 0.1
+  value: 10
+  effects:
+  - RestoreAttribute
+  - ResistFrost
+  - DamageAttribute
+  - FrostDamage
+  skills:
+  - Block
+  - None
+  - Block
+  - None
+  attributes:
+  - Luck
+  - None
+  - Speed
+  - None

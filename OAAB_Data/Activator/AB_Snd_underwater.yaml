@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Snd_underwater
+name: Sound_Underwater
+script: AB_SoundUnderwater_s
+mesh: EditorMarker.NIF

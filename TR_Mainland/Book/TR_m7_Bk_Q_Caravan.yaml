@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_Bk_Q_Caravan
+name: M'Raskhar's Game Rulebook
+script: ''
+mesh: tr\m\tr_book_notebk_01.nif
+icon: tr\m\tr_book_closed_ntbk01.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[Within are the rules to play M'Raskhar's game. It appears to be a normal card game, but upon reaching the section about building a deck, the rules suddenly become utterly complex. While the game itself appears relatively simple, it takes a lot of time to read and fully comprehend these rules.]<BR>"
+data:
+  weight: 0.5
+  value: 25
+  book_type: Book
+  skill: None
+  enchantment: 0

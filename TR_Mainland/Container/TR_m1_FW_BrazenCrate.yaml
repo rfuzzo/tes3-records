@@ -1,0 +1,23 @@
+type: Container
+flags: PERSISTENT
+id: TR_m1_FW_BrazenCrate
+name: Crate
+script: TR_m1_FW_BrazenCrateSc
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - TR_m1_FW_BrazenNote
+- - 1
+  - dwemer_pauldron_left
+- - 1
+  - dwemer_pauldron_right
+- - 2
+  - misc_dwrv_artifact00
+- - 1
+  - misc_dwrv_artifact50
+- - 3
+  - misc_dwrv_artifact60
+- - 2
+  - misc_dwrv_gear00

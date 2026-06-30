@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: AB_ScEn_SundarkDrape
+name: Scroll of Sundark Drape
+script: ''
+mesh: OAAB\m\scrollQuality.nif
+icon: OAAB\m\scroll_quality.tga
+enchanting: AB_sc_SundarkDrape_en
+text: <DIV ALIGN="center"><FONT COLOR="000000" SIZE="2" FACE="Daedric">DARKSUNDARKSUNDARKSUNDARK</FONT><BR>
+data:
+  weight: 0.2
+  value: 217
+  book_type: Scroll
+  skill: None
+  enchantment: 100

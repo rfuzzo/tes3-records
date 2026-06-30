@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: bk_treasuryreport
+name: Treasury Report
+script: sealedTreasuryReport
+mesh: m\Text_Scroll_01.NIF
+icon: m\Tx_scroll_open_01.tga
+enchanting: ''
+text: KJAH SDFH KLJH FAKL SDJH FAKL DSHF KJAD SHFL KJAN SDCJ NASO ERUH AUWO IYEF HADS CHNK SNCL KNAS JROR IEWU PIWE HJKF NBDS LKJV NKLA SDNF OHRF OIQP REWF HSAD KJVH AKSJ DNFP OQRE HFOI DSAP<BR>
+data:
+  weight: 0.2
+  value: 100
+  book_type: Scroll
+  skill: None
+  enchantment: 0

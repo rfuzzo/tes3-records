@@ -1,0 +1,22 @@
+type: Armor
+flags: ''
+id: T_Nor_Companion_GauntletR_01
+name: Companion Armor Right Gauntlet
+script: ''
+mesh: Sky\a\Sky_A_Companion_GT_G.nif
+icon: Sky\a\Tx_Comp_Gauntlet.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: RightHand
+  male_bodypart: T_A_NorCompanionGauntl01_Ha
+  female_bodypart: ''
+- biped_object_type: RightWrist
+  male_bodypart: ''
+  female_bodypart: ''
+data:
+  armor_type: RightGauntlet
+  weight: 4.0
+  value: 600
+  health: 80
+  enchantment: 200
+  armor_rating: 25

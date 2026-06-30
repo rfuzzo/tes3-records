@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_ThreeDeathsHouseMoraTR
+name: Three Deaths of House Mora
+script: ''
+mesh: TR\m\TR_book_closed_i05_AY.nif
+icon: TR\m\TR_book_closed_i05_AY.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThree Deaths of House Mora<BR>\r\nQueen Lian Mora<BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nThe House of my birth is no more. The land is sundered and the children of the House are dead. I am the last of the line of Mora. The House of my birth is no more.<BR>\r\n<BR>\r\nMora Kronin, sire of my sire, died two deaths. He knelt before the northern men and gave the soul of his House to their swords. Alike those cursed scions of the King of Rape, he could not live with death, so gave his life that he might never die. That was his first death. He was spat on as I spit on him now, and the land of freedom which was Veloth's promise could not abide the bringer of chains. The mothers who dwell in darkness stepped from the shadows of the between and returned him. I kiss their feet and call them mother now. That was his second death.<BR>\r\n<BR>\r\nMora Cruethys, brother of my sire, died two deaths. He took the crown my sire refused, though Veloth forbade the wearing of crowns, and so foreswore the changed life which was the prophet's gift to his people. That was his first death. He felt the pity and shame in his heart, which is the pity and shame I feel for him now. The swords of the northern men are sharp; but rather than turn the sword upon its makers, brother of my sire, you turned it upon yourself. That was your second death.<BR>\r\n<BR>\r\nMora Elyn, my sire, you who were acclaimed and feared Witch-King of Ebonheart, you died two deaths. Your first came when you embraced the skin-stranger and sold him, as the meagre pawner sells that which is not his. On that day I saw you did not weep, for the dead have shed all their tears. Your second came when the mother of the return found you, after you drove out the poison which your sire had swallowed, side-by-side with the skin-stranger who was not yours. I shed all my tears, that day.<BR>\r\n<BR>\r\nMora Nerevar, my brother, you whom I loved and love. You first died as you lived and as you deserved, in road-dust. You, skin-stranger, you who are my brother and his better. You have died. All Resdayn weeps. I would weep, but I have no more tears.<BR>\r\n<BR>\r\nHouse Mora died its first death on the day Mora Kronin killed it that it might live again. It died its second on the day the sky darkened and split with fire, and the sea came from the west and drowned all its children.<BR>\r\n<BR>\r\nI die my second death, today. The sword of the northern men is still sharp. I am the last of the line of Mora.<BR>\r\n<BR>\r\nIt takes three deaths to be reborn.<BR>"
+data:
+  weight: 1.0
+  value: 35
+  book_type: Book
+  skill: None
+  enchantment: 100

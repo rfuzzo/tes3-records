@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m4_Bal_LairUp4Bed
+name: Bed
+script: Bed_Standard
+mesh: f\Furn_Com_Bed_02.NIF

@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m0_Passwall_act
+name: ''
+script: TR_m0_Passwall_Act_sc
+mesh: EditorMarker.nif

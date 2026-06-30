@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_OE_bk_ETCensus_Record_01
+name: Census Record
+script: ''
+mesh: pc\m\PC_bk_Book_12.nif
+icon: pc\m\pc_bk_book_12.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n[This record contains a long list of births, deaths, marriages, and migrations in the last couple of years. Glyphs, marks and seals in red ink attest to the busy work of the Census and Excise Office.]<BR>"
+data:
+  weight: 4.0
+  value: 4
+  book_type: Book
+  skill: None
+  enchantment: 0

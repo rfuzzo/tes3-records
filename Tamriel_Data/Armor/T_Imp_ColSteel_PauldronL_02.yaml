@@ -1,0 +1,22 @@
+type: Armor
+flags: ''
+id: T_Imp_ColSteel_PauldronL_02
+name: Kvetchi Steel Left Pauldron
+script: ''
+mesh: pc\a\PC_a_ColoStl_02_PG.nif
+icon: pc\a\pc_a_ColoStl_PauldrL_2.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: LeftUpperArm
+  male_bodypart: T_A_ImpColSteelPauldr02_UA
+  female_bodypart: ''
+- biped_object_type: LeftForearm
+  male_bodypart: ''
+  female_bodypart: ''
+data:
+  armor_type: LeftPauldron
+  weight: 12.0
+  value: 74
+  health: 200
+  enchantment: 30
+  armor_rating: 17

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m3_Sa_supplypackage
+name: Supply Package
+script: ''
+mesh: m\dwemer_satchel00.NIF
+icon: m\misc_dwe_satchel00.dds
+data:
+  weight: 3.0
+  value: 5
+  flags: ''

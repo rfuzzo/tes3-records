@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: light_de_lantern_09_128_01
+name: ''
+script: ''
+mesh: l\Light_De_Lantern_09.NIF
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 128
+  color:
+  - 53
+  - 114
+  - 255
+  - 0
+  flags: DYNAMIC | PULSE_SLOW

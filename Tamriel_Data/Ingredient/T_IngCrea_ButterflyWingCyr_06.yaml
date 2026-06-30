@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_ButterflyWingCyr_06
+name: Drakewing Butterfly Wing
+script: ''
+mesh: pc\n\pc_ing_btrfly_wing_06.nif
+icon: pc\n\pc_ing_btrfly_wing_06.dds
+data:
+  weight: 0.1
+  value: 5
+  effects:
+  - FortifyMagicka
+  - ResistMagicka
+  - Silence
+  - DamageAttribute
+  skills:
+  - Block
+  - None
+  - None
+  - Block
+  attributes:
+  - Agility
+  - None
+  - None
+  - Strength

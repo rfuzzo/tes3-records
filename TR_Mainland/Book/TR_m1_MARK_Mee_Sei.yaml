@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_MARK_Mee_Sei
+name: Mee-Sei
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: ''
+enchanting: ''
+text: Marker for moving TR_m1_S_Mee_Sei
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

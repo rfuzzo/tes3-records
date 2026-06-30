@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_De_UNI_6th_Belt_Hearttide
+name: Belt of Hearttide
+script: ''
+mesh: tr\c\tr_c_hearttide_uni.nif
+icon: tr\c\tr_c_hearttide_uni.dds
+enchanting: T_Use_Belt_Hearttide_UNI
+biped_objects: []
+data:
+  clothing_type: Belt
+  weight: 4.0
+  value: 20000
+  enchantment: 200

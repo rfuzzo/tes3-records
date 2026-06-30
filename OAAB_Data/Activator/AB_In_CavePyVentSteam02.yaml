@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_In_CavePyVentSteam02
+name: Sulphur Vent
+script: Sound_Steam
+mesh: OAAB\i\cave_py_vent_act_02.nif

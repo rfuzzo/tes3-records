@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_fire_petal_01
+name: Fire Petal
+script: ''
+mesh: n\Ingred_Fire_Petal_01.nif
+icon: n\Tx_firepetal_01.tga
+data:
+  weight: 0.1
+  value: 2
+  effects:
+  - ResistFire
+  - DrainHealth
+  - SpellAbsorption
+  - Paralyze
+  skills:
+  - Block
+  - Block
+  - Block
+  - Block
+  attributes:
+  - Strength
+  - Strength
+  - Strength
+  - Strength

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m3_ElysanaDiamond
+name: Queen Elysana's Diamond
+script: TR_m3_elysanadiamondscr
+mesh: n\ingred_diamond_01.nif
+icon: n\tx_diamond.dds
+data:
+  weight: 2.0
+  value: 2500
+  flags: ''

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Note_ReachTravelWarningSHOTN
+name: 'Travel Warning: The Reach'
+script: ''
+mesh: m\Text_Parchment_01.NIF
+icon: m\Tx_parchment_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>TRAVEL WARNING:<BR><BR><FONT COLOR=\"000000\"><DIV ALIGN=\"center\"><DIV ALIGN=\"left\"><FONT COLOR=\"000000\">Promulgated under the Authority of the Ministry of Commerce of the Third Empire of Men and under the auspices of our blessed Emperor, <BR>\r\n<DIV ALIGN=\"center\"><FONT COLOR=\"500F0F\"><FONT COLOR=\"500F0F\"><DIV ALIGN=\"center\">U R I E L  VII, <BR>\r\n<FONT COLOR=\"000000\"><DIV ALIGN=\"center\"><DIV ALIGN=\"right\"><FONT COLOR=\"000000\">patron of Cyrodiil and the lands beyond the jungled shores of the Niben, <BR>\r\n\r\n<BR>\r\n\r\n<DIV ALIGN=\"center\"><FONT COLOR=\"000000\"><FONT COLOR=\"000000\"><DIV ALIGN=\"center\">the travel warning to the western Skyrim Reach has been continued for the 31st time since the War of the Bend'r Makh began. While the conflict can no longer be labelled as high-intensity since the cursed traitor Jagar Tharn was put to voracious justice, skirmishes continue between the kingdoms of Haafinheim and the Reach and the city-states of Elinhir and Jehenna. <BR>\r\n\r\n<DIV ALIGN=\"center\"><FONT COLOR=\"000000\"><FONT COLOR=\"000000\"><DIV ALIGN=\"center\">All merchants travelling between the provinces of Skyrim and High Rock or Hammerfell are highly advised to hire martial protection in the form of the Fighters Guild or any other Imperial-sanctioned mercenary guilds.<BR>\r\n<DIV ALIGN=\"center\"><FONT COLOR=\"000000\"><FONT COLOR=\"000000\"><DIV ALIGN=\"center\"> Organizations not officially registered with the Empire are not recommended, due to reports of bandits, deserters, and Reachmen insurrectionists posing as mercenary guilds and robbing their employer once out of the reach of local authorities.<BR>\r\n\r\n<BR>\r\n\r\n<FONT COLOR=\"000000\"><DIV ALIGN=\"center\"><DIV ALIGN=\"center\"><FONT COLOR=\"000000\">This travel advisory is in effect until further notice. <BR>\r\n<FONT COLOR=\"500F0F\"><DIV ALIGN=\"right\"><DIV ALIGN=\"right\"><FONT COLOR=\"500F0F\">Rislav Orens<BR>\r\n\r\n<FONT COLOR=\"000000\"><DIV ALIGN=\"right\"><DIV ALIGN=\"right\"><FONT COLOR=\"000000\">Imperial Magistrate of the Reach<BR>\r\n\r\n<FONT COLOR=\"000000\"><DIV ALIGN=\"right\"><DIV ALIGN=\"right\"><FONT COLOR=\"000000\">19 of Sun's Dawn 3E427<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

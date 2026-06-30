@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_Panshurra_Note2
+name: Note to Zelamassel
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nStop bothering me about the ghost and do it yourself. You still have that enchanted axe, don't you?<BR>\r\n<BR>\r\nN<BR>\r\n"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 100

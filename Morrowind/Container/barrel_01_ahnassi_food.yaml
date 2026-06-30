@@ -1,0 +1,11 @@
+type: Container
+flags: BLOCKED
+id: barrel_01_ahnassi_food
+name: Wooden Barrel
+script: ''
+mesh: o\Contain_barrel_01.NIF
+encumbrance: 50.0
+container_flags: ORGANIC | IS_BASE
+inventory:
+- - 10
+  - random_de_cheapfood_01_nc

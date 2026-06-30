@@ -1,0 +1,19 @@
+type: Light
+flags: PERSISTENT
+id: TR_m3_TT_Dis_roadyrflame
+name: ''
+script: TR_m3_TT_Dis_roadyrflame_sc
+mesh: l\Light_Fire_NoSmoke.NIF
+icon: ''
+sound: Fire 50
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 128
+  color:
+  - 255
+  - 140
+  - 40
+  - 0
+  flags: DYNAMIC | FIRE | FLICKER_SLOW

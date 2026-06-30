@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: witch charm
+name: Witch Charm
+script: ''
+mesh: c\C_Ring_expensive_1.NIF
+icon: c\tx_ring_expensive01.tga
+enchanting: far silence_en
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 113
+  enchantment: 150

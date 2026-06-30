@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_EEC_CaravanContract
+name: Caravan Contract
+script: ''
+mesh: m\Text_Scroll_open_02.nif
+icon: m\Tx_scroll_open_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This parchment details a caravan contract from Narsis into Cyrodiil, signed neatly by Rogatus Cipius.]<BR>\r\n"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

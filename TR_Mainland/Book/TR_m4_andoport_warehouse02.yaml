@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_andoport_warehouse02
+name: Warehouse Ledger
+script: ''
+mesh: m\Text_Octavo_04.nif
+icon: m\Tx_octavo_04.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n[A record of goods previously stored in Bal Foyen's warehouse.]<BR>\r\n<BR>\r\n"
+data:
+  weight: 3.0
+  value: 20
+  book_type: Book
+  skill: None
+  enchantment: 0

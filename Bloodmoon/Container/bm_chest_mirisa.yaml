@@ -1,0 +1,23 @@
+type: Container
+flags: ''
+id: bm_chest_mirisa
+name: Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - p_cure_paralyzation_s
+- - 1
+  - p_disease_resistance_e
+- - 4
+  - p_cure_common_s
+- - 4
+  - p_frost_resistance_s
+- - 1
+  - p_jump_q
+- - 4
+  - p_frost_shield_q
+- - 10
+  - p_restore_health_c

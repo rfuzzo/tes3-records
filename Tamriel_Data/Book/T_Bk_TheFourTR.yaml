@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_TheFourTR
+name: The Four's Homily
+script: ''
+mesh: m\Text_Folio_02.nif
+icon: m\Tx_folio_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>\r\nThe Four's Homily<BR>\r\n<BR>\r\nor<BR>\r\nThe Hungry Nix-Hound<BR>\r\n<BR>\r\nThere once was a nix-hound. There once was a patch of ash yams. The ash yams were succulent, but they were also atop a high hill, where none of the animals of the Ashlands could get to them easily.<BR>\r\n<BR>\r\n\"I am hungry,\" said the nix-hound one day, \"So I am going to climb that hill and have myself a feast of ash yams.\"<BR>\r\n<BR>\r\n\"I will not climb,\" said the alit. \"Many have tried climbing that hill and perished. I will stand at the bottom of the hill with my mouth open. If you die, have the courtesy to fall within it.\" And so the alit never ate anything but the offal of others.<BR>\r\n<BR>\r\nBut the guar said, \"I will go with you.\" And the scrib said, \"I will go with you.\" And the cliffracer said, \"I will come, too.\" And the four friends set out up the hill.<BR>\r\n<BR>\r\nThe hill was an Ashland hill, which meant it was barren and had nothing growing on its sides. The lazy guar soon became hungry, and grumbling so, announced it was done climbing for ash yams and went back down the hill. The alit caught it at the bottom and ate it.<BR>\r\n<BR>\r\nBut the nix-hound stoically ignored its own hunger and continued on.<BR>\r\n<BR>\r\nThe hill was an Ashland hill, which meant its ashy sides were unstable. First sand, then pebbles, then huge rocks slid out from under the animals' feet. The scrib, used to clinging to cave walls and waiting for danger to pass, clung hard to the rocks. And so it was slid down the hill and crushed at the bottom by the very things it had thought to hide among.<BR>\r\n<BR>\r\nBut the nix-hound was quick and clever. It leaped from rock to rock, and so avoided being run down by the falling debris. It continued upward with the cliffracer.<BR>\r\n<BR>\r\nThe hill was an Ashland hill, which meant its peak was windy and fierce. The cliffracer, with its flighty ways and inability to anchor itself to the ground, floated away in the wind and over the next hill. But he, wanderer that he was, never knew the difference, and so you will always find cliff racers flitting from place to place, flocking around and biting at those who have found their own way.<BR>\r\n<BR>\r\nBut the wise nix-hound made rivets in the ash with its claws and so made its own footholds. In this way it could continue up to the top despite the blowing winds.<BR>\r\n<BR>\r\nAnd so the nix-hound, stoic, quick, clever, and wise, was the only animal of the Ashlands to make it to the top of that hill and feast on the succulent ash yams.<BR>\r\n<BR>\r\n"
+data:
+  weight: 2.0
+  value: 50
+  book_type: Book
+  skill: None
+  enchantment: 100

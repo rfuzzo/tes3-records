@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m7_MG_Teloseras_Ball
+name: Dro'Jaaban's Crystal Ball
+script: ''
+mesh: tr\m\tr_misc_com_crysball.nif
+icon: tr\m\tr_misc_crystalball_01.dds
+data:
+  weight: 2.0
+  value: 30
+  flags: ''

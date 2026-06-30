@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: ex_holamayan_cover_01
+name: ''
+script: HolamayanCover
+mesh: x\Ex_Holamayan_cover_01.NIF

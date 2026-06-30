@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_CetaceanMelon
+name: Cetacean Melon
+script: ''
+mesh: pc\n\pc_ing_cetacean_melon.nif
+icon: pc\n\pc_ing_cetacean_melon.tga
+data:
+  weight: 2.0
+  value: 15
+  effects:
+  - DetectAnimal
+  - Sound
+  - DamageAttribute
+  - FortifySkill
+  skills:
+  - None
+  - Block
+  - Block
+  - Mysticism
+  attributes:
+  - None
+  - Personality
+  - Personality
+  - Strength

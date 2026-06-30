@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_De_Set_BannerTownGorne_01
+name: Gorne
+script: ''
+mesh: TR\x\tr_act_ind_mark_gorne.nif

@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Mw_Flora_Gorapple01
+name: Gorapples
+script: ''
+mesh: tr\o\tr_f_gorapple_01.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 5
+  - T_Mw_Random_FlorGorapple

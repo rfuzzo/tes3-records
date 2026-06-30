@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: artifact_belt_of_heartfire
+name: Belt of Heartfire
+script: ''
+mesh: c\Artifact_belt_hfire_01.NIF
+icon: c\Tx_belt_heartfire_01.tga
+enchanting: ward of uthol
+biped_objects: []
+data:
+  clothing_type: Belt
+  weight: 1.0
+  value: 20000
+  enchantment: 100

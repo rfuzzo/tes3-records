@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: belt of balyna's soothing balm
+name: Belt of Balyna's Soothing Balm
+script: ''
+mesh: c\C_belt_Common_2.NIF
+icon: c\tx_belt_common02.tga
+enchanting: balyna's soothing balm_en
+biped_objects: []
+data:
+  clothing_type: Belt
+  weight: 1.0
+  value: 8
+  enchantment: 10

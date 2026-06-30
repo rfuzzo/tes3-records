@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_Oleander_01
+name: Nerium Rose Flower
+script: ''
+mesh: EPoS\n\ELS_ingr_oleander_01.nif
+icon: epos\n\epos_ingr_oleander.dds
+data:
+  weight: 0.2
+  value: 5
+  effects:
+  - DrainAttribute
+  - WaterWalking
+  - Poison
+  - RestoreAttribute
+  skills:
+  - Block
+  - None
+  - None
+  - Block
+  attributes:
+  - Strength
+  - None
+  - None
+  - Agility

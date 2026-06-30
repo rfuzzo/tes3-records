@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_6th_corprusmeat_07
+name: Small Corprusmeat Hunk
+script: ''
+mesh: n\Ingred_6th_Corpusmeat_07.NIF
+icon: n\Ingred_6th_Corpusmeat_07.tga
+data:
+  weight: 0.2
+  value: 0
+  effects:
+  - DrainFatigue
+  - DrainHealth
+  - DrainMagicka
+  - None
+  skills:
+  - Block
+  - Block
+  - Block
+  - Block
+  attributes:
+  - Strength
+  - Strength
+  - Strength
+  - Strength

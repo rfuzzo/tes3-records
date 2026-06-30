@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m2_q_BelongMuseum_act
+name: Aarlen Llenaroth Basement Act
+script: TR_m2_q_BelMus_act_scr
+mesh: EditorMarker.nif

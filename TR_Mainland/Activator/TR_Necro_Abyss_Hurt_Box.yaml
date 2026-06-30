@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_Necro_Abyss_Hurt_Box
+name: ''
+script: TR_Necro_Dungeon_Abyss_Hurt
+mesh: EditorMarker_box_01.NIF

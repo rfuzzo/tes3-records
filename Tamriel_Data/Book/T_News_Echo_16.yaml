@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Echo_16
+name: PROCONSUL AVIDIA MURDERED
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_text_note_nar_news.nif
+icon: tr\m\tr_text_note_nar_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\tr_echo_512_256.dds\" WIDTH=\"348\" HEIGHT=\"168\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nPROCONSUL AVIDIA MURDERED<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nShock and horror in the Imperial Consulate of Narsis' Council Quarter, as Carasa Avidia, the Imperial Proconsul of Morrowind, has been found dead in her chambers. While the details of Avidia's death have not yet been revealed to the public as the investigation continues, the Echo has confirmed that the late Proconsul was murdered. Imperial officials quickly swarmed around the Consulate in the early hours of the morning, after a servant discovered the deceased; updates since have been few and far between.<BR><BR>\r\nRumor, inevitably, has spread through the streets of Narsis, including bizarre and preposterous lies, such as responsibility falling upon House Hlaalu, an Imperial competitor across the border, or even the involvement of the heretical Sixth House cult. The Canyon Echo dutifully reminds all readers that the spreading of such unsubstantiated conspiracy theories is unacceptable, and that all citizens of Narsis should mourn this tragic violence.<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

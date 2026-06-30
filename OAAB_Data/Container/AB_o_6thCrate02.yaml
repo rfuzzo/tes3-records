@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: AB_o_6thCrate02
+name: Crate
+script: ''
+mesh: OAAB\o\6th_crate02.nif
+encumbrance: 75.0
+container_flags: IS_BASE
+inventory:
+- - 12
+  - AB_lvl_6thMisc

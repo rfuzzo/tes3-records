@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_Bre_RedGlassCandleRed_Off
+name: Gilded Red Glass Candle
+script: ''
+mesh: hr\l\m_red_glass_cnr.nif
+icon: hr\l\m_red_glass_cnr.dds
+sound: ''
+data:
+  weight: 2.0
+  value: 80
+  time: 120
+  radius: 77
+  color:
+  - 245
+  - 140
+  - 40
+  - 0
+  flags: DYNAMIC | CAN_CARRY | FIRE | OFF_BY_DEFAULT | FLICKER_SLOW

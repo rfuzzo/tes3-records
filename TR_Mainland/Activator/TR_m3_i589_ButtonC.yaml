@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m3_i589_ButtonC
+name: Button
+script: TR_m3_i589_ButtonCScript
+mesh: f\active_button_01.nif

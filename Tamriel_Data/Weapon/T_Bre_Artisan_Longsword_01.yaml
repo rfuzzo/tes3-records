@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Bre_Artisan_Longsword_01
+name: Wayrest Artisan Longsword
+script: ''
+mesh: TR\w\tr_w_breton_lsword.nif
+icon: TR\w\tr_w_breton_lsword.dds
+enchanting: ''
+data:
+  weight: 21.5
+  value: 240
+  weapon_type: LongBladeOneHand
+  health: 900
+  speed: 1.35
+  reach: 1.0
+  enchantment: 90
+  chop_min: 3
+  chop_max: 16
+  slash_min: 2
+  slash_max: 23
+  thrust_min: 5
+  thrust_max: 21
+  flags: ''

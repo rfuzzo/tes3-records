@@ -1,0 +1,20 @@
+type: Alchemy
+flags: ''
+id: T_Nor_Potion_RestoreFatigue_Q
+name: Quality Restore Fatigue
+script: ''
+mesh: Sky\m\Sky_Misc_Potion_P_Q.nif
+icon: Sky\m\Tx_Misc_Potion_P_Q.dds
+effects:
+- magic_effect: RestoreFatigue
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 5
+  min_magnitude: 40
+  max_magnitude: 40
+data:
+  weight: 0.5
+  value: 80
+  flags: ''

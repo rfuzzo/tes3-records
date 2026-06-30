@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Furn_6thGong01
+name: Gong
+script: AB_6thGong01_s
+mesh: OAAB\u\dk_6th_gong.nif

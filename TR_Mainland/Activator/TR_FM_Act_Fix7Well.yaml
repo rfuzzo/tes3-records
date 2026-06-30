@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_FM_Act_Fix7Well
+name: ''
+script: TR_FM_Stage7Perm_sc
+mesh: x\Ex_nord_well_01.nif

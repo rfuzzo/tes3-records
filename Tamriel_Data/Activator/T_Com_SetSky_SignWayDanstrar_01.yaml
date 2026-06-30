@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Com_SetSky_SignWayDanstrar_01
+name: Danstrar
+script: ''
+mesh: sky\x\sky_act_rsign_danst1.nif

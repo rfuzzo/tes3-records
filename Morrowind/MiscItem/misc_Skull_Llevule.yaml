@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: misc_Skull_Llevule
+name: Skull of Llevule Andrano
+script: ''
+mesh: m\misc_skull00.nif
+icon: m\misc_skull00.tga
+data:
+  weight: 0.5
+  value: 0
+  flags: ''

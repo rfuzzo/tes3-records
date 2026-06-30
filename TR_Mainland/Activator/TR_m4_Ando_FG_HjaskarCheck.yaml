@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_Ando_FG_HjaskarCheck
+name: Hjaskar Check
+script: TR_m4_FG_HjaskarCheck_scp
+mesh: EditorMarker.NIF

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_bk-m2-56-delynmanuscript
+name: Equity and Transgression
+script: ''
+mesh: m\text_quarto_04.nif
+icon: m\Tx_quarto_03.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nEquity and Transgression<BR>\r\n<BR>\r\nThe Progress of Justice under our Triune Lords<BR>\r\nMercy, Mastery, Mystery<BR>\r\n<BR>\r\nby their servant<BR>\r\nSerjo Indoril Enath Delyn<BR>\r\n<BR>\r\n<BR>\r\n<DIV ALIGN=\"LEFT\">\r\n[Past the first few pages, this ancient manuscript is brittle and often damaged beyond legibility.]\r\n<BR>\r\n"
+data:
+  weight: 4.0
+  value: 4000
+  book_type: Book
+  skill: None
+  enchantment: 0

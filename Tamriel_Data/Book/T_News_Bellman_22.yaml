@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Bellman_22
+name: NECROMANCY BANNED IN OUR CITY
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_note_oe_news.nif
+icon: tr\m\tr_note_oe_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\TR_bellman_512_256.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nNECROMANCY BANNED IN OUR CITY<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nIn a surprise announcement, Burgrave Caros Cocceius decreed that necromancy shall henceforth be banned in the city of Old Ebonheart. The Burgrave justified the decision as necessary in order to further peaceful and profitable relations with the natives, who abhor the practice. To many, however, the decree reeks of capitulation to Dark Elf superstitions. An unnamed representative of the native cult was seen visiting several Old Ebonheart notables in days prior. Certified necromancer Hastophos Velifer is furious: \"With one stroke, the Burgrave and the Tribunal Temple have taken away my livelihood. Did you know that the Dunmer themselves practice necromancy? Their own tombs are brimming with reanimated guardians, but to us they forbid even saying goodbye to passed relatives!\" It remains to be seen whether the Dark Elves will respond in kind, perhaps regarding the barbaric custom of slavery.<br><br>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: com_drawers_01_keel-ran
+name: Chest of Drawers
+script: ''
+mesh: o\Contain_Com_Drawers_01.NIF
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory: []

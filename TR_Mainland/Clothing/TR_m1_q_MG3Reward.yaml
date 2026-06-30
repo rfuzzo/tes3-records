@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m1_q_MG3Reward
+name: Amulet of Humbling Touch
+script: ''
+mesh: c\Amulet_Common_3.NIF
+icon: c\tx_amulet_com3.tga
+enchanting: TR_m1_q_MG6Reward_Ench
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 5
+  enchantment: 150

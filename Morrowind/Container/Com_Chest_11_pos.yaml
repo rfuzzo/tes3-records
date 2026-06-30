@@ -1,0 +1,21 @@
+type: Container
+flags: ''
+id: Com_Chest_11_pos
+name: Rusted Chest
+script: ''
+mesh: o\contain_chest10.nif
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - random_pos
+- - 5
+  - random gold
+- - 1
+  - random_loot_special
+- - 1
+  - random_potion_attribute_restore
+- - 1
+  - l_b_Bandit_goods
+- - 30
+  - random_loot_special_marksman

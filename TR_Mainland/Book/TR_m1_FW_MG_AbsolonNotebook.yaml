@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_FW_MG_AbsolonNotebook
+name: Absolon's Notebook
+script: ''
+mesh: tr\m\tr_book_notebk_o_02.nif
+icon: tr\m\tr_book_open_ntbk02.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>[The notebook is filled with detailed notes on Conjuration and the physical geometry of soul gems. Tucked between the pages are a few loose sheets written by a different hand, each signed with the Daedric letter Geth.]\r\n<BR>"
+data:
+  weight: 0.5
+  value: 50
+  book_type: Book
+  skill: None
+  enchantment: 0

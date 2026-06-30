@@ -1,0 +1,20 @@
+type: Alchemy
+flags: ''
+id: p_restore_speed_q
+name: Quality Restore Speed
+script: ''
+mesh: m\Misc_Potion_Quality_01.nif
+icon: m\Tx_potion_quality_01.tga
+effects:
+- magic_effect: RestoreAttribute
+  skill: None
+  attribute: Speed
+  range: OnSelf
+  area: 0
+  duration: 0
+  min_magnitude: 15
+  max_magnitude: 15
+data:
+  weight: 0.5
+  value: 80
+  flags: ''

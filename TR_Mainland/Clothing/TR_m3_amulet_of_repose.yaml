@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m3_amulet_of_repose
+name: Amulet of Repose
+script: ''
+mesh: c\Amulet_Expensive_2.NIF
+icon: c\tx_amulet_expens2.tga
+enchanting: TR_m3_amuletrepose
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 104
+  enchantment: 150

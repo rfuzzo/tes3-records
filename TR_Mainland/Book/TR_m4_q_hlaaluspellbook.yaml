@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_q_hlaaluspellbook
+name: Leatherbound Tome
+script: TR_m4_HH_GM_hlaaluspellbook_scr
+mesh: TR\m\TR_book_closed_i14_AY.nif
+icon: TR\m\TR_book_closed_i14_AY.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nT- tr-h ab- t- wo-d, h- s-d, i- th- an-ng i- po-le. H- y- n- se- it a- fr- b-h an- th-by b- it o- its str-ness it w-d a-ear t- you f- wh- it i-, a h- tr- in a m-ne sh-, a f-d dr-, a tr-e b-p-te w- ch-s ha-g ne-r an-e n- pr-t, an it-t c-al, a m-ry t-w wh- ult-e dest-n aft- m- a p-h in m- a m-d fi- is un-ble a- ca-us bey- re-g.<BR>\nT- un-e is n- na-w th- a- th- or- wi-n it i- n- con-ed b- an- la-de i- its c-n t- re-t wh- exi- in o- pa- in a- ot- p-. Ev- in th- wo- m- th-s ex- wit-t ou- kn-e th- w- it a- th- or- in cr-n wh- y- se- is th- wh- y- h- p- th-, l- a st- in a m-, s- th- yo- sh- n- l- y-r w-. F- exi-e h- it- ow- or- an- th- n- m-s m- c- co-s, th- m- its- b-g b- a f- am- ot-s.\r\n<BR>"
+data:
+  weight: 3.0
+  value: 1500
+  book_type: Book
+  skill: None
+  enchantment: 0

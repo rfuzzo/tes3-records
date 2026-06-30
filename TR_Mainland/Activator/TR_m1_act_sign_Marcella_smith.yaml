@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m1_act_sign_Marcella_smith
+name: 'Marcella: Expert Smith'
+script: SignRotate
+mesh: tr\f\tr_act_sign_arms_02.nif

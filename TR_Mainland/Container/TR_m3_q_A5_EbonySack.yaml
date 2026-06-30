@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m3_q_A5_EbonySack
+name: Smuggler's Sack
+script: TR_m3_q_A5_SmugglerSack
+mesh: o\Contain_Com_Sack_02.NIF
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 5
+  - TR_m3_q_A5_SmuggledEbony

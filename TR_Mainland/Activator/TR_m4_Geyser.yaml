@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_Geyser
+name: ''
+script: T_ScSound_WaterfallSml
+mesh: x\Ex_MH_Pav_Water_Spray.NIF

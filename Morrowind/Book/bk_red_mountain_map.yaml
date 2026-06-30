@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: bk_red_mountain_map
+name: Map of Red Mountain
+script: ''
+mesh: m\Text_Parchment_01.NIF
+icon: m\Tx_parchment_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nBuoyant Armiger's Map of Red Mountain<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nCitadel Vemynal: northwest<BR>\r\nCitadel Tureynulal: northeast<BR>\r\nCitadel Dagoth: center<BR>\r\nCitadel Endusal: southwest<BR>\r\nCitadel Odrosal: southeast<BR>\r\nGhostgate: south<BR>\r\n<BR>\r\n<DIV ALIGN=\"CENTER\"><BR>\r\n<IMG SRC=\"RedMountain_377_253.tga\" WIDTH=\"377\" HEIGHT=\"253\"><BR>\r\n<BR>\r\n"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

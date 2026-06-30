@@ -1,0 +1,22 @@
+type: Armor
+flags: ''
+id: TR_m4-476_hartwigs_grip
+name: Hartwig's Iron Right Grip
+script: ''
+mesh: TR\a\tr_a_nordic_G_R_GND.nif
+icon: TR\a\tr_a_norir_gau_R.dds
+enchanting: TR_m4-476_hartwigs_grip_en
+biped_objects:
+- biped_object_type: RightWrist
+  male_bodypart: T_A_NorIronGauntl01_W
+  female_bodypart: ''
+- biped_object_type: RightHand
+  male_bodypart: T_A_NorIronGauntl01_Ha
+  female_bodypart: ''
+data:
+  armor_type: RightGauntlet
+  weight: 5.6
+  value: 850
+  health: 150
+  enchantment: 120
+  armor_rating: 16

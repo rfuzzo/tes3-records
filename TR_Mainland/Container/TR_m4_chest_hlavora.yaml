@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: TR_m4_chest_hlavora
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Mw_Random_DrinkHlaalu
+- - -1
+  - T_Mw_Random_DrinkLocal
+- - 4
+  - T_Mw_Random_PosDunmer01
+- - -1
+  - T_Mw_Random_WeaponsIron

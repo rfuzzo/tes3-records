@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: bk_notetomenus
+name: Note to Menus
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nMenus,<BR>\r\n<BR>\r\nWelcome to Vos. I thought I would drop these kwama eggs by as a housewarming gift but you weren't in. Feel free to drop by anytime and say hello. I hope you enjoy our town.<BR>\r\n<BR>\r\nIenasa<BR>\r\n"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_TT_Dis_summonscroll
+name: Scroll of Cautious Beckoning
+script: TR_m3_TT_Dis_summonscr_sc
+mesh: m\Text_Scroll_01.nif
+icon: m\Tx_scroll_open_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"center\"><FONT COLOR=\"000000\" SIZE=\"2\" FACE=\"Daedric\">THE HIGH PRIEST HTOUMHSAMS PROCLAIMS<BR><BR>\r\nA WISE MAN ONCE SPOKE<BR>\r\nTHE WORLD WILL TAKE YOUR ADVANTAGE<BR>\r\nINTELLIGENCE IS NOT THINE STRONGEST ATTRIBUTE<BR>\r\nTHE FOOLISH WITCH STANDS BEFORE YOU<BR>\r\nHER FINGERS ARRANGED ON HER FOREHEAD IN AN ARCANE SYMBOL<BR>\r\n</FONT><BR>"
+data:
+  weight: 0.2
+  value: 69
+  book_type: Scroll
+  skill: None
+  enchantment: 100

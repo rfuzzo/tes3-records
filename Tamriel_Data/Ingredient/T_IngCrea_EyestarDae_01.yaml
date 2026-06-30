@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_EyestarDae_01
+name: Eyestar
+script: BILL_MarksDaedraSummon
+mesh: TR\n\TR_Ing_Eyestar.nif
+icon: TR\n\TR_Ing_Eyestar.dds
+data:
+  weight: 0.5
+  value: 100
+  effects:
+  - NightEye
+  - Light
+  - WeaknessToMagicka
+  - WaterBreathing
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

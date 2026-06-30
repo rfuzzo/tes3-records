@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: TR_m7_Nars_DispCasCons1
+name: Display Case
+script: TR_m7_Nars_DispCasCons_sc
+mesh: pc\f\pc_furn_com_r_displ_01.nif
+encumbrance: 0.0
+container_flags: IS_BASE
+inventory: []

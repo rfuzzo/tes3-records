@@ -1,0 +1,11 @@
+type: Container
+flags: BLOCKED
+id: urn_ash00
+name: Urn
+script: ''
+mesh: o\Contain_urn_05.NIF
+encumbrance: 10.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - ingred_bonemeal_01

@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_Ayl_DngRuin_LightDWelkynd
+name: ''
+script: T_ScObj__cleanup
+mesh: ''
+icon: ''
+sound: T_SndObj_DWelkynd_ringing
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 80
+  color:
+  - 86
+  - 12
+  - 12
+  - 0
+  flags: PULSE_SLOW

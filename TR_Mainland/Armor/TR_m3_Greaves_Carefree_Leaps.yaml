@@ -1,0 +1,31 @@
+type: Armor
+flags: ''
+id: TR_m3_Greaves_Carefree_Leaps
+name: Greaves of Carefree Leaps
+script: ''
+mesh: TR\A\tr_a_HvChit_grvs_gnd.nif
+icon: tr\a\tr_a_HvChit_greaves.dds
+enchanting: TR_m3_Greaves_Carefree_Leaps_En
+biped_objects:
+- biped_object_type: LeftUpperLeg
+  male_bodypart: T_A_HvChit_greaves_ul
+  female_bodypart: ''
+- biped_object_type: Groin
+  male_bodypart: T_A_HvChit_greaves_g
+  female_bodypart: ''
+- biped_object_type: RightUpperLeg
+  male_bodypart: T_A_HvChit_greaves_ul
+  female_bodypart: ''
+- biped_object_type: LeftKnee
+  male_bodypart: T_A_HvChit_greaves_k
+  female_bodypart: ''
+- biped_object_type: RightKnee
+  male_bodypart: T_A_HvChit_greaves_k
+  female_bodypart: ''
+data:
+  armor_type: Greaves
+  weight: 21.6
+  value: 500
+  health: 400
+  enchantment: 0
+  armor_rating: 12

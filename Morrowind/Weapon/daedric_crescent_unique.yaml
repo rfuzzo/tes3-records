@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: daedric_crescent_unique
+name: Daedric Crescent
+script: ''
+mesh: w\W_art_blade_crescent.NIF
+icon: w\tx_art_crescent.tga
+enchanting: Crescent Moon
+data:
+  weight: 35.0
+  value: 180000
+  weapon_type: LongBladeTwoClose
+  health: 5400
+  speed: 1.25
+  reach: 1.0
+  enchantment: 180
+  chop_min: 15
+  chop_max: 40
+  slash_min: 20
+  slash_max: 50
+  thrust_min: 5
+  thrust_max: 15
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

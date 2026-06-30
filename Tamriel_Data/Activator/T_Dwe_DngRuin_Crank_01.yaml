@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Dwe_DngRuin_Crank_01
+name: Crank
+script: T_ScObj_Dwe_Crank
+mesh: tr\f\tr_act_dwe_crank_01.nif

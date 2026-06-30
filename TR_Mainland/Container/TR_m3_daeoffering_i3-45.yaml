@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m3_daeoffering_i3-45
+name: Offering Cask
+script: ''
+mesh: TR\o\TR_cont_dae_amulet.nif
+encumbrance: 140.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - Misc_SoulGem_Grand

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_NVA5_halfbarrel01
+name: ''
+script: TR_m7_NVA_Stage5
+mesh: f\furn_halfbarrel01.nif

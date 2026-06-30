@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_Haliwaran_Letter
+name: Haliwaran Transaction Letter
+script: TR_m3_Hal_Letter_sc
+mesh: m\Text_paper_roll_01.nif
+icon: m\Tx_paper_roll_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>\r\nContents of the shipment from Old Ebonheart.<BR>\r\nTo be delivered to Haliwaran.<BR>\r\n<BR>\r\n- Potion of Restore Magicka, 5 units<BR>\r\n- Red candles, 12 units<BR>\r\n- Coda flower, 25 units<BR>\r\n- Roobrush, 25 units<BR>\r\n- Fire salts, 6 units<BR>\r\n- Ash salts, 5 units<BR>\r\n- \"Corpse Preparation v I\", 1 unit<BR>\r\n- Silver dagger, 2 units<BR>\r\n<BR>\r\n<BR>\r\n<DIV ALIGN=\"center\">\r\n<IMG SRC=\"PC\\pc_waxseal_empire.dds\" WIDTH=\"96\" HEIGHT=\"96\"><BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

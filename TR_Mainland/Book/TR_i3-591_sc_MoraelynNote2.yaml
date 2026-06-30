@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_i3-591_sc_MoraelynNote2
+name: Second of withered fragments
+script: ''
+mesh: TR\m\TR_note_a04.nif
+icon: TR\m\tr_note_a04.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><DIV ALIGN=\"LEFT\"><BR> A bone-walker emerged from a wall. It had three precious stones set in its lower jaw, a magical practice of old. [...] Vivec kissed the first precious stone [...]  He kissed the second precious stone [...]  He kissed the opal and said:\r\n'Down I take thee.' <br>"
+data:
+  weight: 1.0
+  value: 25
+  book_type: Scroll
+  skill: None
+  enchantment: 150

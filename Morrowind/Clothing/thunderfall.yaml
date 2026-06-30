@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: thunderfall
+name: Thunderfall
+script: ''
+mesh: c\Amulet_Extravagant_1.NIF
+icon: c\tx_amulet_extrav1.tga
+enchanting: shocking touch_enu
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 161
+  enchantment: 1200

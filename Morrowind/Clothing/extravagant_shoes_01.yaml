@@ -1,0 +1,20 @@
+type: Clothing
+flags: ''
+id: extravagant_shoes_01
+name: Extravagant Shoes
+script: ''
+mesh: c\C_shoes_extrav_1_GND.NIF
+icon: c\tx_shoes_extrav_1.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: LeftFoot
+  male_bodypart: c_shoes_extrav_1_f
+  female_bodypart: ''
+- biped_object_type: RightFoot
+  male_bodypart: c_shoes_extrav_1_f
+  female_bodypart: ''
+data:
+  clothing_type: Shoes
+  weight: 3.0
+  value: 40
+  enchantment: 200

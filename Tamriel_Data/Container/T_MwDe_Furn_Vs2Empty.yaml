@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: T_MwDe_Furn_Vs2Empty
+name: Vase
+script: ''
+mesh: TR\o\TR_cont_de_vase_02.nif
+encumbrance: 10.0
+container_flags: IS_BASE
+inventory: []

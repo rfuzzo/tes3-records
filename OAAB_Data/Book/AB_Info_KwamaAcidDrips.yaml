@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: AB_Info_KwamaAcidDrips
+name: InfoBox - Kwama Acid Drips
+script: ''
+mesh: OAAB\h\marker_info.nif
+icon: OAAB\h\marker_info.tga
+enchanting: ''
+text: "Long drip -- do not place above a lower level unless you want it to come through the ceiling.\r\n\r\nThe lower marker shows where the acid strikes a surface and creates some smoke. This can be sunk below the surface if not desired."
+data:
+  weight: 0.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 100

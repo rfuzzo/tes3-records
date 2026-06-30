@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: TR_m4_cs_i4-261-hla
+name: Urn of "Master Llosuenis Kooso"
+script: ''
+mesh: o\Contain_urn_05.NIF
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - amulet of almsivi intervention
+- - 1
+  - ingred_bonemeal_01
+- - 1
+  - misc_skull00

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_OE_sign_c_arms_02
+name: 'Arnulf: Smith'
+script: SignRotate
+mesh: TR\f\tr_act_sign_arms_06.nif

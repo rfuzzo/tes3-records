@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_De_UNI_TreasureWoodSword
+name: Treasure Wood Sword
+script: ''
+mesh: tr\w\tr_w_treasure_wood.nif
+icon: tr\w\tr_w_treasure_wood.dds
+enchanting: T_Const_TreasureWoodSword
+data:
+  weight: 6.5
+  value: 50000
+  weapon_type: ShortBladeOneHand
+  health: 350
+  speed: 2.0
+  reach: 1.0
+  enchantment: 0
+  chop_min: 2
+  chop_max: 12
+  slash_min: 1
+  slash_max: 17
+  thrust_min: 3
+  thrust_max: 14
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Sc_PilgrimAndSoldierPC_V2
+name: The Pilgrim and the Soldier II
+script: ''
+mesh: m\text_scroll_01.nif
+icon: m\tx_scroll_open_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">THE PILGRIM<BR>\r\nand<BR>\r\nTHE SOLDIER<BR>\r\n<BR>\r\n*The Road*<BR>\r\n<BR>\r\n<DIV ALIGN=\"LEFT\">\r\nHow they walked together, the pilgrim and the soldier, on the road to Sancre Tor.<BR>\r\n<BR>\r\nThe road to Sancre Tor is an evil road,<BR>\r\nthere is no water and no life,<BR>\r\nevil spirits haunt it,<BR>\r\nevil beasts beset it,<BR>\r\nevil men besiege it,<BR>\r\nit is an evil road.<BR>\r\n<BR>\r\nThe soldier wielded her iron hammer,<BR>\r\nsmashing the skulls of wolves,<BR>\r\ncrushing the skulls of thieves,<BR>\r\ndestroying the skulls of braying bulls.<BR>\r\n<BR>\r\nThe pilgrim spoke in whispers,<BR>\r\nabjuring the hungry ghosts,<BR>\r\nplacating the watchful saints,<BR>\r\ndeceiving the mocking sky-spirits.<BR>\r\n<BR>\r\nTogether they walked, siblings of fate and fortune,<BR>\r\njourneying far on the road to Sancre Tor.<BR>\r\nGlad to have the strength of one another,<BR>\r\neach others' warmth in cold nights.<BR>\r\n<BR>\r\nBut the road to Sancre Tor is cold,<BR>\r\na bitter road,<BR>\r\nit knows no solace in companionship.<BR>"
+data:
+  weight: 0.2
+  value: 60
+  book_type: Scroll
+  skill: None
+  enchantment: 0

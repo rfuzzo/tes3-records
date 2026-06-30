@@ -1,0 +1,53 @@
+type: Book
+flags: ''
+id: T_Bk_ColovianMythArtheimPC_V2
+name: The Siege of Kvatch
+script: ''
+mesh: pc\m\pc_bk_book_14.nif
+icon: pc\m\pc_bk_book_14.tga
+enchanting: ''
+text: |+
+  <DIV ALIGN="LEFT"><FONT COLOR="000000" SIZE="3" FACE="Magic Cards"><BR>THE SIEGE OF KVATCH, BOLD MOUNTAIN<BR>
+
+  <BR>
+
+  So it is said that for the sin of murdering Vythu Far-Handed, prince of Brumath, on the pilgrim's road to Sancre Tor, Irroth of the Kvetchi was rightly cursed, and for this insult the kings of Chorral and Brumath made pact, swearing to defeat the lords of Kvatch in righteous battle, to take the city on the hill, and pillage and burn, as is their right. These kings they were Cirthes Oath-Oak, and Rein Manellis the Beggar, and their army was led by Hermwnthe-of-Thistles, and consisted of many heroes and saints of great renown. Also the king of the Kvetchi was Banathil, who hid his face in sorrow. Let it be known that all this transpired.<BR>
+
+  <BR>
+
+  Thus the mighty host of Chorral and Brumath arrived at the hill-walls of Kvatch, and saw that the city was the mightiest fortress that has ever been, built on a cliff that none could scale, and girdled with eight-and-one wooden walls, and many towers. They set about attacking this city, and did so for nine months, and this was one of the Fifteen Ineffectual Sieges of the City of Kvatch. And after nine months had passed, Hermwnthe-of-Thistles said this to Cirthes king of Chorral: "This siege will be without end, for the city of Kvatch has never yielded to a hostile force, it is a rock, firm and uncompromising, it is unshakable, and no force on earth could break its wall of stone, open its oaken gates. I ask of thee, king of Chorral, call for the Shore-King to settle our dispute, for he is both wise and impartial."<BR>
+
+  <BR>
+
+  So Cirthes of Chorral called for Cioracet of the Trident Coast, who is called the Shore-King. He was both wise and impartial, staunch defender against the Elves and the hand of Thras, and knowledgeable of the stars. Sad, the fate of Cioracet and his kin, which is told in many other fables, and need not be repeated here! Now Cioracet called for a council, and listened to grievances, and made wise truce: "Each will choose a champion, and he will set off to complete a task, and it will be a most arduous task, requiring mastery of the chivalric virtues, the likes of which we have not seen since the days of the Nords, that is to say, when they lived in Old-Wood-Stead. And the one who completes this task, and brings back proof that he has done so, will be of the party of the virtuous, and the justified, and the other will be in disgrace, and his party will give tribute in foul blood-money." To which both assailant and defender agreed, and both they sent forth their champions, they were Irroth the Lark and Hermwnthe-of-Thistles. "Your task will be to go to the stronghold of Carachibekav, where the Ayleid king Chir-Al-Al-Boal presides over a court of dead men, and kill this king, and bring back his head to me."<BR>
+
+  <BR>
+
+  So both Irroth and Hermwnthe set out, they traveled far over the Barrow-Lands and the Heath and the Petty-Desert, till they came to the land they call Gemha-av, that is to say, west of Sancre Tor. There Irroth confronted Hermwnthe, and spoke thus: "My hand is virtuous, though it is covered in blood. Return, Hermwnthe, for I have heard of your many deeds and think you far above all knights of your station, and I would not relish to kill you." But Hermwnthe cared not for such talk: "Child of the Kvetchi! You think you can defeat me in combat? I am Hermwnthe-of-Thistles, killer of giants, of men, of elves, killer of demons, killer of drakes! When I was but a youth, I made ancient and hot-headed oath, to never ignore challenge, and for every challenge I have met, I have been victorious!" There Hermwnthe defeated Irroth the Lark on the road to Gemha-av, not by her terrible thistle-tipped spear, but by the force of her armored hands alone.<BR>
+
+  <BR>
+
+  After bringing low the Lark, Hermwnthe did continue to the hidden halls of Carachibekav, where the Ayleid king Chir-Al-Al-Boal presides over a court of dead men. There Hermwnthe made herself known at the gates, and the keeper at the gate was a dead man, and the workers of the stables were dead men, and the servants who brought her wine were dead men. So she came before Chir-Al-Al-Boal, who took the shape of a copper snake with a boar's head. Thus he spoke: "Many the child-fools enter my domain, and I have piled their skulls high, making from their remains a fine tea, the likes of which would give a weakling the strength of thirty mer. Today, I am the zenith of Ayleidoon of old, carrying on my back one hundred and eight wings, and speaking eight secret spells, and knowing the names of nineteen beings from the outer void who will jump at my command and smite my enemy, by fire, stone, and lightness. Have you come to challenge me, mortal?" To answer such challenge on the day of hospitality is in clear opposition to the Law of Three-Days, the Fifth and the Sixth Pennant of Hospitality, and proper Knightly Conduct. But Hermwnthe was bound by ancient and hot-headed oath, to never ignore or deny challenge, and also she was proud and afraid of nothing. Thus she spoke: "Yea, I have come to kill you, and this will serve in the making of righteousness, and righteousness come, to all my many enemies."<BR>
+
+  <BR>
+
+  There a fierce battle was fought, in which Chir-Al-Al-Boal applied all the secret and foul knowledge of Ayleidoon, changing his shape many times, into a beast, and a bug, into a boar, and a fox, and a wolf, and a hand, and an eye, and a rat, and a snake, and a cloud, and a tree, and a tiger, and a badger, and a fox again, and a frog, and so on. But nothing would prevail, for Hermwnthe countered it all with piety and force of arms, prevailing, and so she carried the head of Chir-Al-Al-Boal on the end of her spear back to the besieged walls of Kvatch.<BR>
+
+  <BR>
+
+  There she was feasted, and the hosts of Bruma and Chorral gathered round, and feasted her. So Cioracet Tide-Rock made ready to speak judgment, when Irroth the Lark came forth and objected to proceedings. "Hrmwenthe-of-Thistles has acted against the virtuous code, so I have perceived! I have followed her in secret still, and saw she enter the halls of Chir-Al-Al-Boal, and feasted on his wine (thus accepting his hospitality), and when the forenamed Chir-Al-Al-Boal presented himself, and issued his challenge formulaic, Hrmwenthe-of-Thistles answered him in the affirmative, breaking the Law of Three-Days, the Fifth and the Sixth Pennant of Hospitality, and proper Knightly Conduct! I demand a duel, to settle rights!"<BR>
+
+  <BR>
+
+  Cioracet, finding no fault in young Irroth's argument, allowed this duel to transpire. So once more Irroth the Lark and Hrmwenthe-of-Thistles met in battle, and this duel was long, for Irroth was now well-prepared, and Hermwnthe was still weak from her dispute with the Elf-King. There they contested, first by the horse and lance, then by the great mace, then by the big sword, then by the little sword, then by biting-dagger, then by the spear, a weapon for which Hermwnthe had great affection. She wielded the weapon named Thistle-Thorn, and with it she inflicted on Irroth a terrible wound to the face, so that he would never again dare show it to the likes of man, and the wound grew infected so that people now speak of Irroth, the Festering.<BR>
+
+  <BR>
+
+  And Cioracet awarded victory to the forces of Chorral and Brumath, and the Kvetchi were forced into the giving of blood-money. And though Banathil of Kvatch had planned to give an offer of the blood of his son Irroth, the latter had fled, ashamed of his wound, into the wastes of the north, and Banathil washed the gold in the blood of a pig, and all were satisfied. So ends the tale of the siege of Kvatch, Bold Mountain, widely recognized as one of the more entertaining and educational sieges of that august city.<BR>
+
+data:
+  weight: 2.0
+  value: 50
+  book_type: Book
+  skill: None
+  enchantment: 0

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_PottersClayPot02
+name: Potter's Clay
+script: ''
+mesh: OAAB\m\potteryclaypot02.nif
+icon: OAAB\m\potteryclaypot02.tga
+data:
+  weight: 3.0
+  value: 1
+  flags: ''

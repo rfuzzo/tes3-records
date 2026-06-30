@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m4_q_Mudcrab Carver
+name: Legendary Mudcrab Carver
+script: ''
+mesh: w\W_Tanto.nif
+icon: w\Tx_Tanto.tga
+enchanting: ''
+data:
+  weight: 3.5
+  value: 200
+  weapon_type: ShortBladeOneHand
+  health: 700
+  speed: 2.5
+  reach: 1.0
+  enchantment: 22
+  chop_min: 6
+  chop_max: 12
+  slash_min: 6
+  slash_max: 12
+  thrust_min: 6
+  thrust_max: 12
+  flags: ''

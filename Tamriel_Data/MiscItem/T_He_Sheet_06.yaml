@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_He_Sheet_06
+name: Cloth
+script: ''
+mesh: sum\m\sum_misc_sheet_06.nif
+icon: sum\m\sum_misc_sheet_06.dds
+data:
+  weight: 3.0
+  value: 5
+  flags: ''

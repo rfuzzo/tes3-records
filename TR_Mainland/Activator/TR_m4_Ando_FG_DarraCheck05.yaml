@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m4_Ando_FG_DarraCheck05
+name: Darra Check 05
+script: ''
+mesh: EditorMarker.NIF

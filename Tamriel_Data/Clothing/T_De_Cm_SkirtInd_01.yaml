@@ -1,0 +1,17 @@
+type: Clothing
+flags: ''
+id: T_De_Cm_SkirtInd_01
+name: Common Skirt
+script: ''
+mesh: TR\c\tr_pb_c_g_skirt01_gnd.nif
+icon: TR\c\tr_pb_c_g_skirt01.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Groin
+  male_bodypart: T_C_DeCmSkirtInd01_G
+  female_bodypart: ''
+data:
+  clothing_type: Skirt
+  weight: 2.0
+  value: 5
+  enchantment: 20

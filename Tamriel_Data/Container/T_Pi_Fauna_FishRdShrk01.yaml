@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: T_Pi_Fauna_FishRdShrk01
+name: Red Shark
+script: ''
+mesh: pi\o\pi_cont_fish_redshark.nif
+encumbrance: 0.0
+container_flags: ORGANIC | IS_BASE
+inventory:
+- - 1
+  - T_IngCrea_RedSharkMeat_01
+- - 2
+  - T_Pi_Random_FaunRedSharkMeat

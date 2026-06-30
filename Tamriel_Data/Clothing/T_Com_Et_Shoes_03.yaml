@@ -1,0 +1,20 @@
+type: Clothing
+flags: ''
+id: T_Com_Et_Shoes_03
+name: Extravagant Shoes
+script: ''
+mesh: TR\c\tr_c_shoes_ext_06_GND.nif
+icon: TR\c\tr_c_shoes_ext_06.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: LeftFoot
+  male_bodypart: T_C_DeEtShoe06_F
+  female_bodypart: ''
+- biped_object_type: RightFoot
+  male_bodypart: T_C_DeEtShoe06_F
+  female_bodypart: ''
+data:
+  clothing_type: Shoes
+  weight: 3.0
+  value: 40
+  enchantment: 200

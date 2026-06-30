@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_AbMonitor_06
+name: IMPERIAL PRINCE VISITS ANVIL
+script: T_ScNews_Bellman_Paper
+mesh: pc\m\pc_text_note_anv_news.nif
+icon: pc\m\pc_text_note_anv_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"PC\\pc_abmonitor.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nIMPERIAL PRINCE MAKES SURPRISE VISIT TO ANVIL<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nHis Imperial Highness Prince Enman Septim has arrived in Anvil unannounced in a visit that appears to have caught Goldstone authorities by surprise. The Prince and his entourage are expected to accept the customary submissions from the Queen at Goldstone and conduct an inspection of the facilities at Fort Telodrach, though it is unclear when these visits will take place. Enman arrived in customarily resplendent style aboard the Imperial sky skiff TEM Parhelion, which will be docked at Goldstone's Garrison Tower for the duration of the Prince's visit.<BR><BR>\r\nThe Prince's unexpected visit may disrupt the Kingdom's plans to commemorate the third anniversary of the failure of the so-called Benirus Plot, which many speculated would be marked by a new round of royal donations to local religious orders and charitable institutions.<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

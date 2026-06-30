@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Bellman_13
+name: A NEW COURT WIZARD
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_note_oe_news.nif
+icon: tr\m\tr_note_oe_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\TR_bellman_512_256.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nA NEW COURT WIZARD<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nCaros Cocceius has appointed Saturius as the new Court Wizard of Ebonheart. Following a spectacular trial of magical abilities, the Imperial edged out his fellow apprentice, Kelkemmello. The elevation of Saturius follows soon after a traveling %PCClass reported the tragic demise of the former Court Wizard, Tarhiel. Apparently the Wood Elf fell victim to a magical mishap on the island of Vvardenfell.<br><br>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nMESSAGE FROM THE EDITOR<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nA previous issue of the Bellman erroneously listed the late Court Wizard Tarhiel's race as Argonian. He was, in fact, a Wood Elf.<br><br>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

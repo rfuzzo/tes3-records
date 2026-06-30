@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_Painting_UNI_Vaynth
+name: Duchess Bredami Vaynth
+script: ''
+mesh: tr\m\TR_M_Painting_Vaynth.nif
+icon: tr\m\TR_M_Painting_Vaynth.dds
+data:
+  weight: 14.0
+  value: 1300
+  flags: ''

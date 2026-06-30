@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: T_MwCom_Var_CrL1Ware
+name: Crate
+script: ''
+mesh: TR\o\tr_cont_crate_l_01.nif
+encumbrance: 400.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Mw_Random_ClutterBlueWare
+- - 2
+  - T_Mw_Random_ClutterBottles
+- - 1
+  - T_Mw_Random_ClutterPeachware
+- - 1
+  - T_Mw_Random_ClutterPlatesMetal
+- - 1
+  - T_Mw_Random_ClutterRedware

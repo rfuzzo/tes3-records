@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: BM_NordicMail_cuirass
+name: Nordic Mail Cuirass
+script: ''
+mesh: a\A_NordicMail_M_C_GND.NIF
+icon: A\NordicMail_Chest.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: A_NordicMail_M_C
+  female_bodypart: A_NordicMail_F_C
+data:
+  armor_type: Cuirass
+  weight: 30.0
+  value: 5000
+  health: 1000
+  enchantment: 300
+  armor_rating: 66

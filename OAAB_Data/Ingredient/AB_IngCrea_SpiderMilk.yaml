@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: AB_IngCrea_SpiderMilk
+name: Spider's Milk
+script: ''
+mesh: OAAB\n\spider_milk.nif
+icon: OAAB\n\spider_milk.tga
+data:
+  weight: 0.3
+  value: 40
+  effects:
+  - Sanctuary
+  - Mark
+  - None
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

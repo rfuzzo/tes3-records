@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_M3_OE_NeelsIngredList_Note
+name: Neel's ingredient list
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "Bittergreen Petals x 5 <BR>\r\nHypha Facia x 5 <BR>\r\nScrib Jelly x 3 <BR>\r\nFire Salts x 1 <BR>\r\n"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

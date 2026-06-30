@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m4_498_w_bm_lb_slowin
+name: Bonemold Longbow of Slowing
+script: ''
+mesh: w\W_longbow_bonemold.NIF
+icon: w\tx_longbow_bonemold.tga
+enchanting: TR_m4_498_en_slowing
+data:
+  weight: 7.0
+  value: 380
+  weapon_type: MarksmanBow
+  health: 700
+  speed: 1.0
+  reach: 1.0
+  enchantment: 400
+  chop_min: 1
+  chop_max: 30
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: ''

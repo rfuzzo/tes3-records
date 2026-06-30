@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Nor_StonewarePot_02
+name: Stoneware Pot
+script: ''
+mesh: sky\m\sky_misc_stwr_pot_02.nif
+icon: sky\m\sky_misc_stwr_pot_02.dds
+data:
+  weight: 1.0
+  value: 4
+  flags: ''

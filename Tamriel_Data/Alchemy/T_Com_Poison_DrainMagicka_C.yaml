@@ -1,0 +1,20 @@
+type: Alchemy
+flags: ''
+id: T_Com_Poison_DrainMagicka_C
+name: Cheap Drain Magicka Potion
+script: ''
+mesh: m\Misc_Potion_Cheap_01.nif
+icon: m\Tx_potion_cheap_01.tga
+effects:
+- magic_effect: DrainMagicka
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 5
+  min_magnitude: 2
+  max_magnitude: 2
+data:
+  weight: 1.0
+  value: 15
+  flags: ''

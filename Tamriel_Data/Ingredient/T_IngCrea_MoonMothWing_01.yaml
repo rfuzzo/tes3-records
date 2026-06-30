@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_MoonMothWing_01
+name: Moon Moth Wing
+script: ''
+mesh: pc\n\pc_ing_moth_wing_01.nif
+icon: pc\n\pc_ing_moth_wing_01.dds
+data:
+  weight: 0.1
+  value: 15
+  effects:
+  - Feather
+  - DivineIntervention
+  - FortifyAttribute
+  - Reflect
+  skills:
+  - None
+  - None
+  - Block
+  - None
+  attributes:
+  - None
+  - None
+  - Intelligence
+  - None

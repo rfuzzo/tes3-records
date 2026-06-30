@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: AB_IngCrea_Silkgut
+name: Silkgut
+script: ''
+mesh: OAAB\n\silkgut.nif
+icon: OAAB\n\silkgut.dds
+data:
+  weight: 0.3
+  value: 8
+  effects:
+  - DetectAnimal
+  - Telekinesis
+  - DrainHealth
+  - WeaknessToFire
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

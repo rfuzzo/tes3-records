@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_Urn_01
+name: Urn
+script: ''
+mesh: tr\m\tr_misc_urn_01.nif
+icon: tr\m\tr_misc_urn_01.dds
+data:
+  weight: 5.0
+  value: 0
+  flags: ''

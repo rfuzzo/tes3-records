@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_Pomegranate_01
+name: Pomegranate
+script: ''
+mesh: tr\n\tr_ing_pomegranate01.nif
+icon: tr\n\tr_ing_pomegranate.tga
+data:
+  weight: 0.25
+  value: 3
+  effects:
+  - RestoreFatigue
+  - RestoreMagicka
+  - Silence
+  - None
+  skills:
+  - None
+  - Block
+  - Block
+  - None
+  attributes:
+  - None
+  - Luck
+  - Willpower
+  - None

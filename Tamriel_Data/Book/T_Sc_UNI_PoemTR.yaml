@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Sc_UNI_PoemTR
+name: Poem
+script: ''
+mesh: m\Text_Scroll_01.nif
+icon: m\Tx_scroll_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\">\r\nAs water over distant shores<BR>\r\nIn my mind darkness spreads<BR>\r\nA nix-hound howls in the darkness<BR>\r\nBringing upon me my dread<BR><BR>\r\nBitter wind brings no relief<BR>\r\nOnly bits of dust and sand<BR>\r\nMy house creaks all around me<BR>\r\nI ready for the final stand<BR><BR>\r\nNothing can truly be done<BR>\r\nFor me I know I am lost<BR>\r\nWhen all truly is over<BR>\r\nWho shall know the final cost<BR><BR>\r\nIt is time to end all things<BR>\r\nNothing kind or bright is left<BR>\r\nGarish figures drift unwilling<BR>\r\nUnable to have one last rest <BR>"
+data:
+  weight: 1.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 10

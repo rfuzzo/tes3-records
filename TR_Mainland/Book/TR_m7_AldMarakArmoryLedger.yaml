@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_AldMarakArmoryLedger
+name: Armory Ledger
+script: ''
+mesh: pc\m\PC_bk_Book_21.nif
+icon: pc\m\pc_bk_book_21.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n[This ledger records everything that has been put in and taken out of the Ald Marak armory and vault.]<BR>"
+data:
+  weight: 3.0
+  value: 2
+  book_type: Book
+  skill: None
+  enchantment: 0

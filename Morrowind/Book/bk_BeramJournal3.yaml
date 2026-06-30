@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: bk_BeramJournal3
+name: Beram Journal Entry 3
+script: ''
+mesh: m\Text_Note_02.nif
+icon: m\Tx_note_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe worst has happened. This morning a boulder came loose from the ceiling and fell directly onto our major ramp, causing it to collapse and killing two of my men in the process. The remaining three of us are now stranded alone down here, with the cave walls being too sheer to climb, and the wizards obviously having more important things to deal with than a few errant laborers. With our water supplies diminishing rapidly, I sent Norvus and Gilam further down into the caves to look for any natural exits we might have missed when first surveying the site. Damn those wizards. They told us this site was safe. What could they be doing up there? Why are these bugs and rats getting more aggressive by the hour? And why is it getting so blasted hot?<BR>\r\n<BR>\r\nBeram<BR>\r\nForeman<BR>\r\n"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 100

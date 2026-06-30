@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: T_Mw_FloraTV_Weepveil04
+name: Weeping Veil
+script: ''
+mesh: TR\o\tr_f_weepveil_04.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory: []

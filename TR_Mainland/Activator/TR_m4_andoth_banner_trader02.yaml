@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_andoth_banner_trader02
+name: 'Irva Sedrethi: Outfitter'
+script: OutsideBanner
+mesh: f\Furn_bannerD_goods_01.nif

@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Nor_ReaRoy_Cuirass_01
+name: Reach Royal Guard Cuirass
+script: ''
+mesh: sky\a\sky_a_rch_ryl_cuir_gd.nif
+icon: sky\a\sky_rch_ryl_cuir.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_A_NorReaRoyCuirass_C
+  female_bodypart: ''
+data:
+  armor_type: Cuirass
+  weight: 30.0
+  value: 5000
+  health: 1000
+  enchantment: 300
+  armor_rating: 66

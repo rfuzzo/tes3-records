@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_PyrousUracia
+name: Pyrous Uracia
+script: ''
+mesh: tr\n\tr_ing_p_uracia.nif
+icon: tr\n\tr_ing_p_uracia.dds
+data:
+  weight: 0.1
+  value: 1
+  effects:
+  - DrainAttribute
+  - Feather
+  - DrainAttribute
+  - Blind
+  skills:
+  - Block
+  - None
+  - Block
+  - None
+  attributes:
+  - Willpower
+  - None
+  - Agility
+  - None

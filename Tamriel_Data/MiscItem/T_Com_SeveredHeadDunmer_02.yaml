@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_SeveredHeadDunmer_02
+name: Severed Head
+script: ''
+mesh: tr\m\tr_misc_de_head_02.nif
+icon: tr\m\tr_misc_de_head_02.dds
+data:
+  weight: 1.0
+  value: 0
+  flags: ''

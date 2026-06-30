@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Rga_Verk_Cutlass_01
+name: Verkathi Cutlass
+script: ''
+mesh: pc\w\pc_rga_verk_cutlass_01.nif
+icon: pc\w\pc_rga_verk_cutlass_01.dds
+enchanting: ''
+data:
+  weight: 10.0
+  value: 24
+  weapon_type: ShortBladeOneHand
+  health: 500
+  speed: 2.25
+  reach: 1.0
+  enchantment: 45
+  chop_min: 7
+  chop_max: 12
+  slash_min: 5
+  slash_max: 10
+  thrust_min: 1
+  thrust_max: 5
+  flags: ''

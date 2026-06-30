@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: flora_t_pc_hold_mushroom_02aa
+name: ''
+script: Strong3_Complete
+mesh: x\Flora_T_mushroom_02.nif

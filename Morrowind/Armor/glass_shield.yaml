@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: glass_shield
+name: Glass Shield
+script: ''
+mesh: a\Shield_Glass.nif
+icon: a\TX_shield_glass.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: Shield
+  male_bodypart: shield_glass
+  female_bodypart: ''
+data:
+  armor_type: Shield
+  weight: 9.0
+  value: 13600
+  health: 1000
+  enchantment: 300
+  armor_rating: 50

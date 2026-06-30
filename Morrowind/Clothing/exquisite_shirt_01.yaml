@@ -1,0 +1,35 @@
+type: Clothing
+flags: ''
+id: exquisite_shirt_01
+name: Exquisite Shirt
+script: ''
+mesh: c\C_M_Shirt_Exquisite_1_GND.NIF
+icon: c\tx_shirt_exquisite_1.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: c_m_shirt_exquisite_1_c
+  female_bodypart: ''
+- biped_object_type: LeftUpperArm
+  male_bodypart: c_m_shirt_exquisite_1_ua
+  female_bodypart: ''
+- biped_object_type: RightUpperArm
+  male_bodypart: c_m_shirt_exquisite_1_ua
+  female_bodypart: ''
+- biped_object_type: LeftForearm
+  male_bodypart: c_m_shirt_exquisite_1_fa
+  female_bodypart: ''
+- biped_object_type: RightForearm
+  male_bodypart: c_m_shirt_exquisite_1_fa
+  female_bodypart: ''
+- biped_object_type: LeftWrist
+  male_bodypart: c_m_shirt_exquisite_1_w
+  female_bodypart: ''
+- biped_object_type: RightWrist
+  male_bodypart: c_m_shirt_exquisite_1_w
+  female_bodypart: ''
+data:
+  clothing_type: Shirt
+  weight: 2.0
+  value: 120
+  enchantment: 600

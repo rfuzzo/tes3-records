@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: dire flameblade
+name: Dire Flameblade
+script: ''
+mesh: w\W_Dagger_dragon.nif
+icon: w\Tx_dagger_dragon.tga
+enchanting: dire flame_en
+data:
+  weight: 3.0
+  value: 17
+  weapon_type: ShortBladeOneHand
+  health: 400
+  speed: 2.5
+  reach: 1.0
+  enchantment: 20
+  chop_min: 4
+  chop_max: 8
+  slash_min: 4
+  slash_max: 8
+  thrust_min: 5
+  thrust_max: 8
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

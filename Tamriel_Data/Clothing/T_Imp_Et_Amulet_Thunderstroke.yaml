@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Imp_Et_Amulet_Thunderstroke
+name: Thunderstroke Talisman
+script: ''
+mesh: pc\c\pc_c_etamulet_01d.nif
+icon: pc\c\pc_c_etamulet_01d.dds
+enchanting: shocking touch_enu
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 185
+  enchantment: 600

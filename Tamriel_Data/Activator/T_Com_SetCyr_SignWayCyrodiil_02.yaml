@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Com_SetCyr_SignWayCyrodiil_02
+name: Cyrodiil City
+script: ''
+mesh: pc\f\pc_furn_signpost_02.nif

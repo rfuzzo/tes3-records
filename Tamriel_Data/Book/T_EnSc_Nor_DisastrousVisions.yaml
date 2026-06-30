@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_EnSc_Nor_DisastrousVisions
+name: Scroll of Disastrous Visions
+script: ''
+mesh: m\text_scroll_01.nif
+icon: m\tx_scroll_open_01.tga
+enchanting: T_Once_DisastrousVisions
+text: <DIV ALIGN="center"><IMG SRC="Sky\Sky_Sc_DeathAndDestruction.dds" WIDTH="400" HEIGHT="25"><BR>
+data:
+  weight: 0.2
+  value: 135
+  book_type: Scroll
+  skill: None
+  enchantment: 0

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_act_sephen_guardian
+name: Guardian Statue
+script: TR_m3-591_Sephen_script
+mesh: i\in_om_statue1.nif

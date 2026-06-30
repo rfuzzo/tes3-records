@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Sc_TombScrollTR
+name: Tomb Scroll
+script: ''
+mesh: tr\m\tr_misc_scroll_tomb.nif
+icon: tr\m\tr_misc_scroll_tomb.dds
+enchanting: ''
+text: ''
+data:
+  weight: 1.1
+  value: 50
+  book_type: Scroll
+  skill: None
+  enchantment: 0

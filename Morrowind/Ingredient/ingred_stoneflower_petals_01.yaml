@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_stoneflower_petals_01
+name: Stoneflower Petals
+script: ''
+mesh: n\Ingred_Stoneflower_01.nif
+icon: n\Tx_stoneflower_01.tga
+data:
+  weight: 0.1
+  value: 1
+  effects:
+  - RestoreAttribute
+  - FortifyMagicka
+  - DrainAttribute
+  - FortifyAttribute
+  skills:
+  - Block
+  - Block
+  - Block
+  - Block
+  attributes:
+  - Strength
+  - Strength
+  - Luck
+  - Personality

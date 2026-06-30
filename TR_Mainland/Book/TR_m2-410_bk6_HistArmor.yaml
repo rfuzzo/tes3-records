@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2-410_bk6_HistArmor
+name: Hist Cuirass
+script: ''
+mesh: m\Text_Parchment_02.NIF
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe origins of the Hist armor lying on the table are unknown. It is not clear if this armor was worn during the Arnesian War or if the armor was simply acquired from another Argonian. It was donated to the collection on the death of Nyras Endobar by his daughter.\r\n<BR>"
+data:
+  weight: 0.1
+  value: 5
+  book_type: Scroll
+  skill: None
+  enchantment: 0

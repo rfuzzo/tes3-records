@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m2_Com_Chest_Mcloth
+name: Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 400.0
+container_flags: IS_BASE
+inventory:
+- - 3
+  - random_common_de_mclothes_01

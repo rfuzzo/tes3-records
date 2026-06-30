@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_Com_Furn_LntrnCoconutBlu_177
+name: ''
+script: ''
+mesh: pi\l\pi_l_coco_lanternBlu.nif
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 177
+  color:
+  - 245
+  - 140
+  - 40
+  - 0
+  flags: DYNAMIC | FIRE | FLICKER_SLOW

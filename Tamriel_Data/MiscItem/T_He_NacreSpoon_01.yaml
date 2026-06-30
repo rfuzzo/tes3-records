@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_He_NacreSpoon_01
+name: Nacre Spoon
+script: ''
+mesh: sum\m\m_nacre_mop_spoon01.nif
+icon: sum\m\sum_m_nacre_spn.dds
+data:
+  weight: 1.0
+  value: 7
+  flags: ''

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_AndothDweRuinDart01
+name: ''
+script: TR_m4_AndothDweBarDart1_scp
+mesh: tr\w\tr_w_iron_dart.nif

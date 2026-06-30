@@ -1,0 +1,25 @@
+type: Container
+flags: ''
+id: TR_m1_c_chest_FWguard1
+name: Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Bk_InterrogatingDunmerTR
+- - 1
+  - T_Bk_JustPunishmentTR
+- - 1
+  - T_Com_Iron_Boots_02
+- - 7
+  - random gold
+- - 1
+  - random_loot_special
+- - 20
+  - random_loot_special_marksman
+- - 1
+  - random_pos
+- - 1
+  - random_potion_attribute_restore

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_NVA1_brick02
+name: ''
+script: TR_m7_NVA_Stage1
+mesh: TR\x\tr_ex_hla_bricks_02.nif

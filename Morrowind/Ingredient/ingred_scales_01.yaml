@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_scales_01
+name: Scales
+script: ''
+mesh: n\Ingred_Scales_01.nif
+icon: n\Tx_scales_01.tga
+data:
+  weight: 0.2
+  value: 2
+  effects:
+  - DrainAttribute
+  - WaterWalking
+  - RestoreAttribute
+  - SwiftSwim
+  skills:
+  - Block
+  - Block
+  - Block
+  - Block
+  attributes:
+  - Personality
+  - Strength
+  - Endurance
+  - Strength

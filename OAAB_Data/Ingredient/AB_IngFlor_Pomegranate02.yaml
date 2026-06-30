@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: AB_IngFlor_Pomegranate02
+name: Pomegranate
+script: ''
+mesh: OAAB\n\pom2.nif
+icon: OAAB\n\pom2.tga
+data:
+  weight: 0.3
+  value: 25
+  effects:
+  - FortifyAttribute
+  - FortifyHealth
+  - DrainAttribute
+  - ResistBlightDisease
+  skills:
+  - Block
+  - Block
+  - Block
+  - None
+  attributes:
+  - Endurance
+  - Endurance
+  - Speed
+  - None

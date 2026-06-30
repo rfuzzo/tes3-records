@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2_book_Command_i323
+name: Fort Windmoth Log
+script: ''
+mesh: m\Text_Octavo_03.nif
+icon: m\Tx_octavo_03.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">Fort Windmoth<BR>\r\n<DIV ALIGN=\"LEFT\">\r\n<BR>[This book is a record of notable events at Fort Windmoth. It continues for many pages in Arvs Rethrathi's tight script. A few entries catch your eye.]<BR>\r\n<BR>\r\nEntry 1: Newly appointed Knight Errant Arvs Rethrathi assumes command of Fort Windmoth. <BR>\r\n<BR>\r\nEntry 7: Maliferous Lend failed to show proper obedience. Arrested on authority of Arvs Rethrathi, Knight Errant of Fort Windmoth.<br>\r\n<br>\r\nEntry 11: A terrible accident has occurred; the prison has partially collapsed, killing one prisoner. The collapse appears to be the result of poor craftsmanship on the part of the architect in charge of designing Fort Windmoth.<br>\r\n<br>\r\nEntry 17:  Firewatch is not sending a replacement for Maliferous; thus, Sarethi Trinesi has been granted a field promotion to Champion of Fort Windmoth (authority granted by Arvs Rethrathi). He will serve with honor and dignity.<br>\r\n<br>\r\n[Most of the entries are mundane and show a slow deterioration of Fort Windmoth's readiness, due to a lack of support from Legion command and frequent accidents.]<br>\r\n<BR>"
+data:
+  weight: 1.0
+  value: 10
+  book_type: Book
+  skill: None
+  enchantment: 100

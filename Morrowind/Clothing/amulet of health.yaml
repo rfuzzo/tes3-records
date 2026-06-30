@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: amulet of health
+name: Amulet of Health
+script: ''
+mesh: c\Amulet_Expensive_2.NIF
+icon: c\tx_amulet_expens2.tga
+enchanting: veloth's benison_en
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 44
+  enchantment: 150

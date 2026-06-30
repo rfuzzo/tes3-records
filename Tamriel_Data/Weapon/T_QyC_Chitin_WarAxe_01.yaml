@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_QyC_Chitin_WarAxe_01
+name: Chitin War Axe
+script: ''
+mesh: pi\w\pi_w_chitin_waraxe.nif
+icon: pi\w\pi_w_chitin_axe.dds
+enchanting: ''
+data:
+  weight: 12.0
+  value: 36
+  weapon_type: AxeOneHand
+  health: 640
+  speed: 1.25
+  reach: 1.0
+  enchantment: 25
+  chop_min: 1
+  chop_max: 11
+  slash_min: 1
+  slash_max: 6
+  thrust_min: 1
+  thrust_max: 2
+  flags: ''

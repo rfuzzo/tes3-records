@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: active_DAE_B_Bo_Head
+name: Ruined Shrine to Boethiah
+script: DaedraBoethiah
+mesh: x\Ex_DAE_B_Bo_Head.NIF

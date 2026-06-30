@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: TR_m2_q_9_Eyestar_uni
+name: Star's Eye
+script: TR_m2_q_9_EyeScript
+mesh: TR\n\TR_Ing_Eyestar.nif
+icon: TR\n\TR_Ing_Eyestar.dds
+data:
+  weight: 0.5
+  value: 200
+  effects:
+  - NightEye
+  - Light
+  - WeaknessToMagicka
+  - WaterBreathing
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

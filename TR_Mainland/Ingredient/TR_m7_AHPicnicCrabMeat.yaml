@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: TR_m7_AHPicnicCrabMeat
+name: Crab Meat
+script: TR_m7_AffairsHeartPicnic_sc
+mesh: n\Ingred_crabmeat_01.NIF
+icon: n\Tx_crabmeat_01.tga
+data:
+  weight: 0.5
+  value: 1
+  effects:
+  - RestoreFatigue
+  - ResistShock
+  - LightningShield
+  - RestoreAttribute
+  skills:
+  - None
+  - None
+  - None
+  - Block
+  attributes:
+  - None
+  - None
+  - None
+  - Luck

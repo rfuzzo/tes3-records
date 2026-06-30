@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_q_TheRiftNote
+name: Carefully Written Note
+script: ''
+mesh: m\Text_Parchment_01.NIF
+icon: m\Tx_parchment_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n\"Introduction to Hermaean Logic\"\r\nSold to a merchant in Almas Thirr\r\n<BR>\r\n\"Hyperagonal Media Theorem\"\r\nIn the possession of Lord Dral, master of Tel Thenim\r\n<BR>\r\n\"Transpontine Circumpenetrations\"\r\nHidden away in the ruins of Zalitalan, near the mouth of the channel connecting Lake Boethiah to the sea, southwest of Dragonhead Point\r\n<BR>"
+data:
+  weight: 0.2
+  value: 10
+  book_type: Scroll
+  skill: None
+  enchantment: 0

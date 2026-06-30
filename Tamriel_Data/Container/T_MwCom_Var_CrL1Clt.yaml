@@ -1,0 +1,23 @@
+type: Container
+flags: ''
+id: T_MwCom_Var_CrL1Clt
+name: Crate
+script: ''
+mesh: TR\o\tr_cont_crate_l_01.nif
+encumbrance: 400.0
+container_flags: IS_BASE
+inventory:
+- - 3
+  - T_Mw_Random_Clothing
+- - 1
+  - random_common_de_fclothes_01
+- - 1
+  - random_common_de_mclothes_01
+- - 1
+  - random_de_pants
+- - 1
+  - random_de_robe
+- - 1
+  - random_de_shirt
+- - 1
+  - random_de_shoes_common

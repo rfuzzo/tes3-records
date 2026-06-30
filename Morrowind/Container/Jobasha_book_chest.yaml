@@ -1,0 +1,33 @@
+type: Container
+flags: ''
+id: Jobasha_book_chest
+name: Chest of Books for General Sale
+script: ''
+mesh: o\Contain_De_Chest_02.NIF
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - bk_ArcturianHeresy
+- - 1
+  - bk_BiographyBarenziah1
+- - 1
+  - bk_BiographyBarenziah2
+- - 1
+  - bk_BiographyBarenziah3
+- - 1
+  - bk_BrothersOfDarkness
+- - 1
+  - bk_oldways
+- - 1
+  - bk_RealBarenziah1
+- - 1
+  - bk_realbarenziah2
+- - 1
+  - bk_realbarenziah3
+- - 1
+  - bk_realbarenziah4
+- - 1
+  - bk_RealBarenziah5
+- - 1
+  - bk_Confessions

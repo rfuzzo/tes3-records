@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Furn_DeBannerHealer01
+name: ''
+script: OutsideBanner
+mesh: OAAB\u\de_banner_heal_01.nif

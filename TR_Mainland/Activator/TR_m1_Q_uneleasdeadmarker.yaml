@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m1_Q_uneleasdeadmarker
+name: ''
+script: TR_m1_Q_uneleasdeadmarkerscript
+mesh: EditorMarker.NIF

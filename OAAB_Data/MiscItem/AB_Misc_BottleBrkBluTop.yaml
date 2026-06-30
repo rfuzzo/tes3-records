@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_BottleBrkBluTop
+name: Broken Bottle
+script: ''
+mesh: OAAB\m\bottleBrkBluTop.nif
+icon: OAAB\m\bottleBrkBluTop.dds
+data:
+  weight: 0.6
+  value: 1
+  flags: ''

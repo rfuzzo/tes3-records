@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: active_com_bed_05
+name: Bed
+script: Bed_Standard
+mesh: f\Furn_Com_Bed_05.NIF

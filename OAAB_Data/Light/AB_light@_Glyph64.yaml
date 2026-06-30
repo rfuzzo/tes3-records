@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: AB_light@_Glyph64
+name: ''
+script: ''
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 64
+  color:
+  - 150
+  - 194
+  - 153
+  - 0
+  flags: DYNAMIC

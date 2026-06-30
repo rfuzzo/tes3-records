@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: TR_m7_Othrano_Sack
+name: Small Sack
+script: ''
+mesh: TR\o\TR_contain_small_sack.nif
+encumbrance: 20.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_IngMine_TopazBlue_01
+- - 1
+  - pick_journeyman_01
+- - 1
+  - random gold_lev_15
+- - 1
+  - random_ingredient

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_PrawnTail
+name: Prawn Tail
+script: ''
+mesh: pc\n\pc_ing_prawntail.nif
+icon: pc\n\pc_tx_ingred_prawntail.dds
+data:
+  weight: 1.0
+  value: 12
+  effects:
+  - DetectEnchantment
+  - DrainAttribute
+  - Telekinesis
+  - Shield
+  skills:
+  - None
+  - Block
+  - None
+  - None
+  attributes:
+  - None
+  - Agility
+  - None
+  - None

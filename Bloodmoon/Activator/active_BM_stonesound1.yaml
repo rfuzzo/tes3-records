@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: active_BM_stonesound1
+name: ''
+script: stoneeffect1Script
+mesh: f\Furn_Ashl_Chime_01.NIF

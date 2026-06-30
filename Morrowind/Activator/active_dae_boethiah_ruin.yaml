@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: active_dae_boethiah_ruin
+name: Ruined Statue of Boethiah
+script: DaedraBoethiah
+mesh: x\Ex_DAE_Azura.NIF

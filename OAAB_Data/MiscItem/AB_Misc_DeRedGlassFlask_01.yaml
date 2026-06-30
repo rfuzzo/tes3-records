@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_DeRedGlassFlask_01
+name: Red Glass Flask
+script: ''
+mesh: OAAB\m\misc_red_glass_flask.nif
+icon: OAAB\m\misc_red_glass_flask.dds
+data:
+  weight: 1.0
+  value: 1
+  flags: ''

@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Dae_UNI_Ring_Namira_01
+name: Ring of Namira
+script: ''
+mesh: c\c_ring_namira.nif
+icon: c\tx_ring_namira.dds
+enchanting: T_Const_Ring_Namira
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 12000
+  enchantment: 0

@@ -1,0 +1,27 @@
+type: Book
+flags: ''
+id: T_Bk_InsideAlmasTongsTR
+name: Inside Almalexia's Tongs
+script: ''
+mesh: TR\m\TR_book_closed_i03_AY.nif
+icon: TR\m\TR_book_closed_i03_AY.dds
+enchanting: ''
+text: |
+  <DIV ALIGN="CENTER"><FONT COLOR="000000" SIZE="3" FACE="Magic Cards"><BR>Inside Almalexia's Tongs<BR>
+  <DIV ALIGN="CENTER"><FONT COLOR="000000" SIZE="3" FACE="Magic Cards"><BR>by Galasa Sarvu<BR>
+  <BR>
+  <DIV ALIGN="LEFT"><BR>If Vivec City is the heart of Morrowind, Almalexia is its face. Much of what outlanders know, or think they know, of the Great House culture of the Dunmer comes from the capital itself. This can be misleading, as Almalexia is unique and stands apart from the province it rules in many ways. One of these is the role of the Tongs, or honorable societies. Tong culture is not exclusively a feature of the great city, but it is here that it has reached its most diverse and curious expression. Most native residents of the city belong to one of these societies, even if their ties to it are loose and informal. Some groups hold significant power, for good or for ill.<BR>
+  <BR>
+  Most of the more common Tongs resemble the cults of the Imperial Province. In a land like Morrowind, where heresy is not tolerated by the authorities, fraternities form that emphasize one element or another of the Tribunal faith without challenging the overarching Temple doctrine. So we have the Galaan (Mathematicians') Tong, which reveres Sotha Sil as the Divine Logician and whose members devise puzzles in his honor, with which they challenge one another. The Sorys (Unseeing) Tong, in contrast, honors the art of water breathing as practiced by Vivec and devotes itself to the study of the skill. The most widely known of these associations is the Morag (Foresters') Tong, which venerates Mephala and carries out bloody murder on the behalf of the Houses. Occasionally one of these groups will stray too far beyond Temple orthodoxy, and must conduct their rituals in secret or risk the heavy hand of the Ordinators.<BR>
+  <BR>
+  Some of these fraternities are restricted to a particular trade, and in modern times these tend to be indistinguishable from the tradesmen's guilds of the West. The Guild of Chandlers and Clerks and the Guild of Furnishers and Caravaners are two examples to be found in the city. Even these secular-sounding brotherhoods have roots in the veneration of Morrowind's saints.<BR>
+  <BR>
+  Rather more sinister are the underground Tongs, which are criminal fraternities and dangerous heretical cults. The Camonna (Thankless) Tong strikes dread into the hearts of outlanders at its merest mention, while the Vel-Osryn (Impertinent) Tong are renowned for their acts of vandalism, both petty and daring. Some of these darker groups may be nothing more than rumor, like the gruesome Issani (Gourmet's) Tong which is often quietly blamed for unexplained disappearances but for whose existence no evidence is known to this author. These are the most secret of secret societies, and even discussing them is a taboo among polite society.<BR>
+  <BR>
+  You might be wondering whether an outlander may join any of these ancient Dunmer brotherhoods. The answer may disappoint. As bulwarks of tradition most Tongs scorn foreign membership, and one is usually invited to join via family connections. One or two exceptions exist however, and many Tongs run hostels and flin houses that welcome outlander coin. But remember, when you are under the roof of a Tong, be it a bar, a private house or a dedicated building, you are subject to their rules and their laws. Tong halls are everywhere in Almalexia, and often unmarked as such, but ignorance may prove no excuse for disrespect.<BR>
+data:
+  weight: 3.0
+  value: 60
+  book_type: Book
+  skill: None
+  enchantment: 0

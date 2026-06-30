@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_saltrice_01
+name: Saltrice
+script: ''
+mesh: n\Ingred_saltrice_01.NIF
+icon: n\Tx_saltrice_01.tga
+data:
+  weight: 0.1
+  value: 1
+  effects:
+  - RestoreFatigue
+  - FortifyMagicka
+  - DrainAttribute
+  - RestoreHealth
+  skills:
+  - Block
+  - Block
+  - Block
+  - Block
+  attributes:
+  - Strength
+  - Strength
+  - Strength
+  - Strength

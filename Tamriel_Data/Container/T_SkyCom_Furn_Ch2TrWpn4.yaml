@@ -1,0 +1,35 @@
+type: Container
+flags: ''
+id: T_SkyCom_Furn_Ch2TrWpn4
+name: Chest
+script: ''
+mesh: Sky\o\Sky_Cont_Chest_02_02.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - -1
+  - BM nordic silver dagger
+- - -100
+  - iron arrow
+- - -1
+  - iron claymore
+- - -1
+  - iron halberd
+- - -100
+  - iron throwing knife
+- - -1
+  - iron war axe
+- - -1
+  - long bow
+- - -1
+  - nordic battle axe
+- - -1
+  - short bow
+- - -1
+  - steel club
+- - -1
+  - steel dagger
+- - -1
+  - steel katana
+- - -1
+  - wooden staff

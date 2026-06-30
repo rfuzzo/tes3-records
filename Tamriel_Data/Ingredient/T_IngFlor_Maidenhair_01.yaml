@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_Maidenhair_01
+name: Goldenlock
+script: ''
+mesh: hr\n\hr_ing_maidenh_01.nif
+icon: hr\n\hr_ing_maidenh01.tga
+data:
+  weight: 0.1
+  value: 25
+  effects:
+  - SlowFall
+  - DrainAttribute
+  - FortifyAttribute
+  - DrainAttribute
+  skills:
+  - Block
+  - Block
+  - Block
+  - Block
+  attributes:
+  - Personality
+  - Speed
+  - Luck
+  - Personality

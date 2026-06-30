@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Glb_Flora_Carrot01
+name: Carrot Plant
+script: ''
+mesh: pc\o\pc_flora_carrot.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - T_Glb_Random_FlorCarrot

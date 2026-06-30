@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m3_q_OE_Katariah_key
+name: Key to the Empress Katariah
+script: ''
+mesh: m\Key_Standard_01.NIF
+icon: m\Tx_key_standard_01.tga
+data:
+  weight: 0.0
+  value: 20
+  flags: KEY

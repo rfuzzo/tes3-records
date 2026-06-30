@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_SkyrendSlumgum_01
+name: Skyrender Slumgum
+script: ''
+mesh: tr\n\tr_ing_slumgum_01.nif
+icon: tr\n\tr_ing_slumgum.dds
+data:
+  weight: 0.1
+  value: 5
+  effects:
+  - DrainAttribute
+  - Poison
+  - WeaknessToFire
+  - Shield
+  skills:
+  - Block
+  - None
+  - None
+  - None
+  attributes:
+  - Personality
+  - None
+  - None
+  - None

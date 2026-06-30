@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: AB_o_Crate02Food
+name: Crate
+script: ''
+mesh: o\contain_crate_02.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 4
+  - AB_lvl_FoodCheap

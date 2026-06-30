@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_Narsis_56_note1
+name: ATTENTION ALL CAT-CATCHERS!
+script: ''
+mesh: pc\m\pc_bk_letter_04.nif
+icon: pc\m\pc_m_letter_04.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"990000\"><BR>\r\n\r\nATTENTION ALL CAT-CATCHERS!<BR>\r\n\r\n<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\"> <BR>\r\n\r\nIf a slave you are pursuing has crossed the border into Cyrodiil, return here and report. Do not attempt to follow it.<BR>\r\nWe don't want a repeat of the Mir Corrup situation.<BR>\r\n<BR>\r\n\r\n-Torasa <BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

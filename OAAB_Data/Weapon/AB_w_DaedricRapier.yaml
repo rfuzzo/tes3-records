@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_DaedricRapier
+name: Daedric Rapier
+script: ''
+mesh: OAAB\w\w_rapier_daedric.nif
+icon: OAAB\w\w_rapdae.dds
+enchanting: ''
+data:
+  weight: 58.0
+  value: 50000
+  weapon_type: LongBladeOneHand
+  health: 3000
+  speed: 1.55
+  reach: 1.1
+  enchantment: 180
+  chop_min: 1
+  chop_max: 20
+  slash_min: 3
+  slash_max: 28
+  thrust_min: 6
+  thrust_max: 48
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

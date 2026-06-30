@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: TR_m4_AndothDweRuinBa01
+name: Steel Keg
+script: TR_m4_AndothDweDoor02_scp
+mesh: o\contain_dwrv_barrel00.nif
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory: []

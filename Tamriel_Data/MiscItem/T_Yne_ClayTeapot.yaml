@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Yne_ClayTeapot
+name: Clay Teapot
+script: ''
+mesh: pi\m\pi_m_yne_c_teapot.nif
+icon: pi\m\pi_m_yne_c_teapot.dds
+data:
+  weight: 2.0
+  value: 8
+  flags: ''

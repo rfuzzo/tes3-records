@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_menaan_int8_note
+name: Help yourself
+script: ''
+mesh: m\Text_Note_02.nif
+icon: m\Tx_note_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nPlease, dear guest, help yourself to some snacks and drink while you wait.\r\n<BR>\r\n"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

@@ -1,0 +1,22 @@
+type: Armor
+flags: ''
+id: T_Cr_Goblin_PauldronR_01
+name: Goblin Right Pauldron
+script: ''
+mesh: TR\a\tr_a_goblin_cl.nif
+icon: TR\a\tr_a_gob_pauldron_R.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: RightPauldron
+  male_bodypart: T_A_CrGoblinPauldr01_Cl
+  female_bodypart: ''
+- biped_object_type: RightUpperArm
+  male_bodypart: T_A_CrGoblinPauldr01_UA
+  female_bodypart: ''
+data:
+  armor_type: RightPauldron
+  weight: 4.0
+  value: 800
+  health: 200
+  enchantment: 20
+  armor_rating: 20

@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Pi_Mine_SandPOGlass02
+name: Shards of Raw Glass
+script: ''
+mesh: pi\o\pi_terr_posand_glass02.nif
+encumbrance: 0.0
+container_flags: ORGANIC | IS_BASE
+inventory:
+- - 6
+  - random_rawglass

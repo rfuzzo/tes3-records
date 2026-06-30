@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m7_Daedric_Jinkblade
+name: Daedric Jinkblade
+script: ''
+mesh: w\W_Dagger_daedric.nif
+icon: w\Tx_Dagger_daedric.tga
+enchanting: paralysis_en
+data:
+  weight: 9.0
+  value: 13500
+  weapon_type: ShortBladeOneHand
+  health: 700
+  speed: 2.5
+  reach: 1.0
+  enchantment: 60
+  chop_min: 8
+  chop_max: 12
+  slash_min: 8
+  slash_max: 12
+  thrust_min: 8
+  thrust_max: 12
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

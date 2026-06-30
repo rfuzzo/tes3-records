@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m4_TG_Jinkblade_Tracker
+name: Jinkblade Tracker
+script: TR_m4_TG_JinkbladeTrack_scp
+mesh: EditorMarker.NIF

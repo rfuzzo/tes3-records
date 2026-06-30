@@ -1,0 +1,23 @@
+type: Container
+flags: ''
+id: TR_Aimrah_AC_Drawers_01
+name: Drawers
+script: ''
+mesh: TR\o\TR_furn_de_p_drawer_02.nif
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - bk_BookDawnAndDusk
+- - 1
+  - common_pants_03
+- - 1
+  - common_pants_04
+- - 1
+  - common_shirt_01
+- - 1
+  - common_shirt_02_h
+- - 1
+  - common_shirt_03
+- - 1
+  - ring of shadow form

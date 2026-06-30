@@ -1,0 +1,22 @@
+type: Armor
+flags: ''
+id: T_Imp_Domina_PauldronL_01
+name: Domina Left Pauldron
+script: ''
+mesh: tr\a\tr_a_domina_pauld_gnd.nif
+icon: tr\a\tr_a_domina_pauldron.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: LeftUpperArm
+  male_bodypart: T_A_ImpDomina01_UA
+  female_bodypart: ''
+- biped_object_type: LeftForearm
+  male_bodypart: T_A_ImpDomina01_FA
+  female_bodypart: ''
+data:
+  armor_type: LeftPauldron
+  weight: 3.0
+  value: 30
+  health: 80
+  enchantment: 40
+  armor_rating: 15

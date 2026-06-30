@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_De_UNI_Shield_Abernanit
+name: Shield of Abernanit
+script: ''
+mesh: tr\a\tr_a_abernanit_uni.nif
+icon: tr\a\tr_a_abernanit_uni.nif.dds
+enchanting: T_Const_ShieldAbernanit
+biped_objects:
+- biped_object_type: Shield
+  male_bodypart: T_A_DeShieldAbernanit_01_S
+  female_bodypart: ''
+data:
+  armor_type: Shield
+  weight: 20.0
+  value: 30000
+  health: 1000
+  enchantment: 0
+  armor_rating: 80

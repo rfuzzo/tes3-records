@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: TR_m3_q_TheRiftBook3
+name: Transpontine Circumpenetrations
+script: ''
+mesh: m\Text_Quarto_02.nif
+icon: m\Tx_quarto_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nTranspontine Circumpenetrations<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nThe existence of transliminal bridges, as it were, allows for the accession of extramundial presences to the intramundial plane. This is much more than simple conjuration; one might argue that it circumvents conjuration altogether, in creating a direct gate from one realm to another. But it is also extremely difficult to achieve. In fact, with the existence of a liminal barrier in place over Mundus, most would consider it to be virtually impossible. But what if there were no liminal barrier? Could such a doorway then be allowed to exist? There is little information we have that might offer a conclusive answer, but we can postulate.<BR>\r\n<BR>\r\nPrevious experiments have shown that the liminal barrier, stalwart as it is, can be wounded. In the case of Mundus, as with any living(?) thing, the main risk of an open wound is that of infection; left exposed and bleeding, the wound could fester and become contaminated. This is because the body is a frail and sensitive thing, and without its skin is prone to even the smallest interference. The liminal barriers are to Mundus as skin is to the body, and the process of so-called \"transpontine circumpenetration\" could then be likened to the process of prying open a wound. It has been my experience that such exposed wounds are ripe for infection.<BR>\r\n<BR>\r\nThere can be little doubt that, without Akatosh's protection, Mundus would witness an age of violence not seen since the Dawn era came to an end. Oblivion's influence, such as it is, is kept separate for a reason.<BR>\r\n<BR>\r\n[You attempt to continue reading into the next chapter, but the words seem to blend together and you begin to feel deeply unnerved.]<BR>\r\n<BR>\r\n"
+data:
+  weight: 4.0
+  value: 300
+  book_type: Book
+  skill: None
+  enchantment: 0

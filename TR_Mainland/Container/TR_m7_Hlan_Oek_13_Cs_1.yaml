@@ -1,0 +1,25 @@
+type: Container
+flags: ''
+id: TR_m7_Hlan_Oek_13_Cs_1
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Com_Iron_Broadsword_02
+- - 1
+  - T_Com_Iron_GreatMace_01
+- - 1
+  - T_Com_Iron_Saber_03
+- - 1
+  - T_Com_Iron_Warpick_01
+- - 1
+  - iron_greaves
+- - 3
+  - miner's pick
+- - 1
+  - steel spear
+- - 1
+  - steel_greaves

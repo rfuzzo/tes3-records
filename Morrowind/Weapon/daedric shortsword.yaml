@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: daedric shortsword
+name: Daedric Shortsword
+script: ''
+mesh: w\W_Shortsword_Daedric.nif
+icon: w\Tx_Daedric_shortsword.tga
+enchanting: ''
+data:
+  weight: 24.0
+  value: 20000
+  weapon_type: ShortBladeOneHand
+  health: 1500
+  speed: 2.0
+  reach: 1.0
+  enchantment: 120
+  chop_min: 10
+  chop_max: 26
+  slash_min: 10
+  slash_max: 26
+  thrust_min: 12
+  thrust_max: 24
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

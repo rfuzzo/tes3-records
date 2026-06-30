@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_q_Delmon_manifest
+name: Delmon Gindu's Cargo Manifest
+script: ''
+mesh: M\text_scroll_01.nif
+icon: m\tx_scroll_01.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[The manifest declares Delmon Gindu's cargo of 80 dried slaughterfish and 40 crab meat for transport to Narsis.]\r\n<BR> <BR>\r\n"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

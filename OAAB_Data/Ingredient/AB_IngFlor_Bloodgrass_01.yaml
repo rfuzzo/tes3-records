@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: AB_IngFlor_Bloodgrass_01
+name: Bloodgrass
+script: ''
+mesh: OAAB\n\n_bloodgrass_01.nif
+icon: OAAB\n\n_bloodgrass_01.dds
+data:
+  weight: 0.1
+  value: 10
+  effects:
+  - Chameleon
+  - ResistParalysis
+  - Burden
+  - FortifyHealth
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

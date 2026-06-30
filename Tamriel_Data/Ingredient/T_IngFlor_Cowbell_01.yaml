@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_Cowbell_01
+name: Cowbell Flower
+script: ''
+mesh: sky\n\sky_ingred_cowbell.nif
+icon: sky\n\tx_ingred_cowbell.dds
+data:
+  weight: 0.1
+  value: 1
+  effects:
+  - FortifyFatigue
+  - Burden
+  - FrostShield
+  - WeaknessToFire
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

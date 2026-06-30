@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_EnSc_Com_AllSeeing
+name: Scroll of The All Seeing
+script: ''
+mesh: m\text_scroll_01.nif
+icon: m\tx_scroll_open_01.dds
+enchanting: T_Once_AllSeeing
+text: <DIV ALIGN="center"><FONT COLOR="000000" SIZE="2" FACE="Daedric">THE SPIRIT SHALL BE REVEALED IN ITS GLORY</FONT><BR>
+data:
+  weight: 0.2
+  value: 1531
+  book_type: Scroll
+  skill: None
+  enchantment: 0

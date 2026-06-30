@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_SetCyr_SignShopPawn_01
+name: ''
+script: SignRotate
+mesh: pc\f\pc_furn_sign_pawn_01.nif

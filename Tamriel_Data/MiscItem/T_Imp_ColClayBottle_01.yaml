@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_ColClayBottle_01
+name: Pitcher
+script: ''
+mesh: pc\m\PC_Col_clay_bottle.nif
+icon: pc\m\pc_misc_col_clay_btl.dds
+data:
+  weight: 1.0
+  value: 6
+  flags: ''

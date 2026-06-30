@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m1_q_RR_MQ_4_Reward
+name: Amulet of Salvil's Relief
+script: ''
+mesh: c\Amulet_Expensive_2.NIF
+icon: c\tx_amulet_expens2.tga
+enchanting: TR_m1_q_RR_MQ_4_Reward_Ench
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 510
+  enchantment: 1275

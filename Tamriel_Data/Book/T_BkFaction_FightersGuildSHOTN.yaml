@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_BkFaction_FightersGuildSHOTN
+name: Fighters Guild Charter
+script: ''
+mesh: Sky\m\Sky_Book_Basic_06.nif
+icon: Sky\m\Tx_Book_Basic_06.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nImperial Charter of the Guild of Fighters<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nI. Purpose<BR>\r\n<BR>\r\nThe Guild of Fighters provides employment to free-swords and mercenaries and contracts to local citizens. Citizens may contract with the Guild for the removal of creatures and pests, the delivery of goods on dangerous routes, the collection of beasts for the arenas, and other duties defined by the Guild Stewards.<BR>\r\n<BR>\r\nII. Authority<BR>\r\n<BR>\r\nThe Guild of Fighters was established under the section 4 of the \"Guilds Act,\" and this charter was first confirmed under the Potentate Versidue-Shaie in the 321st year of the Second Era.<BR>\r\n<BR>\r\nIII. Rules and Procedures<BR>\r\n<BR>\r\nAny member of the Guild of Fighters who strikes or steals from another member shall be expelled from the Guild. Re-admittance is at the discretion of the Guild Stewards.<BR>\r\n<BR>\r\nCitizens who contract with the Guild of Fighters and have a dispute may appeal first to the Guild Steward who accepted the contract and second with the authorities of each Province.<BR>\r\n<BR>\r\nIV. Membership Requirements<BR>\r\n<BR>\r\nThe Guild selects candidates who are strong and healthy. A candidate must have some proficiency with long blades, axes, blunt weapons, and shields. Guildsmen must be able to use and maintain heavy armor.<BR>\r\n<BR>\r\nV. Applications for Membership<BR>\r\n<BR>\r\nCandidates must present themselves to the Steward of the Guild Hall for examination and approval.<BR>\r\n<BR>\r\nATTACHMENT A: Fighters Guild Chapters in the southwestern kingdoms of the Province of Skyrim<BR>\r\n<BR>\r\nChapters are established in Guild-owned, free-standing guildhalls in the cities of Falkreath, Karthwasten, and Markarth Side, as well as the towns of Beorinhal, Hal Norvold, and Helgen. The former chapter in Dragonstar East is no longer active.\r\n<BR>"
+data:
+  weight: 3.0
+  value: 30
+  book_type: Book
+  skill: None
+  enchantment: 0

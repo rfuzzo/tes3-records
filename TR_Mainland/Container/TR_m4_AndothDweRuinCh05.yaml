@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: TR_m4_AndothDweRuinCh05
+name: Small Chest
+script: TR_m4_AndothDweBarSet02_scp
+mesh: o\Contain_Com_Chest_01.NIF
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - 100
+  - Gold_001
+- - 1
+  - T_Com_Dice_01
+- - 7
+  - misc_dwrv_coin00

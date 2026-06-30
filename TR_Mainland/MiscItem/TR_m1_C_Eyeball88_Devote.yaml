@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m1_C_Eyeball88_Devote
+name: Ashes of D. McRae
+script: ''
+mesh: n\Ingred_Vampire_Dust_01.nif
+icon: n\Tx_vampire_dust_01.tga
+data:
+  weight: 1.0
+  value: 0
+  flags: ''

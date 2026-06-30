@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_SeptimsGateInn_NPC4
+name: Rilos Lenas
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: ''
+enchanting: ''
+text: "commoner\r\n\r\nwears common shirt / pants / shoes and some chitin gear or whatever low-level dunmer gear makes sense in shipal shin"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

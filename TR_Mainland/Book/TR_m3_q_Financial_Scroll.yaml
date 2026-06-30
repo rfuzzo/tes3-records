@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_q_Financial_Scroll
+name: H.C.C. Dividends Statement
+script: ''
+mesh: m\Text_Scroll_01.nif
+icon: m\Tx_scroll_open_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This recent statement concerns the dispensation of dividends to the many investors of the Hlaalu Council Company charters. Of the investors receiving dividends, most are Hlaalu officials and nobility, with a handful of outlander investors.] <BR>"
+data:
+  weight: 1.2
+  value: 100
+  book_type: Scroll
+  skill: None
+  enchantment: 100

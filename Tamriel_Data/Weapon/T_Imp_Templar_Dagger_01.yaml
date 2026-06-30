@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Imp_Templar_Dagger_01
+name: Imperial Templar Dagger
+script: ''
+mesh: tr\w\tr_w_temp_dagger.nif
+icon: tr\w\tr_w_temp_dagger.dds
+enchanting: ''
+data:
+  weight: 3.0
+  value: 120
+  weapon_type: ShortBladeOneHand
+  health: 520
+  speed: 2.5
+  reach: 1.0
+  enchantment: 20
+  chop_min: 4
+  chop_max: 7
+  slash_min: 4
+  slash_max: 7
+  thrust_min: 5
+  thrust_max: 7
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

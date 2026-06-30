@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m1_BOMuskflAct
+name: ''
+script: TR_m1_BO_muskfly_script
+mesh: EditorMarker.NIF

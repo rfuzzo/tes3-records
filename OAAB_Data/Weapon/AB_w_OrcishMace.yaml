@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_OrcishMace
+name: Orcish Mace
+script: ''
+mesh: OAAB\w\w_orcish_mace.nif
+icon: OAAB\w\w_orcish_mace.dds
+enchanting: ''
+data:
+  weight: 21.0
+  value: 4500
+  weapon_type: BluntOneHand
+  health: 3200
+  speed: 1.5
+  reach: 1.0
+  enchantment: 90
+  chop_min: 9
+  chop_max: 29
+  slash_min: 9
+  slash_max: 29
+  thrust_min: 2
+  thrust_max: 4
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

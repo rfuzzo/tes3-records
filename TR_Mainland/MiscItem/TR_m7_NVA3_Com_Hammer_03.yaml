@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m7_NVA3_Com_Hammer_03
+name: Hammer
+script: TR_m7_NVA_Stage3_NP
+mesh: Sky\m\Sky_Misc_Hammer_03.nif
+icon: Sky\m\Tx_Misc_Hammer_03.dds
+data:
+  weight: 3.0
+  value: 8
+  flags: ''

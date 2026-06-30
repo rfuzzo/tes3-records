@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_FW_IC2_NoteGood
+name: Letter from Gilara Renus
+script: ''
+mesh: m\text_parchment_02.nif
+icon: m\tx_parchment_02.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nDearest Tarom,<BR><BR>\r\nMy devotion to almighty Akatosh is as everlasting as the Eternal Empire which shines its divine glory over us all. I am ashamed of my failure as a devoted servant to Him, and your noble %PCRace agent has guided me to you on bended knee to beg for His forgiveness, as transmittance from your benevolent hand. Never more shall my commitment to the Eight and One and Their holy emissaries waver. Henceforth I shall resume my donations as usual. I will not permit this bastion of Faith to crumble.<BR><BR>\r\n<DIV ALIGN=\"RIGHT\">\r\nYours, in devotion,<BR>\r\nGilara Renus<BR>\r\n"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

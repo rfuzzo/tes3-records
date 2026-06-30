@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: com_chest_01_misc04
+name: Ancient Chest
+script: ''
+mesh: o\Contain_Com_Chest_01.NIF
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - 3
+  - random_weapon_melee_basic
+- - 1
+  - random_imp_armor
+- - 1
+  - random_steel_weapon

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Nor_Basket_02
+name: Basket
+script: ''
+mesh: Sky\m\Sky_Misc_Basket_04.nif
+icon: Sky\m\Tx_Misc_Basket_04.dds
+data:
+  weight: 2.0
+  value: 2
+  flags: ''

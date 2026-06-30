@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m3_q_Deed_Amulet_01
+name: Amulet of the Thrifty Slaver
+script: ''
+mesh: c\Amulet_Expensive_3.NIF
+icon: c\tx_amulet_expens3.tga
+enchanting: TR_m3_q_Deed_Enchant_01
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 200
+  enchantment: 150

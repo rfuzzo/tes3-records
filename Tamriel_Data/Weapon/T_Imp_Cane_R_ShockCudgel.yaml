@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Imp_Cane_R_ShockCudgel
+name: Aristocrat's Cudgel
+script: ''
+mesh: pc\w\pc_w_cane_r.nif
+icon: pc\w\pc_w_cane_r.dds
+enchanting: ''
+data:
+  weight: 3.0
+  value: 120
+  weapon_type: BluntTwoWide
+  health: 600
+  speed: 1.8
+  reach: 1.5
+  enchantment: 100
+  chop_min: 4
+  chop_max: 11
+  slash_min: 4
+  slash_max: 11
+  thrust_min: 1
+  thrust_max: 7
+  flags: ''

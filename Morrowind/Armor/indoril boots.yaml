@@ -1,0 +1,28 @@
+type: Armor
+flags: ''
+id: indoril boots
+name: Indoril Boots
+script: ''
+mesh: a\A_Indoril_M_boot_GND.nif
+icon: a\Tx_Indoril_boot.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: RightFoot
+  male_bodypart: a_indoril_m_f_boot
+  female_bodypart: ''
+- biped_object_type: RightAnkle
+  male_bodypart: a_indoril_m_a_boot
+  female_bodypart: ''
+- biped_object_type: LeftAnkle
+  male_bodypart: a_indoril_m_a_boot
+  female_bodypart: ''
+- biped_object_type: LeftFoot
+  male_bodypart: a_indoril_m_f_boot
+  female_bodypart: ''
+data:
+  armor_type: Boots
+  weight: 18.0
+  value: 2000
+  health: 450
+  enchantment: 26
+  armor_rating: 45

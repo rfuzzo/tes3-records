@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Sc_MapReachSHOTN
+name: Map of the Reach
+script: ''
+mesh: m\Text_Scroll_01.NIF
+icon: m\tx_scroll_01.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nMAP OF THE REACH<BR><BR>\r\n<IMG SRC=\"Sky\\Skyrim_TheReach_Bookmap.dds\" WIDTH=\"377\" HEIGHT=\"377\"><BR><BR>\r\n"
+data:
+  weight: 0.2
+  value: 3
+  book_type: Scroll
+  skill: None
+  enchantment: 0

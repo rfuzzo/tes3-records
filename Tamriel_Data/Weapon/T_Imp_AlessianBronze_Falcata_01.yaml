@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Imp_AlessianBronze_Falcata_01
+name: Alessian Bronze Falcata
+script: ''
+mesh: PC\w\pc_w_alessian_falcata.nif
+icon: pc\w\pc_w_alessian_falcata.dds
+enchanting: ''
+data:
+  weight: 18.0
+  value: 120
+  weapon_type: LongBladeOneHand
+  health: 700
+  speed: 1.4
+  reach: 1.0
+  enchantment: 45
+  chop_min: 2
+  chop_max: 15
+  slash_min: 2
+  slash_max: 16
+  thrust_min: 1
+  thrust_max: 11
+  flags: ''

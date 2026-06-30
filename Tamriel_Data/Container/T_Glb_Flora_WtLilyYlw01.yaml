@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Glb_Flora_WtLilyYlw01
+name: Water Lilly
+script: ''
+mesh: tr\o\tr_flora_lilly_yellow.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - T_Glb_Random_FlorWtLilyYell

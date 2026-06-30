@@ -1,0 +1,17 @@
+type: Clothing
+flags: ''
+id: bm_black_glove_r_s
+name: Treachery
+script: ''
+mesh: c\C_glove_MoragTong_GND.NIF
+icon: c\tx_glove_MoragTong.tga
+enchanting: treachery_en
+biped_objects:
+- biped_object_type: RightHand
+  male_bodypart: c_glove_moragtong
+  female_bodypart: ''
+data:
+  clothing_type: RightGlove
+  weight: 1.0
+  value: 2
+  enchantment: 10

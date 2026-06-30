@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Nor_FlaskRed_04
+name: Flask
+script: ''
+mesh: Sky\m\Sky_Misc_Flask_RD_04.nif
+icon: Sky\m\Tx_Misc_Flask_RD_04.dds
+data:
+  weight: 2.0
+  value: 2
+  flags: ''

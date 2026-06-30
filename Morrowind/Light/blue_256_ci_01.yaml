@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: blue_256_ci_01
+name: ''
+script: ''
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 256
+  color:
+  - 3
+  - 78
+  - 114
+  - 0
+  flags: DYNAMIC

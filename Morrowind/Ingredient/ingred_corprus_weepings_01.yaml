@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_corprus_weepings_01
+name: Corprus weepings
+script: ''
+mesh: n\Ingred_Corprus_weeping_01.NIF
+icon: n\Tx_corprus_weep_01.tga
+data:
+  weight: 0.1
+  value: 50
+  effects:
+  - DrainFatigue
+  - FortifyAttribute
+  - DrainAttribute
+  - RestoreHealth
+  skills:
+  - Block
+  - Block
+  - Block
+  - Block
+  attributes:
+  - Strength
+  - Luck
+  - Willpower
+  - Strength

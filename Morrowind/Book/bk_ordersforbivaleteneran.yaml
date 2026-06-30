@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: bk_ordersforbivaleteneran
+name: Orders for Bivale Teneran
+script: ''
+mesh: m\Text_Scroll_02.NIF
+icon: m\Tx_scroll_02.tga
+enchanting: ''
+text: AKJS DHFK AJEH NFFA JKWH EFKJ ADSH CALS EKRY LCAM IWYR AMLX KERM HLAK SJDF AJSC NCMN ALSK DJFO QIWE URPO QYET UIRY HTJK DVNM CXZV NSMC FNLS AKFY JTQP OIRE UTPW EOIG SDKJ FVNB ZMCV NAMC SVNA QLKJ FOQI REUT WPOI RGKJ SDFH VNJC XZVN<BR>
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

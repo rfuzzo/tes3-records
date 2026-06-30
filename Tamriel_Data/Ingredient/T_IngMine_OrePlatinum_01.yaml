@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngMine_OrePlatinum_01
+name: Platinum Ore
+script: ''
+mesh: tr\n\tr_ing_platinum.nif
+icon: tr\n\tr_ing_platinum.dds
+data:
+  weight: 7.5
+  value: 400
+  effects:
+  - Invisibility
+  - DrainFatigue
+  - ResistPoison
+  - FortifyAttribute
+  skills:
+  - None
+  - None
+  - None
+  - Block
+  attributes:
+  - None
+  - None
+  - None
+  - Luck

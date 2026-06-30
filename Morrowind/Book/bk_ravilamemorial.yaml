@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: bk_ravilamemorial
+name: Ravila Memorial
+script: ''
+mesh: m\Text_Parchment_02.NIF
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThis room and display is dedicated to the memory of Ravila Neryon, killed while crusading to remove the blight from the Hairat-Vassamsi Egg Mine. May her spirit rest in peace eternally.<BR>\r\n"
+data:
+  weight: 0.0
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

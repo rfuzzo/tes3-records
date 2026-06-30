@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: com_basket_01_falanaamo
+name: Basket
+script: ''
+mesh: o\Contain_Com_Basket_01.NIF
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - -1
+  - common_robe_02
+- - -1
+  - common_robe_02_tt
+- - -1
+  - common_shirt_02_t
+- - -1
+  - common_shirt_03

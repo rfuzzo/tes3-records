@@ -1,0 +1,17 @@
+type: Clothing
+flags: ''
+id: TR_m2_q_22_RewardGlove2
+name: Kynareth's Sigh
+script: ''
+mesh: c\C_glove_common1_GND.NIF
+icon: c\tx_glove_common1.tga
+enchanting: TR_m2_q_22_RewardGlove2_en
+biped_objects:
+- biped_object_type: RightHand
+  male_bodypart: c_glove_common1
+  female_bodypart: ''
+data:
+  clothing_type: RightGlove
+  weight: 1.0
+  value: 200
+  enchantment: 150

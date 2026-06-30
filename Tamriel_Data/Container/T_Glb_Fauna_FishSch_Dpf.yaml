@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Glb_Fauna_FishSch_Dpf
+name: Dusky Parrotfish
+script: ''
+mesh: pi\o\pi_cont_fschool_prrtfi.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 3
+  - T_Glb_Random_FaunDuskyParotfish

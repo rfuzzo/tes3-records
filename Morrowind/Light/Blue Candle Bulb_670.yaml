@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: Blue Candle Bulb_670
+name: ''
+script: ''
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 670
+  color:
+  - 0
+  - 155
+  - 249
+  - 0
+  flags: ''

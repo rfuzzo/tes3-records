@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_PaperCrumpled
+name: Crumpled Paper
+script: ''
+mesh: OAAB\m\crumpledpaper.nif
+icon: OAAB\m\crumpledpaper.tga
+data:
+  weight: 0.0
+  value: 0
+  flags: ''

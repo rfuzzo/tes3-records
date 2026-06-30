@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: bk_notefromnelos
+name: Note from Nelos
+script: ''
+mesh: m\Text_Note_02.nif
+icon: m\Tx_note_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nMaurrie,<BR>\r\n<BR>\r\nTruly, I was enchanted with you from the moment I saw you. I beg your forgiveness for my past transgressions. While I cannot imagine what a woman of your beauty and breeding would see in a rogue such as me, I thank the gods that you have sent for me. I will come to you as soon as I can. Until then.<BR>\r\n<BR>\r\nYours, <BR>\r\n<BR>\r\nNelos<BR>\r\n"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

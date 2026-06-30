@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: TR_m1_com_sack3_wpn
+name: Sack
+script: ''
+mesh: o\Contain_Com_Sack_03.NIF
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - TR_m1_lud_random_molecrab_egg
+- - 5
+  - chitin throwing star

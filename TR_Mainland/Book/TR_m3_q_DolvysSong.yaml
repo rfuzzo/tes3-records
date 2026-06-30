@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_q_DolvysSong
+name: Song for You
+script: ''
+mesh: m\Text_Parchment_02.NIF
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nSong for %PCName<BR>\r\ncomposed by Dolvys Teloth<BR>\r\n<BR>\r\n[This appears to be a piece of hand-written sheet music, complete with scales and notations for each line of lyrical text.]<BR>\r\n<BR>\r\nThe person, the person, the person with weapons.<BR>\r\nYou should be afraid of the %PCClass with weapons. You should be afraid.<BR>\r\nAll around the cry goes out, put on armor made of adamantium.<BR>\r\nThe person, the person, the person with weapons.<BR>\r\nYou should be afraid of the %PCRace with weapons. You should be afraid.<BR>\r\n<BR>\r\n"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: TR_m3-ET2_cont_empchest
+name: Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Com_Et_GloveL_02
+- - 1
+  - T_Com_Et_GloveR_02
+- - 2
+  - T_Imp_Drink_WineTwinMoon_01
+- - 4
+  - T_Sc_Blank
+- - 1
+  - ingred_diamond_01

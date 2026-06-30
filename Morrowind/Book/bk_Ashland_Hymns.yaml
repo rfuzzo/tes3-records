@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: bk_Ashland_Hymns
+name: Ashland Hymns
+script: ''
+mesh: m\Text_Quarto_04.NIF
+icon: m\Tx_quarto_04.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nAshlands Hymns<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\n[This is a volume of folk verses collected from Ashlanders. 'Wondrous Love' is from the Urshilaku Ashlanders of the northern Ashlands.]<BR>\r\n<BR>\r\nWhat a wondrous love it is<BR>\r\nTo bind two souls in faith,<BR>\r\nChained completely together<BR>\r\nWith never a false word,<BR>\r\nWeal and woe, wish and real,<BR>\r\nWoven each together<BR>\r\nFrom first kiss to last breath,<BR>\r\nFirst and last whispered in love.<BR>\r\n<BR>\r\n"
+data:
+  weight: 4.0
+  value: 35
+  book_type: Book
+  skill: None
+  enchantment: 0

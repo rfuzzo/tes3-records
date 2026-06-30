@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: tr_m4_oran_plantation_banner02
+name: Oran Plantation
+script: OutsideBanner
+mesh: f\Furn_banner_hlaalu_01.NIF

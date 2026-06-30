@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m1_GO_clot_merlador
+name: 'Merlador: Clothier'
+script: OutsideBanner
+mesh: f\Furn_bannerD_clothing_01.NIF

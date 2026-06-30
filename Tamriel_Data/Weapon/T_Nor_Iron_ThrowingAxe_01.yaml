@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Nor_Iron_ThrowingAxe_01
+name: Balanced Throwing Axe
+script: ''
+mesh: sky\w\sky_throwing_axe_l.nif
+icon: sky\w\tx_w_throwing_axe_l.dds
+enchanting: ''
+data:
+  weight: 3.0
+  value: 15
+  weapon_type: MarksmanThrown
+  health: 300
+  speed: 0.9
+  reach: 1.0
+  enchantment: 15
+  chop_min: 1
+  chop_max: 10
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: ''

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_heather_01
+name: Heather
+script: ''
+mesh: n\Ingred_Heather_01.nif
+icon: n\Tx_heather_01.tga
+data:
+  weight: 0.1
+  value: 1
+  effects:
+  - RestoreAttribute
+  - Feather
+  - DrainAttribute
+  - DrainAttribute
+  skills:
+  - Block
+  - Block
+  - Block
+  - Block
+  attributes:
+  - Personality
+  - Strength
+  - Speed
+  - Personality

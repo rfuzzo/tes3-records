@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_i3-374-hla_logbook
+name: Teyn Customs Shipping Log
+script: ''
+mesh: m\Text_Octavo_open_03.nif
+icon: m\Tx_octavo_open_03.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This appears to be a record of seized goods contraband and smuggled items, complete with dates, destinations and fines. The most recent entry reads:] <br>\r\n<BR>\r\nItem: Raw Ebony <br>\r\nQuantity: 15 large pieces <br>\r\nFrom: Niccea Ludoviil <br>\r\nOrganization (if any): the East Empire Company <br>\r\nAdditional notes: inadequate papers, the aforesaid items will be held for now; no charges pressed yet <br>"
+data:
+  weight: 2.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 20

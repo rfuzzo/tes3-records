@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_HagravenFeathers_01
+name: Hagraven Feathers
+script: ''
+mesh: Sky\n\Sky_Ingred_HagravenF.nif
+icon: sky\n\tx_inged_hagravf.dds
+data:
+  weight: 0.1
+  value: 50
+  effects:
+  - DamageMagicka
+  - FortifyAttackBonus
+  - WeaknessToShock
+  - FortifySkill
+  skills:
+  - None
+  - None
+  - None
+  - Conjuration
+  attributes:
+  - None
+  - None
+  - None
+  - Strength

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_Dae_cursed_pearl_01
+name: Pearl
+script: BILL_MarksDaedraSummon
+mesh: n\Ingred_pearl_01.NIF
+icon: n\Tx_pearl.tga
+data:
+  weight: 0.2
+  value: 100
+  effects:
+  - DrainAttribute
+  - Dispel
+  - WaterBreathing
+  - ResistCommonDisease
+  skills:
+  - Block
+  - None
+  - None
+  - None
+  attributes:
+  - Agility
+  - None
+  - None
+  - None

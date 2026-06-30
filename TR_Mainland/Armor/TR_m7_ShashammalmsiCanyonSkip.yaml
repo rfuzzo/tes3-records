@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: TR_m7_ShashammalmsiCanyonSkip
+name: Shashammalmsi's Canyon Skipper
+script: ''
+mesh: tr\a\tr_a_chitshin_cuir_gnd.nif
+icon: tr\a\tr_a_chitshin_cuirass.dds
+enchanting: TR_m7_ShashammalmsiSkip_En
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_A_DeShinChitCuirass01_C
+  female_bodypart: ''
+data:
+  armor_type: Cuirass
+  weight: 7.0
+  value: 4800
+  health: 350
+  enchantment: 150
+  armor_rating: 12

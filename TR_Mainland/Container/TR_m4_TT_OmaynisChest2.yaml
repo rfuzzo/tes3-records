@@ -1,0 +1,11 @@
+type: Container
+flags: PERSISTENT
+id: TR_m4_TT_OmaynisChest2
+name: Chest
+script: TR_m4_TT_LastWillEnable_sc
+mesh: o\Contain_De_Chest_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - bc mushroom 128

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_MeatGuar_01
+name: Guar Meat
+script: ''
+mesh: TR\n\tr_ing_meat_guar.nif
+icon: TR\n\tr_ing_meat_guar.dds
+data:
+  weight: 1.0
+  value: 2
+  effects:
+  - RestoreFatigue
+  - ResistFrost
+  - None
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

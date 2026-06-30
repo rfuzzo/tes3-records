@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m0_q_AndasLetter
+name: Letter from Tholer Andas
+script: TR_m0_AndasLetter_sc
+mesh: m\text_parchment_01.nif
+icon: m\tx_parchment_01.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n%PCName,<BR>\r\n<BR>\r\nCongratulations for the completion of your manor at the Odai Plateau. I hope your stronghold will bring you all the wealth and power that you desire.<BR>\r\n<BR>\r\nI have followed your rapid ascent in the ranks of House Hlaalu with great interest. I sense the same fiery ambition runs in your veins as does in mine. An ambition that surely cannot be confined to the backwater that is Vvardenfell.<BR>\r\n<BR>\r\nPerhaps it is not yet clear to you, %PCName, but eventually you will realize the limitations of that barren island. The real power of House Hlaalu lies here, on the mainland, where endless opportunities arise.<BR>\r\n<BR>\r\nConsider this an invitation, %PCName. Come to Bal Foyen and work for me. Seek Dreynos Helvi. There is much to be done here and I'm sure you are the right person for the task. <BR>\r\n<BR>\r\nSigned, <BR>\r\n<BR>\r\nTholer Andas<BR>\r\n<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

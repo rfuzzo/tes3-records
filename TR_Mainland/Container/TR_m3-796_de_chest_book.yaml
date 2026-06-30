@@ -1,0 +1,23 @@
+type: Container
+flags: ''
+id: TR_m3-796_de_chest_book
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - bk_AedraAndDaedra
+- - 1
+  - bk_AncestorsAndTheDunmer
+- - 1
+  - bk_CantatasOfVivec
+- - 2
+  - bk_ChildrensAnuad
+- - 3
+  - bk_DoorsOfTheSpirit
+- - 1
+  - bk_PilgrimsPath
+- - 2
+  - bk_SaryonisSermons

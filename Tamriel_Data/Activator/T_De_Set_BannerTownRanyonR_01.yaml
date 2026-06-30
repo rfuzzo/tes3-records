@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_De_Set_BannerTownRanyonR_01
+name: Ranyon-ruhn
+script: OutsideBanner
+mesh: TR\f\TR_banner_Ranyon-ruhn.nif

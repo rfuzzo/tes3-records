@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_FishLeaperTail_01
+name: Leaper Tail
+script: ''
+mesh: pc\n\pc_ing_leaper.nif
+icon: pc\n\pc_tx_ingred_leaper.dds
+data:
+  weight: 0.2
+  value: 2
+  effects:
+  - Jump
+  - DrainAttribute
+  - ResistCommonDisease
+  - WeaknessToShock
+  skills:
+  - Block
+  - Block
+  - None
+  - None
+  attributes:
+  - Personality
+  - Personality
+  - None
+  - None

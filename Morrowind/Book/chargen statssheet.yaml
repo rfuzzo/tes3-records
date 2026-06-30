@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: chargen statssheet
+name: Release Identification
+script: CharGenStatsSheet
+mesh: m\Text_Scroll_open_03.nif
+icon: m\Tx_scroll_open_03.tga
+enchanting: ''
+text: "For release, by Emperor Uriel Septim VII's decree, to the district of Vvardenfell in the province of Morrowind.<p>\r\nName: %PCName\r\nRace: %PCRace\r\nClass: %PCClass<p>\r\nSigned,\r\nSocucius Ergalla\r\nAgent of the Seyda Neen Imperial Census and Excise.\r\n16th of Last Seed 3E 427<p>\r\n"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

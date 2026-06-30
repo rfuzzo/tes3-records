@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: AB_bk_GuideToEnchanting_sk
+name: Verena's Guide to Enchanting
+script: ''
+mesh: OAAB\m\Text_BoV_VGE.nif
+icon: OAAB\m\Tx_bov_VGE.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nVerena Uvirith's Guide to Enchanting<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nAs many enchanters know, the key to successful enchanting is intelligence and skill, but these are not the only factors. The true key to successful enchanting is a healthy dose of luck. Luck will affect your skills far more than most people realize.<BR>\r\n<BR>\r\nWhen I was a young student of the art, I trained and studied until I felt I could learn no more. I was certainly the most knowlegable and skilled enchanter of all my master's students, yet I still met with constant failure when attempting higher enchantments.<BR>\r\n<BR>\r\nI took my master's advice, and fortified my intelligence with potions. The trick, of course, is to make one at a time, drinking each one in turn. With each successive potion, the quality of your potions increase along with your intelligence, and soon you'll be making incredibly powerful potions. Your alchemy skills don't even have to be very high, which mine certainly weren't at the time.<BR>\r\n<BR>\r\nPotion after potion, I drank myself into a kind of enlightened insanity. The aurbis and all its secrets unfolded before me. I was finally ready to enchant. However, my ambition got the better of me, and I decided to attempt the most difficult enchantment I knew. Even with my intellect raised beyond mortal proportions, the enchantment still failed. Even with my greatly enhanced intelligence, I could not figure out why.<BR>\r\n<BR>\r\nIt was then I noticed, with grim envy, how a fellow student made it look so easy. He was quite lax in his studies compared to myself, and yet he still created one successful enchantment after another. It positively drove me mad! Well, I was not going to take that kind of insult lightly. I raged at how such a fool could be a better enchanter than me when he had hardly cracked open a book. So, I decided to kill him.<BR>\r\n<BR>\r\nOne night I crept into his room, planning to swap one of his potions for a deadly poison. As I examined his selection of potions, I noticed the one quality he had, in liquid abundance, was luck. The realization struck me: he didn't need to have much skill, or even smarts, if he was the luckiest bastard who ever lived. As lucky as he was, he still wasn't smart enough to realize he'd been poisoned before he keeled over dead at my feet, but after I satisfied my lust for revenge, I decided to try his little trick myself.<BR>\r\n<BR>\r\nFrom then on, I always made sure to have a few spare fortify luck potions on hand when attempting more difficult enchantments, and this method has never failed me.<BR></FONT>"
+data:
+  weight: 1.0
+  value: 300
+  book_type: Book
+  skill: Enchant
+  enchantment: 100

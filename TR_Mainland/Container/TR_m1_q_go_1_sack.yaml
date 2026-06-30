@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: TR_m1_q_go_1_sack
+name: Sack
+script: TR_m1_q50_GO1_Ansuma_scpt
+mesh: o\Contain_Com_Sack_02.NIF
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - T_IngFood_MeatGuar_01
+- - 3
+  - ingred_chokeweed_01
+- - 4
+  - ingred_russula_01

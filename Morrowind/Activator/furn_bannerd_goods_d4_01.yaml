@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: furn_bannerd_goods_d4_01
+name: 'Berwen: Trader'
+script: OutsideBanner
+mesh: f\Furn_bannerD_goods_01.NIF

@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Com_Et_HatClothCoif_01
+name: Extravagant Cloth Coif
+script: ''
+mesh: pc\a\pc_a_extrav_coif_01_g.nif
+icon: pc\a\pc_a_extrav_coif_01.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Hair
+  male_bodypart: T_C_ComEtClothCoif_Hr
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 1.0
+  value: 40
+  health: 100
+  enchantment: 200
+  armor_rating: 5

@@ -1,0 +1,49 @@
+type: Container
+flags: ''
+id: crate_01_anruin
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.nif
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory:
+- - -1
+  - bonemold_bracer_right
+- - -1
+  - bonemold_bracer_left
+- - -1
+  - steel_shield
+- - -1
+  - bonemold_shield
+- - 1
+  - bonemold_tshield_telvanniguard
+- - -1
+  - steel_towershield
+- - -1
+  - steel_gauntlet_right
+- - -1
+  - steel_gauntlet_left
+- - -1
+  - bonemold_boots
+- - -1
+  - steel_boots
+- - -1
+  - bonemold_greaves
+- - -1
+  - steel_greaves
+- - -1
+  - bonemold_armun-an_pauldron_r
+- - -1
+  - steel_pauldron_right
+- - -1
+  - bonemold_armun-an_pauldron_l
+- - -1
+  - steel_pauldron_left
+- - -1
+  - bonemold_armun-an_cuirass
+- - -1
+  - steel_cuirass
+- - -1
+  - bonemold_armun-an_helm
+- - -1
+  - steel_helm

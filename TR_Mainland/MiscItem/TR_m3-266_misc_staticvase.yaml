@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m3-266_misc_staticvase
+name: Vase
+script: noPickUp
+mesh: m\Misc_Redware_Vase.NIF
+icon: m\Misc_Redware_Vase.tga
+data:
+  weight: 2.5
+  value: 14
+  flags: ''

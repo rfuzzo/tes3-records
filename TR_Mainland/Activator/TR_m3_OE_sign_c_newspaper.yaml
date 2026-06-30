@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_OE_sign_c_newspaper
+name: The Ebonheart Bellman Newspaper
+script: SignRotate
+mesh: TR\f\TR_act_sign_scrolls.nif

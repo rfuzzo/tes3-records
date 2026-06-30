@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: Act_banner_Hla_Oad
+name: Hla Oad
+script: OutsideBanner
+mesh: f\Act_banner_Hla_Oad.nif

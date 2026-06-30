@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Rga_IronLamellar_Pauld_R_01
+name: Iron Lamellar Right Pauldron
+script: ''
+mesh: hf\A\hf_a_lamellar_pldr_gnd.nif
+icon: hf\A\hf_a_lamellar_pauldron.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: RightUpperArm
+  male_bodypart: T_A_RgaIronLamellPauldron01_UA
+  female_bodypart: ''
+data:
+  armor_type: RightPauldron
+  weight: 10.0
+  value: 30
+  health: 80
+  enchantment: 25
+  armor_rating: 10

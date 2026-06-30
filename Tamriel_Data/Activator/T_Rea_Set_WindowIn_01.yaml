@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Rea_Set_WindowIn_01
+name: ''
+script: T_ScObj_DaylightPanel
+mesh: Sky\i\Sky_In_RM_Win_01.nif

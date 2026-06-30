@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_InkCone_01
+name: Ink Cone
+script: ''
+mesh: pc\n\pc_ingred_inkCone_01.nif
+icon: pc\n\tx_pc_ingr_inkcone_01.dds
+data:
+  weight: 0.2
+  value: 5
+  effects:
+  - Blind
+  - CureParalyzation
+  - RestoreAttribute
+  - DrainAttribute
+  skills:
+  - None
+  - Block
+  - Block
+  - Block
+  attributes:
+  - None
+  - Speed
+  - Agility
+  - Speed

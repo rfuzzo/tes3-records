@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_PilgrimPetals_01
+name: Pilgrim's Petals
+script: ''
+mesh: tr\f\tr_flora_pilgring_01.nif
+icon: tr\n\tr_ing_pilgrim_01.dds
+data:
+  weight: 0.1
+  value: 20
+  effects:
+  - RestoreFatigue
+  - Feather
+  - DrainAttribute
+  - Recall
+  skills:
+  - None
+  - Block
+  - Block
+  - None
+  attributes:
+  - None
+  - Speed
+  - Strength
+  - None

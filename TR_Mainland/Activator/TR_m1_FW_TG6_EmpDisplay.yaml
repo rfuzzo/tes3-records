@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m1_FW_TG6_EmpDisplay
+name: Empty Display
+script: TR_M1_FW_TG6_Display
+mesh: pc\f\pc_furn_com_r_bar_05.nif

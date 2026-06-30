@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: AB_IngMine_GoldPearl_01
+name: Golden Pearl
+script: ''
+mesh: OAAB\n\gem_goldpearl_01.nif
+icon: OAAB\n\gem_goldpearl_01.dds
+data:
+  weight: 0.2
+  value: 200
+  effects:
+  - WeaknessToMagicka
+  - FrostShield
+  - WeaknessToFrost
+  - WaterBreathing
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

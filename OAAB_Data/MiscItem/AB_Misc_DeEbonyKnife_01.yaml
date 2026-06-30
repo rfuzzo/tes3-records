@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_DeEbonyKnife_01
+name: Frosted Ebony Knife
+script: ''
+mesh: OAAB\m\misc_ebony_knife.nif
+icon: OAAB\m\misc_ebony_knife.dds
+data:
+  weight: 2.0
+  value: 35
+  flags: ''

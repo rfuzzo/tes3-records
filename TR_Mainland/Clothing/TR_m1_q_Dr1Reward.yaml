@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m1_q_Dr1Reward
+name: Amulet of Farthil's Ward
+script: ''
+mesh: c\Amulet_Common_4.NIF
+icon: c\tx_amulet_com4.tga
+enchanting: TR_m1_q_Dr1RewardEnch
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 80
+  enchantment: 10

@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: de_r_closet_01_red_grd3
+name: Closet
+script: ''
+mesh: o\Contain_De_Closet_01.NIF
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory:
+- - 3
+  - random_red_guard_cloth_01

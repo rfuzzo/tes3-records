@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Dae_Auroran_Halberd_01
+name: Auroran Halberd
+script: ''
+mesh: pc\w\pc_w_auroran_polarm.nif
+icon: pc\w\pc_w_auroran_polarm.dds
+enchanting: ''
+data:
+  weight: 24.0
+  value: 1000
+  weapon_type: SpearTwoWide
+  health: 1600
+  speed: 0.9
+  reach: 1.8
+  enchantment: 100
+  chop_min: 3
+  chop_max: 32
+  slash_min: 2
+  slash_max: 26
+  thrust_min: 1
+  thrust_max: 18
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

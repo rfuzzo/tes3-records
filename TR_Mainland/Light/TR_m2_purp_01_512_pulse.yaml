@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: TR_m2_purp_01_512_pulse
+name: ''
+script: ''
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 512
+  color:
+  - 200
+  - 83
+  - 213
+  - 0
+  flags: DYNAMIC | PULSE_SLOW

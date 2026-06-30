@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_sc_khalammu_note
+name: Note to Slavers
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><br>\r\nSlavers, <br> <BR>\r\nye be warned. <br>"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 5

@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Nor_Leather1_Helm_01
+name: Nordic Leather Helm
+script: ''
+mesh: sky\a\sky_nord_leath1_helmO.nif
+icon: sky\a\sky_nleath1_helmop.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: Hair
+  male_bodypart: T_A_NorLeath1HelmO_Hr
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 3.0
+  value: 15
+  health: 50
+  enchantment: 75
+  armor_rating: 5

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_AndothDweRuinStatue01
+name: ''
+script: TR_m4_AndothDweStatue01_scp
+mesh: tr\x\tr_dwrv_statue_03.nif

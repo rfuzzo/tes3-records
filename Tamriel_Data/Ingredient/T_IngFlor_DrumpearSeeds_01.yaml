@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_DrumpearSeeds_01
+name: Drumpear Seeds
+script: ''
+mesh: tr\n\tr_ing_drumpearseed.nif
+icon: tr\n\tr_ing_drumpearseed.dds
+data:
+  weight: 0.1
+  value: 15
+  effects:
+  - FortifyAttribute
+  - ResistFire
+  - Sound
+  - Paralyze
+  skills:
+  - Block
+  - None
+  - None
+  - None
+  attributes:
+  - Luck
+  - None
+  - None
+  - None

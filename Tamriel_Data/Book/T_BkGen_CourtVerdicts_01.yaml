@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_BkGen_CourtVerdicts_01
+name: Court Verdicts
+script: ''
+mesh: pc\m\PC_bk_Book_10.nif
+icon: pc\m\pc_bk_book_10.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n[A collection of judicial decisions of a local court, going back several years.]<BR>"
+data:
+  weight: 5.0
+  value: 2
+  book_type: Book
+  skill: None
+  enchantment: 0

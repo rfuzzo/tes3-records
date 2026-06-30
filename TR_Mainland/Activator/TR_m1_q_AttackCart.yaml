@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m1_q_AttackCart
+name: ''
+script: TR_m1_q_AttackCartScript
+mesh: x\EX_MH_bazaar_cart_01.NIF

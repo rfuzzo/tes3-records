@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Echo_27
+name: ANCESTORS' ANGUISH REVEALED
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_text_note_nar_news.nif
+icon: tr\m\tr_text_note_nar_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\tr_echo_512_256.dds\" WIDTH=\"348\" HEIGHT=\"168\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nANCESTORS' ANGUISH REVEALED<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nThose troubled by the hostile spirits in the Foreign Quarter sewers, take notice. The Canyon Echo's intrepid reporting has revealed the reason for at least one of our ancestors' unrest: outlander influence. Having been given a chance to interview the most agreeable of the spirits, the Echo's source proceeded to coax out a tale of woe stemming from the elevation of non-Dunmer in society.<BR><BR>\r\nIt is undeniable that the last few centuries have seen significantly increased foreign presence in Narsis. Citizens of all races may be found within its most sacred spaces and highest offices, while the Foreign Quarter itself has expanded from a small collection of farms into a thriving cornerstone of our city. To many of our ancestors, it must seem unrecognizable compared to the Narsis that they lived and died in.<BR><BR>\r\nLocal Factor of the East Empire Company, Rogatus Cipius, had this to say on the subject: \"The East Empire Company has the utmost respect for traditional Dunmer practices. In fact, we have just made a sizable donation to the Eight-Bones Temple to help resolve the ongoing situation.\"<BR><BR>\r\nThe Canyon Echo reiterates its faith in Narsis' leadership to balance the material benefits of membership in the Empire with the spiritual benefits that come from proper respect for our ancestors.<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

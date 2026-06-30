@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_De_UNI_StaffRoris
+name: Staff of St. Roris
+script: ''
+mesh: tr\w\tr_w_staff_roris_uni.nif
+icon: tr\w\tr_w_staff_roris_uni.dds
+enchanting: T_Const_StaffRorisUni
+data:
+  weight: 8.5
+  value: 10000
+  weapon_type: BluntTwoWide
+  health: 250
+  speed: 1.75
+  reach: 1.8
+  enchantment: 0
+  chop_min: 2
+  chop_max: 14
+  slash_min: 3
+  slash_max: 14
+  thrust_min: 1
+  thrust_max: 10
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

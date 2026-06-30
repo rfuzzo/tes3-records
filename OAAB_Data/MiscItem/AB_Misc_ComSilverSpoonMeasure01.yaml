@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_ComSilverSpoonMeasure01
+name: Measuring Spoon
+script: ''
+mesh: OAAB\m\silverspoonmeasure01.nif
+icon: OAAB\m\silverspoonmeasure01.tga
+data:
+  weight: 0.3
+  value: 3
+  flags: ''

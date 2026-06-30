@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: de_r_chest_01_venim
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - -5
+  - l_m_enchantitem_telvanni_rank01
+- - -3
+  - l_m_enchantitem_telvanni_rank6
+- - -1
+  - l_m_enchantitem_telvanni_rank8

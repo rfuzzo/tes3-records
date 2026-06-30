@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_Hlaalu2_Note_01
+name: Meeting Notes
+script: ''
+mesh: m\Text_Parchment_02.NIF
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n[This sheet of paper lists notes from a recent meeting, written out and signed by the Vizier of Narsis.]<BR>"
+data:
+  weight: 1.2
+  value: 5
+  book_type: Scroll
+  skill: None
+  enchantment: 0

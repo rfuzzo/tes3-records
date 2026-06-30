@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m2_TM_ban_ench_Var
+name: 'Varden Alvis: Enchanter'
+script: OutsideBanner
+mesh: f\Furn_bannerD_alchemy_01.NIF

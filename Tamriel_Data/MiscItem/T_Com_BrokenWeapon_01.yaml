@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_BrokenWeapon_01
+name: Broken Silver Dagger
+script: ''
+mesh: tr\w\tr_w_silver_dagger_brk.nif
+icon: tr\w\tr_w_silver_dagger_brk.dds
+data:
+  weight: 1.2
+  value: 1
+  flags: ''

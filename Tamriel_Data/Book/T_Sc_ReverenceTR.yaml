@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Sc_ReverenceTR
+name: Reverence
+script: T_ScBook_SpDrainMagicka
+mesh: m\Text_Scroll_open_02.nif
+icon: m\Tx_scroll_open_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>\r\nReverence<BR>\r\n<BR>\r\nHonor lurks, searching for a fold to settle in<BR>\r\nforming a pattern midst thorns and fertile trees<BR>\r\na bond between new and old, eager to follow your whim<BR>\r\nNever has one seen such a thing that values nothing<BR>\r\nyet you, indeed, show no signs of anything redeeming<BR>\r\nWhat foul demon has lured you in?<BR>\r\n<BR>\r\nThere is nothing to learn or a vision to see<BR>\r\nfor you have forged a seal on thine destiny.<BR>\r\nWhy should even critter look at you, begging glare in its eyes<BR>\r\nif your soul is a black damp, a pit of no feelings?<BR>\r\nA god's wrath shall you soon suffer, sharply and swiftly.<BR>\r\n<BR>\r\nSo spoke Magnus himself, descended into another form<BR>\r\nSeldom other beings of deific powers interfere with the mortal plane<BR>\r\nBut alas, his will revoked doings and charm from the offender within<BR>\r\nglaring of radiant fury, and not in the slightest giving the tricks in.<BR>\r\nonly later the scornful man found out grim doings to him. <BR>\r\n"
+data:
+  weight: 1.5
+  value: 150
+  book_type: Scroll
+  skill: None
+  enchantment: 100

@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Mw_Flora_GhostLaur04
+name: Ghost Laurel
+script: ''
+mesh: tr\f\tr_f_vm_ghostlaurel_04.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - T_Mw_Random_FlorGhostLaurel

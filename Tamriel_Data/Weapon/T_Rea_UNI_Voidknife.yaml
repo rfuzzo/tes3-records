@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Rea_UNI_Voidknife
+name: Void Knife
+script: ''
+mesh: sky\w\Sky_Artifact_Voidknf.nif
+icon: sky\w\tx_artifact_voidknife.dds
+enchanting: T_Strike_Voidknife
+data:
+  weight: 2.3
+  value: 7000
+  weapon_type: ShortBladeOneHand
+  health: 400
+  speed: 2.2
+  reach: 1.0
+  enchantment: 100
+  chop_min: 1
+  chop_max: 4
+  slash_min: 1
+  slash_max: 5
+  thrust_min: 1
+  thrust_max: 7
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

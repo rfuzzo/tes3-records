@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_He_DirenniKnife_01
+name: Direnni Knife
+script: ''
+mesh: sky\m\sky_misc_dknife_01.nif
+icon: sky\m\tx_misc_dknf_01.dds
+data:
+  weight: 0.5
+  value: 7
+  flags: ''

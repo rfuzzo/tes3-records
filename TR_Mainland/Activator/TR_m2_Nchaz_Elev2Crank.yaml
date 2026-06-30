@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m2_Nchaz_Elev2Crank
+name: Rusty Lever
+script: TR_m2_Nchaz_Elev2_sc
+mesh: i\in_dwrv_crank00.nif

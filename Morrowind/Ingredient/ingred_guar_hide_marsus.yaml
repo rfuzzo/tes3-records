@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_guar_hide_marsus
+name: Marsus' Guar Hide
+script: ''
+mesh: n\Ingred_Guar_Hide_01.nif
+icon: n\Tx_guarhide_01.tga
+data:
+  weight: 1.0
+  value: 5
+  effects:
+  - DrainFatigue
+  - FortifyAttribute
+  - RestoreAttribute
+  - FortifyAttribute
+  skills:
+  - Block
+  - Block
+  - Block
+  - Block
+  attributes:
+  - Strength
+  - Endurance
+  - Personality
+  - Luck

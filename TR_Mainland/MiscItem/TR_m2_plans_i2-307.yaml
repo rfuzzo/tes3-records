@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m2_plans_i2-307
+name: Altered Dwemer Centurion Plans
+script: ''
+mesh: m\misc_dwrv_artifact80.NIF
+icon: m\misc_dwrv_artifact80.tga
+data:
+  weight: 0.1
+  value: 1200
+  flags: ''

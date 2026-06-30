@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_ClothYellow_01
+name: Cloth
+script: ''
+mesh: TR\m\tr_napkin_sm_YwRF2.nif
+icon: TR\m\tr_napkin_sm_YwRF2.dds
+data:
+  weight: 1.0
+  value: 1
+  flags: ''

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Glb_Sound_Birds_01
+name: ''
+script: T_ScSound_Birds_01
+mesh: EditorMarker.NIF

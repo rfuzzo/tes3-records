@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_Hal_Scorch01
+name: ''
+script: TR_m3_Hal_Disable_sc
+mesh: tr\f\tr_f_scorch_01.nif

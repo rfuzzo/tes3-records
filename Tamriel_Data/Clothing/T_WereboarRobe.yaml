@@ -1,0 +1,20 @@
+type: Clothing
+flags: ''
+id: T_WereboarRobe
+name: ''
+script: ''
+mesh: Add World Art
+icon: ''
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_WereboarSkin
+  female_bodypart: ''
+- biped_object_type: Head
+  male_bodypart: ''
+  female_bodypart: ''
+data:
+  clothing_type: Robe
+  weight: 1.0
+  value: 1
+  enchantment: 100

@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: expensive_ring_erna
+name: Erna the Quiet's Ring
+script: ''
+mesh: c\C_Ring_expensive_3.nif
+icon: c\tx_ring_expensive03.tga
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 30
+  enchantment: 150

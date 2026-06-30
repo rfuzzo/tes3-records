@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_GoldPlate_01
+name: Gold Plate
+script: ''
+mesh: pc\m\pc_misc_gold_plate01.nif
+icon: pc\m\pc_misc_gold_plate01.dds
+data:
+  weight: 3.0
+  value: 170
+  flags: ''

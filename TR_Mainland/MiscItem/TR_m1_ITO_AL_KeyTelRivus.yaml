@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m1_ITO_AL_KeyTelRivus
+name: Tel Rivus Key
+script: ''
+mesh: TR\m\TR_Key_DD13.NIF
+icon: TR\m\TR_Key_DD13.dds
+data:
+  weight: 0.0
+  value: 100
+  flags: KEY

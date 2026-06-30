@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_Key_26
+name: Thick Iron Key
+script: ''
+mesh: TR\m\TR_Key_DD25.NIF
+icon: TR\m\TR_Key_DD25.dds
+data:
+  weight: 0.0
+  value: 0
+  flags: ''

@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m7_Ns_SandweaverRing
+name: Sandweaver's Ring
+script: ''
+mesh: pc\c\pc_Col_Ring_Cm_02.nif
+icon: pc\c\pc_Col_Ring_Cm_02.dds
+enchanting: TR_m7_Ns_SandweaverRing_en
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 2000
+  enchantment: 10

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_Wood Sword
+name: Wooden Sword
+script: ''
+mesh: OAAB\w\woodsword.nif
+icon: OAAB\w\woodsword.tga
+enchanting: ''
+data:
+  weight: 8.0
+  value: 8
+  weapon_type: LongBladeOneHand
+  health: 400
+  speed: 1.4
+  reach: 1.0
+  enchantment: 40
+  chop_min: 2
+  chop_max: 4
+  slash_min: 1
+  slash_max: 3
+  thrust_min: 3
+  thrust_max: 4
+  flags: ''

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m2_Ancasarion_sword
+name: Misfortune
+script: ''
+mesh: tr\w\tr_w_glass_broadsword.nif
+icon: tr\w\tr_w_glass_broadsword.dds
+enchanting: TR_m2_Ancasarion_sword_en
+data:
+  weight: 11.5
+  value: 20000
+  weapon_type: LongBladeOneHand
+  health: 400
+  speed: 1.25
+  reach: 1.0
+  enchantment: 32
+  chop_min: 4
+  chop_max: 23
+  slash_min: 2
+  slash_max: 23
+  thrust_min: 2
+  thrust_max: 23
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

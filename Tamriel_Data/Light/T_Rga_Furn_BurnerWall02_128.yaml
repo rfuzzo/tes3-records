@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_Rga_Furn_BurnerWall02_128
+name: ''
+script: ''
+mesh: pc\l\pc_rga_burner_w_02.nif
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 128
+  color:
+  - 245
+  - 140
+  - 40
+  - 0
+  flags: DYNAMIC | FIRE | FLICKER_SLOW

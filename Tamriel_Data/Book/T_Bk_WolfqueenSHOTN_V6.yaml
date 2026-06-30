@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_WolfqueenSHOTN_V6
+name: <Deprecated>
+script: ''
+mesh: td\td_help_deprec_01.nif
+icon: Sky\m\Tx_Book_Basic_08.dds
+enchanting: ''
+text: <deprecated>
+data:
+  weight: 3.0
+  value: 250
+  book_type: Book
+  skill: Sneak
+  enchantment: 20

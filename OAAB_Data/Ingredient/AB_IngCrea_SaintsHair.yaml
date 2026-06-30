@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: AB_IngCrea_SaintsHair
+name: Saint's Hair
+script: ''
+mesh: OAAB\n\saints_hair.nif
+icon: OAAB\n\saints_hair.dds
+data:
+  weight: 1.0
+  value: 250
+  effects:
+  - Reflect
+  - FortifyAttribute
+  - DrainMagicka
+  - FortifyAttribute
+  skills:
+  - Block
+  - Block
+  - None
+  - Block
+  attributes:
+  - Agility
+  - Personality
+  - None
+  - Luck

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: active_sign_c_clothing_falanaam
+name: 'Falanaamo: Clothier'
+script: SignRotate
+mesh: f\Active_sign_C_clothing_01.NIF

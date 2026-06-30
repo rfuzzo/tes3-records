@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: ring of ice storm
+name: Ring of Ice Storm
+script: ''
+mesh: c\C_Ring_expensive_3.NIF
+icon: c\tx_ring_expensive03.tga
+enchanting: ice storm_en
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 53
+  enchantment: 150

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Rga_SetReach_DoorHiddenIn_01
+name: Hidden Door
+script: T_ScObj_HiddenDoorSHOTN
+mesh: Sky\i\Sky_In_Red_T_HidDoor.nif

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_CoconutBowl_01
+name: Coconut Bowl
+script: ''
+mesh: pi\m\pi_m_coco_bowl_01.nif
+icon: pi\m\pi_m_coco_bowl_01.dds
+data:
+  weight: 1.0
+  value: 2
+  flags: ''

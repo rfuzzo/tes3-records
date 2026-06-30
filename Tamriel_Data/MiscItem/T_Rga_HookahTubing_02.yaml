@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Rga_HookahTubing_02
+name: Tubing
+script: ''
+mesh: Sky\m\Sky_Misc_Tubing_02.nif
+icon: Sky\m\Tx_Misc_Tubing_02.dds
+data:
+  weight: 1.0
+  value: 12
+  flags: ''

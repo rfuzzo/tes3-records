@@ -1,0 +1,21 @@
+type: Container
+flags: ''
+id: TR_m2_sampledesk_i2-300
+name: Desk
+script: ''
+mesh: o\Contain_De_Desk_01.NIF
+encumbrance: 75.0
+container_flags: IS_BASE
+inventory:
+- - 50
+  - Gold_001
+- - 1
+  - Misc_Inkwell
+- - 1
+  - Misc_Quill
+- - 1
+  - TR_m2_q_A8_5_slavekey
+- - 1
+  - misc_shears_01
+- - 3
+  - sc_paper plain

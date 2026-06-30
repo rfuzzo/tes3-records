@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_FelmsCargoSwitch
+name: Switch
+script: TR_m4_FelmsCargoLift_scp
+mesh: pc\f\pc_furn_switch_01.nif

@@ -1,0 +1,25 @@
+type: Container
+flags: ''
+id: T_MwCom_Var_Cr1TelCeph
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_De_TelvCephalopod_Boots_01
+- - 1
+  - T_De_TelvCephalopod_Cuirass_01
+- - 1
+  - T_De_TelvCephalopod_GauntL_01
+- - 1
+  - T_De_TelvCephalopod_GauntR_01
+- - 1
+  - T_De_TelvCephalopod_Greaves_01
+- - 1
+  - T_De_TelvCephalopod_PauldL_01
+- - 1
+  - T_De_TelvCephalopod_PauldR_01
+- - 1
+  - cephalopod_helm

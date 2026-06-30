@@ -1,0 +1,20 @@
+type: Alchemy
+flags: ''
+id: T_Com_Potion_Insight_C
+name: Cheap Potion of Fortify Luck
+script: ''
+mesh: m\Misc_Potion_Cheap_01.nif
+icon: m\Tx_potion_cheap_01.tga
+effects:
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Luck
+  range: OnSelf
+  area: 0
+  duration: 15
+  min_magnitude: 8
+  max_magnitude: 8
+data:
+  weight: 1.0
+  value: 15
+  flags: ''

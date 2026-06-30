@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_PurpleGlassCup_02
+name: Fine Glass Cup
+script: ''
+mesh: tr\m\tr_misc_purpg_cup02.nif
+icon: tr\m\tr_misc_purpg_cup02.dds
+data:
+  weight: 1.5
+  value: 17
+  flags: ''

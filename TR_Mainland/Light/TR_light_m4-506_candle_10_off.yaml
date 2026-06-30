@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: TR_light_m4-506_candle_10_off
+name: Candle
+script: ''
+mesh: l\light_de_candle_10.nif
+icon: l\light_de_candle_10.dds
+sound: ''
+data:
+  weight: 1.0
+  value: 2
+  time: 120
+  radius: 64
+  color:
+  - 250
+  - 238
+  - 190
+  - 0
+  flags: DYNAMIC | CAN_CARRY | FIRE | OFF_BY_DEFAULT | FLICKER_SLOW

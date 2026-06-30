@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_SwmpChal_01
+name: Swamp Chalice
+script: ''
+mesh: sky\n\sky_ingred_swmpcha_01.nif
+icon: sky\n\tx_ingred_swmpchal.dds
+data:
+  weight: 0.2
+  value: 2
+  effects:
+  - RestoreAttribute
+  - DamageMagicka
+  - DetectKey
+  - DrainAttribute
+  skills:
+  - Block
+  - None
+  - None
+  - Block
+  attributes:
+  - Intelligence
+  - None
+  - None
+  - Personality

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_ImpTanto
+name: Imperial Tanto
+script: ''
+mesh: OAAB\w\imp_tanto.nif
+icon: OAAB\w\w_impTanto.tga
+enchanting: ''
+data:
+  weight: 3.5
+  value: 50
+  weapon_type: ShortBladeOneHand
+  health: 550
+  speed: 2.25
+  reach: 1.0
+  enchantment: 40
+  chop_min: 6
+  chop_max: 13
+  slash_min: 6
+  slash_max: 13
+  thrust_min: 7
+  thrust_max: 13
+  flags: ''

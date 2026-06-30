@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Cr_UNI_SeadrakeEgg
+name: Seadrake Egg
+script: ''
+mesh: pc\m\pc_m_plesios_egg_01.nif
+icon: pc\m\pc_m_plesios_egg.dds
+data:
+  weight: 2.0
+  value: 150
+  flags: ''

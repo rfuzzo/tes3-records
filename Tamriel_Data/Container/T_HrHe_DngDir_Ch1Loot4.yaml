@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: T_HrHe_DngDir_Ch1Loot4
+name: Old Chest
+script: ''
+mesh: sky\o\sky_furn_alt_chest_01.nif
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - 3
+  - T_Hr_Lvl_Soulgems
+- - 4
+  - T_Hr_Random_DirenniLoot

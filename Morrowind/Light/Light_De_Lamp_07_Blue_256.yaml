@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: Light_De_Lamp_07_Blue_256
+name: ''
+script: ''
+mesh: l\Light_De_Lamp_07.NIF
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 256
+  color:
+  - 32
+  - 205
+  - 255
+  - 0
+  flags: DYNAMIC | FIRE | FLICKER_SLOW

@@ -1,0 +1,35 @@
+type: Clothing
+flags: ''
+id: T_Com_Ep_Shirt_02
+name: Expensive Shirt
+script: ''
+mesh: pc\c\pc_fcot_c_shirt04_gnd.nif
+icon: pc\c\pc_fcot_c_shirt04.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_C_ComEpShirt02_C
+  female_bodypart: T_C_ComEpShirt02_CF
+- biped_object_type: LeftUpperArm
+  male_bodypart: T_C_ComEpShirt02_UA
+  female_bodypart: ''
+- biped_object_type: RightUpperArm
+  male_bodypart: T_C_ComEpShirt02_UA
+  female_bodypart: ''
+- biped_object_type: LeftForearm
+  male_bodypart: T_C_ComEpShirt02_Fa
+  female_bodypart: ''
+- biped_object_type: RightForearm
+  male_bodypart: T_C_ComEpShirt02_Fa
+  female_bodypart: ''
+- biped_object_type: LeftWrist
+  male_bodypart: T_C_ComEpShirt02_W
+  female_bodypart: ''
+- biped_object_type: RightWrist
+  male_bodypart: T_C_ComEpShirt02_W
+  female_bodypart: ''
+data:
+  clothing_type: Shirt
+  weight: 2.0
+  value: 15
+  enchantment: 75

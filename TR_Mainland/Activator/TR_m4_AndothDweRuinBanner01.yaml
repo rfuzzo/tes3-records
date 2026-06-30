@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_AndothDweRuinBanner01
+name: ''
+script: TR_m4_AndothDweBanners01_scp
+mesh: f\furn_c_t_theif_01.nif

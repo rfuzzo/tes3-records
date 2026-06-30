@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: furn_bannerd_alchemy_01_bal
+name: 'Nalcarya: Alchemist'
+script: OutsideBanner
+mesh: f\Furn_bannerD_alchemy_01.NIF

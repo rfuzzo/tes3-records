@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_De_Set_BannerTownAimrah
+name: Aimrah
+script: OutsideBanner
+mesh: tr\f\tr_banner_aimrah.nif

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_SongOfTheReturnSHOTN_V24
+name: Songs of the Return, Volume 24
+script: ''
+mesh: Sky\m\Sky_Book_Saga_01.nif
+icon: Sky\m\Tx_Book_Saga_01.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nSongs of the Return<BR>\r\nVolume 24<BR>\r\nThe First Tale of the Krilot Lok<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\n[When the time came for] breaking of camp, not all crews took southwards across the rolling lands. Some turned with quick eyes back to their ships, for their hearts were bounded to the waves as sure as they were bounded to each other [as allied Companions].<BR>\r\n<BR>\r\nOne such crew was that of the Krilot Lok, sinewy long folk from the [eastern] edge of Atmora. Their ruddy skin matched the dawn and it was often said that morning herself learned [her glorious colors from] the first faces to meet her at the break of day. The great Kyne lifted their souls and their winds, propelling them westwards with the new lands of Tamriel ever beckoning to the south.<BR>\r\n<BR>\r\nIn time, these perpetual wanderers came upon sights fearsome and terrible. Entire kingdoms of men beyond their recognition, skin charred like overcooked meat. Elves [even more devious than the northern betrayers] disgraced their horizons, until they learned the sheltered ways between. Great deserts the likes of which were never known in the homeland, peopled by beasts that spoke like men, with the [savagery?] of elves. Many a notable and well-sung Companion met his end at the spears of the legged snakes of the southern marsh.<BR>\r\n<BR>\r\nAmong the brave crew of the Krilot Lok were of Roeth and Breff the Elder, the great Shield-Brothers (who often swapped spears), and [their] war-wives, Britte and Greyf (the fair child), Shield-Sisters in their own right who could bring [the face of terror?] across the ice-chilled seas. Together these four stared into the abyss of trees that formed the foul-smelling homeland of the snake-men. And as they were blessed Atmorans who feared no shore of Tamriel, they ventured forth to seek out their glories in the most dangerous of these new lands.<BR>\r\n<BR>\r\nOnward they flew, ravaging the swamplands, beating a trail between themselves and their ship such that they would never lose sight of the shore. In the far-off day when at last Roeth would fall, when Britte screamed her famed war-cry so that all the marshes were emptied, this trail would fill once more with the treacherous snake men. So began the [burning?] march of these great captains of us all.<BR>\r\n<BR>"
+data:
+  weight: 3.0
+  value: 150
+  book_type: Book
+  skill: None
+  enchantment: 0

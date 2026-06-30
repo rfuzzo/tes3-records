@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m1_FW_sign_inn01
+name: The Howling Noose
+script: SignRotate
+mesh: tr\f\tr_act_sign_inn_03.nif

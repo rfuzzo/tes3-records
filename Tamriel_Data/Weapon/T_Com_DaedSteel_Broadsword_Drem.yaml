@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Com_DaedSteel_Broadsword_Drem
+name: Broadsword of Darkness
+script: ''
+mesh: TR\w\TR_w_steel_dae_bsword.nif
+icon: TR\w\TR_w_steel_dae_bsword.dds
+enchanting: T_Strike_MutualBlindDrainLBl
+data:
+  weight: 15.0
+  value: 2500
+  weapon_type: LongBladeOneHand
+  health: 1100
+  speed: 1.2
+  reach: 1.1
+  enchantment: 400
+  chop_min: 4
+  chop_max: 24
+  slash_min: 4
+  slash_max: 24
+  thrust_min: 2
+  thrust_max: 24
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_Cabbage_01
+name: Head of Cabbage
+script: ''
+mesh: Sky\n\Sky_Ingred_Cab_02a.nif
+icon: Sky\n\Tx_Ingred_Cab_02a.dds
+data:
+  weight: 1.5
+  value: 2
+  effects:
+  - RestoreFatigue
+  - FortifyAttribute
+  - DrainAttribute
+  - FortifyHealth
+  skills:
+  - None
+  - Block
+  - Block
+  - None
+  attributes:
+  - None
+  - Endurance
+  - Intelligence
+  - None

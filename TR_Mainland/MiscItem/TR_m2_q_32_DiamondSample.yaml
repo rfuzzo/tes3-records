@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m2_q_32_DiamondSample
+name: Diamond Sample
+script: ''
+mesh: n\ingred_diamond_01.nif
+icon: n\tx_diamond.dds
+data:
+  weight: 0.2
+  value: 1
+  flags: ''

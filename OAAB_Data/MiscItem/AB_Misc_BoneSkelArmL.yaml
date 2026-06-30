@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_BoneSkelArmL
+name: Left Arm
+script: ''
+mesh: OAAB\m\skelArmL.nif
+icon: OAAB\m\skelArmL.tga
+data:
+  weight: 2.0
+  value: 1
+  flags: ''

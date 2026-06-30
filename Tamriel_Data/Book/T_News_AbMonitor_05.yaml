@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_AbMonitor_05
+name: VALENWOOD CITY SEEKS AID
+script: T_ScNews_Bellman_Paper
+mesh: pc\m\pc_text_note_anv_news.nif
+icon: pc\m\pc_text_note_anv_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"PC\\pc_abmonitor.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nVALENWOOD CITY PETITIONS FOR ROYAL AID<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nA Wood Elf diplomatic mission has arrived in Anvil to lobby Goldstone for aid in rebuilding the Valenwood city of Woodhearth, which was grievously damaged by forces of the Summerset Isles during the War of the Blue Divide some three decades ago. The chief envoy, Sirethal Palinis, spoke briefly to the Monitor upon debarking in the Port Quarter, whereupon he stressed the difficulties endured by his countrymer in recent years since the sack.<BR><BR>\r\nThe Woodhearth delegation was likely drawn to Anvil as a result of Queen Millona's well-publicized charitable initiatives, including programs of bridge construction along the Naharine River and royal support for benevolent institutions like the Saint Naharine Sailors' Home and the Hostel of Saint Rosunius. Nevertheless, financial support for an overseas realm may not enjoy the same support within the walls of Goldstone.<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

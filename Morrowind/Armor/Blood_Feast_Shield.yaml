@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: Blood_Feast_Shield
+name: Blood Feat Shield
+script: ''
+mesh: a\TowerShield_steel.NIF
+icon: a\Tx_towershield_steel.tga
+enchanting: blood feast_en
+biped_objects:
+- biped_object_type: Shield
+  male_bodypart: towershield_steel
+  female_bodypart: ''
+data:
+  armor_type: Shield
+  weight: 20.0
+  value: 1000
+  health: 360
+  enchantment: 750
+  armor_rating: 18

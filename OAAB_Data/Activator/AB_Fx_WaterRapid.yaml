@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Fx_WaterRapid
+name: ''
+script: Sound_Water_Spout
+mesh: OAAB\e\water_rapid.nif

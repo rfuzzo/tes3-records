@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: TR_m7_EEC_Q3Chest
+name: Small Chest
+script: TR_m7_EEC_Narsis3weight
+mesh: o\Contain_chest_small_01.NIF
+encumbrance: 25.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_De_Weight_01
+- - 1
+  - T_De_Weight_02
+- - 1
+  - T_De_Weight_03
+- - 1
+  - T_De_Weight_04

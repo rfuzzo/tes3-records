@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_Fascicle12PC
+name: Fascicle 50-53
+script: ''
+mesh: pc\m\PC_bk_Book_10.nif
+icon: pc\m\pc_bk_book_10.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe Testament of the Church-Mothers<BR>\r\nFascicle 50-53<BR>\r\nThe Making of the World Entire<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\n50. Long did the work of many hands take, and ceaseless did many hands build the world, stone by stone, and when there was no stone there was used the flesh, and when there was no mortar there was used the blood. So it continued, and the gods and the spirits threw themselves into the crucible, and Zenithar stoked the fires and labored over the world's engine.<BR>\r\n<BR>\r\n51. Then Magnus grew afraid, as he was ever unsure of his own designs, and feared to give himself to the making of the world. And when it was his time, he refused, and drew away, leaving much of himself behind, and fled to hide behind the world, and in his haste he tore the sun, and he was followed by many lesser spirits, and in their haste they tore the stars.<BR>\r\n<BR>\r\n52. So it was that on the edge of creation the world knew a moment of darkness, and in the darkness the Divines were uncertain, and many mistakes were made, and many more the evil spirits who were born and did make their way into the root of the world.<BR>\r\n<BR>\r\n53. But all things pass, so ordained by Arkay, and so did pass the moment of uncertainty which led to so much pain and passionate discord. There the Divines resumed in a half-wake state, and perceived the world their creation. There the Divines convened, fearing the moment.<BR>\r\n<BR>"
+data:
+  weight: 4.0
+  value: 300
+  book_type: Book
+  skill: Destruction
+  enchantment: 0

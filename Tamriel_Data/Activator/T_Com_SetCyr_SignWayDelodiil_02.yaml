@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Com_SetCyr_SignWayDelodiil_02
+name: Delodiil
+script: ''
+mesh: pc\f\pc_furn_signpost_02.nif

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngMine_OreZinc_01
+name: Raw Zinc
+script: ''
+mesh: tr\n\tr_ing_zinc.nif
+icon: tr\n\tr_ing_zinc.dds
+data:
+  weight: 2.5
+  value: 6
+  effects:
+  - NightEye
+  - CureCommonDisease
+  - SpellAbsorption
+  - FortifyAttribute
+  skills:
+  - None
+  - Block
+  - None
+  - Block
+  attributes:
+  - None
+  - Endurance
+  - None
+  - Endurance

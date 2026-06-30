@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Mao_Bow_01
+name: Maormer Long Bow
+script: ''
+mesh: tr\w\tr_w_mao_bow.nif
+icon: tr\w\tr_w_mao_bow.dds
+enchanting: ''
+data:
+  weight: 4.0
+  value: 900
+  weapon_type: MarksmanBow
+  health: 700
+  speed: 1.0
+  reach: 1.0
+  enchantment: 45
+  chop_min: 2
+  chop_max: 35
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: ''

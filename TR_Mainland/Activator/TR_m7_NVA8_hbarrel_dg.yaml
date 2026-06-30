@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_NVA8_hbarrel_dg
+name: ''
+script: TR_m7_NVA_Stage8_Persist
+mesh: tr\f\TR_furn_HBarrel_DG.NIF

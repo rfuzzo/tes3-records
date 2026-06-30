@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_KwamaChitin
+name: Kwama Chitin
+script: ''
+mesh: OAAB\m\kwama_chitin.nif
+icon: OAAB\m\misc_kwama_chitin.tga
+data:
+  weight: 9.0
+  value: 16
+  flags: ''

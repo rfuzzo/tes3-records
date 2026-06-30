@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: TR_m3_q_OE_MG_Dae_Gems
+name: <Cursed Gem Spawn Point>
+script: TR_m3_q_OE_MG_GemScript1
+mesh: TR\n\TR_ing_turquoise_mm.nif
+icon: tr\n\tr_ing_turquoise_mm.dds
+data:
+  weight: 0.2
+  value: 200
+  effects:
+  - DrainAttribute
+  - WaterWalking
+  - DamageAttribute
+  - Sanctuary
+  skills:
+  - Block
+  - None
+  - Block
+  - Block
+  attributes:
+  - Willpower
+  - None
+  - Endurance
+  - Agility

@@ -1,0 +1,18 @@
+type: Book
+flags: ''
+id: T_Bk_SongOfPelinalTR_V7
+name: The Song of Pelinal, Volume 7
+script: ''
+mesh: tr\m\tr_book_closed_i15_ay.nif
+icon: tr\m\tr_book_closed_i15_ay.dds
+enchanting: ''
+text: |
+  <DIV ALIGN="LEFT"><FONT COLOR="000000" SIZE="3" FACE="Magic Cards">[Editor's Note: This fragment comes from a manuscript recovered from the ruins of the Alessian Order's monastery at Lake Canulus, which dates it to sometime prior to the War of Righteousness (1E 2321). However, textual analysis suggests that this fragment actually preserves a very early form of the Song, perhaps from the mid-sixth century.]<BR>
+  <DIV ALIGN="CENTER"><BR>The Song of Pelinal, Volume 7: On His Battle with Umaril and His Dismemberment<BR>
+  <DIV ALIGN="LEFT"><BR>[And so after many battles with] Umaril's allies, where dead Aurorans lay like candlelight around the throne, the Pelinal became surrounded by the last Ayleid sorcerer-kings and their demons, each one heavy with varliance. The Whitestrake cracked the floor with his mace and they withdrew, and he said, "Bring me Umaril that called me out!" ... [And] while mighty in his aspect and wicked, deathless-golden Umaril favored ruin-from-afar over close combat and so he tarried in the shadows of the white tower before coming forth. More soldiers were sent against Pelinal to die, and yet they managed to pierce his armor with axes and arrows, for Umaril had wrought each one by long varliance, which he had been hoarding since his first issue [of challenge.]... [Presently] the half-Elf [showed himself] bathed in [Meridian light] ... and he listed his bloodline in the Ayleidoon and spoke of his father, a god of the [previous kalpa's] World-River and taking great delight in the heavy-breathing of Pelinal who had finally bled... [Text lost] ... [And] Umaril was laid low, the angel face of his helm dented into an ugliness which made Pelinal laugh, [and his] unfeathered wings broken off with sword strokes delivered while Pelinal stood [frothing]... above him insulting his ancestry and anyone else that took ship from Old Ehlnofey, [which] angered the other Elvish kings and drove them to a madness of their own... [and they] fell on him [speaking] to their weapons... cutting the Pelinal into eighths while he roared in confusion [which even] the Council of Skiffs [could hear]... [Text lost] ...ran when Mor shook the whole of the tower with mighty bashing from his horns [the next morning], and some were slain-in-overabundance in the Taking, and Men looked for more Ayleids to kill but Pelinal had left none save those kings and demons that had already begun to flee... It was Morihaus who found the Whitestrake's head, which the kings had left to prove their deeds and they spoke and Pelinal said things of regrets... but the rebellion had turned anyway... [and more] words were said between these immortals that even the Paravant would not deign to hear.<BR>
+data:
+  weight: 1.5
+  value: 100
+  book_type: Book
+  skill: None
+  enchantment: 100

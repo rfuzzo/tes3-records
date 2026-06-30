@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_He_BlueCeladonPlate_01
+name: Blue Celadon Plate
+script: ''
+mesh: sum\m\sum_misc_celb_plat_01.nif
+icon: sum\m\sum_misc_celb_plat_01.dds
+data:
+  weight: 2.0
+  value: 8
+  flags: ''

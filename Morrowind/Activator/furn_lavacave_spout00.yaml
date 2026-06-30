@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: furn_lavacave_spout00
+name: ''
+script: Sound_Water_Spout
+mesh: f\furn_lavacave_spout00.NIF

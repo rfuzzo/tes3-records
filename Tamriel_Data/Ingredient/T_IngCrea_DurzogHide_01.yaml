@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_DurzogHide_01
+name: Durzog Hide
+script: ''
+mesh: hr\n\hr_ing_durzoghide_01.nif
+icon: hr\n\hr_ing_durzoghide_01.dds
+data:
+  weight: 1.0
+  value: 5
+  effects:
+  - DrainFatigue
+  - SwiftSwim
+  - ResistParalysis
+  - Blind
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

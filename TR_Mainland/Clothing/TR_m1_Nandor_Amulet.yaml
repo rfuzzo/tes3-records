@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m1_Nandor_Amulet
+name: Amulet of Swift Swimming
+script: ''
+mesh: c\Amulet_Common_5.NIF
+icon: c\tx_amulet_com5.tga
+enchanting: water walking_en
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 62
+  enchantment: 10

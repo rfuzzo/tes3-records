@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_EnSc_Com_ThousandfoldFury
+name: Scroll of Thousandfold Fury
+script: ''
+mesh: m\text_scroll_01.nif
+icon: m\tx_scroll_open_01.tga
+enchanting: T_Once_FortifyHandToHand200
+text: <DIV ALIGN="center"><FONT COLOR="000000" SIZE="2" FACE="Daedric">A THOUSAND BLOWS AT ONCE</FONT><BR>
+data:
+  weight: 0.2
+  value: 1000
+  book_type: Scroll
+  skill: None
+  enchantment: 0

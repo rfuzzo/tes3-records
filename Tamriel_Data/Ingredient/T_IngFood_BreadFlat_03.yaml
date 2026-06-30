@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_BreadFlat_03
+name: Flat Bread
+script: ''
+mesh: Sky\n\Sky_Ingred_FlBread_03.nif
+icon: Sky\n\Tx_Ingred_FlBread_03.dds
+data:
+  weight: 0.5
+  value: 5
+  effects:
+  - RestoreHealth
+  - None
+  - None
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

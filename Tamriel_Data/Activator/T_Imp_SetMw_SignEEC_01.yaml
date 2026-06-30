@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_SetMw_SignEEC_01
+name: East Empire Company
+script: SignRotate
+mesh: tr\f\tr_act_sign_eec_01.nif

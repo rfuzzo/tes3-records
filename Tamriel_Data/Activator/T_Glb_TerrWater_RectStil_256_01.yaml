@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Glb_TerrWater_RectStil_256_01
+name: ''
+script: T_ScSound_Water
+mesh: tr\x\tr_water_rects256_01.nif

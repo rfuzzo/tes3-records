@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_bk_researchnotes_c_i3-650
+name: Research Notes
+script: ''
+mesh: m\Text_Octavo_08.NIF
+icon: m\Tx_book_02.tga
+enchanting: ''
+text: '[This book contains detailed notes on the research that is being done here. Most of the pages are covered with reports of each observation, with about 8 hour intervals..]<BR>'
+data:
+  weight: 2.0
+  value: 20
+  book_type: Book
+  skill: None
+  enchantment: 0

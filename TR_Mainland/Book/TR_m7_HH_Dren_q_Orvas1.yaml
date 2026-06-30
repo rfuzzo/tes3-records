@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_HH_Dren_q_Orvas1
+name: Letter to Orvas Dren
+script: TR_m7_HH_Dren_q_Orvas1SC
+mesh: m\Text_paper_roll_01.nif
+icon: m\Tx_paper_roll_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"Left\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nMy dear son, Orvas!<BR>\r\n<BR>\r\nHas the rancher's life been treating you well? I know I have been swarmed with work this last harvest. Anyway, there is something I would like to ask of you. You have to mend your relationship with your brother, Vedam. I know things have been cold between the two of you ever since his ascendance as Duke, well over ten years ago. But brothers should not be so distant for so long! I can understand and empathize with your contempt towards any Imperial station, but deep in your heart, you must know like I do that Vedam's true allegiance lies with Morrowind and its people, not the Empire. I hope you can reach out to him, if only for the sake of your mother.<BR>\r\n<BR>\r\nYour loving mother, Releniah<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

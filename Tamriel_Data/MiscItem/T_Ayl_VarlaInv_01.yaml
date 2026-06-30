@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Ayl_VarlaInv_01
+name: Varla Stone
+script: ''
+mesh: pc\m\pc_misc_varla_01.nif
+icon: pc\m\pc_misc_varla_01I.dds
+data:
+  weight: 10.0
+  value: 1400
+  flags: ''

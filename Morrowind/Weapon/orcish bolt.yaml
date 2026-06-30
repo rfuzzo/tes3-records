@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: orcish bolt
+name: Orcish Bolt
+script: ''
+mesh: w\W_Bolt_orcish.NIF
+icon: w\tx_bolt_orcish.tga
+enchanting: ''
+data:
+  weight: 0.15
+  value: 4
+  weapon_type: Bolt
+  health: 10
+  speed: 1.0
+  reach: 1.0
+  enchantment: 24
+  chop_min: 1
+  chop_max: 6
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

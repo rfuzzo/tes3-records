@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_He_Basket_03
+name: Basket
+script: ''
+mesh: sum\m\sum_misc_basket_03.nif
+icon: sum\m\sum_misc_basket_03.dds
+data:
+  weight: 2.0
+  value: 5
+  flags: ''

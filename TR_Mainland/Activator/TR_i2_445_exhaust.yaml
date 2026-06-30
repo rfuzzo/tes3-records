@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_i2_445_exhaust
+name: ''
+script: TR_m2_445_sc_exhaust
+mesh: tr\f\TR_act_nec_uc_grndfx_1.nif

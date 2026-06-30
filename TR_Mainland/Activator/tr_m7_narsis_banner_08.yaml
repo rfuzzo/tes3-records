@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: tr_m7_narsis_banner_08
+name: The Purple Lantern
+script: OutsideBanner
+mesh: tr\f\tr_act_banner_inn_03.nif

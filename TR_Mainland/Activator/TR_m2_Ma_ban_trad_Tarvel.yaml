@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m2_Ma_ban_trad_Tarvel
+name: 'Tarvel Drenith: Trader'
+script: OutsideBanner
+mesh: f\Furn_bannerD_goods_01.NIF

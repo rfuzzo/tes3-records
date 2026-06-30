@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Glb_Sound_Wind_Howl
+name: 'Sound Effect: Howling Wind'
+script: T_ScSound_WindHowl
+mesh: EditorMarker.NIF

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_Painting_UNI_Laeca
+name: Saint Laeca Witnessing Dibella
+script: ''
+mesh: pc\m\PC_M_Painting_Laeca.nif
+icon: pc\m\PC_M_Painting_Laeca.dds
+data:
+  weight: 17.0
+  value: 1500
+  flags: ''

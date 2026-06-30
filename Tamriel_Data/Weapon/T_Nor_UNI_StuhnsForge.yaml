@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Nor_UNI_StuhnsForge
+name: Stuhn's Forge
+script: ''
+mesh: Sky\w\sky_uni_stuhn_forge.nif
+icon: sky\w\sky_w_stuhn_forge.dds
+enchanting: T_Strike_StuhnForge
+data:
+  weight: 50.0
+  value: 100000
+  weapon_type: BluntOneHand
+  health: 1500
+  speed: 1.0
+  reach: 1.0
+  enchantment: 600
+  chop_min: 10
+  chop_max: 50
+  slash_min: 5
+  slash_max: 40
+  thrust_min: 4
+  thrust_max: 5
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

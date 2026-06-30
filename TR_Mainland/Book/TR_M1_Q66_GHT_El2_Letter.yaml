@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_M1_Q66_GHT_El2_Letter
+name: Letter to Bal Gernak
+script: ''
+mesh: m\Text_Scroll_01.NIF
+icon: m\Tx_scroll_open_01.tga
+enchanting: ''
+text: ''
+data:
+  weight: 0.2
+  value: 10
+  book_type: Scroll
+  skill: None
+  enchantment: 0

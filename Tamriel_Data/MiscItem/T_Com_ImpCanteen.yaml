@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_ImpCanteen
+name: Imperial Canteen
+script: ''
+mesh: tr\m\tr_misc_imp_canteen.nif
+icon: tr\m\tr_misc_imp_canteen.dds
+data:
+  weight: 3.0
+  value: 3
+  flags: ''

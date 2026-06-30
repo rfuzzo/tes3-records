@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: sc_bloodynote_s
+name: A Blood-Stained Note
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nS,<BR>\r\n<BR>\r\nHere is the equipment I told you about. Remember, the weak deserve no mercy.<BR>\r\n<BR>\r\n-- E<BR>\r\n<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

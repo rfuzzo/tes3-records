@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_wolfsbane_01
+name: Wolfsbane Petals
+script: ''
+mesh: n\Ingred_BM_wolfsbane_01.NIF
+icon: n\Tx_ingred_wolfsbane_01.dds
+data:
+  weight: 0.1
+  value: 5
+  effects:
+  - RestoreAttribute
+  - Invisibility
+  - DrainAttribute
+  - DrainMagicka
+  skills:
+  - Block
+  - None
+  - Block
+  - None
+  attributes:
+  - Intelligence
+  - None
+  - Endurance
+  - None

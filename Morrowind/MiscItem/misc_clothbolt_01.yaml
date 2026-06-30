@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: misc_clothbolt_01
+name: Bolt of Cloth
+script: ''
+mesh: f\Furn_clothbolt_01.NIF
+icon: m\Tx_clothbolt_01.tga
+data:
+  weight: 25.0
+  value: 50
+  flags: ''

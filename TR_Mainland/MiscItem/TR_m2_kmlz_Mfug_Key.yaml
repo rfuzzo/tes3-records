@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m2_kmlz_Mfug_Key
+name: Unmarked Dwemer Key
+script: ''
+mesh: TR\m\TR_Key_DD18.NIF
+icon: m\Tx_key_standard_01.tga
+data:
+  weight: 0.0
+  value: 300
+  flags: KEY

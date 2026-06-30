@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: AB_sc_mapVvVivec
+name: Map of Vivec
+script: ''
+mesh: OAAB\m\mapVivec.nif
+icon: OAAB\m\map.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<IMG SRC=\"vivecregion_377_253.dds\" WIDTH=\"506\" HEIGHT=\"253\"><BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n3E 426<BR>\r\nCartographer Tuvene Arethan, Imperial Commission, Castle Ebonheart<BR>"
+data:
+  weight: 0.2
+  value: 50
+  book_type: Scroll
+  skill: None
+  enchantment: 0

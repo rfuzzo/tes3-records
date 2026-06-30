@@ -1,0 +1,41 @@
+type: Container
+flags: ''
+id: TR_i2_238_chest_healer
+name: Wooden Chest
+script: ''
+mesh: o\Contain_De_Chest_02.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 20
+  - l_m_potion_h
+- - -1
+  - p_cure_blight_s
+- - -1
+  - p_cure_common_s
+- - -1
+  - p_cure_paralyzation_s
+- - -1
+  - p_cure_poison_s
+- - -1
+  - p_restore_agility_q
+- - -1
+  - p_restore_endurance_q
+- - -1
+  - p_restore_fatigue_q
+- - -1
+  - p_restore_health_q
+- - -1
+  - p_restore_intelligence_q
+- - -1
+  - p_restore_luck_q
+- - -1
+  - p_restore_magicka_q
+- - -1
+  - p_restore_personality_q
+- - -1
+  - p_restore_speed_q
+- - -1
+  - p_restore_strength_q
+- - -1
+  - p_restore_willpower_q

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_PewterKettle
+name: Pewter Kettle
+script: ''
+mesh: OAAB\m\pewterKettle.nif
+icon: OAAB\m\pewterKettle.tga
+data:
+  weight: 2.5
+  value: 40
+  flags: ''

@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m7_zernital_spawn_prox
+name: ''
+script: TR_m7_zernital_spawn_prox_scr
+mesh: EditorMarker.nif

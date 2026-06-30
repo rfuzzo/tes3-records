@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: azura_star_unique
+name: Azura's Star
+script: ''
+mesh: w\W_Art_AzuraStar .NIF
+icon: w\tx_art_azura_star.tga
+enchanting: ''
+data:
+  weight: 4.0
+  value: 1
+  weapon_type: MarksmanThrown
+  health: 1200
+  speed: 1.0
+  reach: 1.0
+  enchantment: 100
+  chop_min: 1
+  chop_max: 5
+  slash_min: 1
+  slash_max: 5
+  thrust_min: 1
+  thrust_max: 5
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

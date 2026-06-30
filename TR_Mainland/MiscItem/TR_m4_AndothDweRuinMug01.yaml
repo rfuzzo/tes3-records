@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m4_AndothDweRuinMug01
+name: Dwemer Mug
+script: TR_m4_AndothDweBarMug_scp
+mesh: m\misc_dwrv_mug00.nif
+icon: m\misc_dwrv_mug00.tga
+data:
+  weight: 2.0
+  value: 10
+  flags: ''

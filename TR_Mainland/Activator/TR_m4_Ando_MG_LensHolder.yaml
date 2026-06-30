@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_Ando_MG_LensHolder
+name: Focus Lens Receptaculum
+script: TR_m4_Ando_MG_8_FocusLensFix
+mesh: pc\l\pc_com_chandelier_01f.nif

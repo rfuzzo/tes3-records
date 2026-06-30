@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: TR_i3-280_a_ProvocativeHelm
+name: Provocative Helmet
+script: ''
+mesh: TR\a\TR_a_Iron_Helm1_3.nif
+icon: TR\a\TR_a_iron_helm_03.dds
+enchanting: TR_i3-280_Provoke
+biped_objects:
+- biped_object_type: Head
+  male_bodypart: T_A_ComIronHelm02_Hd
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 5.0
+  value: 30
+  health: 100
+  enchantment: 25
+  armor_rating: 10

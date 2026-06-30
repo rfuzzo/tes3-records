@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_We_BonewareBowl_01
+name: Boneware Bowl
+script: ''
+mesh: VA\m\va_m_We_bowl.nif
+icon: va\m\va_m_We_bowl.dds
+data:
+  weight: 1.0
+  value: 2
+  flags: ''

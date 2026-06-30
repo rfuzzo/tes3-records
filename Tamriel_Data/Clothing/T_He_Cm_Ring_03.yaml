@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_He_Cm_Ring_03
+name: Common Ring
+script: ''
+mesh: sum\c\sum_c_cmring_03.nif
+icon: sum\c\sum_c_cmring_03.dds
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 2
+  enchantment: 10

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Rga_Yoku_Halberd_01
+name: Yoku Halberd
+script: ''
+mesh: pc\w\pc_rga_yoku_halbrd.nif
+icon: pc\w\pc_rga_yoku_halbrd.dds
+enchanting: ''
+data:
+  weight: 14.0
+  value: 165
+  weapon_type: SpearTwoWide
+  health: 1000
+  speed: 1.1
+  reach: 1.8
+  enchantment: 50
+  chop_min: 7
+  chop_max: 25
+  slash_min: 1
+  slash_max: 4
+  thrust_min: 5
+  thrust_max: 12
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE | SILVER

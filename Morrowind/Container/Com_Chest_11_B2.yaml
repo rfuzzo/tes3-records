@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: Com_Chest_11_B2
+name: Worn Chest
+script: ''
+mesh: o\contain_chest10.nif
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - 50
+  - random gold
+- - 1
+  - random_expensive_de_fclothes_02
+- - 1
+  - l_b_amulets

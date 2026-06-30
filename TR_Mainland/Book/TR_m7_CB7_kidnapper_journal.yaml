@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_CB7_kidnapper_journal
+name: Bandit Chief's Ledger
+script: ''
+mesh: tr\m\tr_book_notebk_05.nif
+icon: tr\m\tr_book_closed_ntbk05.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This ledger shows received payments for live prisoners from someone only identified as G.M. in the margins.]\r\n<BR>"
+data:
+  weight: 0.5
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 0

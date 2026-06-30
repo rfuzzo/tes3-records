@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_w_BoneArrow10x
+name: Bone Arrow (10)
+script: AB_QuiverBone10x_s
+mesh: OAAB\w\quiver_bone.nif
+icon: OAAB\w\tx_w_bone_arrow.dds
+data:
+  weight: 1.5
+  value: 20
+  flags: ''

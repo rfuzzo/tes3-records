@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_OE_notefromson
+name: Letter from Ertius
+script: ''
+mesh: m\Text_paper_roll_01.nif
+icon: m\Tx_paper_roll_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nDear Mother and Father,<BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nI hope this first letter home reaches you both on time. Well, what can I say about life in the Legion? One day in Cyrodiil and already so much to tell you. I'm happy to say that the journey across the border was quite uneventful, so no need to worry, mother, I am as safe as if I were home in my own bed. \r\n<BR>\r\nThe Legion provides everything I need here. The rest of the recruits and I have our own wing in the barracks, and there is plenty of food. So far the rations have been decent enough, but nothing compared to your cooking, mother. Which reminds me, thanks again for the delicious biscuits you gave me for the trip!\r\n<BR>\r\nWell, that's about it for now. I need to rest because tomorrow we rise very early to begin our daily training regimen. I can't wait to get started! I'll keep you both posted and try to write regularly.\r\n<BR>\r\n<BR>\r\nLove you both,\r\n<BR>\r\nErtius\r\n<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_ArmunHide_01
+name: Armun Kagouti Hide
+script: ''
+mesh: tr\n\tr_ing_armunkag_hide.nif
+icon: tr\n\tr_ing_armun_kagouti.dds
+data:
+  weight: 1.0
+  value: 25
+  effects:
+  - ResistNormalWeapons
+  - RestoreMagicka
+  - ResistFire
+  - WeaknessToFrost
+  skills:
+  - None
+  - Block
+  - None
+  - None
+  attributes:
+  - None
+  - Endurance
+  - None
+  - None

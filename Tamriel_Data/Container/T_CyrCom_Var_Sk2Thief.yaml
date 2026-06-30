@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: T_CyrCom_Var_Sk2Thief
+name: Cloth Sack
+script: ''
+mesh: o\Contain_Com_Sack_02.NIF
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - T_Cyr_Random_Lockpick
+- - 1
+  - T_Cyr_Random_Probe

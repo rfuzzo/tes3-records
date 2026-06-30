@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Ce_Bronze_Gpesh_01
+name: Bronze Claymore
+script: ''
+mesh: pi\w\pi_w_bronze_gpesh_01.nif
+icon: pi\w\PI_w_bronze_gpesh01.dds
+enchanting: ''
+data:
+  weight: 20.0
+  value: 200
+  weapon_type: LongBladeTwoClose
+  health: 980
+  speed: 1.25
+  reach: 1.0
+  enchantment: 34
+  chop_min: 1
+  chop_max: 23
+  slash_min: 1
+  slash_max: 23
+  thrust_min: 1
+  thrust_max: 3
+  flags: ''

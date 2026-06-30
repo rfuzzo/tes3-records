@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_Card_01
+name: The Journey
+script: ''
+mesh: pc\m\pc_misc_card_01.nif
+icon: pc\m\pc_misc_card_01.dds
+data:
+  weight: 0.1
+  value: 1
+  flags: ''

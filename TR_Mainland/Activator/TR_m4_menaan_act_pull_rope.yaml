@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m4_menaan_act_pull_rope
+name: Pull Rope
+script: TR_m4_menaan_int_8_script
+mesh: f\Furn_De_Rope_07.nif

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: bk_talostreason
+name: Note from Oritius Maro
+script: ''
+mesh: m\Text_Parchment_01.NIF
+icon: m\Tx_parchment_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThere are rumors that Uriel will be visiting Vvardenfell in person. If so, we must act sooner than anticipated. We must watch his actions carefully and strike if the opportunity presents itself. We must also recruit more and swear them to the oath: That we shall die to put a strong man back on the throne of Tamriel.<BR>\r\n<BR>\r\nBurn this note.<BR>\r\n<BR>\r\nOritius<BR>\r\n"
+data:
+  weight: 0.2
+  value: 1000
+  book_type: Scroll
+  skill: None
+  enchantment: 0

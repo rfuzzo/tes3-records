@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: misc_dwrv_artifact60
+name: Dwemer Tube
+script: ''
+mesh: m\misc_dwrv_artifact60.nif
+icon: m\misc_dwrv_artifact60.tga
+data:
+  weight: 0.5
+  value: 40
+  flags: ''

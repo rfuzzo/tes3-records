@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Com_SetSky_SignWayDunbar_01
+name: Dunbarrow
+script: ''
+mesh: sky\x\sky_act_rsign_dunba1.nif

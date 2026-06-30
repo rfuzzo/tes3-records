@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_De_ThirrBonemold_Bracer_01_L
+name: Iuvan-Thir Bonemold L Bracer
+script: ''
+mesh: tr\a\tr_a_Thirr_Br.nif
+icon: tr\a\tr_a_thirr_br.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: LeftWrist
+  male_bodypart: T_A_DeThirrBonemoldBracer1
+  female_bodypart: ''
+data:
+  armor_type: LeftBracer
+  weight: 4.0
+  value: 50
+  health: 75
+  enchantment: 16
+  armor_rating: 15

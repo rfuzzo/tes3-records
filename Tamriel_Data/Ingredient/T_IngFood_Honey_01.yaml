@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_Honey_01
+name: Honey
+script: ''
+mesh: Sky\n\Sky_Ingred_Honeycomb.nif
+icon: Sky\n\Tx_Ingred_Honeycombs.dds
+data:
+  weight: 0.2
+  value: 10
+  effects:
+  - RestoreFatigue
+  - DrainAttribute
+  - FortifyAttribute
+  - CureCommonDisease
+  skills:
+  - None
+  - Block
+  - Block
+  - None
+  attributes:
+  - None
+  - Agility
+  - Speed
+  - None

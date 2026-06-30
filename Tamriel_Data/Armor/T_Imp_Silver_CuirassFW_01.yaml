@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Imp_Silver_CuirassFW_01
+name: Duchess' Guard Silver Cuirass
+script: LegionUniform
+mesh: tr\a\tr_a_silver_FW_cui_gnd.nif
+icon: tr\a\tr_a_imp_fw_cuir.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_A_ImpSilverCuirassFW01_C
+  female_bodypart: ''
+data:
+  armor_type: Cuirass
+  weight: 30.0
+  value: 250
+  health: 600
+  enchantment: 160
+  armor_rating: 20

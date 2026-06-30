@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: TR_i2_445_GreenLight
+name: ''
+script: ''
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 1100
+  color:
+  - 3
+  - 184
+  - 134
+  - 0
+  flags: DYNAMIC | FLICKER_SLOW

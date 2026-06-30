@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Furn_DwrvCohererCharger_a
+name: Mysterious Power Mechanism
+script: AB_DwrvCohererCharger_s
+mesh: OAAB\u\dwrvActCohererCharge.nif

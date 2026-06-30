@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_And_Temple_Button
+name: Button
+script: TR_m4_And_Temple_Button_sc
+mesh: x\ex_gg_gateswitch_01.nif

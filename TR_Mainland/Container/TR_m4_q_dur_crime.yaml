@@ -1,0 +1,9 @@
+type: Container
+flags: PERSISTENT
+id: TR_m4_q_dur_crime
+name: Sack 'o Crime
+script: ''
+mesh: o\Contain_Com_Sack_02.NIF
+encumbrance: 0.0
+container_flags: IS_BASE
+inventory: []

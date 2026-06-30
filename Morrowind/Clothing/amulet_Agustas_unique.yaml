@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: amulet_Agustas_unique
+name: Augustus' Amulet
+script: ''
+mesh: c\Amulet_Extravagant_1.NIF
+icon: c\tx_amulet_extrav1.tga
+enchanting: augustusamulet_en_unique
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 240
+  enchantment: 600

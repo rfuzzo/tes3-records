@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_GoldDish_01
+name: Gold Dish
+script: ''
+mesh: tr\m\tr_misc_de_gold_dish.nif
+icon: tr\m\tr_misc_de_gold_dish.dds
+data:
+  weight: 2.0
+  value: 5
+  flags: ''

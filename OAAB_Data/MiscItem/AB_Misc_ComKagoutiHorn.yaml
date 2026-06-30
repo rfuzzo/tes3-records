@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_ComKagoutiHorn
+name: Kagouti Drinking Horn
+script: ''
+mesh: OAAB\m\kagoutiHorn.nif
+icon: OAAB\m\kagoutiHorn.tga
+data:
+  weight: 5.0
+  value: 15
+  flags: ''

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: Misc_Com_Bottle_11_float
+name: ''
+script: Float
+mesh: m\Misc_Com_Bottle_11.NIF

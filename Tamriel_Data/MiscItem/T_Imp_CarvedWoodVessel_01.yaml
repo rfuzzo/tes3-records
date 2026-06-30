@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_CarvedWoodVessel_01
+name: Imperial Carved Wood Vessel
+script: ''
+mesh: pc\m\pc_misc_imp_crv_wd_ves.nif
+icon: pc\m\pc_misc_imp_crv_wd_ves.dds
+data:
+  weight: 2.0
+  value: 20
+  flags: ''

@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_Com_Furn_LampBlackRed02_256
+name: ''
+script: ''
+mesh: pc\l\pc_com_lamp_02_blackR.nif
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 256
+  color:
+  - 255
+  - 15
+  - 2
+  - 0
+  flags: DYNAMIC | FIRE | FLICKER_SLOW

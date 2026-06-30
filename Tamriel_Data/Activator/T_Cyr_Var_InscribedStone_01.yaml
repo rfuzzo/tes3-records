@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Cyr_Var_InscribedStone_01
+name: Stone with inscriptions
+script: ''
+mesh: pc\f\pc_inscrstone_01.nif

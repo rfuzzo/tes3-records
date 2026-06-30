@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: TR_m4_TT_SpawnBittergreen
+name: Bittergreen Petals
+script: TR_m4_TT_SpawnBittergreen_sc
+mesh: n\Ingred_Bittergreen_01.nif
+icon: n\Tx_bittergreen_petal_01.tga
+data:
+  weight: 0.1
+  value: 5
+  effects:
+  - RestoreAttribute
+  - Invisibility
+  - DrainAttribute
+  - DrainMagicka
+  skills:
+  - Block
+  - None
+  - Block
+  - None
+  attributes:
+  - Intelligence
+  - None
+  - Endurance
+  - None

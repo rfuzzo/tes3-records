@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_Narsis FG Note 1
+name: District head
+script: ''
+mesh: tr\tr_note_pin.nif
+icon: default icon.dds
+enchanting: ''
+text: ''
+data:
+  weight: 0.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 0

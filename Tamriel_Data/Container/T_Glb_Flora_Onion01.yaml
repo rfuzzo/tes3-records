@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Glb_Flora_Onion01
+name: Onion
+script: ''
+mesh: Sky\o\Sky_Flora_Onion_01.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - T_Glb_Random_FlorOnion

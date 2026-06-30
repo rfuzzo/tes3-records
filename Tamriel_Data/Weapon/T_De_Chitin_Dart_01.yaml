@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_De_Chitin_Dart_01
+name: Chitin Dart
+script: ''
+mesh: tr\w\tr_w_chitin_dart.nif
+icon: tr\w\tr_w_chitin_dart.dds
+enchanting: ''
+data:
+  weight: 0.2
+  value: 4
+  weapon_type: MarksmanThrown
+  health: 40
+  speed: 1.0
+  reach: 1.0
+  enchantment: 7
+  chop_min: 1
+  chop_max: 3
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: ''

@@ -1,0 +1,27 @@
+type: Container
+flags: ''
+id: TR_m3_OE_arnulf_crate
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Nor_Iron_Boots_01
+- - 1
+  - T_Nor_Iron_GauntletL_01
+- - 1
+  - T_Nor_Iron_GauntletR_01
+- - 1
+  - T_Nor_Iron_Greaves_01
+- - 1
+  - T_Nor_Trollbone_Boots_01
+- - 1
+  - T_Nor_Trollbone_Greaves_01
+- - 1
+  - nordic_iron_cuirass
+- - 1
+  - nordic_iron_helm
+- - 1
+  - nordic_ringmail_cuirass

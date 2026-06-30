@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_In_KwamaTowerForager_a
+name: ''
+script: AB_KwamaForagerPeek_s
+mesh: OAAB\i\kwama_forager_twr01.nif

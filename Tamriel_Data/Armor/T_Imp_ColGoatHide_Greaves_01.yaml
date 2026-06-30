@@ -1,0 +1,25 @@
+type: Armor
+flags: ''
+id: T_Imp_ColGoatHide_Greaves_01
+name: Colovian Goat Hide Greaves
+script: ''
+mesh: pc\a\pc_a_cologoat_grv_gnd.nif
+icon: pc\a\pc_a_goathide_greav.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: LeftUpperLeg
+  male_bodypart: T_A_ImpColGoatGreaves01_UL
+  female_bodypart: ''
+- biped_object_type: RightUpperLeg
+  male_bodypart: T_A_ImpColGoatGreaves01_UL
+  female_bodypart: ''
+- biped_object_type: Groin
+  male_bodypart: T_A_ImpColGoatGreaves01_G
+  female_bodypart: ''
+data:
+  armor_type: Greaves
+  weight: 7.0
+  value: 26
+  health: 50
+  enchantment: 10
+  armor_rating: 6

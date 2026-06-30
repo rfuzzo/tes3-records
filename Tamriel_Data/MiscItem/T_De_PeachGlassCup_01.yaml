@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_PeachGlassCup_01
+name: Peach Glass Cup
+script: ''
+mesh: tr\m\tr_misc_pea_cup01.nif
+icon: tr\m\tr_misc_pea_cup01.dds
+data:
+  weight: 1.0
+  value: 3
+  flags: ''

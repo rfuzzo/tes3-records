@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_bk_i4-410_note
+name: Note
+script: ''
+mesh: m\Text_paper_roll_01.nif
+icon: m\Tx_paper_roll_01.tga
+enchanting: ''
+text: "<FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><DIV ALIGN=\"LEFT\"><BR><BR>\r\nYou don't mess with the Tong and live to talk about it for long. Watch your back. Killing you might be more challenging then. Wish you luck on the run, though we will catch you anyways.<BR>\r\n<BR>\r\nYour friend,<BR>\r\nTedril.<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Rga_ClayBowl_02
+name: Clay Bowl
+script: ''
+mesh: hf\m\hf_misc_rga_ClBowl_02.nif
+icon: hf\m\hf_misc_rga_ClBowl_02.dds
+data:
+  weight: 1.0
+  value: 2
+  flags: ''

@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: ac_furn_rug_colony
+name: ''
+script: ColonyRugTrap
+mesh: f\Furn_rug_big_04_Collision.nif

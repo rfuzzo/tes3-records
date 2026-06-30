@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_Fascicle13PC
+name: Fascicle 54-59
+script: ''
+mesh: pc\m\PC_bk_Book_10.nif
+icon: pc\m\pc_bk_book_10.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe Testament of the Church-Mothers<BR>\r\nFascicle 54-59<BR>\r\nDivine Convention<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\n54. From the highest place the spirit of Akatosh did descend to grace the earth and situations with his presence, his solidity. As a spire he came down from on high, penetrating the skin of the earth, and at the foot of this needle the gods and spirits did convene.<BR>\r\n<BR>\r\n55. And there were many voices raised in song, then, for though almost all was lost to the gods, still they delighted in their work, where many laid down to become the earth, and many flew aloft to become the air, and many remembered and became the waters.<BR>\r\n<BR>\r\n56. So the Divines laid down their work and weary bones, there they gathered and spoke of joy and dismay, for some were joyful and some despaired, and of the latter there were none as despondent as the gods of the Elves, who had been in opposition since the beginning, as is their nature and predestination, but had readily gave themselves to the crucible, as was their nature and predestination.<BR>\r\n<BR>\r\n57. There they fell upon the spirit Shezzar, and rent its clothes and broke its spear, and accosted it.<BR>\r\n<BR>\r\n58. And they spoke, and called Shezzar great liar, and vile trickster, and evil deceiver, for ever they who speak great truth are called liar, and trickster, and deceiver. Great truth is much worse than great lies, a heavier burden, as it grieves the widow, pains the sick, kills the dying man. There was rent the heart and there was spilled the first of blood, there did grow the first of flowers, come from the ground dark and wet with the blood Divine. There the first of murder did take place, though not the last.<BR>\r\n<BR>\r\n59. And the gods and spirits averted their eyes, knowing that this was to be.<BR>\r\n<BR>"
+data:
+  weight: 4.0
+  value: 300
+  book_type: Book
+  skill: Marksman
+  enchantment: 0

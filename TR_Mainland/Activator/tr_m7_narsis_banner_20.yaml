@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: tr_m7_narsis_banner_20
+name: 'Edrys Nethalen: Fine Clothier'
+script: OutsideBanner
+mesh: f\Furn_bannerD_clothing_01.nif

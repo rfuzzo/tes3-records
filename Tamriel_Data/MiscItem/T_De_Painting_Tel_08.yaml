@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_Painting_Tel_08
+name: The Hive
+script: ''
+mesh: tr\m\TR_M_Painting_Tel_08.nif
+icon: tr\m\TR_M_Painting_Tel_08.dds
+data:
+  weight: 14.0
+  value: 550
+  flags: ''

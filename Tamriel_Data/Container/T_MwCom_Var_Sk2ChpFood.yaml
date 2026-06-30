@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_MwCom_Var_Sk2ChpFood
+name: Cloth Sack
+script: ''
+mesh: o\Contain_Com_Sack_02.nif
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Mw_Random_CheapfoodDunmerM1/2

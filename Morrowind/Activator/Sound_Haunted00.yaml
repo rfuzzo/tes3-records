@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: Sound_Haunted00
+name: Sound_Haunted00
+script: Sound_Haunted
+mesh: EditorMarker.NIF

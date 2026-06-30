@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_HrBre_FurnM_Cl1Empty
+name: Closet
+script: ''
+mesh: hr\o\hr_furn_bre_m_closet01.nif
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Glb_Empty

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: bk_6thhouseravings
+name: Parchment with Scrawlings
+script: ''
+mesh: m\Text_Parchment_02.nif
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nALL CRIES ARE WAKING!<BR>\r\nWhitest White of all White!<BR>\r\nBlackest Blacks of all Blacks!<BR>\r\nShame and Son, Sun, and Shadow!<BR>\r\n<BR>\r\nStronger than gods, brighter than mortals!<BR>\r\nOnly He is Awake!<BR>\r\nOnly He is Alive!<BR>\r\n<BR>\r\nHe Knows the Names and the Naming!<BR>\r\nHe Knows the Wait and the Waiting!<BR>\r\nHe Enters into every Star and Moon!<BR>\r\nHe Shines through their Shadows!<BR>\r\n<BR>\r\nOne Shape, One Spelling!<BR>\r\nOne Wraith, One Casting!<BR>\r\nFrom Darkness, He is Armed!<BR>\r\nFrom Light, He is Warded!<BR>\r\n<BR>\r\nHe is All Things!<BR>\r\nDrake! Liche! Theomen!<BR>\r\nOn rivers of fire he comes forth!<BR>\r\nThrough storms of dreams he rides!<BR>\r\nWith slivers of steel he pierces the Heart!<BR>\r\n<BR>\r\nAll Spells, Powers, Curses Broken!<BR>\r\nThe Chains are Shattered!<BR>\r\nThe Scales Fall Away!<BR>\r\n<BR>\r\nI see you with MY EYE!<BR>\r\nAnd all is SILENCE!<BR>\r\nI Wake! I Remember!<BR>\r\nLORD!<BR>\r\n"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

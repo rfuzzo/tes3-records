@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_De_SetShin_BannerH_01
+name: ''
+script: OutsideBanner
+mesh: tr\x\tr_ex_shin_h_banner.nif

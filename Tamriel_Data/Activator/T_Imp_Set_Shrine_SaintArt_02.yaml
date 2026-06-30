@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_Set_Shrine_SaintArt_02
+name: Shrine of St. Ghoeto
+script: T_ScObj_ShrineSaintArtPC
+mesh: pc\x\pc_ex_wshrn_06.nif

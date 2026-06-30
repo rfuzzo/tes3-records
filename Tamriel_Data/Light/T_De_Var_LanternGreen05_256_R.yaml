@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_De_Var_LanternGreen05_256_R
+name: ''
+script: SignRotate
+mesh: TR\l\tr_l_de_paplant_grn_01.nif
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 256
+  color:
+  - 25
+  - 180
+  - 140
+  - 0
+  flags: DYNAMIC

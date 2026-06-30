@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_We_Wenbone_Dagger_01
+name: Wenbone Dagger
+script: ''
+mesh: va\w\va_w_wenbone_dagger.nif
+icon: va\w\va_w_wenbone_dagger.dds
+enchanting: ''
+data:
+  weight: 3.5
+  value: 30
+  weapon_type: ShortBladeOneHand
+  health: 420
+  speed: 2.0
+  reach: 1.0
+  enchantment: 24
+  chop_min: 4
+  chop_max: 7
+  slash_min: 4
+  slash_max: 7
+  thrust_min: 5
+  thrust_max: 9
+  flags: ''

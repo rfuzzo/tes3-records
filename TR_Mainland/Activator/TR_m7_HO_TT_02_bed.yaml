@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m7_HO_TT_02_bed
+name: Bed
+script: TR_m7_HO_TT_02_bed_scr
+mesh: f\Active_De_Bed_10.NIF

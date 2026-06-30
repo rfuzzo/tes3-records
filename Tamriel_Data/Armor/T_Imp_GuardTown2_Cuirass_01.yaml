@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Imp_GuardTown2_Cuirass_01
+name: Kalantar Mail Cuirass
+script: ''
+mesh: pc\a\pc_a_guardarmorchc_g.nif
+icon: pc\a\PC_A_GuardCuirassCH.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_A_ImpGuardTown2Cuir01_C
+  female_bodypart: T_A_ImpGuardTown2Cuir01_CF
+data:
+  armor_type: Cuirass
+  weight: 19.0
+  value: 100
+  health: 350
+  enchantment: 150
+  armor_rating: 13

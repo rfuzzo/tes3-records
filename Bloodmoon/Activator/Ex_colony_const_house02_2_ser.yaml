@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: Ex_colony_const_house02_2_ser
+name: ''
+script: ColonyServSmithConst
+mesh: x\Ex_colony_const_house02.NIF

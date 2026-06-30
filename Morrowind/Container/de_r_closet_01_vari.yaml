@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: de_r_closet_01_vari
+name: Closet
+script: ''
+mesh: o\Contain_De_Closet_01.NIF
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory:
+- - -4
+  - l_m_enchantitem_redoran_rank8
+- - -6
+  - l_m_enchantitem_redoran_rank6
+- - -6
+  - l_m_enchantitem_redoran_rank4
+- - -4
+  - l_m_enchantitem_redoran_rank2

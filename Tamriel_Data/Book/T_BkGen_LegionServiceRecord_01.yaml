@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_BkGen_LegionServiceRecord_01
+name: Legion Service Records
+script: ''
+mesh: pc\m\PC_bk_Book_06.nif
+icon: pc\m\pc_bk_book_06.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<DIV ALIGN=\"LEFT\"><BR>[An exhaustive record of all Legion soldiers who entered service in a certain cohort, noting their age, place of birth, time served, conduct, and, sometimes, date of death. Starting from the Simulacrum period, the record becomes patchy and incomplete.]<BR>"
+data:
+  weight: 3.0
+  value: 5
+  book_type: Book
+  skill: None
+  enchantment: 0

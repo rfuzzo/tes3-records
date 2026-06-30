@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_CardMiscRed_01
+name: 'Redoran Noble: House Father'
+script: ''
+mesh: tr\m\tr_misc_card_r_noble.nif
+icon: tr\m\tr_misc_card_r_noble.dds
+data:
+  weight: 0.02
+  value: 20
+  flags: ''

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: BM nordic silver axe_spurius
+name: Nordic Axe of Paralysis
+script: ''
+mesh: w\W_Nord_waraxe.NIF
+icon: w\Nord_waraxe.dds
+enchanting: paralysis weapon
+data:
+  weight: 32.0
+  value: 2000
+  weapon_type: AxeOneHand
+  health: 2000
+  speed: 1.25
+  reach: 1.0
+  enchantment: 65
+  chop_min: 8
+  chop_max: 42
+  slash_min: 8
+  slash_max: 28
+  thrust_min: 3
+  thrust_max: 8
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE | SILVER

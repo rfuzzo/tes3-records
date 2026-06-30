@@ -1,0 +1,12 @@
+type: Apparatus
+flags: ''
+id: AB_App_EbAlembic
+name: Ebony Alembic
+script: ''
+mesh: OAAB\m\rem_ebony_alembic.nif
+icon: OAAB\m\rem_ebony_alembic.dds
+data:
+  apparatus_type: Alembic
+  quality: 2.2
+  weight: 6.0
+  value: 4000

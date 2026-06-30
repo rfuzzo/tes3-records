@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: Act_banner_Tel_Mora
+name: Tel Mora
+script: OutsideBanner
+mesh: f\Act_banner_Tel_Mora.nif

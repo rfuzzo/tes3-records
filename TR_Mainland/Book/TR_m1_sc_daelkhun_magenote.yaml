@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_sc_daelkhun_magenote
+name: A Torn Note
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\n[Most of what is written is unreadable, but you can make out three words throughout the entire note: \".... .... chest .... .... bal .... .... .... daelkhun\"]<BR>\r\n<BR>\r\n"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

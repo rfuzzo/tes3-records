@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_NotebookTempClose_05
+name: <Template Notebook>
+script: ''
+mesh: tr\m\tr_book_notebk_05.nif
+icon: tr\m\tr_book_closed_ntbk05.dds
+enchanting: ''
+text: ''
+data:
+  weight: 0.5
+  value: 10
+  book_type: Book
+  skill: None
+  enchantment: 0

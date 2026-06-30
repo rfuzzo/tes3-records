@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Bellman_30
+name: CRAZY CULTIST CAUSES COMMOTION
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_note_oe_news.nif
+icon: tr\m\tr_note_oe_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\TR_bellman_512_256.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nCRAZY CULTIST CAUSES COMMOTION<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nRecently, there has been some uproar amongst the members of the native Tribunal Temple about something called a \"Nerevarine\". Apparently, an insane adventurer who only recently arrived in Morrowind is now claiming to fulfill a sacrilegious prophecy. This has caused a great stir among Temple devotees, with many priests calling for the outlander's immediate arrest and execution. The situation leaves this humble reporter wondering: if it is forbidden to fulfill, why have a prophecy in the first place? In any case, Ebon Tower officials have assured us that this is not the first case of such a \"prophecy claimant\". Taking this into account, the situation is sure to calm down and things should return to normal in a manner of weeks, at most.<br><br>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

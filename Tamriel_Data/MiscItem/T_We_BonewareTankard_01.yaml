@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_We_BonewareTankard_01
+name: Boneware Tankard
+script: ''
+mesh: VA\m\va_m_We_tankard.nif
+icon: va\m\va_m_We_tankard.dds
+data:
+  weight: 1.6
+  value: 4
+  flags: ''

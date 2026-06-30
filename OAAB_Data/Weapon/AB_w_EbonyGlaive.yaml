@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_EbonyGlaive
+name: Ebony Glaive
+script: ''
+mesh: OAAB\w\ebony_glaive.nif
+icon: OAAB\w\w_ebony_glaive.tga
+enchanting: ''
+data:
+  weight: 28.0
+  value: 10000
+  weapon_type: SpearTwoWide
+  health: 2000
+  speed: 1.0
+  reach: 1.8
+  enchantment: 100
+  chop_min: 1
+  chop_max: 22
+  slash_min: 6
+  slash_max: 28
+  thrust_min: 2
+  thrust_max: 10
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

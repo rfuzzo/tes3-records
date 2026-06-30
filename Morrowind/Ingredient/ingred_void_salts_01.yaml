@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_void_salts_01
+name: Void Salts
+script: ''
+mesh: n\Ingred_Void_Salts_01.nif
+icon: n\Tx_void_salts_01.tga
+data:
+  weight: 0.1
+  value: 100
+  effects:
+  - RestoreMagicka
+  - SpellAbsorption
+  - Paralyze
+  - DrainAttribute
+  skills:
+  - Block
+  - Block
+  - Block
+  - Block
+  attributes:
+  - Strength
+  - Strength
+  - Strength
+  - Endurance

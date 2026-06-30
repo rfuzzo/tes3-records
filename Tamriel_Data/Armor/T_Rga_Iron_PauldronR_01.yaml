@@ -1,0 +1,22 @@
+type: Armor
+flags: ''
+id: T_Rga_Iron_PauldronR_01
+name: Iron Right Pauldron
+script: ''
+mesh: hf\A\hf_a_iron_pldrn_gnd_1.nif
+icon: hf\A\hf_a_iron_pldrn_1.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: RightPauldron
+  male_bodypart: T_A_RgaIronPldr01_Cl
+  female_bodypart: ''
+- biped_object_type: RightUpperArm
+  male_bodypart: T_A_RgaIronPldr01_UA
+  female_bodypart: ''
+data:
+  armor_type: RightPauldron
+  weight: 10.0
+  value: 24
+  health: 100
+  enchantment: 20
+  armor_rating: 10

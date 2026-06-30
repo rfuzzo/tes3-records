@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Dae_UNI_Wabbajack
+name: Wabbajack
+script: ''
+mesh: TR\w\tr_w_wabbajack.nif
+icon: tr\w\tr_w_wabbajack.dds
+enchanting: ''
+data:
+  weight: 14.0
+  value: 12000
+  weapon_type: BluntTwoWide
+  health: 750
+  speed: 1.75
+  reach: 1.8
+  enchantment: 9000
+  chop_min: 2
+  chop_max: 12
+  slash_min: 3
+  slash_max: 13
+  thrust_min: 1
+  thrust_max: 6
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

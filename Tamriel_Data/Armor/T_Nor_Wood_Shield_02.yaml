@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Nor_Wood_Shield_02
+name: Round Shield
+script: ''
+mesh: Sky\a\Sky_A_Nord_RShield_02.nif
+icon: Sky\a\Tx_Nord_RShield_02.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Shield
+  male_bodypart: T_A_NorWoodShield02_S
+  female_bodypart: ''
+data:
+  armor_type: Shield
+  weight: 11.0
+  value: 35
+  health: 180
+  enchantment: 120
+  armor_rating: 10

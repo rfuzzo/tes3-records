@@ -1,0 +1,25 @@
+type: Container
+flags: ''
+id: TR_m7_Narsis_spicechest
+name: Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_IngSpice_Anise_01
+- - 1
+  - T_IngSpice_Cardamon_01
+- - 2
+  - T_IngSpice_Curcuma_01
+- - 2
+  - T_IngSpice_Hibiscus_01
+- - 1
+  - T_IngSpice_Muscat_01
+- - 1
+  - T_IngSpice_Nigella_01
+- - 5
+  - T_IngSpice_Pepper_01
+- - 3
+  - T_IngSpice_Saffron_01

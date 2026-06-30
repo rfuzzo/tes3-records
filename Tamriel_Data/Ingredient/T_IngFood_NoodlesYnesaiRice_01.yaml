@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_NoodlesYnesaiRice_01
+name: Noodles
+script: ''
+mesh: pi\n\pi_ing_noodlesrice.nif
+icon: pi\n\pi_ing_noodlesrice.dds
+data:
+  weight: 0.1
+  value: 2
+  effects:
+  - RestoreFatigue
+  - None
+  - None
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

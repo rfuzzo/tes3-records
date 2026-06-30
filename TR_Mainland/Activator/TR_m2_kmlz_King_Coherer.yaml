@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m2_kmlz_King_Coherer
+name: Dwemer Coherer
+script: TR_m2_kmlz_King_PowerOn_sc
+mesh: m\misc_dwrv_artifact50.nif

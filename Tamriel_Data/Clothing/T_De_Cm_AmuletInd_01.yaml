@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_De_Cm_AmuletInd_01
+name: Indoril Amulet
+script: ''
+mesh: TR\c\TR_ind amulet.NIF
+icon: TR\c\TR_c_ind_amulet.dds
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 0.5
+  value: 10
+  enchantment: 10

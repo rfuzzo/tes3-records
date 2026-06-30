@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: Sound_BM_Ice
+name: Sound_BM_Ice
+script: Sound_BM_IceSheet
+mesh: EditorMarker.NIF

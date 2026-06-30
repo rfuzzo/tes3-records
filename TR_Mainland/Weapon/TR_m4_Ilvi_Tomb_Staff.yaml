@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m4_Ilvi_Tomb_Staff
+name: Staff of the Blessed Velkherd
+script: ''
+mesh: w\W_wooden_staff.nif
+icon: w\Tx_wooden_staff.tga
+enchanting: TR_m4_Ilvi_Staff_EN
+data:
+  weight: 8.0
+  value: 12000
+  weapon_type: BluntTwoWide
+  health: 700
+  speed: 1.75
+  reach: 1.8
+  enchantment: 1000
+  chop_min: 1
+  chop_max: 2
+  slash_min: 1
+  slash_max: 2
+  thrust_min: 1
+  thrust_max: 2
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

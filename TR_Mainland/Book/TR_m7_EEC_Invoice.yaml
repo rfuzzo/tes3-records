@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: TR_m7_EEC_Invoice
+name: EEC Invoice
+script: ''
+mesh: m\Text_Parchment_02.nif
+icon: m\Tx_scroll_open_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe East Empire Trading Company<BR>\r\n<BR>\r\nFor immediate delivery to:<BR>\r\n<BR>\r\nHlaalu Council Company<BR>\r\nof Narsis in Morrowind.<BR>\r\n<BR>\r\n<BR>\r\nConfirming the requested Thirty (30) bales of Moth-Silk are ready for collection at the East Empire Company warehouse. Please provide funds within the agreed 30 days. \r\n<BR>\r\n[Rogatus has added a long, pedantic missive on harbor fees relating to various Cyrodillic goods, exceptions for imperial appointed delegates and the impact of various holy days on local stevedore availability.]\r\n<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 100

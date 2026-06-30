@@ -1,0 +1,25 @@
+type: Armor
+flags: ''
+id: T_Imp_GuardTown2_PauldrR_01
+name: Kalantar Right Pauldron
+script: ''
+mesh: pc\a\pc_a_guardarmorchp_g.nif
+icon: pc\a\PC_A_GuardPauldronCH.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: RightPauldron
+  male_bodypart: T_A_ImpGuardtown2Pauldr01_Cl
+  female_bodypart: ''
+- biped_object_type: RightUpperArm
+  male_bodypart: T_A_ImpGuardtown2Pauldr01_UA
+  female_bodypart: ''
+- biped_object_type: RightForearm
+  male_bodypart: T_A_ImpGuardtown2Pauldr01_Fa
+  female_bodypart: ''
+data:
+  armor_type: RightPauldron
+  weight: 7.0
+  value: 50
+  health: 130
+  enchantment: 20
+  armor_rating: 13

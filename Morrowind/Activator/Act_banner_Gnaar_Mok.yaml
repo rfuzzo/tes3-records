@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: Act_banner_Gnaar_Mok
+name: Gnaar Mok
+script: OutsideBanner
+mesh: f\Act_banner_Gnaar_Mok.nif

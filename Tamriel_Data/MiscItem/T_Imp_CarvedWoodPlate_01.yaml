@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_CarvedWoodPlate_01
+name: Imperial Carved Wood Plate
+script: ''
+mesh: pc\m\pc_misc_imp_crv_wd_plt.nif
+icon: pc\m\pc_misc_imp_crv_wd_plt.dds
+data:
+  weight: 2.0
+  value: 15
+  flags: ''

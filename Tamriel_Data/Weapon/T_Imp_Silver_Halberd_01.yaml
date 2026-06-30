@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Imp_Silver_Halberd_01
+name: Silver Halberd
+script: ''
+mesh: tr\w\tr_w_silver_halberd.nif
+icon: tr\w\tr_w_silver_halberd.dds
+enchanting: ''
+data:
+  weight: 18.6
+  value: 240
+  weapon_type: SpearTwoWide
+  health: 800
+  speed: 1.0
+  reach: 1.8
+  enchantment: 45
+  chop_min: 1
+  chop_max: 4
+  slash_min: 1
+  slash_max: 4
+  thrust_min: 5
+  thrust_max: 23
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE | SILVER

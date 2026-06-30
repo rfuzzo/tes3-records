@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: de_p_chest_02_ebony1
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 4
+  - ingred_raw_ebony_01

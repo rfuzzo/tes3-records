@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_SkyCom_Var_Cr5WsbiRt
+name: Crate
+script: ''
+mesh: Sky\o\Sky_Cont_Crate_05.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 3
+  - T_Glb_Random_FlorWasabiRoot

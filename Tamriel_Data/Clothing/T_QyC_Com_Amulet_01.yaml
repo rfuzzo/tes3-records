@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_QyC_Com_Amulet_01
+name: Common Amulet
+script: ''
+mesh: pi\m\pi_c_qc_amulet_01.nif
+icon: pi\c\pi_c_qc_amulet_01.dds
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 2
+  enchantment: 10

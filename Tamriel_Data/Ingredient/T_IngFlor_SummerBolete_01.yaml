@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_SummerBolete_01
+name: Summer Bolete Cap
+script: ''
+mesh: pc\n\pc_ing_summerb.nif
+icon: pc\n\pc_tx_ingred_summerb.dds
+data:
+  weight: 0.1
+  value: 2
+  effects:
+  - RestoreAttribute
+  - Shield
+  - DamageAttribute
+  - DamageAttribute
+  skills:
+  - Block
+  - None
+  - Block
+  - Block
+  attributes:
+  - Agility
+  - None
+  - Personality
+  - Endurance

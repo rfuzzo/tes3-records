@@ -1,0 +1,76 @@
+type: Alchemy
+flags: ''
+id: T_Com_Potion_DaedricIchor_E
+name: Daedric Ichor
+script: ''
+mesh: m\Misc_Potion_Exclusive_01.nif
+icon: m\Tx_potion_exclusive_01.tga
+effects:
+- magic_effect: BoundHelm
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 1
+  max_magnitude: 1
+- magic_effect: BoundCuirass
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 1
+  max_magnitude: 1
+- magic_effect: BoundGloves
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 1
+  max_magnitude: 1
+- magic_effect: DrainHealth
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 1
+  max_magnitude: 1
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Endurance
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 25
+  max_magnitude: 25
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Strength
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 25
+  max_magnitude: 25
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Willpower
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 25
+  max_magnitude: 25
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Agility
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 25
+  max_magnitude: 25
+data:
+  weight: 0.25
+  value: 1500
+  flags: ''

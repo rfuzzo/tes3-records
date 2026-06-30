@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: iron sparkmauler
+name: Iron Sparkmauler
+script: ''
+mesh: w\w_warhammer_iron.nif
+icon: w\Tx_warhammer_iron.tga
+enchanting: spark_enu
+data:
+  weight: 32.0
+  value: 62
+  weapon_type: BluntTwoClose
+  health: 2000
+  speed: 1.0
+  reach: 1.5
+  enchantment: 55
+  chop_min: 1
+  chop_max: 28
+  slash_min: 1
+  slash_max: 24
+  thrust_min: 1
+  thrust_max: 2
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

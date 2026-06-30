@@ -1,0 +1,22 @@
+type: Armor
+flags: ''
+id: bonemold_gah-julan_pauldron_l
+name: Gah-Julan Bonemold L Pauldron
+script: ''
+mesh: a\A_Bonemold_Gah_J_UA_GND.nif
+icon: a\TX_Bonemold_Gah_Julan_Pau.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: LeftUpperArm
+  male_bodypart: a_bonemold_gah_julan_ua
+  female_bodypart: ''
+- biped_object_type: LeftPauldron
+  male_bodypart: a_bonemold_gah_julan_cl
+  female_bodypart: ''
+data:
+  armor_type: LeftPauldron
+  weight: 8.0
+  value: 140
+  health: 170
+  enchantment: 16
+  armor_rating: 17

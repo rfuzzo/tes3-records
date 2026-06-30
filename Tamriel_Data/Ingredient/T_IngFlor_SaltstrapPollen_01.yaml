@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_SaltstrapPollen_01
+name: Saltstrap Pollen
+script: ''
+mesh: TR\n\tr_ing_saltpollen_01.nif
+icon: TR\n\tr_ing_saltpollen_01.dds
+data:
+  weight: 0.1
+  value: 5
+  effects:
+  - Paralyze
+  - LightningShield
+  - DisintegrateArmor
+  - ShockDamage
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

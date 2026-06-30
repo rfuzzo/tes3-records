@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_RedemptionTR_V3
+name: Redemption Volume III
+script: ''
+mesh: TR\m\TR_book_closed_i05_AY.nif
+icon: TR\m\TR_book_closed_i05_AY.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nRedemption Volume III <BR>\r\nUnknown <BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nVertius awoke to the sound of weeping. He tried to move his head to examine his surroundings, but the attempt sent waves of pain echoing through him.<BR>\r\n<BR>\r\nHe was lying in an unfamiliar bed. The linen sheets felt strange to him, accustomed to years of coarse wool. He resolved to find the source of the crying, and with a great effort managed to lever himself into a semi-upright position.<BR>\r\n<BR>\r\nA girl of no more than eight years was sitting in a chair at the foot of the bed. Their eyes met and a connection was formed between the two. Her eyes were obscured by tears, but in them he could see deep pools of sadness. This child had an age far beyond that of her few years. She looked away and the connection between the two was broken.<BR>\r\n<BR>\r\nThen the pain of his injuries overcame him once more and he drifted back into a feverish sleep. As he slept, dreams came to him that he could not begin to comprehend. He was visited by images of the moon, its eerie glow awaking in him feelings in him that were both frightening and exciting.<BR>\r\n<BR>\r\nHe woke with a start, his body drenched in sweat and his mind enveloped in foreboding. Something was wrong; he could feel the absence of Mara from his mind. There was a gaping hole in his soul, one that he could not fill. The images of moonlight that still assailed him had driven his god way from him. For the first time, Vertius felt truly alone.<BR>\r\n<BR>\r\nHe spent the day lying in his bed pondering what could have brought about this change. The absence that filled him left him lying in his bed, unwilling and unable to move. A desire for something was still haunting him, but still couldn't pinpoint it.<BR>\r\n<BR>\r\nThe next night was the same as before.<BR>\r\n<BR>\r\nAgain the moonlight shone into his soul and once again he awoke with that terrible emptiness inside. This time the desire that he felt was in the form of a terrible thirst, one that could not be sated.<BR>"
+data:
+  weight: 1.5
+  value: 40
+  book_type: Book
+  skill: None
+  enchantment: 100

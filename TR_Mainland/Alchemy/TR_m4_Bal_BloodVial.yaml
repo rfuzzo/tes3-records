@@ -1,0 +1,36 @@
+type: Alchemy
+flags: ''
+id: TR_m4_Bal_BloodVial
+name: Vial of Blood
+script: ''
+mesh: m\Misc_Potion_Exclusive_01.nif
+icon: m\Tx_potion_exclusive_01.tga
+effects:
+- magic_effect: RestoreHealth
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 10
+  min_magnitude: 2
+  max_magnitude: 2
+- magic_effect: FortifyHealth
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 40
+  max_magnitude: 40
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Strength
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 10
+  max_magnitude: 10
+data:
+  weight: 0.5
+  value: 10
+  flags: ''

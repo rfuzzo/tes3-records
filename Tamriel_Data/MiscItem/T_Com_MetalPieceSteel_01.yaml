@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_MetalPieceSteel_01
+name: Steel Ingot
+script: ''
+mesh: tr\m\tr_misc_bar_steel_01.nif
+icon: tr\m\tr_misc_steel_ingot_01.dds
+data:
+  weight: 8.0
+  value: 75
+  flags: ''

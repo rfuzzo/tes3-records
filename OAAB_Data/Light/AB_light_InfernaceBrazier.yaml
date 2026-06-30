@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: AB_light_InfernaceBrazier
+name: ''
+script: ''
+mesh: OAAB\l\infernaceBrazier.nif
+icon: ''
+sound: Fire 50
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 300
+  color:
+  - 244
+  - 153
+  - 51
+  - 0
+  flags: DYNAMIC | FIRE | FLICKER_SLOW

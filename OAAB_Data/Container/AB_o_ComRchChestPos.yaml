@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: AB_o_ComRchChestPos
+name: Chest
+script: ''
+mesh: OAAB\o\comRchChest.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - AB_lvl_LootSpecial
+- - 2
+  - AB_lvl_PosExpensiveAll

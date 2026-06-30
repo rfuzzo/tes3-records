@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_Tsa_Var_Brazier02_Off
+name: ''
+script: ''
+mesh: pi\l\tsa_l_brazier_02_off.nif
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 16
+  color:
+  - 0
+  - 0
+  - 0
+  - 0
+  flags: ''

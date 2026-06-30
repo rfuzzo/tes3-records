@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: sc_blackscorn
+name: Scroll of Black Scorn
+script: ''
+mesh: m\text_scroll_01.nif
+icon: m\tx_scroll_open_01.tga
+enchanting: sc_blackscorn_en
+text: <DIV ALIGN="center"><FONT COLOR="000000" SIZE="2" FACE="Daedric">DEATH AND DESTRUCTION TO YOUR ENEMIES</FONT><BR>
+data:
+  weight: 0.2
+  value: 134
+  book_type: Scroll
+  skill: None
+  enchantment: 0

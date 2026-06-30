@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_AbMonitor_24
+name: BLACK ISLE CO. UP AMIDST DOUBTS
+script: T_ScNews_Bellman_Paper
+mesh: pc\m\pc_text_note_anv_news.nif
+icon: pc\m\pc_text_note_anv_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"PC\\pc_abmonitor.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nNEW TRADING COMPANY EXPLODES IN VALUE AMIDST SERIOUS DOUBTS<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nMiracle or mirage? The streets of Anvil have been buzzing with talk of the Black Isle Company, a distributor of goods from Vvardenfell island which has made waves off the back of a seemingly endless stock run. The mania surrounding the company has grown to the point where brokers speak of paupers, some with the very clothes falling off their backs, demanding a share of the company in exchange for what little they have to their name. Indeed, to hear some speak of it, the Black Isle Company seems not to be a company at all, but an infinite font of wealth by which one can convert even a small sum into a fortune. This all begs a simple question: what has it done to earn its success?<BR><BR>\r\nIn an effort to shed light on the situation, the Monitor sat down with a Black Isle Company representative for a few questions. Sadly, answers were not forthcoming. Over the course of the interview, the representative made several fundamental errors about the company's history and failed to provide any coherent image of what, exactly, its day-to-day operations look like -- save that they must be chaotic. How else could it be that the Company's designated spokesperson knows so little about its most basic facets?<BR><BR>\r\nIt can only be said that the Black Isle Company appears to be all tremors and no eruption; a con job staffed by smooth-talkers who know nothing; in all respects, a sham. And while the Monitor's readers are encouraged to make their own financial decisions, they are also cautioned to remember that what goes up must eventually come back down.<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_MARK_Kha'RajiPC
+name: Kha'Raji
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: ''
+enchanting: ''
+text: "During \"Letter to Kha'Raji\" TR-PC integration quest, Kha'Raji moves from his home in Anvil (in PC) to this marker in Firewatch College (in TR).\r\nNPC ID: PC_m1_KhaRaji\r\nPosition Cell in Walks-Through-Shadow's dialogue results - topic \"letter to Kha'Raji\""
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

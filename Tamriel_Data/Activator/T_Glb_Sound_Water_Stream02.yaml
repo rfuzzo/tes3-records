@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Glb_Sound_Water_Stream02
+name: Sound_Water_Stream02
+script: T_ScSound_Watr_Stream2
+mesh: EditorMarker.NIF

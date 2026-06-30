@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: ex_r_pcfort_lockedd_01
+name: ''
+script: Strong1_Construct
+mesh: d\Ex_redoran_hut_01_a.nif

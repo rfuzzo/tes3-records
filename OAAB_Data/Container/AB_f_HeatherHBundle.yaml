@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: AB_f_HeatherHBundle
+name: Heather
+script: ''
+mesh: OAAB\o\HeatherHBundle.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 4
+  - ingred_heather_01

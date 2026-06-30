@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m1_FW_ShrineTaldeus
+name: Shrine of St. Taldeus
+script: T_ScObj_ShrineSaintWarPC
+mesh: pc\x\pc_ex_wshrn_05.nif

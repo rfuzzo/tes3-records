@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_FW_Palace_HouseholdRecord
+name: Ducal Household Records
+script: ''
+mesh: tr\m\tr_book_tomebk_04.nif
+icon: tr\m\tr_book_closed_tome04.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>[This hefty logbook, written in neat, crisp handwriting, details years of expenses, hiring records, and shift rotations for the household staff of Ember Keep. The earliest records, which date back more than thirty years, describe similar information about the household of King Aulus of Delodiil.]\r\n<BR>"
+data:
+  weight: 8.0
+  value: 30
+  book_type: Book
+  skill: None
+  enchantment: 0

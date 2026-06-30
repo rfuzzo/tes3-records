@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_ViperBugloss_01
+name: Viper Bugloss Leaves
+script: ''
+mesh: pc\n\pc_ing_vbugloss.nif
+icon: pc\n\pc_tx_ingred_vbugloss.dds
+data:
+  weight: 0.1
+  value: 3
+  effects:
+  - ResistParalysis
+  - NightEye
+  - Burden
+  - CureParalyzation
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

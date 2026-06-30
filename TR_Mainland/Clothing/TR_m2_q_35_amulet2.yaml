@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m2_q_35_amulet2
+name: Amulet of Resistance
+script: ''
+mesh: TR\c\TR_ind amulet.NIF
+icon: TR\c\TR_c_ind_amulet.dds
+enchanting: TR_m2_q_35_amulet_en
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 500
+  enchantment: 600

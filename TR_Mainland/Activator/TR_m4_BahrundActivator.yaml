@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_BahrundActivator
+name: Keeper of Velothi
+script: TR_m4_BahrundActivator_scp
+mesh: tr\w\tr_w_adamant_staff.nif

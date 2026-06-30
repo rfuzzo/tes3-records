@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_Key_03
+name: Silver Key
+script: ''
+mesh: TR\m\TR_key_DD02.NIF
+icon: TR\m\TR_Key_DD02.dds
+data:
+  weight: 0.0
+  value: 0
+  flags: ''

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2_sonnote_i2-413-tri
+name: Tear Stained Note
+script: ''
+mesh: m\Text_Note_02.nif
+icon: m\Tx_note_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nFather<BR>\r\n<BR>\r\nI know it was your dying wish for me to follow in your footsteps as Theraso followed in Uncle Uviro's footsteps. Father, I cannot pretend to be someone I am not. My destiny does not lie in the mines of Morrowind, but in the schools of Cyrodiil. I leave you this note because I want you to know that I will always keep you in my heart, my father, but your wish can not and will not steer my destiny. The archmage of the Guild of Mages has recommended me to the Arcane University in the Imperial City. Father, I cannot as our forefathers have done for centuries, work in the mines until I cannot breathe or cannot walk without pain. My destiny will be in becoming a great Dunmer battlemage. When I have found my destiny, I will return to your graveside and will show you who I truly am.<BR>\r\n<BR>\r\nYour Son<BR>\r\n<BR>\r\nFerulas<BR>\r\n"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 100

@@ -1,0 +1,23 @@
+type: Clothing
+flags: ''
+id: frosteater robe
+name: Frosteater Robe
+script: ''
+mesh: c\C_M_Robe_Extrav_1t_GND.NIF
+icon: c\tx_robe_extrav_1t.tga
+enchanting: frosteater robe_en
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: c_m_robe_extrav_1t
+  female_bodypart: ''
+- biped_object_type: LeftAnkle
+  male_bodypart: ''
+  female_bodypart: ''
+- biped_object_type: RightAnkle
+  male_bodypart: ''
+  female_bodypart: ''
+data:
+  clothing_type: Robe
+  weight: 2.0
+  value: 463
+  enchantment: 300

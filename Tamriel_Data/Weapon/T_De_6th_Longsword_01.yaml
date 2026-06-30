@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_De_6th_Longsword_01
+name: Sixth House Longsword
+script: ''
+mesh: tr\w\tr_w_6th_longsword.nif
+icon: tr\w\tr_w_6th_longsword.dds
+enchanting: ''
+data:
+  weight: 21.0
+  value: 4800
+  weapon_type: LongBladeOneHand
+  health: 2000
+  speed: 1.35
+  reach: 1.0
+  enchantment: 152
+  chop_min: 10
+  chop_max: 24
+  slash_min: 8
+  slash_max: 30
+  thrust_min: 6
+  thrust_max: 21
+  flags: ''

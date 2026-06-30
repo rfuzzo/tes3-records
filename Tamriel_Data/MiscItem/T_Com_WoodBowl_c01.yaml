@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_WoodBowl_c01
+name: Bowl
+script: ''
+mesh: tr\m\tr_misc_wood_bowl_c01.nif
+icon: TR\m\tr_misc_wood_bowl_c01.dds
+data:
+  weight: 2.0
+  value: 2
+  flags: ''

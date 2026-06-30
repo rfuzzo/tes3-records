@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: AB_r_SturgeonLayCut
+name: Sturgeon
+script: ''
+mesh: OAAB\o\sturgeonLayCut.nif
+encumbrance: 0.0
+container_flags: ORGANIC | IS_BASE
+inventory:
+- - 2
+  - AB_lvl_IngCreaSturgeon

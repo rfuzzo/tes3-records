@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_De_UNI_MantisFlip_TR
+name: Ring of Mantis Flip
+script: ''
+mesh: c\C_Ring_common02.NIF
+icon: c\tx_ring_common02.tga
+enchanting: T_Use_RingMantisFlip
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 20000
+  enchantment: 940

@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_i3-709_barrel_comber
+name: Barrel
+script: ''
+mesh: o\contain_barrel10.nif
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 10
+  - random_comberry

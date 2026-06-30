@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: AB_sc_mapValenSummerset
+name: Map of Valenwood and Summerset
+script: ''
+mesh: OAAB\m\mapValenSummerset.nif
+icon: OAAB\m\map.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<IMG SRC=\"valenwood_377_253.tga\" WIDTH=\"377\" HEIGHT=\"253\"><BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\n3E 417<BR>\r\nSenior Cartographer Geoffrey Rinmaut, Imperial Geographical Society, Imperial City<BR>"
+data:
+  weight: 0.2
+  value: 50
+  book_type: Scroll
+  skill: None
+  enchantment: 0

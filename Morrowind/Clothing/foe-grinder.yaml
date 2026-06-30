@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: foe-grinder
+name: Foe-Grinder
+script: ''
+mesh: c\C_Ring_common05.NIF
+icon: c\tx_ring_common05.tga
+enchanting: foe-grinder_EN
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 500
+  enchantment: 100

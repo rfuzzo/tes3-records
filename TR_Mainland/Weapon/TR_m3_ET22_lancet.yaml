@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m3_ET22_lancet
+name: Lancet
+script: ''
+mesh: sky\w\Sky_embalm_knife.nif
+icon: sky\w\tx_embalm_knife.dds
+enchanting: ''
+data:
+  weight: 1.0
+  value: 14
+  weapon_type: ShortBladeOneHand
+  health: 70
+  speed: 2.5
+  reach: 1.0
+  enchantment: 25
+  chop_min: 1
+  chop_max: 2
+  slash_min: 1
+  slash_max: 6
+  thrust_min: 2
+  thrust_max: 4
+  flags: ''

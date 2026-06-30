@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngMine_OreTin_01
+name: Raw Tin
+script: ''
+mesh: tr\n\tr_ing_tin.nif
+icon: tr\n\tr_ing_tin.dds
+data:
+  weight: 2.5
+  value: 7
+  effects:
+  - ResistCommonDisease
+  - FortifyAttribute
+  - FortifyAttackBonus
+  - Burden
+  skills:
+  - None
+  - Block
+  - None
+  - None
+  attributes:
+  - None
+  - Endurance
+  - None
+  - None

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: puzzle canal stairs
+name: ''
+script: puzzlecanal
+mesh: i\In_V_L_int_stairs_03.nif

@@ -1,0 +1,37 @@
+type: Container
+flags: PERSISTENT
+id: TR_m2_q_29_FGchest
+name: Fighters' Guild Equipment Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 300.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 25
+  - dire flame bolt
+- - 25
+  - dire flamearrow
+- - 10
+  - hammer_repair
+- - 5
+  - p_fortify_health_s
+- - 5
+  - p_restore_fatigue_q
+- - 5
+  - p_restore_fatigue_s
+- - 5
+  - p_restore_health_q
+- - 5
+  - p_restore_health_s
+- - 10
+  - repair_journeyman_01
+- - 3
+  - repair_master_01
+- - 50
+  - silver arrow
+- - 50
+  - silver bolt
+- - 100
+  - steel arrow
+- - 100
+  - steel bolt

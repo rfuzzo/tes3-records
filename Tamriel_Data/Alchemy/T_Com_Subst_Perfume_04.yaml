@@ -1,0 +1,20 @@
+type: Alchemy
+flags: ''
+id: T_Com_Subst_Perfume_04
+name: Rose Oil
+script: ''
+mesh: pc\m\pc_perfume_04.nif
+icon: pc\m\pc_perfume_04.dds
+effects:
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Personality
+  range: OnSelf
+  area: 0
+  duration: 90
+  min_magnitude: 25
+  max_magnitude: 25
+data:
+  weight: 0.8
+  value: 70
+  flags: ''

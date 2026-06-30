@@ -1,0 +1,17 @@
+type: Clothing
+flags: ''
+id: T_Nor_Cm_Skirt_01
+name: Common Skirt
+script: ''
+mesh: Sky\c\Sky_C_SKRT_01_GND.nif
+icon: Sky\c\Tx_c_sk_01.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Skirt
+  male_bodypart: T_C_NorCmSkirt01_G
+  female_bodypart: ''
+data:
+  clothing_type: Skirt
+  weight: 2.0
+  value: 4
+  enchantment: 20

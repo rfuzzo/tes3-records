@@ -1,0 +1,28 @@
+type: Alchemy
+flags: ''
+id: T_Imp_Drink_CiderAliyew_01
+name: Aliyew
+script: ''
+mesh: pc\m\pc_misc_aliyev.nif
+icon: pc\m\pc_aliyew_icon.dds
+effects:
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Luck
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 15
+  max_magnitude: 15
+- magic_effect: DrainAttribute
+  skill: None
+  attribute: Willpower
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 10
+  max_magnitude: 10
+data:
+  weight: 1.0
+  value: 25
+  flags: ''

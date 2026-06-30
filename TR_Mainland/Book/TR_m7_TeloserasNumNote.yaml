@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_TeloserasNumNote
+name: NumNote
+script: ''
+mesh: tr\tr_note_pin.nif
+icon: default icon.dds
+enchanting: ''
+text: "The number of beds supports up to 15 inhabitants (the guy in the propylon chamber has their own). The bunkbeds could be swapped out if less than this is needed.\r\n\r\nSome of the bedrooms can be used as cells for captured caravaners, which would be a good quest target."
+data:
+  weight: 0.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 0

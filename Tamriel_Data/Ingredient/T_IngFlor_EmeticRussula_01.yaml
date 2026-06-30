@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_EmeticRussula_01
+name: Emetic Russula Cap
+script: ''
+mesh: pc\n\pc_ingred_emerticR.nif
+icon: pc\n\pc_tx_ingred_emertic.dds
+data:
+  weight: 0.1
+  value: 1
+  effects:
+  - RestoreAttribute
+  - Shield
+  - DamageAttribute
+  - DamageAttribute
+  skills:
+  - Block
+  - None
+  - Block
+  - Block
+  attributes:
+  - Agility
+  - None
+  - Personality
+  - Endurance

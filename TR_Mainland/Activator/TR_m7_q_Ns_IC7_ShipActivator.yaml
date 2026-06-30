@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m7_q_Ns_IC7_ShipActivator
+name: ''
+script: TR_m7_Ns_IC7_ship_sc
+mesh: editormarker.nif

@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m3_FM_Skeleton_01
+name: Corpse
+script: TR_NecMQ_SeherbalDestrScript
+mesh: o\contain_corpse20.NIF
+encumbrance: 120.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - ingred_bonemeal_01

@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: light_de_paper_lantern_128_01
+name: ''
+script: ''
+mesh: l\Light_paper_lantern_01.NIF
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 128
+  color:
+  - 245
+  - 140
+  - 40
+  - 0
+  flags: DYNAMIC | FLICKER_SLOW

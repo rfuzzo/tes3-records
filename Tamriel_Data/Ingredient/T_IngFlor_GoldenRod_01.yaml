@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_GoldenRod_01
+name: Goldenrod Seed Pod
+script: ''
+mesh: pc\n\PC_Ingred_GRod.nif
+icon: pc\n\pc_tx_ingred_grod.dds
+data:
+  weight: 0.1
+  value: 5
+  effects:
+  - RestoreAttribute
+  - WaterBreathing
+  - Silence
+  - Light
+  skills:
+  - Block
+  - None
+  - None
+  - None
+  attributes:
+  - Strength
+  - None
+  - None
+  - None

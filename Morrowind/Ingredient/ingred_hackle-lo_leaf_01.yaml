@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_hackle-lo_leaf_01
+name: Hackle-Lo Leaf
+script: ''
+mesh: n\Ingred_Hackle-Lo_01.nif
+icon: n\Tx_hackle-lo_01.tga
+data:
+  weight: 0.1
+  value: 30
+  effects:
+  - RestoreFatigue
+  - Paralyze
+  - WaterBreathing
+  - RestoreAttribute
+  skills:
+  - Block
+  - Block
+  - Block
+  - Block
+  attributes:
+  - Strength
+  - Strength
+  - Strength
+  - Luck

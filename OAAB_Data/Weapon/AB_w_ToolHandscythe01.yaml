@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_ToolHandscythe01
+name: Farmer's Hand Scythe
+script: ''
+mesh: OAAB\w\hand_scythe01.nif
+icon: OAAB\w\tool_handscythe01.tga
+enchanting: ''
+data:
+  weight: 5.0
+  value: 18
+  weapon_type: ShortBladeOneHand
+  health: 200
+  speed: 2.0
+  reach: 1.2
+  enchantment: 15
+  chop_min: 4
+  chop_max: 8
+  slash_min: 5
+  slash_max: 9
+  thrust_min: 1
+  thrust_max: 2
+  flags: ''

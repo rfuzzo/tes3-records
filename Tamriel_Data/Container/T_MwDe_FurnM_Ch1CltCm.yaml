@@ -1,0 +1,23 @@
+type: Container
+flags: ''
+id: T_MwDe_FurnM_Ch1CltCm
+name: Chest
+script: ''
+mesh: tr\o\tr_furn_de_rm_chest.nif
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Com_Cm_Skirt_01
+- - 1
+  - T_De_Cm_Shirt_01
+- - 1
+  - common_pants_02
+- - 1
+  - common_shirt_05
+- - 1
+  - common_shirt_06
+- - 1
+  - common_shoes_04
+- - 1
+  - common_skirt_02

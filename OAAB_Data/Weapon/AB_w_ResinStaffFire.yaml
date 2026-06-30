@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_ResinStaffFire
+name: Resin Staff of Incineration
+script: ''
+mesh: OAAB\w\resin_staff.nif
+icon: OAAB\w\w_resin_staff.tga
+enchanting: AB_w_ResinStaffFire_en
+data:
+  weight: 11.0
+  value: 1500
+  weapon_type: BluntTwoWide
+  health: 500
+  speed: 1.75
+  reach: 1.8
+  enchantment: 5000
+  chop_min: 2
+  chop_max: 14
+  slash_min: 3
+  slash_max: 14
+  thrust_min: 1
+  thrust_max: 14
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

@@ -1,0 +1,12 @@
+type: Apparatus
+flags: ''
+id: AB_App_EbFlask
+name: Ebony Flask
+script: ''
+mesh: OAAB\m\rem_ebony_flask.nif
+icon: OAAB\m\rem_ebony_flask.dds
+data:
+  apparatus_type: Retort
+  quality: 2.2
+  weight: 4.0
+  value: 2500

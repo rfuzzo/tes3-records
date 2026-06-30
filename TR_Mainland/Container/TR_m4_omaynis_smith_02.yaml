@@ -1,0 +1,29 @@
+type: Container
+flags: ''
+id: TR_m4_omaynis_smith_02
+name: Crate
+script: ''
+mesh: o\Contain_crate_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Com_Steel_Helm_Open_01
+- - 1
+  - T_De_Chitin_PauldrL_01
+- - 1
+  - T_De_Chitin_PauldrR_01
+- - 1
+  - bonemold_armun-an_pauldron_r
+- - 1
+  - bonemold_cuirass
+- - 1
+  - bonemold_shield
+- - 1
+  - chitin cuirass
+- - 1
+  - chitin greaves
+- - 1
+  - steel_boots
+- - 1
+  - steel_gauntlet_left

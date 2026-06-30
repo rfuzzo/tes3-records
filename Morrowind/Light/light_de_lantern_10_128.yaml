@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: light_de_lantern_10_128
+name: Paper Lantern
+script: ''
+mesh: l\Light_De_Lantern_10.NIF
+icon: l\Light_De_Lantern_10.tga
+sound: ''
+data:
+  weight: 3.0
+  value: 10
+  time: 150
+  radius: 128
+  color:
+  - 0
+  - 166
+  - 255
+  - 0
+  flags: DYNAMIC | CAN_CARRY

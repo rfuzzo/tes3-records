@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: TR_m3-ET2_cont_swtower2
+name: Barrel
+script: ''
+mesh: o\contain_barrel10.nif
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Imp_Legion_RoyalLongsword_01
+- - 1
+  - T_Imp_Silver_Spear_Retribution
+- - 2
+  - repair_master_01

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: bk_notefromernil
+name: Note From Ernil
+script: ''
+mesh: m\Text_Note_02.nif
+icon: m\Tx_note_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nTsiya - <BR>\r\n<BR>\r\nHere's your stuff. Sorry I couldn't stay and chat with you, but it's not always a good idea for me to hang around, you know?<BR>\r\n<BR>\r\n- Ernil<BR>\r\n"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

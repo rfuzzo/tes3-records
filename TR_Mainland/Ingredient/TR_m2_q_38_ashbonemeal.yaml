@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: TR_m2_q_38_ashbonemeal
+name: Contaminated Bonemeal
+script: TR_m2_q_38_s_ashbonemeal
+mesh: n\Ingred_Blonemeal_01.nif
+icon: n\Tx_bonemeal_01.tga
+data:
+  weight: 0.2
+  value: 2
+  effects:
+  - RestoreAttribute
+  - Telekinesis
+  - ResistMagicka
+  - DrainAttribute
+  skills:
+  - Block
+  - None
+  - None
+  - Block
+  attributes:
+  - Agility
+  - None
+  - None
+  - Personality

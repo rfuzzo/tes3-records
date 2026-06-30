@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_TanthaEgg_01
+name: Tantha Egg
+script: ''
+mesh: pc\n\pc_ing_TanthaEgg.nif
+icon: pc\n\pc_tx_ing_tanthaegg.dds
+data:
+  weight: 0.2
+  value: 9
+  effects:
+  - DamageMagicka
+  - ResistParalysis
+  - SlowFall
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

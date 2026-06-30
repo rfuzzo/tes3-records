@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: tr_i2-445_bannershrine_res
+name: Banner of Resdayn
+script: TR_m2_445_resdaynshrine
+mesh: tr\f\tr_furn_bannerres_uni.nif

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: AB_sc_AlchemyRecipe01
+name: Recipe - Gift of Speed
+script: ''
+mesh: m\Text_Scroll_02.nif
+icon: m\Tx_scroll_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nMadam Mary Madrigal's Advanced Alchemical Recipes<BR><BR>\r\n- Gift of Speed -<BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nPotion Effects:<BR>\r\n<BR>\r\nFortify Speed<BR>\r\nRestore Fatigue<BR>\r\n<BR>\r\nThis potion will allow you to run at an accelerated rate without tiring. To make this potion you will need to mix the following ingredients:<BR>\r\n<BR>\r\nMoon Sugar<BR>\r\nKagouti Hide<BR>\r\nHack-Lo Leaf<BR>\r\nSaltrice<BR>\r\n<BR>\r\n<BR>\r\nReduce the kagouti hide in the calcinator for 8 - 10 minutes. The time will vary according to the quality of your apparatus, so you must watch it carefully to make sure it doesn't burn away to nothing.<BR>\r\n<BR>\r\nMoon sugar should be left to distill overnight. Use your retort -- not the alembic -- and make sure you add plenty of water. Crush the hack-lo leaf and saltrice, and mix together until it forms a fine green paste.<BR>\r\n<BR>\r\nAdd the distilled liquid from the moon sugar. When mixing ingredients together, make sure to add the reduced kagouti hide last. The resulting potion should be a translucent dark green.<BR>"
+data:
+  weight: 0.5
+  value: 75
+  book_type: Scroll
+  skill: None
+  enchantment: 20

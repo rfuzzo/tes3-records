@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Rga_MemoryStone_01
+name: Memory Stone
+script: ''
+mesh: pc\m\pc_misc_rga_memost_01.nif
+icon: pc\m\pc_rga_memostone_01.dds
+data:
+  weight: 7.0
+  value: 250
+  flags: ''

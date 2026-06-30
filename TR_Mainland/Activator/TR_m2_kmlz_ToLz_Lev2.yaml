@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m2_kmlz_ToLz_Lev2
+name: Rusted Lever
+script: TR_m2_kmlz_ToLz_Lev2_sc
+mesh: i\act_dwe_lever00.NIF

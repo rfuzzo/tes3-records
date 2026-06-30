@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m7_Ns_StageFright_Sa
+name: Cloth Sack
+script: ''
+mesh: o\Contain_Com_Sack_02.NIF
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - TR_m7_Ns_StageFright_DaraSkull

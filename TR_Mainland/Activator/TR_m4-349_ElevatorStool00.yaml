@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m4-349_ElevatorStool00
+name: ''
+script: TR_m4-349_ElevatorStuff_Sc
+mesh: f\furn_dwrv_stool00.nif

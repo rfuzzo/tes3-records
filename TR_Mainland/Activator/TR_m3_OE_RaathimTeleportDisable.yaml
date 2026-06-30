@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_OE_RaathimTeleportDisable
+name: Raathim Tomb Teleport Disabler
+script: TR_m3_OE_RaathimTeleportScript
+mesh: EditorMarker.NIF

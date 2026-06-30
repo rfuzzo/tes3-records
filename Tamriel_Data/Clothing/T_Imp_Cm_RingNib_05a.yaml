@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Imp_Cm_RingNib_05a
+name: Common Ring
+script: ''
+mesh: pc\c\pc_c_nib_ring_com05a.nif
+icon: pc\c\pc_c_nib_ring_com05a.dds
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 2
+  enchantment: 10

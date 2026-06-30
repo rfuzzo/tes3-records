@@ -1,0 +1,12 @@
+type: RepairItem
+flags: ''
+id: T_Com_Tongs_Repair_01
+name: Metal Tongs
+script: ''
+mesh: tr\m\tr_misc_tongs_01.nif
+icon: tr\m\tr_misc_tongs_01.dds
+data:
+  weight: 3.0
+  value: 5
+  uses: 35
+  quality: 0.45

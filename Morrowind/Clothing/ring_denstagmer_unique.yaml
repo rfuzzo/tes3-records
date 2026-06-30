@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: ring_denstagmer_unique
+name: Denstagmer's Ring
+script: ''
+mesh: c\C_art_Ring_denstagmer.NIF
+icon: c\C_ring_denstagmer.tga
+enchanting: denstagmer's ward
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.3
+  value: 12000
+  enchantment: 100

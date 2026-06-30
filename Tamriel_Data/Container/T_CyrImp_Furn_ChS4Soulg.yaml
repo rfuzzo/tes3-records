@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_CyrImp_Furn_ChS4Soulg
+name: Small Chest
+script: ''
+mesh: pc\o\pc_furn_com_ironbox.nif
+encumbrance: 40.0
+container_flags: IS_BASE
+inventory:
+- - 4
+  - T_Cyr_Lvl_Soulgems

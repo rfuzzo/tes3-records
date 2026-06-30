@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_BkGen_TradeManifest_02
+name: Trade Manifest
+script: ''
+mesh: pc\m\PC_bk_Book_29.nif
+icon: pc\m\pc_bk_book_29.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n[An exhaustive records of a trade shipment, noting the size and weight of all goods.]<BR>"
+data:
+  weight: 1.5
+  value: 2
+  book_type: Book
+  skill: None
+  enchantment: 0

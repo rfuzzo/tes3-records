@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Bre_IronLanternEmpty_01
+name: Iron Lantern
+script: ''
+mesh: hr\m\hr_misc_lanterniron_01.nif
+icon: hr\m\hr_misc_lanterniron_01.dds
+data:
+  weight: 4.5
+  value: 10
+  flags: ''

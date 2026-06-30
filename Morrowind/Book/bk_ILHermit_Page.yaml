@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: bk_ILHermit_Page
+name: Page from History of the Empire
+script: ''
+mesh: m\Text_Note_02.nif
+icon: m\Tx_note_02.tga
+enchanting: ''
+text: "[An unreadable page from \"A Brief History of the Empire\". The volume is unkown.]<BR>\r\n"
+data:
+  weight: 0.0
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 100

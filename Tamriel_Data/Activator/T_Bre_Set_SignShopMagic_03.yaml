@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Bre_Set_SignShopMagic_03
+name: ''
+script: SignRotate
+mesh: hr\f\hr_act_sign_magic_03.nif

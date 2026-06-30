@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m3_MerxiaVendicciRing
+name: Merxia Vendicci's Signet Ring
+script: ''
+mesh: pc\c\pc_Col_Ring_Xp_01_r.nif
+icon: pc\c\pc_col_ringxp01r.dds
+enchanting: feather_en
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 100
+  enchantment: 150

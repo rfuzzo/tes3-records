@@ -1,0 +1,21 @@
+type: Container
+flags: ''
+id: T_Dreu_Furn_Ch5_CyrWpn
+name: Chest
+script: ''
+mesh: tr\o\tr_furn_dreu_chest_05.nif
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - 40
+  - T_Cyr_Lvl_MissilesArrow
+- - 1
+  - T_Cyr_Random_WeaponLegion
+- - 1
+  - T_Cyr_Random_WeaponRedguard
+- - 1
+  - T_Cyr_Random_WeaponSteel
+- - 1
+  - misc_skull00
+- - 20
+  - random gold

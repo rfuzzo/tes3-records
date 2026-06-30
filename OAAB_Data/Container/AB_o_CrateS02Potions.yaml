@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: AB_o_CrateS02Potions
+name: Crate
+script: ''
+mesh: OAAB\o\crate_s02.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 3
+  - l_m_potion

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_MenaanNadrasWritTrack
+name: ''
+script: TR_m4_MenaanNadrasWrit_Scp
+mesh: EditorMarker.NIF

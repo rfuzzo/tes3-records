@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_sc_raathim_note
+name: Unknown Thief's Warning
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>Stop!<br> <BR>\r\nDon't take a single step forward. The heathen god is watching. Ever watching. It killed the others. <br> <BR>\r\nDon't go near it. Do it and you're dead. <br> <br>\r\nGood luck.<br>"
+data:
+  weight: 1.5
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

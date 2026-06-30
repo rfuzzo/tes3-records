@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_RustblossomSeed_01
+name: Rustbloossom Seed
+script: ''
+mesh: hf\n\hf_ingred_RustSeed_01.nif
+icon: hf\n\hf_ingred_RustSeed_01.dds
+data:
+  weight: 0.08
+  value: 3
+  effects:
+  - RestoreFatigue
+  - Burden
+  - FireShield
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

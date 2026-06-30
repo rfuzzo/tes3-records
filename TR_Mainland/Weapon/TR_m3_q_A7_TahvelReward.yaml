@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m3_q_A7_TahvelReward
+name: Tempered Iron Saber
+script: ''
+mesh: TR\w\TR_w_iron_saber_03.nif
+icon: TR\w\TR_w_iron_saber_03.dds
+enchanting: ''
+data:
+  weight: 13.0
+  value: 100
+  weapon_type: LongBladeOneHand
+  health: 800
+  speed: 1.4
+  reach: 1.0
+  enchantment: 65
+  chop_min: 8
+  chop_max: 24
+  slash_min: 6
+  slash_max: 20
+  thrust_min: 1
+  thrust_max: 5
+  flags: ''

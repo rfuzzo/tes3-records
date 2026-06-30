@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_QuarterPalmLiturgyPC
+name: Quarter Palm Liturgy
+script: ''
+mesh: pc\m\PC_bk_Book_26.nif
+icon: pc\m\pc_bk_book_26.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nUT NIBEN<BR>\r\n<DIV ALIGN=\"LEFT\">\r\nRead your silks<BR>\r\nyour mothers and your mothers mothers<BR>\r\npoured their blood in this land<BR>\r\npoured their ghosts in this river<BR>\r\nit was once a land of plenty<BR>\r\nnow it is barren<BR>\r\nsullen and brackish<BR>\r\na green curse is on our land<BR>\r\ngive praise<BR>\r\n<DIV ALIGN=\"CENTER\"><BR>\r\nUT KOTRI<BR>\r\n<DIV ALIGN=\"LEFT\">\r\nHear the hermits<BR>\r\nmoth-faced and sick of jungle fever<BR>\r\nremember the ways of old<BR>\r\nthe tribes were numerous<BR>\r\nthey were clad in gold<BR>\r\ntheir fields were white with rice<BR>\r\ntheir drums beat the hour<BR>\r\ntheir shield was called Al-Estia<BR>\r\ngone with the river<BR>\r\ngive praise<BR>\r\n<DIV ALIGN=\"CENTER\"><BR>\r\nUT DAGON<BR>\r\n<DIV ALIGN=\"LEFT\">\r\nListen to the dead man<BR>\r\nasleep on his altar<BR>\r\nhe foretells the coming of the Dagon<BR>\r\ngreat destroyer<BR>\r\nof destruction he is made<BR>\r\nin his hand the dagger<BR>\r\nin his hand the lighting<BR>\r\nin his hand the sight of man<BR>\r\nin his hand the whirling nothing<BR>\r\nsoon he is upon us<BR>\r\nto wipe away the empire of emperors<BR>\r\nuntil nothing is left<BR>\r\ngive praise<BR>\r\n<BR>"
+data:
+  weight: 5.0
+  value: 200
+  book_type: Book
+  skill: None
+  enchantment: 0

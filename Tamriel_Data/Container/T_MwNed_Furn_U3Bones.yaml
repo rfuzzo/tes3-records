@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_MwNed_Furn_U3Bones
+name: Nedic Urn
+script: ''
+mesh: tr\o\tr_nedic_urn_03.nif
+encumbrance: 40.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Glb_Random_Bones_Alt

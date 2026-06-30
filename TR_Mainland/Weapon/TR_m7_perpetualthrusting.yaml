@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m7_perpetualthrusting
+name: Spear of Perpetual Thrusting
+script: ''
+mesh: w\w_chitin_spear.nif
+icon: w\Tx_chitin_spear.tga
+enchanting: TR_m7_perpetualthrusting_en
+data:
+  weight: 10.0
+  value: 3500
+  weapon_type: SpearTwoWide
+  health: 1500
+  speed: 0.9
+  reach: 1.8
+  enchantment: 1500
+  chop_min: 1
+  chop_max: 1
+  slash_min: 1
+  slash_max: 1
+  thrust_min: 20
+  thrust_max: 20
+  flags: ''

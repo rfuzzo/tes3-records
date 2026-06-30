@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_q_AT_Recipe
+name: Top Secret Recipe
+script: TR_m3_q_AT_recipe_script
+mesh: m\Text_paper_roll_01.nif
+icon: m\Tx_paper_roll_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nDear Llaryno Savel,<BR>\r\n<BR>\r\nHere's the list of ingredients to the world famous Ulimal family recipe for Gerishmarpal. Make sure to read the list carefully and do NOT mix things out of order!<BR>\r\n<BR>\r\nstart with the following as a base, mixing with water until it thickens<BR>\r\n<BR>\r\nTrama Root<BR>\r\nHeather<BR>\r\nElborn Sap<BR>\r\n<BR>\r\nthen add the following in one after the other, making sure they're properly mixed before adding the next<BR>\r\n<BR>\r\nLarge Kwama Egg<BR>\r\nIchor - preferably from an Elytra Hatchling <BR>\r\nViolet Coprinus<BR>\r\nIthilix Liver<BR>\r\nNix hound meat<BR>\r\nGhoul heart<BR>\r\n<BR>\r\nstir for roughly 5 minutes, then add these three in after<BR>\r\n<BR>\r\nGreen lichen<BR>\r\nOrnada egg<BR>\r\nDurzog meat<BR>\r\nSaltrice<BR>\r\n<BR>\r\nstir until everything is fully mixed in, then heat the mixture up to a boil<BR>\r\n<BR>\r\nLloramor Spines<BR>\r\nIthilix Eye<BR>\r\nElk Thigh<BR>\r\n<BR>\r\nlet it sit for a few minutes, and cool off. When the pot isn't boiling anymore it should begin to thicken until it's almost rubbery. Pour and enjoy.<BR>\r\n<Br>\r\nTake care, Llaryno. And make sure this recipe doesn't get out to the public! The delicious contents of this recipe would have the Ordinators lock me up by sundown, ha!<BR>\r\n<BR>\r\n- Azarien Ulimal<BR>\r\n<BR>"
+data:
+  weight: 0.2
+  value: 5
+  book_type: Scroll
+  skill: None
+  enchantment: 100

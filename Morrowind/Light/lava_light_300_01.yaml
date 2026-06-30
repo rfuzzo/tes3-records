@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: lava_light_300_01
+name: ''
+script: ''
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 300
+  color:
+  - 253
+  - 0
+  - 0
+  - 0
+  flags: PULSE_SLOW

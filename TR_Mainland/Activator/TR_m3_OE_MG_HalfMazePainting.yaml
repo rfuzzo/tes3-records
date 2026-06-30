@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_OE_MG_HalfMazePainting
+name: Painting of Nafaalilargus
+script: TR_m3_OE_MG_PuzzleMsHalfMaze
+mesh: tr\f\tr_furn_paint_nafoe.nif

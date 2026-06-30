@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: contain_corpse_Arenim00
+name: Corpse of Agustas
+script: Sound_Flies
+mesh: o\contain_corpse10.NIF
+encumbrance: 120.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - amulet_Agustas_unique
+- - 1
+  - ingred_bonemeal_01
+- - 5
+  - Gold_001

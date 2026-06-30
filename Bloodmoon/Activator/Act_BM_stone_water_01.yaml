@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: Act_BM_stone_water_01
+name: Water Stone
+script: stoneWaterScript
+mesh: f\Act_BM_stone_water_01.NIF

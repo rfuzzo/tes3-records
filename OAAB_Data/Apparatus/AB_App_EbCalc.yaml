@@ -1,0 +1,12 @@
+type: Apparatus
+flags: ''
+id: AB_App_EbCalc
+name: Ebony Calcinator
+script: ''
+mesh: OAAB\m\rem_ebony_calcinator.nif
+icon: OAAB\m\rem_ebony_calcinator.dds
+data:
+  apparatus_type: Calcinator
+  quality: 2.2
+  weight: 12.0
+  value: 5100

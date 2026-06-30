@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Arg_CeramicPlate_02
+name: Ceramic Plate
+script: ''
+mesh: bm\m\bm_cer_plat_02.nif
+icon: bm\m\bm_misc_plat_02.dds
+data:
+  weight: 0.6
+  value: 1
+  flags: ''

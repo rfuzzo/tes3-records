@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_Hlaalu2_Note_02
+name: Cleaning Schedule
+script: ''
+mesh: m\Text_Parchment_01.NIF
+icon: m\Tx_parchment_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nHlaalu Second Family Manor -- Weekly Cleaning Schedule<BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\nMorndas -- The family's private quarters, guest suite, and Master Hlaalu's quarters<BR>\r\n<BR>\r\nTirdas -- Banquet hall, entry<BR>\r\n<BR>\r\nMiddas -- Library, service wing<BR>\r\n<BR>\r\nTurdas -- Lower basement, servant quarters<BR>\r\n<BR>\r\nFredas -- Break\r\n<BR>\r\nLoredas -- Vault deep cleaning<BR>\r\n<BR>\r\nSundas -- Continue vault deep cleaning<BR>\r\n<BR>\r\nNote: Master Hlaalu has specified that only J'Hasnir is permitted to clean the lower basement area, and that the spa will need to be cleaned daily by the most ill-behaved slaves. The banquet hall and kitchen will need to be cleaned as needed.<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

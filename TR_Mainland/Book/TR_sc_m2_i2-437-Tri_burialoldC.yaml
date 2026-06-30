@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_sc_m2_i2-437-Tri_burialoldC
+name: Ancient Burial Procedures
+script: ''
+mesh: m\Text_Scroll_02.nif
+icon: m\Tx_scroll_02.tga
+enchanting: ''
+text: <DIV ALIGN="LEFT"><FONT COLOR="000000" SIZE="3" FACE="Magic Cards"><BR><BR>[This scroll is nearly illegible. However, the few lines which can still be read contain information on various ancient burial procedures.]<BR>
+data:
+  weight: 1.0
+  value: 50
+  book_type: Scroll
+  skill: None
+  enchantment: 50

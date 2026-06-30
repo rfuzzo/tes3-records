@@ -1,0 +1,35 @@
+type: Clothing
+flags: ''
+id: extravagant_shirt_01_t
+name: Extravagant Shirt
+script: ''
+mesh: c\C_M_Shirt_extrav_1_tGND.NIF
+icon: c\Tx_shirt_extrav_1t.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: c_m_shirt_extrav_1_tc
+  female_bodypart: ''
+- biped_object_type: LeftUpperArm
+  male_bodypart: c_m_shirt_extrav_1_tua
+  female_bodypart: ''
+- biped_object_type: RightUpperArm
+  male_bodypart: c_m_shirt_extrav_1_tua
+  female_bodypart: ''
+- biped_object_type: LeftForearm
+  male_bodypart: c_m_shirt_extrav_1_tfa
+  female_bodypart: ''
+- biped_object_type: RightForearm
+  male_bodypart: c_m_shirt_extrav_1_tfa
+  female_bodypart: ''
+- biped_object_type: LeftWrist
+  male_bodypart: c_m_shirt_extrav_1_tw
+  female_bodypart: ''
+- biped_object_type: RightWrist
+  male_bodypart: c_m_shirt_extrav_1_tw
+  female_bodypart: ''
+data:
+  clothing_type: Shirt
+  weight: 2.0
+  value: 60
+  enchantment: 300

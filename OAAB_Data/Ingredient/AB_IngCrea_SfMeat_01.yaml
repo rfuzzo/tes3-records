@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: AB_IngCrea_SfMeat_01
+name: Slaughterfish Meat
+script: ''
+mesh: OAAB\n\rem_sf_meat.nif
+icon: OAAB\n\n_sf_meat_01.dds
+data:
+  weight: 0.5
+  value: 1
+  effects:
+  - DamageFatigue
+  - None
+  - None
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

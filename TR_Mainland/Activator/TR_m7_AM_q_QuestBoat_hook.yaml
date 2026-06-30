@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m7_AM_q_QuestBoat_hook
+name: ''
+script: TR_m7_HR_AldIuval_q2_Boat_sc
+mesh: f\Furn_Com_Lantern_Hook.nif

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Nor_Orn_Spear_01
+name: Nordic Spear
+script: ''
+mesh: TR\w\TR_w_nord_spear.nif
+icon: TR\w\TR_w_nord_spear.dds
+enchanting: ''
+data:
+  weight: 19.0
+  value: 66
+  weapon_type: SpearTwoWide
+  health: 900
+  speed: 1.0
+  reach: 1.8
+  enchantment: 60
+  chop_min: 2
+  chop_max: 6
+  slash_min: 2
+  slash_max: 6
+  thrust_min: 6
+  thrust_max: 21
+  flags: ''

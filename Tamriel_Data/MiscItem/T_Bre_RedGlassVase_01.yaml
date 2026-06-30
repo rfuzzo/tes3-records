@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Bre_RedGlassVase_01
+name: Gilded Red Glass Vase
+script: ''
+mesh: hr\m\m_red_glass_vas.nif
+icon: hr\m\m_red_glass_vas.dds
+data:
+  weight: 4.0
+  value: 300
+  flags: ''

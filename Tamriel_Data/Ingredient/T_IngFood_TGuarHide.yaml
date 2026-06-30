@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_TGuarHide
+name: Tiger Guar Hide
+script: ''
+mesh: tr\n\tr_n_tguar_hide.nif
+icon: tr\n\tr_n_tguar_hide.dds
+data:
+  weight: 1.0
+  value: 30
+  effects:
+  - DrainMagicka
+  - FortifyAttribute
+  - RestoreAttribute
+  - ResistPoison
+  skills:
+  - None
+  - Block
+  - Block
+  - None
+  attributes:
+  - None
+  - Strength
+  - Speed
+  - None

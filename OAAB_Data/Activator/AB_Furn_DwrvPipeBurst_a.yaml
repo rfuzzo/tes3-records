@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Furn_DwrvPipeBurst_a
+name: Burst Pipe Fitting
+script: AB_DwrvPipeBurst_s
+mesh: OAAB\u\dwrvActPipeBurst.nif

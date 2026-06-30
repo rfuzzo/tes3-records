@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_Olives_01
+name: Olives
+script: ''
+mesh: pc\n\pc_ing_olives.nif
+icon: pc\n\pc_tx_ingred_olives.dds
+data:
+  weight: 0.2
+  value: 8
+  effects:
+  - Sanctuary
+  - DrainAttribute
+  - FortifyAttribute
+  - WeaknessToFire
+  skills:
+  - None
+  - Block
+  - Block
+  - None
+  attributes:
+  - None
+  - Strength
+  - Agility
+  - None

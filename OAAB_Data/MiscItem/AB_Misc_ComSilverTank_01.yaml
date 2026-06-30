@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_ComSilverTank_01
+name: Silver Tankard
+script: ''
+mesh: OAAB\m\misc_silver_tank_01.nif
+icon: OAAB\m\misc_silver_tank_01.dds
+data:
+  weight: 4.0
+  value: 17
+  flags: ''

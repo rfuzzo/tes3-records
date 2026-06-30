@@ -1,0 +1,29 @@
+type: Container
+flags: ''
+id: TR_m7_Hlaalu2_Desk
+name: Desk
+script: ''
+mesh: TR\o\TR_De_R_Desk01.NIF
+encumbrance: 75.0
+container_flags: IS_BASE
+inventory:
+- - 5130
+  - Gold_001
+- - 1
+  - Misc_Quill
+- - 1
+  - TR_m7_Narsis_KeyHlaalu2Vault2
+- - 1
+  - T_De_BluewareInkwell01
+- - 1
+  - T_De_Ebony_Cup_01
+- - 2
+  - T_Imp_SilverWeight_01
+- - 3
+  - T_Imp_SilverWeight_02
+- - 2
+  - T_Imp_SilverWeight_03
+- - 3
+  - T_Imp_SilverWeight_04
+- - 3
+  - sc_paper plain

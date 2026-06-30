@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: TR_M4_i90_de_r_desk_man
+name: Desk
+script: ''
+mesh: TR\o\TR_De_R_Desk01.NIF
+encumbrance: 10.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - Misc_Quill
+- - 1
+  - T_Bk_LikeInTheDealTR
+- - 1
+  - misc_skooma_vial
+- - 3
+  - sc_paper plain

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_FishFeed_01
+name: Fish Feed
+script: ''
+mesh: pc\m\pc_m_plesios_feed_01.nif
+icon: pc\m\pc_m_plesios_feed.dds
+data:
+  weight: 0.2
+  value: 5
+  flags: ''

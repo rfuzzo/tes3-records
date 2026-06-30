@@ -1,0 +1,28 @@
+type: Alchemy
+flags: ''
+id: T_Com_Potion_Ethereal
+name: Potion of Etherealness
+script: ''
+mesh: m\Misc_Potion_Exclusive_01.nif
+icon: m\Tx_potion_exclusive_01.tga
+effects:
+- magic_effect: Sanctuary
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 100
+  max_magnitude: 100
+- magic_effect: ResistMagicka
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 100
+  max_magnitude: 100
+data:
+  weight: 0.25
+  value: 3600
+  flags: AUTO_CALCULATE

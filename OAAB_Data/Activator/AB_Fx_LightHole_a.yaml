@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Fx_LightHole_a
+name: ''
+script: AB_DayActivate_s
+mesh: OAAB\e\cave_door_day.nif

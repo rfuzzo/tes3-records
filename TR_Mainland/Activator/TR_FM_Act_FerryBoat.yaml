@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_FM_Act_FerryBoat
+name: ''
+script: TR_FM_Stage3Perm_sc
+mesh: x\Ex_longboat02.NIF

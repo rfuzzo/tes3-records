@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: AB_o_DwBarrelShortIng
+name: Steel Quarter Keg
+script: ''
+mesh: o\contain_dwrv_barrel10.nif
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - AB_lvl_DwemerIng

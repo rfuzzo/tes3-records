@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: demon cephalopod
+name: Demon Cephalopod
+script: ''
+mesh: a\A_Cephalopod_helm.NIF
+icon: a\Tx_cephalopod_helm.tga
+enchanting: bound cuirass_en
+biped_objects:
+- biped_object_type: Head
+  male_bodypart: a_cephalopod_helm
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 2.0
+  value: 1500
+  health: 80
+  enchantment: 1000
+  armor_rating: 8

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: active_sign_c_goods_mebestien
+name: Mebestien's Supplies
+script: SignRotate
+mesh: f\Active_sign_C_goods_01.NIF

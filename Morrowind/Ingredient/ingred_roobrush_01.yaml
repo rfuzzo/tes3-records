@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_roobrush_01
+name: Roobrush
+script: ''
+mesh: n\Ingred_Roobrush_01.nif
+icon: n\Tx_roobrush_01.tga
+data:
+  weight: 0.1
+  value: 1
+  effects:
+  - DrainAttribute
+  - FortifyAttribute
+  - DrainHealth
+  - CurePoison
+  skills:
+  - Block
+  - Block
+  - Block
+  - Block
+  attributes:
+  - Willpower
+  - Agility
+  - Strength
+  - Strength

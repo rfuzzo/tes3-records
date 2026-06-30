@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: sc_balefulsuffering
+name: Scroll of Baleful Suffering
+script: ''
+mesh: m\text_scroll_01.nif
+icon: m\tx_scroll_open_01.tga
+enchanting: sc_balefulsuffering_en
+text: <FONT COLOR="000000" SIZE="2" FACE="Daedric">SUFFER NO FOOLS. INVOKE WITH NO DOUBTS, NO HESITATION.</FONT><BR>
+data:
+  weight: 0.2
+  value: 223
+  book_type: Scroll
+  skill: None
+  enchantment: 0

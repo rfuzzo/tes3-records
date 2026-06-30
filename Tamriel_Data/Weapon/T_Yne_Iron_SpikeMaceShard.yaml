@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Yne_Iron_SpikeMaceShard
+name: Ynesai Iron Shardmace
+script: ''
+mesh: pi\w\pi_w_yiron_spikemace.nif
+icon: pi\w\pi_w_yiron_spikemace.dds
+enchanting: shard_enu
+data:
+  weight: 15.0
+  value: 43
+  weapon_type: BluntOneHand
+  health: 1200
+  speed: 1.3
+  reach: 1.0
+  enchantment: 50
+  chop_min: 1
+  chop_max: 12
+  slash_min: 1
+  slash_max: 12
+  thrust_min: 1
+  thrust_max: 2
+  flags: ''

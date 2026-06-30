@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: T_Com_Var_TorchTikiUnlit512_01
+name: Unlit Tiki Torch
+script: T_ScObj_TikiTorchUnlit512
+mesh: x\furn_tikitorch_out.nif

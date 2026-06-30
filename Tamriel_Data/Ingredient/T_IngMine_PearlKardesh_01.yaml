@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngMine_PearlKardesh_01
+name: Kardesh Pearl
+script: ''
+mesh: pc\n\pc_ing_yokupearl_01.nif
+icon: pc\n\pc_tx_ing_yokupearl.dds
+data:
+  weight: 0.2
+  value: 200
+  effects:
+  - Silence
+  - WaterBreathing
+  - DamageAttribute
+  - FortifyAttribute
+  skills:
+  - None
+  - None
+  - Block
+  - Block
+  attributes:
+  - None
+  - None
+  - Luck
+  - Intelligence

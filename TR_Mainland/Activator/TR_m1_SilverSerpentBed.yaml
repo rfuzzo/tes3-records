@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m1_SilverSerpentBed
+name: Bed
+script: TR_m1_SilverSerpentBedScript
+mesh: f\Furn_Com_Bunk_01.NIF

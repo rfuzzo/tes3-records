@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m4-349_ElevatorGear20
+name: ''
+script: TR_m4-349_ElevatorGear_Sc
+mesh: i\in_dwrv_gear20.nif

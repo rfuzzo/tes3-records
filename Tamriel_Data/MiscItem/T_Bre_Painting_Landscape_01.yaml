@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Bre_Painting_Landscape_01
+name: Ostheldir Landscape
+script: ''
+mesh: tr\m\TR_M_Painting_HR_01.nif
+icon: tr\m\TR_M_Painting_HR_01.tga
+data:
+  weight: 16.0
+  value: 620
+  flags: ''

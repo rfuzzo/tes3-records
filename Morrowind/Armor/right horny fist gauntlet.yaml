@@ -1,0 +1,22 @@
+type: Armor
+flags: ''
+id: right horny fist gauntlet
+name: Right Glove of the Horny Fist
+script: ''
+mesh: a\A_Netch_M_gauntlet_GND.nif
+icon: a\Tx_Netch_gauntlet.tga
+enchanting: dynamic horny fist_enu
+biped_objects:
+- biped_object_type: RightHand
+  male_bodypart: a_netch_m_gauntlet
+  female_bodypart: ''
+- biped_object_type: RightWrist
+  male_bodypart: ''
+  female_bodypart: ''
+data:
+  armor_type: RightGauntlet
+  weight: 3.0
+  value: 10
+  health: 25
+  enchantment: 60
+  armor_rating: 5

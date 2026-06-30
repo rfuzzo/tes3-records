@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: tr_m2_mzankh_pipe
+name: Burst Pipe Fitting
+script: T_ScObj_Dwe_PipeBrk
+mesh: tr\f\tr_act_dwe_pipe_brk01.nif

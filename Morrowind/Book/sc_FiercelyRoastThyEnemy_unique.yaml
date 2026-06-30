@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: sc_FiercelyRoastThyEnemy_unique
+name: Scroll of Fiercely Roasting
+script: ''
+mesh: m\text_scroll_01.nif
+icon: m\tx_scroll_open_01.tga
+enchanting: sc_FiercelyRoastThyEnemy_en
+text: <DIV ALIGN="center"><FONT COLOR="000000" SIZE="2" FACE="Daedric">NINE-FOLD WOES AND WEAKNESSES UPON YOU, HEATHEN SERVENTS OF DARKNESS</FONT><BR>
+data:
+  weight: 0.2
+  value: 73
+  book_type: Scroll
+  skill: None
+  enchantment: 0

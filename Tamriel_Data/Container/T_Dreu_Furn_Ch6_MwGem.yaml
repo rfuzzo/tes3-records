@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: T_Dreu_Furn_Ch6_MwGem
+name: Chest
+script: ''
+mesh: tr\o\tr_furn_dreu_chest_06.nif
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - 6
+  - T_Mw_Random_Gems
+- - 10
+  - random gold

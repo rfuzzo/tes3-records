@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Glb_Var_Skeleton05
+name: Corpse
+script: ''
+mesh: Sky\o\Sky_Cont_Corpse_04.nif
+encumbrance: 120.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - ingred_bonemeal_01

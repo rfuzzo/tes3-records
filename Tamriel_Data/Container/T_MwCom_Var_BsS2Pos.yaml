@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_MwCom_Var_BsS2Pos
+name: Basket
+script: ''
+mesh: tr\o\tr_de_shack_basket_02.nif
+encumbrance: 35.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Mw_Random_Pos

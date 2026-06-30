@@ -1,0 +1,11 @@
+type: MiscItem
+flags: PERSISTENT
+id: TR_m7_q_HH_Alvynu_SaenusGoods
+name: Saenus's Stolen Goods
+script: TR_m7_HH_Alvynu3_Goods_scr
+mesh: m\dwemer_satchel00.NIF
+icon: m\misc_dwe_satchel00.dds
+data:
+  weight: 25.0
+  value: 50
+  flags: ''

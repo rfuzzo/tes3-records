@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: TR_m3-138-tri_cloth
+name: Vase
+script: ''
+mesh: TR\o\TR_cont_de_vase_02.nif
+encumbrance: 10.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - misc_clothbolt_01
+- - 2
+  - misc_clothbolt_02
+- - 1
+  - misc_clothbolt_03
+- - 3
+  - misc_shears_01

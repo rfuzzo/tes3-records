@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: TR_m7_SH08C1_light
+name: ''
+script: ''
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 600
+  color:
+  - 38
+  - 99
+  - 213
+  - 0
+  flags: DYNAMIC

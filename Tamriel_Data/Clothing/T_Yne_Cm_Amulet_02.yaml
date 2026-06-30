@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Yne_Cm_Amulet_02
+name: Common Amulet
+script: ''
+mesh: pi\c\yne_amulet_common_02.nif
+icon: pi\c\yne_amulet_common_02.dds
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 5
+  enchantment: 15

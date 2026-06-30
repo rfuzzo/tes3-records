@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: T_CyrImp_FurnR_Cb1Plate
+name: Cupboard
+script: ''
+mesh: pc\o\pc_com_cupboard_r.nif
+encumbrance: 75.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Cyr_Random_PlatesCeramic
+- - 1
+  - T_Cyr_Random_PlatesSilver

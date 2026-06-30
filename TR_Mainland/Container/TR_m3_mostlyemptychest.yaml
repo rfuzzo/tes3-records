@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m3_mostlyemptychest
+name: Damaged Chest
+script: TR_m3_q_A5_MEChestSCN
+mesh: o\Contain_De_Chest_02.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - TR_m3_iounote

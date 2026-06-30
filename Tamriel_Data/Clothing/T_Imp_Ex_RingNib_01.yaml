@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Imp_Ex_RingNib_01
+name: Exquisite Ring
+script: ''
+mesh: pc\c\pc_c_nib_ring_exq01.nif
+icon: pc\c\pc_c_nib_ring_exq01.dds
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 240
+  enchantment: 1200

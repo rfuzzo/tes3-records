@@ -1,0 +1,25 @@
+type: Container
+flags: ''
+id: T_MwCom_Var_Cr1RedBM_01
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_De_Bonemold_Stone_Boots
+- - 1
+  - T_De_Bonemold_Stone_Cuirass
+- - 1
+  - T_De_Bonemold_Stone_GauntletL
+- - 1
+  - T_De_Bonemold_Stone_GauntletR
+- - 1
+  - T_De_Bonemold_Stone_Greaves
+- - 1
+  - T_De_Bonemold_Stone_Helm
+- - 1
+  - T_De_Bonemold_Stone_PauldL
+- - 1
+  - T_De_Bonemold_Stone_PauldR

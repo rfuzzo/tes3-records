@@ -1,0 +1,23 @@
+type: Clothing
+flags: ''
+id: TR_m7_narsis_robealmsivi
+name: 'Robe of Almsivi Intervention '
+script: ''
+mesh: TR\c\TR_c_exq_robe_01_GND.nif
+icon: TR\c\TR_exquisite_robe_01.dds
+enchanting: almsivi intervention_en
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_C_DeExRobe01_C
+  female_bodypart: ''
+- biped_object_type: LeftAnkle
+  male_bodypart: ''
+  female_bodypart: ''
+- biped_object_type: RightAnkle
+  male_bodypart: ''
+  female_bodypart: ''
+data:
+  clothing_type: Robe
+  weight: 3.0
+  value: 300
+  enchantment: 400

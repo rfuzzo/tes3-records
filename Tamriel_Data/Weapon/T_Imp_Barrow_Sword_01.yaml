@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Imp_Barrow_Sword_01
+name: Ancient Nedic Shortsword
+script: ''
+mesh: pc\w\pc_w_col_barr_swd_01.nif
+icon: pc\w\pc_w_col_barr_swd_01i.dds
+enchanting: ''
+data:
+  weight: 8.0
+  value: 200
+  weapon_type: ShortBladeOneHand
+  health: 800
+  speed: 2.0
+  reach: 1.0
+  enchantment: 100
+  chop_min: 5
+  chop_max: 9
+  slash_min: 3
+  slash_max: 9
+  thrust_min: 2
+  thrust_max: 5
+  flags: ''

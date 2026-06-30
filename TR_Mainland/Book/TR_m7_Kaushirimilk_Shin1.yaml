@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_Kaushirimilk_Shin1
+name: ''
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: ''
+enchanting: ''
+text: "cultist shinathi\r\nstatic AI"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

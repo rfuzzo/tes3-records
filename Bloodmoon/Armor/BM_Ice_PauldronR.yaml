@@ -1,0 +1,25 @@
+type: Armor
+flags: ''
+id: BM_Ice_PauldronR
+name: Ice Armor Right Pauldron
+script: ''
+mesh: a\A_Ice_Pauldron_GND.NIF
+icon: A\Ice_Pauldron.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: RightPauldron
+  male_bodypart: A_Ice_Pauldron
+  female_bodypart: ''
+- biped_object_type: RightUpperArm
+  male_bodypart: A_Ice_UA
+  female_bodypart: ''
+- biped_object_type: RightForearm
+  male_bodypart: A_Ice_FA
+  female_bodypart: ''
+data:
+  armor_type: RightPauldron
+  weight: 8.0
+  value: 12000
+  health: 550
+  enchantment: 18
+  armor_rating: 50

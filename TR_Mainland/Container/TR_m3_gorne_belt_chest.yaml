@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m3_gorne_belt_chest
+name: Chest
+script: ''
+mesh: o\contain_de_chest_02.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - TR_m3_explorers_belt

@@ -1,0 +1,23 @@
+type: Container
+flags: ''
+id: de_p_closet_02_g1
+name: Closet
+script: ''
+mesh: o\Contain_De_Closet_02.nif
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - chitin guantlet - left
+- - 1
+  - bonemold_greaves
+- - 1
+  - bonemold_pauldron_r
+- - 1
+  - chitin pauldron - right
+- - 1
+  - bonemold_cuirass
+- - 200
+  - random gold
+- - 100
+  - Gold_001

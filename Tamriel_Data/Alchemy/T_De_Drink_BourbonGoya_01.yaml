@@ -1,0 +1,28 @@
+type: Alchemy
+flags: ''
+id: T_De_Drink_BourbonGoya_01
+name: Goya
+script: ''
+mesh: TR\m\TR_flask_bourbon.nif
+icon: TR\m\TR_misc_flask_bourbon.dds
+effects:
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Willpower
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 20
+  max_magnitude: 20
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Intelligence
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 10
+  max_magnitude: 10
+data:
+  weight: 1.0
+  value: 100
+  flags: ''

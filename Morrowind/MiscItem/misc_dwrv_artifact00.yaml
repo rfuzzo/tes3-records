@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: misc_dwrv_artifact00
+name: Dwemer Cylinder
+script: ''
+mesh: m\misc_dwrv_artifact00.nif
+icon: m\misc_dwrv_artifact00.tga
+data:
+  weight: 5.0
+  value: 35
+  flags: ''

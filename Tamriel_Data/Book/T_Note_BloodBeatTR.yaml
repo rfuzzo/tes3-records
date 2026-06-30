@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Note_BloodBeatTR
+name: Blood Beat
+script: T_ScBook_SpFortifyAttack
+mesh: m\Text_Note_02.nif
+icon: m\Tx_note_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>\r\nBlood Beat<BR>\r\n<BR>\r\nA beat.<BR>\r\n<BR>\r\nThe beat of the war drum,<BR>\r\nThe beat of heavy boots,<BR>\r\nThe beat of the heart,<BR>\r\nWaiting for fate.<BR>\r\n<BR>\r\nGlass sunlight,<BR>\r\nUnyielding and cold,<BR>\r\nGlinting and dancing<BR>\r\nAcross a metal sea.<BR>\r\n<BR>\r\nThe first wave breaks<BR>\r\nThe first blood falls<BR>\r\nThe first screams add<BR>\r\nTo the cacophony of noise.<BR>\r\n<BR>\r\nBreakers leap--horses rear<BR>\r\nThreats of thunder--cries of war.<BR>\r\nLightning shards--<BR>\r\nSwords twist fatal dances.<BR>\r\n<BR>\r\nSwords clash<BR>\r\nAnd spears flash<BR>\r\nThe axe rends<BR>\r\nThrough heartblood.<BR>\r\n<BR>\r\nHeat of hate<BR>\r\nHeat of battle<BR>\r\nHeat of blood<BR>\r\nSteaming in the grass.<BR>\r\n<BR>\r\nThe fight for the field<BR>\r\nYields then charges<BR>\r\nBack and forth<BR>\r\nPendulum of victory and defeat.<BR>\r\n<BR>\r\nSecond wave sweeps<BR>\r\nThird wave struggles<BR>\r\nFourth wave brings<BR>\r\nFear and courage.<BR>\r\n<BR>\r\nBugle calls.<BR>\r\nHoards break from place.<BR>\r\nWaves draw away<BR>\r\nShore prepares for final battle.<BR>\r\n<BR>\r\nHeroes step forward,<BR>\r\nCowards run back,<BR>\r\nThe army thins,<BR>\r\nThe final struggle has come.<BR>\r\n<BR>\r\nFierce and determined,<BR>\r\nOut slash silver weapons<BR>\r\nShields are thrown up<BR>\r\nBodies twist to avoid<BR>\r\n<BR>\r\nDown comes the resistance<BR>\r\nUp swarms the advance.<BR>\r\nWalls crack,<BR>\r\nFortress falls.<BR>\r\n<BR>\r\nOld flag is ripped down.<BR>\r\nA new one flies in place.<BR>\r\nCheers block out<BR>\r\nThe groans of the wounded.<BR>\r\n<BR>\r\nArmy dissipates<BR>\r\nSilence settles, cold and dead.<BR>\r\nBlack fly the carrion birds,<BR>\r\nThe smoke of corpse fires<BR>\r\n<BR>\r\nFinal sword is sheathed.<BR>\r\nFinal gasp is given.<BR>\r\nHeads drop, others rear.<BR>\r\nLast words are said. <BR>\r\n"
+data:
+  weight: 1.5
+  value: 100
+  book_type: Scroll
+  skill: None
+  enchantment: 100

@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: TR_m4_mundrethi_plant_lantern01
+name: ''
+script: ''
+mesh: TR\l\tr_l_de_paplant_grn_01.nif
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 128
+  color:
+  - 23
+  - 164
+  - 129
+  - 0
+  flags: ''

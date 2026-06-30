@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m3_q_OE_TheftCygnus
+name: ''
+script: TR_m3_OE_q_TheftBrass
+mesh: EditorMarker.nif

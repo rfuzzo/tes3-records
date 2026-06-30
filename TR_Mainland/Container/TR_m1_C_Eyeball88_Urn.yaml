@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m1_C_Eyeball88_Urn
+name: Urn labeled "D. McRae"
+script: ''
+mesh: o\Contain_urn_05.NIF
+encumbrance: 10.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - TR_m1_C_Eyeball88_Devote

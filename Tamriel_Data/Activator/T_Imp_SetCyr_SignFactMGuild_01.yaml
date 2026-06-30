@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_SetCyr_SignFactMGuild_01
+name: Mages Guild
+script: SignRotate
+mesh: pc\f\pc_furn_sign_magesg_01.nif

@@ -1,0 +1,12 @@
+type: Apparatus
+flags: ''
+id: T_De_PunavitComCup_01
+name: Punavit Communal Cup
+script: ''
+mesh: tr\m\TR_Ind_Velk_ComCup01.nif
+icon: tr\m\TR_ind_velk_comcup01.dds
+data:
+  apparatus_type: Alembic
+  quality: 1.6
+  weight: 10.0
+  value: 1000

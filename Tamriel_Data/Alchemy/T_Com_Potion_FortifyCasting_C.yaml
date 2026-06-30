@@ -1,0 +1,60 @@
+type: Alchemy
+flags: ''
+id: T_Com_Potion_FortifyCasting_C
+name: Cheap Fortify Casting
+script: ''
+mesh: m\Misc_Potion_Cheap_01.nif
+icon: m\Tx_potion_cheap_01.tga
+effects:
+- magic_effect: FortifySkill
+  skill: Alteration
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 15
+  min_magnitude: 8
+  max_magnitude: 8
+- magic_effect: FortifySkill
+  skill: Conjuration
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 15
+  min_magnitude: 8
+  max_magnitude: 8
+- magic_effect: FortifySkill
+  skill: Destruction
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 15
+  min_magnitude: 8
+  max_magnitude: 8
+- magic_effect: FortifySkill
+  skill: Illusion
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 15
+  min_magnitude: 8
+  max_magnitude: 8
+- magic_effect: FortifySkill
+  skill: Mysticism
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 15
+  min_magnitude: 8
+  max_magnitude: 8
+- magic_effect: FortifySkill
+  skill: Restoration
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 15
+  min_magnitude: 8
+  max_magnitude: 8
+data:
+  weight: 1.0
+  value: 15
+  flags: ''

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_AndothDweRuinLog02
+name: ''
+script: TR_m4_AndothDwePlants02_scp
+mesh: f\flora_bc_tree_11.nif

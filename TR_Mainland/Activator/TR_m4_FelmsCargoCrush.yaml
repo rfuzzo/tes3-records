@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m4_FelmsCargoCrush
+name: ''
+script: TR_m4_FelmsCargoCrush_scp
+mesh: tr\i\tr_collision_box_01.nif

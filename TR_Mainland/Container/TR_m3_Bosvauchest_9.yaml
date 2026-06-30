@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m3_Bosvauchest_9
+name: Small Chest
+script: ''
+mesh: o\Contain_chest_small_02.NIF
+encumbrance: 25.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - ingred_emerald_01

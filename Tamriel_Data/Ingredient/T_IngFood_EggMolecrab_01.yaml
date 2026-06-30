@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_EggMolecrab_01
+name: Mole Crab Egg
+script: ''
+mesh: TR\n\TR_ing_eggmolecrab.NIF
+icon: TR\n\TR_ing_eggmolecrab.dds
+data:
+  weight: 1.0
+  value: 1
+  effects:
+  - RestoreHealth
+  - None
+  - None
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

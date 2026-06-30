@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: flora_t_pc_hold_podbud_1_p1comp
+name: ''
+script: Strong1_Only
+mesh: x\Flora_T_podbud_01.nif

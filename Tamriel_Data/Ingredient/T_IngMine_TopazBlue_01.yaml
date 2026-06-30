@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngMine_TopazBlue_01
+name: Blue Topaz
+script: ''
+mesh: tr\n\tr_ing_topazb_mm.nif
+icon: tr\n\tr_ing_topazb_mm.dds
+data:
+  weight: 0.1
+  value: 150
+  effects:
+  - DrainAttribute
+  - FortifyAttribute
+  - RestoreMagicka
+  - FrostShield
+  skills:
+  - Block
+  - Block
+  - None
+  - None
+  attributes:
+  - Endurance
+  - Willpower
+  - None
+  - None

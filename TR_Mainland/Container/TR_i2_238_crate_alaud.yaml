@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: TR_i2_238_crate_alaud
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 100
+  - iron arrow
+- - 25
+  - iron throwing knife

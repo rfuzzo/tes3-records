@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_DwrvToolCrowbar
+name: Dwemer Crowbar
+script: ''
+mesh: OAAB\w\dwrvCrowbar.nif
+icon: OAAB\w\dwrvCrowbar.dds
+enchanting: ''
+data:
+  weight: 20.0
+  value: 120
+  weapon_type: AxeOneHand
+  health: 3000
+  speed: 0.9
+  reach: 1.0
+  enchantment: 20
+  chop_min: 4
+  chop_max: 14
+  slash_min: 3
+  slash_max: 5
+  thrust_min: 1
+  thrust_max: 4
+  flags: ''

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_CheeseRedguard_01
+name: Cheese
+script: ''
+mesh: hf\n\hf_food_cheese01.nif
+icon: hf\n\hf_food_cheese01.dds
+data:
+  weight: 1.0
+  value: 5
+  effects:
+  - RestoreFatigue
+  - DrainAttribute
+  - ResistPoison
+  - None
+  skills:
+  - None
+  - Block
+  - None
+  - None
+  attributes:
+  - None
+  - Willpower
+  - None
+  - None

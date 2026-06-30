@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m7_OrchengarBelt
+name: Steadfast Devotion
+script: ''
+mesh: c\C_belt_Expensive_1.NIF
+icon: c\tx_belt_expensive01.tga
+enchanting: TR_m7_OrchengarBeltEn
+biped_objects: []
+data:
+  clothing_type: Belt
+  weight: 1.0
+  value: 3000
+  enchantment: 50

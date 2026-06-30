@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m4_AA_SehutuRod01
+name: Broken Connector
+script: TR_m4_AA_SehutuRod_Scp
+mesh: sky\f\sky_furn_irod_01.nif

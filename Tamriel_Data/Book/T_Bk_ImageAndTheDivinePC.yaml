@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_ImageAndTheDivinePC
+name: The Image and the Divine
+script: ''
+mesh: pc\m\PC_bk_Book_21.nif
+icon: pc\m\pc_bk_book_21.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe Image and the Divine<BR>\r\n<BR>\r\nby Primate Dalus<BR>\r\n<BR>\r\n<BR>\r\n<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\">\r\nThe Divines, it is said, reside in the diverse heavens of Aetherius, a most distant sphere, detached, that exists away from mortal eyes. We, low and humble souls, can only exist here on the mortal plane, which was made to be our shelter and trial.<BR>\r\n<BR>\r\nTravel to the heavens is possible, as the Emperor's mages and mananauts have proven, but it is impossible to permanently reside there, for mortal life cannot subside for long in the illimitable spaces. The spirit becomes unmoored, and loses its anchor to reality and physical existence. None have ever reported encountering a Divine spirit in Aetherius, but to do so would surely spell the end for a frail and temporal being.<BR>\r\n<BR>\r\nAll manifestations of the Divine in the mortal world, from shrine blessings to the planets in the sky, are aspects that the Divines project into the world, in order to guide and help improve its lowly mortal inhabitants. Any perceived contradiction in their nature stems from the fact that the true Divine is obscured to us.<BR>\r\n<BR>\r\nLikewise, the gods and spirits of the provincial peoples are shadows of the true Divines, whom they perceive only as they wish to perceive them, not as they are. Only by the miracle of Alessia, who saw true the Gods of both men and elves, are we able to approach the true Divines.<BR>\r\n<BR>\r\nOnly in death are the Divines revealed to us, or, occasionally, in the form of true revelations, visions, and manifestations. In those great revelations, the distinction between the Divine and their image is often difficult to perceive. Nor is it possible to know if words were said by a Divine as one, or by one of their many false-faces and aspect fragments.<BR>\r\n<BR>\r\nFor to see the Divine from the mortal sphere is to see only a small aspect, in the way that a man looking through a hole in a curtain could only ever see a small part of a grand and impressive design. In this way, all the peoples and races of Tamriel have seen the Divines, once, in some form that they could know and cherish. But none possess the whole and the true, and from this confusion stems much animosity.<BR>\r\n<BR>\r\nIt is only through study and revelation that we can come to a truer understanding of the Divine, worshiping the whole of the Divine; not just an image, but the being itself; not the image, but the idea. Therein lies the Revelation of Alessia.<BR>"
+data:
+  weight: 3.0
+  value: 100
+  book_type: Book
+  skill: None
+  enchantment: 0

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_AndoHH_WornCrate2
+name: ''
+script: TR_m4_AndoHH_CrateDisable
+mesh: tr\f\tr_crate_broke01.nif

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_De_Glass_Spear_01
+name: Glass Spear
+script: ''
+mesh: TR\w\tr_w_glass_spear.nif
+icon: TR\w\tr_w_glass_spear.dds
+enchanting: ''
+data:
+  weight: 8.4
+  value: 12000
+  weapon_type: SpearTwoWide
+  health: 600
+  speed: 1.0
+  reach: 1.8
+  enchantment: 30
+  chop_min: 2
+  chop_max: 7
+  slash_min: 2
+  slash_max: 7
+  thrust_min: 6
+  thrust_max: 32
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

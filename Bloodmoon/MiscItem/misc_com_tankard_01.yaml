@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: misc_com_tankard_01
+name: Tankard
+script: ''
+mesh: m\Misc_Com_Tankard_01.NIF
+icon: m\Misc_Com_Tankard_01.tga
+data:
+  weight: 1.0
+  value: 3
+  flags: ''

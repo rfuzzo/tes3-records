@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_AndothDweRuinBar01
+name: ''
+script: TR_m4_AndothDweBarSet02_scp
+mesh: f\furn_com_bar_01.nif

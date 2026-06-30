@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Sc_BonesongTR
+name: The Bone Song
+script: T_ScBook_SpSummonSkeleton
+mesh: m\Text_Scroll_02.nif
+icon: m\Tx_scroll_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>\r\nThe Bone Song<BR>\r\n<BR>\r\nA pinch of dust,<BR>\r\nA rattle of bone,<BR>\r\nA flicker of runes,<BR>\r\nA tendril of magic,<BR>\r\nA spill of blood...<BR>\r\n<BR>\r\nFor centuries they have slept,<BR>\r\nFor centuries they have dreamed,<BR>\r\nNow they awaken,<BR>\r\nThrough death and night,<BR>\r\nThey hearken to him...<BR>\r\n<BR>\r\nTheir empty eyes see,<BR>\r\nTheir empty minds think,<BR>\r\nTheir empty throats scream,<BR>\r\nAnd their empty hearts hate...<BR>\r\n<BR>\r\nThe dance of death,<BR>\r\nIs the breath of life,<BR>\r\nIs the light of day,<BR>\r\nIs the black of night<BR>\r\nIt is the call that they must obey...<BR>\r\n<BR>\r\nThe stench of evil,<BR>\r\nThe rank of decay,<BR>\r\nThe power of his word,<BR>\r\nThey are under his sway... <BR>\r\n"
+data:
+  weight: 1.5
+  value: 150
+  book_type: Scroll
+  skill: None
+  enchantment: 100

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_w_SilverArrow10x
+name: Silver Arrow (10)
+script: AB_QuiverSilver10x_s
+mesh: OAAB\w\quiver_silver.nif
+icon: w\tx_arrow_silver.dds
+data:
+  weight: 1.0
+  value: 30
+  flags: ''

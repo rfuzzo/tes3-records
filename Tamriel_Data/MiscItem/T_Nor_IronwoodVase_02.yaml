@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Nor_IronwoodVase_02
+name: Ironwood Vase
+script: ''
+mesh: sky\m\sky_misc_iw_vs_02.nif
+icon: sky\m\tx_misc_iw_vs_02.dds
+data:
+  weight: 4.0
+  value: 120
+  flags: ''

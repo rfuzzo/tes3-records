@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: TR_m1_Ench_Shield_i62
+name: Lleneris Darys' Shield
+script: TR_m1_script_curse_i62_b
+mesh: a\Towershield_Telvanni.NIF
+icon: a\tx_towershield_Telv.tga
+enchanting: TR_m1_prot1
+biped_objects:
+- biped_object_type: Shield
+  male_bodypart: towershield_telvanni
+  female_bodypart: ''
+data:
+  armor_type: Shield
+  weight: 13.0
+  value: 950
+  health: 340
+  enchantment: 600
+  armor_rating: 17

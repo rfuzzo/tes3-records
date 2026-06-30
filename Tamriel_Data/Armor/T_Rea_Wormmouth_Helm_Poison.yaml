@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Rea_Wormmouth_Helm_Poison
+name: Poisonbeak Helmet
+script: ''
+mesh: Sky\a\Sky_A_Wormmouth_HE_G.nif
+icon: Sky\a\Tx_Wmouth_Helm.dds
+enchanting: T_Use_Poisonbeak
+biped_objects:
+- biped_object_type: Hair
+  male_bodypart: ''
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 3.5
+  value: 168
+  health: 150
+  enchantment: 80
+  armor_rating: 16

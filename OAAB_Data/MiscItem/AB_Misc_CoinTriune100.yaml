@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_CoinTriune100
+name: Triune Coin (100)
+script: AB_Triune100_s
+mesh: oaab\m\coin_triune_03.nif
+icon: OAAB\m\coin_triune.tga
+data:
+  weight: 0.1
+  value: 1000
+  flags: ''

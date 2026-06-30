@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: active_port_falen
+name: Falensarano Propylon
+script: Warp_Falen
+mesh: i\active_port_Falen.NIF

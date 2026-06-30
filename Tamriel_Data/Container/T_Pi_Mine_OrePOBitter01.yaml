@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Pi_Mine_OrePOBitter01
+name: Raw Bitterstone
+script: ''
+mesh: pi\o\pi_cont_porock_bitt_01.nif
+encumbrance: 0.0
+container_flags: ORGANIC | IS_BASE
+inventory:
+- - 8
+  - T_Pi_Random_OreBitterstone

@@ -1,0 +1,79 @@
+type: Container
+flags: ''
+id: TR_M2_i389_chest_stole2
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_01.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Bk_CharityAndLeadershipTR
+- - 4
+  - T_Bk_HandbookOfTheDevoutTR
+- - 1
+  - T_Bk_HealersTaleTR
+- - 1
+  - T_Bk_HerHandsTR
+- - 3
+  - T_Bk_HeroOfTheIndorilTR
+- - 1
+  - T_Bk_LamentationsTR
+- - 2
+  - T_Bk_RegretTR
+- - 1
+  - T_Bk_SevenPennantsTR
+- - 1
+  - T_Bk_SongsOfStuporTR
+- - 1
+  - bk_AedraAndDaedra
+- - 1
+  - bk_AncestorsAndTheDunmer
+- - 1
+  - bk_AnnotatedAnuad
+- - 2
+  - bk_Anticipations
+- - 1
+  - bk_BlasphemousRevenants
+- - 1
+  - bk_BookDawnAndDusk
+- - 1
+  - bk_BookOfDaedra
+- - 1
+  - bk_CantatasOfVivec
+- - 1
+  - bk_ChildrensAnuad
+- - 5
+  - bk_ConsolationsOfPrayer
+- - 1
+  - bk_DoorsOfTheSpirit
+- - 1
+  - bk_HomiliesOfBlessedAlmalexia
+- - 1
+  - bk_HouseOfTroubles_c
+- - 1
+  - bk_InvocationOfAzura
+- - 7
+  - bk_LivesOfTheSaints
+- - 1
+  - bk_OverviewOfGodsAndWorship
+- - 2
+  - bk_SaryonisSermons
+- - 1
+  - bk_WatersOfOblivion
+- - 1
+  - bk_darkestdarkness
+- - 1
+  - bk_fellowshiptemple
+- - 1
+  - bk_firmament
+- - 1
+  - bk_oldways
+- - 1
+  - bk_onoblivion
+- - 4
+  - bk_reflectionsoncultworship...
+- - 1
+  - bk_varietiesoffaithintheempire
+- - 4
+  - bk_vivecandmephala

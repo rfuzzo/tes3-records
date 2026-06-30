@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_De_Set_BannerTempleEx_03
+name: ''
+script: OutsideBanner
+mesh: f\Furn_banner_temple_03.NIF

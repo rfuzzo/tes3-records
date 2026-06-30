@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_Fascicle00PC
+name: Fascicle 0
+script: ''
+mesh: pc\m\PC_bk_Book_10.nif
+icon: pc\m\pc_bk_book_10.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe Testament of the Church-Mothers<BR>\r\nFascicle 0<BR>\r\nThe Advent of Absence<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\n0. The spirit of Shezarr, too, came about, and it was an ambitious and warlike spirit, who saw the world and thought it not enough. And it perceived that Akatosh was pleased to let things be, and the spirits were pleased to let things be, and those who were displeased had not the acumen, the heart to change their ways. And Shezarr lay silent for a long time, and walked far among the outer regions of the Beginning Place, and further still, until there was no path to walk, until there was no such things as walking. There it turned and saw the shape of the world, that which is. And they conceived an even greater shape, a place called the World Entire, a crucible of growth and the spark of creation, for a soul to become more than anything else, anything that ever were. And this idea was to be the end of the Beginning Place, and much joy and sorrow were to come from it.<BR>\r\n<BR> \r\n"
+data:
+  weight: 4.0
+  value: 300
+  book_type: Book
+  skill: Illusion
+  enchantment: 0

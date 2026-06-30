@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_Yne_StoneCandleSPuP_128
+name: Stoneware Candlestick
+script: ''
+mesh: pi\l\pi_l_yne_s_candlepuPS.nif
+icon: pi\l\pi_l_yne_s_candlepurpS.dds
+sound: ''
+data:
+  weight: 1.0
+  value: 6
+  time: 120
+  radius: 128
+  color:
+  - 177
+  - 83
+  - 255
+  - 0
+  flags: DYNAMIC | CAN_CARRY | FIRE | FLICKER_SLOW

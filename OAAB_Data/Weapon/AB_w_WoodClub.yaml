@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_WoodClub
+name: Wooden Club
+script: ''
+mesh: OAAB\w\woodClub.nif
+icon: OAAB\w\w_woodClub.tga
+enchanting: ''
+data:
+  weight: 8.0
+  value: 8
+  weapon_type: BluntOneHand
+  health: 400
+  speed: 1.75
+  reach: 1.0
+  enchantment: 40
+  chop_min: 4
+  chop_max: 4
+  slash_min: 3
+  slash_max: 3
+  thrust_min: 3
+  thrust_max: 3
+  flags: ''

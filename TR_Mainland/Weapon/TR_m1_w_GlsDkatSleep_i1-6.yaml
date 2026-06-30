@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m1_w_GlsDkatSleep_i1-6
+name: Glass Dai-katana of the Leech
+script: ''
+mesh: TR\w\tr_w_glass_dkatana.NIF
+icon: TR\w\tr_w_glass_dkatana.dds
+enchanting: TR_m1_LichKatana_i1-6
+data:
+  weight: 12.0
+  value: 44000
+  weapon_type: LongBladeTwoClose
+  health: 1840
+  speed: 1.35
+  reach: 1.0
+  enchantment: 50
+  chop_min: 1
+  chop_max: 37
+  slash_min: 1
+  slash_max: 33
+  thrust_min: 1
+  thrust_max: 15
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

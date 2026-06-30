@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_FM_Act_Rubble7Barrel1
+name: ''
+script: TR_FM_Stage7Rubble_sc
+mesh: tr\f\tr_barrel_broken01.nif

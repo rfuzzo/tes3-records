@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_OE_MG_FlyingChairFly
+name: ''
+script: TR_m3_OE_MG_FlyingChairFlySc
+mesh: f\Furn_Com_Chair_03.nif

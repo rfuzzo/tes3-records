@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Yne_ClayVase_04
+name: Clay Vase
+script: ''
+mesh: pi\m\pi_m_yne_c_pitcher_02.nif
+icon: pi\m\pi_m_yne_c_pitcher_02.dds
+data:
+  weight: 3.0
+  value: 8
+  flags: ''

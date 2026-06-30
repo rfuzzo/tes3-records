@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_Machete
+name: Corkbulk Machete
+script: ''
+mesh: OAAB\w\w_machete_01.nif
+icon: OAAB\w\w_machete_01.dds
+enchanting: ''
+data:
+  weight: 7.0
+  value: 35
+  weapon_type: LongBladeOneHand
+  health: 700
+  speed: 1.3
+  reach: 1.0
+  enchantment: 30
+  chop_min: 1
+  chop_max: 11
+  slash_min: 1
+  slash_max: 12
+  thrust_min: 1
+  thrust_max: 4
+  flags: ''

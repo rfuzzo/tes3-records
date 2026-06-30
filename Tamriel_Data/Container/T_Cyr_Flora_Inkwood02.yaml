@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Cyr_Flora_Inkwood02
+name: Inkwood
+script: ''
+mesh: pc\o\pc_flora_Inkwood_02.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - T_Cyr_Random_FlorInkCone_01

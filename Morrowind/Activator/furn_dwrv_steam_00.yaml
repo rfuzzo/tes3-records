@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: furn_dwrv_steam_00
+name: Strange Steam Machine
+script: Sound_Machinery
+mesh: f\furn_dwrv_steam_00.nif

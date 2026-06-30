@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_TT_Proverb04
+name: Lord Ilvi's Words of Wisdom IV
+script: ''
+mesh: TR\m\TR_note_a04.nif
+icon: TR\m\tr_note_a04.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nA house built on stolen land crumbles -- <br>\r\nit's the house built on ancestral land that thrives. <br>"
+data:
+  weight: 0.01
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

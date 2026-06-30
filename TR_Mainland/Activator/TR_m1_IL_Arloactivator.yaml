@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m1_IL_Arloactivator
+name: ''
+script: TR_m1_IL_teleportscript
+mesh: EditorMarker.NIF

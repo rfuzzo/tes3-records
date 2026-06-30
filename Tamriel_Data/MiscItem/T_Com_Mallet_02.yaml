@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_Mallet_02
+name: Mallet
+script: ''
+mesh: pc\m\pc_misc_mallet_02.nif
+icon: pc\m\pc_misc_mallet_02.dds
+data:
+  weight: 2.0
+  value: 2
+  flags: ''

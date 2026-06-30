@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Dae_MagickaResartus_01
+name: Gem of Magicka Resartus
+script: T_ScObj_MagickaResartus
+mesh: tr\m\tr_misc_resartus_01.nif
+icon: tr\m\tr_misc_resartus_01.dds
+data:
+  weight: 2.0
+  value: 500
+  flags: ''

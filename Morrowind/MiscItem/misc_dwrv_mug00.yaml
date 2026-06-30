@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: misc_dwrv_mug00
+name: Dwemer Mug
+script: ''
+mesh: m\misc_dwrv_mug00.nif
+icon: m\misc_dwrv_mug00.tga
+data:
+  weight: 2.0
+  value: 10
+  flags: ''

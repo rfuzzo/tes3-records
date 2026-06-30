@@ -1,0 +1,20 @@
+type: Alchemy
+flags: ''
+id: TR_m2_q_VaerinPunavit
+name: Refined Punavit Residue
+script: TR_m2_q_VaerinPunavit_sc
+mesh: tr\m\TR_Ind_Velk_Resin01.nif
+icon: tr\m\TR_ind_velk_resin01.dds
+effects:
+- magic_effect: NightEye
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 600
+  min_magnitude: 5
+  max_magnitude: 5
+data:
+  weight: 0.4
+  value: 500
+  flags: ''

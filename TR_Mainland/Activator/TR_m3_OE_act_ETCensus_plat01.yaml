@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_OE_act_ETCensus_plat01
+name: Fallen Platform
+script: TR_m3_OE_ETCensusRepair2
+mesh: x\ex_common_plat_lrg.nif

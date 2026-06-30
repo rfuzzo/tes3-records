@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_ChitinSickle
+name: Chitin Sickle
+script: ''
+mesh: OAAB\w\chitin_sickle.nif
+icon: OAAB\w\tx_chitin_sickle.dds
+enchanting: ''
+data:
+  weight: 8.0
+  value: 16
+  weapon_type: ShortBladeOneHand
+  health: 600
+  speed: 2.0
+  reach: 1.0
+  enchantment: 25
+  chop_min: 2
+  chop_max: 10
+  slash_min: 1
+  slash_max: 8
+  thrust_min: 1
+  thrust_max: 4
+  flags: ''

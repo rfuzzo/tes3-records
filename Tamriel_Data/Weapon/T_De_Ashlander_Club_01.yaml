@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_De_Ashlander_Club_01
+name: Ashlander Club
+script: ''
+mesh: tr\w\tr_w_ashglass_club.nif
+icon: tr\w\tr_w_ashglass_club.dds
+enchanting: ''
+data:
+  weight: 12.6
+  value: 2400
+  weapon_type: BluntOneHand
+  health: 320
+  speed: 1.5
+  reach: 1.0
+  enchantment: 22
+  chop_min: 8
+  chop_max: 9
+  slash_min: 3
+  slash_max: 5
+  thrust_min: 3
+  thrust_max: 5
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

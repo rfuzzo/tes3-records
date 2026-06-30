@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: TR_m3_OE_a_madhoosa_uni
+name: Shield of Mad-Hoosa's Gaze
+script: ''
+mesh: pc\a\pc_a_rga_alik_buck.nif
+icon: pc\a\pc_a_rga_alik_buck.dds
+enchanting: T_Const_ResistParalysis
+biped_objects:
+- biped_object_type: Shield
+  male_bodypart: T_A_RgaAlikr_Buckler
+  female_bodypart: ''
+data:
+  armor_type: Shield
+  weight: 10.0
+  value: 7500
+  health: 800
+  enchantment: 0
+  armor_rating: 30

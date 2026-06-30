@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_BoneSkelLegR
+name: Right Leg
+script: ''
+mesh: OAAB\m\skelLegR.nif
+icon: OAAB\m\skelLegR.tga
+data:
+  weight: 3.0
+  value: 1
+  flags: ''

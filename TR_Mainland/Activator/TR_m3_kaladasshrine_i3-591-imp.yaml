@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m3_kaladasshrine_i3-591-imp
+name: Shrine of Saint Kaladas
+script: shrineImperial
+mesh: f\Furn_imp_altar_01.nif

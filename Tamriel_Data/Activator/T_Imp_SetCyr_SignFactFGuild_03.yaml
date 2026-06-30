@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_SetCyr_SignFactFGuild_03
+name: Fighters Guild
+script: ''
+mesh: pc\f\pc_furn_sign_fightg_03.nif

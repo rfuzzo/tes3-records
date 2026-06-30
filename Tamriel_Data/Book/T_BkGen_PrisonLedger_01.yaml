@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_BkGen_PrisonLedger_01
+name: Prison Ledger
+script: ''
+mesh: pc\m\PC_bk_Book_21.nif
+icon: pc\m\pc_bk_book_21.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n[This ledger records all arriving and departing prisoners, along with their crime, sentence, and period of internment.]<BR>"
+data:
+  weight: 3.0
+  value: 2
+  book_type: Book
+  skill: None
+  enchantment: 0

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Dwe_Regular_Staff_01
+name: Dwarven Staff
+script: ''
+mesh: TR\w\tr_w_dwrv_staff.nif
+icon: TR\w\tr_w_dwrv_staff.dds
+enchanting: ''
+data:
+  weight: 20.0
+  value: 700
+  weapon_type: BluntTwoWide
+  health: 1000
+  speed: 1.75
+  reach: 1.7
+  enchantment: 200
+  chop_min: 2
+  chop_max: 8
+  slash_min: 3
+  slash_max: 10
+  thrust_min: 1
+  thrust_max: 5
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

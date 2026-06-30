@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Sky_Flora_CarlineTh01
+name: Carline Thistle
+script: ''
+mesh: sky\o\Sky_Flora_CarlTh01.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - T_Sky_Random_FlorCarlTh_01

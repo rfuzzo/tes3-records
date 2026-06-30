@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m2_q_A9_5_Signet_Ring
+name: Signet Ring of House Salvarys
+script: ''
+mesh: c\C_Ring_expensive_3.NIF
+icon: c\tx_ring_expensive03.tga
+enchanting: TR_m2_q_A9_5_Signet_en
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 2500
+  enchantment: 200

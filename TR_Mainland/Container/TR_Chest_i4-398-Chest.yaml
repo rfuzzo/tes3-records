@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: TR_Chest_i4-398-Chest
+name: Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 350
+  - Gold_001
+- - 1
+  - ingred_diamond_01
+- - 2
+  - ingred_emerald_01

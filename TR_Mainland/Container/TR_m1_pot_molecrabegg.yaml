@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m1_pot_molecrabegg
+name: Pot
+script: ''
+mesh: o\Contain_pot_01.NIF
+encumbrance: 10.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - TR_m1_lud_random_molecrab_egg

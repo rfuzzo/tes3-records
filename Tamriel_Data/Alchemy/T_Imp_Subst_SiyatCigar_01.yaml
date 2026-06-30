@@ -1,0 +1,36 @@
+type: Alchemy
+flags: ''
+id: T_Imp_Subst_SiyatCigar_01
+name: Siyat Cigar
+script: ''
+mesh: pc\m\pc_misc_cigar.nif
+icon: pc\m\pc_misc_cigar.dds
+effects:
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Personality
+  range: OnSelf
+  area: 0
+  duration: 30
+  min_magnitude: 5
+  max_magnitude: 5
+- magic_effect: RestoreAttribute
+  skill: None
+  attribute: Willpower
+  range: OnSelf
+  area: 0
+  duration: 0
+  min_magnitude: 5
+  max_magnitude: 5
+- magic_effect: DrainAttribute
+  skill: None
+  attribute: Endurance
+  range: OnSelf
+  area: 0
+  duration: 30
+  min_magnitude: 5
+  max_magnitude: 5
+data:
+  weight: 0.05
+  value: 10
+  flags: ''

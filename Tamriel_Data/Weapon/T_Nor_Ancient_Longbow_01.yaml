@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Nor_Ancient_Longbow_01
+name: Ancient Nordic Long Bow
+script: ''
+mesh: sky\w\sky_w_anordic_longbow.nif
+icon: sky\w\sky_w_anordic_longbow.dds
+enchanting: ''
+data:
+  weight: 8.0
+  value: 200
+  weapon_type: MarksmanBow
+  health: 550
+  speed: 1.0
+  reach: 1.0
+  enchantment: 50
+  chop_min: 1
+  chop_max: 22
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: ''

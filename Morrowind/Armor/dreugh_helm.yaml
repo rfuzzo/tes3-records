@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: dreugh_helm
+name: Dreugh Helm
+script: ''
+mesh: a\A_Dreugh_Helm.NIF
+icon: a\tx_dreugh_helm.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: Hair
+  male_bodypart: a_dreugh_helm
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 4.5
+  value: 2250
+  health: 400
+  enchantment: 225
+  armor_rating: 40

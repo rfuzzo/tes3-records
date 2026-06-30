@@ -1,0 +1,12 @@
+type: Apparatus
+flags: ''
+id: TR_m1_rathra_retort
+name: Rathra's Retort
+script: noPickUp
+mesh: m\Apparatus_S_Retort_01.nif
+icon: m\Tx_retort_05.tga
+data:
+  apparatus_type: Retort
+  quality: 2.0
+  weight: 2.0
+  value: 0

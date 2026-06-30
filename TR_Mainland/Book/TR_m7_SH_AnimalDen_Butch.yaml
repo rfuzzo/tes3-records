@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_SH_AnimalDen_Butch
+name: Note To Self
+script: ''
+mesh: tr\tr_note_pin.nif
+icon: default icon.dds
+enchanting: ''
+text: Add Canyon Thresher
+data:
+  weight: 0.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 0

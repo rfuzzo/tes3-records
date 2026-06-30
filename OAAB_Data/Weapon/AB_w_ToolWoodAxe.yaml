@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_ToolWoodAxe
+name: Wood Axe
+script: ''
+mesh: OAAB\w\woodaxe.nif
+icon: OAAB\w\woodaxe.dds
+enchanting: ''
+data:
+  weight: 10.0
+  value: 20
+  weapon_type: AxeOneHand
+  health: 300
+  speed: 1.0
+  reach: 1.0
+  enchantment: 5
+  chop_min: 1
+  chop_max: 8
+  slash_min: 1
+  slash_max: 4
+  thrust_min: 1
+  thrust_max: 2
+  flags: ''

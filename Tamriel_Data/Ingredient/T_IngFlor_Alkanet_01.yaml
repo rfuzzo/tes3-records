@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_Alkanet_01
+name: Alkanet Flower
+script: ''
+mesh: pc\n\PC_Ing_AlkanetF.nif
+icon: pc\n\pc_tx_ingred_alkanetf.dds
+data:
+  weight: 0.2
+  value: 2
+  effects:
+  - RestoreAttribute
+  - ResistPoison
+  - Light
+  - DamageFatigue
+  skills:
+  - Block
+  - None
+  - None
+  - None
+  attributes:
+  - Intelligence
+  - None
+  - None
+  - None

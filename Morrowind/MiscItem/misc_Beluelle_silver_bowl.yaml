@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: misc_Beluelle_silver_bowl
+name: Beluelle's Silver bowl
+script: beluelleBowl
+mesh: m\Misc_Silverware_Bowl.NIF
+icon: m\Misc_Silverware_Bowl.tga
+data:
+  weight: 5.0
+  value: 40
+  flags: ''

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_q_Bah_GuarLow
+name: Brandir Zabaal's Guar Contract
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nContract for Purchase of Guar <BR>\r\n<BR>\r\nI, Brandir Zabaal, hereby agree to purchase guar from Neldam Heran, at the price of of 150 (one hundred and fifty) drakes per guar. <BR>\r\n<BR>\r\nNeldam Heran shall agree to provide guar no later that two weeks following receipt of order.\r\n<BR>\r\nBrandir Zabaal <BR>\r\n\r\n"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

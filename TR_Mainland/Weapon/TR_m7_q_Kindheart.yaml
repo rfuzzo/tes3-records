@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m7_q_Kindheart
+name: Kindheart
+script: ''
+mesh: tr\w\tr_w_dreugh_shortbow.nif
+icon: tr\w\tr_w_dreugh_shortbow.dds
+enchanting: TR_m7_Kindheart_en
+data:
+  weight: 8.0
+  value: 1500
+  weapon_type: MarksmanBow
+  health: 600
+  speed: 1.0
+  reach: 1.0
+  enchantment: 40
+  chop_min: 1
+  chop_max: 20
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

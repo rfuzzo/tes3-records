@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m3_Aar_Clo_Dubious
+name: Amulet of Dubious Luck
+script: TR_Sir_Aar_Scpt_Dubious
+mesh: c\Amulet_Common_3.NIF
+icon: c\tx_amulet_com3.tga
+enchanting: TR_m3_Aar_En_Dubious
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 134
+  enchantment: 10

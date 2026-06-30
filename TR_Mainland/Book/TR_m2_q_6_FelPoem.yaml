@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2_q_6_FelPoem
+name: Muck-stained copy of 'Seasons'
+script: TR_m2_q_6_Poems
+mesh: TR\m\TR_book_closed_i11_AY.nif
+icon: TR\m\TR_book_closed_i11_AY.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe Seasons<br>\r\nby Horatio Gargonath\r\n<DIV ALIGN=\"LEFT\"><BR>\r\nSpring's Blossom<br>\r\n<br>\r\nAs the honey bee buzzes laz'ly by, <br>\r\nand the swallow-tail hovers in blue sky; <br>\r\n<br>\r\nThe flow'ring blossom blooming in the shrouds, <br>\r\nAgainst the cool covering of the clouds; <br>\r\n<br>\r\nWhere all beetles seemeth lazy, and weak, <br>\r\nAnd the fragrant wind bloweth on thy cheek; <br>\r\n<br>\r\nThe vivid colors showing in thine eyes, <br>\r\nAppearing 'gainst a rainbow that ne'er dies; <br>\r\n<br>\r\nHere in the midst of these wonderful things, <br>\r\nIt is nature's grand welcoming to spring.<br>\r\n<br>\r\n<br>\r\n<br>\r\nHere at Last<br>\r\n<br>\r\nA shift in the winds, <br>\r\n<br>\r\nBrought an ever needed breeze. <br>\r\n<br>\r\nThe honeysuckle vines send the smells of summer, <br>\r\n<br>\r\nTo tickle my nose. <br>\r\n<br>\r\nAs I lay beneath the trees, <br>\r\n<br>\r\nI hear birds calling to me. <br>\r\n<br>\r\nAs I drift into a daze, <br>\r\n<br>\r\nI am reminded of lazy ways. <br>\r\n<br>\r\nThe sounds of summer, <br>\r\n<br>\r\nHere at last.<br>\r\n<br>\r\n<br>\r\n<br>\r\nAutumn's Welcome<br>\r\n<br>\r\nAutumn's lofty sky <br>\r\ndescended, covering the valleys <br>\r\nwith fluttering reds and yellows. <br>\r\nThe glitter and ivory of snow <br>\r\nsparkle from the high mountain pinnacle. <br>\r\n<br>\r\nThe dawn of crimson and gold <br>\r\nreverberated songs of migrating birds, <br>\r\ndazzled unseen above the painted leaves. <br>\r\nMelodies of autumn reflect the serenity <br>\r\nthat lies in the approach of the frigid winter. <br>\r\n<br>\r\nAutumn sinks down <br>\r\nand blue hues flatter the icy mountaintops. <br>\r\nCrows and blue-jays sound a trumpeting, <br>\r\nas squirrels play <br>\r\nwithin the color crested treetops. <br>\r\n<br>\r\nFrom the windless meadows <br>\r\nmany bees hum towards their home, <br>\r\nand songbirds fashion musical tunes <br>\r\nmore enchanting than the colors of autumn.<br>\r\n<br>\r\n<br>\r\n<br>\r\nWinter's Solace<br>\r\n<br>\r\nThe snow gently fell on the mountain pass <br>\r\n<br>\r\nAll things were covered and shimmered like glass <br>\r\n<br>\r\nIn the distance, stood but a single young doe <br>\r\n<br>\r\nAs the forest revealed its icy show <br>\r\n<br>\r\nFir trees were bent - in reverence - they bowed <br>\r\n<br>\r\nRabbits remained hidden beneath the tree's shroud <br>\r\n<br>\r\nIcicles hanging, a lustrous cascade <br>\r\n<br>\r\nA light wind blowing a melodious serenade <br>\r\n<br>\r\nThe mountain streams were now covered in ice <br>\r\n<br>\r\nIt was winter's welcome to paradise. <br>"
+data:
+  weight: 3.0
+  value: 80
+  book_type: Book
+  skill: None
+  enchantment: 0

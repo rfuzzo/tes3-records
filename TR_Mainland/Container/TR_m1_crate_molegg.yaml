@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m1_crate_molegg
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 5
+  - TR_m1_lud_random_molecrab_egg

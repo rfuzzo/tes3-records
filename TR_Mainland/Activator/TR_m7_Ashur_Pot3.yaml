@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m7_Ashur_Pot3
+name: Balveni Alen
+script: ''
+mesh: tr\m\tr_misc_stn_pot_03.nif

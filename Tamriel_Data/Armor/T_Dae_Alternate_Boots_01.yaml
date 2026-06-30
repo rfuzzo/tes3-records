@@ -1,0 +1,28 @@
+type: Armor
+flags: ''
+id: T_Dae_Alternate_Boots_01
+name: Daedric Boots
+script: ''
+mesh: PC\a\pc_a_dae_boot_gnd.nif
+icon: pc\a\pc_a_daedric_boots.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: LeftFoot
+  male_bodypart: T_A_DaeAltBoots_F
+  female_bodypart: ''
+- biped_object_type: LeftAnkle
+  male_bodypart: T_A_DaeAltBoots_A
+  female_bodypart: ''
+- biped_object_type: RightFoot
+  male_bodypart: T_A_DaeAltBoots_F
+  female_bodypart: ''
+- biped_object_type: RightAnkle
+  male_bodypart: T_A_DaeAltBoots_A
+  female_bodypart: ''
+data:
+  armor_type: Boots
+  weight: 60.0
+  value: 20000
+  health: 800
+  enchantment: 263
+  armor_rating: 80

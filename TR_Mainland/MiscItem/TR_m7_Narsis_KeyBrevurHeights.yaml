@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m7_Narsis_KeyBrevurHeights
+name: Brevur Heights Key
+script: ''
+mesh: TR\m\TR_Key_DD20.NIF
+icon: TR\m\TR_Key_DD20.dds
+data:
+  weight: 0.0
+  value: 300
+  flags: KEY

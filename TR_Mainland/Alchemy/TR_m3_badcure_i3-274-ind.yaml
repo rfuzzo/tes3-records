@@ -1,0 +1,20 @@
+type: Alchemy
+flags: ''
+id: TR_m3_badcure_i3-274-ind
+name: Failed Potion of Cure Corprus
+script: ''
+mesh: m\Misc_Fabricant_Elixir.NIF
+icon: m\Tx_fabricant_elixir.dds
+effects:
+- magic_effect: Poison
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 15
+  min_magnitude: 10
+  max_magnitude: 10
+data:
+  weight: 5.0
+  value: 0
+  flags: ''

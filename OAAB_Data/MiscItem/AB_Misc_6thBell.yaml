@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_6thBell
+name: Sixth House Bell
+script: ''
+mesh: OAAB\m\yy_bell_6th.nif
+icon: OAAB\m\yy_bell_6th.dds
+data:
+  weight: 15.0
+  value: 500
+  flags: ''

@@ -1,0 +1,23 @@
+type: Clothing
+flags: ''
+id: AB_c_CommonShirt02b
+name: Common Shirt
+script: ''
+mesh: OAAB\c\c_shirt_com02_gnd.nif
+icon: c\tx_shirt_com02.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: AB_c_ComShirt02b_ch_m
+  female_bodypart: AB_c_ComShirt02b_ch_f
+- biped_object_type: LeftUpperArm
+  male_bodypart: AB_c_ComShirt02b_ua_m
+  female_bodypart: AB_c_ComShirt02b_ua_f
+- biped_object_type: RightUpperArm
+  male_bodypart: AB_c_ComShirt02b_ua_m
+  female_bodypart: AB_c_ComShirt02b_ua_f
+data:
+  clothing_type: Shirt
+  weight: 2.0
+  value: 4
+  enchantment: 20

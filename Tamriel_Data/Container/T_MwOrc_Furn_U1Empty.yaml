@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: T_MwOrc_Furn_U1Empty
+name: Urn
+script: ''
+mesh: tr\f\tr_malorc_urn1.nif
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory: []

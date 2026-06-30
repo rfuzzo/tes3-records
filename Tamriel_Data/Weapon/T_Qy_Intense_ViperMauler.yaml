@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Qy_Intense_ViperMauler
+name: Intense Vipermauler
+script: ''
+mesh: pi\w\pi_w_bronze_whammer.nif
+icon: pi\w\pi_w_bronze_whammer.dds
+enchanting: T_Strike_IntenseViper
+data:
+  weight: 32.0
+  value: 430
+  weapon_type: BluntTwoClose
+  health: 2410
+  speed: 1.0
+  reach: 1.5
+  enchantment: 125
+  chop_min: 1
+  chop_max: 22
+  slash_min: 1
+  slash_max: 22
+  thrust_min: 1
+  thrust_max: 2
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

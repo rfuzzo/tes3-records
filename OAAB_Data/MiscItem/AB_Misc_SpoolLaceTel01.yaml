@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_SpoolLaceTel01
+name: Spool
+script: ''
+mesh: OAAB\m\spool_lace_tel1.nif
+icon: OAAB\m\spool_lace_tel1.tga
+data:
+  weight: 0.5
+  value: 15
+  flags: ''

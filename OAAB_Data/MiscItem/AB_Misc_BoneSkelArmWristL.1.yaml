@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_BoneSkelArmWristL.1
+name: Left Wrist
+script: ''
+mesh: OAAB\m\skelWristL.1.nif
+icon: OAAB\m\skelWristL.tga
+data:
+  weight: 0.5
+  value: 1
+  flags: ''

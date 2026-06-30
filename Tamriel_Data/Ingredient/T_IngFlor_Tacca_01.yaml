@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_Tacca_01
+name: Tacca Seeds
+script: ''
+mesh: pc\n\pc_ingred_tacca_01.nif
+icon: pc\n\Tx_ingred_tacca_01.dds
+data:
+  weight: 0.2
+  value: 4
+  effects:
+  - DrainMagicka
+  - FortifyAttribute
+  - FortifyAttackBonus
+  - WeaknessToPoison
+  skills:
+  - None
+  - Block
+  - None
+  - None
+  attributes:
+  - None
+  - Strength
+  - None
+  - None

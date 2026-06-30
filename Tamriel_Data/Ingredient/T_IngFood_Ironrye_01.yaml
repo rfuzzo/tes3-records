@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_Ironrye_01
+name: Ironrye
+script: ''
+mesh: pc\n\pc_ing_ironrye_01.nif
+icon: pc\n\pc_tx_ingred_ironrye.dds
+data:
+  weight: 0.1
+  value: 1
+  effects:
+  - RestoreFatigue
+  - DrainMagicka
+  - DamageAttribute
+  - FortifyHealth
+  skills:
+  - None
+  - None
+  - Block
+  - None
+  attributes:
+  - None
+  - None
+  - Agility
+  - None

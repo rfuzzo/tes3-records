@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: TR_m3-531_crate_01_eggb
+name: Crate
+script: TR_i3_531_eggcrate_scn
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory: []

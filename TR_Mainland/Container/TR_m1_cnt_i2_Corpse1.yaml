@@ -1,0 +1,31 @@
+type: Container
+flags: ''
+id: TR_m1_cnt_i2_Corpse1
+name: Corpse
+script: ''
+mesh: o\contain_corpse20.NIF
+encumbrance: 120.0
+container_flags: IS_BASE
+inventory:
+- - 250
+  - Gold_001
+- - 1
+  - T_Com_Wood_Crossbow_01
+- - 1
+  - T_Imp_Legion_Dagger_01
+- - 15
+  - T_Imp_Silver_Bolt_DireShocksph
+- - 1
+  - T_Imp_StuddedLeather_Boots_01
+- - 1
+  - T_Imp_StuddedLeather_Greaves_01
+- - 1
+  - T_Imp_StuddedLeather_Helm_01
+- - 1
+  - T_Imp_StuddedLeather_PauldrL_01
+- - 1
+  - T_Imp_StuddedLeather_PauldrR_01
+- - 1
+  - imperial_studded_cuirass
+- - 1
+  - ingred_bonemeal_01

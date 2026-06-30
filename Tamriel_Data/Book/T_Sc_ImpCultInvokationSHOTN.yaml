@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Sc_ImpCultInvokationSHOTN
+name: Invocation
+script: ''
+mesh: m\Text_Scroll_01.NIF
+icon: m\Tx_scroll_open_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nInvocation<BR><BR>\r\nCome to me Akatosh, may your power fulfil me.<BR>\r\nCome to me Talos, may your strength protect me.<BR>\r\nCome to me Julianos, may your wisdom enlighten me.<BR>\r\nCome to me Kynareth, may your winds guide me.<BR>\r\nCome to me Zenithar, may your labors temper me.<BR>\r\nCome to me Stendarr, may your justice defend me.<BR>\r\nCome to me Mara, may your love compel me.<BR>\r\nCome to me Dibella, may your beauty seduce me.<BR>\r\nCome to me Arkay, may your duty encourage me.<BR><BR>\r\nFlee from me Azura, may your sphere never trap me.<BR>\r\nFlee from me Boethiah, may your plots never betray me.<BR>\r\nFlee from me Clavicus Vile, may your deals never involve me.<BR>\r\nFlee from me Hermaeus Mora, may your knowledge never consume me.<BR>\r\nFlee from me Hircine, may your beasts never hunt me.<BR>\r\nFlee from me Malacath, may your fate never befall me.<BR>\r\nFlee from me Mehrunes Dagon, may your ambition never destroy me.<BR>\r\nFlee from me Mephala, may your webs never entangle me.<BR>\r\nFlee from me Meridia, may your light never blind me.<BR>\r\nFlee from me Molag Bal, may your chains never enslave me.<BR>\r\nFlee from me Namira, may your darkness never corrupt me.<BR>\r\nFlee from me Nocturnal, may your shadows never hide me.<BR>\r\nFlee from me Peryite, may your diseases never harm me.<BR>\r\nFlee from me Sanguine, may your debauchery never taint me.<BR>\r\nFlee from me Sheogorath, may your madness never take me.<BR>\r\nFlee from me Vaermina, may your dreams never haunt me.<BR>\r\n<BR>"
+data:
+  weight: 0.2
+  value: 3
+  book_type: Scroll
+  skill: None
+  enchantment: 0

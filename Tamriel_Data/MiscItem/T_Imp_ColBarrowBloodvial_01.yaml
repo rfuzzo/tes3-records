@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_ColBarrowBloodvial_01
+name: Colovian Blood Reliquary
+script: ''
+mesh: pc\m\pc_misc_bloodvial.nif
+icon: pc\m\pc_misc_bloodvial.dds
+data:
+  weight: 0.1
+  value: 100
+  flags: ''

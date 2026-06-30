@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Rga_UNI_NebsTalon
+name: Neb's Talon
+script: ''
+mesh: sky\w\sky_w_neb_talon_01.nif
+icon: sky\w\sky_w_neb_talon_01.dds
+enchanting: T_Const_NebsTalon
+data:
+  weight: 8.0
+  value: 20000
+  weapon_type: ShortBladeOneHand
+  health: 1800
+  speed: 2.5
+  reach: 1.0
+  enchantment: 0
+  chop_min: 10
+  chop_max: 25
+  slash_min: 10
+  slash_max: 25
+  thrust_min: 11
+  thrust_max: 35
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

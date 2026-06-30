@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Mw_Fauna_Plainstrider_01
+name: Plainstrider
+script: T_ScCrea_Plainstrider
+mesh: tr\cr\tr_cr_plainstrider_01.nif

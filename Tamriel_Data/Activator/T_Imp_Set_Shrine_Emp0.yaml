@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_Set_Shrine_Emp0
+name: Shrine of Emperor Zero
+script: T_ScObj_ShrineCuhlecain
+mesh: pc\x\pc_ex_wshrn_05.nif

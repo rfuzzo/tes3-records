@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: AB_bk_KnowingYourPlace
+name: Knowing Your Place
+script: ''
+mesh: OAAB\m\ab_octavo_04.nif
+icon: OAAB\m\ab_octavo_04.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe Importance of Knowing Your Place<BR>\r\nAn Instructional Letter To His Apprentice<BR>\r\nBy Ernestus Abertus<BR>\r\nUniversity of Gwylim Press\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nI have travelled far and wide across Tamriel in my time, and although I learned many lessons, above all I learned to respect time and place. If one knows when and where one is, one knows all.\r\n<BR>\r\nThe inferior mage relies on their strength of will alone. They shun the inconvenience of making sure that they are in the right place at the right time. They see nothing wrong in casting spells of great healing on Arkay's days of remembrance for the dead, nothing perverse in casting rituals of transformation mid-season while standing amidst ruins that have endured unchanged for long eras.\r\n<BR>\r\nTake for example the Princes of Oblivion. Any fool who can read can rhyme off their traditional dates of summoning: 1st Morning Star, when promises are made, belongs to Clavicus Vile. Dawn and dusk are Azura's, Lover's Day Sanguine's... As I trust you follow, I shan't bore myself with the full recital.\r\n<BR>\r\nSo why do some summoning rituals succeed where others end in silence or bloodsoaked catastrophe? Because the when is easy, but the superior mind also knows the importance of the where, and the how of the where. \r\n<BR>\r\nAs a hypothetical example, suppose two mages wish to invite themselves to tea with the Prince of Madness. The first, lacking both imagination and empathy, travels to one of the great shrines to demand an audience. They do not know their place. The other understands that Sheogorath can be found as easily in a shoe as in a shrine, or never found at all. It is not given to mortals to command Madness. The finesse is in knowing the where that matters: the shoe in a storm is more inviting than the grandest of shrines, and after all the goal is to be invited to a place at a time. \r\n<BR>\r\nI shan't labor this point any further either: no doubt you either have the capacity to understand, or you don't. Remember to mind your whens and wheres, and give my regards to your grandmother.\r\n<BR><BR>\r\nFondest wishes,<BR>\r\nErnestus\r\n<BR><BR>\r\n[Editor's Note: the esteemed guild master embarked on further travels in his fine new pair of boots shortly after writing this letter to his apprentice. Sadly, he has not been heard from since. We at the University Press hope that he, knowing precisely when and where he is, has not lost himself.]\r\n<BR>\r\n<BR>"
+data:
+  weight: 1.0
+  value: 25
+  book_type: Book
+  skill: None
+  enchantment: 0

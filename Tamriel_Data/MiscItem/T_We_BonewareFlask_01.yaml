@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_We_BonewareFlask_01
+name: Boneware Flask
+script: ''
+mesh: VA\m\va_m_We_flask.nif
+icon: va\m\va_m_We_flask.dds
+data:
+  weight: 1.5
+  value: 4
+  flags: ''

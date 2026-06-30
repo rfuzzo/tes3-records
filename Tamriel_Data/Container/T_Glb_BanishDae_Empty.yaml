@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: T_Glb_BanishDae_Empty
+name: Daedric Sigil
+script: ''
+mesh: tr\l\tr_l_dae_ward_o_01.nif
+encumbrance: 0.0
+container_flags: IS_BASE
+inventory: []

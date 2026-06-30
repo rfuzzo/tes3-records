@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: sc_elementalburstfrost
+name: Scroll of Elemental Burst:Frost
+script: ''
+mesh: m\text_scroll_01.nif
+icon: m\tx_scroll_open_01.tga
+enchanting: sc_elementalburstfrost_en
+text: <DIV ALIGN="center"><FONT COLOR="000000" SIZE="12" FACE="Daedric">CRUSH YOUR ENEMIES</FONT><BR>
+data:
+  weight: 0.2
+  value: 161
+  book_type: Scroll
+  skill: None
+  enchantment: 0

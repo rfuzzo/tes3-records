@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: note to hrisskar
+name: Note to Hrisskar
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "Hrisskar,<p>\r\n\r\nDon't think I've forgotten our wager. I want this dagger sharp as a scamp's claw by morning. <p>\r\n\r\nGanciele<p>"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

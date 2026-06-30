@@ -1,0 +1,25 @@
+type: Ingredient
+flags: PERSISTENT
+id: TR_m7_q_Ns_IC8_gem1
+name: Ametrine
+script: ''
+mesh: tr\n\tr_ing_ametrine.nif
+icon: tr\n\tr_ing_ametrine.dds
+data:
+  weight: 0.2
+  value: 120
+  effects:
+  - FortifyAttribute
+  - ResistMagicka
+  - WeaknessToMagicka
+  - Levitate
+  skills:
+  - Block
+  - None
+  - None
+  - None
+  attributes:
+  - Endurance
+  - None
+  - None
+  - None

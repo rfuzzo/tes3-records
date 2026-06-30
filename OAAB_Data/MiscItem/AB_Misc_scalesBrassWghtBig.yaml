@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_scalesBrassWghtBig
+name: Brass Weight
+script: ''
+mesh: OAAB\m\scalesBrassWghtBig.nif
+icon: OAAB\m\scalesBrassWghtBig.dds
+data:
+  weight: 0.2
+  value: 3
+  flags: ''

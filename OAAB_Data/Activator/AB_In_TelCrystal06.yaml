@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_In_TelCrystal06
+name: ''
+script: Sound_Crystal_Ringing
+mesh: OAAB\i\t_crystal_06.nif

@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m3_q_12_RingOfPoisonousTouch
+name: Ring of Poisonous Touch
+script: ''
+mesh: c\C_Ring_common05.NIF
+icon: c\tx_ring_common05.tga
+enchanting: TR_m3_q_12_PoisonousTouch
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 50
+  enchantment: 10

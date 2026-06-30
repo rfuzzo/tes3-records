@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_BkGenPI_VisitorList_01
+name: Visitor List
+script: ''
+mesh: pi\m\pi_sc_palm_closed_01.nif
+icon: pi\m\pi_sc_palm_closed_01.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n[A list of everyone who has entered or left the premises is logged here.]<BR>"
+data:
+  weight: 1.2
+  value: 2
+  book_type: Scroll
+  skill: None
+  enchantment: 0

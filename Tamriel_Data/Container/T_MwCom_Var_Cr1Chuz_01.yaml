@@ -1,0 +1,25 @@
+type: Container
+flags: ''
+id: T_MwCom_Var_Cr1Chuz_01
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_De_Bonemold_Chuzei_Boots
+- - 1
+  - T_De_Bonemold_Chuzei_BracerL
+- - 1
+  - T_De_Bonemold_Chuzei_BracerR
+- - 1
+  - T_De_Bonemold_Chuzei_Cuirass
+- - 1
+  - T_De_Bonemold_Chuzei_Greaves
+- - 1
+  - T_De_Bonemold_Chuzei_PauldL
+- - 1
+  - T_De_Bonemold_Chuzei_PauldR
+- - 1
+  - bonemold_chuzei_helm

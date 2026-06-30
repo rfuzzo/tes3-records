@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m2_kmlz_Kark_mix1
+name: ''
+script: TR_m2_kmlz_Kark_mix1_sc
+mesh: i\act_dwe_gyro00.NIF

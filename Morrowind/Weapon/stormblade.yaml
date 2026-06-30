@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: stormblade
+name: Stormblade
+script: ''
+mesh: w\W_Iron_Longsword.nif
+icon: w\Tx_Iron_longsword.tga
+enchanting: shocking touch_en
+data:
+  weight: 20.0
+  value: 65
+  weapon_type: LongBladeOneHand
+  health: 800
+  speed: 1.35
+  reach: 1.0
+  enchantment: 60
+  chop_min: 2
+  chop_max: 13
+  slash_min: 1
+  slash_max: 18
+  thrust_min: 4
+  thrust_max: 16
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

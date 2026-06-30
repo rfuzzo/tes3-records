@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2_q_A8_1_VuvilNote
+name: Letter to Vuvil
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nVuvil<BR>\r\n<BR>\r\nI had my doubts, but the look on Hlorgir's face as you took him away was hilarious - he was shrieking like a newborn guar!<br>\r\n<br>\r\nUnfortunately the next shipment will be a bit delayed. Apparently security around Helnim has tightened lately, what with all the tension between the Telvanni and the Imperials. Still, I trust that I can rely on you to ensure that the guards at Ammar are looking the other way when Ennodius comes sailing in with the Mazte.<br>\r\n<br>\r\nTredyn<br>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

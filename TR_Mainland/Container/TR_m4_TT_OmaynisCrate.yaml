@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: TR_m4_TT_OmaynisCrate
+name: Crate
+script: TR_m4_TT_LastWillDisable_sc
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: ORGANIC | IS_BASE
+inventory: []

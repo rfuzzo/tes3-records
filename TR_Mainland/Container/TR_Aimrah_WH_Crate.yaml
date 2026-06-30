@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: TR_Aimrah_WH_Crate
+name: Crate
+script: ''
+mesh: o\Contain_crate_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_De_IndBonemold_Cuirass_01
+- - 1
+  - T_Imp_Silver_Mace_02

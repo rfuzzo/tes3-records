@@ -1,0 +1,29 @@
+type: Clothing
+flags: ''
+id: T_Imp_Ex_RobeConsular_01
+name: Procolsul's Robe
+script: ''
+mesh: pc\c\pc_c_robe_consular_g.nif
+icon: pc\c\pc_c_robe_consular.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_C_ConsularRobe_C
+  female_bodypart: T_C_ConsularRobe_CF
+- biped_object_type: LeftWrist
+  male_bodypart: ''
+  female_bodypart: ''
+- biped_object_type: RightWrist
+  male_bodypart: ''
+  female_bodypart: ''
+- biped_object_type: LeftAnkle
+  male_bodypart: ''
+  female_bodypart: ''
+- biped_object_type: RightAnkle
+  male_bodypart: ''
+  female_bodypart: ''
+data:
+  clothing_type: Robe
+  weight: 3.0
+  value: 80
+  enchantment: 400

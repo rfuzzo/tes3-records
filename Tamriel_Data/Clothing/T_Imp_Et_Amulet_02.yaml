@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Imp_Et_Amulet_02
+name: Extravagant Agate Amulet
+script: ''
+mesh: pc\c\pc_c_etamulet_02.nif
+icon: pc\c\pc_c_etamulet_02.dds
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 120
+  enchantment: 600

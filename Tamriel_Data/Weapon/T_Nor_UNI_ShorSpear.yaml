@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Nor_UNI_ShorSpear
+name: Spear of Shor's Blood
+script: ''
+mesh: Sky\w\sky_w_shor_spear.nif
+icon: sky\w\sky_w_shor_spear.dds
+enchanting: T_Const_ShorSpear
+data:
+  weight: 30.0
+  value: 120000
+  weapon_type: SpearTwoWide
+  health: 1200
+  speed: 1.0
+  reach: 1.9
+  enchantment: 100
+  chop_min: 2
+  chop_max: 8
+  slash_min: 2
+  slash_max: 8
+  thrust_min: 5
+  thrust_max: 40
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

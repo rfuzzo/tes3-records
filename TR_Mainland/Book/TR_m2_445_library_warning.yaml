@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2_445_library_warning
+name: A Caution to Disciples
+script: ''
+mesh: m\Text_Parchment_01.NIF
+icon: m\Tx_parchment_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR><BR>\r\nA Caution to Disciples!<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\nThe Repository of Saint Veloth contains a number of texts that have been deemed heretical and pose a great danger to the minds of the uninitiated. These texts are preserved here only so that they may be studied by the Orders of Doctrine and Inquisition, to better protect the faithful.<BR><BR>\r\nThose that seek the words of ALMSIVI find them on the central dais.<BR>\r\nThose that seek to pay homage to Veloth the Pilgrim find a shrine at the back wall.<BR>\r\nThose that seek to understand the lies of our adversaries find them away from the center.<BR><BR>\r\nBeware the words of the followers of Alandro-Sul. They reject our Lords and seek to poison the hearts of the faithful.<BR>\r\nBeware the temptations of the Cyrods and their so-called scholars. They sow doubt and seek to confuse the minds of the faithful.<BR>\r\nBeware the untruths of the Sixth House and the Sharmat. They present dreams as facts and seek to rewrite our history.<BR>\r\nBeware the misinterpretations of House Dwemer. Their Reason and Logic cannot hold a candle to the light of the Tribunal.<BR>\r\nBeware the machinations of the children of Padhome. They make promises of power but they serve nothing but themselves.<BR>\r\n<DIV ALIGN=\"CENTER\"><BR><BR>\r\nDo not stray from Veloth's Path.<BR>\r\nWalk softly in the Temple of False Thinking.<BR>\r\nSpeak none but good of the Gods.<BR>\r\n<BR><BR>\r\n"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

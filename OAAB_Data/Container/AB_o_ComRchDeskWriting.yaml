@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: AB_o_ComRchDeskWriting
+name: Desk
+script: ''
+mesh: OAAB\o\comRchDesk.nif
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - 5
+  - AB_lvl_Writing

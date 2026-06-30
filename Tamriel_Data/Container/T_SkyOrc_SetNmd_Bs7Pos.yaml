@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_SkyOrc_SetNmd_Bs7Pos
+name: Basket
+script: ''
+mesh: Sky\o\Sky_Cont_Orc_BSKT_07.nif
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - 6
+  - T_Sky_Random_Pos

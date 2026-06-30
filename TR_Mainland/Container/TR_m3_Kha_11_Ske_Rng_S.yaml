@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: TR_m3_Kha_11_Ske_Rng_S
+name: Corpse
+script: ''
+mesh: o\contain_corpse10.NIF
+encumbrance: 120.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - TR_m3_Kha_11_Ring_Sneak
+- - 1
+  - ingred_bonemeal_01

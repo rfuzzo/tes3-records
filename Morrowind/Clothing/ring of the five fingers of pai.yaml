@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: ring of the five fingers of pai
+name: Ring of the Five Fingers of Pai
+script: ''
+mesh: c\C_Ring_common03.NIF
+icon: c\tx_ring_common03.tga
+enchanting: five fingers of pain_en
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 50
+  enchantment: 150

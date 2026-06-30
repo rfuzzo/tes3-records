@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_AbMonitor_08
+name: FORT HEATH MINE OUTPUT SLOWS
+script: T_ScNews_Bellman_Paper
+mesh: pc\m\pc_text_note_anv_news.nif
+icon: pc\m\pc_text_note_anv_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"PC\\pc_abmonitor.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nFORT HEATH IRON MINE PRODUCTION SLOWS<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nA concerning report from a source at Fort Heath indicated that the venerable mine is approaching the end of its viable lifetime. Per the source, who declined to give their name or rank, Fort Heath's gargantuan mine complex has seen its output steadily decline for the last six years. Though some have speculated that new shafts might be dug deeper below the historic main gallery, the prospect of further iron to be found is wholly uncertain.<BR><BR>\r\nFort Heath's iron has long been essential to the Imperial Legion's steel production, outfitting troopers from High Rock to the Padomaic islands. Legion High Command will no doubt seek a new source in the coming years, though it is unclear if any large untouched iron deposits remain to be mined in Cyrodiil.<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

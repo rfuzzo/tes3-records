@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: mother's ring
+name: Mother's Ring
+script: ''
+mesh: c\C_Ring_common01.NIF
+icon: c\Tx_ring_common01.tga
+enchanting: mother's kiss_en
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 12
+  enchantment: 10

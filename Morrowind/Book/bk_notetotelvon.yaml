@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: bk_notetotelvon
+name: Note to Telvon
+script: ''
+mesh: m\Text_Note_02.nif
+icon: m\Tx_note_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nTelvon,<BR>\r\n<BR>\r\nStay out. This place has some sort of enchantment on it. I only got out because I cast a mark spell here before I went inside. Meet me back in Vos. We'll have to seek our fortune elsewhere.<BR>\r\n<BR>\r\n"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

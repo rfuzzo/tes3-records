@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: tr_m4_bandit_journal
+name: Bandit Log
+script: ''
+mesh: m\Misc_paper_plain_01.nif
+icon: m\Tx_paper_plain_01.tga
+enchanting: ''
+text: "[A journal, mostly listing items taken in raids but a few passages catch your attention.]\r\n<br>\r\n...threw them four bolts of cloth. They gave us a nobleman's attire and spare shirt...\r\n<br>\r\n...handed off an amulet we lifted from some healer. Ruddy bastard gave a key but no way of knowing what it's for...\r\n<br>\r\n...two of those stinking brews Niloth makes for a handful of pearls...\r\n<br>\r\n...the creature gave us a king's ransom in exchange for a few lousy bottles of skooma. Going to have the shakes for a week, but ain't likely to ever have them again with this haul...\r\n<br>\r\n...guards nearly caught us this time. Only managed to nag some alit hides. Some crab meat floated up for it, which we'll need while we lay low...\r\n<br>\r\n...tossed in a pair of spears, and only got some fish scales. Riddrs' been giving me the evil eye for that one...\r\n<br>\r\n...gave a pair of worn-out pauldrons. Grak and List got some new toys for those...\r\n<br>\r\n...Prallia dropped another pauldron in and got a new cutter...\r\n<br>\r\n...some s'wit came nosing around and Grak took his head. Chose to toss it in for a laugh, and a great glob of wax came up...<br>"
+data:
+  weight: 1.0
+  value: 3
+  book_type: Scroll
+  skill: None
+  enchantment: 50

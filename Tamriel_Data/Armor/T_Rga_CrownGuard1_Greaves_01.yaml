@@ -1,0 +1,31 @@
+type: Armor
+flags: ''
+id: T_Rga_CrownGuard1_Greaves_01
+name: Crown Chain Greaves
+script: ''
+mesh: sky\a\sky_a_redguard_gr_g.nif
+icon: sky\a\tx_red_armor_greaves.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Groin
+  male_bodypart: T_A_RgaCrownguard1Greaves01_G
+  female_bodypart: ''
+- biped_object_type: RightUpperLeg
+  male_bodypart: T_A_RgaCrownguard1Greaves01_UL
+  female_bodypart: ''
+- biped_object_type: RightKnee
+  male_bodypart: T_A_RgaCrownguard1Greaves01_K
+  female_bodypart: ''
+- biped_object_type: LeftUpperLeg
+  male_bodypart: T_A_RgaCrownguard1Greaves01_UL
+  female_bodypart: ''
+- biped_object_type: LeftKnee
+  male_bodypart: T_A_RgaCrownguard1Greaves01_K
+  female_bodypart: ''
+data:
+  armor_type: Greaves
+  weight: 12.0
+  value: 35
+  health: 130
+  enchantment: 100
+  armor_rating: 13

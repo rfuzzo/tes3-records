@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_ThorntailFlower_01
+name: Thorntail Flower
+script: ''
+mesh: EPoS\n\els_cactus_flower_01.nif
+icon: epos\n\cactus_flower_01.dds
+data:
+  weight: 0.1
+  value: 5
+  effects:
+  - DrainAttribute
+  - FortifyAttribute
+  - DrainAttribute
+  - CurePoison
+  skills:
+  - Block
+  - Block
+  - Block
+  - None
+  attributes:
+  - Strength
+  - Agility
+  - Speed
+  - None

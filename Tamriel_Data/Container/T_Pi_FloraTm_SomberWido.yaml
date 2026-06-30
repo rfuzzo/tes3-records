@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Pi_FloraTm_SomberWido
+name: Somber Widow
+script: ''
+mesh: pi\f\pi_flora_tm_flower_01.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - T_PI_Random_FlorSomberWidow

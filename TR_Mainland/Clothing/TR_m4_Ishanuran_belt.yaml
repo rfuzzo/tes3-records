@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m4_Ishanuran_belt
+name: Belt of Returned Hope
+script: ''
+mesh: c\C_belt_Expensive_1.NIF
+icon: c\tx_belt_expensive01.tga
+enchanting: TR_m4_Ishanuran_belt_en
+biped_objects: []
+data:
+  clothing_type: Belt
+  weight: 1.0
+  value: 2000
+  enchantment: 720

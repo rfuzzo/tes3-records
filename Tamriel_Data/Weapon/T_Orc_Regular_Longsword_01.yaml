@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Orc_Regular_Longsword_01
+name: Orcish Longsword
+script: ''
+mesh: tr\w\tr_w_orcish_longsword.nif
+icon: tr\w\tr_w_orcish_longsword.dds
+enchanting: ''
+data:
+  weight: 10.0
+  value: 2200
+  weapon_type: LongBladeOneHand
+  health: 2000
+  speed: 1.35
+  reach: 1.0
+  enchantment: 85
+  chop_min: 10
+  chop_max: 20
+  slash_min: 8
+  slash_max: 25
+  thrust_min: 6
+  thrust_max: 17
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

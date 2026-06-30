@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Com_Adamant_Halberd_01
+name: Adamantium Halberd
+script: ''
+mesh: TR\w\TR_w_adamant_halberd.NIF
+icon: TR\w\TR_w_adamant_halberd.dds
+enchanting: ''
+data:
+  weight: 25.0
+  value: 10000
+  weapon_type: SpearTwoWide
+  health: 900
+  speed: 1.0
+  reach: 1.8
+  enchantment: 80
+  chop_min: 1
+  chop_max: 8
+  slash_min: 1
+  slash_max: 36
+  thrust_min: 8
+  thrust_max: 8
+  flags: ''

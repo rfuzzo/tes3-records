@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_Oth_MG_1_SquatMark
+name: ''
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: ''
+enchanting: ''
+text: The squatters at Vandirelyon can end up here during the events of the Othmura Mages Guild questline. (TR_m7_Oth_MG_1)
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

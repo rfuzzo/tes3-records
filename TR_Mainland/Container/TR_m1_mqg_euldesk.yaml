@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: TR_m1_mqg_euldesk
+name: Evoh's Desk
+script: ''
+mesh: o\Contain_De_Desk_01.NIF
+encumbrance: 75.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - ingred_daedra_skin_01
+- - 1
+  - ingred_daedras_heart_01
+- - 1
+  - ingred_diamond_01

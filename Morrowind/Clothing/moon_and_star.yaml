@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: moon_and_star
+name: Moon-and-Star
+script: MoonAndStar
+mesh: c\C_Ring_MoonNStar.NIF
+icon: c\tx_ring_moonstar.tga
+enchanting: moon_and_star_en
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 2000
+  enchantment: 1200

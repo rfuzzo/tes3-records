@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_i2-355-TriBlessing02
+name: Shelter from the Sharmat
+script: ''
+mesh: m\Text_paper_roll_01.nif
+icon: m\Tx_paper_roll_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"center\"><FONT COLOR=\"000000\" SIZE=\"2\" FACE=\"Daedric\">STRONG IS THE SHELTER UNDER MERCY MASTERY MYSTERY<BR>\r\nTHE RIGHTEOUS ARE SAFE IN IT</FONT><BR>"
+data:
+  weight: 0.2
+  value: 15
+  book_type: Scroll
+  skill: None
+  enchantment: 100

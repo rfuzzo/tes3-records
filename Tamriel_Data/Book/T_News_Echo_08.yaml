@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Echo_08
+name: MASSACRE IN BALMORA
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_text_note_nar_news.nif
+icon: tr\m\tr_text_note_nar_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\tr_echo_512_256.dds\" WIDTH=\"348\" HEIGHT=\"168\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nMASSACRE IN BALMORA SYMPTOM OF LARGER CRIME SPREE<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nWhile the recent murder of several innocent citizens at Balmora's Council Club may seem like an isolated, if tragic, incident, some disturbing signs have pointed to a more sinister motivation behind the act. A number of similar attacks have taken place recently, all perpetrated against other businesses, by the Thieves' Guild. It seems that since the opening of Vvardenfell and with its continued colonization, the organization has been emboldened to commit these acts of sabotage and violence, which will only escalate further if not dealt with swiftly. But the Empire's justice is often slow to move -- why, the Guild is practically considered a legitimate enterprise in some parts of Cyrodiil! And if the law continues to stand idly by while such events take place unhindered, then it can be easily understood why some might decide to take matters into their own hands, lest this pattern claims their lives as well.<BR><BR>\r\n<DIV ALIGN=\"CENTER\">\r\nINVESTMENT SPOTLIGHTS<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nIn Telvannis District to the far northeast, the small trade town of Helnim hides plenty of profit to be made with a stake in its most prominent enterprise: the Zafirbel Bay Company. While not yet as widely known as its friendly competitor, the East Empire Company, the ZBC has already established a firm trading partnership with the nearby Telvanni settlement of Tel Gilan. They sell kwama eggs, bug musk, and saltrice at reasonable prices, and are sure to provide a sizable return on any investments you make.<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

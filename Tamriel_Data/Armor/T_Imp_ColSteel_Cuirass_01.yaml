@@ -1,0 +1,22 @@
+type: Armor
+flags: ''
+id: T_Imp_ColSteel_Cuirass_01
+name: Colovian Steel Cuirass
+script: ''
+mesh: pc\a\PC_a_ColoStl_01_CG.nif
+icon: pc\a\pc_a_ColoStl_Cuir_1.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_A_ImpColSteelCuirass01_C
+  female_bodypart: T_A_ImpColSteelCuirass01_CF
+- biped_object_type: Neck
+  male_bodypart: T_A_ImpColSteelCuirass01_N
+  female_bodypart: T_A_ImpColSteelCuirass01_NF
+data:
+  armor_type: Cuirass
+  weight: 30.0
+  value: 200
+  health: 500
+  enchantment: 200
+  armor_rating: 17

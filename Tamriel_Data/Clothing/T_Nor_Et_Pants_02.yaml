@@ -1,0 +1,35 @@
+type: Clothing
+flags: ''
+id: T_Nor_Et_Pants_02
+name: Extravagant Pants
+script: ''
+mesh: sky\c\sky_c_pnts_14_gnd.nif
+icon: sky\c\tx_c_pnts_14.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Groin
+  male_bodypart: T_C_NorEtPants02_G
+  female_bodypart: ''
+- biped_object_type: LeftAnkle
+  male_bodypart: T_C_NorEtPants02_A
+  female_bodypart: ''
+- biped_object_type: LeftUpperLeg
+  male_bodypart: T_C_NorEtPants02_UL
+  female_bodypart: ''
+- biped_object_type: RightAnkle
+  male_bodypart: T_C_NorEtPants02_A
+  female_bodypart: ''
+- biped_object_type: RightUpperLeg
+  male_bodypart: T_C_NorEtPants02_UL
+  female_bodypart: ''
+- biped_object_type: LeftKnee
+  male_bodypart: T_C_NorEtPants02_K
+  female_bodypart: ''
+- biped_object_type: RightKnee
+  male_bodypart: T_C_NorEtPants02_K
+  female_bodypart: ''
+data:
+  clothing_type: Pants
+  weight: 3.0
+  value: 60
+  enchantment: 300

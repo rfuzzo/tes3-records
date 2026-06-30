@@ -1,0 +1,27 @@
+type: Container
+flags: ''
+id: TR_m7_desk_felmaru
+name: Desk
+script: ''
+mesh: TR\o\TR_De_R_Desk01.NIF
+encumbrance: 75.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - TR_m7_q_jnscontract
+- - 2
+  - T_Mw_Random_BooksRedoran
+- - 1
+  - T_Mw_Random_ClutterDesk
+- - 1
+  - l_m_potion
+- - 1
+  - random gold
+- - 1
+  - random gold_lev_05
+- - 1
+  - random gold_lev_10
+- - 1
+  - random gold_lev_15
+- - 1
+  - random gold_lev_20

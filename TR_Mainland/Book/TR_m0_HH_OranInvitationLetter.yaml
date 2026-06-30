@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m0_HH_OranInvitationLetter
+name: Letter from Atran Oran
+script: ''
+mesh: m\Text_paper_roll_01.nif
+icon: m\Tx_paper_roll_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>\r\nGreetings, %PCName<BR>\r\n<BR>\r\nYour involvement in the Inanius egg mine affair has come to my attention. Please join me for a drink on my plantation in Aanthirin. There are some questions I would like you to answer.<BR>\r\n<BR>\r\nCouncilman Atran Oran<BR>\r\n<BR>\r\n"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

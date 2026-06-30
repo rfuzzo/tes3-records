@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_BkFaction_DarkbrotherhSHOTN
+name: The Five Tenets
+script: ''
+mesh: Sky\m\Sky_Book_Basic_05.nif
+icon: Sky\m\Tx_Book_Basic_05.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe Five Tenets<BR><BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nTenet 1: Never dishonor the Night Mother. To do so is to invoke the Wrath of Sithis.<BR>\r\n<BR>\r\nTenet 2: Never betray the Dark Brotherhood or its secrets. To do so is to invoke the Wrath of Sithis.<BR>\r\n<BR>\r\nTenet 3: Never disobey or refuse to carry out an order from a Dark Brotherhood superior. To do so is to invoke the Wrath of Sithis.<BR>\r\n<BR>\r\nTenet 4: Never steal the possessions of a Dark Brother or Dark Sister. To do so is to invoke the Wrath of Sithis.<BR>\r\n<BR>\r\nTenet 5: Never kill a Dark Brother or Dark Sister. To do so is to invoke the Wrath of Sithis.<BR>\r\n<BR>"
+data:
+  weight: 3.0
+  value: 10
+  book_type: Book
+  skill: None
+  enchantment: 0

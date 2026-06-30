@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m2_He_MG_LamplitEnsaldaHouse
+name: ''
+script: TR_m2_He_MG_LamplitHouseCheck
+mesh: EditorMarker.NIF

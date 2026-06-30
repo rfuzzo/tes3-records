@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_OE_IAS_cyro-nordic
+name: Cyro-Nordic Collection
+script: ''
+mesh: m\Text_Parchment_01.NIF
+icon: m\Tx_parchment_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe Cyro-Nordic Collection <BR> <BR>\r\n<DIV ALIGN=\"CENTER\">\r\nEven before Tiber Septim's victorious conquest the empires of men had already on several occasions struggled to gain permanent dominance over Morrowind. Both the Vragemen of Skyrim in the First Era and the Reman legions in the Second Era have had a significant role to play in the province's history. The various armament -- of both Nord and Imperial origin -- in this collection have been excavated in the western and northern parts of Morrowind. <br> <br> "
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

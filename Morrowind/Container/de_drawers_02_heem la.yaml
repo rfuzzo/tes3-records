@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: de_drawers_02_heem la
+name: Chest of Drawers
+script: ''
+mesh: o\Contain_De_Drawers_02.NIF
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory: []

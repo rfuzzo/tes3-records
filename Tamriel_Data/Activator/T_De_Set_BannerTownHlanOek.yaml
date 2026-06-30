@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_De_Set_BannerTownHlanOek
+name: Hlan Oek
+script: OutsideBanner
+mesh: tr\f\tr_banner_hlanoek.nif

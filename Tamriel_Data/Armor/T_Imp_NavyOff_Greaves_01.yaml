@@ -1,0 +1,25 @@
+type: Armor
+flags: ''
+id: T_Imp_NavyOff_Greaves_01
+name: Navy Officer Greaves
+script: ''
+mesh: tr\a\TR_A_NavyOff_Greav_G.nif
+icon: tr\a\tr_a_navyoff_greav.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Groin
+  male_bodypart: a_imperial_greaves_g
+  female_bodypart: ''
+- biped_object_type: LeftUpperLeg
+  male_bodypart: T_A_ImpNavyOffGreaves01_UL
+  female_bodypart: ''
+- biped_object_type: RightUpperLeg
+  male_bodypart: T_A_ImpNavyOffGreaves01_UL
+  female_bodypart: ''
+data:
+  armor_type: Greaves
+  weight: 17.0
+  value: 105
+  health: 170
+  enchantment: 25
+  armor_rating: 17

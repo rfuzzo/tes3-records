@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: chargen stuff room
+name: ''
+script: CharGenStuffRoom
+mesh: i\In_C_plain_room_side.nif

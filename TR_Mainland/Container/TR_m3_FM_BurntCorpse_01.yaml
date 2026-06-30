@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m3_FM_BurntCorpse_01
+name: Burnt Corpse
+script: TR_NecMQ_SeherbalDestrScript
+mesh: i\In_CI_mummy_05.NIF
+encumbrance: 0.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - ingred_bonemeal_01

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m3_OE_AshStatue
+name: Old Ebonheart Ash Statue
+script: ashStatueTopic
+mesh: m\Misc_6th_Ash_Statue_01.NIF
+icon: m\Misc_6th_Ash_Statue_01.tga
+data:
+  weight: 4.0
+  value: 10
+  flags: ''

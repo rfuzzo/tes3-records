@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_FW_RL_ShippingLog02
+name: Runners League Shipping Log
+script: ''
+mesh: tr\m\tr_book_tomebk_05.nif
+icon: tr\m\tr_book_closed_tome05.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>Tuition and Fees<BR> <BR><DIV ALIGN=\"Left\">\r\n[This detailed ledger contains information about the various trading ships of the Runners League, their cargoes, and the timing of their voyages. Most Skyrim ships bound for Cathnoquey appear  to stop in Firewatch for resupply.]\r\n<BR>"
+data:
+  weight: 8.0
+  value: 100
+  book_type: Book
+  skill: None
+  enchantment: 0

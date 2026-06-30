@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: de_p_desk_ministry
+name: Grand Inquisitor's desk
+script: ''
+mesh: o\Contain_De_Desk_01.NIF
+encumbrance: 75.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - Gold_001
+- - 1
+  - key_ministry_sectors

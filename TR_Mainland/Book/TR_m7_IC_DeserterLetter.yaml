@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_IC_DeserterLetter
+name: Letter from Trelam
+script: ''
+mesh: m\Text_Note_02.nif
+icon: m\Tx_note_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<BR>\r\nDear sister, <BR>\r\n<BR>\r\nI can only beg forgiveness from you, and from all my kin I leave behind. This is a stain on your honor and the clan's as much as it is a stain on mine. We are not bound by blood, yet when I remember your face I think of you as if we were twins from the same mother. Use this letter as proof that I renounce my kinship with you, not out of hatred, but to save your reputation from being spoiled so by failures that are not your own. It is the best I can do. <BR>\r\n<BR>\r\nTrelam Sethri<BR>\r\n<BR>\r\n"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 100

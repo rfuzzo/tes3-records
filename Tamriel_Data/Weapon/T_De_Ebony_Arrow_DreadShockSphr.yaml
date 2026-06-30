@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_De_Ebony_Arrow_DreadShockSphr
+name: Dread Shocksphere Arrow
+script: ''
+mesh: w\W_Ebony_arrow.NIF
+icon: w\tx_arrow_ebony.tga
+enchanting: T_Strike_DreadSparksArea
+data:
+  weight: 0.2
+  value: 20
+  weapon_type: Arrow
+  health: 10
+  speed: 1.0
+  reach: 1.0
+  enchantment: 30
+  chop_min: 5
+  chop_max: 10
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

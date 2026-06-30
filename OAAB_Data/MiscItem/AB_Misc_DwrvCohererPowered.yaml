@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_DwrvCohererPowered
+name: Powered Dwemer Coherer
+script: ''
+mesh: OAAB\m\dwrvCohererCharged.nif
+icon: OAAB\m\dwrvCohererCharged.tga
+data:
+  weight: 40.0
+  value: 60
+  flags: ''

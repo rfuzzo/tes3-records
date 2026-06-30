@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2_bk_conjurs_review
+name: Conjur's Book Review
+script: TR_m2_Bk_ConjurBookReview_scp
+mesh: m\Text_Scroll_01.nif
+icon: m\Tx_scroll_open_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nA Small Collection of Brief but Insightful Literary Criticisms<BR>\r\nby Conjur, Z.B.C. Helnim<BR>\r\nRespectfully submitted for publication in 'The Ebonheart Bellman'<BR>\r\n<BR>\r\n\"The Arrowshot Woman\", various authors<BR>\r\n<BR>\r\nThis collection of tall tales and fables from ever-mysterious Elswyr will delight netch ranchers, dairy-maids, and all others who have yet to travel beyond sight of their place of birth. For the rest of us, this ponderous collection of absurd anecdotes and cat-man capers serves a more noble purpose: my copy keeps papers firmly anchored against drafts and breeze. Recommended for young readers, indeed, the younger, the better.\r\n<BR><BR>\r\n\"The Necklace\", Ormax Endre<BR>\r\n<BR>\r\nThe Empire's mandate to rule Tamriel rests not only on legions and levies, but also the heavenly stream of artistic inspiration that flows from the Nine Divines into man and mer. And nowhere, faithful citizens, is this divine providence less apparent than in \"The Necklace\". With prose unburdened of both nuance and character, the plot careens from death to destruction at the pulse-pounding pace of a shopping list. No, this novel is not for the faint of heart -- prepare for an ambush at the hands of a twist ending so obvious that I could not sleep afterwards. In short, meddle not in the affairs of dragons, dear reader, lest ye find yourself featured in the next of Endre's lurid, pithy tavern tales.\r\n<BR><BR>\r\n\"Hope of the Redoran\", Turiul Nirith<BR>\r\n<BR>\r\nThis provincial classic is an ideal introduction to the ancient, venerated, and famously disagreeable culture of Morrowind's native Great Houses. Great House Redoran (rulers of domains of blight, blizzard, and bugs) venerate honor, loyalty, and utter joylessness: these principles you will encounter in spades. This dour Dunmer morality tale on the virtues of clubbing your enemies to death will have you reaching for a Census and Excise form in search of something to read. Perhaps the true Hope of the Redoran is a novel in which characters do aught but grouse about murder and politics. \r\n<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 1

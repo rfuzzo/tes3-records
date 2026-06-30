@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_He_DirenniFork_01
+name: Direnni Fork
+script: ''
+mesh: sky\m\sky_misc_dfork_01.nif
+icon: sky\m\tx_misc_dfrk_01.dds
+data:
+  weight: 0.5
+  value: 7
+  flags: ''

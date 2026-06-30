@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: templar belt
+name: Imperial Templar Belt
+script: ''
+mesh: c\C_belt_Common_1.NIF
+icon: c\TX_C_belt_leather00.tga
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Belt
+  weight: 2.0
+  value: 4
+  enchantment: 100

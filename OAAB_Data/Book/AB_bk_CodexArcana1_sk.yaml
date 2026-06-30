@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: AB_bk_CodexArcana1_sk
+name: Codex Arcana, Volume I
+script: ''
+mesh: m\Text_Octavo_07.NIF
+icon: m\Tx_book_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nCodex Arcana, Volume I<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nSTUDENTS AND SCHOLAR: Attend our Abjurations!<BR>\r\nSHOWING DUE PROPRIETY IN THE CUSTODY OF BOOKS<BR>\r\n<BR>\r\nWe not only render service to the Emperor in preparing volumes of new books, but also exercise an office of sacred piety when we treat books carefully, and again when we restore them to their proper places and commend them to inviolable custody; that they may rejoice in purity while we have them in our hands, and rest securely when they are restored to their repositories. And surely next to the vestments and engines dedicated to the Emperor's glory, arcane books deserve to be rightly treated by the battlemage, to which great injury is done so often as they are touched by unclean hands. Wherefore we deem it expedient to warn our students against various negligences, such as might be easily avoided and which do wonderful harm to books.<BR>\r\n<BR>\r\nBeing a partial index of arcane contrivances known to the scholars and alchemists of Battlespire, that these contrivances might more readily be known to all students, and neither abused, nor neglected, nor wasted in their employment.<BR>\r\n<BR>\r\n\"Art of Corruption\"<BR>\r\nProduces the casting of Major Poison Damage Range<BR>\r\n<BR>\r\n\"Beaks of Lightning\"<BR>\r\nCasts the spell of Major Shock Damage Range<BR>\r\n<BR>\r\n\"Bite of Fleshrime\"<BR>\r\nRenders the power of Medium Frost Damage Range<BR>\r\n<BR>\r\n\"Blossom of Chastening Fire\"<BR>\r\nProduces the casting of Minor Fire Damage Range<BR>\r\n<BR>\r\n\"Boils of Handfire\"<BR>\r\nProduces the casting of Minor Fire Damage<BR>\r\n<BR>\r\n\"Bone of Resolve\"<BR>\r\nProduces the casting of Spell Resistance<BR>\r\n<BR>\r\n\"Breath of the Vampire\"<BR>\r\nProduces the casting of Vampiric Drain<BR>\r\n<BR>\r\n\"Candle of the Lesser Vigil\"<BR>\r\nRenders the power of Minor Shield<BR>\r\n<BR>\r\n\"Coals of Bonesear\"<BR>\r\nRenders the power of Major Fire Damage<BR>\r\n<BR>\r\n\"Din of Revelations\"<BR>\r\nRenders the power of Major Delayed Damage<BR>\r\n<BR>\r\n\"Dove of Blistering Fire\"<BR>\r\nRenders the power of Medium Fire Damage Range<BR>\r\n<BR>\r\n\"Ewer of Purity\"<BR>\r\nRenders the power of Cure Poison<BR>\r\n<BR>\r\n\"Excrescence of Ice\"<BR>\r\nProduces the casting of Major Frost Damage<BR>\r\n<BR>"
+data:
+  weight: 2.0
+  value: 60
+  book_type: Book
+  skill: Destruction
+  enchantment: 20

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: tr_m7_narsis_sign_04
+name: Redwater Theater
+script: SignRotate
+mesh: tr\f\tr_act_sign_scrolls.nif

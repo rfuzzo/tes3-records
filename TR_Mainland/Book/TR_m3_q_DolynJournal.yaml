@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: TR_m3_q_DolynJournal
+name: Journal of Dolyn Volor
+script: TR_m3_q_DolynJournal_Script
+mesh: m\Text_Folio_03.NIF
+icon: m\Tx_folio_03.tga
+enchanting: ''
+text: "\r\n<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[The Journal has most of its pages torn out. The few that remain detail the escapades of a young Dolyn Volor. There are detailed accounts of various crimes he committed throughout the years of 3E 392 to 3E 396, including robbery and skooma smuggling.]\r\n<BR>\r\n[Scrawled on the inside of the back cover is a note, presumably written by Dolyn Volor post-facto.]\r\n<BR>\r\n\"Let this tattered journal serve as a reminder of not only where I came from, but how far I have progressed since. By the Three, may I never return to my old ways.\"\r\n<BR>"
+data:
+  weight: 4.0
+  value: 50
+  book_type: Book
+  skill: None
+  enchantment: 0

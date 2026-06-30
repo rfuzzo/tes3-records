@@ -1,0 +1,40 @@
+type: Book
+flags: ''
+id: T_Bk_RemanSonOfReman
+name: Reman, Son of Reman
+script: ''
+mesh: TR\m\TR_book_closed02_AA.NIF
+icon: TR\m\TR_book_closed02_AA.tga
+enchanting: ''
+text: |-
+  <DIV ALIGN="CENTER"><FONT COLOR="000000" SIZE="3" FACE="Magic Cards"><BR>Reman, Son of Reman<BR>
+
+  <DIV ALIGN="LEFT"><FONT COLOR="003300"><BR>Chapter 1: The birth of Reman the Son<BR>
+
+  <FONT COLOR="000000"><BR>And in the days following the heirless death of Reman Cyrodiil, during that quiet interim when no man sat on the Ruby Throne and the chim-el adabal hung upon a statue of Aless and not a breathing neck, it came to pass that in the halls of the Imperial Palace would live, attended to by several servants, a sinuous and ample heifer cow by name of Morihatha. Though beasts of the fields are scorned with impertinent contempt in the effeminate East, Reman Cyrodiil himself had assured the high standing of this singular cow, having gathered all the greatest of his subjects to Sancre Tor, presenting them the calf Morihatha, and announcing that she would bear his heir and that they would form an Elder Council to care for her.
+
+  And so it was that for eighteen tenmoons, which is thirty Elven years, Morihatha had lived comfortably at ease in the palacehalls, until the day that she, much to the surprise of her caretakers, was found to be with child. By the present the Council had much changed, and the only member still living that remembered Reman's face and tongue was the far eastern snake Tsamien-Varyel, who had betrayed his own kin and advised Reman's armies, and who, by the apathy of others or his own treachery, declared himself Potentate of the Council and controlled its affairs.
+
+  It was this devil who sent Morihatha to a priory near Chorrol, where nine months hence she went into labor, and all were amazed when out of her womb climbed a beautiful full grown youth, who, surveying the scene before him with wise eyes, spoke in a regal northern voice, saying, I am Reman, son of Reman, son of Hrol.<BR>
+
+  <FONT COLOR="003300"><BR>Chapter 2: Reman claims his rightful Throne<BR>
+
+  <FONT COLOR="000000"><BR>For eighteen elven years Reman, son of Reman, toiled under the sun, plowing the fields and tending to the stock, and in time his face became rugged and bearded, and he took to dressing as a common monk, draping himself in plain robes and covering his head in respect for the divines above, to whom he gave blessed benedictions, especially to the one who was known only as the Coming Crown of Storms, and only in the language of mountainwhispers.
+
+  But after eighteen years, he left the priory for Chorrol, city of the old oak where Porcus of Listegrad had fallen asleep only to be awoken by a choir of whistlepigs giving tidings of the coming of the Paravant so that he may gather an army of highlanders and descend upon the Elven fortresses and ready them for her arrival. Here the line of Porcus had since reigned for a hundred generations, and its pious count, Norriolas, son of Kantus, knew the dragon's blood when he saw Reman.
+
+  They gathered an army of private blades, and while at first they were so few that they could hide in the caves along the toll roads, within two weeks the size of Reman's army had grown to several thousand, and in four it was in the tens of thousands, containing trained soldiers and working people alike, all marching in the name of a holy emperor who rode among them on the back of an ass. They faced little resistance as they passed through Colovia, rather, as the mass marched over hamlets it would gather them up within its mass, as all were enamoured with the Emperor among them.
+
+  It was then that Reman announced, to some surprise, that they would march upon the great City of Empires, the Nibennion. On the extended bridge before the gates of the White-Gold City, the painted eyed Nibenese myrmidons stood in tight formation, their tower shields held high and their dai-katanas drawn, subservient weaklings of foreign lords. The mass of true Nedic spirit halted not thirty yards from these well groomed traitors with their flags and banners in the languages of the Far East, but no battle was made for the moment. Reman rode forth to the front of the crowd, and continued to ride toward the wall of soldiers before him, and the army was powerless to halt him as he came before the great gates of the Imperial City and climbed the steps to the palace of all Tamriel, speaking invokations to each emperor in turn.
+
+  With each step he spoke a name, first Al-Esh, then Paravant, and each of her other names in turn, and then Belharza and onward through Ami-El and Hestra all the way to his own glorious father. Two steps remain, and he spoke first the name Reman! for a second time, and then the name Talos!, which had not yet come, but which struck fear in the hearts of the Elder Council waiting just beyond the threshold.
+
+  Reman stepped before the bust of Alessia, from which hung the Red Diamond of the Empire, and hung it about his neck. In a scarlet flash Reman's cloak was thrown back, and a diamond-shaped wound was cut into his breast. From his wound came the words, I AM CYRODIIL COME - REMAN SON OF REMAN SON OF HROL.
+
+  And so, not one of the councilors dared obstruct him as he climbed the steps of the White-Gold Tower and claimed his mighty Throne, for he was Reman, son of Reman, son of Hrol, rightful Emperor of the two Cyrodiils and of all Tamriel.<BR>
+data:
+  weight: 2.0
+  value: 50
+  book_type: Book
+  skill: None
+  enchantment: 0

@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: AB_f_MarshmBundle1_o
+name: Marshmerrow Bundle
+script: ''
+mesh: OAAB\f\marshm_bundle_01.nif
+encumbrance: 0.0
+container_flags: IS_BASE
+inventory:
+- - 5
+  - random_marshmerrow

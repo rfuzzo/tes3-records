@@ -1,0 +1,60 @@
+type: Alchemy
+flags: ''
+id: T_Com_Potion_FortifyCasting_S
+name: Standard Fortify Casting
+script: ''
+mesh: m\Misc_Potion_Standard_01.nif
+icon: m\Tx_potion_standard_01.tga
+effects:
+- magic_effect: FortifySkill
+  skill: Alteration
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 30
+  min_magnitude: 10
+  max_magnitude: 10
+- magic_effect: FortifySkill
+  skill: Conjuration
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 30
+  min_magnitude: 10
+  max_magnitude: 10
+- magic_effect: FortifySkill
+  skill: Destruction
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 30
+  min_magnitude: 10
+  max_magnitude: 10
+- magic_effect: FortifySkill
+  skill: Illusion
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 30
+  min_magnitude: 10
+  max_magnitude: 10
+- magic_effect: FortifySkill
+  skill: Mysticism
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 30
+  min_magnitude: 10
+  max_magnitude: 10
+- magic_effect: FortifySkill
+  skill: Restoration
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 30
+  min_magnitude: 10
+  max_magnitude: 10
+data:
+  weight: 0.75
+  value: 35
+  flags: ''

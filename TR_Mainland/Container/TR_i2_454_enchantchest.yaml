@@ -1,0 +1,23 @@
+type: Container
+flags: PERSISTENT
+id: TR_i2_454_enchantchest
+name: Chest
+script: ''
+mesh: o\contain_de_chest_02.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - -1
+  - TR_i2_454_threeseals
+- - -1
+  - TR_i2_ancestralwardamulet
+- - -1
+  - amulet of almsivi intervention
+- - 1
+  - amulet of health
+- - 1
+  - herder's belt
+- - 1
+  - second barrier ring
+- - 1
+  - velothian_helm

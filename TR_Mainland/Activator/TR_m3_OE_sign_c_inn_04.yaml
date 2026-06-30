@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_OE_sign_c_inn_04
+name: The Empress Katariah
+script: SignRotate
+mesh: TR\f\tr_act_sign_inn_12.nif

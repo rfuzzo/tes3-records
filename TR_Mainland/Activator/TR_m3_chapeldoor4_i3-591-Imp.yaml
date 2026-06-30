@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m3_chapeldoor4_i3-591-Imp
+name: ''
+script: TR_m3_OE_TombPermaOpen_scp
+mesh: x\Ex_imp_foundation_01.nif

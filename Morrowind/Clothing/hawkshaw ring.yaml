@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: hawkshaw ring
+name: Hawkshaw Ring
+script: ''
+mesh: c\C_Ring_common02.NIF
+icon: c\tx_ring_common02.tga
+enchanting: tevral's hawkshaw_en
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 2
+  enchantment: 10

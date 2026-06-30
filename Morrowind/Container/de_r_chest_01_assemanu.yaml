@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: de_r_chest_01_assemanu
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - robe of st roris
+- - 150
+  - random gold
+- - 1
+  - p_levitation_e
+- - 150
+  - Gold_001

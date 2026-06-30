@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Bre_Artisan_Dagger_01
+name: Wayrest Artisan Dagger
+script: ''
+mesh: TR\w\tr_w_breton_dagger.nif
+icon: TR\w\tr_w_breton_dagger.dds
+enchanting: ''
+data:
+  weight: 3.5
+  value: 60
+  weapon_type: ShortBladeOneHand
+  health: 450
+  speed: 2.5
+  reach: 1.0
+  enchantment: 30
+  chop_min: 5
+  chop_max: 6
+  slash_min: 5
+  slash_max: 6
+  thrust_min: 6
+  thrust_max: 7
+  flags: ''

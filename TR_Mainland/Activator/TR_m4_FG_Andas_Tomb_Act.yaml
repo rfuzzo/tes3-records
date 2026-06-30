@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_FG_Andas_Tomb_Act
+name: Andas Hidden Tomb Activator
+script: TR_m4_FG_Andas_Tomb_Act_sc
+mesh: EditorMarker.NIF

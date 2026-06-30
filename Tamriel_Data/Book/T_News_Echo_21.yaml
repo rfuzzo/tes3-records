@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Echo_21
+name: NARSIS ARCH-MAGE RETURNS
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_text_note_nar_news.nif
+icon: tr\m\tr_text_note_nar_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\tr_echo_512_256.dds\" WIDTH=\"348\" HEIGHT=\"168\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nARCH-MAGE RETURNS FROM AWRY EXPERIMENT<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nArch-Mage Bellette of the Narsis District Mages Guild, who recently was declared as missing by the Canyon Echo, has suddenly and surprisingly returned to the guild hall after a long absence. Details of the Arch-Mage's original disappearance have not yet been revealed to the Canyon Echo, only that \"an experiment of the Arch-Mage's simply went wrong and she was lost to us for some time. Rest assured that she has been recovered alive and unharmed by certain determined members of the guild, and regular operations will soon resume.\"<BR><BR>\r\nThis comes not long after the guild vehemently denied accusations of the Arch-Mage's disappearance, telling Canyon Echo reporters that she was simply on \"sabbatical.\" Though any official reasoning has not yet been provided, one has to ponder the details of the Arch-Mage's failed experiment and why it was so necessary to lie to reporters.<BR><BR>\r\nThough the Arch-Mage reportedly \"needs to rest\" and has not yet spoken to reporters herself, the guild's second-in-command Ralsa Ondusi has concluded that \"this event should be viewed as a great fortune to the global magical community, as while there is still much work to be done before our findings can be publicly disclosed, the advancements we have made in the course of rescuing the Arch-Mage shall surely open the door for future discovery regarding lost spells and magical archeology.\"<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

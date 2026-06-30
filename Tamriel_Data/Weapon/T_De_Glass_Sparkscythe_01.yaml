@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_De_Glass_Sparkscythe_01
+name: Glass Sparkscythe
+script: ''
+mesh: TR\w\tr_w_glass_dkatana.NIF
+icon: TR\w\tr_w_glass_dkatana.dds
+enchanting: cruel spark_en
+data:
+  weight: 12.0
+  value: 42000
+  weapon_type: LongBladeTwoClose
+  health: 1840
+  speed: 1.35
+  reach: 1.0
+  enchantment: 46
+  chop_min: 1
+  chop_max: 37
+  slash_min: 1
+  slash_max: 33
+  thrust_min: 1
+  thrust_max: 15
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

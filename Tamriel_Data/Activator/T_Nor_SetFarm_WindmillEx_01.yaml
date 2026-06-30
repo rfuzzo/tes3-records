@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Nor_SetFarm_WindmillEx_01
+name: ''
+script: T_ScObj_WeatherAnimSHOTN
+mesh: Sky\x\Sky_Ex_Farm_WML_01.nif

@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_HrBre_FurnM_Ds1Pos
+name: Desk
+script: ''
+mesh: hr\o\hr_furn_bre_m_desk01.nif
+encumbrance: 75.0
+container_flags: IS_BASE
+inventory:
+- - 3
+  - T_Hr_Random_Pos

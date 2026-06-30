@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_AbMonitor_38
+name: MARAV STRIKE SETTLED PEACEFULLY
+script: T_ScNews_Bellman_Paper
+mesh: pc\m\pc_text_note_anv_news.nif
+icon: pc\m\pc_text_note_anv_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"PC\\pc_abmonitor.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nMARAV FARMERS STRIKE RESOLVED PEACEFULLY<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nA tense situation in Marav was resolved after mediation from Kingdom of Anvil representatives working for Reymanus Pelelius, Marshal of the Strident Shore. The people of the small farming village, which lies just across the Naharine River from Anvil, had taken Reeve Keitius Nobius captive and stopped all work in protest of Imperial tolerance of slavery in Morrowind. Marav's farmers demanded an ongoing subsidy from the Crown in exchange for resuming work and releasing the Reeve.<BR><BR>\r\nThe standoff was resolved by a negotiated settlement arranged by the Kingdom of Anvil's representative, a captable %PCRace working on behalf of Marshal Reymanus Pelelius. While the demand for an ongoing subsidy was denied, the Kingdom agreed to pay a one-time sum to compensate the Marav farmers for their market losses to slave-grown imports. The Marshal also promised the farmers that their interests would be advocated for by the administration more actively going forward in the Kingdom's negotiations with interprovincial firms and the Empire's trade administrators.<BR><BR>\r\nReeve Nobius, who was sympathetic to the villagers' cause, urged the Kingdom to take no retaliatory action. \"The people of Marav are hard-working and decent, and they felt that they had no other way to be heard,\" he told the Monitor. \"When Nibenese monopolists import slave-grown food from Morrowind at low prices, Colovian farmers simply can't compete.\"<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Com_Furn_BedSky_05
+name: Bed
+script: Bed_Standard
+mesh: Sky\f\Sky_Act_Furn_C_Bed_05.nif

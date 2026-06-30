@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_TJ_Court_GFence
+name: ''
+script: TR_m4_TJ_Court_GFence_sc
+mesh: x\ex_gg_fence_s_02.nif

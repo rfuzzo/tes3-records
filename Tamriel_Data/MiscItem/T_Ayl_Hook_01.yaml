@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Ayl_Hook_01
+name: Ayleid Hook
+script: ''
+mesh: pc\m\pc_ayl_hook.nif
+icon: pc\m\pc_misc_ayl_hook.dds
+data:
+  weight: 1.0
+  value: 5
+  flags: ''

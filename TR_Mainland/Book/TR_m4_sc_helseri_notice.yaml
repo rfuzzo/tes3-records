@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: TR_m4_sc_helseri_notice
+name: For sale
+script: TR_m4_sc_helserinote_script
+mesh: m\Text_Parchment_02.nif
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nFOR SALE<BR>\r\nThe farmhouse is for sale. All those interested in buying it should speak with the appointed manager of the plantation's finances, the honorable serjo Ulvo Hlaari, at the Oran Manor.<BR>\r\n"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

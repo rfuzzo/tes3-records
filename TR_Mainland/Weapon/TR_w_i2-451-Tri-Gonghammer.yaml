@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_w_i2-451-Tri-Gonghammer
+name: Sanctified Gong Beater
+script: ''
+mesh: pc\w\pc_w_silver_mace.nif
+icon: pc\w\pc_w_silver_mace.dds
+enchanting: ''
+data:
+  weight: 12.0
+  value: 100
+  weapon_type: BluntOneHand
+  health: 1280
+  speed: 1.3
+  reach: 1.0
+  enchantment: 100
+  chop_min: 3
+  chop_max: 14
+  slash_min: 1
+  slash_max: 10
+  thrust_min: 1
+  thrust_max: 2
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE | SILVER

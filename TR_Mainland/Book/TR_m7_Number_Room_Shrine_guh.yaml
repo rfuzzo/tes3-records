@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_Number_Room_Shrine_guh
+name: Note To Self
+script: ''
+mesh: tr\tr_note_pin.nif
+icon: default icon.dds
+enchanting: ''
+text: "I shall cut your soul with my curved blade\r\nI shall pierce your heart with my divine arrow\r\nI shall break your shell with my bug shield\r\n\r\n I shall break your shell with my bug shield\r\n\r\n> Correct, you may now recieve a blessing from the shrine\r\n\r\n[Shrine descriptor]\r\n- vivec\r\n- Boethiah\r\n- new way and old way\r\netc..\r\n"
+data:
+  weight: 0.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 0

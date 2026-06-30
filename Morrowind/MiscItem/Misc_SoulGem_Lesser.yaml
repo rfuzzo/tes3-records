@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: Misc_SoulGem_Lesser
+name: Lesser Soul Gem
+script: ''
+mesh: m\Misc_soulgem_lesser.NIF
+icon: m\Tx_soulgem_Lesser.tga
+data:
+  weight: 0.5
+  value: 20
+  flags: ''

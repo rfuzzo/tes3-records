@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Imp_Legion_GSword_01
+name: Imperial Greatsword
+script: ''
+mesh: tr\w\tr_w_imperial_gsword.nif
+icon: tr\w\tr_w_imperial_gsword.dds
+enchanting: ''
+data:
+  weight: 30.0
+  value: 180
+  weapon_type: LongBladeTwoClose
+  health: 2200
+  speed: 1.25
+  reach: 1.0
+  enchantment: 85
+  chop_min: 1
+  chop_max: 27
+  slash_min: 1
+  slash_max: 23
+  thrust_min: 1
+  thrust_max: 18
+  flags: ''

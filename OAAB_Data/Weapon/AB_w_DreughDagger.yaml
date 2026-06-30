@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_DreughDagger
+name: Dreugh Dagger
+script: ''
+mesh: OAAB\w\dreugh_dagger.nif
+icon: OAAB\w\dreugh_dagger.tga
+enchanting: ''
+data:
+  weight: 2.7
+  value: 300
+  weapon_type: ShortBladeOneHand
+  health: 360
+  speed: 2.5
+  reach: 1.0
+  enchantment: 15
+  chop_min: 6
+  chop_max: 8
+  slash_min: 6
+  slash_max: 8
+  thrust_min: 7
+  thrust_max: 8
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

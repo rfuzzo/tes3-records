@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_SetDoomstoneGC_Jone
+name: Jone Stone
+script: T_ScObj_DoomHJonePC
+mesh: pc\f\pc_dmstn_gc_heavens.nif

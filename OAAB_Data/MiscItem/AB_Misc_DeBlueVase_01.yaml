@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_DeBlueVase_01
+name: Vase
+script: ''
+mesh: OAAB\m\misc_blue_vase.nif
+icon: OAAB\m\misc_blue_vase.dds
+data:
+  weight: 2.0
+  value: 20
+  flags: ''

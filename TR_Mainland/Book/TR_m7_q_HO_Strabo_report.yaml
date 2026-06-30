@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: TR_m7_q_HO_Strabo_report
+name: Hlan Oek Tax Report
+script: TR_m7_q_StraboReport_scr
+mesh: m\Text_paper_roll_01.nif
+icon: m\Tx_paper_roll_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>\r\nLast Seed 427\r\n<BR>\r\nThe levy on merchants collected by the Hlaalu has returned 1834 Septims. Of this, 230 Septims shall be passed on to the Imperial treasuries.\r\n<BR>\r\nThe complete breakdown of payment is as follows:\r\n<BR>\r\nAsani Serdimapal -- 222\r\n<BR>\r\nDrala Uval -- 293\r\n<BR>\r\n[The list continues]\r\n<BR>\r\n\r\n"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

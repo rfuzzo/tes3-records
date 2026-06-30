@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: active_triolith_01a
+name: Triolith
+script: MoveTriolith
+mesh: f\Active_triolith_01a.NIF

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_MeatChicken_01
+name: Chicken Leg
+script: ''
+mesh: Sky\n\Sky_Ingred_CHLeg_01.NIF
+icon: Sky\n\Tx_Ingred_CHLeg_01.dds
+data:
+  weight: 0.2
+  value: 2
+  effects:
+  - RestoreFatigue
+  - Feather
+  - DrainAttribute
+  - None
+  skills:
+  - None
+  - Block
+  - Block
+  - None
+  attributes:
+  - None
+  - Endurance
+  - Endurance
+  - None

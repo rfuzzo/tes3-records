@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngMine_OreBitterstone_01
+name: Bitterstone Ore
+script: ''
+mesh: pi\n\pi_ing_bitter_01.nif
+icon: pi\n\pi_ing_bitter.dds
+data:
+  weight: 3.0
+  value: 75
+  effects:
+  - DrainAttribute
+  - WeaknessToFire
+  - ResistCommonDisease
+  - Telekinesis
+  skills:
+  - Block
+  - None
+  - None
+  - None
+  attributes:
+  - Willpower
+  - None
+  - None
+  - None

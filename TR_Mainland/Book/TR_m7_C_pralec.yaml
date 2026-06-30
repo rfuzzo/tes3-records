@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_C_pralec
+name: pralec easter egg note
+script: ''
+mesh: tr\tr_note_pin.nif
+icon: default icon.dds
+enchanting: ''
+text: '"pralec" measurement and dialogue topic is a reference to the creator of the Long Jump quest, pralec.'
+data:
+  weight: 0.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 0

@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: TR_m4_AndoMnrA_Chest_01
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 550
+  - Gold_001
+- - 2
+  - T_Com_MetalPieceGold_02
+- - 450
+  - random gold
+- - 1
+  - silver dagger

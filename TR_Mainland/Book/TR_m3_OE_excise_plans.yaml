@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_OE_excise_plans
+name: Census and Excise Building Plan
+script: ''
+mesh: m\Text_Scroll_02.NIF
+icon: m\Tx_scroll_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nStep One: Remove furniture and other valuables\r\nStep Two: Demolish floor and support pillars\r\n[Heavy black ink smudges run down most of the page; the text is unreadable]\r\nStep Fifteen: Construction is complete - report to your nearest supervisor. <BR>\r\n\r\n\r\n"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

@@ -1,0 +1,36 @@
+type: Alchemy
+flags: ''
+id: T_Rga_Drink_WineSutchTalan_01
+name: Talan's Heritage Wine
+script: ''
+mesh: pc\m\pc_misc_wine_talan.nif
+icon: pc\m\pc_wine_talan.dds
+effects:
+- magic_effect: Burden
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 40
+  max_magnitude: 40
+- magic_effect: DrainAttribute
+  skill: None
+  attribute: Agility
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 20
+  max_magnitude: 20
+- magic_effect: FortifyHealth
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 20
+  max_magnitude: 20
+data:
+  weight: 1.0
+  value: 30
+  flags: ''

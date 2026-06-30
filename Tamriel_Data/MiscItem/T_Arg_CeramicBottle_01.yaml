@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Arg_CeramicBottle_01
+name: Ceramic Bottle
+script: ''
+mesh: bm\m\bm_cer_bott_01.nif
+icon: bm\m\bm_misc_bott_01.dds
+data:
+  weight: 1.5
+  value: 2
+  flags: ''

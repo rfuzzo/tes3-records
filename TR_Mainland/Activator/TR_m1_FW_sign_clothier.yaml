@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m1_FW_sign_clothier
+name: Adlan Fine Garments
+script: SignRotate
+mesh: f\Active_sign_C_clothing_01.NIF

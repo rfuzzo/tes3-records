@@ -1,0 +1,22 @@
+type: Armor
+flags: ''
+id: T_De_DresBonemold_PauldronL_01
+name: Native Gah'Kogo Left Pauldron
+script: ''
+mesh: TR\a\TR_a_dres_pld_gnd.NIF
+icon: TR\a\tr_a_dres_pauldron.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: LeftUpperArm
+  male_bodypart: T_A_DeDresBonemoldPauldr01_UA
+  female_bodypart: ''
+- biped_object_type: LeftPauldron
+  male_bodypart: T_A_DeDresBonemoldPauldr01_Cl
+  female_bodypart: ''
+data:
+  armor_type: LeftPauldron
+  weight: 8.0
+  value: 160
+  health: 200
+  enchantment: 16
+  armor_rating: 19

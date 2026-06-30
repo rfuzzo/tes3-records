@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_WelkyndDust_01
+name: Welkynd Dust
+script: ''
+mesh: pc\n\pc_ing_welkynddust.nif
+icon: pc\n\pc_tx_ingred_welkdst.dds
+data:
+  weight: 0.1
+  value: 80
+  effects:
+  - RestoreMagicka
+  - Light
+  - DrainAttribute
+  - Levitate
+  skills:
+  - None
+  - None
+  - Block
+  - Enchant
+  attributes:
+  - None
+  - None
+  - Intelligence
+  - Strength

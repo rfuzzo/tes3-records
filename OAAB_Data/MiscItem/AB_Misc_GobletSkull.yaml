@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_GobletSkull
+name: Skull Goblet
+script: ''
+mesh: OAAB\m\gobletSkull.nif
+icon: OAAB\m\gobletSkull.dds
+data:
+  weight: 1.5
+  value: 10
+  flags: ''

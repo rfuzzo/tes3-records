@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Sc_EntangleDreamTR
+name: To Entangle a Dream
+script: T_ScBook_SpReflect
+mesh: m\Text_Scroll_open_02.nif
+icon: m\Tx_scroll_open_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>\r\nTo Entangle a Dream<BR>\r\n<BR>\r\nTo merrily race with my Mer brethren endlessly<BR>\r\nfeel, touch and see their faces flushing of joy,<BR>\r\nsprung by surrounding peace<BR>\r\non the vast fields of Grazelands.<BR>\r\n<BR>\r\nWielding no sword nor thoughts of a wicked mind<BR>\r\nwe sing and dance for the glory of our gods<BR>\r\nRed Mountain at peace and Vos yonder<BR>\r\npassing time, mile by mile, there shall we arrive<BR>\r\nand stay for the night, gaily drinking flin<BR>\r\nremembering to whom we bind.<BR>\r\n<BR>\r\nThe night travels through my memories of passed day<BR>\r\nall emotions I vividly see, arranged to a fitful scene<BR>\r\nperfect moments of time slowly flowing by.<BR>\r\nPassing by Nchuleft, the glorious Dwemer House and a noble whom we met<BR>\r\nhe returns again, in a shape yet to be defined, stealing thoughts and\r\ntouching my mind<BR>\r\nin the way of a warm tidal wave.<BR>\r\nAshkhans rise from their seats of power and set me free<BR>\r\ntheir aeon-old legends move me subtly and forcefully<BR>\r\nreminding me of reality.<BR>\r\n\r\nA journey between this Magusian haze drawing to its end;<BR>\r\nnew images blazing, colliding and striving to live<BR>\r\nfantastic scenes flying away from Azura's grasp<BR>\r\nall in vain, as the sunlight caresses my eyes<BR>\r\nwaning dreams away.<BR>\r\n<BR>\r\nIf ever were this dreammare broken,<BR>\r\nbe it hunger, tiredness or even Silence<BR>\r\nthere shall still be no fear<BR>\r\nfor I would let Vivec's mercy guide us home.<BR>\r\n<BR>\r\nI wake up back in my vision to realize a new day never came<BR>\r\nno cheerful music, people or sunlight around, only silence<BR>\r\nI stand, cry and wake again, only to face the same view<BR>\r\nas endless peace in Tamriel has shattered to broken promises<BR>\r\nand dreams for a better day.<BR>\r\nMerging with the void its secrets are revealed -<BR>\r\nbreathe gently and touch the dew of life.<BR>\r\n<BR>\r\nAll around rats, vermai and raving madmen flow,<BR>\r\nin a battle to find space.<BR>\r\nThe world has turned its tides in one short twist of fate<BR>\r\nAlas, there is just me, attempting to hide my face.<BR>\r\n<BR>\r\nAnd to conjure and caress the planes that could have been<BR>\r\nthe ones divided with disputes and those where peace reigns free<BR>\r\nAnd all the unrealized chances thrown asunder<BR>\r\nOh! it makes my mind numb of lost feelings and lives<BR>\r\nto witness this enchanted play of shadow and shimmer<BR>\r\nBut lost in the realm of Akatosh I cannot survive<BR>\r\nSo enticed here, reflecting the pain away I wait<BR>\r\nfor the time to end<BR>\r\nwith fate forever sealed. <BR>\r\n"
+data:
+  weight: 1.5
+  value: 200
+  book_type: Scroll
+  skill: None
+  enchantment: 100

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_Painting_UNI_KingJ
+name: King Aulus of Delodiil
+script: ''
+mesh: tr\m\TR_M_Painting_KingJ.nif
+icon: tr\m\TR_M_Painting_KingJ.dds
+data:
+  weight: 9.0
+  value: 1300
+  flags: ''

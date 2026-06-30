@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_daedras_heart_01
+name: Daedra's Heart
+script: ''
+mesh: n\Ingred_Daedra_heart_01.NIF
+icon: n\Tx_daedra_heart_01.tga
+data:
+  weight: 1.0
+  value: 200
+  effects:
+  - RestoreMagicka
+  - FortifyAttribute
+  - DrainAttribute
+  - NightEye
+  skills:
+  - Block
+  - Block
+  - Block
+  - Block
+  attributes:
+  - Strength
+  - Endurance
+  - Agility
+  - Strength

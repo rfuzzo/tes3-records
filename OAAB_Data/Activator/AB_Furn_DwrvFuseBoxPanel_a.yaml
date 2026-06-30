@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Furn_DwrvFuseBoxPanel_a
+name: Dwemer Tube Panel
+script: AB_DwrvFuseBox_s
+mesh: OAAB\u\dwrvActFuseBoxPanel.nif

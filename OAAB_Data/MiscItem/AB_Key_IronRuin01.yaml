@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Key_IronRuin01
+name: Iron Key
+script: ''
+mesh: oaab\m\key_ruin_01.nif
+icon: oaab\m\key_ruin_01.tga
+data:
+  weight: 0.0
+  value: 300
+  flags: ''

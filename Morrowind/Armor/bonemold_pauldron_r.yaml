@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: bonemold_pauldron_r
+name: Bonemold R Pauldron
+script: ''
+mesh: a\A_Bonemold_Pauldron_GND.nif
+icon: a\TX_Bonemold_pauldron.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: RightUpperArm
+  male_bodypart: a_bonemold_pauldron_ua
+  female_bodypart: ''
+data:
+  armor_type: RightPauldron
+  weight: 8.0
+  value: 120
+  health: 150
+  enchantment: 16
+  armor_rating: 15

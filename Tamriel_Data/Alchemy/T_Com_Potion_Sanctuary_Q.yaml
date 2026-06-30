@@ -1,0 +1,20 @@
+type: Alchemy
+flags: ''
+id: T_Com_Potion_Sanctuary_Q
+name: Quality Potion of Evasion
+script: ''
+mesh: m\Misc_Potion_Quality_01.nif
+icon: m\Tx_potion_quality_01.tga
+effects:
+- magic_effect: Sanctuary
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 45
+  min_magnitude: 15
+  max_magnitude: 15
+data:
+  weight: 0.5
+  value: 80
+  flags: ''

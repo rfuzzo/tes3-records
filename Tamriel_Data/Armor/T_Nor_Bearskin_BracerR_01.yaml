@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Nor_Bearskin_BracerR_01
+name: Nordic Bearskin Right Bracer
+script: ''
+mesh: TR\a\TR_a_bearskin_brc_w.NIF
+icon: TR\a\tr_a_bearskin_bracer.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: RightWrist
+  male_bodypart: T_A_NorBearskinBracer01_W
+  female_bodypart: ''
+data:
+  armor_type: RightBracer
+  weight: 1.5
+  value: 5
+  health: 25
+  enchantment: 60
+  armor_rating: 5

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_IL_Moriobook
+name: Raynil Vando's Ledger
+script: TR_m4_IL_Bookscript
+mesh: m\Text_Octavo_open_03.nif
+icon: m\Tx_octavo_open_03.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This ledger, seemingly having once belonged to Raynil Vando, shows the financial activity of the East Empire Company for the year of 3E 426. An inordinate amount of gold seems to be directed to something called \"Menaan Improvement Project\". Stulti's notes decorate the margins of the ledger.]<BR>\r\n"
+data:
+  weight: 3.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 0

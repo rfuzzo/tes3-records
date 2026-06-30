@@ -1,0 +1,25 @@
+type: Armor
+flags: ''
+id: BM_NordicMail_PauldronL
+name: Nordic Mail Left Pauldron
+script: ''
+mesh: a\A_NordicMail_Pauldron_GND.NIF
+icon: A\NordicMail_Pauldron.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: LeftPauldron
+  male_bodypart: A_NordicMail_M_Pauldron
+  female_bodypart: A_NordicMail_F_Pauldron
+- biped_object_type: LeftUpperArm
+  male_bodypart: A_NordicMail_M_UA
+  female_bodypart: A_NordicMail_F_UA
+- biped_object_type: LeftForearm
+  male_bodypart: A_NordicMail_M_FA
+  female_bodypart: A_NordicMail_F_FA
+data:
+  armor_type: LeftPauldron
+  weight: 10.0
+  value: 1000
+  health: 100
+  enchantment: 100
+  armor_rating: 66

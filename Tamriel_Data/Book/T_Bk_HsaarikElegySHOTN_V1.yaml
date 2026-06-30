@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_HsaarikElegySHOTN_V1
+name: The Hsaarik Elegy, Book One
+script: ''
+mesh: Sky\m\Sky_Book_Saga_04.nif
+icon: Sky\m\Tx_Book_Saga_04.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe Hsaarik Elegy<BR>\r\nby Goderlog the Song-Maiden<BR>\r\n<BR>\r\nBook One<BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\nFirst of the Companions to die was OYVIND<BR>\r\nAs the Harakk danced in tortured throes upon the shore<BR>\r\nCast from the deck in that calamitous moment<BR>\r\nA simple rock spilled all that he was into the waves<BR>\r\nHis knowing had been<BR>\r\n<FONT COLOR=\"500F0F\">JORN<BR>\r\n<FONT COLOR=\"000000\">The skalds would call his name a curse<BR>\r\nUnwitting bearer of death<BR>\r\n<BR>\r\nOrkey did not hesitate to snatch away GEIR<BR>\r\nWho had seen the reef from atop the mast<BR>\r\nBut the wind had stolen his alarum<BR>\r\nAnd smashed him onto Harakk's unyielding boards<BR>\r\nHis was the knowing<BR>\r\n<FONT COLOR=\"500F0F\">OLOGIR<BR>\r\n<FONT COLOR=\"000000\">He would never reclaim his honor<BR>\r\nOnly the sea now knew his worth<BR>\r\n<BR>\r\n[...]<BR>\r\n<BR>\r\nEleventh death that groaning day was VIGDIS<BR>\r\nHer two children had starved in the last winter<BR>\r\nThough she fought at first the water's intrusion<BR>\r\nAt last she chose to breathe it, and died at peace<BR>\r\nHer knowing had been<BR>\r\n<FONT COLOR=\"500F0F\">SNAED<BR>\r\n<FONT COLOR=\"000000\">Though it meant little now<BR>\r\nPulled down by weight of mail<BR>\r\n<BR>\r\nNone could be spared for next was YNGOL<BR>\r\nGreatest smith, whose father had wept a god's blood<BR>\r\nWept himself, with black metal hauling his face below<BR>\r\nIts sharp rivulets tearing at his eyes<BR>\r\nHis father had bestowed the knowing<BR>\r\n<FONT COLOR=\"500F0F\">JOFNLAV<BR>\r\n<FONT COLOR=\"000000\">But now his name brought only pain<BR>\r\nHis memory haunted every joy<BR>\r\n<BR>\r\n[...]<BR>"
+data:
+  weight: 3.0
+  value: 150
+  book_type: Book
+  skill: None
+  enchantment: 0

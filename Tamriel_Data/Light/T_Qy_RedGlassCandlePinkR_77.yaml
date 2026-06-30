@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_Qy_RedGlassCandlePinkR_77
+name: Red Glass Candlestick
+script: ''
+mesh: pi\l\pi_l_cnq_rg_candlepinR.nif
+icon: pi\l\pi_l_cnq_rg_candlepink.dds
+sound: ''
+data:
+  weight: 1.0
+  value: 4
+  time: 120
+  radius: 77
+  color:
+  - 255
+  - 15
+  - 5
+  - 0
+  flags: DYNAMIC | CAN_CARRY | FIRE | FLICKER_SLOW

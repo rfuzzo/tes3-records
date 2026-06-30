@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_Ivory
+name: Ivory
+script: ''
+mesh: Sky\n\sky_ingred_ivory.nif
+icon: sky\n\tx_ingred_ivory.dds
+data:
+  weight: 2.0
+  value: 60
+  effects:
+  - DrainFatigue
+  - ResistCommonDisease
+  - FortifyAttribute
+  - Telekinesis
+  skills:
+  - None
+  - None
+  - Block
+  - None
+  attributes:
+  - None
+  - None
+  - Strength
+  - None

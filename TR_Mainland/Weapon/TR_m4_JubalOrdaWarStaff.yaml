@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m4_JubalOrdaWarStaff
+name: War-Staff of Clan Orda
+script: ''
+mesh: tr\w\tr_w_iron_staff_01.nif
+icon: tr\w\tr_w_iron_staff_01.dds
+enchanting: TR_m4_JubalOrdaWeapon_En
+data:
+  weight: 10.0
+  value: 4000
+  weapon_type: BluntTwoWide
+  health: 1000
+  speed: 1.5
+  reach: 1.8
+  enchantment: 120
+  chop_min: 9
+  chop_max: 18
+  slash_min: 9
+  slash_max: 18
+  thrust_min: 1
+  thrust_max: 6
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

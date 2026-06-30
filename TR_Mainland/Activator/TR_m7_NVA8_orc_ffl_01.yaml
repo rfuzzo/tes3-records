@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_NVA8_orc_ffl_01
+name: ''
+script: TR_m7_NVA_Stage8_Persist
+mesh: Sky\f\Sky_Furn_Orc_FFL_01.NIF

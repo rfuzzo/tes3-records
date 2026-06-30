@@ -1,0 +1,25 @@
+type: Container
+flags: ''
+id: TR_m1_crate_molarmr
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_De_Molecrab_Boots_01
+- - 1
+  - T_De_Molecrab_BracerL_01
+- - 1
+  - T_De_Molecrab_BracerR_01
+- - 1
+  - T_De_Molecrab_Cuirass_01
+- - 1
+  - T_De_Molecrab_Greaves_01
+- - 1
+  - T_De_Molecrab_PauldronL_01
+- - 1
+  - T_De_Molecrab_PauldronR_01
+- - 1
+  - mole_crab_helm

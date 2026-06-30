@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: bm_nordictomb_02
+name: Chest
+script: ''
+mesh: o\contain_chest10.nif
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - random_belladonna_spriggan
+- - 3
+  - random_loot_special
+- - 2
+  - bm_random_healthpotions
+- - 5
+  - bm_chest_loot_01
+- - 5
+  - bm_random_enchanted

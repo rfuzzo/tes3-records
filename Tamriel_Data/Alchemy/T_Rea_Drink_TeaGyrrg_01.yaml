@@ -1,0 +1,44 @@
+type: Alchemy
+flags: ''
+id: T_Rea_Drink_TeaGyrrg_01
+name: Gyrgg
+script: ''
+mesh: Sky\n\Sky_Potion_Gyrgg_01.nif
+icon: Sky\n\Tx_Potion_Gyrrg_01.dds
+effects:
+- magic_effect: RestoreFatigue
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 10
+  min_magnitude: 5
+  max_magnitude: 5
+- magic_effect: CureParalyzation
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 1
+  min_magnitude: 1
+  max_magnitude: 1
+- magic_effect: FortifyFatigue
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 30
+  min_magnitude: 10
+  max_magnitude: 10
+- magic_effect: FortifyHealth
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 30
+  min_magnitude: 10
+  max_magnitude: 10
+data:
+  weight: 1.0
+  value: 10
+  flags: ''

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_Flour_01
+name: Flour
+script: ''
+mesh: Sky\n\Sky_Ingred_Flour_01.nif
+icon: Sky\n\Tx_Ingred_Flour_01.dds
+data:
+  weight: 0.2
+  value: 2
+  effects:
+  - RestoreFatigue
+  - FortifyFatigue
+  - None
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

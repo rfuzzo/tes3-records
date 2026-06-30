@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_catacomb_i3-591-imp_note
+name: Catacombs of the Grand Chapel
+script: ''
+mesh: m\Text_Parchment_01.NIF
+icon: m\Tx_parchment_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<DIV ALIGN=\"CENTER\"><BR>\r\nCatacombs of the Grand Chapel of Talos <BR> <BR>\r\nOnly mourners, shrine sergeants, and undertakers allowed. Cult pilgrims willing to pray at the Shrine of the Hammer of Saint Kaladas are advised to seek permission from the Chapel. Keep this gate locked at all times. <br> <br>\r\nPraise be Akatosh and All the Divines! <BR>\r\n<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

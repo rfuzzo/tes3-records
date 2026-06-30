@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Furn_DeBannerSpells01
+name: ''
+script: OutsideBanner
+mesh: OAAB\u\de_banner_spell_01.nif

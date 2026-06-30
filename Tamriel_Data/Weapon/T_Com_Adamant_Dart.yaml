@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Com_Adamant_Dart
+name: Adamantium Dart
+script: ''
+mesh: tr\w\tr_w_adamantium_dart.nif
+icon: tr\w\tr_w_adamant_dart.dds
+enchanting: ''
+data:
+  weight: 0.3
+  value: 1100
+  weapon_type: MarksmanThrown
+  health: 300
+  speed: 1.0
+  reach: 1.0
+  enchantment: 25
+  chop_min: 2
+  chop_max: 8
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: ''

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_Aim_DrumActivator
+name: Ritual Drum
+script: ''
+mesh: TR\f\tr_act_ind_drum_02.nif

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_w_m4_q_AncylisAxe
+name: Ancient Nordic Battle Axe
+script: TR_m4_FA_FortAnc_Axe
+mesh: sky\w\sky_w_anordic_baxe.nif
+icon: sky\w\sky_w_anordic_baxe.dds
+enchanting: frostbite_en
+data:
+  weight: 35.0
+  value: 600
+  weapon_type: AxeTwoHand
+  health: 1800
+  speed: 0.9
+  reach: 1.0
+  enchantment: 70
+  chop_min: 2
+  chop_max: 38
+  slash_min: 2
+  slash_max: 38
+  thrust_min: 1
+  thrust_max: 6
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

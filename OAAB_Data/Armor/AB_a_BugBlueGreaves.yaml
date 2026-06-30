@@ -1,0 +1,31 @@
+type: Armor
+flags: ''
+id: AB_a_BugBlueGreaves
+name: Blue Bug Greaves
+script: ''
+mesh: OAAB\a\bug_bl_grea_GND.nif
+icon: OAAB\a\bug_bl_greaves.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Groin
+  male_bodypart: AB_a_BugBlue_gr
+  female_bodypart: ''
+- biped_object_type: LeftUpperLeg
+  male_bodypart: AB_a_BugBlue_ul
+  female_bodypart: ''
+- biped_object_type: RightUpperLeg
+  male_bodypart: AB_a_BugBlue_ul
+  female_bodypart: ''
+- biped_object_type: LeftKnee
+  male_bodypart: AB_a_BugBlue_kn
+  female_bodypart: ''
+- biped_object_type: RightKnee
+  male_bodypart: AB_a_BugBlue_kn
+  female_bodypart: ''
+data:
+  armor_type: Greaves
+  weight: 5.4
+  value: 50
+  health: 100
+  enchantment: 100
+  armor_rating: 12

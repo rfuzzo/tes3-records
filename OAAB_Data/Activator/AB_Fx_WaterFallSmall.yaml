@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Fx_WaterFallSmall
+name: ''
+script: Sound_Water_Spout
+mesh: OAAB\e\waterfall_test_smal.NIF

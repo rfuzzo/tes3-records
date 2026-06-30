@@ -1,0 +1,27 @@
+type: Container
+flags: ''
+id: TR_m2_cont_traders_i323
+name: Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 400.0
+container_flags: IS_BASE
+inventory:
+- - -2
+  - T_Mw_Random_JunkImperial
+- - 1
+  - l_n_probe
+- - -1
+  - l_n_repair item
+- - -4
+  - random_com_kitchenware
+- - -3
+  - random_de_pants
+- - -3
+  - random_de_shirt
+- - -4
+  - random_de_shoes_common
+- - 3
+  - random_potion_bad
+- - -3
+  - torch

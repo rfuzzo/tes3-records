@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Imp_UNI_MasquedCaptain
+name: Masque of the Captain
+script: ''
+mesh: pc\a\pc_a_masq_cap_uni_GND.nif
+icon: pc\a\pc_a_masq_cap_uni.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Hair
+  male_bodypart: T_A_ImpUNIMasquedCaptain_Hr
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 1.0
+  value: 6000
+  health: 525
+  enchantment: 250
+  armor_rating: 18

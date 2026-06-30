@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: AB_a_ChitinHelmOpen
+name: Chitin Open Helm
+script: ''
+mesh: OAAB\a\chitin_helm_o_g.nif
+icon: OAAB\a\chitin_helm_open.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Hair
+  male_bodypart: AB_a_ChitinOpen_hr
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 1.0
+  value: 19
+  health: 100
+  enchantment: 125
+  armor_rating: 10

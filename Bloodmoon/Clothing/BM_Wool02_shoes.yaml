@@ -1,0 +1,20 @@
+type: Clothing
+flags: ''
+id: BM_Wool02_shoes
+name: Common Shoes
+script: ''
+mesh: c\C_common_Wool02ShoeGND.NIF
+icon: c\Tx_Common_Wool02_Foot.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: LeftFoot
+  male_bodypart: C_common_Wool02_F
+  female_bodypart: ''
+- biped_object_type: RightFoot
+  male_bodypart: C_common_Wool02_F
+  female_bodypart: ''
+data:
+  clothing_type: Shoes
+  weight: 3.0
+  value: 2
+  enchantment: 10

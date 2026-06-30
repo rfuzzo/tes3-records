@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: TR_m1_ITO_FW_DCJeweler
+name: Display Case
+script: TR_m1_ITO_FW_DCJeweler_sc
+mesh: pc\f\pc_furn_com_r_displ_01.nif
+encumbrance: 0.0
+container_flags: IS_BASE
+inventory: []

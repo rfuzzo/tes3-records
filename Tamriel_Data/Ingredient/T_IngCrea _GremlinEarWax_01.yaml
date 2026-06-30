@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea _GremlinEarWax_01
+name: Gremlin Earwax
+script: ''
+mesh: tr\n\tr_GremlinEarWax.nif
+icon: tr\n\tr_tx_ing_GremEarWax.dds
+data:
+  weight: 0.1
+  value: 3
+  effects:
+  - Blind
+  - None
+  - Paralyze
+  - ResistShock
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

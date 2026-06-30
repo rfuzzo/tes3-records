@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: light_de_candle_ivory_dead
+name: Bamboo Candlestick
+script: ''
+mesh: l\Light_de_candle_ivory_01.NIF
+icon: l\Light_de_candle_ivory_01.tga
+sound: ''
+data:
+  weight: 1.0
+  value: 1
+  time: 0
+  radius: 16
+  color:
+  - 0
+  - 0
+  - 0
+  - 0
+  flags: CAN_CARRY

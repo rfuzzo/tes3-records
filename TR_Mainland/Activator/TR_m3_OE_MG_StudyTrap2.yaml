@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_OE_MG_StudyTrap2
+name: ''
+script: TR_m3_OE_MG_StudyTrapFrost
+mesh: tr\i\tr_collision_box_01.nif

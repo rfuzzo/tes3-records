@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_QyK_CeramicBowl_03
+name: Ceramic Bowl
+script: ''
+mesh: pi\m\pi_m_cnq_c_bowl_03.nif
+icon: pi\m\pi_m_cnq_c_bowl_03.dds
+data:
+  weight: 2.0
+  value: 15
+  flags: ''

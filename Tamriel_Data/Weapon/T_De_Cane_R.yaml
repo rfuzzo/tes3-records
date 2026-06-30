@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_De_Cane_R
+name: Cane
+script: ''
+mesh: tr\w\tr_w_cane_r.nif
+icon: tr\w\tr_w_cane_r.dds
+enchanting: ''
+data:
+  weight: 4.0
+  value: 50
+  weapon_type: BluntTwoWide
+  health: 600
+  speed: 1.75
+  reach: 1.8
+  enchantment: 100
+  chop_min: 4
+  chop_max: 11
+  slash_min: 4
+  slash_max: 11
+  thrust_min: 1
+  thrust_max: 7
+  flags: ''

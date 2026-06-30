@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_FW_College_LibRareBooks
+name: Rarities
+script: ''
+mesh: m\text_parchment_01.nif
+icon: m\tx_parchment_01.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nRarities<BR>CLOSED TO THE PUBLIC<BR><BR><DIV ALIGN=\"Left\">\r\n<BR>\r\nItems in this room may NOT be removed from the Library Tower. Copying is not permitted.<BR><BR>\r\nThose wishing to study a text held in the Library Tower's Rarities collection should make a formal request to a faculty member, the Librarian, or the Headmaster.<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

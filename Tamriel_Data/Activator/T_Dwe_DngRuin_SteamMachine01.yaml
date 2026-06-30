@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: T_Dwe_DngRuin_SteamMachine01
+name: Strange Steam Machine
+script: T_ScObj_DwrvMachToggl
+mesh: tr\f\tr_furn_dwrv_stmmch01.nif

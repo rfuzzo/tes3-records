@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_FishStrid_01
+name: Stridfish
+script: ''
+mesh: pc\n\pc_ing_jewelfish.nif
+icon: pc\n\pc_tx_ingred_jwlfish.dds
+data:
+  weight: 0.5
+  value: 2
+  effects:
+  - RestoreFatigue
+  - Feather
+  - WeaknessToShock
+  - WaterWalking
+  skills:
+  - None
+  - Block
+  - None
+  - None
+  attributes:
+  - None
+  - Personality
+  - None
+  - None

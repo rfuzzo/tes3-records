@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2_sc_SA_Prison_Log
+name: Prisoner Log
+script: ''
+mesh: m\Text_Parchment_02.nif
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nPrisoners currently being held in the cells of Marog:\r\n\r\nMr'kasi : Khajiiti thief, caught pilfering some booze from The Swallow's Nest.<BR>\r\n<BR>\r\n"
+data:
+  weight: 0.05
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

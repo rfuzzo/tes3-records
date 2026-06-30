@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: ex_de_shack_plank_03_a
+name: Floating Dock Plank
+script: SignRotate
+mesh: x\Ex_De_Shack_Plank_03.NIF

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3-237_bk_EECaccount
+name: EEC Accounting Ledger
+script: ''
+mesh: m\Text_Octavo_07.nif
+icon: m\Tx_book_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nEast Empire Company Accounting Ledger<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\n[This book lists all transactions along with an inventory of items sold and purchased.]<BR><BR>\r\n"
+data:
+  weight: 2.0
+  value: 50
+  book_type: Book
+  skill: None
+  enchantment: 0

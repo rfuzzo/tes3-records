@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_SheogorathMusicSHOTN
+name: Sheogorath Invents Music
+script: ''
+mesh: Sky\m\Sky_Book_Basic_07.nif
+icon: Sky\m\Tx_Book_Basic_07.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nSheogorath Invents Music<BR>\r\nby Mymophonus<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nIn the earliest of days, in a time when the world was still raw, Sheogorath decided to walk amongst the mortals. He donned his guise of Gentleman With a Cane, and moved from place to place without being recognized. After eleven days and eleven nights, Sheogorath decided that life among mortals was even more boring than his otherworldly existence.<BR>\r\n<BR>\r\n\"What can I do to make their lives more interesting?\" he said to himself. At that same moment, a young woman nearby commented wistfully to herself, \"The sounds of the birds are so beautiful.\"<BR>\r\n<BR>\r\nSheogorath silently agreed with her. Mortals could not make the beautiful and inspired calls of birds. Their voices were wretched and mundane. He could not change the nature of mortals, for that was the purview of other Daedric Princes. However, he could give them tools to make beautiful sounds.<BR>\r\n<BR>\r\nSheogorath took hold of the petulant woman and ripped her asunder. From her tendons he made lutes. From her skull and arm bones he made a drum. From her bones he made flutes. He presented these gifts to the mortals, and thus Music was born.<BR>\r\n<BR>"
+data:
+  weight: 3.0
+  value: 20
+  book_type: Book
+  skill: None
+  enchantment: 0

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_PastryFrRedguard_01
+name: Fried Pastry
+script: ''
+mesh: hf\n\hf_food_Fpastry01.nif
+icon: hf\n\hf_food_fpastry01.dds
+data:
+  weight: 0.6
+  value: 8
+  effects:
+  - RestoreFatigue
+  - FortifyFatigue
+  - Silence
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

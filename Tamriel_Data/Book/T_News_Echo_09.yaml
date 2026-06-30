@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Echo_09
+name: NEREVARINE RECOGNIZED
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_text_note_nar_news.nif
+icon: tr\m\tr_text_note_nar_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\tr_echo_512_256.dds\" WIDTH=\"348\" HEIGHT=\"168\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nVEHK SPEAKS! PERSECUTION OF NEREVARINE TO END<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nIn a shocking turn of events, the %PCRace proclaiming themselves to be Nerevarine was granted an audience with Vivec, and officially recognized by the Temple as Saint Nerevar reborn. This declaration, the first such public announcement by any of the Three in decades, has surprised many of Almsivi's faithful. On inquiry, a Temple representative said, \"I never would have thought that an outlander could be granted such an honor, but if Lord Vivec wills it, then it must be so.\" In addition to the end of the Nerevarine's persecution by the Temple, the previously illegal sect known as the Dissident Priests will no longer be branded as heretics, and allowed to rejoin their brethren. While it remains to be seen what effects this decision will have in the long run, such a shift in Temple doctrine is sure to herald substantial change.<BR><BR>\r\n<DIV ALIGN=\"CENTER\">\r\nBANDIT ACTIVITY NEAR BORDERS INCREASES<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nOutlaws have attacked and robbed multiple caravans on the roads south of Narsis in the past months. While the Canyon Watch has ensured that there has been no bloodshed near the city itself, the high Shipal canyons can hide thugs and robbers much more easily. Merchants with goods traveling through Stormgate Pass should be wary of suspicious activity in the area, and make sure to hire armed guards from reputable organizations.<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

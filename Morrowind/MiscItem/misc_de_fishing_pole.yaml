@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: misc_de_fishing_pole
+name: Fishing Pole
+script: ''
+mesh: m\Misc_De_Fishing_Pole.NIF
+icon: m\Misc_De_Fishing_Pole.tga
+data:
+  weight: 1.0
+  value: 7
+  flags: ''

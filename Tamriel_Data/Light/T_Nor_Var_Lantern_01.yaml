@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_Nor_Var_Lantern_01
+name: Wooden Travel Lantern
+script: ''
+mesh: Sky\l\Sky_Light_Nord_LAT_04.nif
+icon: Sky\l\Tx_Light_Nord_LAT_04.dds
+sound: ''
+data:
+  weight: 5.0
+  value: 10
+  time: 120
+  radius: 128
+  color:
+  - 245
+  - 140
+  - 40
+  - 0
+  flags: DYNAMIC | CAN_CARRY | FIRE | FLICKER_SLOW

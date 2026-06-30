@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_Fig_Dried_01
+name: Dried Fig
+script: ''
+mesh: pc\n\pc_ing_fig_dried.nif
+icon: pc\n\pc_ingred_fig_dried.dds
+data:
+  weight: 0.1
+  value: 1
+  effects:
+  - RestoreFatigue
+  - FortifyFatigue
+  - None
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

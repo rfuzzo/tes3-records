@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_EnSc_Nor_DivineIntervention
+name: Scroll of Divine Intervention
+script: ''
+mesh: m\Text_Scroll_01.nif
+icon: m\Tx_scroll_open_01.tga
+enchanting: divine intervention enchantmen
+text: <DIV ALIGN="center"><IMG SRC="Sky\Sky_Sc_ForTheGods.dds" WIDTH="200" HEIGHT="25"><BR>
+data:
+  weight: 1.0
+  value: 63
+  book_type: Scroll
+  skill: None
+  enchantment: 100

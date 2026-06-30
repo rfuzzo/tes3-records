@@ -1,0 +1,4 @@
+type: Static
+flags: ''
+id: VFX_DestructCast
+mesh: e\magic_cast_dst.NIF

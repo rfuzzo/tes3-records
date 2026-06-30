@@ -1,0 +1,65 @@
+type: Container
+flags: ''
+id: TR_i2_238_crate_dulame2
+name: Crate
+script: ''
+mesh: o\Contain_crate_02.nif
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory:
+- - 50
+  - bonemold arrow
+- - 1
+  - bonemold_boots
+- - 1
+  - bonemold_cuirass
+- - 1
+  - bonemold_greaves
+- - 1
+  - chitin boots
+- - 1
+  - chitin cuirass
+- - 1
+  - chitin greaves
+- - 1
+  - chitin guantlet - left
+- - 1
+  - chitin guantlet - right
+- - 1
+  - chitin helm
+- - 1
+  - chitin pauldron - left
+- - 1
+  - chitin pauldron - right
+- - 1
+  - chitin_shield
+- - 1
+  - fur_cuirass
+- - 1
+  - fur_greaves
+- - 50
+  - iron arrow
+- - 1
+  - iron flameskewer
+- - 1
+  - iron flamesword
+- - 1
+  - iron_greaves
+- - 1
+  - iron_shield
+- - 1
+  - steel katana
+- - 1
+  - steel longbow
+- - 1
+  - steel spear
+- - 1
+  - steel tanto
+- - 1
+  - steel viperaxe
+- - 1
+  - steel_boots
+- - 1
+  - steel_cuirass
+- - 1
+  - steel_helm

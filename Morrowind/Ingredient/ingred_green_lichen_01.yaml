@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_green_lichen_01
+name: Green Lichen
+script: ''
+mesh: n\Ingred_Green_Lichen_01.nif
+icon: n\Tx_greenlichen_01.tga
+data:
+  weight: 0.1
+  value: 1
+  effects:
+  - FortifyAttribute
+  - CureCommonDisease
+  - DrainAttribute
+  - DrainHealth
+  skills:
+  - Block
+  - Block
+  - Block
+  - Block
+  attributes:
+  - Personality
+  - Strength
+  - Strength
+  - Strength

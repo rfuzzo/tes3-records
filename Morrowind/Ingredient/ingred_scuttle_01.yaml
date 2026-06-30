@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_scuttle_01
+name: Scuttle
+script: ''
+mesh: n\Ingred_Scuttle_01.nif
+icon: n\Tx_scuttle_01.tga
+data:
+  weight: 0.1
+  value: 10
+  effects:
+  - RestoreFatigue
+  - FortifyFatigue
+  - Feather
+  - Telekinesis
+  skills:
+  - Block
+  - Block
+  - Block
+  - Block
+  attributes:
+  - Strength
+  - Strength
+  - Strength
+  - Strength

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Echo_05
+name: EEC DEFEATS MINERS' REVOLT
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_text_note_nar_news.nif
+icon: tr\m\tr_text_note_nar_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\tr_echo_512_256.dds\" WIDTH=\"348\" HEIGHT=\"168\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nEEC DEFEATS MINERS' REVOLT<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nSapphire miners in Num-Ittu Mine were recently coerced into ending a rebellion originally started for better wages. The mine, owned and operated by the East Empire Company, was a major source of income for it, but workers have reported that almost none of the profits ever went to them. According to the foreman of the mine, Linia Trellus, the Company sent in a mercenary known as %PCName from the Fighters Guild to put down the revolt -- by any means necessary: \"I got roughed up pretty bad. Not sure I'll be able to hold a pick right for at least a few months. I've thanked the Divines there wasn't any more bloodshed, but I never thought the Company would do something like this.\" Rogatus Cipius, the Factor of the EEC's Narsis branch, did not respond to the Echo's request for comment.<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

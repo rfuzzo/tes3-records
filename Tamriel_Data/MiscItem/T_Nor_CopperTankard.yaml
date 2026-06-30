@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Nor_CopperTankard
+name: Copper Tankard
+script: ''
+mesh: m\beerbarrel.nif
+icon: m\tx_beerbarrel.dds
+data:
+  weight: 1.0
+  value: 5
+  flags: ''

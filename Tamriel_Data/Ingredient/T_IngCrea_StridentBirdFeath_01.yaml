@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_StridentBirdFeath_01
+name: Strident Runner Feathers
+script: ''
+mesh: pc\n\pc_ing_stridbirdfeath.nif
+icon: pc\n\pc_ing_stridbirdfeath.dds
+data:
+  weight: 0.1
+  value: 3
+  effects:
+  - DrainFatigue
+  - WeaknessToMagicka
+  - Dispel
+  - Feather
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

@@ -1,0 +1,23 @@
+type: Container
+flags: ''
+id: TR_m7_Ns_LlarelDesk
+name: Mervis Llarel's Desk
+script: ''
+mesh: TR\o\TR_De_R_Desk01.NIF
+encumbrance: 75.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - TR_m7_Narsis_KeyBrevurAbandoned
+- - 1
+  - TR_m7_Ns_IL_9_LlarelNote
+- - 10
+  - random gold
+- - 10
+  - random gold_lev_05
+- - 10
+  - random gold_lev_10
+- - 10
+  - random gold_lev_15
+- - 10
+  - random gold_lev_20

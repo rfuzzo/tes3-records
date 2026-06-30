@@ -1,0 +1,19 @@
+type: Light
+flags: PERSISTENT
+id: T_Com_Fishbowl_Plesiosaur_UNI
+name: Tiny Seadrake
+script: T_ScObj_PlesiosaurBowl_UNI
+mesh: pc\f\pc_f_plesiosaur_uni.nif
+icon: pc\l\pc_l_plesiosaur_01.dds
+sound: T_SndObj_WaterBowl
+data:
+  weight: 25.0
+  value: 5000
+  time: -1
+  radius: 64
+  color:
+  - 131
+  - 224
+  - 185
+  - 0
+  flags: DYNAMIC | CAN_CARRY

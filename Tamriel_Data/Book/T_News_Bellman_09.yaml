@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Bellman_09
+name: CALDERA MINE SHUTS DOWN
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_note_oe_news.nif
+icon: tr\m\tr_note_oe_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\TR_bellman_512_256.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nCALDERA MINE SHUTS DOWN<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nGrave news recently arrived from Vvardenfell: The Caldera Mine, the largest Imperial ebony mining operation on the island, has shut down! It is as of yet unclear what has caused the mining operations to cease, but speculations range from a slave uprising to a coordinated, wholesale slaughter of the mine administration by an agent of House Redoran. From our diligent reporting, though, one thing has become clear: should the shut-down not be resolved quickly, this event could turn out to be disastrous. The town of Caldera is economically dependent on the mines, and any lasting disruption would see Imperial citizens lose work and be forced to resettle in droves. Thankfully, this crisis in the West Gash has not, and likely will not, affected the economical prospects of Old Ebonheart. The Bellman would therefore remind all citizens that the Imperial Cult is always collecting alms for the poor, and any donations made in these trying times by those of us not affected by monetary hardships would be a welcome relief for those in need.<br><br>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nBELLMAN INVESTMENT TIPS<BR>\r\nBY MASTER TRADER JOLUS HERDANE<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nNow, readers, you've grown to trust me through the dozens of high-quality tips I've given you in past years. But let's stop futzing around, we all know where the real wealth and power is: real estate! That's right, Mir Corrup, situated among the tranquil forests of eastern Cyrodiil, is filled to the brim with beautiful mansions available at scandalously low prices. Sure the place is in a bit of a slump, but business sense tells me it's going to turn a corner any day now, and that's YOUR opportunity! In fact, I've set up the Morrowind Mir Corrup Mutual Fund so you could invest from the comfort of your local bank branch without even needing to visit the city!<br><br>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

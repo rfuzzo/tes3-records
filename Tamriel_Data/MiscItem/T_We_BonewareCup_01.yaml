@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_We_BonewareCup_01
+name: Boneware Cup
+script: ''
+mesh: VA\m\va_m_We_cup.nif
+icon: va\m\va_m_We_cup.dds
+data:
+  weight: 0.8
+  value: 2
+  flags: ''

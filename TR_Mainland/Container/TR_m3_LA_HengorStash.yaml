@@ -1,0 +1,29 @@
+type: Container
+flags: ''
+id: TR_m3_LA_HengorStash
+name: Hengor's Stash
+script: ''
+mesh: o\Contain_Com_Chest_01.NIF
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - 318
+  - Gold_001
+- - 1
+  - T_De_Cm_AmuletInd_01
+- - 1
+  - T_De_Et_ShirtInd_02
+- - 1
+  - T_De_Et_Shoes_04
+- - 1
+  - T_IngMine_Sapphire_01
+- - 1
+  - expensive_amulet_02
+- - 1
+  - extravagant_amulet_02
+- - 1
+  - extravagant_skirt_02
+- - 2
+  - ingred_ruby_01
+- - 35
+  - steel bolt

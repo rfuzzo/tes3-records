@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_SetDoomstoneGC_Shez
+name: Shezarr Stone
+script: T_ScObj_DoomHShezarrPC
+mesh: pc\f\pc_dmstn_gc_heavens.nif

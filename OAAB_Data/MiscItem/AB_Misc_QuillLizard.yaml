@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_QuillLizard
+name: Quill Pen
+script: ''
+mesh: OAAB\m\quillLizard.nif
+icon: OAAB\m\quillLizard.tga
+data:
+  weight: 0.01
+  value: 16
+  flags: ''

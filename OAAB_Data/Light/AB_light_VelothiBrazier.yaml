@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: AB_light_VelothiBrazier
+name: ''
+script: ''
+mesh: OAAB\l\velothi_brazier00.nif
+icon: ''
+sound: Fire 50
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 300
+  color:
+  - 241
+  - 91
+  - 41
+  - 0
+  flags: DYNAMIC | FIRE | FLICKER_SLOW

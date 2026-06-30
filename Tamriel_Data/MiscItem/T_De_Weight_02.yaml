@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_Weight_02
+name: Iron Weight
+script: ''
+mesh: TR\m\TR_misc_de_weight_02.nif
+icon: TR\m\TR_misc_de_weight_02.dds
+data:
+  weight: 5.0
+  value: 5
+  flags: ''

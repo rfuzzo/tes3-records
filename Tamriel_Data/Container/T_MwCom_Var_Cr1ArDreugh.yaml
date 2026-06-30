@@ -1,0 +1,25 @@
+type: Container
+flags: ''
+id: T_MwCom_Var_Cr1ArDreugh
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_De_Dreugh_Boots_01
+- - 1
+  - T_De_Dreugh_BracerL_01
+- - 1
+  - T_De_Dreugh_BracerR_01
+- - 1
+  - T_De_Dreugh_Greaves_01
+- - 1
+  - T_De_Dreugh_PauldronL_01
+- - 1
+  - T_De_Dreugh_PauldronR_01
+- - 1
+  - dreugh_cuirass
+- - 1
+  - dreugh_helm

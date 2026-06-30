@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: a_ex_de_rowboat_colony
+name: ''
+script: Float
+mesh: x\Ex_De_Rowboat.NIF

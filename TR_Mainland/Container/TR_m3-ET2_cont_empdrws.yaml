@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: TR_m3-ET2_cont_empdrws
+name: Chest of Drawers
+script: ''
+mesh: o\Contain_Com_Drawers_01.NIF
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - exquisite_belt_01
+- - 1
+  - exquisite_pants_01
+- - 1
+  - exquisite_shoes_01

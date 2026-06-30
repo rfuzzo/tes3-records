@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_HrCom_Var_SkS1Ingr
+name: Small Sack
+script: ''
+mesh: hr\o\hr_contain_small_sack.nif
+encumbrance: 20.0
+container_flags: IS_BASE
+inventory:
+- - 3
+  - T_Hr_Random_Ingredient

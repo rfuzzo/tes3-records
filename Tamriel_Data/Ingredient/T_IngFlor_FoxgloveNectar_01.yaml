@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_FoxgloveNectar_01
+name: Foxglove Nectar
+script: ''
+mesh: pc\n\pc_ing_foxgloven.nif
+icon: pc\n\pc_tx_ingred_foxglove.dds
+data:
+  weight: 0.1
+  value: 1
+  effects:
+  - ResistPoison
+  - ResistParalysis
+  - RestoreAttribute
+  - ResistCommonDisease
+  skills:
+  - None
+  - None
+  - Block
+  - None
+  attributes:
+  - None
+  - None
+  - Luck
+  - None

@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Dreu_Furn_Ch2_ComIngd
+name: Chest
+script: ''
+mesh: tr\o\tr_furn_dreu_chest_02.nif
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - 3
+  - T_Dreu_Random_Ingred

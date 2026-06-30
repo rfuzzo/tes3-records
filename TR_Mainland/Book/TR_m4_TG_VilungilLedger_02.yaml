@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_TG_VilungilLedger_02
+name: Vilungil's Ledger
+script: TR_m4_TG_VilungilLedger_scp
+mesh: m\Text_Octavo_07.nif
+icon: m\Tx_book_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR> \r\n[In this ledger, there's a record of regular payments from \"C.T.\" made to \"Llaros Sadas\" in the \"Monastery of St. Aralor\", which started about one year ago. In addition to this, you spot a payment reference scribbled in the margin. It reads: \"for the Dusky Alit\".]  <BR>\r\n<BR>"
+data:
+  weight: 2.0
+  value: 10
+  book_type: Book
+  skill: None
+  enchantment: 0

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: Ex_colony_miners_office01_1
+name: ''
+script: Colony_E_1_F
+mesh: x\Ex_colony_miners_office01.NIF

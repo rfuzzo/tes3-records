@@ -1,0 +1,25 @@
+type: Armor
+flags: ''
+id: AB_a_GlassAssassinPauldronLeft
+name: Glass Assassin Pauldron Left
+script: ''
+mesh: OAAB\a\glassAssaPaulGND.nif
+icon: OAAB\a\glassAssaPaul.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: LeftPauldron
+  male_bodypart: AB_a_GlassAssassin_cl
+  female_bodypart: ''
+- biped_object_type: LeftUpperArm
+  male_bodypart: AB_a_GlassAssassin_ua
+  female_bodypart: ''
+- biped_object_type: LeftForearm
+  male_bodypart: AB_a_GlassAssassin_fa
+  female_bodypart: ''
+data:
+  armor_type: LeftPauldron
+  weight: 3.0
+  value: 9600
+  health: 500
+  enchantment: 15
+  armor_rating: 50

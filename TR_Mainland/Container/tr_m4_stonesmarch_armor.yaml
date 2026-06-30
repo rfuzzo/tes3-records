@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: tr_m4_stonesmarch_armor
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - T_Mw_Random_ArmorRedBonemold_01

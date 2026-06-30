@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_BkGen_CourtRulings
+name: Court Rulings
+script: ''
+mesh: m\Text_Scroll_02.NIF
+icon: m\Tx_scroll_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n[This legal document records a day's rulings on various court cases.]<BR>"
+data:
+  weight: 0.2
+  value: 2
+  book_type: Scroll
+  skill: None
+  enchantment: 100

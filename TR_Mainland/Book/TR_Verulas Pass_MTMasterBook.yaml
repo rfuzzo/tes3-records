@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_Verulas Pass_MTMasterBook
+name: Book of the Master
+script: ''
+mesh: TR\m\TR_book_closed_i11_AY.nif
+icon: TR\m\TR_book_closed_i11_AY.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nBook of the Master<br>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n<br>\r\nThis book relates the life and deeds of one of the Grandmasters of the Morag Tong.<br>\r\n<br>\r\nEach and every decision they made, and their consequences for the guild, are described.<br>\r\n<br>\r\nThen follow a list of all the Writs of Execution that have been honorably performed under their rule, the name of the agents who undertook the writs, and the dates of the executions. <br>\r\n <br>\r\nAlong with this information, come the names of the House's leaders who contracted and allowed the assassination, as well as the price paid for the deed.<br>\r\n<br>\r\nLast come the name of the agent who killed the Grandmaster and took his place, in accordance with the noble and honorable tradition of the Morag Tong.<br>\r\n<br>"
+data:
+  weight: 3.0
+  value: 50
+  book_type: Book
+  skill: None
+  enchantment: 0

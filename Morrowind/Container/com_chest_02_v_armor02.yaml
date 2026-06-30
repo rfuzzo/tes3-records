@@ -1,0 +1,25 @@
+type: Container
+flags: ''
+id: com_chest_02_v_armor02
+name: Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - -1
+  - netch_leather_towershield
+- - -1
+  - netch_leather_gauntlet_right
+- - -1
+  - fur_gauntlet_right
+- - -1
+  - netch_leather_gauntlet_left
+- - -1
+  - fur_gauntlet_left
+- - -1
+  - netch_leather_greaves
+- - -1
+  - netch_leather_boiled_helm
+- - -1
+  - fur_helm

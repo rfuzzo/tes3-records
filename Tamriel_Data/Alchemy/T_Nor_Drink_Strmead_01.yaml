@@ -1,0 +1,36 @@
+type: Alchemy
+flags: ''
+id: T_Nor_Drink_Strmead_01
+name: Strongmead
+script: ''
+mesh: sky\m\sky_misc_strmead.nif
+icon: sky\m\tx_sky_m_strmead.dds
+effects:
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Strength
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 10
+  max_magnitude: 10
+- magic_effect: DrainAttribute
+  skill: None
+  attribute: Agility
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 15
+  max_magnitude: 15
+- magic_effect: DrainAttribute
+  skill: None
+  attribute: Intelligence
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 15
+  max_magnitude: 15
+data:
+  weight: 2.0
+  value: 20
+  flags: ''

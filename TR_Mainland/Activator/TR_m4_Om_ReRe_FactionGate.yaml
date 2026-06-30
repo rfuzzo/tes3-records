@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_Om_ReRe_FactionGate
+name: ''
+script: TR_m4_Om_ReRe_FactionCheck
+mesh: editormarker.nif

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Nor_CoinBarrowSilver_01
+name: Ancient Nord Silver Coin
+script: ''
+mesh: Sky\m\sky_misc_anccoin01.nif
+icon: sky\m\tx_sky_misc_accoin01.dds
+data:
+  weight: 0.1
+  value: 15
+  flags: ''

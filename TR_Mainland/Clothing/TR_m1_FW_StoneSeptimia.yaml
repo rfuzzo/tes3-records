@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m1_FW_StoneSeptimia
+name: Stone of Septimia
+script: TR_m1_FW_StoneSummon
+mesh: tr\c\tr_c_amulet_septimia.nif
+icon: tr\c\tr_c_septimia_uni.dds
+enchanting: T_Const_StoneSeptimia
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 10.0
+  value: 20000
+  enchantment: 0

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Nor_Clothbolt_02
+name: Bolt of Cloth
+script: ''
+mesh: sky\m\sky_misc_clothbolt_02.nif
+icon: sky\m\tx_misc_clothbolt_02.dds
+data:
+  weight: 25.0
+  value: 50
+  flags: ''

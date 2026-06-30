@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_Narsis_ZenChapel_npc5
+name: ''
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: ''
+enchanting: ''
+text: "nord merchant/smith who's temporarily in the city for trade. follower of zenithar.\r\nshe's here for worship & to discuss business. will sell some goods to the player.\r\n- aveno"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

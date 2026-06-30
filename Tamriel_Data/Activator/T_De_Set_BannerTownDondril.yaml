@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_De_Set_BannerTownDondril
+name: Dondril
+script: OutsideBanner
+mesh: TR\f\tr_banner_dondril.nif

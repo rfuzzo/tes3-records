@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_6thMug
+name: Sixth House Mug
+script: ''
+mesh: OAAB\m\dk_6th_mug.nif
+icon: OAAB\m\6th_mug.dds
+data:
+  weight: 2.0
+  value: 5
+  flags: ''

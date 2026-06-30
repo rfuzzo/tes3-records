@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: furn_sign_inn_endofworld
+name: The End of the World
+script: SignRotate
+mesh: x\Furn_sign_inn_01.NIF

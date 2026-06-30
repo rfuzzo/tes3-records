@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: Light_Com_Candle_12_Off
+name: Pewter Candlestick
+script: ''
+mesh: l\Light_Com_Candle_12.NIF
+icon: l\Light_Com_Candle_05.tga
+sound: ''
+data:
+  weight: 1.0
+  value: 6
+  time: 150
+  radius: 128
+  color:
+  - 26
+  - 198
+  - 255
+  - 0
+  flags: DYNAMIC | CAN_CARRY | FIRE | OFF_BY_DEFAULT | FLICKER_SLOW

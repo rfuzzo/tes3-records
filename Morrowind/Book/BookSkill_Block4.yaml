@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: BookSkill_Block4
+name: 36 Lessons of Vivec, Sermon 7
+script: ''
+mesh: m\Text_Octavo_06.nif
+icon: m\Tx_book_03.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe Thirty-Six Lessons of Vivec: Sermon Seven<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nAs the caravan of Nerevar now made for the capital of Veloth, anon Almalexia, there came great rumblings from the oblivion. A duke among scamps wandered into the House of Troubles, pausing before each scripture door to pay his respects, until finally he was met by the major domo of Mehrunes Dagon.<BR>\r\n<BR>\r\nThe Duke of Scamps said, 'I was summoned by Lord Dagon, master of the foul waters and fire, and I have brought the pennants of my seven legions.'<BR>\r\n<BR>\r\nThe major domo, whose head was a bubble of foul water and fire, bowed low, so that the head of the Duke of Scamps became enclosed in his own.<BR>\r\n<BR>\r\nHe saw the first pennant, which commanded a legion of grim warriors who could die at least twice.<BR>\r\n<BR>\r\nHe saw the second pennant, which commanded a legion of winged bulls and the emperor of color that rode upon each.<BR>\r\n<BR>\r\nHe saw the third pennant, which commanded a legion of inverted gorgons, great snakes whose scales were the faces of men.<BR>\r\n<BR>\r\nHe saw the fourth pennant, which commanded a legion of double-crossed lovers.<BR>\r\n<BR>\r\nHe saw the fifth pennant, which commanded a legion of jumping wounds looking to hop onto a victim.<BR>\r\n<BR>\r\nHe saw the sixth pennant, which commanded a legion of abridged planets.<BR>\r\n<BR>\r\nHe saw the seventh pennant, which commanded a legion of armored winning moves.<BR>\r\n<BR>\r\nTo which the major domo said, 'Duke Kh-Utta, your legions while mighty are not enough to destroy Nerevar or the Triune way. Look upon the Hortator and see the wisdom he takes to wife.'<BR>\r\n<BR>\r\nAnd they looked into the middle world and saw:<BR>\r\n<BR>\r\nEvaporating in a throng of thunder<BR>\r\nOf red war and chitin men,<BR>\r\nWhere destines<BR>\r\nTake him further from our ways<BR>\r\nThe heat that we have wanted<BR>\r\nAnd pray they still remember,<BR>\r\nWhere destines<BR>\r\nClothe the distance,<BR>\r\nGlad in the golden east that we saw it now,<BR>\r\nInstead of the war and repair<BR>\r\nOf the oblivious fracture<BR>\r\nA curse on the Hortator<BR>\r\nAnd two more on his hands<BR>\r\n<BR>\r\nAnd the Duke of Scamps saw the palms of the Hortator, upon which the egg had written these words of power: GHARTOK PADHOME GHARTOK PADHOME.<BR>\r\n<BR>\r\nThe ending of the words is ALMSIVI.<BR>\r\n"
+data:
+  weight: 3.0
+  value: 200
+  book_type: Book
+  skill: Block
+  enchantment: 0

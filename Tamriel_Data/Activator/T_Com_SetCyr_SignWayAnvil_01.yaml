@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Com_SetCyr_SignWayAnvil_01
+name: Anvil
+script: ''
+mesh: pc\f\pc_furn_signpost_01.nif

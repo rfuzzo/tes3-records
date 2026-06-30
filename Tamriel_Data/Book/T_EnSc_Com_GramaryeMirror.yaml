@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_EnSc_Com_GramaryeMirror
+name: Scroll of Gramarye's Mirror
+script: ''
+mesh: m\text_scroll_open_01.nif
+icon: m\tx_scroll_open_01.dds
+enchanting: T_Once_GramaryeMirror
+text: <DIV ALIGN="center"><FONT COLOR="000000" SIZE="2" FACE="Daedric">INVOKE SWIFTLY AND WISELY</FONT><BR>
+data:
+  weight: 0.2
+  value: 412
+  book_type: Scroll
+  skill: None
+  enchantment: 0

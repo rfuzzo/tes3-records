@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: AB_IngFood_DoughLump
+name: Dough
+script: ''
+mesh: OAAB\n\doughLump.nif
+icon: OAAB\n\doughLump.tga
+data:
+  weight: 0.2
+  value: 1
+  effects:
+  - None
+  - None
+  - None
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

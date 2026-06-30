@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m1_SoulGem_curse_i62
+name: Grand Soul Gem
+script: TR_m1_script_curse_i62_d
+mesh: m\Misc_soulgem_grand.NIF
+icon: m\Tx_soulgem_Grand.tga
+data:
+  weight: 2.0
+  value: 200
+  flags: ''

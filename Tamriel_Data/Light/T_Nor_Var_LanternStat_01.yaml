@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_Nor_Var_LanternStat_01
+name: ''
+script: ''
+mesh: Sky\l\Sky_Light_Nord_LAT_04.nif
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 10
+  time: -1
+  radius: 128
+  color:
+  - 245
+  - 140
+  - 40
+  - 0
+  flags: DYNAMIC | FIRE | FLICKER_SLOW

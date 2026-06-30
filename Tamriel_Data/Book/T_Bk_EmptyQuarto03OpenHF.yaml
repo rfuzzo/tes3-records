@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_EmptyQuarto03OpenHF
+name: <Placeholder>
+script: ''
+mesh: hf\m\hf_text_quarto_03o.nif
+icon: hf\m\hf_text_quarto_03o.dds
+enchanting: ''
+text: ''
+data:
+  weight: 4.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 0

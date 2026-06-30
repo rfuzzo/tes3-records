@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Com_Iron_Naginata_01
+name: Iron Naginata
+script: ''
+mesh: tr\w\tr_w_iron_naginata.nif
+icon: tr\w\tr_w_iron_naginata.dds
+enchanting: ''
+data:
+  weight: 14.5
+  value: 40
+  weapon_type: SpearTwoWide
+  health: 650
+  speed: 1.3
+  reach: 1.8
+  enchantment: 55
+  chop_min: 2
+  chop_max: 3
+  slash_min: 2
+  slash_max: 6
+  thrust_min: 6
+  thrust_max: 20
+  flags: ''

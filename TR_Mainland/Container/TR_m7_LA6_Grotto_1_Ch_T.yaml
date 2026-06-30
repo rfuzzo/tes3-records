@@ -1,0 +1,21 @@
+type: Container
+flags: ''
+id: TR_m7_LA6_Grotto_1_Ch_T
+name: Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 100
+  - Gold_001
+- - 2
+  - misc_com_silverware_spoon
+- - 3
+  - misc_imp_silverware_plate_01
+- - 1
+  - p_swift_swim_q
+- - 2
+  - p_water_breathing_s
+- - 4
+  - potion_cyro_brandy_01

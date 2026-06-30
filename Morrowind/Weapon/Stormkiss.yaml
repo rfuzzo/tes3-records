@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: Stormkiss
+name: Stormkiss
+script: ''
+mesh: w\W_Nordic_BattleAxe.nif
+icon: w\Tx_WarAxe_Nordic.tga
+enchanting: lightning bolt_en
+data:
+  weight: 25.0
+  value: 120
+  weapon_type: AxeTwoHand
+  health: 1400
+  speed: 1.0
+  reach: 1.0
+  enchantment: 55
+  chop_min: 1
+  chop_max: 30
+  slash_min: 1
+  slash_max: 30
+  thrust_min: 1
+  thrust_max: 4
+  flags: ''

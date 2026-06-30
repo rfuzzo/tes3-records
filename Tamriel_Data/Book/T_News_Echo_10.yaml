@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Echo_10
+name: 'IN MEMORIAM: ORVAS DREN'
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_text_note_nar_news.nif
+icon: tr\m\tr_text_note_nar_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\tr_echo_512_256.dds\" WIDTH=\"348\" HEIGHT=\"168\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nIN MEMORIAM: ORVAS DREN<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nOrvas Dren has been recently found dead in his home, murdered by an unknown assailant. The son of Releniah Dren and brother of Duke Vedam Dren, Orvas played an integral part in supporting the Dunmer community's interests in Narsis. Under his patronage, local businesses were protected from opportunistic western monopolies, and many among us recall his passionate speeches that gave even the lowliest pauper true pride in our ancient land. He left for Vvardenfell soon after it was opened to aid his brother in its settlement, and was a staunch proponent of Hlaalu interests in the island's colonization. The Echo offers its respects to his family and friends, though every loyal Dunmer in Narsis will no doubt mourn his death. It hopes that swift action will be taken against the perpetrator before they strike again. After all, if they are capable of killing a noble in his own house, then who and what else might be next?<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

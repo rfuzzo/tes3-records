@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: AB_Door_ComPanelLHEXAMPLE
+name: ''
+script: ''
+mesh: OAAB\d\cPanDoorLH.nif

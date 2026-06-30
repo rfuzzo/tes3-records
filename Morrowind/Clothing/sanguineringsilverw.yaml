@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: sanguineringsilverw
+name: Ring of Sanguine Silver Wisdom
+script: ''
+mesh: c\C_Ring_extravagant_2.NIF
+icon: c\tx_ring_extravagant02.tga
+enchanting: sanguine silver wisdom_en
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 1500
+  enchantment: 600

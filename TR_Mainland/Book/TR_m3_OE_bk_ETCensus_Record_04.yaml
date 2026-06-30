@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_OE_bk_ETCensus_Record_04
+name: Census Record
+script: ''
+mesh: pc\m\PC_bk_Book_12.nif
+icon: pc\m\pc_bk_book_12.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nHALL OF ARCHIVES<BR>\r\n<BR>\r\nTo all visitors : <BR>\r\nOFFICIAL LEDGERS CAN'T BE BORROWED. <BR>\r\n<BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\nPlease inform the receptionist the year and era you wish to consult, the ledger will be brought to you by an agent. <BR>\r\n<BR>\r\nOur agents can advise you if you wish to establish your family tree, don't hesitate to ask.<BR>\r\n<DIV ALIGN=\"CENTER\"><BR>\r\nTHE CENSUS AND EXCISE OFFICE HAS NO AUTHORITY TO DELIVER ANY CERTIFICATE REGARDING HERALDRY. <BR>\r\nPlease send an official request to the Imperial Proconsul or Ducal Chamber. <BR>\r\n<BR>\r\n[This record contains a list of dates, hours, names, and the ledgers that have been consulted.]<BR>"
+data:
+  weight: 4.0
+  value: 4
+  book_type: Book
+  skill: None
+  enchantment: 0

@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m7_q_TiloreAmulet
+name: Amulet of Tenacity
+script: ''
+mesh: c\Amulet_Common_5.NIF
+icon: c\tx_amulet_com5.tga
+enchanting: TR_m7_q_TiloreAmulet_en
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 350
+  enchantment: 10

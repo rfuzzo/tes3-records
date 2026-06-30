@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Nor_Cm_Ring_Longmarch
+name: Ring of the Long March
+script: ''
+mesh: Sky\c\Sky_Ring_Nord_02.nif
+icon: Sky\c\Tx_Ring_Nord_02.dds
+enchanting: T_Use_Longmarch
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 107
+  enchantment: 10

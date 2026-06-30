@@ -1,0 +1,19 @@
+type: Container
+flags: BLOCKED
+id: contain_corpse_Indie
+name: Corpse of an adventurer
+script: Sound_Flies
+mesh: o\contain_corpse20.NIF
+encumbrance: 120.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - steel dagger
+- - 1
+  - ingred_bonemeal_01
+- - 1
+  - ingred_bread_01
+- - 1
+  - pick_master
+- - 25
+  - Gold_001

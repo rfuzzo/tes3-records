@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: TR_cont_m3-700_chestcth
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - Expensive_pants_Mournhold
+- - 1
+  - Expensive_shoes_Mournhold
+- - 1
+  - T_De_Ep_ShirtInd_01
+- - 1
+  - T_De_Ep_SkirtIndWarrior_01
+- - 150
+  - random gold

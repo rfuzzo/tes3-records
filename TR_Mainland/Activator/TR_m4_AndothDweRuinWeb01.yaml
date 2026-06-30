@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_AndothDweRuinWeb01
+name: ''
+script: TR_m4_AndothDweDoor01_scp
+mesh: f\furn_web00.nif

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Rga_PorcelainCutlery_03
+name: Porcelain Fork
+script: ''
+mesh: hf\m\hf_misc_rga_PcCutl_03.nif
+icon: hf\m\hf_misc_rga_PCCutl_03.dds
+data:
+  weight: 1.0
+  value: 6
+  flags: ''

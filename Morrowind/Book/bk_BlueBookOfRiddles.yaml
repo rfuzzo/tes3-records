@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: bk_BlueBookOfRiddles
+name: The Blue Book of Riddles
+script: ''
+mesh: m\Text_Octavo_08.nif
+icon: m\Tx_book_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe Blue Book of Riddles<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nHerein are presented all manner of riddles, as collected by the scholars of St Rilms, to the greater glory of the Tribunal, Almsivi!<BR>\r\n<BR>\r\n[The posing and puzzling of riddles is a convention of polite aristocratic Western society. Nobles and social aspirants collect books of riddles and study them, hoping thereby to increase the chances of their appearing sly and witty in conversation.]<BR>\r\n"
+data:
+  weight: 2.0
+  value: 250
+  book_type: Book
+  skill: None
+  enchantment: 20

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_HH_Alvynu2_BlankSlipArch
+name: Blank Pay Slip
+script: TR_m7_HH_Alvynu2_SlipArch_sc
+mesh: m\Text_Parchment_02.nif
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n[On the page is an orderly collage of boxes and ledger lines with many spaces left blank to be filled in with numbers and signatures and memos at a later date.] <BR>"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

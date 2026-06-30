@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_PaintpotG_01
+name: Green Paint Pot
+script: ''
+mesh: pc\m\pc_misc_p_pot_gr_01.nif
+icon: pc\m\pc_misc_p_pot_gr.dds
+data:
+  weight: 1.0
+  value: 6
+  flags: ''

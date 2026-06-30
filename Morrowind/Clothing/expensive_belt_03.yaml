@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: expensive_belt_03
+name: Expensive Belt
+script: ''
+mesh: c\C_belt_Expensive_3.NIF
+icon: c\tx_belt_expensive03.tga
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Belt
+  weight: 1.0
+  value: 10
+  enchantment: 50

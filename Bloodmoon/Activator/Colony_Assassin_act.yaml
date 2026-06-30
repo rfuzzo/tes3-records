@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: Colony_Assassin_act
+name: ''
+script: ColonyAssassinItems
+mesh: EditorMarker.NIF

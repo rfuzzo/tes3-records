@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_LamentForPelinalTR
+name: Lament for Pelinal
+script: ''
+mesh: TR\m\TR_book_closed01_AA.NIF
+icon: TR\m\TR_book_closed01_AA.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>Lament for Pelinal<BR>\n\n<DIV ALIGN=\"LEFT\"><BR>\r\n[Scholars disagree as to whether Morihaus' famous lament belongs in the fragmentary volumes of \"The Song of Pelinal\" or the bull-god's own so-called memoir, \"The Adabal-a\". Certainly it could belong to either, given that both of those texts celebrate the great affection between these immortals. History and indecision, however, have maneuvered the \"Lament for Pelinal\" into the relative obscurity of secondary sources associated with the Alessian Rebellion.]<BR>\n<BR>--------<BR>\n<BR>And the Mor bull flew from the Taking,<br>\nWhere the alien kings had left Pelinal<br>\nEight-wise - leaking, talking fool talk<br>\nTo gnash treetops, sending southern leaves<br>\nLike his mother's rain - Sky Goddess Son<br>\nAnd suddenly it was a canvas of fall<br>\nFor his horns were spirals of gore<br>\nPainting them doom-eyed<BR>\n<BR>Thunder-color hit the river's edge,<br>\nSurprising it, distempered<br>\nThis was jacklight lost to him<br>\nThis was his landing-madness<br>\nGiven hoof-point<br>\nAnd all the trajectory of took-away<br>\nBent inward, storied to an end<BR>\n<BR>\"Pelinal-ada, again partitioned, what echo is<br>\nUnsatisfied still?<br>\nWhose dream is mumbling drunk?<br>\nI would break the compass of the map<br>\nAnd become it in better brass<br>\nAnd skin myself in country<br>\nSo I could contain each piece of you<br>\nThey hid, to conjure one precious<br>\nReturn of your dumb laughter<BR>\n<BR>\"If I could be assured the rude stars<br>\nOf our continuing houses<br>\nWould not already be in fits of remake<br>\nCovetous, and yet stepping like soft love<br>\nThat belongs outside the hands<br>\nMade fast at shrine, with candle-strides<br>\nSo as not to wake the unsleeping<br>\nSmack of insect scruple<BR>\n<BR>\"Pelinal-ada, you lay in longest quiet,<br>\nMaking it less easy to stay here between<br>\nThe wave-fields of time,<br>\nWhere forms adorn ideas rather<br>\nThan the insane else of heaven<br>\nWhose drapery now always, always<br>\nPatterns those aims to the regular mold<BR>\n<BR>\"Who set us to self-hubris, to burnt ribbons<br>\nOf kindred fugue?<br>\nWhich tremble would do it worse?<br>\nIf my own abeyance might stamp summer<br>\nBack into your pallid vanish,<br>\nWould I lift this hoof again, assigned?\"<BR>\n"
+data:
+  weight: 3.0
+  value: 35
+  book_type: Book
+  skill: None
+  enchantment: 0

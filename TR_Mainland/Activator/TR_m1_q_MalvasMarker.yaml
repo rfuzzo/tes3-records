@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m1_q_MalvasMarker
+name: ''
+script: TR_m1_q_Dr2StartTimer
+mesh: EditorMarker.NIF

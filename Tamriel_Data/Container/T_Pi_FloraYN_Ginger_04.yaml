@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: T_Pi_FloraYN_Ginger_04
+name: Bitter Ginger
+script: ''
+mesh: pi\o\pi_f_ginger_04.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 3
+  - T_Pi_Random_FlorGingerFlower
+- - 3
+  - T_Pi_Random_FlorGingerRoot

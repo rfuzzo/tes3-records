@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m7_AM_q_QuestBoat_plank
+name: ''
+script: TR_m7_HR_AldIuval_q2_Boat_sc
+mesh: x\ex_ship_plank.nif

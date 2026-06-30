@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_chokeweed_01
+name: Chokeweed
+script: ''
+mesh: n\Ingred_Chokeweed_01.nif
+icon: n\Tx_chokeweed_01.tga
+data:
+  weight: 0.1
+  value: 1
+  effects:
+  - DrainAttribute
+  - RestoreFatigue
+  - CureCommonDisease
+  - DrainAttribute
+  skills:
+  - Block
+  - Block
+  - Block
+  - Block
+  attributes:
+  - Luck
+  - Strength
+  - Strength
+  - Willpower

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_Aim_LakeSoundEffect
+name: Sound Effects for Aimrah
+script: TR_m3_AimrahLakeSound_Script
+mesh: EditorMarker.NIF

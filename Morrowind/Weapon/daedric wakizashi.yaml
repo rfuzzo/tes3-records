@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: daedric wakizashi
+name: Daedric Wakizashi
+script: ''
+mesh: w\W_wakazashi_daedric.nif
+icon: w\Tx_wakazashi_daedric.tga
+enchanting: ''
+data:
+  weight: 30.0
+  value: 48000
+  weapon_type: ShortBladeOneHand
+  health: 1100
+  speed: 2.25
+  reach: 1.0
+  enchantment: 135
+  chop_min: 10
+  chop_max: 30
+  slash_min: 10
+  slash_max: 25
+  thrust_min: 7
+  thrust_max: 11
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

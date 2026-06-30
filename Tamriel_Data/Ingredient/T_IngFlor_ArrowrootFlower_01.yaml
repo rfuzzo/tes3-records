@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_ArrowrootFlower_01
+name: Arrowroot Flower
+script: ''
+mesh: pc\n\PC_Ingred_ArrowF.nif
+icon: pc\n\pc_tx_ingred_arrowf.dds
+data:
+  weight: 0.1
+  value: 5
+  effects:
+  - RestoreAttribute
+  - DamageAttribute
+  - FortifySkill
+  - NightEye
+  skills:
+  - Block
+  - Block
+  - Marksman
+  - None
+  attributes:
+  - Agility
+  - Luck
+  - Strength
+  - None

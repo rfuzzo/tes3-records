@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Imp_UNI_ChampionCudgel
+name: Champion's Cudgel
+script: ''
+mesh: sky\w\sky_w_champ_cudgel.nif
+icon: sky\w\sky_w_champ_cudgel.dds
+enchanting: T_Strike_ChampionCudgel_Uni
+data:
+  weight: 30.0
+  value: 17000
+  weapon_type: BluntTwoClose
+  health: 4000
+  speed: 1.0
+  reach: 1.5
+  enchantment: 110
+  chop_min: 1
+  chop_max: 45
+  slash_min: 1
+  slash_max: 40
+  thrust_min: 1
+  thrust_max: 2
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

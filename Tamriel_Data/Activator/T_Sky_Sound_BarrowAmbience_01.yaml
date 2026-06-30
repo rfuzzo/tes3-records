@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Sky_Sound_BarrowAmbience_01
+name: 'Sound Effect: Barrow Ambience'
+script: T_ScSound_BarrowAmbience
+mesh: EditorMarker.NIF

@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Com_UNI_ConjurersRing
+name: Conjurer's Ring
+script: ''
+mesh: pc\c\pc_c_conjurers_ring.nif
+icon: pc\c\pc_c_conjurers_ring.dds
+enchanting: T_Const_ConjurersRing
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 12000
+  enchantment: 0

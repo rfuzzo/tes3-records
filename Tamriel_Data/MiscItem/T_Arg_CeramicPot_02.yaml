@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Arg_CeramicPot_02
+name: Ceramic Pot
+script: ''
+mesh: bm\m\bm_cer_pot_02.nif
+icon: bm\m\bm_misc_pot_02.dds
+data:
+  weight: 2.4
+  value: 3
+  flags: ''

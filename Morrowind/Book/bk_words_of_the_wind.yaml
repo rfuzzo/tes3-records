@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: bk_words_of_the_wind
+name: Words of the Wind
+script: ''
+mesh: m\Text_Quarto_03.NIF
+icon: m\Tx_quarto_03.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nWords of the Wind<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\n[This is a volume of verse collected from Ashlander wise women. 'May I shrink to dust' is from the Ahemmusa Ashlanders of the Grazelands.]<BR>\r\n<BR>\r\nMay I shrink to dust<BR>\r\nIn your cold, wild Wastes,<BR>\r\nAnd may my tongue speak<BR>\r\nIts last hymn to your winds.<BR>\r\n<BR>\r\nI pray for the herder<BR>\r\nThat whistles to his guar at play.<BR>\r\nI pray for the hunter<BR>\r\nThat stalks the white walkers.<BR>\r\nI pray for the wise one<BR>\r\nThat seeks under the hill,<BR>\r\nAnd the wife who wishes<BR>\r\nFor one last touch of her dead child's hand.<BR>\r\n<BR>\r\nI will not pray for that which I've lost<BR>\r\nWhen my heart springs forth<BR>\r\nFrom your soil, like a seed,<BR>\r\nAnd blossoms anew beneath tomorrow's sun.<BR>\r\n<BR>\r\n"
+data:
+  weight: 4.0
+  value: 45
+  book_type: Book
+  skill: None
+  enchantment: 0

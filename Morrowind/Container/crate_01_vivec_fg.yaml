@@ -1,0 +1,41 @@
+type: Container
+flags: ''
+id: crate_01_vivec_fg
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 250.0
+container_flags: IS_BASE
+inventory:
+- - -1
+  - steel crossbow
+- - -1
+  - steel battle axe
+- - -1
+  - steel axe
+- - -1
+  - steel war axe
+- - -1
+  - silver war axe
+- - -1
+  - steel warhammer
+- - -1
+  - steel club
+- - -1
+  - steel mace
+- - -1
+  - steel broadsword
+- - -1
+  - steel katana
+- - -1
+  - steel longsword
+- - -1
+  - steel saber
+- - -1
+  - silver longsword
+- - -1
+  - steel dagger
+- - -1
+  - steel tanto
+- - -1
+  - silver dagger

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_Compass_02
+name: Compass
+script: ''
+mesh: pi\m\PI_misc_compas01.nif
+icon: pi\m\PI_misc_compas01_icn.dds
+data:
+  weight: 1.0
+  value: 35
+  flags: ''

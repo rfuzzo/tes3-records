@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_AshlGlassDagger
+name: Ashlander Glass Dagger
+script: ''
+mesh: OAAB\w\ashglass_dagger.nif
+icon: OAAB\w\ashglass_dagger.tga
+enchanting: ''
+data:
+  weight: 2.0
+  value: 160
+  weapon_type: ShortBladeOneHand
+  health: 150
+  speed: 2.5
+  reach: 1.0
+  enchantment: 12
+  chop_min: 3
+  chop_max: 10
+  slash_min: 3
+  slash_max: 10
+  thrust_min: 3
+  thrust_max: 9
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

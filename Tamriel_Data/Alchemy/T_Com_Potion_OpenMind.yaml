@@ -1,0 +1,36 @@
+type: Alchemy
+flags: ''
+id: T_Com_Potion_OpenMind
+name: Potion of Open Mind
+script: ''
+mesh: m\Misc_Potion_Exclusive_01.nif
+icon: m\Tx_potion_exclusive_01.tga
+effects:
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Intelligence
+  range: OnSelf
+  area: 0
+  duration: 45
+  min_magnitude: 50
+  max_magnitude: 50
+- magic_effect: RestoreMagicka
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 1
+  min_magnitude: 100
+  max_magnitude: 100
+- magic_effect: WeaknessToMagicka
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 45
+  min_magnitude: 25
+  max_magnitude: 25
+data:
+  weight: 0.25
+  value: 250
+  flags: ''

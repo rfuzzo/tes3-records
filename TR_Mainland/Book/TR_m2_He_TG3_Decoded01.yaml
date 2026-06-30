@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2_He_TG3_Decoded01
+name: Decoded Document
+script: ''
+mesh: m\Text_Parchment_02.nif
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n[This decoded document is a letter describing, in great detail, the personal life, habits, and daily movements of Dothasi Vantus, a diamond-baron and resident of Firewatch.]<BR>"
+data:
+  weight: 0.1
+  value: 3
+  book_type: Scroll
+  skill: None
+  enchantment: 0

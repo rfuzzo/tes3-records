@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: de_r_chest_01_pos
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - random_de_pos_01
+- - 1
+  - random_loot_special
+- - 20
+  - random_loot_special_marksman

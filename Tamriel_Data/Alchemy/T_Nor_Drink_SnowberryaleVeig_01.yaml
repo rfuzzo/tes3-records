@@ -1,0 +1,44 @@
+type: Alchemy
+flags: ''
+id: T_Nor_Drink_SnowberryaleVeig_01
+name: Veig
+script: ''
+mesh: TR\m\TR_flask_ale_snowberry.nif
+icon: TR\m\TR_misc_flask_ale_01.dds
+effects:
+- magic_effect: DrainAttribute
+  skill: None
+  attribute: Intelligence
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 20
+  max_magnitude: 20
+- magic_effect: DrainAttribute
+  skill: None
+  attribute: Willpower
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 20
+  max_magnitude: 20
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Strength
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 50
+  max_magnitude: 50
+- magic_effect: FrostDamage
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 6
+  min_magnitude: 1
+  max_magnitude: 1
+data:
+  weight: 2.0
+  value: 50
+  flags: ''

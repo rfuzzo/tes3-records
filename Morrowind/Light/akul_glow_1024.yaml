@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: akul_glow_1024
+name: ''
+script: ''
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 1024
+  color:
+  - 210
+  - 0
+  - 0
+  - 0
+  flags: PULSE_SLOW

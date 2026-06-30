@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_Plum_01
+name: Plum
+script: ''
+mesh: sum\n\sum_n_plum.nif
+icon: sum\n\sum_n_plum.dds
+data:
+  weight: 0.2
+  value: 1
+  effects:
+  - RestoreFatigue
+  - ResistMagicka
+  - FortifyFatigue
+  - None
+  skills:
+  - None
+  - Block
+  - Block
+  - None
+  attributes:
+  - None
+  - Luck
+  - Willpower
+  - None

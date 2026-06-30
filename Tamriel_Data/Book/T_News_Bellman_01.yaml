@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Bellman_01
+name: HELSETH ASCENDS THE THRONE
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_note_oe_news.nif
+icon: tr\m\tr_note_oe_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\TR_bellman_512_256.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nHELSETH ASCENDS THE THRONE<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nKing Hlaalu Athyn Llethan of Morrowind has passed away after a struggle with illness. The Bellman offers its condolences to his widow, Ravani Llethan. As the King died childless, the crown now passes to his grand-nephew, and scion of our fair city's onetime ruling Dark Elf clan, Helseth. Long live King Hlaalu Helseth, Duke of Mournhold and Ruler of all Morrowind.<br><br>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nA PROFILE OF QUEEN BARENZIAH<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nThe Dowager Queen of Wayrest, Barenziah, is a force to be reckoned with. A contemporary of Tiber Septim himself, she once ruled Morrowind as its first Queen following the Armistice, and helped put an end to the Imperial Simulacrum. While her son is now our King, rumor has it that the crown was offered to her first. Is the Queen Mother the real power behind the throne? Read all about it on page six.<br><br>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_NordicSilverBow
+name: Nordic Silver Longbow
+script: ''
+mesh: OAAB\w\w_nord_longbow.nif
+icon: OAAB\w\w_nord_bow.dds
+enchanting: ''
+data:
+  weight: 21.0
+  value: 2500
+  weapon_type: MarksmanBow
+  health: 900
+  speed: 1.0
+  reach: 1.0
+  enchantment: 85
+  chop_min: 2
+  chop_max: 45
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE | SILVER

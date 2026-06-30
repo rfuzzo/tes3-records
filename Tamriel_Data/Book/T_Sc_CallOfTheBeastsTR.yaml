@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Sc_CallOfTheBeastsTR
+name: Call of the Beasts
+script: T_ScBook_SpCommandCreature
+mesh: m\Text_Scroll_03.nif
+icon: m\Tx_scroll_03.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>\r\nCall of the Beasts<BR>\r\n<BR>\r\nBeasts of the wild heed my call,<BR>\r\nBe ye big or be ye small,<BR>\r\nBe ye strong or be ye lame,<BR>\r\nTo me, my friends ye are all the same.<BR>\r\n<BR>\r\nCreatures of nature hear my plea,<BR>\r\nStand up my friends and fight for me,<BR>\r\nBirds of high and beasts of low,<BR>\r\nCome to me and strike my foe. <BR>\r\n"
+data:
+  weight: 1.5
+  value: 150
+  book_type: Scroll
+  skill: None
+  enchantment: 100

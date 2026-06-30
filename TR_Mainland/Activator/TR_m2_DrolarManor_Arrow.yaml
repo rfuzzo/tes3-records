@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m2_DrolarManor_Arrow
+name: ''
+script: TR_m2_DrolarManor_Skel_sc
+mesh: tr\w\tr_w_aena_arrow.nif

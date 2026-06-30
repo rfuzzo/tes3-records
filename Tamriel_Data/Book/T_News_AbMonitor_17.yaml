@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_AbMonitor_17
+name: IAS EXPLORES GARLAS AGEA!
+script: T_ScNews_Bellman_Paper
+mesh: pc\m\pc_text_note_anv_news.nif
+icon: pc\m\pc_text_note_anv_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"PC\\pc_abmonitor.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nARCHAEOLOGICAL SOCIETY PLUMBS NEW DEPTHS IN GARLAS AGEA<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nThe Imperial Archaeological Society has opened a new excavation site in Garlas Agea, an Ayleid ruin on the eastern fringes of the Kingdom of Anvil. The dig has been much anticipated by the scholars of West Cyrodiil and beyond, who hope that the Society's efforts will shed new light on the many questions that still surround the Ayleids.<BR><BR>\r\n\"We made quick progress at first, and uncovered a massive spiral staircase that seemed to go downwards forever,\" recalled Otto, an excavator in the Society's employ. But after a promising start, the expedition stalled when it encountered ferocious opposition from the ruins' denizens. \"When we got to some kind of funeral chamber, deep in the ruin, we were attacked by spirits, Daedra, and twisted ancient golems,\" said Kalana Monilian, another excavator. In response to these attacks, the expedition retreated, setting up camp at the base of the great spiral stair.<BR><BR>\r\nDespite the setback, the small excavation crew plans to stay on site to explore other sections of the ruins. Bucynarel, the expedition's leader, remains hopeful. \"Garlas Agea was one of the most prominent Ayleid city-states in the Colovian West,\" she said. \"It was said to hold one of the greatest libraries of its time. We won't be turning back until we find it.\"<BR><BR>\r\nAccording to Bucynarel, success at Garlas Agea would be the biggest breakthrough in Ayleid archaeology since the rediscovery of Hame deep in the jungles of Kavas Rim during the reign of Emperor Cephorus II.<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

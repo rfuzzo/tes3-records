@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Dwe_DngRuin_Button01
+name: Dwemer Button
+script: T_ScObj_Dwe_Button
+mesh: tr\f\tr_act_dwe_button_01.nif

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_HO_banner_smith
+name: 'Tiralos Uval: Smith'
+script: OutsideBanner
+mesh: f\Furn_bannerD_WA_shop_01.NIF

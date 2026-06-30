@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_bk_m2_i2-437-tri_ledger2
+name: Necrom Temple Annual Expenses
+script: ''
+mesh: TR\m\TR_book_closed_i14_AY.nif
+icon: TR\m\TR_book_closed_i14_AY.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR><BR>\r\n[This book is a copy of an account on the annual expenses of the Temple in Necrom. The data it contains span only a few years.]<BR>"
+data:
+  weight: 2.0
+  value: 15
+  book_type: Book
+  skill: None
+  enchantment: 0

@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: dwrv_closet_galmis
+name: Steel Dwemer Closet
+script: ''
+mesh: o\contain_dwrv_closet00.nif
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - dwarven warhammer
+- - 1
+  - dwemer_bracer_right
+- - 1
+  - dwemer_boots
+- - 1
+  - dwemer_pauldron_left

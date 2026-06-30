@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: furn_sign_arms_uulernil
+name: Uulernil's Arms
+script: SignRotate
+mesh: x\Furn_sign_arms_01.NIF

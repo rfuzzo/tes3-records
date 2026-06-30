@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Sc_NewFoundHealthGalodusTR
+name: Newfound Health of Galodus
+script: T_ScBook_SpCureBlight
+mesh: m\Text_Scroll_03.nif
+icon: m\Tx_scroll_03.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>\r\nNewfound Health of Galodus<BR>\r\n<BR>\r\nOnce, I had a chancre or two<BR>\r\nThe pain would rage and I would too,<BR>\r\nMy mind grows weak, thinking of ways<BR>\r\nWays that I could stop the pains<BR>\r\n<BR>\r\nAlchemy, stories, and hypnotists<BR>\r\nCould not stop the bloody cysts<BR>\r\nArcane legend and sorcery<BR>\r\nWas the way I've healed my knee<BR>\r\n<BR>\r\nSo adventurer hear my plea!<BR>\r\nWhen you hear or see,<BR>\r\nA blightened person in pain<BR>\r\nYou now have the knowledge to heal<BR>\r\nAlthough you may not see material gain<BR>\r\nYou have the honor of one new feel....<BR>\r\nGenerosity. <BR>\r\n"
+data:
+  weight: 1.5
+  value: 150
+  book_type: Scroll
+  skill: None
+  enchantment: 100

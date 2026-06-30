@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: Act_banner_Tel_Branora
+name: Tel Branora
+script: OutsideBanner
+mesh: f\Act_banner_Tel_Branora.nif

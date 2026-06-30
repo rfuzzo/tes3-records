@@ -1,0 +1,19 @@
+type: Light
+flags: PERSISTENT
+id: T_Com_Obj_StaffLight
+name: ''
+script: ''
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 300
+  color:
+  - 6
+  - 94
+  - 41
+  - 0
+  flags: DYNAMIC

@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: tr_m3_akuband_barrel10
+name: Steel Quarter Keg
+script: ''
+mesh: o\contain_dwrv_barrel10.nif
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 15
+  - tr_m3_akuband_ingred_rand

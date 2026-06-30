@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m3_pilgrimreliquary
+name: Reliquary
+script: TR_m3_q_A9_relicboxscript
+mesh: o\Contain_chest_small_01.NIF
+encumbrance: 25.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - TR_m3_Sa_relic

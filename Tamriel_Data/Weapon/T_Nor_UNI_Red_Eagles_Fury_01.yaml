@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Nor_UNI_Red_Eagles_Fury_01
+name: Red Eagle's Fury
+script: ''
+mesh: sky\w\sky_w_eagles_fury_uni.nif
+icon: sky\w\sky_w_eagles_fury_uni.dds
+enchanting: T_Strike_Eagle_Fury
+data:
+  weight: 4.0
+  value: 22000
+  weapon_type: ShortBladeOneHand
+  health: 800
+  speed: 2.5
+  reach: 1.0
+  enchantment: 20
+  chop_min: 10
+  chop_max: 16
+  slash_min: 10
+  slash_max: 16
+  thrust_min: 12
+  thrust_max: 12
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: AB_Light_BlueSoul_400
+name: ''
+script: ''
+mesh: OAAB\l\light_fire_blue_soul.nif
+icon: ''
+sound: Fire 50
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 400
+  color:
+  - 54
+  - 148
+  - 241
+  - 0
+  flags: DYNAMIC | FIRE | FLICKER_SLOW

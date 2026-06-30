@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_De_Ashlander_Dagger_01
+name: Ashlander Dagger
+script: ''
+mesh: tr\w\tr_w_ashglass_dagger.nif
+icon: tr\w\tr_w_ashglass_dagger.dds
+enchanting: ''
+data:
+  weight: 1.6
+  value: 3000
+  weapon_type: ShortBladeOneHand
+  health: 320
+  speed: 2.5
+  reach: 1.0
+  enchantment: 11
+  chop_min: 5
+  chop_max: 12
+  slash_min: 5
+  slash_max: 12
+  thrust_min: 6
+  thrust_max: 10
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

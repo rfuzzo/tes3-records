@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: TR_m4_orlukh_armorycont
+name: Crate
+script: ''
+mesh: TR\o\TR_cont_crate_L_01.nif
+encumbrance: 400.0
+container_flags: IS_BASE
+inventory:
+- - 4
+  - T_Mw_Random_WeaponsImpGuard
+- - 3
+  - T_Mw_Random_WeaponsOrcish
+- - 6
+  - T_Sky_Random_ArmorOrc
+- - 5
+  - l_n_repair item

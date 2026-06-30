@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_ComArtPaintMorr03
+name: Painting
+script: ''
+mesh: OAAB\m\com_paint_morr_03.nif
+icon: OAAB\m\com_painting_morr_03.tga
+data:
+  weight: 6.0
+  value: 300
+  flags: ''

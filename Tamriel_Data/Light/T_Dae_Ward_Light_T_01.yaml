@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_Dae_Ward_Light_T_01
+name: ''
+script: T_ScObj_DaeWardT
+mesh: tr\l\tr_l_dae_ward_t_01.nif
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 177
+  color:
+  - 28
+  - 158
+  - 255
+  - 0
+  flags: DYNAMIC

@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_Com_Var_TikiTorch_01
+name: Torch
+script: ''
+mesh: tr\l\tr_l_tiki_torch_01.nif
+icon: tr\l\tr_l_tiki_torch_01.dds
+sound: Fire 40
+data:
+  weight: 4.0
+  value: 7
+  time: 210
+  radius: 256
+  color:
+  - 245
+  - 140
+  - 40
+  - 0
+  flags: DYNAMIC | CAN_CARRY | FIRE | OFF_BY_DEFAULT | FLICKER_SLOW

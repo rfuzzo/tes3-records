@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m3_AillijarSpellEffects
+name: ''
+script: ''
+mesh: TR\i\tr_collision_box_01.nif

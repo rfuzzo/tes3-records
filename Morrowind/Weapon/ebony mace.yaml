@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: ebony mace
+name: Ebony Mace
+script: ''
+mesh: w\W_mace_ebony.nif
+icon: w\Tx_mace_ebony.tga
+enchanting: ''
+data:
+  weight: 30.0
+  value: 12000
+  weapon_type: BluntOneHand
+  health: 3600
+  speed: 1.5
+  reach: 1.0
+  enchantment: 100
+  chop_min: 7
+  chop_max: 26
+  slash_min: 7
+  slash_max: 26
+  thrust_min: 1
+  thrust_max: 3
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

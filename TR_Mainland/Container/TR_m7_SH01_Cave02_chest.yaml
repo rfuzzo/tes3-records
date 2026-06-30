@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: TR_m7_SH01_Cave02_chest
+name: Wooden Chest
+script: ''
+mesh: o\contain_chest10.nif
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - 364
+  - Gold_001
+- - 2
+  - T_Imp_SilverWareCup_02
+- - 1
+  - T_Imp_SilverWareVase_01
+- - 4
+  - T_IngMine_Sapphire_01
+- - 1
+  - glass_greaves

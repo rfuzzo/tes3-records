@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Bre_RedGlassBowl_01
+name: Gilded Red Glass Bowl
+script: ''
+mesh: hr\m\m_red_glass_bwl.nif
+icon: hr\m\hr_misc_red_bwl.dds
+data:
+  weight: 3.0
+  value: 230
+  flags: ''

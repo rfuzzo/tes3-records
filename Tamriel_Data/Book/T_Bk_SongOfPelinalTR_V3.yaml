@@ -1,0 +1,18 @@
+type: Book
+flags: ''
+id: T_Bk_SongOfPelinalTR_V3
+name: The Song of Pelinal, Volume 3
+script: ''
+mesh: TR\m\TR_book_closed_i15_AY.nif
+icon: TR\m\TR_book_closed_i15_AY.dds
+enchanting: ''
+text: |-
+  <DIV ALIGN="LEFT"><FONT COLOR="000000" SIZE="3" FACE="Magic Cards">[Editor's Note: Volumes 1-6 are taken from the so-called Reman Manuscript located in the Imperial Library. It is a transcription of older fragments collected by an unknown scholar of the early Second Era. Beyond this, little is known of the original sources of these fragments, some of which appear to be from the same period (perhaps even from the same manuscript). But, as no scholarly consensus yet exists on dating these six fragments, no opinions will be offered here.]<BR>
+  <DIV ALIGN="CENTER"><BR>The Song of Pelinal, Volume 3: On His Enemy<BR>
+  <DIV ALIGN="LEFT"><BR>Pelinal Whitestrake was the enemy of all elfkind that lived in Cyrod in those days. Mainly, though, he took it upon himself to slay the sorcerer-kings of the Ayleids in pre-arranged open combats rather than at war; the fields of rebellion he left to the growing armies of the Paravania and his bull nephew. Pelinal called out Haromir of Copper and Tea into a duel at the Tor, and ate his neck-veins while screaming praise to Reman, a name that no one knew yet. Gordhaur the Shaper's head was smashed upon the goat-faced altar of Ninendava, and in his wisdom Pelinal said a small plague spell to keep that evil from reforming by welkynd-magic. Later that season, Pelinal slew Hadhuul on the granite steps of Ceya-Tar, the Fire King's spears knowing their first refute. For a time, no weapon of the Ayleids could pierce his armor, which Pelinal admitted was unlike any crafted by men, but would say no more even when pressed. When Huna, whom Pelinal raised from grain-slave to hoplite and often shared a tent with at night, took death from an arrowhead made from the beak of Celethelel the Singer, the Whitestrake went on his first Madness. He wrought destruction from Narlemae all the way to Celediil, and erased those lands from the maps of Elves and Men, and all things in them, and Perrif was forced to make sacrifice to the Gods to keep them from leaving the earth in their disgust. And then came the storming of White-Gold, where the Ayleids had made pact with the Aurorans of Meridia, and summoned them, and appointed the terrible and golden-hued "half-Elf" Umaril the Unfeathered as their champion... and, for the first time since his coming, it was Pelinal who was called out to battle by another, for Umaril had the blood of the 'ada and would never know death.<BR>
+data:
+  weight: 1.5
+  value: 100
+  book_type: Book
+  skill: None
+  enchantment: 100

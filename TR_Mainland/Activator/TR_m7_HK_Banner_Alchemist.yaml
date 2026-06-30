@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_HK_Banner_Alchemist
+name: 'Dithisi Andral: Alchemist'
+script: OutsideBanner
+mesh: f\Furn_bannerD_alchemy_01.NIF

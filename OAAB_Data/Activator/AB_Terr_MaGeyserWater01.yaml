@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Terr_MaGeyserWater01
+name: ''
+script: AB_GeyserWaterEmitter_s
+mesh: OAAB\t\maGeyser01.nif

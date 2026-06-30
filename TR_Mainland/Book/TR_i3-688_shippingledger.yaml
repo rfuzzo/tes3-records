@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_i3-688_shippingledger
+name: Shipping Ledger
+script: ''
+mesh: m\Text_Octavo_05.nif
+icon: m\Tx_book_04.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>\r\nThis ledger records the names of the ships that passed through Almas Thirr and the donation their captains have given to the Temple.\r\n<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\n<BR>"
+data:
+  weight: 3.0
+  value: 40
+  book_type: Book
+  skill: None
+  enchantment: 0

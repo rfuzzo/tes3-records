@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_Glb_Light_Spellstone_256
+name: ''
+script: ''
+mesh: ''
+icon: ''
+sound: Heart
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 256
+  color:
+  - 72
+  - 220
+  - 247
+  - 0
+  flags: FIRE

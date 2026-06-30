@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3-239_bk_ledger
+name: Ledger
+script: ''
+mesh: m\Text_Octavo_05.NIF
+icon: m\Tx_book_04.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">[This ledger includes notes on the business aspect of the workshop.]<BR>\r\n\r\n"
+data:
+  weight: 3.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 0

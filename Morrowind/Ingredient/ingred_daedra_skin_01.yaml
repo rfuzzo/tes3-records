@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_daedra_skin_01
+name: Daedra Skin
+script: ''
+mesh: n\Ingred_Daedra_skin_01.NIF
+icon: n\Tx_daedra_skin_01.tga
+data:
+  weight: 0.2
+  value: 200
+  effects:
+  - FortifyAttribute
+  - CureCommonDisease
+  - Paralyze
+  - SwiftSwim
+  skills:
+  - Block
+  - Block
+  - Block
+  - Block
+  attributes:
+  - Strength
+  - Strength
+  - Strength
+  - Strength

@@ -1,0 +1,22 @@
+type: Armor
+flags: ''
+id: T_Nor_Guard_PauldronR_01
+name: Karth Steel Right Pauldron
+script: ''
+mesh: Sky\a\Sky_A_Guardarmor_PL_G.nif
+icon: Sky\a\Tx_GdArmor_Pauldron.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: RightUpperArm
+  male_bodypart: T_A_NorGuardPauldr01_UA
+  female_bodypart: ''
+- biped_object_type: RightPauldron
+  male_bodypart: T_A_NorGuardPauldr01_Cl
+  female_bodypart: ''
+data:
+  armor_type: RightPauldron
+  weight: 9.0
+  value: 80
+  health: 150
+  enchantment: 50
+  armor_rating: 16

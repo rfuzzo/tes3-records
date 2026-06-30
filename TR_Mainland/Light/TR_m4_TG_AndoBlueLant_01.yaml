@@ -1,0 +1,19 @@
+type: Light
+flags: PERSISTENT
+id: TR_m4_TG_AndoBlueLant_01
+name: ''
+script: TR_m4_AndothDweDoor02_scp
+mesh: l\Light_De_Lantern_02.NIF
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 12
+  time: -1
+  radius: 77
+  color:
+  - 9
+  - 210
+  - 247
+  - 0
+  flags: DYNAMIC | FLICKER_SLOW

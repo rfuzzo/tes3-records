@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Imp_Ep_AmuletNib_Sanctuary
+name: Amulet of Sanctuary
+script: ''
+mesh: pc\c\pc_c_nib_am_ep01.nif
+icon: pc\c\pc_c_nib_am_ep01.dds
+enchanting: father's hand_en
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 47
+  enchantment: 150

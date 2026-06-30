@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_ShellCockle_06
+name: Cockle Shell
+script: ''
+mesh: pi\m\pi_m_shellcockle_02c.nif
+icon: pi\m\pi_m_shellcockle_02c.dds
+data:
+  weight: 0.25
+  value: 3
+  flags: ''

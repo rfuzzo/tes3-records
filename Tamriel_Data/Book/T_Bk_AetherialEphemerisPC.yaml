@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_AetherialEphemerisPC
+name: Aetherial Ephemeris
+script: ''
+mesh: tr\m\tr_book_tomebk_05.nif
+icon: tr\m\tr_book_closed_tome05.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>THE AETHERIAL EPHEMERIS AND ASTROLOGICAL ALMANAC<BR>\r\nPublished by the Imperial Astrological Society<BR>\r\n<BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\n\r\n[A technical manual containing reference data calculated by the Imperial Astrological Society for the convenience of mariners, surveyors, mages, scholars, and travelers of all kinds.\r\n<BR>\r\nIt provides detailed tables recording the positions of various important aetherial bodies at regular intervals of date and time, as well as any eclipses, occultations, or other noteworthy phenomena. Additional tables show the Society's predicted trajectories for each object of interest. \r\n<BR>\r\nCelestial bodies covered by the almanac include Masser, Secunda, the Thirteen Patrons, and an array of other natural and artificial astronomical objects. \r\n<BR>\r\nDetailed instructions are given on how to record and observe the unpredictable movements of the Serpent constellation with whatever equipment is at hand, allowing a prudent navigator to avoid ill-omened headings.\r\n<BR>\r\nThis copy includes tide tables and phase readings for Masser and Secunda relevant to the Society office that printed it.]\r\n<BR><BR>"
+data:
+  weight: 6.0
+  value: 100
+  book_type: Book
+  skill: None
+  enchantment: 0

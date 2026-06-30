@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Sc_ReunrefinedTR
+name: Reunrefined
+script: T_ScBook_SpDispel
+mesh: m\Text_Scroll_open_01.nif
+icon: m\Tx_scroll_open_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>\r\nReunrefined<BR>\r\n<BR>\r\nTwisted, turned, transmuted<BR>\r\nThrough arcane arts polluted<BR>\r\nWrapped in magical cloak<BR>\r\nUnnatural threads now revoke<BR>\r\nTo help discern what's in hand<BR>\r\nFanciful creation return to bland<BR>\r\n<BR>\r\nWhat's been done, undo<BR>\r\nDestroy the falsehood<BR>\r\nLeave what is true <BR>\r\n"
+data:
+  weight: 1.5
+  value: 150
+  book_type: Scroll
+  skill: None
+  enchantment: 100

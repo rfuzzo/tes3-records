@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_Harrada_01
+name: Harrada
+script: ''
+mesh: pc\n\pc_ing_harrada.nif
+icon: pc\n\pc_ingred_harrada.dds
+data:
+  weight: 1.0
+  value: 10
+  effects:
+  - DamageHealth
+  - DamageFatigue
+  - Silence
+  - Paralyze
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

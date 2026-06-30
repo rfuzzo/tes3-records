@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_OrcishArrow
+name: Orcish Arrow
+script: ''
+mesh: OAAB\w\w_orcish_arrow.nif
+icon: OAAB\w\tx_orcish_arrow.dds
+enchanting: ''
+data:
+  weight: 0.1
+  value: 4
+  weapon_type: Arrow
+  health: 12
+  speed: 1.0
+  reach: 1.0
+  enchantment: 17
+  chop_min: 3
+  chop_max: 5
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_sc_m2_i2-437-Tri_workerlist
+name: List Of Excavation Workers
+script: ''
+mesh: m\Text_Scroll_03.nif
+icon: m\Tx_scroll_03.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>[This scroll lists the names of workers employed by the Temple to extend the Necrom catacombs at some point.]<BR>"
+data:
+  weight: 1.0
+  value: 5
+  book_type: Scroll
+  skill: None
+  enchantment: 0

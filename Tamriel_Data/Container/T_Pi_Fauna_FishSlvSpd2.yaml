@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: T_Pi_Fauna_FishSlvSpd2
+name: Silver Spade
+script: ''
+mesh: pi\o\pi_cont_fish_slvrspde2.nif
+encumbrance: 0.0
+container_flags: ORGANIC | IS_BASE
+inventory:
+- - 1
+  - T_IngCrea_SilverSpadeMeat_01
+- - 1
+  - T_Pi_Random_FaunSilverSpadeHead
+- - 2
+  - T_Pi_Random_FaunSilverSpadeMeat

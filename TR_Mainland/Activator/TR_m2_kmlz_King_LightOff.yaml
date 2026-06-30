@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m2_kmlz_King_LightOff
+name: ''
+script: TR_m2_kmlz_King_PowerOff_sc
+mesh: TR\l\TR_in_dwrv_neon_Q.nif

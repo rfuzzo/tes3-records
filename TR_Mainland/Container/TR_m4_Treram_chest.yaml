@@ -1,0 +1,11 @@
+type: Container
+flags: PERSISTENT
+id: TR_m4_Treram_chest
+name: Treram Varalaryn's Chest
+script: TR_m4_q_Treram_Chest
+mesh: TR\o\TR_furn_De_Rm_Chest.NIF
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - 500
+  - Gold_001

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_FG_ConsulateSpyOrders
+name: Mirise Urns' Encrypted Orders
+script: TR_m7_FG_ConsulateOrdersSc
+mesh: m\Text_Parchment_02.nif
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nAchj yws iu rq waxxtkrcrg huw Xugetgcz omgmruepchvu bithklg og lwm Topqwznlt. Lzsiskgr qdcisgjh of lwm Mibggf'f srkfuprcbg ld wstcgp oputaj tq rjs Veemiicj tspgglj. Etyus nda mmifcpqr gu bye Hgivgwga Xukjf qbfizrcvq ywgz hqxnu mh Vysptl ipdnirfrm, rs ycnz nk ipv Cckqbas Iweg'u gpjbdkmdepr kb gzt Olinb'u osxpqis kl Xjnjsmefgjn rvkizzcv.<BR>\r\n<BR>\r\nRjs Iaoqvr ygnz ow xvwotkgr bx nwlr tmns nfs ezln kcyr sat khg lgqrkhiiy rpgdnjpbzopq. Fc agi lzsejqgr lwmje qpfsek iw rnamps rdhm.<BR>\r\n<BR>\r\nF.N.<BR>\r\n<BR>\r\n\r\n"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

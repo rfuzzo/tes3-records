@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Ayl_Goblet_01
+name: Ayleid Goblet
+script: ''
+mesh: pc\m\pc_ayl_goblet_01.nif
+icon: pc\m\pc_misc_ayl_goblet_01.dds
+data:
+  weight: 4.0
+  value: 20
+  flags: ''

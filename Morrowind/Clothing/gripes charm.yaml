@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: gripes charm
+name: Gripes Charm
+script: ''
+mesh: c\Amulet_Common_1.NIF
+icon: c\tx_amulet_com1.tga
+enchanting: gripes_en
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 2
+  enchantment: 10

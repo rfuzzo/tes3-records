@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_Narsis_MH_VaultsLedger
+name: Measurehall Vaults Ledger
+script: ''
+mesh: m\Text_Octavo_03.NIF
+icon: m\Tx_octavo_03.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\n[This book contains meticulous records of all commerce and transactions via the Measurehall's vaults as well as an up to date account of the current inventory.]\r\n<BR>\r\n"
+data:
+  weight: 3.0
+  value: 40
+  book_type: Book
+  skill: None
+  enchantment: 100

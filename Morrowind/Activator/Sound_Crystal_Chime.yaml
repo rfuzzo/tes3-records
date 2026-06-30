@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: Sound_Crystal_Chime
+name: Sound_Crystal_Chime
+script: Sound_Crystal_Ringing
+mesh: EditorMarker.NIF

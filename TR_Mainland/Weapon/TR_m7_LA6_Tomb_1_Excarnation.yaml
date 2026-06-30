@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m7_LA6_Tomb_1_Excarnation
+name: Excarnation
+script: ''
+mesh: tr\w\tr_w_chitin_sickle.nif
+icon: tr\w\tr_w_chitin_sickle.dds
+enchanting: TR_m7_LA6_Tomb_1_Excarnation_En
+data:
+  weight: 4.0
+  value: 7000
+  weapon_type: ShortBladeOneHand
+  health: 580
+  speed: 2.0
+  reach: 1.0
+  enchantment: 30
+  chop_min: 2
+  chop_max: 11
+  slash_min: 4
+  slash_max: 14
+  thrust_min: 1
+  thrust_max: 8
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

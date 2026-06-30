@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_LawAndTheWillPC
+name: The Law and the Will
+script: ''
+mesh: pc\m\PC_bk_Book_18.nif
+icon: pc\m\pc_bk_book_18.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe Law and the Will<BR>\r\nby Primate Denarius<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nThe Divines have made the world, and, for a large part, they are the world, freely giving their blood and flesh to the crucible of Man. As such, the Nine are the supreme authority on all moral and ethical questions that could even plague man: after all, they are both designers of the world, and inherent in its every aspect, having full knowledge of all possible circumstance varieties. If only we could converse directly with their radiant and titanic presences, they would be able to soothe all our worries and inform us of the right path to walk. Alas, for Man is weak, and incapable of interfacing directly with the Divine. Therefore, we are tasked to find other ways of taking knowledge of their good counsel. Here, in the mortal world, the Nine manifest in two ways: Divine Law and Divine Will.<BR>\r\n<BR>\r\nThe tenets and mandates of the Divines are revealed to the people by the priests in the form of Divine Law. While Divine Law usually shows at least some internal consistency or logic, this is not actually a requirement: Law, under the purview of Akatosh, must simply be obeyed. It is not up to us to understand the secret workings of the world, which sometimes favor evil men while the pious and the saintly seem to suffer. Accept that this is by design. Some of the provincial cults speak of sin, which is a false idea, but in Law there is something like debt: the debt of sacrifice we mortals have incurred for the creation of our world, which we can pay in full through obedience. The Law is revealed unto us by imperfect aspect facets, and is as such sometimes warped and refracted by the multiples. Therefore, it is imperative that the priests study the teachings and the covenants, so that they can interpret Divine Law in the proper way, and not give bad counsel. All Law of Empire is Divine Law, for all Law of Empire comes forth from Tiber Imperator, anon Talos.<BR>\r\n<BR>\r\nOnly the exalted are privy to Divine Will, which manifests in the visions of the oracles, the great revelations, and the physical manifestations, which is when the Divines cast themselves in flesh to descend upon the world and perform great and secret works. Through the perfect aspect facets, the Divines speak with great clarity to their chosen ones, who must meditate upon their message before revealing it unto the people as Divine Law. Divine Will is to be a secret, for it is difficult to grasp, and easy to misinterpret. Many the shapes of Will that seems contrary to our sense of right and wrong, for the Divines in their perfection are one-sided, beautiful in their singularity, and not beholden to the strictures of one another. <BR>\r\n<BR>\r\n"
+data:
+  weight: 3.0
+  value: 220
+  book_type: Book
+  skill: None
+  enchantment: 0

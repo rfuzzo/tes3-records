@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_LichenYellow_01
+name: Yellow Lichen
+script: ''
+mesh: tr\n\tr_ing_ylichen_01.nif
+icon: tr\n\tr_ing_yellowlichen.dds
+data:
+  weight: 0.1
+  value: 5
+  effects:
+  - FortifyAttribute
+  - Poison
+  - ResistFire
+  - DrainHealth
+  skills:
+  - Block
+  - None
+  - None
+  - None
+  attributes:
+  - Agility
+  - None
+  - None
+  - None

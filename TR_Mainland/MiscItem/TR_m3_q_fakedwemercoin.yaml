@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m3_q_fakedwemercoin
+name: Fake Dwemer Coin
+script: TR_m3_q_fakedwemercoin_scr
+mesh: m\misc_dwrv_coin00.nif
+icon: m\misc_dwrv_coin00.tga
+data:
+  weight: 0.05
+  value: 20
+  flags: ''

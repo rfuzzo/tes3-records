@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: dwrv_chest10
+name: Ornate Dwemer Chest
+script: ''
+mesh: o\contain_dwrv_chest10.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - random_dwemer_armor
+- - 1
+  - key_fg_nchur
+- - 1
+  - repair_journeyman_01

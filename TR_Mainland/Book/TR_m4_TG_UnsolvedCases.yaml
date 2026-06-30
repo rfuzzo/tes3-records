@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_TG_UnsolvedCases
+name: Unsolved Cases, v. XII-B
+script: ''
+mesh: tr\m\tr_book_tomebk_04.nif
+icon: tr\m\tr_book_closed_tome04.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR><BR>\r\n[This rather dishevelled-looking tome appears to have information about various crimes that have been reported, but have never been solved. Among the pages you find everything that the Imperial officials have recorded regarding the massacre at the Dusky Alit inn, which took place about one year ago.] <BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\nSeven murdered. Citizens; non-native to Morrowind. Suspected associates of the criminal organization known as the Thieves Guild. Cuts, slashes and most notably stab wounds. Multiple wounds. Initial suspicion is that there were multiple perpetrators. Murder weapon(s) not found. No eyewitnesses have come forward. <BR> <DIV ALIGN=\"CENTER\"> <BR> [The second -- and last -- thing written about the investigation is dated a three and a half weeks later.]   <BR> <DIV ALIGN=\"LEFT\"> <BR> No progress. No new witnesses. Case marked as closed, left unsolved. The property, the Dusky Alit inn, is to be put on public auction. <BR> <BR>"
+data:
+  weight: 8.0
+  value: 10
+  book_type: Book
+  skill: None
+  enchantment: 0

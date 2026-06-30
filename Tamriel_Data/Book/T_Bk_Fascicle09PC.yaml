@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_Fascicle09PC
+name: Fascicle 32-40
+script: ''
+mesh: pc\m\PC_bk_Book_10.nif
+icon: pc\m\pc_bk_book_10.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe Testament of the Church-Mothers<BR>\r\nFascicle 32-40<BR>\r\nThe Voice<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\n32. Dark was the place before the world was born, half-made place, where the soul can find no comfort, the eye can find no relief. It was Shezarr, restless spirit, who conceived of the great work, a flowering world of virtue and true roads to walk upon, and for this it spoke long and beautiful to the other spirits. Long and beautiful did Shezarr speak, and the word resounded from one end of the Beginning Place to the other, and the sightless Void was alive with the whispering of the gods.<BR>\r\n<BR>\r\n33. First to hear the word was Kynareth, greatest of the spirits of the Air, who carried the sound of dissent to the ears of the many. And she was the first to join Shezarr, for she had grown weary of the Void of the Beginning, and longed to stretch her infinite self along the whole of the world.<BR>\r\n<BR>\r\n34. Second and third were Zenithar and Stendarr, who wished to provide the needy, one, with mercy, the other, with a task.<BR>\r\n<BR>\r\n35. Fourth was Dibella, enchanted.<BR>\r\n<BR>\r\n36. Fifth was Julianos, who covered his ears, and relished not knowing.<BR>\r\n<BR>\r\n37. Sixth was Mara, who distrusted this plan, for there she saw here a path away from her, and Arkay, who disliked it, for he knew a circle easily broken.<BR>\r\n<BR>\r\n38. Last to hear was Akatosh, and as he uncurled between no stars, he was heard to rumble in displeasure: \"This voice, a plan, this plan, a thorn. From cold infinity I have awoken you, through long tribulation and the work of the Hours, yet you are not pleased. You long to exist, and existence I have made for you, in return asking nothing but the affirmation of a natural order, perfect and resplendent. Yet you are not pleased. Will you then break the bow of the world, in search of another? The risk is long oblivion.\"<BR>\r\n<BR>\r\n39. And Shezarr spoke to the First of Spirits, then, and told him what it had seen with its back to the Outer Darkness, in observance of the world. And it spoke a word, and this world was wheel, and it was tower, and it was king, and it was the name Akatosh, first of spirits, who is also king of spirits, and it was the name Shezarr, the restless.<BR>\r\n<BR>\r\n40. And Akatosh acquiesced. <BR>\r\n<BR>"
+data:
+  weight: 4.0
+  value: 300
+  book_type: Book
+  skill: Speechcraft
+  enchantment: 0

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m4_vys-assanud_key
+name: Vys-Assanud Master Key
+script: ''
+mesh: tr\m\tr_key_dd29.nif
+icon: tr\m\tr_key_dd29.dds
+data:
+  weight: 0.0
+  value: 100
+  flags: KEY

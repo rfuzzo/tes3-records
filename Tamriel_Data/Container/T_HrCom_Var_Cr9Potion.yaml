@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_HrCom_Var_Cr9Potion
+name: Crate
+script: ''
+mesh: hr\o\hr_contain_crate_09.nif
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - 3
+  - T_Hr_Lvl_Potion

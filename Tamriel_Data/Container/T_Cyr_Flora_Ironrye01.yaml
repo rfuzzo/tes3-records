@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Cyr_Flora_Ironrye01
+name: Ironrye
+script: ''
+mesh: pc\o\pc_flora_ironrye_01.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - T_Cyr_Random_FlorIronrye

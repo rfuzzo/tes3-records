@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Orc_Furn_BedNomad_02
+name: Orc Bed
+script: Bed_Standard
+mesh: Sky\f\Sky_Act_Furn_Orc_B_02.nif

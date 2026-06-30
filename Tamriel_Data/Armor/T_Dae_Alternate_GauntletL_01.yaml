@@ -1,0 +1,22 @@
+type: Armor
+flags: ''
+id: T_Dae_Alternate_GauntletL_01
+name: Daedric Left Gauntlet
+script: ''
+mesh: PC\a\pc_a_dae_gaunt_gnd.nif
+icon: pc\a\pc_a_daedric_gauntlet.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: LeftHand
+  male_bodypart: T_A_DaeAltGauntlet_Ha
+  female_bodypart: ''
+- biped_object_type: LeftWrist
+  male_bodypart: ''
+  female_bodypart: ''
+data:
+  armor_type: LeftGauntlet
+  weight: 15.0
+  value: 14000
+  health: 400
+  enchantment: 600
+  armor_rating: 80

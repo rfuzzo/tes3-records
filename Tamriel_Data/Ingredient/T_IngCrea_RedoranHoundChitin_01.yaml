@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_RedoranHoundChitin_01
+name: Hunting Hound Chitin
+script: ''
+mesh: tr\n\tr_ing_redhndchitin_01.nif
+icon: tr\n\tr_ing_redhndchitin_01.dds
+data:
+  weight: 1.0
+  value: 5
+  effects:
+  - DrainAttribute
+  - DetectKey
+  - RestoreAttribute
+  - DamageHealth
+  skills:
+  - Block
+  - Block
+  - Block
+  - Block
+  attributes:
+  - Agility
+  - Endurance
+  - Speed
+  - Luck

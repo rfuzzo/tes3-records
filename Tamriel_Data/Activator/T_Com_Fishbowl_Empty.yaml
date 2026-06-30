@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: T_Com_Fishbowl_Empty
+name: Bowl of Sea Water
+script: T_ScObj_PlesiosaurBowl_01PC
+mesh: pc\f\pc_f_fishbowl_01.nif

@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: TR_m3-278_a_rebelbracer_r
+name: Right Hand of Freedom
+script: ''
+mesh: c\c_slave_bracer.nif
+icon: c\tx_slavebracer.dds
+enchanting: TR_m3-278_en_rebelbracer
+biped_objects:
+- biped_object_type: RightWrist
+  male_bodypart: c_slave_bracer
+  female_bodypart: ''
+data:
+  armor_type: RightBracer
+  weight: 10.0
+  value: 200
+  health: 50
+  enchantment: 100
+  armor_rating: 5

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_i2-355-TriBlessing05
+name: Protection from the Sinners
+script: ''
+mesh: m\Text_paper_roll_01.nif
+icon: m\Tx_paper_roll_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"center\"><FONT COLOR=\"000000\" SIZE=\"2\" FACE=\"Daedric\">HIDE ME FROM THE SECRET COUNSEL OF THE SIXTH HOUSE<BR>\r\nFROM THAT SICKLY MINDED CROWD OF THE WORKERS OF INIQUITY</FONT><BR>"
+data:
+  weight: 0.2
+  value: 15
+  book_type: Scroll
+  skill: None
+  enchantment: 100

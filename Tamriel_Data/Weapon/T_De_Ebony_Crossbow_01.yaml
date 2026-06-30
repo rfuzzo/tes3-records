@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_De_Ebony_Crossbow_01
+name: Ebony Crossbow
+script: ''
+mesh: tr\w\tr_w_ebony_crossbow.nif
+icon: tr\w\tr_w_ebony_crossbow.dds
+enchanting: ''
+data:
+  weight: 23.0
+  value: 16000
+  weapon_type: MarksmanCrossbow
+  health: 675
+  speed: 1.0
+  reach: 1.0
+  enchantment: 75
+  chop_min: 36
+  chop_max: 36
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Nor_Set_SignShopClothes_02
+name: Clothier
+script: T_ScObj_WeatherAnimSHOTN
+mesh: sky\f\sky_act_sign_cloth_02.nif

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_GlassBattleAxe
+name: Glass Battle Axe
+script: ''
+mesh: OAAB\w\glass_battleaxe.nif
+icon: OAAB\w\glass_battleaxe.dds
+enchanting: ''
+data:
+  weight: 20.0
+  value: 13000
+  weapon_type: AxeTwoHand
+  health: 750
+  speed: 1.0
+  reach: 1.0
+  enchantment: 40
+  chop_min: 5
+  chop_max: 69
+  slash_min: 3
+  slash_max: 53
+  thrust_min: 1
+  thrust_max: 7
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

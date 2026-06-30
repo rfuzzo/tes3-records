@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_Waterskin_01
+name: Waterskin
+script: ''
+mesh: tr\m\tr_misc_de_waterskin.nif
+icon: tr\m\tr_misc_de_waterskin.dds
+data:
+  weight: 3.0
+  value: 10
+  flags: ''

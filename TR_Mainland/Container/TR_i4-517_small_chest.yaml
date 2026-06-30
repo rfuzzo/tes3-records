@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: TR_i4-517_small_chest
+name: Small Chest
+script: ''
+mesh: o\Contain_chest_small_02.NIF
+encumbrance: 25.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - amulet of almsivi intervention
+- - 1
+  - amulet of shades
+- - 1
+  - witch charm

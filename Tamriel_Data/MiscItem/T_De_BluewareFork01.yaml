@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_BluewareFork01
+name: Fork
+script: ''
+mesh: tr\m\tr_misc_blue_fork.nif
+icon: tr\m\tr_misc_bluewfork01.dds
+data:
+  weight: 1.0
+  value: 2
+  flags: ''

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_MARK_KhaClannf_Player
+name: Player PosCell for KhaClannfear
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: ''
+enchanting: ''
+text: Marker for moving the player when interacting with TR_m3_Kha_11_CkannfTalk
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

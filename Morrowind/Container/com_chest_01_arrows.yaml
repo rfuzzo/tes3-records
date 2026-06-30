@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: com_chest_01_arrows
+name: Wooden Chest
+script: ''
+mesh: o\Contain_Com_Chest_01.NIF
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - 9
+  - steel arrow
+- - 4
+  - silver arrow
+- - 2
+  - iron arrow

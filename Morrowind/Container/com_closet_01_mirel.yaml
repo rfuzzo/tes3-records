@@ -1,0 +1,21 @@
+type: Container
+flags: ''
+id: com_closet_01_mirel
+name: Closet
+script: ''
+mesh: o\Contain_Com_Closet_01.NIF
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory:
+- - -2
+  - l_m_enchantitem_temple_rank4
+- - -2
+  - l_m_enchantitem_telvanni_rank01
+- - -3
+  - l_m_enchantitem_redoran_rank4
+- - -3
+  - l_m_enchantitem_hlaalu_rank4
+- - -1
+  - l_m_enchantitem_imperial_rank0
+- - -10
+  - random_scroll_all

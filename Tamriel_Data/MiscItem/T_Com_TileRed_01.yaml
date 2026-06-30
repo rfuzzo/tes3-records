@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_TileRed_01
+name: Red Tile
+script: ''
+mesh: TR\m\tr_misc_tile_red_01.nif
+icon: TR\m\tr_misc_tile_red_01.dds
+data:
+  weight: 1.0
+  value: 5
+  flags: ''

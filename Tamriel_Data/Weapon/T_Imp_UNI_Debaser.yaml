@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Imp_UNI_Debaser
+name: Debaser
+script: ''
+mesh: pc\w\pc_w_debaser_uni.nif
+icon: pc\w\pc_w_debaser.dds
+enchanting: T_Strike_Debaser
+data:
+  weight: 16.0
+  value: 18000
+  weapon_type: ShortBladeOneHand
+  health: 700
+  speed: 2.0
+  reach: 1.0
+  enchantment: 600
+  chop_min: 10
+  chop_max: 22
+  slash_min: 10
+  slash_max: 22
+  thrust_min: 14
+  thrust_max: 22
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

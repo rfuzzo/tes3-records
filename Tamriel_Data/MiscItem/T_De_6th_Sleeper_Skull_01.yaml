@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_6th_Sleeper_Skull_01
+name: Ascended Sleeper Skull
+script: ''
+mesh: tr\m\tr_m_sleeper_skull.nif
+icon: tr\m\tr_m_sleeper_skull.dds
+data:
+  weight: 1.5
+  value: 500
+  flags: ''

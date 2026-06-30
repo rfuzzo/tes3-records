@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Glb_Fauna_SeaUrch01d
+name: Sea Urchin
+script: ''
+mesh: pi\o\pi_f_seaurchin_01d.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - T_Glb_Random_FaunSeaUrchinMeat

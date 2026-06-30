@@ -1,0 +1,12 @@
+type: Lockpick
+flags: ''
+id: pick_apprentice_01
+name: Apprentice's Lockpick
+script: ''
+mesh: m\Pick_Apprentice_01.NIF
+icon: m\Tx_pick_A_01.tga
+data:
+  weight: 0.25
+  value: 10
+  quality: 1.0
+  uses: 25

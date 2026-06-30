@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_IronPot_02
+name: Iron Pot
+script: ''
+mesh: pc\m\pc_misc_iron_pot_02.nif
+icon: pc\m\pc_misc_iron_pot_02.dds
+data:
+  weight: 4.0
+  value: 5
+  flags: ''

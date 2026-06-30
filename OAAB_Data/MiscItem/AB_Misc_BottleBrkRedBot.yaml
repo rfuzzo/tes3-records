@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_BottleBrkRedBot
+name: Broken Bottle
+script: ''
+mesh: OAAB\m\bottleBrkRedBot.nif
+icon: OAAB\m\bottleBrkRedBot.dds
+data:
+  weight: 0.6
+  value: 1
+  flags: ''

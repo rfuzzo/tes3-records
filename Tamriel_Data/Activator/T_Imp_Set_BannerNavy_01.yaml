@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_Set_BannerNavy_01
+name: ''
+script: OutsideBanner
+mesh: pc\f\pc_furn_navy_flag.nif

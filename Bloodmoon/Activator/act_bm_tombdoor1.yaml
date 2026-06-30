@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: act_bm_tombdoor1
+name: ''
+script: musicdoorScript
+mesh: f\Terrain_rock_BM_73.nif

@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m7_Vandir_Ring
+name: Burning Ring
+script: ''
+mesh: c\C_art_ring_warlock.NIF
+icon: c\C_ring_warlock.tga
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 50
+  enchantment: 100

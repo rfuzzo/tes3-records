@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_Card_12
+name: Seven of Hours
+script: ''
+mesh: pc\m\pc_misc_card_12.nif
+icon: pc\m\pc_misc_card_12.dds
+data:
+  weight: 0.1
+  value: 1
+  flags: ''

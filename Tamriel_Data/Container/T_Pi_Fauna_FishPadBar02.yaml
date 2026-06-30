@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: T_Pi_Fauna_FishPadBar02
+name: Padomaic Barracuda
+script: ''
+mesh: pi\o\pi_cont_fish_baracuda2.nif
+encumbrance: 0.0
+container_flags: ORGANIC | IS_BASE
+inventory:
+- - 1
+  - T_IngCrea_BarracudaSteak_01
+- - 2
+  - T_Pi_Random_FaunBarracudaSteak
+- - 1
+  - T_Pi_Random_FaunBarracudaTailfn

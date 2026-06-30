@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: T_Imp_Furn_Disruptor_01
+name: Thaumatic Disruptor
+script: T_ScObj_ThaumaticDisruptor
+mesh: pc\f\pc_imp_furn_disruptor.nif

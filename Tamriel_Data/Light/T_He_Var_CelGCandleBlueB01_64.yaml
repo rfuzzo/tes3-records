@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_He_Var_CelGCandleBlueB01_64
+name: Green Celadon Candlestick
+script: ''
+mesh: sum\l\sum_l_celg_cnbfl.nif
+icon: sum\l\sum_l_celg_cnb.dds
+sound: ''
+data:
+  weight: 2.0
+  value: 10
+  time: 150
+  radius: 64
+  color:
+  - 0
+  - 197
+  - 255
+  - 0
+  flags: DYNAMIC | CAN_CARRY | FIRE | FLICKER_SLOW

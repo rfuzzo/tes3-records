@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: AB_Info_ClimbingPicks
+name: InfoBox - Climbing Picks
+script: ''
+mesh: OAAB\h\marker_info.nif
+icon: OAAB\h\marker_info.tga
+enchanting: ''
+text: "Egg miners use climbing picks to get to difficult-to-reach locations in the mine. \r\n\r\nRopes can be hung from them to allow access higher locations."
+data:
+  weight: 0.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 100

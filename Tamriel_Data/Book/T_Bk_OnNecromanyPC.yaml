@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_OnNecromanyPC
+name: On Necromancy
+script: ''
+mesh: pc\m\pc_bk_book_19.nif
+icon: pc\m\pc_bk_book_19.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<DIV ALIGN=\"LEFT\"><BR>\r\nReanimation should not be taken lightly. Costs, both mundane and spiritual, can be very high. Intent is everything. Too much emotion may create a creature so consumed with anger and hate its every action is perverted by its pain. Too little creates a mindless husk with little more than the ability to follow the simplest of commands. A calm mind, its thoughts well-organized and its plans well-considered, is the most necessary ingredient for animating the dead.<BR>\r\n\r\n<BR>\r\n\r\nThe soul is necessary, of course, as are many other ingredients listed at the end of this chapter. But as to the body ... take caution. Any corpse may be reanimated, regardless of age or state of decay, but the most useful are those that are mostly intact (or can be made intact with little effort). A whole skeleton is better than a fresh, but mutilated, body.<BR>\r\n\r\n<BR>\r\n\r\nAs to freshness, be careful in this consideration as well. Have you ever wondered why there are so many skeletons among the reanimated undead, fewer zombies, and only a scant few revenants? The longer a body remains inanimate, the less hold its original owner has on the corpse. A spirit can stay tied to its remains for days, weeks, or even years--the shorter the time, the more likely the spiritual umbilicus exists.<BR>\r\n\r\n<BR>\r\n\r\nA wise necromancer does not wish to fight for control of his creation with an angry spirit seeking a way back into the world. Best to be certain all of a creature's soul has departed before reanimation begins. Even should the necromancer win the battle, it is a cruel victory, tormenting a spirit on its way to rest.<BR>\r\n\r\n<BR>\r\n\r\nRaising the dead so recent that the soul has not yet fled is ill-advised, as true resurrection is not the purview of the necromancer, but something best left to gods and priests.<BR>"
+data:
+  weight: 2.0
+  value: 120
+  book_type: Book
+  skill: None
+  enchantment: 0

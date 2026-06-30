@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_MeatVenison_01
+name: Venison
+script: ''
+mesh: Sky\n\Sky_Ingred_Meat_01.nif
+icon: Sky\n\Tx_Ingred_Meat_01.dds
+data:
+  weight: 1.0
+  value: 2
+  effects:
+  - RestoreFatigue
+  - RestoreHealth
+  - DrainAttribute
+  - None
+  skills:
+  - None
+  - None
+  - Block
+  - None
+  attributes:
+  - None
+  - None
+  - Strength
+  - None

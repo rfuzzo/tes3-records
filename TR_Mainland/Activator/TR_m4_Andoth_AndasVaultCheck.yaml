@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_Andoth_AndasVaultCheck
+name: Andas Vault Break-in Checker
+script: TR_m4_AndasVaultCheckerScript
+mesh: EditorMarker.NIF

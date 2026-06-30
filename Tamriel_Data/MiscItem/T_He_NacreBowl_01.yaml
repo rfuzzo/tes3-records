@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_He_NacreBowl_01
+name: Nacre Glass Bowl
+script: ''
+mesh: sum\m\m_nacre_bowl01.nif
+icon: sum\m\sum_m_nacre_bwl1.dds
+data:
+  weight: 2.0
+  value: 13
+  flags: ''

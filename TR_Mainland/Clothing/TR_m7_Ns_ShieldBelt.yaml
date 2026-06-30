@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m7_Ns_ShieldBelt
+name: Templar Belt of Shielding
+script: ''
+mesh: c\C_belt_Common_1.NIF
+icon: c\TX_C_belt_leather00.tga
+enchanting: fourth barrier_en
+biped_objects: []
+data:
+  clothing_type: Belt
+  weight: 2.0
+  value: 200
+  enchantment: 100

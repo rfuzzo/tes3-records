@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_DwrvArbalest
+name: Dwarven Arbalest
+script: ''
+mesh: OAAB\w\w_dwrv_arbalest.nif
+icon: OAAB\w\w_dwarven_arbalest.dds
+enchanting: ''
+data:
+  weight: 18.0
+  value: 2500
+  weapon_type: MarksmanCrossbow
+  health: 1250
+  speed: 1.0
+  reach: 1.0
+  enchantment: 55
+  chop_min: 45
+  chop_max: 45
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

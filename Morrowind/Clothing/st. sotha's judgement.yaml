@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: st. sotha's judgement
+name: St. Sotha's Judgement
+script: ''
+mesh: c\Amulet_Expensive_2.NIF
+icon: c\tx_amulet_expens2.tga
+enchanting: lightning bolt_en
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 55
+  enchantment: 150

@@ -1,0 +1,23 @@
+type: Weapon
+flags: PERSISTENT
+id: TR_m1_FW_IC_TaldeusSword
+name: Sword of Taldeus
+script: ''
+mesh: tr\w\tr_w_taldeus_uni.nif
+icon: tr\w\tr_w_taldeus_uni.dds
+enchanting: T_Strike_Taldeus
+data:
+  weight: 18.0
+  value: 12000
+  weapon_type: LongBladeOneHand
+  health: 1450
+  speed: 1.4
+  reach: 1.0
+  enchantment: 230
+  chop_min: 5
+  chop_max: 26
+  slash_min: 2
+  slash_max: 20
+  thrust_min: 1
+  thrust_max: 8
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

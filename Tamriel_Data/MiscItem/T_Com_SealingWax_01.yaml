@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_SealingWax_01
+name: Sealing Wax
+script: ''
+mesh: pc\m\pc_misc_sealingwax.nif
+icon: pc\m\pc_misc_sealingwax.dds
+data:
+  weight: 0.4
+  value: 5
+  flags: ''

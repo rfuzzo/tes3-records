@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: T_CyrImp_FurnR_Ch1Empty
+name: Chest
+script: ''
+mesh: pc\o\pc_furnr_com_r_chest01.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory: []

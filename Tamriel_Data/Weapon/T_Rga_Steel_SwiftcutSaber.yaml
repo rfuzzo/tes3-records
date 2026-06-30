@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Rga_Steel_SwiftcutSaber
+name: Swiftcut Saber
+script: ''
+mesh: pc\w\pc_w_steel_saber.nif
+icon: pc\w\pc_w_steel_saber.dds
+enchanting: ''
+data:
+  weight: 15.0
+  value: 25000
+  weapon_type: LongBladeOneHand
+  health: 1250
+  speed: 1.6
+  reach: 1.0
+  enchantment: 0
+  chop_min: 7
+  chop_max: 24
+  slash_min: 6
+  slash_max: 22
+  thrust_min: 1
+  thrust_max: 3
+  flags: ''

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_HH_gavros_journal
+name: Gavros Falas' Journal
+script: ''
+mesh: m\text_octavo_open_06.nif
+icon: m\tx_book_open_03.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nGavros Falas' Journal<BR>\r\n<BR>\r\n[This journal is really long, but a few entries catch your eye. Gavros was threatened by a syndicate that he thought was the Camonna Tong, losing his Indoril business partner over a disagreement, writing his letter to his nephew, and then coming to the cave to meet Darane. The last entry is the most interesting of them all.]<BR>\r\n<BR>\r\nI don't know what Darane wants from me, but I hope the Indoril has finally seen reason.<BR>\r\n<BR>"
+data:
+  weight: 3.0
+  value: 10
+  book_type: Book
+  skill: None
+  enchantment: 100

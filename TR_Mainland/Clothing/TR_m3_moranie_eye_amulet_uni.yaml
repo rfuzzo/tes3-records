@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m3_moranie_eye_amulet_uni
+name: Moranie's Enchanted Eye
+script: ''
+mesh: m\BM_FlamingEyeBall.NIF
+icon: m\Tx_FlamingEye.dds
+enchanting: TR_m3_en_moranie_eye
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 150
+  enchantment: 125

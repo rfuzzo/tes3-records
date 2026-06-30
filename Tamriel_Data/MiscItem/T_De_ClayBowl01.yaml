@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_ClayBowl01
+name: Clay Bowl
+script: ''
+mesh: tr\m\tr_misc_clay_bowl01.nif
+icon: tr\m\tr_misc_clay_bowl.dds
+data:
+  weight: 1.0
+  value: 1
+  flags: ''

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_DwrvToolCrank
+name: Dwemer Crank Tool
+script: ''
+mesh: OAAB\m\dwrvToolCrank.nif
+icon: OAAB\m\dwrvToolCrank.dds
+data:
+  weight: 5.0
+  value: 35
+  flags: ''

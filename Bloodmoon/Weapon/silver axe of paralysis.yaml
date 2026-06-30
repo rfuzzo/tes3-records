@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: silver axe of paralysis
+name: Silver Axe of Paralysis
+script: ''
+mesh: w\W_silver_waraxe.nif
+icon: w\Tx_silver_waraxe.tga
+enchanting: paralysis weapon
+data:
+  weight: 19.2
+  value: 850
+  weapon_type: AxeOneHand
+  health: 720
+  speed: 1.25
+  reach: 1.0
+  enchantment: 100
+  chop_min: 15
+  chop_max: 40
+  slash_min: 10
+  slash_max: 20
+  thrust_min: 5
+  thrust_max: 10
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE | SILVER

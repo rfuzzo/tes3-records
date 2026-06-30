@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Fx_WaterRapidCv512a
+name: ''
+script: Sound_Water_Spout
+mesh: OAAB\e\water_cvrapd512.nif

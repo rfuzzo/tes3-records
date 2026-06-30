@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m7_Othm_HighWallKey
+name: High Wall Key
+script: ''
+mesh: TR\m\TR_Key_DD13.NIF
+icon: TR\m\TR_Key_DD13.dds
+data:
+  weight: 0.0
+  value: 100
+  flags: KEY

@@ -1,0 +1,23 @@
+type: Container
+flags: ''
+id: TR_m2_sack_verinas
+name: Cloth Sack
+script: ''
+mesh: o\Contain_Com_Sack_02.NIF
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 4
+  - random_black_anther
+- - 5
+  - random_heather
+- - 25
+  - random_marshmerrow
+- - 2
+  - random_roobrush
+- - 1
+  - random_rye
+- - 15
+  - random_stoneflower_petals
+- - 5
+  - random_willow_anther

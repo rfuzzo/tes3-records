@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m2_active_sign_Helnim_01
+name: Trade City Helnim
+script: SignRotate
+mesh: f\Active_sign_C_pwan_01.NIF

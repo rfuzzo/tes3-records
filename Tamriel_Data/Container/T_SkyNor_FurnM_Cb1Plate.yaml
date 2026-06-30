@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: T_SkyNor_FurnM_Cb1Plate
+name: Cupboard
+script: ''
+mesh: sky\o\sky_furn_n_m_cpbrd_01.nif
+encumbrance: 75.0
+container_flags: IS_BASE
+inventory:
+- - 3
+  - T_Nor_WoodenPlate_01a
+- - 3
+  - T_Sky_Random_MiscPlate

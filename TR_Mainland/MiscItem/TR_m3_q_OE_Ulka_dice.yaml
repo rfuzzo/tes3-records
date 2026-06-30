@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m3_q_OE_Ulka_dice
+name: Lucky Dice
+script: ''
+mesh: TR\m\TR_misc_dice.NIF
+icon: TR\m\TR_misc_dice.dds
+data:
+  weight: 0.5
+  value: 5
+  flags: ''

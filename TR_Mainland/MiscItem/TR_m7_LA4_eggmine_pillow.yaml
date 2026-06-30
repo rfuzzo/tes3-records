@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m7_LA4_eggmine_pillow
+name: Pillow
+script: TR_m7_LA4_eggmine_stage2_sc
+mesh: m\Misc_Uni_Pillow_02.NIF
+icon: m\Misc_Uni_Pillow_02.tga
+data:
+  weight: 1.0
+  value: 1
+  flags: ''

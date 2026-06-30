@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_Imp_SetHarbor_GalleonLantern
+name: ''
+script: ''
+mesh: pc\l\pc_imp_galleon_lantern.nif
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 128
+  color:
+  - 242
+  - 200
+  - 25
+  - 0
+  flags: DYNAMIC

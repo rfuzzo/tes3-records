@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_Aim_GilaRatCounter
+name: ''
+script: TR_m3_Aimrah_GilaCounter_Script
+mesh: i\in_v_s_int_lrail_01.nif

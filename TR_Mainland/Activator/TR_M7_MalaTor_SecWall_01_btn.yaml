@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_M7_MalaTor_SecWall_01_btn
+name: Stone Button
+script: TR_m7_SecWallBtn_01
+mesh: pc\f\pc_act_ar_button.nif

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_andoport_letter01
+name: Letter to Dreynos Helvi
+script: ''
+mesh: m\Text_Parchment_02.NIF
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>\r\n[A half-finished letter from the harbormaster to the steward of the Hlaalu Council Manor requesting additional dockworkers.] <BR>"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

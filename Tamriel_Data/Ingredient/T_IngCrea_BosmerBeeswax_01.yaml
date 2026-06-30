@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_BosmerBeeswax_01
+name: Beeswax
+script: ''
+mesh: va\m\va_m_We_beewax.nif
+icon: va\m\va_m_We_beewax.dds
+data:
+  weight: 0.8
+  value: 10
+  effects:
+  - RestoreAttribute
+  - DrainAttribute
+  - WeaknessToFrost
+  - CureCommonDisease
+  skills:
+  - Block
+  - Block
+  - None
+  - None
+  attributes:
+  - Strength
+  - Agility
+  - None
+  - None

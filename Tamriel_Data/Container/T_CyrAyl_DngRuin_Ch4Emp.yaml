@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: T_CyrAyl_DngRuin_Ch4Emp
+name: Ayleid Chest
+script: ''
+mesh: pc\o\pc_cont_ar_chest_04.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory: []

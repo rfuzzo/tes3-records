@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m1_treasurehunt_4
+name: Sunken Chest
+script: ''
+mesh: o\contain_chest10.nif
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - TR_m1_seradan_note

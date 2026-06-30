@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: BookSkill_Axe1
+name: The Third Door
+script: ''
+mesh: m\Text_Quarto_open_01.NIF
+icon: m\Tx_quarto_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe Third Door<BR>\r\nby Annanar Orme<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nI.<BR>\r\n<BR>\r\nI sing of Ellabeth, the Queen of the Axe,<BR>\r\nWho could fell a full elm with two hatchet hacks.<BR>\r\nShe could rip apart Valenwood just for her fun.<BR>\r\nShe studied under Alfhedil in Tel Aruhn.<BR>\r\nHe taught her the jabs, the strokes, and the stance<BR>\r\nTo make an ax-swing into an elegant dance.<BR>\r\nHe taught her the barbed axes of the Orcs bold,<BR>\r\nThe six-foot-long axes favored in Winterhold,<BR>\r\nThe hollow-bladed axes of the Elves of the West,<BR>\r\nWhich whistle when they swing through flesh.<BR>\r\nWith a single-headed axe, she could behead two men.<BR>\r\nWith a double-headed axe, she could fell more than ten.<BR>\r\nYet where she lives in legend has most to do<BR>\r\nWith the man who hacked her own heart in two.<BR>\r\n<BR>\r\nII.<BR>\r\n<BR>\r\nNienolas Ulwarth the Mighty, who hailed from Blackrose,<BR>\r\nThe only man who could best Ellabeth with ax blows,<BR>\r\nIn a minute, she chopped fifty trees; he, fifty-three.<BR>\r\nShe felt at once that he was the only man for she.<BR>\r\nWhen she professed her love, Nienolas just laughed.<BR>\r\nHe said he loved more his ax handle and shaft.<BR>\r\nAnd if they weren't enough to slake all his desire<BR>\r\nThere was another woman named Lorinthyrae.<BR>\r\nFury gripped the Queen of the Axe, the maid Ellabeth,<BR>\r\nAnd her thoughts turned to pondering musings of death.<BR>\r\nMephala and Sheogorath gave her a revengeful scheme<BR>\r\nAnd for weeks, she worked on it in a state like a dream.<BR>\r\nIn the still of the night, she kidnapped her rival<BR>\r\nAnd then told her choices between doom and survival.<BR>\r\n<BR>\r\nIII.<BR>\r\n<BR>\r\nLorinthyrae awoke in a house in the moors<BR>\r\nIn a room lightly furnished except for three doors.<BR>\r\nEllabeth explained that behind one of the doors the lass<BR>\r\nWould find Ellabeth's and her love, the great Nienolas.<BR>\r\nBehind the second lived a ravenous demon.<BR>\r\nAnd behind the third, an exit to freedom.<BR>\r\nShe must choose a door, and to aid her decision<BR>\r\nIf she pondered too long, the axe'd make a division.<BR>\r\nLorinthyrae wept, and Ellabeth felt contrite,<BR>\r\nAnd opened the door to her immediate right.<BR>\r\nIt led to the moors, and as she slipped through the gloom,<BR>\r\nShe advised Lorinthyrae to likewise abandon the room.<BR>\r\nLorinthyrae ignored her and did not feel her will bend.<BR>\r\nNienolas was largely behind the first door she opened.<BR>\r\n<BR>\r\nIV.<BR>\r\n<BR>\r\nEllabeth had lied; there was no demon of lore.<BR>\r\nThe top third of Nienolas was behind the third door.<BR>\r\n"
+data:
+  weight: 4.0
+  value: 250
+  book_type: Book
+  skill: Axe
+  enchantment: 0

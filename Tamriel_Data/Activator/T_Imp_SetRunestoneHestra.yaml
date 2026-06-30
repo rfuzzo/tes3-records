@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_SetRunestoneHestra
+name: Hestra Runestone
+script: T_ScObj_RuneHestra
+mesh: pc\f\pc_rnstn_hestra.nif

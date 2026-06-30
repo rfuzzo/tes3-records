@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Furn_ImpFan01_a
+name: ''
+script: Sound_Dwemer_Fan
+mesh: OAAB\x\imp_grate_fan.nif

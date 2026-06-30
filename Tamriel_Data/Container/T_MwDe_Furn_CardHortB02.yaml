@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: T_MwDe_Furn_CardHortB02
+name: Card Deck Box
+script: T_ScObj_CardHortBox
+mesh: TR\o\TR_cont_dae_amulet.nif
+encumbrance: 10.0
+container_flags: IS_BASE
+inventory: []

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Com_Steel_Claymore_Sulphurous
+name: Claymore of Sulphurous Death
+script: ''
+mesh: w\W_claymore.nif
+icon: w\Tx_Claymore.tga
+enchanting: T_Use_SulphurousClaymore
+data:
+  weight: 27.0
+  value: 750
+  weapon_type: LongBladeTwoClose
+  health: 2100
+  speed: 1.25
+  reach: 1.0
+  enchantment: 70
+  chop_min: 1
+  chop_max: 27
+  slash_min: 1
+  slash_max: 23
+  thrust_min: 1
+  thrust_max: 16
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

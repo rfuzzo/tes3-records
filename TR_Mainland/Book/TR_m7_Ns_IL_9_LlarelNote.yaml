@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_Ns_IL_9_LlarelNote
+name: Mervis Llarel's Letter
+script: TR_m7_Ns_IL_9_NoteSc
+mesh: m\Text_Scroll_01.NIF
+icon: m\Tx_scroll_open_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<BR>\r\nOrvas Dren,<BR>\r\n<BR>\r\nI have to inform you that I had -- temporarily -- taken control over the Camonna Tong in Narsis in your absense. The circumstances created by the outside threats have pushed me to that limit: a new foreign gang called the Ja-Natta Syndicate is threatening our monopoly, and the Imperial Thieves Guild is attempting to set up a foothold in our city. Many of the poor and working class Dunmer have already witnessed the Syndicate's cruelty -- some have joined it, some have died, and some are addicted to its new drugs, never to recover.<BR>\r\n<BR>\r\nI have to report that to protect the native folk of Narsis and reduce the Syndicate's corruptive growth, I ordered the Camonna Tong to target native Dunmer affiliated with or persecuted by our rivals. A Chiller named Goralas Nilvon was appointed in charge of the assassinations and relocated to the cave of Ahhepu along the House Dres border, where the Ja-Natta Syndicate is the strongest. I have also withdrawn the majority of assassination orders on outlander targets, in order to prevent further disputes with House Hlaalu and the Imperial Legion started since the murder of Prulius Sudatian.<BR>\r\n<BR>\r\n[The letter appears to be unfinished.]<BR>\r\n<BR>\r\n"
+data:
+  weight: 0.2
+  value: 100
+  book_type: Scroll
+  skill: None
+  enchantment: 0

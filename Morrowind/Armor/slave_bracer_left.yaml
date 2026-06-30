@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: slave_bracer_left
+name: Slave's Left Bracer
+script: ''
+mesh: c\C_Slave_Bracer.NIF
+icon: c\tx_slavebracer.tga
+enchanting: slave_bracer_en
+biped_objects:
+- biped_object_type: LeftWrist
+  male_bodypart: c_slave_bracer
+  female_bodypart: ''
+data:
+  armor_type: LeftBracer
+  weight: 5.0
+  value: 5
+  health: 25
+  enchantment: 200
+  armor_rating: 5

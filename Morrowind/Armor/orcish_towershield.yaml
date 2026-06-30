@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: orcish_towershield
+name: Orcish Tower Shield
+script: ''
+mesh: a\Towershield_Orcish.nif
+icon: a\TX_towershield_orcish.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: Shield
+  male_bodypart: towershield_orcish
+  female_bodypart: ''
+data:
+  armor_type: Shield
+  weight: 13.4
+  value: 2000
+  health: 640
+  enchantment: 900
+  armor_rating: 32

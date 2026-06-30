@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: T_CyrCom_Var_Cr3BandGC2
+name: Crate
+script: ''
+mesh: pc\o\PC_Cont_Crate_01.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 3
+  - T_Cyr_Lvl_BanditGoodsGC
+- - 3
+  - T_Cyr_Random_PosGC

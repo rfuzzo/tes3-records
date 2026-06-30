@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m2_kmlz_Rend_Pipe
+name: ''
+script: TR_m2_kmlz_Rend_Pipe_sc
+mesh: f\furn_dwrv_fitting00.nif

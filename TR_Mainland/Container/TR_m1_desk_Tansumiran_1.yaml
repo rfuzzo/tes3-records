@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: TR_m1_desk_Tansumiran_1
+name: Desk
+script: ''
+mesh: o\Contain_De_Desk_01.NIF
+encumbrance: 75.0
+container_flags: IS_BASE
+inventory:
+- - 724
+  - Gold_001
+- - 1
+  - Misc_SoulGem_Common
+- - 1
+  - misc_skull00

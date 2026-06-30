@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_PurpleGlassFlask_02
+name: Fine Glass Flask
+script: ''
+mesh: tr\m\tr_misc_purpg_flask02.nif
+icon: tr\m\tr_misc_purpg_flask02.dds
+data:
+  weight: 2.0
+  value: 15
+  flags: ''

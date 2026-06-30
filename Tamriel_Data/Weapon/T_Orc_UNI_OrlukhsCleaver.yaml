@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Orc_UNI_OrlukhsCleaver
+name: Orlukh's Cleaver
+script: ''
+mesh: tr\w\tr_w_orlukhs cleaver.nif
+icon: tr\w\tr_w_orlukhs cleaver.dds
+enchanting: T_Const_OrlukhCleaver
+data:
+  weight: 40.0
+  value: 30000
+  weapon_type: AxeTwoHand
+  health: 2900
+  speed: 1.0
+  reach: 1.0
+  enchantment: 0
+  chop_min: 23
+  chop_max: 40
+  slash_min: 6
+  slash_max: 28
+  thrust_min: 0
+  thrust_max: 4
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

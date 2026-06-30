@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngDye_YellowOchre_01
+name: Yellow Ochre Dye
+script: ''
+mesh: tr\n\tr_ing_ochre.nif
+icon: tr\n\tr_ing_yellowoch.dds
+data:
+  weight: 0.1
+  value: 30
+  effects:
+  - Feather
+  - FortifyAttribute
+  - RestoreHealth
+  - None
+  skills:
+  - None
+  - Block
+  - None
+  - None
+  attributes:
+  - None
+  - Personality
+  - None
+  - None

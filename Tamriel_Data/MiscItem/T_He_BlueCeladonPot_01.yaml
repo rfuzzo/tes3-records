@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_He_BlueCeladonPot_01
+name: Blue Celadon Pot
+script: ''
+mesh: sum\m\sum_misc_celb_pot_01.nif
+icon: sum\m\sum_misc_celb_pot_01.dds
+data:
+  weight: 5.0
+  value: 20
+  flags: ''

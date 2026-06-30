@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_StockCertEEC_Nar
+name: EEC Stock Certificate
+script: ''
+mesh: m\Text_Scroll_01.NIF
+icon: m\Tx_scroll_open_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>\r\nThis certifies that<BR><BR>\r\n<FONT COLOR=\"500000\" SIZE=\"3\" FACE=\"Magic Cards\">%PCName<BR>\r\n<BR>\r\n<FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\nis the owner of<BR>\r\n<FONT COLOR=\"500000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nONE<BR>\r\n<FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nfully paid and non-assessable shares, of the par value of one hundred (100) Septims each, of the common stock of the<BR>\r\n<FONT COLOR=\"500000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nNarsis District<BR>\r\n<FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\ndivision of the East Empire Company (hereafter referred to as \"the Company\"), transferrable on the books of the Company by the Holder themself in person or by duly authorized representative of the Holder upon surrender of this certificate properly endorsed.<BR>\r\n<BR>\r\nThis certificate and the shares represented hereby are issued and shall be held subject to all provisions of the Articles of Incorporation and of the by-laws of the Company (copies of which are on file at the Company's main office) to all which by acceptance the holder hereof assents. This certificate is not valid unless undersigned by the Transfer Agent and registered by the Registrar.<BR>\r\n<BR>\r\nWITNESS the Seal of the Company<BR>\r\n<IMG SRC=\"TR\\tr_eec_seal.dds\" WIDTH=\"100\" HEIGHT=\"100\">\r\n<FONT COLOR=\"500000\" SIZE=\"3\" FACE=\"Magic Cards\">Flora Mamercino<BR>\r\nClerk of the East Empire Company<BR>\r\nNarsis<BR>\r\n<BR>"
+data:
+  weight: 0.2
+  value: 10
+  book_type: Scroll
+  skill: None
+  enchantment: 0

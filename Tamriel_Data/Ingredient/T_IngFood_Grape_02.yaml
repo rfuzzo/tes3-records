@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_Grape_02
+name: Grapes
+script: ''
+mesh: pc\n\PC_Ingred_Grape_02.nif
+icon: pc\n\pc_tx_ingred_grape_02.dds
+data:
+  weight: 0.1
+  value: 2
+  effects:
+  - RestoreFatigue
+  - DamageAttribute
+  - DrainHealth
+  - RestoreAttribute
+  skills:
+  - None
+  - Block
+  - Mercantile
+  - Block
+  attributes:
+  - None
+  - Intelligence
+  - Strength
+  - Personality

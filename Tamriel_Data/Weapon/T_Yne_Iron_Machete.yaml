@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Yne_Iron_Machete
+name: Ynesai Iron Machete
+script: ''
+mesh: pi\w\pi_w_yiron_machete.nif
+icon: pi\w\pi_w_yiron_machete.dds
+enchanting: ''
+data:
+  weight: 15.0
+  value: 27
+  weapon_type: LongBladeOneHand
+  health: 700
+  speed: 1.35
+  reach: 1.0
+  enchantment: 50
+  chop_min: 2
+  chop_max: 15
+  slash_min: 2
+  slash_max: 13
+  thrust_min: 1
+  thrust_max: 10
+  flags: ''

@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: first barrier ring
+name: First Barrier Ring
+script: ''
+mesh: c\C_Ring_common02.NIF
+icon: c\tx_ring_common02.tga
+enchanting: first barrier_en
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 15
+  enchantment: 10

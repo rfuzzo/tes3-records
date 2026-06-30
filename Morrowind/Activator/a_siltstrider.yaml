@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: a_siltstrider
+name: Silt Strider
+script: ''
+mesh: r\Siltstrider.NIF

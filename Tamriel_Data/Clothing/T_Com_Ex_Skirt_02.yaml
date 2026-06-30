@@ -1,0 +1,17 @@
+type: Clothing
+flags: ''
+id: T_Com_Ex_Skirt_02
+name: Exquisite Skirt
+script: ''
+mesh: tr\c\tr_c_skirt_oe_04_gnd.nif
+icon: TR\c\tr_c_skirt_oe_s_04.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Skirt
+  male_bodypart: T_C_ComEqSkirt02_G
+  female_bodypart: ''
+data:
+  clothing_type: Skirt
+  weight: 2.0
+  value: 70
+  enchantment: 120

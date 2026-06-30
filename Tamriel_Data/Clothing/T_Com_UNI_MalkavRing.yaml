@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Com_UNI_MalkavRing
+name: Malkav's Ring
+script: ''
+mesh: Sky\c\sky_uni_malkav_01.nif
+icon: sky\c\tx_ring_malkav_01.dds
+enchanting: T_Const_MalkavRing
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 10000
+  enchantment: 0

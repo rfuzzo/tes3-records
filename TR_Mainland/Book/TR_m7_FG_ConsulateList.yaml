@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_FG_ConsulateList
+name: List of Suspects
+script: ''
+mesh: m\Text_Parchment_02.nif
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nElvas Otheri - Petitioner's Hall<BR>\r\nClerk answering to the Steward of Narsis<BR>\r\n<BR>\r\nHilos Stecria - Court Offices<BR>\r\nMinor scribe of the Hlaalu court<BR>\r\n<BR>\r\nGales Bareleth - Steward's Tower<BR>\r\nClerk resolving legal disputes with the Consulate<BR>\r\n<BR>\r\nOdrare Tyravel - Bailiff's Tower<BR>\r\nBailiff's personal secretary<BR>\r\n<BR>\r\nMirise Urns - Vizier's Tower<BR>\r\nVizier's accountant<BR>\r\n<BR>\r\nLliros Oldal - Clerk Offices<BR>\r\nFinancial accountant of the Chief Clerk's Imperial affairs<BR>\r\n<BR>\r\n"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: TR_m7_Ns_IL_2_Helm
+name: Narsis Patroller's Helm
+script: ''
+mesh: a\A_M_ImperialChain_Helmet.nif
+icon: a\Tx_ImperialChain_Helmet.tga
+enchanting: TR_m7_Ns_IL_2_Ench
+biped_objects:
+- biped_object_type: Hair
+  male_bodypart: a_m_imperialchain_helmet
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 3.5
+  value: 100
+  health: 100
+  enchantment: 175
+  armor_rating: 10

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_Set_Shrine_SaintWork_03
+name: Shrine of St. Ra
+script: T_ScObj_ShrineSaintWorkPC
+mesh: pc\x\pc_ex_wshrn_03.nif

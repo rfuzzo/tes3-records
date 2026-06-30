@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_CloudedFunnel_01
+name: Clouded Funnel Cap
+script: ''
+mesh: pc\n\PC_Ing_CFunnel.nif
+icon: pc\n\pc_tx_ingred_cfunnel.dds
+data:
+  weight: 0.1
+  value: 1
+  effects:
+  - RestoreAttribute
+  - FortifyAttribute
+  - DamageAttribute
+  - DamageMagicka
+  skills:
+  - Block
+  - Block
+  - Block
+  - None
+  attributes:
+  - Intelligence
+  - Intelligence
+  - Endurance
+  - None

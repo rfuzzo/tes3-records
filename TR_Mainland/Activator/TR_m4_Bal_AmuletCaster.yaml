@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_Bal_AmuletCaster
+name: ''
+script: TR_m4_Bal_AmuletCaster_Sc
+mesh: editormarker.nif

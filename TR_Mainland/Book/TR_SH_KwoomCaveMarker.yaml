@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_SH_KwoomCaveMarker
+name: Note To Self
+script: ''
+mesh: tr\tr_note_pin.nif
+icon: default icon.dds
+enchanting: ''
+text: When the Gan-Ettu camp is added, this would be a suitable location for a kwoom cave or clan storage cave. Move the bandit cave to another area away from the camp - aveno
+data:
+  weight: 0.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 0

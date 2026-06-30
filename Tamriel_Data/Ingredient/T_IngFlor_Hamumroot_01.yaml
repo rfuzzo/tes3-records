@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_Hamumroot_01
+name: Hamum Root
+script: ''
+mesh: tr\n\tr_ing_hamumroot.nif
+icon: tr\n\tr_ing_hamumroot.dds
+data:
+  weight: 0.5
+  value: 2
+  effects:
+  - RestoreFatigue
+  - Sanctuary
+  - RestoreSkill
+  - FortifyHealth
+  skills:
+  - None
+  - None
+  - Restoration
+  - None
+  attributes:
+  - None
+  - None
+  - Strength
+  - None

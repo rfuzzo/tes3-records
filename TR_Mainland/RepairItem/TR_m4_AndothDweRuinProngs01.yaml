@@ -1,0 +1,12 @@
+type: RepairItem
+flags: ''
+id: TR_m4_AndothDweRuinProngs01
+name: Repair Prongs
+script: TR_m4_AndothDweProng01_scp
+mesh: m\misc_prongs00.nif
+icon: m\misc_prongs00.tga
+data:
+  weight: 2.5
+  value: 6
+  uses: 25
+  quality: 0.5

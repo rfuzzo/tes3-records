@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m4_Andoth_AndasSewerCrank
+name: Crank
+script: TR_m4_AndasSewerCrank_script
+mesh: f\act_m_sewer_crank_01.nif

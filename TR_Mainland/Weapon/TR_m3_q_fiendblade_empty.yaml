@@ -1,0 +1,23 @@
+type: Weapon
+flags: PERSISTENT
+id: TR_m3_q_fiendblade_empty
+name: Ancient Dunmer Blade
+script: TR_m3_q_fiendbladeempty_scr
+mesh: TR\w\TR_w_Red_Hero_Blade.nif
+icon: TR\w\TR_w_red_hero_blade.dds
+enchanting: ''
+data:
+  weight: 20.0
+  value: 50
+  weapon_type: LongBladeOneHand
+  health: 1000
+  speed: 1.0
+  reach: 1.0
+  enchantment: 0
+  chop_min: 2
+  chop_max: 7
+  slash_min: 3
+  slash_max: 8
+  thrust_min: 2
+  thrust_max: 6
+  flags: ''

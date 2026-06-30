@@ -1,0 +1,9 @@
+type: Container
+flags: PERSISTENT
+id: TR_m7_Q_DivingForArns_B
+name: Eraven's Crate
+script: TR_m7_Q_DivingForArns_sc2
+mesh: o\Contain_crate_01.NIF
+encumbrance: 1000.0
+container_flags: IS_BASE
+inventory: []

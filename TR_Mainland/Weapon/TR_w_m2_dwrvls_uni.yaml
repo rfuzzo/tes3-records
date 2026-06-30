@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_w_m2_dwrvls_uni
+name: Bthang's Bite
+script: ''
+mesh: TR\w\TR_w_dwrv_lsword.nif
+icon: TR\w\TR_w_dwrv_lsword.dds
+enchanting: cruel spark_en
+data:
+  weight: 20.0
+  value: 4500
+  weapon_type: LongBladeOneHand
+  health: 2000
+  speed: 1.35
+  reach: 1.0
+  enchantment: 100
+  chop_min: 5
+  chop_max: 40
+  slash_min: 3
+  slash_max: 35
+  thrust_min: 2
+  thrust_max: 28
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

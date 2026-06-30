@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_DonkeyHide_01
+name: Donkey Hide
+script: ''
+mesh: pc\n\pc_ing_donkeyskin.nif
+icon: pc\n\pc_tx_ingred_donkeys.dds
+data:
+  weight: 1.0
+  value: 3
+  effects:
+  - DrainAttribute
+  - FortifyAttribute
+  - RestoreAttribute
+  - None
+  skills:
+  - Block
+  - Block
+  - Block
+  - None
+  attributes:
+  - Personality
+  - Endurance
+  - Strength
+  - None

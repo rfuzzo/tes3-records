@@ -1,0 +1,17 @@
+type: Clothing
+flags: ''
+id: T_Rea_Cm_Shirt_Horsehair
+name: Horsehair Shirt
+script: ''
+mesh: Sky\c\Sky_C_M_RM_SH_01_GND.nif
+icon: Sky\c\Tx_C_M_RM_SH_01.dds
+enchanting: T_Use_Horsehair
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_C_ReaCmShirt01_C
+  female_bodypart: T_C_ReaCmShirt01_CF
+data:
+  clothing_type: Shirt
+  weight: 2.0
+  value: 60
+  enchantment: 50

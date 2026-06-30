@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_Dae_Voun_FireRed_256_UNI
+name: ''
+script: ''
+mesh: tr\l\tr_l_sanguinefire_uni.nif
+icon: ''
+sound: Fire 50
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 256
+  color:
+  - 215
+  - 0
+  - 0
+  - 0
+  flags: DYNAMIC | FIRE | FLICKER_SLOW

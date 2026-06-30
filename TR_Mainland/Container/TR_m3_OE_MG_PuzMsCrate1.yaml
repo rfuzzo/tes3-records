@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m3_OE_MG_PuzMsCrate1
+name: Crate
+script: TR_m3_OE_MG_PuzzleFloat2
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 6
+  - T_Mw_Random_Food

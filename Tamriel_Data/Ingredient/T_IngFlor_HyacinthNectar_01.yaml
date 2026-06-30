@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_HyacinthNectar_01
+name: Water Hyacinth Nectar Sacks
+script: ''
+mesh: pc\n\pc_ingred_whyac.NIF
+icon: pc\n\pc_tx_ingred_hyacinth.dds
+data:
+  weight: 0.2
+  value: 2
+  effects:
+  - DamageAttribute
+  - DamageFatigue
+  - RestoreMagicka
+  - FortifyMagicka
+  skills:
+  - Block
+  - None
+  - None
+  - None
+  attributes:
+  - Luck
+  - None
+  - None
+  - None

@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: AB_o_DaedricUrn_01Pos
+name: Daedric Urn
+script: ''
+mesh: OAAB\o\mv_urn_01.nif
+encumbrance: 40.0
+container_flags: IS_BASE
+inventory:
+- - 20
+  - AB_lvl_Gold001
+- - 5
+  - AB_lvl_TombStuff
+- - 1
+  - AB_lvl_bk_WizardEvil
+- - 1
+  - AB_lvl_c_EnchSpecialAll

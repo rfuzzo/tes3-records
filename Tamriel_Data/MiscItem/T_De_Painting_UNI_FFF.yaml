@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_Painting_UNI_FFF
+name: Athires Hlaalu
+script: ''
+mesh: tr\m\TR_M_Painting_FFF.nif
+icon: tr\m\TR_M_Painting_FFF.dds
+data:
+  weight: 16.0
+  value: 2500
+  flags: ''

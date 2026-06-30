@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_EEC_Cratebroke1
+name: ''
+script: TR_m7_EEC_deadguar_scr
+mesh: tr\f\tr_crate_broke01.nif

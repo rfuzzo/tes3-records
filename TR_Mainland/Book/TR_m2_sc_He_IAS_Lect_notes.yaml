@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2_sc_He_IAS_Lect_notes
+name: Lecture Notes
+script: ''
+mesh: m\Text_Parchment_01.NIF
+icon: m\Tx_parchment_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[These are lecture notes on the possible uses of Dwemer tubes.]<BR>\r\n<BR>\r\n"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

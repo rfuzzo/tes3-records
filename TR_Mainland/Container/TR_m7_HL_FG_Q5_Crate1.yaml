@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m7_HL_FG_Q5_Crate1
+name: Crate
+script: TR_m7_HL_FG_Q5_ActSc
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 4
+  - random_food

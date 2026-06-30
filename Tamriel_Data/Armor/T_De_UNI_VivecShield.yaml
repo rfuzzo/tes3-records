@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_De_UNI_VivecShield
+name: Bug Shield of Vivec
+script: ''
+mesh: TR\a\tr_a_vivec_shield.nif
+icon: tr\a\tr_a_vivec_shield.dds
+enchanting: T_Use_Vivec_Shield
+biped_objects:
+- biped_object_type: Shield
+  male_bodypart: T_A_DeUniVivecShield_S
+  female_bodypart: ''
+data:
+  armor_type: Shield
+  weight: 10.0
+  value: 80000
+  health: 750
+  enchantment: 2400
+  armor_rating: 60

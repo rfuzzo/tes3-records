@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Furn_DeBannerGambling01
+name: ''
+script: OutsideBanner
+mesh: OAAB\u\de_banner_gambl_01.nif

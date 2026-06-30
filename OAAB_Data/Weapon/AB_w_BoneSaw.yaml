@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_BoneSaw
+name: Bonesaw
+script: ''
+mesh: OAAB\w\w_bonesaw_01.nif
+icon: OAAB\w\w_bonesaw_01.dds
+enchanting: ''
+data:
+  weight: 7.0
+  value: 20
+  weapon_type: LongBladeOneHand
+  health: 650
+  speed: 1.3
+  reach: 1.0
+  enchantment: 30
+  chop_min: 1
+  chop_max: 7
+  slash_min: 1
+  slash_max: 8
+  thrust_min: 1
+  thrust_max: 2
+  flags: ''

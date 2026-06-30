@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Com_SetCyr_SignWayFourTow_01
+name: Four Towers
+script: ''
+mesh: pc\f\pc_furn_signpost_01.nif

@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Dae_Sigil_Amulet_Vehk_Entry
+name: Vehk Sigil Amulet of Entry
+script: ''
+mesh: tr\c\tr_c_dae_sigil_v.nif
+icon: tr\c\tr_c_dae_sigil_v.dds
+enchanting: T_Use_Dae_Amulet_Entry
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 900
+  enchantment: 2000

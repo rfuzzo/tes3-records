@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: Colony Terrain_rock_BM_65_S3
+name: ''
+script: Colony_D_2_F
+mesh: f\Terrain_rock_BM_65.nif

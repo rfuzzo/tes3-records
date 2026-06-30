@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: TR_m3_blessings_i3-471-ind
+name: The Blessings of Sheogorath
+script: ''
+mesh: m\Text_Note_02.nif
+icon: m\Tx_note_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe Blessings of Sheogorath<BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nThe 13 Blessings of Sheogorath<BR>\r\n<BR>\r\nFor Our Lord Sheogorath, without Whom all Thought would be linear and all Feeling would be fleeting. <BR>\r\nBlessed are the Madmen, for they hold the keys to secret knowledge. <BR>\r\n<BR>\r\nBlessed are the Phobic, always wary of that which would do them harm. <BR>\r\n<BR>\r\nBlessed are the Obsessed, for their courses are clear. <BR>\r\n<BR>\r\nBlessed are the Addicts, may they quench the thirst that never ebbs. <BR>\r\n<BR>\r\nBlessed are the Murderous, for they have found beauty in the grotesque. <BR>\r\n<BR>\r\nBlessed are the Firelovers, for their hearts are always warm. <BR>\r\n<BR>\r\nBlessed are the Artists, for in their hands the impossible is made real. <BR>\r\n<BR>\r\nBlessed are the Musicians, for in their ears they hear the music of the soul. <BR>\r\n<BR>\r\nBlessed are the Sleepless, as they bask in wakeful dreaming. <BR>\r\n<BR>\r\nBlessed are the Paranoid, ever-watchful for our enemies. <BR>\r\n<BR>\r\nBlessed are the Visionaries, for their eyes see what might be. <BR>\r\n<BR>\r\nBlessed are the Painlovers, for in their suffering, we grow stronger. <BR>\r\n<BR>\r\nBlessed is the Madgod, who tricks us when we are foolish, punishes us when we are wrong, tortures us when we are unmindful, and loves us in our imperfection. <BR>\r\n\r\n"
+data:
+  weight: 0.1
+  value: 100
+  book_type: Scroll
+  skill: None
+  enchantment: 100

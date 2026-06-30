@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_SetDoomstoneGC_Lover
+name: The Lover Stone
+script: T_ScObj_DoomBLoverPC
+mesh: pc\f\pc_dmstn_gc_thief.nif

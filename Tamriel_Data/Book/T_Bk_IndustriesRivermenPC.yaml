@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_IndustriesRivermenPC
+name: 'Industries: the Rivermen'
+script: ''
+mesh: pc\m\pc_bk_book_15.nif
+icon: pc\m\pc_bk_book_15.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>Industries of the Niben: the Rivermen<BR>\r\n\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n\r\nProduced by order of the Conclave of Arts and Artificers<BR>\r\n\r\n<BR>\r\n\r\n<BR>\r\n\r\n<BR>\r\n\r\nFishermen are an ubiquitous sight along the Niben river banks. Wearing loose clothing and coarse silken knee-high pants, they float along the stream in flat-bottom boats and skiffs, casting their nets and laying their lines. Fish, beside the equally omnipresent rice, is the dominant component of the Niben diet. Common catches are the Chrysophant, Slaughterfish, and the common Mudcrab. The catching and processing of fish are a major industry, indeed, the only industry in many villages of the river. Along the brackish southern parts of the river, the growing of Kollops is also undertaken in large hatcheries and breeding grounds along the banks. These mollusks are prized as a source of food for the lower classes, and for the reddish-brown Tinmi pearls they produce, favored by the Niben jewelers.<BR>\r\n\r\n<BR>\r\n\r\nThe Chrysophant is considered an expensive fish, rarely eaten by the common folk. Instead, their diet focuses on the humble meat of the Kollop, Mudcrab, and Slaughterfish, for which they know many unusual preparations. Of note is the famous Nibenese fermented fish-sauce, also known as Mokre, said to be an invention of the Keptu tribes. This oily sauce is made by gathering fish guts and leftovers in large clay jars, mixing them with salt, sugar and local spices, and leaving the jars suspended for several months from eaves and tree branches, in sight of the sun. This preparation is said to soften the bitter taste of Slaughterfish meat, while the often tasteless Mudcrab meat becomes in turn more palatable. The Niben Valley is one of the few places where these base kinds of meat are commonly eaten, and even considered a delicacy. Nevertheless, the traveler unaccustomed to this dish is advised to be cautious around the Niben kitchen, and never to look in any unlabeled pots found hanging around the villages, lest he encounters a particularly putrid surprise.<BR>\r\n\r\n<BR>\r\n\r\nAnother reason why Slaughterfish is considered a treasured catch are the particularly lustrous scales of the Rumare breed. Besides their potent alchemical applications, these scales are another prized components for jewelry and clothing ornament among the trader caste, who consider them emblematic of cunning and forceful behavior. These scales are also prized among certain Argonian tribes in the Blackwood and Argon border with whom the Nibenese sometimes trade, where they are used as a highly symbolic form of currency.<BR>\r\n\r\n"
+data:
+  weight: 2.0
+  value: 40
+  book_type: Book
+  skill: None
+  enchantment: 0

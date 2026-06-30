@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: sanguineamuletenterprise
+name: Amulet of Sanguine Enterprise
+script: ''
+mesh: c\Amulet_Extravagant_2.NIF
+icon: c\tx_amulet_extrav2.tga
+enchanting: sanguine enterprise_en
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 1500
+  enchantment: 600

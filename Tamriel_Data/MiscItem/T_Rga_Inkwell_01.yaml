@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Rga_Inkwell_01
+name: Inkwell
+script: ''
+mesh: pc\m\pc_misc_rga_inkst_01.nif
+icon: pc\m\pc_rga_inkwell.dds
+data:
+  weight: 7.0
+  value: 18
+  flags: ''

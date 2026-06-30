@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Qy_Bronze_Club_01
+name: Quey Bronze Club
+script: ''
+mesh: pi\w\pi_w_bronze_club.nif
+icon: pi\w\pi_w_bronze_club.dds
+enchanting: ''
+data:
+  weight: 12.0
+  value: 75
+  weapon_type: BluntOneHand
+  health: 325
+  speed: 1.5
+  reach: 1.0
+  enchantment: 80
+  chop_min: 5
+  chop_max: 6
+  slash_min: 4
+  slash_max: 5
+  thrust_min: 4
+  thrust_max: 5
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

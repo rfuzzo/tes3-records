@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_HH_gavros_letters
+name: Letter to Gavros Falas
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nI know what you did. You'll be sorry that you ever messed with me. Hand over your profits or get out of town. Or I'll have to deal with you myself.<BR>\r\n<BR>\r\n\r\n"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

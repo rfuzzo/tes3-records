@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_AndoHH_OfficeControl
+name: ''
+script: TR_m4_AndoHH_OfficeEggControl
+mesh: EditorMarker.nif

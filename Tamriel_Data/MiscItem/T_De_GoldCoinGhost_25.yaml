@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_GoldCoinGhost_25
+name: Gold (25)
+script: T_ScObj_GoldCoinDeTomb_25
+mesh: m\Gold_025.NIF
+icon: m\Tx_Gold_001.tga
+data:
+  weight: 0.0
+  value: 25
+  flags: ''

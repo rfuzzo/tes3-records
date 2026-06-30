@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_Hlaalu2_HighHlaaluHistory
+name: Hlaalu Manor History
+script: ''
+mesh: tr\m\tr_book_tomebk_o_01.nif
+icon: tr\m\tr_book_open_tome01.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nHlaalu Second Family Manor History<BR>\r\n<BR>\r\nNarsis, Council Quarter<BR>\r\nFirst Era -- Imperial Era 426<BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\nThe Hlaalu Second Family Manor was built in the early First Era by Tharel Hlaalu. It has served as the ancestral seat of the Hlaalu Second Family from then until the present day, which is currently in the Imperial Era 426.<BR>\r\n<BR>\r\n[The document goes on to describe the complete construction history of the Manor and all important events it hosted over the millenia.]<BR>\r\n<BR>"
+data:
+  weight: 8.0
+  value: 80
+  book_type: Book
+  skill: None
+  enchantment: 0

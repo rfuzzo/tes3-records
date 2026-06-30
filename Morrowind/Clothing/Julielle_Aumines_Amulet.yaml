@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: Julielle_Aumines_Amulet
+name: Julielle Aumine's Amulet
+script: ''
+mesh: c\Amulet_Common_2.NIF
+icon: c\tx_amulet_com2.tga
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 2
+  enchantment: 10

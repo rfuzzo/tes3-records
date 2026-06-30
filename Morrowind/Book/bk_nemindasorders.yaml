@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: bk_nemindasorders
+name: Neminda's Orders
+script: ''
+mesh: m\Text_Scroll_02.NIF
+icon: m\Tx_scroll_02.tga
+enchanting: ''
+text: "SOZZOF IFNLIVW GL YV LKVMRMT IVGSZM NZMLI ZH GSVRI MVCG HGILMTSLOW<BR>\r\nOOVGSIR YVORVEVH SV ULFMW VERWVMXV ULI ROOVTZO SOZZOF VYLMB HSRKNVMGH UILN XZOWVIZ<BR>\r\nHVMW ZTVMG GL HKVZP DRGS OOVGSIR ZMW HVMW ZTVMG GL DZGXS IVGSZM<BR>\r\nZGSBM DROO FHV RMUOFVMXV DRGS WFPV GL YOLXP XLMGIZXGH RU KLHHRYOV<BR>\r\n"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

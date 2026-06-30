@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_CuttingBoard_01
+name: Cutting Board
+script: ''
+mesh: TR\m\tr_misc_cutboard_AY.nif
+icon: TR\m\TR_misc_cutboard.dds
+data:
+  weight: 2.0
+  value: 5
+  flags: ''

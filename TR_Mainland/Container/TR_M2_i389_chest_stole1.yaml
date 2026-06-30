@@ -1,0 +1,47 @@
+type: Container
+flags: ''
+id: TR_M2_i389_chest_stole1
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_01.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - Misc_DE_pot_redware_03
+- - 4
+  - light_com_lantern_01_128
+- - 1
+  - light_de_candle_blue_01
+- - 7
+  - light_de_candle_ivory_01_64
+- - 1
+  - light_de_candle_red_01_64
+- - 8
+  - misc_com_wood_fork
+- - 6
+  - misc_com_wood_knife
+- - 1
+  - misc_com_wood_spoon_01
+- - 1
+  - misc_de_basket_01
+- - 3
+  - misc_de_bowl_bugdesign_01
+- - 5
+  - misc_de_bowl_redware_02
+- - 1
+  - misc_de_bowl_redware_03
+- - 1
+  - misc_de_cloth10
+- - 1
+  - misc_de_fishing_pole
+- - 1
+  - misc_de_pot_redware_01
+- - 3
+  - p_cure_common_s
+- - 1
+  - p_cure_paralyzation_s
+- - 5
+  - p_cure_poison_s
+- - 7
+  - p_restore_health_s

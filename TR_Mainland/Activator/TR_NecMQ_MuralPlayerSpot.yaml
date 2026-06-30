@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_NecMQ_MuralPlayerSpot
+name: ''
+script: TR_NecMQ_MuralFightScript
+mesh: EditorMarker.nif

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2_q_26_convoscroll
+name: Letter to Darran Flavius
+script: ''
+mesh: m\Text_Scroll_02.NIF
+icon: m\Tx_scroll_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nMy Dearest Son,<BR>\r\n<BR>\r\nI hope you have enjoyed your last few weeks in Kemel-Ze. I wasn't sure what to think when you confessed you wanted to travel there, but I've been overjoyed to receive your letters. It seems you have risen to the occasion, and I'm so proud to hear that you are enjoying what you're doing.<BR>\r\n<BR>\r\nI am doing well. Your father...has decided for the good of Helnim that I should now move out of our old quarters. I'm now in your old room. Your little guar toy is still under the bed, and I sometimes hold it to fondly remind myself of you.\r\n<BR>\r\nI do hope you are coming home soon, my darling. Your father is under immense pressure from the citizens and I feel as though the Imperial rule in Helnim is gradually wearing. Please write back soon. I am missing you very much.<BR>\r\n<BR>\r\nYours,<BR>\r\n<BR>\r\nMother<BR>"
+data:
+  weight: 0.2
+  value: 5
+  book_type: Scroll
+  skill: None
+  enchantment: 0

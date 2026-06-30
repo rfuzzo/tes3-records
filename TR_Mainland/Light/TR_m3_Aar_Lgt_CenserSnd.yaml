@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: TR_m3_Aar_Lgt_CenserSnd
+name: ''
+script: ''
+mesh: l\light_dae_censer.nif
+icon: ''
+sound: Daedric Chant
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 400
+  color:
+  - 196
+  - 219
+  - 215
+  - 0
+  flags: DYNAMIC | PULSE_SLOW

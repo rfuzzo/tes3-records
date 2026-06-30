@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: AB_o_DaedricCoffer01
+name: Daedric Coffer
+script: ''
+mesh: OAAB\o\rem_dae_coffer_01.nif
+encumbrance: 20.0
+container_flags: IS_BASE
+inventory: []

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: misc_com_redware_bowl
+name: Bowl
+script: ''
+mesh: m\Misc_Redware_Bowl.NIF
+icon: m\Misc_Redware_Bowl.tga
+data:
+  weight: 5.0
+  value: 8
+  flags: ''

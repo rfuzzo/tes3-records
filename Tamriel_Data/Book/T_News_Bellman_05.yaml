@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Bellman_05
+name: HELSETH HOSTS ARGONIAN EMISSARY
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_note_oe_news.nif
+icon: tr\m\tr_note_oe_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\TR_bellman_512_256.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nHELSETH HOSTS ARGONIAN EMISSARY<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nFollowing rising tensions in the Arnesian border regions, High King Hlaalu Helseth hosted the Argonian emissary to Morrowind, Im-Kilaya, at a state banquet at the Royal Palace of Mournhold. A spokesperson for the King told reporters the pair discussed the situation along the Morrowind - Black Marsh border, and the King expressed his regret that House Dres declined to send their own representatives to participate in the discussion. The Arnesian jungle remains a hotbed for conflict, as Argonian irregulars continue to raid Dark Elf caravans. It seems unlikely that the cycle of violence will die down any time soon, as resentment about territory lost some thirty years ago still festers among the local Argonian tribes, and the Dark Elves continue to uphold the barbaric practice of slavery.<br><br>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

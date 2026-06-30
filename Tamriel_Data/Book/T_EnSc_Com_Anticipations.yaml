@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_EnSc_Com_Anticipations
+name: Scroll of The Anticipations
+script: ''
+mesh: m\text_scroll_01.nif
+icon: m\tx_scroll_open_01.tga
+enchanting: T_Once_Anticipations
+text: "<DIV ALIGN=\"center\"><FONT COLOR=\"000000\" SIZE=\"2\" FACE=\"Daedric\"><BR>\r\n\r\nSend for<P>\r\nThe Winged Messenger of the Mother Soul<P>\r\nThe Tongued Servant of the Dark Warrior<P>\r\nThe Child of the Queen of Oblivion<P>\r\n\r\n</FONT>\r\n</DIV>"
+data:
+  weight: 0.2
+  value: 1083
+  book_type: Scroll
+  skill: None
+  enchantment: 0

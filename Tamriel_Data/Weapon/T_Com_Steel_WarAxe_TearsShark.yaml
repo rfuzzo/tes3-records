@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Com_Steel_WarAxe_TearsShark
+name: War Axe of Tears of the Shark
+script: ''
+mesh: w\W_WarAxe_Steel.nif
+icon: w\Tx_Battle_Axe.tga
+enchanting: T_Use_TearsShark
+data:
+  weight: 24.0
+  value: 330
+  weapon_type: AxeOneHand
+  health: 1200
+  speed: 1.25
+  reach: 1.0
+  enchantment: 50
+  chop_min: 1
+  chop_max: 20
+  slash_min: 1
+  slash_max: 11
+  thrust_min: 1
+  thrust_max: 3
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

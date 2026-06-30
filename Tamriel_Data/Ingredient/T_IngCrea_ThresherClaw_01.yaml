@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_ThresherClaw_01
+name: Thresher Claw
+script: ''
+mesh: tr\n\tr_ing_threshclaw.nif
+icon: tr\n\tr_ing_thresherclaw.dds
+data:
+  weight: 5.0
+  value: 100
+  effects:
+  - FortifyAttribute
+  - ResistFire
+  - WeaknessToFrost
+  - NightEye
+  skills:
+  - Block
+  - None
+  - None
+  - None
+  attributes:
+  - Strength
+  - None
+  - None
+  - None

@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: bc mushroom 177
+name: ''
+script: ''
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 177
+  color:
+  - 53
+  - 180
+  - 255
+  - 0
+  flags: DYNAMIC

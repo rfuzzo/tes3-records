@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_MARK_AI_TT_Q2
+name: Tanisa Balarys
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: pi\m\pi_m_cnq_ngopta.dds
+enchanting: ''
+text: "Durning the quest TR_m7_AI_TT_Q2, Tanisa Balarys moves here\r\nNPC ID: TR_m7_Tanisa Balarys\r\nPositionCell in script TR_m7_AI_TT_2_Sc"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

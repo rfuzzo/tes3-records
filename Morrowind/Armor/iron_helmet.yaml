@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: iron_helmet
+name: Iron Helmet
+script: ''
+mesh: a\A_Iron_Helm_01.nif
+icon: a\Tx_Iron_Helm_01.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: Head
+  male_bodypart: a_iron_helm_01
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 5.0
+  value: 30
+  health: 100
+  enchantment: 25
+  armor_rating: 10

@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m3_NaysIntuition_amulet_uni
+name: Nay's Intuition
+script: ''
+mesh: c\Amulet_Common_5.NIF
+icon: c\tx_amulet_com5.tga
+enchanting: detect enchantment_en
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 35
+  enchantment: 150

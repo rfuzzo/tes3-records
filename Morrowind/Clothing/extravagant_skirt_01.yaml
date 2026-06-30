@@ -1,0 +1,17 @@
+type: Clothing
+flags: ''
+id: extravagant_skirt_01
+name: Extravagant Skirt
+script: ''
+mesh: c\C_Skirt_extravagant_1GND.NIF
+icon: c\tx_skirt_extravagant_1.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: Skirt
+  male_bodypart: c_skirt_extravagant_1
+  female_bodypart: ''
+data:
+  clothing_type: Skirt
+  weight: 2.0
+  value: 60
+  enchantment: 300

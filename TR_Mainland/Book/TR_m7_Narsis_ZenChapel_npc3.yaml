@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_Narsis_ZenChapel_npc3
+name: Galvel [insert family name here
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: ''
+enchanting: ''
+text: "Dunmer Male, Healer\r\nlevel 10\r\nCommon robe, shoes, steel mace\r\ndoesnt offer services\r\nshould stand still\r\nRank 2 in the Imperial Cult\r\n\r\n-bdacc "
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: TR_m4_368_chest
+name: Small Chest
+script: ''
+mesh: o\Contain_chest_small_01.NIF
+encumbrance: 15.0
+container_flags: IS_BASE
+inventory:
+- - 4
+  - hammer_repair
+- - 3
+  - repair_journeyman_01
+- - 1
+  - repair_master_01
+- - 3
+  - repair_prongs

@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_Imp_Var_ColLantern05_256
+name: Colovian Lantern
+script: ''
+mesh: pc\l\pc_col_lantern_05.nif
+icon: pc\l\pc_col_lantern_05.dds
+sound: ''
+data:
+  weight: 5.0
+  value: 15
+  time: 120
+  radius: 256
+  color:
+  - 245
+  - 140
+  - 40
+  - 0
+  flags: DYNAMIC | CAN_CARRY | FIRE | FLICKER_SLOW

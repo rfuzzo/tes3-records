@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_i2_445_gear3fx
+name: ''
+script: TR_m2_445_sc_g3fx
+mesh: editormarker.nif

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_FW_College_LibEmpBooks
+name: The Empire
+script: ''
+mesh: m\text_parchment_01.nif
+icon: m\tx_parchment_01.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe Empire<BR> <BR><DIV ALIGN=\"Left\">\r\nThis bookcase contains the College's collection of texts on the history, laws, institutions, and rulers of the Empire of Tamriel and its precursors.\r\n<BR>\r\nFurther readings on the history and cultures of Cyrodiil and the Empire's other provinces beyond Morrowind can be found in the section on the West.<BR>\r\n<BR>\r\nGuests and students are kindly asked to refrain from annotating the pages of books borrowed from this bookcase.<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

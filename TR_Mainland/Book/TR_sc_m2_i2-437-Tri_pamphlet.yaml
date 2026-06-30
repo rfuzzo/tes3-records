@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_sc_m2_i2-437-Tri_pamphlet
+name: Old Temple Pamphlet
+script: ''
+mesh: m\Text_Parchment_02.nif
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR><BR>[This pamphlet, which seems to be thousands of years old, contains a speech from Lord Vivec to the Dunmer.]<BR>\r\n<BR>\r\nAs you have fought the Sharmat in life, so shall you fight him in the life to come. Fear not death, my child, for the ghost gilds with glory. Join your kin in the city of the mournful, where the fane of the ancestors casts its shadow. Find there your brothers and sisters under the Triune banner and join your mortal flesh and bone to the mighty wall, to safeguard the House of Veloth forevermore from the evils of Hell. Spear may shatter and shield may crack, but the spirit cannot be crushed and the soul cannot be tainted. You will stand as one, a barrier of ghosts, a pillar of faith, and you will defy the Sharmat in death as you have defied him in flesh.<BR>\r\nCome to my holy city of the dead. Join the blessed undying spirits of our ancestors, and we shall crush the enemy, by spirit, by sword and by faith in the holy name of ALMSIVI.<BR>"
+data:
+  weight: 1.0
+  value: 300
+  book_type: Scroll
+  skill: None
+  enchantment: 200

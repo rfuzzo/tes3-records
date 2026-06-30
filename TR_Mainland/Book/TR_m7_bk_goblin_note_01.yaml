@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_bk_goblin_note_01
+name: Goblin Scribbles
+script: ''
+mesh: m\Text_Note_02.nif
+icon: m\Tx_note_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n\r\nLOOT HERE BAD. BOSS MAD AT ME. MY IDEA TO LOOT TOMB. \r\n\r\nSTILL NOT OPEN LAST DOOR. PICKS NOT WORK. CHOPS NOT WORK. NEED OPEN DOOR BEFORE BOSS GET MAD. \r\n\r\nBOSS HAPPY WE FOUND CAVE. HE SAY IT GOOD BASE.\r\n\r\nLOOTS FOUND:\r\nDUST JARS x 2 HANDS\r\nWEIRD STOOLS x 1 HANDS\r\nSHINY CIRCLES x 3 HANDS\r\n\r\nWRITTEN BY GRABBLER, LOOT-BOSS\r\n\r\n<BR>\r\n"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

@@ -1,0 +1,21 @@
+type: Container
+flags: ''
+id: TR_m3-ET2_cont_closet
+name: Closet
+script: ''
+mesh: pc\o\pc_furn_com_closet_02.nif
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Com_Steel_Cuirass_03
+- - 1
+  - extravagant_amulet_02
+- - 1
+  - extravagant_glove_left_01
+- - 1
+  - extravagant_glove_right_01
+- - 1
+  - extravagant_pants_02
+- - 1
+  - extravagant_shirt_01_r

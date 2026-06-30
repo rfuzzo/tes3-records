@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m4_RR_BodrumBattleShrine
+name: Shrine to the Battle of Bodrum
+script: TR_m4_RR_BodrumShrineScript
+mesh: f\Furn_shrine_vivec_01.NIF

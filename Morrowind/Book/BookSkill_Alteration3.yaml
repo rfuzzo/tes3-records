@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: BookSkill_Alteration3
+name: Sithis
+script: ''
+mesh: m\Text_Octavo_open_08.nif
+icon: m\Tx_book_open_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nSithis<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nSithis is the start of the house. Before him was nothing, but the foolish Altmer have names for and revere this nothing. That is because they are lazy slaves. Indeed, from the Sermons, 'stasis asks merely for itself, which is nothing.'<BR>\r\n<BR>\r\nSithis sundered the nothing and mutated the parts, fashioning from them a myriad of possibilities. These ideas ebbed and flowed and faded away and this is how it should have been. <BR>\r\n<BR>\r\nOne idea, however, became jealous and did not want to die; like the stasis, he wanted to last. This was the demon Anui-El, who made friends, and they called themselves the Aedra. They enslaved everything that Sithis had made and created realms of everlasting imperfection. Thus are the Aedra the false gods, that is, illusion.<BR>\r\n<BR>\r\nSo Sithis begat Lorkhan and sent him to destroy the universe. Lorkhan! Unstable mutant!<BR>\r\n<BR>\r\nLorkhan had found the Aedric weakness. While each rebel was, by their nature, immeasurable, they were, through jealously and vanity, also separate from each other. They were also unwilling to go back to the nothing of before. So while they ruled their false dominions, Lorkhan filled the void with a myriad of new ideas. These ideas were legion. Soon it seemed that Lorkhan had a dominion of his own, with slaves and everlasting imperfections, and he seemed, for all the world, like an Aedra. Thus did he present himself as such to the demon Anui-El and the Eight Givers: as a friend.<BR>\r\n<BR>\r\nGo unto the Sharmat Dagoth Ur as a friend.<BR>\r\n<BR>\r\nAE HERMA MORA ALTADOON PADHOME LKHAN AE AI.<BR>\r\n<BR>\r\n"
+data:
+  weight: 3.0
+  value: 275
+  book_type: Book
+  skill: Alteration
+  enchantment: 0

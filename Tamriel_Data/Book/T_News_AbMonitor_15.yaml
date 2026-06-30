@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_AbMonitor_15
+name: LOCAL BUSINESSMAN EXONERATED
+script: T_ScNews_Bellman_Paper
+mesh: pc\m\pc_text_note_anv_news.nif
+icon: pc\m\pc_text_note_anv_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"PC\\pc_abmonitor.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nLOCAL BUSINESSMAN EXONERATED OF TREASON CHARGES<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nThe West Navy has released the well-known Anvil clothier Unsolyo after his arrest and imprisonment on treason charges. While the details of these charges remain unknown, and Fort Telodrach offered no comment, anonymous West Navy sources linked the Sea Elf's arrest to the mysterious attacks suffered at sea by the TEM Brinerunner and TEM Surfrunner.<BR><BR>\r\nUnsolyo, who owns a prosperous shop in Anvil's Marina quarter, never stopped protesting his innocence throughout his imprisonment. Now free, he's indicated a desire to return to normalcy. \"I'm an Imperial citizen, and an honest businessman,\" he told the Monitor's Barbona Disenne. \"I'm just glad that nightmare is over.\"<BR><BR>\r\nDespite repeated attempts, Fort Telodrach remains stubbornly quiet about the clothier's imprisonment and subsequent release, and has refused to disclose any new information about the attacks on its ships. The silence of Navy High Command bodes ill for the safety of ships at sea and the rights of Anvil citizens before Imperial Law.<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

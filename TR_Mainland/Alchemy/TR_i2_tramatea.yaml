@@ -1,0 +1,20 @@
+type: Alchemy
+flags: ''
+id: TR_i2_tramatea
+name: Trama Tea
+script: ''
+mesh: m\Misc_flask_03.nif
+icon: m\tx_flask_03.dds
+effects:
+- magic_effect: CurePoison
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 1
+  min_magnitude: 1
+  max_magnitude: 1
+data:
+  weight: 0.8
+  value: 22
+  flags: ''

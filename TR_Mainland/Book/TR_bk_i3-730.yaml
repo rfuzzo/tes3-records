@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_bk_i3-730
+name: Note to Sathis
+script: ''
+mesh: m\text_note_01.nif
+icon: m\tx_note_01.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nSathis,<BR>\r\n<BR>\r\nHere's your share of the money we made from selling the last haul. If you don't show up on time the next time we dive, Varath said he'd gut you like a slaughterfish himself. Don't go diving all alone, the deep is swarming with razorteeth. It is not safe anymore.<BR>\r\n<BR>\r\n- Z<BR>"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

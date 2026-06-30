@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_Scrapwood01
+name: Scrap Wood
+script: ''
+mesh: M\misc_scrapwood01.nif
+icon: m\misc_scrapwood01.dds
+data:
+  weight: 6.0
+  value: 0
+  flags: ''

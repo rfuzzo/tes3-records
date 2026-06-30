@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_He_ShellBowl_01
+name: Shell Bowl
+script: ''
+mesh: sum\m\m_nacre_shellbowl04.nif
+icon: sum\m\sum_m_shellbowl1.dds
+data:
+  weight: 1.0
+  value: 5
+  flags: ''

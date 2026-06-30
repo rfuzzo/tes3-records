@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_Hlorandus_Note
+name: Note to Edras
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<BR>\r\n<BR>\r\nYou rigged this little game for the last time, n'wah! Next time you feed that beast yourself, I don't care what the boss says about drawing the short straw.\r\n<BR>\r\n\r\n"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_CinnabarPolypore_01
+name: Cinnabar Polypore Red Cap
+script: ''
+mesh: pc\n\PC_Ing_CinPoly1.nif
+icon: pc\n\pc_tx_ingred_cinpoly1.dds
+data:
+  weight: 0.1
+  value: 1
+  effects:
+  - RestoreAttribute
+  - DamageAttribute
+  - SpellAbsorption
+  - DamageAttribute
+  skills:
+  - Block
+  - Block
+  - Block
+  - Block
+  attributes:
+  - Agility
+  - Endurance
+  - Personality
+  - Personality

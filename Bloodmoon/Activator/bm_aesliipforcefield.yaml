@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: bm_aesliipforcefield
+name: Aesliip's Barrier
+script: forcefieldScript
+mesh: f\BM_forcefield.NIF

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_DreughClaymore
+name: Dreugh Claymore
+script: ''
+mesh: OAAB\w\dreugh_claymore.nif
+icon: OAAB\w\dreugh_claymore.tga
+enchanting: ''
+data:
+  weight: 22.4
+  value: 1800
+  weapon_type: LongBladeTwoClose
+  health: 1740
+  speed: 1.25
+  reach: 1.0
+  enchantment: 65
+  chop_min: 1
+  chop_max: 35
+  slash_min: 1
+  slash_max: 29
+  thrust_min: 1
+  thrust_max: 21
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

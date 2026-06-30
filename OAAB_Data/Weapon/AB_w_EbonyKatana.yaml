@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_EbonyKatana
+name: Ebony Katana
+script: ''
+mesh: OAAB\w\ebony_katana.nif
+icon: OAAB\w\ebony_katana.dds
+enchanting: ''
+data:
+  weight: 34.0
+  value: 25000
+  weapon_type: LongBladeOneHand
+  health: 2400
+  speed: 1.5
+  reach: 1.0
+  enchantment: 140
+  chop_min: 3
+  chop_max: 38
+  slash_min: 1
+  slash_max: 35
+  thrust_min: 1
+  thrust_max: 13
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

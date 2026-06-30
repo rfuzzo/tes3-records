@@ -1,0 +1,22 @@
+type: Armor
+flags: ''
+id: T_Imp_Silver_PauldronR_01
+name: Imperial Silver Right Pauldron
+script: ''
+mesh: tr\a\tr_a_silver_pauld_CL.nif
+icon: tr\a\tr_a_silver_pauldron.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: RightPauldron
+  male_bodypart: T_A_ImpSilverPauldron01_CL
+  female_bodypart: ''
+- biped_object_type: RightUpperArm
+  male_bodypart: T_A_ImpSilverPauldron01_UA
+  female_bodypart: ''
+data:
+  armor_type: RightPauldron
+  weight: 10.0
+  value: 80
+  health: 170
+  enchantment: 3
+  armor_rating: 18

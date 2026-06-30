@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_De_Glass_Sparkslayer_01
+name: Glass Sparkslayer
+script: ''
+mesh: w\w_claymore_crystal.nif
+icon: w\Tx_Crystal_Claymore.tga
+enchanting: cruel spark_en
+data:
+  weight: 16.2
+  value: 33600
+  weapon_type: LongBladeTwoClose
+  health: 840
+  speed: 1.25
+  reach: 1.0
+  enchantment: 42
+  chop_min: 1
+  chop_max: 45
+  slash_min: 1
+  slash_max: 39
+  thrust_min: 1
+  thrust_max: 27
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

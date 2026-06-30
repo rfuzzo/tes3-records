@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m3_ZymelKaazSoulGem
+name: Zymel Kaaz's Soul Gem
+script: TR_m3_SummonZymelKaazGem
+mesh: m\Misc_soulgem_lesser.nif
+icon: m\Tx_soulgem_Lesser.tga
+data:
+  weight: 0.5
+  value: 150
+  flags: ''

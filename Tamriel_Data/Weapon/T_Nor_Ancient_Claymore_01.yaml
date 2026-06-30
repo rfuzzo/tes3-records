@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Nor_Ancient_Claymore_01
+name: Ancient Nordic Claymore
+script: ''
+mesh: sky\w\sky_w_anordic_claym.nif
+icon: sky\w\sky_w_anordic_claym.dds
+enchanting: ''
+data:
+  weight: 30.0
+  value: 600
+  weapon_type: LongBladeTwoClose
+  health: 1600
+  speed: 1.25
+  reach: 1.0
+  enchantment: 100
+  chop_min: 1
+  chop_max: 30
+  slash_min: 1
+  slash_max: 25
+  thrust_min: 1
+  thrust_max: 18
+  flags: ''

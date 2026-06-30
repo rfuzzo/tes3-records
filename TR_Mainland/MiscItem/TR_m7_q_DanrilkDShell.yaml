@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m7_q_DanrilkDShell
+name: Dreugh Carapace Fragment
+script: TR_m7_HR_AM_Q2_CarapaceSc
+mesh: tr\n\tr_ing_ceph_shell.nif
+icon: tr\n\tr_ing_ceph_shell.dds
+data:
+  weight: 3.0
+  value: 0
+  flags: ''

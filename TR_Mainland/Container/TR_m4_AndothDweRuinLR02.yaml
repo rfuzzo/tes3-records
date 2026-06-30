@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m4_AndothDweRuinLR02
+name: Luminous Russula
+script: TR_m4_AndothDwePlants02_scp
+mesh: f\Flora_BC_mushroom_01.NIF
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - ingred_russula_01

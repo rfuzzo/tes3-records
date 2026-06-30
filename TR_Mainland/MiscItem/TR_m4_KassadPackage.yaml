@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m4_KassadPackage
+name: Kassad's Package
+script: TR_m4_KassadPackage_sc
+mesh: m\dwemer_satchel00.NIF
+icon: m\misc_dwe_satchel00.dds
+data:
+  weight: 15.0
+  value: 50
+  flags: ''

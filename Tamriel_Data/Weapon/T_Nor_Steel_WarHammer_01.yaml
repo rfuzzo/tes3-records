@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Nor_Steel_WarHammer_01
+name: Nordic Steel Warhammer
+script: ''
+mesh: sky\w\sky_nord_steel_warham.nif
+icon: sky\w\tx_w_steel_wham_01.dds
+enchanting: ''
+data:
+  weight: 42.0
+  value: 240
+  weapon_type: BluntTwoClose
+  health: 3500
+  speed: 1.0
+  reach: 1.5
+  enchantment: 70
+  chop_min: 1
+  chop_max: 42
+  slash_min: 1
+  slash_max: 35
+  thrust_min: 1
+  thrust_max: 4
+  flags: ''

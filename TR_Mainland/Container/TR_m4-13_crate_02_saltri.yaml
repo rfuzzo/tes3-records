@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m4-13_crate_02_saltri
+name: Crate
+script: ''
+mesh: o\Contain_crate_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 25
+  - ingred_saltrice_01

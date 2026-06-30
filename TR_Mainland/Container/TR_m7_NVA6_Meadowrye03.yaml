@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m7_NVA6_Meadowrye03
+name: Meadow Rye
+script: TR_m7_NVA_Stage6_Persist
+mesh: TR\o\TR_f_Alm_flower04c.NIF
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - random_rye

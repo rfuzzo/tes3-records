@@ -1,0 +1,23 @@
+type: Container
+flags: ''
+id: com_chest_02_v_weapon03
+name: Wooden Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 205.0
+container_flags: IS_BASE
+inventory:
+- - -100
+  - iron bolt
+- - -150
+  - chitin arrow
+- - 1
+  - chitin short bow
+- - 1
+  - chitin spear
+- - 1
+  - chitin dagger
+- - 1
+  - iron dagger
+- - -3
+  - random ashlander weapon

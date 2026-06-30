@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_Paintbrush_04Y
+name: Paintbrush
+script: ''
+mesh: pc\m\pc_misc_p_brush_04Y.nif
+icon: pc\m\pc_misc_p_brush_04_yw.dds
+data:
+  weight: 1.0
+  value: 2
+  flags: ''

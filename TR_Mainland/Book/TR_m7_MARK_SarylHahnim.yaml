@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_MARK_SarylHahnim
+name: Saryl Hahnim
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: ''
+enchanting: ''
+text: Marker for moving TR_m7_Saryl Hahnim to Ibbi-Suen Mine, then to the Lower Mine. First positioncell is handled by TR_m7_HR_AM_Q4_SarylShmovemement, second positioncell is handled by TR_m7_HR_AM_Q4_SarylHahnim.
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

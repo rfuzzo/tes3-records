@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_BreadBretonLong_01
+name: Longbread
+script: ''
+mesh: hr\n\hr_ing_baguette.nif
+icon: hr\n\hr_ing_baguette.dds
+data:
+  weight: 0.5
+  value: 3
+  effects:
+  - RestoreFatigue
+  - None
+  - None
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

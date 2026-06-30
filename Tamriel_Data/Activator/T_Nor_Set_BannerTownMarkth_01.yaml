@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Nor_Set_BannerTownMarkth_01
+name: Markarth
+script: OutsideBanner
+mesh: sky\f\sky_act_banner_mk_01.nif

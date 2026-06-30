@@ -1,0 +1,28 @@
+type: Alchemy
+flags: ''
+id: T_Imp_Rune_Reman2
+name: Rune Cuirass and Axe
+script: ''
+mesh: EditorMarker.nif
+icon: default icon.dds
+effects:
+- magic_effect: BoundCuirass
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 300
+  min_magnitude: 1
+  max_magnitude: 1
+- magic_effect: BoundBattleAxe
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 300
+  min_magnitude: 1
+  max_magnitude: 1
+data:
+  weight: 0.0
+  value: 240
+  flags: AUTO_CALCULATE

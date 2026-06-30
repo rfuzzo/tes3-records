@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Qy_PalmwoodBowl_02
+name: Palmwood Bowl
+script: ''
+mesh: pi\m\pi_m_cnq_pw_bowl_02.nif
+icon: pi\m\pi_m_cnq_pw_bowl_02.dds
+data:
+  weight: 2.5
+  value: 3
+  flags: ''

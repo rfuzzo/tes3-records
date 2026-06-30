@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m7_Ns_PotLady_Pot1
+name: Orvas Alen
+script: TR_m7_Ns_PotLady_Pot_sc
+mesh: tr\m\tr_misc_stn_pot_01.nif

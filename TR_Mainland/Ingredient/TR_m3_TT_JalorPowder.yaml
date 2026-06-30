@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: TR_m3_TT_JalorPowder
+name: Suspicious Powder
+script: TR_m3_TT_JalorIndoPowderScript
+mesh: tr\n\tr_ing_grey_tick.nif
+icon: tr\n\tr_ing_greytick.dds
+data:
+  weight: 0.0
+  value: 0
+  effects:
+  - DamageHealth
+  - DamageFatigue
+  - DamageAttribute
+  - None
+  skills:
+  - None
+  - None
+  - Block
+  - None
+  attributes:
+  - None
+  - None
+  - Endurance
+  - None

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Glb_Sound_Once_Woosh01
+name: 'Sound "Mine": Woosh 01'
+script: T_ScSound_Once_Woosh01
+mesh: EditorMarker.NIF

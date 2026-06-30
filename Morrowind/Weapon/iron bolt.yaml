@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: iron bolt
+name: Iron Bolt
+script: ''
+mesh: w\W_Bolt_iron.NIF
+icon: w\tx_bolt_iron.tga
+enchanting: ''
+data:
+  weight: 0.1
+  value: 1
+  weapon_type: Bolt
+  health: 10
+  speed: 1.0
+  reach: 1.0
+  enchantment: 20
+  chop_min: 2
+  chop_max: 3
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: ''

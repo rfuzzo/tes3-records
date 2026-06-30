@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_QyC_CockleCandlePurpleP03_128
+name: ''
+script: ''
+mesh: pi\l\pi_l_cnq_s_canck3puP.nif
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 128
+  color:
+  - 177
+  - 83
+  - 255
+  - 0
+  flags: DYNAMIC | FIRE | FLICKER_SLOW

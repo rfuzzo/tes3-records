@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Nor_StalhrimClaymore_01
+name: Stalhrim Claymore
+script: ''
+mesh: tr\w\tr_w_ice_claymore.nif
+icon: tr\w\tr_w_ice_claymore.dds
+enchanting: ''
+data:
+  weight: 84.0
+  value: 88000
+  weapon_type: LongBladeTwoClose
+  health: 7100
+  speed: 1.25
+  reach: 1.0
+  enchantment: 115
+  chop_min: 1
+  chop_max: 74
+  slash_min: 1
+  slash_max: 68
+  thrust_min: 1
+  thrust_max: 36
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

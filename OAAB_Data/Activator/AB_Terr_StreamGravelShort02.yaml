@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Terr_StreamGravelShort02
+name: ''
+script: Sound_Water_Spout
+mesh: OAAB\t\streamGravelShort02.nif

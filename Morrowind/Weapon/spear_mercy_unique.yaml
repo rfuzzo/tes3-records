@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: spear_mercy_unique
+name: Spear of Bitter Mercy
+script: ''
+mesh: w\W_art_spear_mercy.NIF
+icon: w\W_spear_mercy.tga
+enchanting: bitter mercy
+data:
+  weight: 20.0
+  value: 130000
+  weapon_type: SpearTwoWide
+  health: 2500
+  speed: 1.0
+  reach: 1.8
+  enchantment: 500
+  chop_min: 1
+  chop_max: 15
+  slash_min: 1
+  slash_max: 15
+  thrust_min: 15
+  thrust_max: 60
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

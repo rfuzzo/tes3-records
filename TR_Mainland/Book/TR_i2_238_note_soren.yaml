@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_i2_238_note_soren
+name: A Note to Soren
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nSoren-<BR>\r\n<BR>\r\nPlease stop fooling around with those potions...  You're not good at it.  Focus on doing your job as gatekeeper.  Try and be more like your brother, Alaud.  He knows what to do.<BR>\r\n<BR>\r\n- Aren Sinn, Tel Muthada Efficiency Overseer<BR>\r\n<BR>\r\n"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

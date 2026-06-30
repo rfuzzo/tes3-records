@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: Ex_colony_const_barn01_4
+name: ''
+script: ColonyFactor1_Mid
+mesh: x\Ex_colony_const_barn01.NIF

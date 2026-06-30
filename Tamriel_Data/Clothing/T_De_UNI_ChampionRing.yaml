@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_De_UNI_ChampionRing
+name: Ring of Champions
+script: ''
+mesh: tr\c\tr_c_champ_ring_uni.nif
+icon: tr\c\tr_c_champ_ring_uni.dds
+enchanting: T_Const_ChampionRing
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 18000
+  enchantment: 0

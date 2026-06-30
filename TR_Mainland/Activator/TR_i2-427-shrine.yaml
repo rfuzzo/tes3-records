@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_i2-427-shrine
+name: Battle of Kragenmoor Memorial
+script: TR_m2_necshrineimpwar
+mesh: TR\f\tr_shrine_almalexia.nif

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_De_SetHla_AltarMara_01
+name: Altar of Mara
+script: T_ScObj_ShrineHlaaluMara
+mesh: tr\f\tr_furn_hla_altar_mar.nif

@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Imp_Dragonscale_BracerR_01
+name: Imperial Dragonscale R Bracer
+script: ''
+mesh: pc\a\PC_a_dragon_brac_r_gnd.nif
+icon: pc\a\pc_a_dragon_bracer_r.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: RightWrist
+  male_bodypart: T_A_ImpDragonscaleBracer01_W
+  female_bodypart: ''
+data:
+  armor_type: RightBracer
+  weight: 4.0
+  value: 70
+  health: 60
+  enchantment: 160
+  armor_rating: 20

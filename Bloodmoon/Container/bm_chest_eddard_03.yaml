@@ -1,0 +1,27 @@
+type: Container
+flags: ''
+id: bm_chest_eddard_03
+name: Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - BM huntsman crossbow
+- - 1
+  - BM_Ice minion_Shield1
+- - 1
+  - ingred_snowwolf_pelt_unique
+- - 1
+  - BookSkill_Enchant2
+- - 1
+  - bk_ABCs
+- - 1
+  - random gold_lev_20
+- - 1
+  - random_dwarven_all
+- - 1
+  - random_daedric_weapon
+- - 1
+  - random_diamond

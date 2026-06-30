@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Com_Iron_Morningstar_01
+name: Iron Morningstar
+script: ''
+mesh: TR\w\TR_w_iron_morningstar.NIF
+icon: TR\w\TR_w_iron_morningstar.tga
+enchanting: ''
+data:
+  weight: 15.0
+  value: 30
+  weapon_type: BluntOneHand
+  health: 1400
+  speed: 1.5
+  reach: 1.0
+  enchantment: 50
+  chop_min: 1
+  chop_max: 15
+  slash_min: 1
+  slash_max: 14
+  thrust_min: 1
+  thrust_max: 3
+  flags: ''

@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_SkyCom_Var_Bl1WsbiRt
+name: Barrel
+script: ''
+mesh: Sky\o\Sky_Cont_Barrel_01.nif
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 3
+  - T_Glb_Random_FlorWasabiRoot

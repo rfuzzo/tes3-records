@@ -1,0 +1,25 @@
+type: Container
+flags: ''
+id: T_TestHF_Armors
+name: Large Chest of Hammerfell armor
+script: ''
+mesh: o\Contain_chest_large_01.NIF
+encumbrance: 5000.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Dwe_Rourken_Boots_01
+- - 1
+  - T_Dwe_Rourken_Bracer_L_01
+- - 1
+  - T_Dwe_Rourken_Bracer_R_01
+- - 1
+  - T_Dwe_Rourken_Cuirass_01
+- - 1
+  - T_Dwe_Rourken_Greaves_01
+- - 1
+  - T_Dwe_Rourken_Helm_01
+- - 1
+  - T_Dwe_Rourken_Pauld_L_01
+- - 1
+  - T_Dwe_Rourken_Pauld_R_01

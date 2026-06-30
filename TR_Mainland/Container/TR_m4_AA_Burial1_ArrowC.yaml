@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m4_AA_Burial1_ArrowC
+name: Small Chest
+script: ''
+mesh: o\Contain_chest_small_01.NIF
+encumbrance: 25.0
+container_flags: IS_BASE
+inventory:
+- - 75
+  - T_De_Ashlander_Arrow_01

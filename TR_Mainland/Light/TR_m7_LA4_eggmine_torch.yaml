@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: TR_m7_LA4_eggmine_torch
+name: ''
+script: TR_m7_LA4_eggmine_stage1_sc
+mesh: l\light_tikitorch00.NIF
+icon: ''
+sound: Fire 40
+data:
+  weight: 0.0
+  value: 1
+  time: -1
+  radius: 256
+  color:
+  - 245
+  - 140
+  - 40
+  - 0
+  flags: DYNAMIC | FIRE | FLICKER_SLOW

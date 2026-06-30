@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_SetDoomstoneGC_Jode
+name: Jode Stone
+script: T_ScObj_DoomHJodePC
+mesh: pc\f\pc_dmstn_gc_heavens.nif

@@ -1,0 +1,12 @@
+type: Apparatus
+flags: PERSISTENT
+id: TR_m7_apparatus_sm_calcin_02
+name: Secret Master's Calcinator
+script: TR_m7_SM_sm_calcin_disable
+mesh: m\App_S_Calcinator_01.nif
+icon: m\Tx_calcinator_05.tga
+data:
+  apparatus_type: Calcinator
+  quality: 2.0
+  weight: 6.0
+  value: 6000

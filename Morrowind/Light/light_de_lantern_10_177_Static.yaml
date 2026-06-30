@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: light_de_lantern_10_177_Static
+name: ''
+script: ''
+mesh: l\Light_De_Lantern_10.NIF
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 10
+  time: -1
+  radius: 177
+  color:
+  - 0
+  - 166
+  - 255
+  - 0
+  flags: DYNAMIC

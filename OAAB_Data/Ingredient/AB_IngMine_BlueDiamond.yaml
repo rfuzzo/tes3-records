@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: AB_IngMine_BlueDiamond
+name: Blue Diamond
+script: ''
+mesh: OAAB\n\gem_diamond_blue_01.nif
+icon: OAAB\n\gem_diamond_blue.dds
+data:
+  weight: 0.2
+  value: 300
+  effects:
+  - Invisibility
+  - FrostDamage
+  - DamageMagicka
+  - Blind
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

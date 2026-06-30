@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_FW_College_LibChimar
+name: Chimarvamidium
+script: ''
+mesh: m\text_parchment_01.nif
+icon: m\tx_parchment_01.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nChimarvamidium<BR> <BR><DIV ALIGN=\"Left\">\r\nDisplayed below is a rare original copy of Chimarvamidium, Marobar Sul's legendary recounting of a Dwarven folk tale dating to before the War of the First Council.\r\n<BR>\r\nGuests and students are encouraged to look closely at the fine art and line work, but please avoid smudging the glass.<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

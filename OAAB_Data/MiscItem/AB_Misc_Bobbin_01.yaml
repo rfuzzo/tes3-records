@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_Bobbin_01
+name: Bobbin
+script: ''
+mesh: OAAB\m\misc_bobbin_01.nif
+icon: OAAB\m\misc_bobbin_01.dds
+data:
+  weight: 0.3
+  value: 1
+  flags: ''

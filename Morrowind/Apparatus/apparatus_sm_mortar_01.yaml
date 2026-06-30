@@ -1,0 +1,12 @@
+type: Apparatus
+flags: ''
+id: apparatus_sm_mortar_01
+name: SecretMaster's Mortar and Pestl
+script: ''
+mesh: m\Misc_mortarpestle_S_01.nif
+icon: m\Tx_mortarpestle_S_01.tga
+data:
+  apparatus_type: MortarAndPestle
+  quality: 2.0
+  weight: 1.0
+  value: 6000

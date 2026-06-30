@@ -1,0 +1,22 @@
+type: Armor
+flags: ''
+id: T_De_TelvCephalopod_PauldL_01
+name: Telvanni Cephalopod L Pauldron
+script: ''
+mesh: tr\a\tr_a_telvceph_pld_GND.nif
+icon: tr\a\tr_a_telv_ceph_pauld.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: LeftPauldron
+  male_bodypart: T_A_DeTelvCephPauldr01_CL
+  female_bodypart: ''
+- biped_object_type: LeftUpperArm
+  male_bodypart: T_A_DeTelvCephPauldr01_UA
+  female_bodypart: ''
+data:
+  armor_type: LeftPauldron
+  weight: 3.0
+  value: 70
+  health: 100
+  enchantment: 75
+  armor_rating: 8

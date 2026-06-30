@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Com_SetSky_SignWayFalkrea_01
+name: Falkreath
+script: ''
+mesh: sky\x\sky_act_rsign_falkr1.nif

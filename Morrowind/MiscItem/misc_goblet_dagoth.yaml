@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: misc_goblet_dagoth
+name: House Dagoth cup
+script: ''
+mesh: m\Misc_6th_Goblet.NIF
+icon: m\Misc_6th_Goblet.tga
+data:
+  weight: 1.0
+  value: 500
+  flags: ''

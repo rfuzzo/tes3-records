@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: TR_m7_q_HO_Strabo_letter
+name: Letter to Strabo
+script: ''
+mesh: m\Text_Parchment_02.NIF
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nLarienna Strabo,<BR>\r\n<BR>\r\nThe revenues you are collecting in Hlan Oek are disconcertingly small. I understand this is a major stop for pilgrims on Veloth's Path. Surely mercantile activity is greater than what you report? I urge you to take greater care in collection. If this situation does not improve, I will have no choice but to come and sort out this matter in person. I await the returns for the month of Last Seed. \r\n<BR>\r\nQuintus Gallenus<BR>\r\n"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

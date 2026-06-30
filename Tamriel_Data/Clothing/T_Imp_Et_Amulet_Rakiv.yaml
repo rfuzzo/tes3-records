@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Imp_Et_Amulet_Rakiv
+name: St. Rakiv's Veil
+script: ''
+mesh: pc\c\pc_c_etamulet_01c.nif
+icon: pc\c\pc_c_etamulet_01c.dds
+enchanting: T_Use_Reflect
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 170
+  enchantment: 600

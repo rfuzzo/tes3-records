@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Imp_ColSteel_PauldronR_03
+name: Oloman Steel Right Pauldron
+script: ''
+mesh: pc\a\PC_a_ColoStl_03_PG.nif
+icon: pc\a\pc_a_ColoStl_PauldrR_3.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: RightUpperArm
+  male_bodypart: T_A_ImpColSteelPauldr03_UA
+  female_bodypart: ''
+data:
+  armor_type: RightPauldron
+  weight: 10.0
+  value: 53
+  health: 160
+  enchantment: 20
+  armor_rating: 16

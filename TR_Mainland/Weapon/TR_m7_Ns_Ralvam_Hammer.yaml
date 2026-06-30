@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m7_Ns_Ralvam_Hammer
+name: Ralvam Turil's Warhammer
+script: ''
+mesh: pc\w\pc_w_ebon_whammer.nif
+icon: pc\w\pc_w_ebon_whammer.tga
+enchanting: TR_m7_Ralvam_Hammer_en
+data:
+  weight: 62.0
+  value: 25000
+  weapon_type: BluntTwoClose
+  health: 6000
+  speed: 1.0
+  reach: 1.5
+  enchantment: 110
+  chop_min: 1
+  chop_max: 55
+  slash_min: 1
+  slash_max: 50
+  thrust_min: 1
+  thrust_max: 3
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

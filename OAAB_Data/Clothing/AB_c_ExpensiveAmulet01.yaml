@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: AB_c_ExpensiveAmulet01
+name: Expensive Amulet
+script: ''
+mesh: OAAB\c\amulet_exp_01.nif
+icon: OAAB\c\amulet_exp_01.dds
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 30
+  enchantment: 150

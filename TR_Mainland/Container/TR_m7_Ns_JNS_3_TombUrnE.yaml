@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: TR_m7_Ns_JNS_3_TombUrnE
+name: Urn
+script: TR_m7_Ns_JNS_3_ScTombObjDisable
+mesh: o\Contain_urn_01.NIF
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory: []

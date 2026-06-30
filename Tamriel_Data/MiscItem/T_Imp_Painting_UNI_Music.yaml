@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_Painting_UNI_Music
+name: The Creation of Music
+script: ''
+mesh: pc\m\PC_M_Painting_Music.nif
+icon: pc\m\PC_M_Painting_Music.dds
+data:
+  weight: 17.0
+  value: 1150
+  flags: ''

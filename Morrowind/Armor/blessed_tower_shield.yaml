@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: blessed_tower_shield
+name: Blessed Tower Shield
+script: ''
+mesh: a\TowerShield_steel.NIF
+icon: a\Tx_towershield_steel.tga
+enchanting: veloth's benison_en
+biped_objects:
+- biped_object_type: Shield
+  male_bodypart: shield_steel
+  female_bodypart: ''
+data:
+  armor_type: Shield
+  weight: 15.0
+  value: 130
+  health: 300
+  enchantment: 500
+  armor_rating: 15

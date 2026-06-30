@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_DarkSage_01
+name: Dark Sage Petals
+script: ''
+mesh: sky\n\sky_ingred_darksage01.nif
+icon: sky\n\sky_ingr_darksagepet.dds
+data:
+  weight: 0.1
+  value: 1
+  effects:
+  - CureParalyzation
+  - RestoreAttribute
+  - DrainMagicka
+  - WeaknessToPoison
+  skills:
+  - None
+  - Block
+  - None
+  - None
+  attributes:
+  - None
+  - Agility
+  - None
+  - None

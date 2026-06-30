@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_GoldSpoon_02
+name: Gold Spoon
+script: ''
+mesh: pc\m\pc_misc_gold_spoon01.nif
+icon: pc\m\pc_misc_gold_spoon02.dds
+data:
+  weight: 0.5
+  value: 30
+  flags: ''

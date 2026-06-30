@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m7_Narsis_KeyHlaalu2Vault1
+name: 'Second Family Vault Key #1'
+script: ''
+mesh: TR\m\TR_Key_DD12.NIF
+icon: TR\m\TR_Key_DD12.dds
+data:
+  weight: 0.0
+  value: 300
+  flags: KEY

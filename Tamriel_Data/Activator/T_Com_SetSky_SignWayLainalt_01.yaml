@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Com_SetSky_SignWayLainalt_01
+name: Lainalten
+script: ''
+mesh: sky\x\sky_act_rsign_laina1.nif

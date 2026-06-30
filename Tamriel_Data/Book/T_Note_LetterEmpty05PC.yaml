@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Note_LetterEmpty05PC
+name: <Placeholder>
+script: ''
+mesh: pc\m\pc_bk_letter_05.nif
+icon: pc\m\pc_m_letter_05.dds
+enchanting: ''
+text: ''
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

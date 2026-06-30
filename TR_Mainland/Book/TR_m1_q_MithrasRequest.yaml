@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_q_MithrasRequest
+name: Official Document of Request
+script: ''
+mesh: m\Text_Parchment_01.NIF
+icon: m\Tx_parchment_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nOfficial Document of Request to the Parliament of Bugs<BR>\r\n<BR>\r\nRequest of Master Mithras, Lord of Ranyon-ruhn, in the District of Telvannis, to the Authority of the Sovereign Parliament of Bugs of the Great House Telvanni and its Several Client and Subsidiary Houses and Clans<BR>\r\n<BR>\r\n[The document continues for some while in this officious tone, covering all loopholes and eventually declaring Mithras' request for more slaves for Ranyon-ruhn's ebony mines.]<BR>\r\n<BR>\r\nSigned,<BR>\r\n<BR>\r\nMuthsera Master Mithras<BR>\r\nLord of Ranyon-ruhn<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

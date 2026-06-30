@@ -1,0 +1,341 @@
+type: Container
+flags: ''
+id: test_crate_all_armor
+name: Large Chest of armor
+script: ''
+mesh: o\Contain_chest_large_01.NIF
+encumbrance: 0.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - bonemold_bracer_right
+- - 1
+  - cloth bracer right
+- - 1
+  - dwemer_bracer_right
+- - 1
+  - ebony_bracer_right
+- - 1
+  - iron_bracer_right
+- - 1
+  - orcish_bracer_right
+- - 1
+  - right leather bracer
+- - 1
+  - slave_bracer_right
+- - 1
+  - templar bracer right
+- - 1
+  - bonemold_bracer_left
+- - 1
+  - cloth bracer left
+- - 1
+  - dwemer_bracer_left
+- - 1
+  - ebony_bracer_left
+- - 1
+  - iron_bracer_left
+- - 1
+  - left leather bracer
+- - 1
+  - orcish_bracer_left
+- - 1
+  - slave_bracer_left
+- - 1
+  - templar bracer left
+- - 1
+  - bonemold_shield
+- - 1
+  - chitin_shield
+- - 1
+  - daedric_shield
+- - 1
+  - dreugh_shield
+- - 1
+  - dwemer_shield
+- - 1
+  - ebony_shield
+- - 1
+  - glass_shield
+- - 1
+  - indoril shield
+- - 1
+  - iron_shield
+- - 1
+  - netch_leather_shield
+- - 1
+  - nordic_leather_shield
+- - 1
+  - steel_shield
+- - 1
+  - trollbone_shield
+- - 1
+  - bonemold_towershield
+- - 1
+  - chitin_towershield
+- - 1
+  - daedric_towershield
+- - 1
+  - dragonscale_towershield
+- - 1
+  - ebony_towershield
+- - 1
+  - glass_towershield
+- - 1
+  - imperial shield
+- - 1
+  - iron_towershield
+- - 1
+  - netch_leather_towershield
+- - 1
+  - orcish_towershield
+- - 1
+  - steel_towershield
+- - 1
+  - chitin guantlet - right
+- - 1
+  - daedric_gauntlet_right
+- - 1
+  - imperial right gauntlet
+- - 1
+  - netch_leather_gauntlet_right
+- - 1
+  - steel_gauntlet_right
+- - 1
+  - fur_gauntlet_right
+- - 1
+  - indoril right gauntlet
+- - 1
+  - chitin guantlet - left
+- - 1
+  - daedric_gauntlet_left
+- - 1
+  - imperial left gauntlet
+- - 1
+  - indoril left gauntlet
+- - 1
+  - netch_leather_gauntlet_left
+- - 1
+  - steel_gauntlet_left
+- - 1
+  - fur_gauntlet_left
+- - 1
+  - bonemold_boots
+- - 1
+  - chitin boots
+- - 1
+  - daedric_boots
+- - 1
+  - dwemer_boots
+- - 1
+  - ebony_boots
+- - 1
+  - fur_boots
+- - 1
+  - imperial boots
+- - 1
+  - indoril boots
+- - 1
+  - netch_leather_boots
+- - 1
+  - orcish_boots
+- - 1
+  - templar boots
+- - 1
+  - bonemold_greaves
+- - 1
+  - chitin greaves
+- - 1
+  - daedric_greaves
+- - 1
+  - dwemer_greaves
+- - 1
+  - ebony_greaves
+- - 1
+  - fur_greaves
+- - 1
+  - imperial_greaves
+- - 1
+  - iron_greaves
+- - 1
+  - netch_leather_greaves
+- - 1
+  - orcish_greaves
+- - 1
+  - steel_greaves
+- - 1
+  - templar_greaves
+- - 1
+  - imperial_chain_greaves
+- - 1
+  - bonemold_pauldron_r
+- - 1
+  - bonemold_gah-julan_pauldron_r
+- - 1
+  - chitin pauldron - right
+- - 1
+  - daedric_pauldron_right
+- - 1
+  - dwemer_pauldron_right
+- - 1
+  - ebony_pauldron_right
+- - 1
+  - fur_pauldron_right
+- - 1
+  - imperial right pauldron
+- - 1
+  - indoril pauldron right
+- - 1
+  - iron_pauldron_right
+- - 1
+  - netch_leather_pauldron_right
+- - 1
+  - orcish_pauldron_right
+- - 1
+  - steel_pauldron_right
+- - 1
+  - templar_pauldron_right
+- - 1
+  - bonemold_pauldron_l
+- - 1
+  - bonemold_gah-julan_pauldron_l
+- - 1
+  - chitin pauldron - left
+- - 1
+  - daedric_pauldron_left
+- - 1
+  - dwemer_pauldron_left
+- - 1
+  - ebony_pauldron_left
+- - 1
+  - fur_pauldron_left
+- - 1
+  - imperial left pauldron
+- - 1
+  - indoril pauldron left
+- - 1
+  - iron_pauldron_left
+- - 1
+  - netch_leather_pauldron_left
+- - 1
+  - orcish_pauldron_left
+- - 1
+  - steel_pauldron_left
+- - 1
+  - templar_pauldron_left
+- - 1
+  - bonemold_cuirass
+- - 1
+  - bonemold_gah-julan_cuirass
+- - 1
+  - chitin cuirass
+- - 1
+  - daedric_cuirass
+- - 1
+  - dragonscale_cuirass
+- - 1
+  - dreugh_cuirass
+- - 1
+  - dwemer_cuirass
+- - 1
+  - ebony_cuirass
+- - 1
+  - fur_bearskin_cuirass
+- - 1
+  - fur_cuirass
+- - 1
+  - glass_cuirass
+- - 1
+  - imperial_chain_cuirass
+- - 1
+  - imperial_studded_cuirass
+- - 1
+  - indoril cuirass
+- - 1
+  - iron_cuirass
+- - 1
+  - netch_leather_boiled_cuirass
+- - 1
+  - netch_leather_cuirass
+- - 1
+  - newtscale_cuirass
+- - 1
+  - nordic_iron_cuirass
+- - 1
+  - nordic_ringmail_cuirass
+- - 1
+  - orcish_cuirass
+- - 1
+  - silver_cuirass
+- - 1
+  - silver_dukesguard_cuirass
+- - 1
+  - steel_cuirass
+- - 1
+  - templar_cuirass
+- - 1
+  - trollbone_cuirass
+- - 1
+  - bonemold_helm
+- - 1
+  - bonemold_chuzei_helm
+- - 1
+  - bonemold_gah-julan_helm
+- - 1
+  - cephalopod_helm
+- - 1
+  - chitin helm
+- - 1
+  - chitin_mask_helm
+- - 1
+  - chitin_watchman_helm
+- - 1
+  - daedric_fountain_helm
+- - 1
+  - daedric_god_helm
+- - 1
+  - daedric_terrifying_helm
+- - 1
+  - dragonscale_helm
+- - 1
+  - dreugh_helm
+- - 1
+  - dust_adept_helm
+- - 1
+  - dwemer_helm
+- - 1
+  - ebony_closed_helm
+- - 1
+  - fur_colovian_helm
+- - 1
+  - fur_helm
+- - 1
+  - glass_helm
+- - 1
+  - imperial helmet armor
+- - 1
+  - imperial_chain_coif_helm
+- - 1
+  - indoril helmet
+- - 1
+  - mole_crab_helm
+- - 1
+  - morag_tong_helm
+- - 1
+  - netch_leather_boiled_helm
+- - 1
+  - netch_leather_helm
+- - 1
+  - nordic_iron_helm
+- - 1
+  - orcish_helm
+- - 1
+  - redoran_master_helm
+- - 1
+  - silver_helm
+- - 1
+  - steel_helm
+- - 1
+  - trollbone_helm
+- - 1000
+  - Gold_001

@@ -1,0 +1,59 @@
+type: Container
+flags: ''
+id: T_MwCom_Furn_Ch2MercAr3
+name: Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - -50
+  - T_Com_Steel_Bolt_CruelFirestrm
+- - -50
+  - T_Com_Steel_Bolt_CruelFrostB
+- - -50
+  - T_Com_Steel_Bolt_CruelPoisonCl
+- - -50
+  - T_Imp_Silver_Bolt_DireFirestrm
+- - -50
+  - T_Imp_Silver_Bolt_DireFrostBst
+- - -50
+  - T_Imp_Silver_Bolt_DirePoisonCl
+- - -50
+  - T_Imp_Silver_Bolt_DireShocksph
+- - -50
+  - bonemold bolt
+- - -50
+  - corkbulb bolt
+- - -50
+  - cruel flame bolt
+- - -50
+  - cruel shard bolt
+- - -50
+  - cruel spark bolt
+- - -50
+  - cruel viper bolt
+- - -50
+  - dire flame bolt
+- - -50
+  - dire shard bolt
+- - -50
+  - dire spark bolt
+- - -50
+  - dire viper bolt
+- - -50
+  - flame_bolt
+- - -50
+  - iron bolt
+- - -50
+  - orcish bolt
+- - -50
+  - shard_bolt
+- - -50
+  - silver bolt
+- - -50
+  - spark_bolt
+- - -50
+  - steel bolt
+- - -50
+  - viper_bolt

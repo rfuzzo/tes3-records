@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m3_Kaladanhammer_i3-591-imp
+name: Hammer of Saint Kaladas
+script: TR_m3_KaladasHammerScript
+mesh: TR\w\TR_w_nord_whammer.nif
+icon: TR\w\TR_w_nord_whammer.tga
+enchanting: TR_i3-591_en_Kaladan
+data:
+  weight: 35.0
+  value: 2000
+  weapon_type: BluntTwoClose
+  health: 800
+  speed: 1.0
+  reach: 1.5
+  enchantment: 150
+  chop_min: 1
+  chop_max: 38
+  slash_min: 1
+  slash_max: 15
+  thrust_min: 1
+  thrust_max: 10
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE | SILVER

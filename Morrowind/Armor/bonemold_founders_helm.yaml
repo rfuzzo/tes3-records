@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: bonemold_founders_helm
+name: Redoran Founder's Helm
+script: ''
+mesh: a\A_Bonemold_Helmet.nif
+icon: a\TX_Bonemold_helmet.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: Head
+  male_bodypart: a_bonemold_helmet
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 4.4
+  value: 150
+  health: 180
+  enchantment: 200
+  armor_rating: 18

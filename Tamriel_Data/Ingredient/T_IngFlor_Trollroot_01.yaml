@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_Trollroot_01
+name: Trollroot Fiber
+script: ''
+mesh: sky\n\sky_ingred_trollroot.nif
+icon: sky\n\tx_ingred_trollr.dds
+data:
+  weight: 1.0
+  value: 3
+  effects:
+  - Poison
+  - FortifyAttackBonus
+  - WeaknessToFire
+  - CureParalyzation
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

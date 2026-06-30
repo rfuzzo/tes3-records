@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_Barendreth_Vamp
+name: ''
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: ''
+enchanting: ''
+text: "Hostile Vampire\r\n\r\nShould be scripted to attack ordinators on sight "
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

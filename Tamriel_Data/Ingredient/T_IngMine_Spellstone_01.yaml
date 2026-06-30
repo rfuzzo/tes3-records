@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngMine_Spellstone_01
+name: Spellstone
+script: ''
+mesh: TR\n\tr_ing_spellstone.nif
+icon: TR\n\tr_ing_spellstone.dds
+data:
+  weight: 0.5
+  value: 200
+  effects:
+  - DamageFatigue
+  - SpellAbsorption
+  - RestoreMagicka
+  - Telekinesis
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

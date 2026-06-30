@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: in_t_pc_hold_door_small_load_a
+name: ''
+script: Strong3
+mesh: d\In_T_door_small_load.NIF

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_bk_ET-15_study
+name: Tarhiel's Study Book
+script: ''
+mesh: TR\m\TR_book_closed_i02_AY.nif
+icon: TR\m\TR_book_closed_i02_AY.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This book appears to contain extensive studies concerning the magic of flight. Statements are inscribed next to a number of attempted techniques, indicating their levels of success. Court Wizard Tarhiel has signed his name inside the cover.]<BR>\r\n"
+data:
+  weight: 3.0
+  value: 180
+  book_type: Book
+  skill: None
+  enchantment: 0

@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Mw_Flora_Scathecraw08
+name: Scathecraw Plant
+script: ''
+mesh: tr\o\tr_f_scathecrawtree_04.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - random_scathecraw

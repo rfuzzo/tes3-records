@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngMine_Charcoal_01
+name: Charcoal
+script: ''
+mesh: TR\N\tr_ing_charcoal.nif
+icon: tr\n\tr_ing_charcoal.dds
+data:
+  weight: 0.5
+  value: 1
+  effects:
+  - Sound
+  - DrainHealth
+  - CureCommonDisease
+  - ResistFire
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

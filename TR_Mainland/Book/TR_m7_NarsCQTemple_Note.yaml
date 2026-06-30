@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_NarsCQTemple_Note
+name: ''
+script: ''
+mesh: tr\tr_note_pin.nif
+icon: ''
+enchanting: ''
+text: hey warped, look here its a restocking chest i made - aveno
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

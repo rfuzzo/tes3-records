@@ -1,0 +1,11 @@
+type: MiscItem
+flags: PERSISTENT
+id: BM_Seeds_UNIQUE
+name: Strange Seeds
+script: ''
+mesh: f\Act_BM_seeds_01.NIF
+icon: n\Tx_ingred_seeds_01.dds
+data:
+  weight: 1.0
+  value: 5
+  flags: KEY

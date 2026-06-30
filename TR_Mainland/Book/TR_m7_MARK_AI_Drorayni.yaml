@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_MARK_AI_Drorayni
+name: Drorayni Ranil
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: ''
+enchanting: ''
+text: "Drorayni Ranil moves here after completing her misc quest, Infestation and Eviction\r\nNPC ID: TR_m7_Drorayni Ranil\r\nScript: TR_m7_AI_Infestation_ScMove"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

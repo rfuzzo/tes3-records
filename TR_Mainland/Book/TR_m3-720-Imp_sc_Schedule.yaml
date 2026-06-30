@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3-720-Imp_sc_Schedule
+name: A Work Schedule
+script: ''
+mesh: m\Text_Parchment_02.nif
+icon: m\Tx_scroll_open_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This is a work schedule for one of the barristers. It lists the dates set for client appointments, official hearings, and such. No particular date or name jumps out.] <BR>\r\n"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

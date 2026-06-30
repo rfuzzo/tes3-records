@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_Strawberry_01
+name: Strawberry
+script: ''
+mesh: pc\n\pc_ing_strawberry.nif
+icon: pc\n\pc_tx_ingred_strawb.dds
+data:
+  weight: 0.05
+  value: 2
+  effects:
+  - RestoreFatigue
+  - DamageAttribute
+  - DrainHealth
+  - CurePoison
+  skills:
+  - None
+  - Block
+  - None
+  - None
+  attributes:
+  - None
+  - Willpower
+  - None
+  - None

@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: TR_m1_Ench_Towershield
+name: Mirror Shield
+script: ''
+mesh: a\TowerShield_steel.NIF
+icon: a\Tx_towershield_steel.tga
+enchanting: TR_m1_Mirror
+biped_objects:
+- biped_object_type: Shield
+  male_bodypart: towershield_steel
+  female_bodypart: ''
+data:
+  armor_type: Shield
+  weight: 5.0
+  value: 5000
+  health: 30
+  enchantment: 0
+  armor_rating: 6

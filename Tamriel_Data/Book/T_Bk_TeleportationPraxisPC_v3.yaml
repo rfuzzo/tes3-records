@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_TeleportationPraxisPC_v3
+name: Teleportation Praxis, Vol. III
+script: ''
+mesh: pc\m\pc_bk_book_17.nif
+icon: pc\m\pc_bk_book_17.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nTELEPORTATION: PREMISE & PRAXIS - Vol. III<BR>\r\nby Voganna Plotinus<BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nTHE CELAUDINE METHOD<BR>\r\n<BR>The modern method of teleportation was discovered in 2E 662 by Celaud Mabeurre, a Breton mage associated with the College of Gwylim. It is said that Celaud labored over this work his entire life, arriving at a functioning spell only months before his death.\r\n<BR>\r\nAt the time, the question of self-catalyzed teleportation had - literally - consumed Breton academia for decades, with many of Gwylim's best and brightest falling victim to ill-conceived arcane mishaps. Gwylim's Twist Hall, with its petrified figures and fused horrors, remains a sobering reminder of the risks our predecessors took in developing spells we now take for granted.\r\n<BR>\r\nAfter decades of grueling experimentation, Celaud's mark-and-recall \"spiritual anchor\" method finally managed a stable transportation which avoid the unfortunate and bloody results of his peers. It took another two decades after Celaud's death for his assistant to transcribe and refine the spells into a functional and practical shape.\r\n<BR>\r\nDespite this success, it would take centuries before Celaudine teleportation became commonplace. The new form of magic agitated the anti-intellectual sentiments of which the Interregnum was rife. Many among the common people feared that mages were stealing souls, replacing those transported with doppelgangers, or that they secretly changed the destination of spells to whisk their users away to distant prisons.\r\n<BR>\r\nAmong the myopic kings of High Rock, teleportation was seen as a challenge to their rule. The nobility was alarmed by the implications of this magic, which they thought would make institutions like serfdom and prisons obsolete. As such, early practitioners of teleportation were often persecuted, and until the re-establishment of trans-provincial scholarship under the Septimite Mages Guild renewals, it remained an obscure and suspicious practice.<BR>"
+data:
+  weight: 3.0
+  value: 120
+  book_type: Book
+  skill: None
+  enchantment: 0

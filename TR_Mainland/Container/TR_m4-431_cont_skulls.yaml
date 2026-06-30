@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m4-431_cont_skulls
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 5
+  - misc_skull00

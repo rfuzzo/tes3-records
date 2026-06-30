@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Rga_WoodCutlery_01
+name: Wooden Fork
+script: ''
+mesh: hf\m\hf_misc_rga_WdCutl_01.nif
+icon: hf\m\hf_misc_rga_WdCutl_01.dds
+data:
+  weight: 0.3
+  value: 1
+  flags: ''

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_HH_Farasad_diary
+name: Farasad's Diary
+script: TR_m7_HH_FarasadDiary_sc
+mesh: tr\m\tr_book_notebk_03.nif
+icon: tr\m\tr_book_closed_ntbk03.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This is Farasad's personal journal. Farasad was a recruit in the Imperial Legion, dispatched on the  Chrysanthippus as part of the expeditionary force to retake the Saros Archipelago. Some of the final entries describe in detail how Sirius Cinna's actions led to the failure of the expedition. Vibius Verturius is mentioned as one of the few trying to talk sense into Cinna.] <BR>\r\n"
+data:
+  weight: 0.5
+  value: 2
+  book_type: Book
+  skill: None
+  enchantment: 0

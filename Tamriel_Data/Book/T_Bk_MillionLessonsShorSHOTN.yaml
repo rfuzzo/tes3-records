@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_MillionLessonsShorSHOTN
+name: The Million Lessons of Shor
+script: ''
+mesh: Sky\m\Sky_Book_Saga_02.nif
+icon: Sky\m\Tx_Book_Saga_02.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe Million Lessons of Shor<BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nIn the time of Shor, the mightiest and handsomest of the gods-\r\n<BR>\r\nHe was passing through the lands of the northeast, before the war with the golden-mer. Shor came to the village of the jellybag-herders, disguised as an inconspicuous traveler. Shor took a jellybag-herder's wife and said:\r\n<BR>\r\n'I am the Children's God, chief of all others. In you is beauty enough to take my bed, which you will keep until my boredom comes.'\r\n<BR>\r\nThen Shor threw the jellybag-herder's wife into his bed, where she experienced seven or eight months with the handsomest of the gods, until at last his boredom came. Soon after, she was thrown back into the village of golden-mer, who, upon seeing her pregnant belly, accused her of adultery.\r\n<BR>\r\nIn a desperate attempt to save herself, the jellybag-herder's wife came up with the most ridiculous of stories: \r\n<BR>\r\n'I was approached by Ayem, who cast a spell on me and sent me to the castles of the dreugh deep beneath the ocean's surface...'\r\n<BR>\r\nOn and on she went, making up stories of her encounter with a Lord of Clocks, seven Demons, Dwarves, and a great number of odd things. Her fellow jellybag-herders, captivated by her false tale, sent her to the Mourning Hold, where the god-kings of the golden-mer accepted her story with zeal.\r\n<BR>\r\nAnd thus the bastard-child of Shor was raised as a king among the golden-mer, who still remain blind to the simplest of truths. \r\n<BR>\r\nAnd the ending of the words is SHOR.\r\n<BR><BR>"
+data:
+  weight: 3.0
+  value: 15
+  book_type: Book
+  skill: None
+  enchantment: 0

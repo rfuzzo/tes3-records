@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Rga_Lamellar_Helm_Y
+name: Redguard Lamellar Helmet
+script: ''
+mesh: pc\a\pc_a_kali_helm_y_gnd.nif
+icon: pc\a\pc_a_kali_helmet_y.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Hair
+  male_bodypart: T_A_RgaLamellar_Helm_Y
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 1.5
+  value: 26
+  health: 100
+  enchantment: 50
+  armor_rating: 8

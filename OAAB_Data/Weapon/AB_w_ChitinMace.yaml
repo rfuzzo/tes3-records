@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_ChitinMace
+name: Chitin Mace
+script: ''
+mesh: OAAB\w\chitin_mace.nif
+icon: OAAB\w\tx_chitin_mace.dds
+enchanting: ''
+data:
+  weight: 7.0
+  value: 15
+  weapon_type: BluntOneHand
+  health: 600
+  speed: 1.3
+  reach: 1.0
+  enchantment: 25
+  chop_min: 1
+  chop_max: 8
+  slash_min: 1
+  slash_max: 8
+  thrust_min: 1
+  thrust_max: 2
+  flags: ''

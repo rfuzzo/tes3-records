@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m7_Ns_JNS_3_TombTable
+name: ''
+script: TR_m7_Ns_JNS_3_ScTombObjEnable
+mesh: tr\f\tr_furn_de_p_table_04.nif

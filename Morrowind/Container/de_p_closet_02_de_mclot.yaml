@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: de_p_closet_02_de_mclot
+name: Closet
+script: ''
+mesh: o\Contain_De_Closet_02.NIF
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - random_de_shirt
+- - 1
+  - random_de_shoes_common
+- - 1
+  - random_de_pants
+- - 1
+  - random_loot_special

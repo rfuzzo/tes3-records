@@ -1,0 +1,23 @@
+type: Container
+flags: ''
+id: TR_m2_i2-274_deadcorpse
+name: Drowned Corpse of a Warrior
+script: ''
+mesh: o\contain_corpse10.NIF
+encumbrance: 120.0
+container_flags: IS_BASE
+inventory:
+- - 100
+  - Gold_001
+- - 1
+  - TR_m2_i274_key_daegrottochest
+- - 1
+  - common_amulet_04
+- - 1
+  - ingred_bonemeal_01
+- - 1
+  - nordic_leather_shield
+- - 1
+  - nordic_ringmail_cuirass
+- - 1
+  - silver shardaxe

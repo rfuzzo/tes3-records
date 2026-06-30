@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_FishLongfinFilet_01
+name: Longfin Filet
+script: ''
+mesh: pc\n\pc_ing_longfin.nif
+icon: pc\n\pc_tx_ingred_longfin.dds
+data:
+  weight: 0.5
+  value: 14
+  effects:
+  - RestoreFatigue
+  - DrainAttribute
+  - DrainMagicka
+  - FortifyFatigue
+  skills:
+  - None
+  - Block
+  - None
+  - None
+  attributes:
+  - None
+  - Speed
+  - None
+  - None

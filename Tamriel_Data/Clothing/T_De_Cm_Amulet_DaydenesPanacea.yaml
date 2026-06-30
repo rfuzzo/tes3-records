@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_De_Cm_Amulet_DaydenesPanacea
+name: Amulet of Daydene's Panacea
+script: ''
+mesh: c\amulet_common_1.nif
+icon: c\tx_amulet_com1.dds
+enchanting: T_Use_DaydenesPanacea
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 25
+  enchantment: 150

@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: T_HamRga_FurnR_Dw1Empty
+name: Drawers
+script: ''
+mesh: hf\f\hf_furn_rga_r_Drwer1.nif
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory: []

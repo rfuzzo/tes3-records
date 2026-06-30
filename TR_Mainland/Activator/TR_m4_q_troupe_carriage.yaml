@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_q_troupe_carriage
+name: Broken Carriage
+script: TR_m4_q_Troupe_disappear
+mesh: tr\f\tr_furn_wood_wagon.nif

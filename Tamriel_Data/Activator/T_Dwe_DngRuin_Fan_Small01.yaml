@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Dwe_DngRuin_Fan_Small01
+name: ''
+script: Sound_Dwemer_Fan
+mesh: tr\f\tr_furn_dwrv_fan_small.nif

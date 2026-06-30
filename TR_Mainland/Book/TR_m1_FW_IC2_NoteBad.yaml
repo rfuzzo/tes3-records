@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_FW_IC2_NoteBad
+name: Letter from Gilara Renus
+script: ''
+mesh: m\text_parchment_02.nif
+icon: m\tx_parchment_02.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nTarom,<BR><BR>\r\nI will resume my donations to the chapel, however I would like to express my deepest reservations about the most brutish person you visited me. You are a godly man, and ours is a goodly God. Your agent is a violent and threateneing %PCRace, who does not speak with His word. It insults my faith to be treated in this manner, by one of His ostensible servants. I trust in future you will be more selective.<BR><BR>\r\n<DIV ALIGN=\"RIGHT\">\r\nGilara Renus<BR>"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

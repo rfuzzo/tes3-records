@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_q_Bah_GuarHigh
+name: Ember Keep Guar Contract
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nContract for Purchase of Guar <BR>\r\n<BR>\r\nI, Pontius Golius, on behalf of Jandacia, Duchess of Telvannis, hereby agree to purchase guar from Neldam Heran of Bahrammu, Farmer, at the price of of 300 (three hundred) septims per guar. <BR>\r\n<BR>\r\nNeldam Heran shall agree to provide guar without delay upon request, and that aforementioned guar shall be of full height and weight and free of disease. \r\n<BR>\r\nSeal of Her Grace, Duchess of Telvannis <BR>\r\nPerulia Jandacia <BR>\r\n\r\n"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

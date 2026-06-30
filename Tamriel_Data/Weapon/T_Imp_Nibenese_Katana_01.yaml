@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Imp_Nibenese_Katana_01
+name: Nibenese Katana
+script: ''
+mesh: tr\w\tr_w_nibenese_katana.nif
+icon: tr\w\tr_w_nibenese_katana.dds
+enchanting: ''
+data:
+  weight: 16.5
+  value: 200
+  weapon_type: LongBladeOneHand
+  health: 1000
+  speed: 1.5
+  reach: 1.0
+  enchantment: 68
+  chop_min: 2
+  chop_max: 21
+  slash_min: 1
+  slash_max: 19
+  thrust_min: 1
+  thrust_max: 7
+  flags: ''

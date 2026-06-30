@@ -1,0 +1,23 @@
+type: Container
+flags: ''
+id: TR_m4_bodrum_trader_cra
+name: Crate
+script: ''
+mesh: o\Contain_crate_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Com_Wood_Crossbow_01
+- - 100
+  - chitin arrow
+- - 1
+  - chitin short bow
+- - 50
+  - iron arrow
+- - 50
+  - iron bolt
+- - 1
+  - short bow
+- - 20
+  - steel throwing star

@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: chest_tomb_Andrano02
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - nordic battle axe
+- - 1
+  - repair_journeyman_01
+- - 1
+  - repair_prongs

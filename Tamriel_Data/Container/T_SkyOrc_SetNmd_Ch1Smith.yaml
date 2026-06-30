@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: T_SkyOrc_SetNmd_Ch1Smith
+name: Orc Chest
+script: ''
+mesh: Sky\o\Sky_Cont_Orc_Chest_01.nif
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - repair_journeyman_01
+- - 1
+  - repair_master_01
+- - 3
+  - repair_prongs

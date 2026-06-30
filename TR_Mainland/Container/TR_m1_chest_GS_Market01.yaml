@@ -1,0 +1,31 @@
+type: Container
+flags: ''
+id: TR_m1_chest_GS_Market01
+name: Chest
+script: ''
+mesh: o\Contain_Com_Chest_01.NIF
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - 3
+  - Misc_DE_glass_green_01
+- - 1
+  - Misc_Imp_Silverware_Cup_01
+- - 3
+  - misc_clothbolt_01
+- - 5
+  - misc_com_plate_02
+- - 1
+  - misc_de_drum_01
+- - 2
+  - misc_flask_02
+- - 1
+  - misc_imp_silverware_pitcher
+- - 1
+  - misc_imp_silverware_plate_01
+- - 1
+  - misc_rollingpin_01
+- - 1
+  - misc_shears_01
+- - 2
+  - misc_uni_pillow_01

@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: contain_corpse21
+name: Drowned Corpse
+script: ''
+mesh: o\contain_corpse20.NIF
+encumbrance: 120.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - l_n_amulet
+- - 1
+  - l_n_probe
+- - 1
+  - l_n_rings
+- - 1
+  - random gold

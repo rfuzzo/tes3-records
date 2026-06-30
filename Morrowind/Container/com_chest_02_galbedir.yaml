@@ -1,0 +1,21 @@
+type: Container
+flags: ''
+id: com_chest_02_galbedir
+name: Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - -2
+  - l_m_enchantitem_imperial_rank0
+- - -2
+  - l_m_enchantitem_hlaalu_rank4
+- - -2
+  - l_m_enchantitem_hlaalu_rank0
+- - -2
+  - l_m_enchantitem_redoran_rank4
+- - -2
+  - l_m_enchantitem_telvanni_rank01
+- - -2
+  - l_m_enchantitem_temple_rank0_2

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_UNI_ArmisticeTreaty
+name: Treaty of the Armistice
+script: ''
+mesh: tr\m\tr_note_uni_armistice2.nif
+icon: tr\m\tr_sc_armistice_uni2.dds
+data:
+  weight: 0.1
+  value: 300000
+  flags: ''

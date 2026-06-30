@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m3_OE_MG_HalfMazeWall1
+name: ''
+script: ''
+mesh: i\in_c_wall_rich.nif

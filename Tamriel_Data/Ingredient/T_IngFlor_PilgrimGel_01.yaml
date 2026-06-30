@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_PilgrimGel_01
+name: Pilgrim's Gel
+script: ''
+mesh: tr\f\tr_flora_pilgring_02.nif
+icon: tr\n\tr_ing_pilgrim_02.dds
+data:
+  weight: 0.2
+  value: 5
+  effects:
+  - RestoreFatigue
+  - Feather
+  - DrainAttribute
+  - Mark
+  skills:
+  - None
+  - Block
+  - Block
+  - None
+  attributes:
+  - None
+  - Speed
+  - Strength
+  - None

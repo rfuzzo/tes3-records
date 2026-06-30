@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: bm_ebonylongsword_s
+name: Shadowsting
+script: ''
+mesh: w\W_Longsword_ebony.nif
+icon: w\Tx_Longsword_Ebony.tga
+enchanting: shadowstrike_en
+data:
+  weight: 40.0
+  value: 5000
+  weapon_type: LongBladeOneHand
+  health: 1600
+  speed: 1.35
+  reach: 1.0
+  enchantment: 120
+  chop_min: 2
+  chop_max: 27
+  slash_min: 1
+  slash_max: 37
+  thrust_min: 10
+  thrust_max: 50
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

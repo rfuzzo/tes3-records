@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_LamplightResin_01
+name: Lamplight
+script: ''
+mesh: tr\n\tr_lamplight.nif
+icon: tr\n\tr_tx_ing_lamplight.dds
+data:
+  weight: 0.5
+  value: 15
+  effects:
+  - WeaknessToFire
+  - NightEye
+  - RestoreAttribute
+  - None
+  skills:
+  - None
+  - None
+  - Block
+  - None
+  attributes:
+  - None
+  - None
+  - Luck
+  - None

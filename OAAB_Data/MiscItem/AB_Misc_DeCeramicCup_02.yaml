@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_DeCeramicCup_02
+name: Ceramic Tea Cup
+script: ''
+mesh: OAAB\m\misc_ceramic_teacup.nif
+icon: OAAB\m\misc_ceramic_teacup.dds
+data:
+  weight: 2.0
+  value: 2
+  flags: ''

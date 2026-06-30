@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_bear_pelt
+name: Bear Pelt
+script: ''
+mesh: n\Ingred_Hide_BrnBear.NIF
+icon: n\Tx_ingred_Hide_BrnBear.dds
+data:
+  weight: 1.0
+  value: 2
+  effects:
+  - DrainFatigue
+  - FortifyAttribute
+  - ResistCommonDisease
+  - NightEye
+  skills:
+  - None
+  - Block
+  - None
+  - None
+  attributes:
+  - None
+  - Strength
+  - None
+  - None

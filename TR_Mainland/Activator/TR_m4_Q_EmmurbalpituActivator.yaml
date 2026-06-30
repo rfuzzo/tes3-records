@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m4_Q_EmmurbalpituActivator
+name: ''
+script: TR_m4_Q_EmmurbalpituActScript
+mesh: EditorMarker.NIF

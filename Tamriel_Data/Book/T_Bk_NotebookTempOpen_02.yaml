@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_NotebookTempOpen_02
+name: <Template Notebook>
+script: ''
+mesh: tr\m\tr_book_notebk_o_02.nif
+icon: tr\m\tr_book_open_ntbk02.dds
+enchanting: ''
+text: ''
+data:
+  weight: 0.5
+  value: 10
+  book_type: Book
+  skill: None
+  enchantment: 0

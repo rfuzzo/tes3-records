@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_Bluefoot_01
+name: Bluefoot
+script: ''
+mesh: TR\n\TR_Ing_Bluefoot.nif
+icon: TR\n\TR_Ing_Bluefoot.dds
+data:
+  weight: 0.1
+  value: 1
+  effects:
+  - DrainFatigue
+  - WaterWalking
+  - Poison
+  - Dispel
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

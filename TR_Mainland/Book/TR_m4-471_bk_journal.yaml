@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4-471_bk_journal
+name: Journal
+script: ''
+mesh: m\text_quarto_02.nif
+icon: m\tx_quarto_02.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[The journal chronicles the life of a simple peasant who became a thief. You notice that it starts off as a list of items stolen. Some gold from a person in Almalexia; a silver dagger from a tomb somewhere upstream; the list goes on. The journal recounts how he joined various bandit groups before forming his own sometime in the not too distant past -- hard to tell without dates. The last few entries catch your attention.] ...\r\n<BR>\r\nWe happened across some old dwemer ruins today. No door. The whole place has sunk into the mud. We need a good hideout. Camping here for the night.\r\n<BR>\r\nK'lam thinks he can find the door. I'll scout out the area while the rest dig.\r\n<BR>\r\nLocals have just about forgotten this place. No ones been here in decades. K'lam was right about the door. Itub is a s'wit -no sooner did we have the door cleared and she went rushing in. Stupid Orc. The place is swarming with those damn dwemer spiders. We all laughed when Itub came running out. Orcs turn a funny shade of green when scared. Tomorrow we clean the ruins out.\r\n<BR>\r\nDamn Catman. K'lam just had to go exploring the deeper parts of the ruins and Itub tagged along to help. Before we knew it, the sound of fighting and metal clanging echoed throughout the place. Became quiet again before the rest of us even reached the door. K'lam and Itub both likely dead. I peeked into the area and saw those damn dwemer balls rolling around. Now we need new recruits. Found key to lock door. No one goes down there until I say so.\r\n<BR>"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

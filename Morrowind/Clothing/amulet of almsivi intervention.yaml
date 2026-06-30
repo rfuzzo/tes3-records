@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: amulet of almsivi intervention
+name: Amulet of Almsivi Intervention
+script: ''
+mesh: c\Amulet_Common_3.NIF
+icon: c\tx_amulet_com3.tga
+enchanting: almsivi intervention_en
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 21
+  enchantment: 10

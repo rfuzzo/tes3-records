@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: BM_IC_small_bright
+name: ''
+script: ''
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 384
+  color:
+  - 55
+  - 112
+  - 121
+  - 0
+  flags: ''

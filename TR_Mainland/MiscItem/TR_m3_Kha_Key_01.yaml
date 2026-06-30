@@ -1,0 +1,11 @@
+type: MiscItem
+flags: PERSISTENT
+id: TR_m3_Kha_Key_01
+name: A Glowing Key
+script: TR_m3_Kha_Key_Journal_Sc
+mesh: m\Key_Daedric_01.NIF
+icon: m\Tx_key_daedric.dds
+data:
+  weight: 0.0
+  value: 300
+  flags: KEY

@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: TR_m2_ring_champ_urn
+name: Urn labeled "En-Duur"
+script: ''
+mesh: o\contain_urn_05.nif
+encumbrance: 25.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - TR_m2_enduur_key_chest
+- - 1
+  - TR_m2_necrom_enduur_uni
+- - 3
+  - glass throwing star

@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: T_HamRga_FurnR_Dr1Empty
+name: Dresser
+script: ''
+mesh: hf\f\hf_furn_rga_r_Drsser1.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory: []

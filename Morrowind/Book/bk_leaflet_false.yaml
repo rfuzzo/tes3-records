@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: bk_leaflet_false
+name: A Leaflet
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nBEWARE!!!! <BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nHAVE NO DEALINGS with AURANE FRERNIS!!! <BR>\r\nShe is known to be both UNDERHANDED and UNETHICAL in her dealings!!! <BR>\r\nThe materials she uses are both SHODDY and DANGEROUS!!! <BR>\r\nYou could come to GREAT HARM from her products. <BR>\r\nHer shop should be AVOIDED AT ALL COSTS!!! <BR>\r\nSee these testimonials:<BR>\r\n<BR>\r\n\"I took potion and got sick. Lost good lunch.\" - Grugbob G.<BR>\r\n \"Her materials looked old and stale. Not good for alchemical use.\" - Daren O.<BR>\r\n \"She should be disemboweled and fed to nix hounds.\" - Hlorngar F.<BR>\r\n<BR>\r\n"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

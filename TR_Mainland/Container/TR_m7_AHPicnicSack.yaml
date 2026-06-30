@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m7_AHPicnicSack
+name: Cloth Sack
+script: TR_m7_AffairsHeartPicnic_sc
+mesh: o\Contain_Com_Sack_02.nif
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Mw_Random_CheapfoodDunmerM1/2

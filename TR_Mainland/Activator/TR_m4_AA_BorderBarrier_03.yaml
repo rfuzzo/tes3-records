@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_AA_BorderBarrier_03
+name: ''
+script: TR_m4_AA_BorderBarrier_scp
+mesh: tr\x\tr_terrain_rocks_rm_02.nif

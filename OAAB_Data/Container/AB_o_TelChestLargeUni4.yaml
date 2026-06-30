@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: AB_o_TelChestLargeUni4
+name: Large Telvanni Chest
+script: ''
+mesh: OAAB\o\t_chest_large.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 10
+  - AB_lvl_TelLoot

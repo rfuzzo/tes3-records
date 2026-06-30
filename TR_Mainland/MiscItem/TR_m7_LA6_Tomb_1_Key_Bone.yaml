@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m7_LA6_Tomb_1_Key_Bone
+name: Bone Key
+script: ''
+mesh: TR\m\TR_Key_DD00.NIF
+icon: TR\m\TR_Key_DD00.dds
+data:
+  weight: 0.0
+  value: 0
+  flags: KEY

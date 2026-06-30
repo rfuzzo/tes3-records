@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_He_NacrePlate_01
+name: Nacre Plate
+script: ''
+mesh: sum\m\m_nacre_mop_plate01.nif
+icon: sum\m\sum_m_nacre_plt1.dds
+data:
+  weight: 2.0
+  value: 12
+  flags: ''

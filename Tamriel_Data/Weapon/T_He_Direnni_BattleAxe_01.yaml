@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_He_Direnni_BattleAxe_01
+name: Old Elven Battle Axe
+script: ''
+mesh: Sky\w\sky_direnni_axe_02.nif
+icon: sky\w\tx_dir_axe_02.dds
+enchanting: ''
+data:
+  weight: 25.0
+  value: 400
+  weapon_type: AxeTwoHand
+  health: 1500
+  speed: 1.07
+  reach: 1.0
+  enchantment: 160
+  chop_min: 1
+  chop_max: 32
+  slash_min: 1
+  slash_max: 29
+  thrust_min: 1
+  thrust_max: 8
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

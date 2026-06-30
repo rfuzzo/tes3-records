@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: TR_m3_indshield_i3-606-ind
+name: Indoril Guard Shield
+script: ''
+mesh: TR\a\TR_a_ind_shield_01.NIF
+icon: TR\a\TR_a_ind_shield_01.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Shield
+  male_bodypart: T_A_DeIndBonemoldShield01_S
+  female_bodypart: ''
+data:
+  armor_type: Shield
+  weight: 13.0
+  value: 250
+  health: 340
+  enchantment: 600
+  armor_rating: 17

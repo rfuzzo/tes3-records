@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_Hourglass
+name: Hourglass
+script: ''
+mesh: OAAB\m\hourglass_wl.nif
+icon: OAAB\m\hourglass_wood.tga
+data:
+  weight: 0.75
+  value: 16
+  flags: ''

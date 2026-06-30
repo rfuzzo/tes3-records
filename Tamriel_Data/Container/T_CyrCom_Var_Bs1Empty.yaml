@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: T_CyrCom_Var_Bs1Empty
+name: Basket
+script: ''
+mesh: pc\o\pc_cont_basket_01.nif
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory: []

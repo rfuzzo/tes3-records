@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: Amber
+name: ''
+script: ''
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 256
+  color:
+  - 207
+  - 86
+  - 14
+  - 0
+  flags: ''

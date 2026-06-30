@@ -1,0 +1,22 @@
+type: Armor
+flags: ''
+id: BM_bear_left_gauntlet_snow
+name: Snow Bear Left Gauntlet
+script: ''
+mesh: a\A_Bear2_Gauntlet_GND.NIF
+icon: A\Tx_Bear2_Gauntlet.dds
+enchanting: snow shield
+biped_objects:
+- biped_object_type: LeftHand
+  male_bodypart: A_Bear2_gauntlet
+  female_bodypart: ''
+- biped_object_type: LeftWrist
+  male_bodypart: ''
+  female_bodypart: ''
+data:
+  armor_type: LeftGauntlet
+  weight: 4.0
+  value: 2000
+  health: 80
+  enchantment: 10
+  armor_rating: 35

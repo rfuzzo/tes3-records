@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_Cleet_01
+name: Cleet
+script: ''
+mesh: pc\m\PC_misc_cleet.nif
+icon: pc\m\pc_tx_cleet.dds
+data:
+  weight: 1.0
+  value: 1
+  flags: ''

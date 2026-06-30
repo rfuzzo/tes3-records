@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_RockburstPod_01
+name: Rockburst Pod
+script: ''
+mesh: tdg\tr_ing_rockburst.nif
+icon: tdg\tr_ing_rockburst.dds
+data:
+  weight: 1.5
+  value: 10
+  effects:
+  - FireDamage
+  - ResistFrost
+  - WeaknessToFire
+  - NightEye
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

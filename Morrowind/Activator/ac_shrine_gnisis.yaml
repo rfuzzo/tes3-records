@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: ac_shrine_gnisis
+name: Shrine of the Mask
+script: shrineGnisis
+mesh: f\Furn_triolith_01.nif

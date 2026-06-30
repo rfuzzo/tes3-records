@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_HrCom_Var_Pot1Gem
+name: Pot
+script: ''
+mesh: hr\o\hr_cont_pot_small_01.nif
+encumbrance: 10.0
+container_flags: IS_BASE
+inventory:
+- - 3
+  - T_Hr_Random_Gem

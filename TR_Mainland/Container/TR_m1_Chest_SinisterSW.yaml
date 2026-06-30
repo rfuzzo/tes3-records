@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: TR_m1_Chest_SinisterSW
+name: Worn chest
+script: ''
+mesh: o\Contain_De_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 320
+  - Gold_001
+- - 1
+  - T_Com_Iron_Dagger_02
+- - 2
+  - ingred_pearl_01

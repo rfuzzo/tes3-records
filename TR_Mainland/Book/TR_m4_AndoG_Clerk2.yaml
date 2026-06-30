@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: TR_m4_AndoG_Clerk2
+name: Unfinished Records
+script: ''
+mesh: m\Text_Parchment_01.NIF
+icon: m\Tx_parchment_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n[This unfinished note seems to hold records of various proceedings in Bal Foyen's Imperial Courthouse.]<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

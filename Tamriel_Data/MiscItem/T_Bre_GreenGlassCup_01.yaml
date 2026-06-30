@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Bre_GreenGlassCup_01
+name: Green Glass Cup
+script: ''
+mesh: hr\m\hr_misc_gglass_cup_01.nif
+icon: hr\m\hr_misc_gglass_cup_01.dds
+data:
+  weight: 1.0
+  value: 2
+  flags: ''

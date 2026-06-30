@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_HamCom_Var_Cr3Food
+name: Crate
+script: ''
+mesh: hf\o\hf_contain_crate_03.nif
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - 6
+  - T_Ham_Random_Food

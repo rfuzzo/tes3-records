@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_Narsis_Catac_oldscroll
+name: Ancient Burial Record
+script: ''
+mesh: tr\m\tr_misc_scroll_tomb.nif
+icon: tr\m\tr_misc_scroll_tomb.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n[The scroll lists all burials in the central chamber of the catacombs. Many names are too faded to read, and a few seem to have been deliberately erased.]<BR>"
+data:
+  weight: 1.1
+  value: 50
+  book_type: Scroll
+  skill: None
+  enchantment: 0

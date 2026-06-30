@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Ayl_WelkyndInv_01
+name: Welkynd Stone
+script: ''
+mesh: pc\m\pc_misc_welkyd_01.nif
+icon: pc\m\pc_misc_welkynd.dds
+data:
+  weight: 1.5
+  value: 45
+  flags: ''

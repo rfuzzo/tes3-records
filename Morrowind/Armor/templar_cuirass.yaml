@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: templar_cuirass
+name: Imperial Templar Knight Cuirass
+script: LegionUniform
+mesh: a\A_Templar_M_Cuirass_GND.nif
+icon: a\Tx_Templar_curaiss.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: templar_chest
+  female_bodypart: ''
+data:
+  armor_type: Cuirass
+  weight: 30.0
+  value: 175
+  health: 540
+  enchantment: 200
+  armor_rating: 18

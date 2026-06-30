@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: TR_m2_dowry_i2-402-tri
+name: Small Chest
+script: ''
+mesh: o\Contain_chest_small_02.NIF
+encumbrance: 25.0
+container_flags: IS_BASE
+inventory:
+- - 45
+  - Gold_001
+- - 2
+  - T_IngMine_Amethyst_01
+- - 1
+  - T_IngMine_Moonstone_01
+- - 2
+  - T_IngMine_Opal_01
+- - 1
+  - T_IngMine_TopazBlue_01

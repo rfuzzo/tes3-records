@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_Pincushion_01
+name: Pincushion
+script: ''
+mesh: OAAB\m\misc_pincushion_01.nif
+icon: OAAB\m\misc_pincushion_01.dds
+data:
+  weight: 0.5
+  value: 8
+  flags: ''

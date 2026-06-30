@@ -1,0 +1,11 @@
+type: MiscItem
+flags: PERSISTENT
+id: TR_m4_q_AAB_key
+name: Llavali's Key
+script: ''
+mesh: m\key_standard_01.nif
+icon: m\tx_key_standard_01.dds
+data:
+  weight: 0.0
+  value: 1
+  flags: KEY

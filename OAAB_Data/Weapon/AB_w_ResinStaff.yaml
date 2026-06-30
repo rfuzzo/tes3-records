@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_ResinStaff
+name: Resin Staff
+script: ''
+mesh: OAAB\w\resin_staff.nif
+icon: OAAB\w\w_resin_staff.tga
+enchanting: ''
+data:
+  weight: 11.0
+  value: 1000
+  weapon_type: BluntTwoWide
+  health: 500
+  speed: 1.75
+  reach: 1.8
+  enchantment: 500
+  chop_min: 2
+  chop_max: 14
+  slash_min: 3
+  slash_max: 14
+  thrust_min: 1
+  thrust_max: 14
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

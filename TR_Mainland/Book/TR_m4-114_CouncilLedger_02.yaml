@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4-114_CouncilLedger_02
+name: Council Ledger
+script: ''
+mesh: pc\m\PC_bk_Book_25.nif
+icon: pc\m\pc_bk_book_25.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This ledger details a dizzying array of taxes, levies and procurements relating to the Bal Foyen Council and its properties over the preceding several years.]<BR>\r\n\r\n"
+data:
+  weight: 2.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 0

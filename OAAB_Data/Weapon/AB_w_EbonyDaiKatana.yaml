@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_EbonyDaiKatana
+name: Ebony Dai-katana
+script: ''
+mesh: OAAB\w\ebony_daikatana.nif
+icon: OAAB\w\ebony_daikatana.dds
+enchanting: ''
+data:
+  weight: 40.0
+  value: 60000
+  weapon_type: LongBladeTwoClose
+  health: 3800
+  speed: 1.35
+  reach: 1.0
+  enchantment: 180
+  chop_min: 1
+  chop_max: 56
+  slash_min: 1
+  slash_max: 48
+  thrust_min: 1
+  thrust_max: 25
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

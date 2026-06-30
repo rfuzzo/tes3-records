@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_EbonyTanto
+name: Ebony Tanto
+script: ''
+mesh: OAAB\w\ebony_tanto.nif
+icon: OAAB\w\ebony_tanto.dds
+enchanting: ''
+data:
+  weight: 10.0
+  value: 10000
+  weapon_type: ShortBladeOneHand
+  health: 700
+  speed: 2.25
+  reach: 1.0
+  enchantment: 46
+  chop_min: 9
+  chop_max: 18
+  slash_min: 9
+  slash_max: 18
+  thrust_min: 9
+  thrust_max: 18
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

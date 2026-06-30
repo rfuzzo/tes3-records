@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_ClothRag_01
+name: Rag
+script: ''
+mesh: TR\m\tr_napkin_sm_Rag2.nif
+icon: TR\m\tr_napkin_sm_Rag2.dds
+data:
+  weight: 1.0
+  value: 1
+  flags: ''

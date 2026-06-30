@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_OE_sc_ETlegiondoc_04
+name: 'Legion Forts: Status Reports'
+script: ''
+mesh: m\Text_Parchment_02.nif
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR> An overview of certain Legion forts in mainland Morrowind based on recent reports (1st of Last Seed 3E 427) <BR> <BR>\r\nFORT ANCYLIS <BR>\r\nCommandant: Rojanna <br>\r\nAlert state: Moth <br>\r\nCurrent status: Commandant Rojanna is recently stationed, and may take time to become acclimated to the locals. No outstanding problems. <br>\r\nRecommended action: none <br> <br>\r\nFORT WINDMOTH <br>\r\nCommandant: Arvs Rethrathi <br>\r\nAlert state: Tiger <br>\r\nCurrent status: In severe disrepair; curtain wall badly damaged. Severe problems with discipline. The commandant has requested financial aid (5,000 septims) for repairs and soldiers' wages. <br>\r\nRecommended action: Fund the necessary repairs of the curtain wall (2,500 septims). Severe measures may be required to restore order if things in the fort do not improve. <br> <br>\r\nFORT CAPRIS <BR>\r\nCommandant: Servas Capris <br>\r\nAlert state: Moth <br>\r\nCurrent status: Commandant Capris reports that trade with the local Telvanni remains stable, and that relations are broadly positive.<br>\r\nRecommended action: none <br> <br>\r\nFORT UMBERMOTH <BR>\r\nCommandant: Cinia Andacia <br>\r\nAlert state: Imp <br>\r\nCurrent status: In mild disrepair. Several cases of drunkenness while on post. Poor relations with local Dunmer.<br>\r\nRecommended action: Prohibit the use of alcohol for all except the high-ranking officers.<br> <br>\r\nFORT DUSTMOTH <BR>\r\nCommandant: Thromil Rufus<br>\r\nAlert state: Tiger <br>\r\nCurrent status: The garrison has poor relations with local ducal guard order, the Order of Firewatch, and Firewatch's residents. Reports of drunkenness and corruption are common. The garrison appears to be substantially undermanned. Knight-Commander Thromil Rufus and the Order of Firewatch remain wary of the high command in Ebonheart.<br>\r\nRecommended action: Attempt to establish trust between high command and Firewatch Legionary authorities. Assess actions on corruption and drunkenness at a later date.<br> <br>\r\nFORT FIREMOTH <BR>\r\nCommandant: (deceased) <br>\r\nAlert state: Dragon <br>\r\nCurrent status: Abandoned. In severe disrepair. Occupied by a hostile army of undead. <br>\r\nRecommended action: Watch the island. Consider using freelancers to retrieve the Ward of Akavir. <br> <br>"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

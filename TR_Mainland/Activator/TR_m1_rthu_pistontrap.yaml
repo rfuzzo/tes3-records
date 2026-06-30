@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m1_rthu_pistontrap
+name: ''
+script: TR_m1_rthu_pistontrapscr
+mesh: tr\i\tr_in_d_hall_pillar_03.nif

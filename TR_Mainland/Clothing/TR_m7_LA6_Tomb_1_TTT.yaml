@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m7_LA6_Tomb_1_TTT
+name: Talisman of Toxic Terror
+script: ''
+mesh: c\Amulet_Madstone.NIF
+icon: c\tx_amulet_Madstone.tga
+enchanting: TR_m7_LA6_Tomb_1_TTT_En
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 3.0
+  value: 2500
+  enchantment: 150

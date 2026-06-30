@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m3_TheRiftCaster
+name: ''
+script: ''
+mesh: editormarker_box_01.nif

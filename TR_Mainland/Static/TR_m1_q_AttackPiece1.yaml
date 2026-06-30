@@ -1,0 +1,4 @@
+type: Static
+flags: PERSISTENT
+id: TR_m1_q_AttackPiece1
+mesh: tr\f\tr_crate_broke02.nif

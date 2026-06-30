@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_TeachingsMasterStudentTR
+name: Teachings of the Master-Student
+script: ''
+mesh: m\Text_Octavo_07.nif
+icon: m\tx_book_01.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nTeachings of the Master-Student<br>\r\nby Taren Omathan<BR><BR>\r\n<DIV ALIGN=\"LEFT\"> <BR><BR>\r\nA beginner's folly: do not enclose the thumb when making a fist, lest you wish to lose it.<BR><BR>\r\nStretch every day, thrice a day, to stay limber in body.<BR><BR>\r\nNever extend the knee past the ankle when lunging forward.<BR><BR>\r\nRedirect rather than block, else you will always lose to the stronger foe.<BR><BR>\r\nOne hand to protect the head always, the other for gut and groin.<BR><BR>\r\nMeditate every day, thrice a day, to stay limber in mind. <BR><BR>\r\nAn undisciplined mind makes for an undisciplined body.<BR><BR>\r\nKnow the three points of bodily attack: throat, solar plexus, groin. Know the three points of cranial attack: eyes, nose, and temple.<BR><BR>\r\nNever strike with knee or elbow in honorable combat.<BR><BR>\r\nAlways begin in chambered position before executing a kick, so as not to betray one's intentions to one's opponent.<BR><BR>\r\nBalance and restraint are key. A master does not lose his form when his target is removed.<BR><BR>\r\nFlow from one movement to the next. A mechanical movement is the construct's weakness.<BR><BR>\r\nPray to your gods every day, thrice a day, to stay limber in spirit.<BR><BR>\r\nFor this one, an attack. For this one, a defense. Every movement is its own counter; wise pairing will set an opponent reeling.<BR><BR>\r\nLet your opponent's strength become yours. Resist by accepting. Counter by harmonizing.<BR><BR>\r\nThe best fight is the one that never happened.\r\n<BR>\r\n\r\n"
+data:
+  weight: 3.0
+  value: 100
+  book_type: Book
+  skill: None
+  enchantment: 100

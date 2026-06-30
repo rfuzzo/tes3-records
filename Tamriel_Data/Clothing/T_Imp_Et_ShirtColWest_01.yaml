@@ -1,0 +1,35 @@
+type: Clothing
+flags: ''
+id: T_Imp_Et_ShirtColWest_01
+name: Extravagant Shirt
+script: ''
+mesh: pc\c\PC_Col_U_Shirt_W1_01G.nif
+icon: pc\c\PC_Col_U_Shirt_W1_01I.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_C_ImpEtShirtColWest01_C
+  female_bodypart: T_C_ImpEtShirtColWest01_CF
+- biped_object_type: LeftUpperArm
+  male_bodypart: T_C_ImpEtShirtColWest01_UA
+  female_bodypart: ''
+- biped_object_type: RightUpperArm
+  male_bodypart: T_C_ImpEtShirtColWest01_UA
+  female_bodypart: ''
+- biped_object_type: LeftForearm
+  male_bodypart: T_C_ImpEtShirtColWest01_Fa
+  female_bodypart: ''
+- biped_object_type: RightForearm
+  male_bodypart: T_C_ImpEtShirtColWest01_Fa
+  female_bodypart: ''
+- biped_object_type: LeftWrist
+  male_bodypart: T_C_ImpEtShirtColWest01_W
+  female_bodypart: ''
+- biped_object_type: RightWrist
+  male_bodypart: T_C_ImpEtShirtColWest01_W
+  female_bodypart: ''
+data:
+  clothing_type: Shirt
+  weight: 2.0
+  value: 60
+  enchantment: 300

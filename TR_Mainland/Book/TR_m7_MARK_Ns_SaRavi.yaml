@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_MARK_Ns_SaRavi
+name: Sa'Ravi
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: ''
+enchanting: ''
+text: "Sa'Ravi from TR_m7_HH_Alvynu_2 gets moved here after the quest is finished\r\nID: TR_m7_SaRavi\r\nPositionCell: \"That should take care of them...\" in topic \"break up a strike\""
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

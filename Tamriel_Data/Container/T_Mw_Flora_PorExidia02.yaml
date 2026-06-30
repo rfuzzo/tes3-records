@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Mw_Flora_PorExidia02
+name: Porous Exidia
+script: ''
+mesh: tr\f\tr_f_porousexidia_02.nif
+encumbrance: 0.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Mw_Random_FlorPorousExidia

@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: TR_SH01_Tomb02_Urn02
+name: Urn
+script: TR_SH01_Tomb02_Ghost_Spawn
+mesh: o\Contain_urn_05.NIF
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - glass jinkblade
+- - 1
+  - ingred_bonemeal_01

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_imp_SilverWareBell_01
+name: Silverware Bell
+script: ''
+mesh: tr\m\tr_misc_silv_bell01.nif
+icon: tr\m\tr_misc_silvbell01.dds
+data:
+  weight: 1.0
+  value: 20
+  flags: ''

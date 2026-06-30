@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_Comatus_01
+name: Comatus Corpinus
+script: ''
+mesh: sky\n\sky_ingred_comatus01.nif
+icon: sky\n\tx_ingred_comatus.dds
+data:
+  weight: 0.3
+  value: 2
+  effects:
+  - FortifyAttribute
+  - DamageAttribute
+  - DrainHealth
+  - RestoreAttribute
+  skills:
+  - Block
+  - Block
+  - None
+  - Block
+  attributes:
+  - Endurance
+  - Strength
+  - None
+  - Intelligence

@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m4_act_rats_platform2
+name: ''
+script: ''
+mesh: tr\x\craneplatformverylong.nif

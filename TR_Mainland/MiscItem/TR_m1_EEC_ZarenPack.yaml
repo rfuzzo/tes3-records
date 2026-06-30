@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m1_EEC_ZarenPack
+name: Zaren's Package
+script: TR_m1_EEC4_ZarenPackSCN
+mesh: m\dwemer_satchel00.NIF
+icon: m\misc_dwe_satchel00.dds
+data:
+  weight: 2.0
+  value: 50
+  flags: ''

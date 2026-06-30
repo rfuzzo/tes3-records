@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_HoomEgg_01
+name: Hoom Egg
+script: ''
+mesh: tr\n\tr_ing_hoom_egg.nif
+icon: tr\n\tr_ing_hoom_egg.dds
+data:
+  weight: 12.0
+  value: 13
+  effects:
+  - RestoreFatigue
+  - FireDamage
+  - FortifyAttribute
+  - ResistNormalWeapons
+  skills:
+  - None
+  - None
+  - Block
+  - None
+  attributes:
+  - None
+  - None
+  - Strength
+  - None

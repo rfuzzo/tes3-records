@@ -1,0 +1,4 @@
+type: Static
+flags: PERSISTENT
+id: In_Thirsk_downstairs
+mesh: i\In_Thirsk.NIF

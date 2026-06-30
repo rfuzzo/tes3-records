@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_Scrollcase_01
+name: Scroll Case
+script: ''
+mesh: pc\m\PC_misc_scrollcase.nif
+icon: pc\m\pc_misc_scrollcase01.dds
+data:
+  weight: 2.0
+  value: 10
+  flags: ''

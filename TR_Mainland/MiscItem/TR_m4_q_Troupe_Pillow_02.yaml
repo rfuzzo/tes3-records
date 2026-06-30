@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m4_q_Troupe_Pillow_02
+name: Pillow
+script: TR_m4_q_Troupe_disappear
+mesh: m\Misc_Uni_Pillow_02.NIF
+icon: m\Misc_Uni_Pillow_02.tga
+data:
+  weight: 1.0
+  value: 1
+  flags: ''

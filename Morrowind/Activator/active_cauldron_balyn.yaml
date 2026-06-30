@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: active_cauldron_balyn
+name: Balyn's Cauldron
+script: poisonfoodScript
+mesh: f\Furn_Com_Cauldron_01.nif

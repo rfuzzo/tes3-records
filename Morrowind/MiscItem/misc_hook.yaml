@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: misc_hook
+name: Hook
+script: ''
+mesh: f\Furn_hook_01.nif
+icon: m\Misc_Hook.tga
+data:
+  weight: 3.0
+  value: 1
+  flags: ''

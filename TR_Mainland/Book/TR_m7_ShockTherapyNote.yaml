@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_ShockTherapyNote
+name: Note to Self
+script: ''
+mesh: m\text_note_02.nif
+icon: m\tx_note_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nNote to self: summon a fire atronarch. Maybe that will warm the place up. Why is it always so blasted cold... I feel like I haven't been warm since leaving Narsis.<BR>\r\n"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_q_Kha_BellScroll
+name: Sixteen Tones of Padhome
+script: ''
+mesh: m\Text_Scroll_01.nif
+icon: m\Tx_scroll_01.tga
+enchanting: TR_m3_q_Kha_BellScroll_ench
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"2\" FACE=\"Daedric\"><BR>Woe! ALMSIVI spoke, our lives a dream! Resdayn's heart will ring true with the melody of fire! To ash and stone, away with ourselves. We wreath ourselves in the light of the three. Wake, wake from these falsehoods! Open your arms, Oblivion! May the Empire of four swirling spokes hold us in peaceful glow. These tones number Troubles squared the steps to our salvation! We shall gather seed in the fields of unsettled respite tonight! The whirling wheel of evil uncoils, its spokes dance, its voids embrace us! The Empires of man shackles us no longer!<BR><BR>\r\n<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"6\" FACE=\"Daedric\">\r\n<BR>\r\nXXXXXLX<BR><FONT COLOR=\"110000\" SIZE=\"6\" FACE=\"Daedric\">\r\nXXXXSXX<BR><FONT COLOR=\"220000\" SIZE=\"6\" FACE=\"Daedric\">\r\nXXXXXLX<BR><FONT COLOR=\"330000\" SIZE=\"6\" FACE=\"Daedric\">\r\nXXXFXXX<BR><FONT COLOR=\"440000\" SIZE=\"6\" FACE=\"Daedric\">\r\n<BR>\r\nXXXXSXX<BR><FONT COLOR=\"550000\" SIZE=\"6\" FACE=\"Daedric\">\r\nXXXFXXX<BR><FONT COLOR=\"660000\" SIZE=\"6\" FACE=\"Daedric\">\r\n<BR>\r\nXXMXXXX<BR><FONT COLOR=\"770000\" SIZE=\"6\" FACE=\"Daedric\">\r\nXXXFXXX<BR><FONT COLOR=\"880000\" SIZE=\"6\" FACE=\"Daedric\">\r\n<BR>\r\nXRXXXXX<BR><FONT COLOR=\"990000\" SIZE=\"6\" FACE=\"Daedric\">\r\nXRXXXXX<BR><FONT COLOR=\"AA0000\" SIZE=\"6\" FACE=\"Daedric\">\r\nXXMXXXX<BR><FONT COLOR=\"BB0000\" SIZE=\"6\" FACE=\"Daedric\">\r\nXRXXXXX<BR><FONT COLOR=\"CC0000\" SIZE=\"6\" FACE=\"Daedric\">\r\n<BR><BR>\r\nDXXXXXX<BR><FONT COLOR=\"DD0000\" SIZE=\"6\" FACE=\"Daedric\">\r\nXRXXXXX<BR><FONT COLOR=\"EE0000\" SIZE=\"6\" FACE=\"Daedric\">\r\n<BR>\r\nDXXXXXX<BR><FONT COLOR=\"FF0000\" SIZE=\"6\" FACE=\"Daedric\">\r\nDXXXXXX<BR><BR><BR><DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">AE KHALAAN GHARTOK PADHOME<BR><BR><BR>"
+data:
+  weight: 0.2
+  value: 160
+  book_type: Scroll
+  skill: None
+  enchantment: 0

@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: rock_glass_02
+name: Raw Glass
+script: ''
+mesh: o\Contain_rock_glass_02.nif
+encumbrance: 0.0
+container_flags: ORGANIC | IS_BASE
+inventory:
+- - 8
+  - random_rawglass

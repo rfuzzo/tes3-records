@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_TV4_Note_01
+name: Spear of Bitter Mercy
+script: ''
+mesh: m\Text_Note_02.nif
+icon: m\Tx_note_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nSpear of Bitter Mercy Inscription\r\n<BR>\r\n[[There is a short inscription in some sort of cipher, followed by these lines:]]\r\n<BR>\r\nSpear of Bitter Mercy\r\nLightning in the hand\r\nMy point bites deep\r\nI end the chase\r\nEven the mightiest are unmade by my touch.\r\n<BR><BR>"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

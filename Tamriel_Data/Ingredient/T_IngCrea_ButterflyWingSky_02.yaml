@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_ButterflyWingSky_02
+name: Scrapling Butterfly Wing
+script: ''
+mesh: sky\n\sky_ing_btrflywing_02.nif
+icon: sky\n\sky_ing_btrflywing_02.dds
+data:
+  weight: 0.1
+  value: 5
+  effects:
+  - Feather
+  - DrainHealth
+  - Chameleon
+  - Sanctuary
+  skills:
+  - Block
+  - None
+  - None
+  - None
+  attributes:
+  - Agility
+  - None
+  - None
+  - None

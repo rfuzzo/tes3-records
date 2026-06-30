@@ -1,0 +1,25 @@
+type: Container
+flags: ''
+id: T_GlbCom_Var_Cr1Ebweave
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Imp_Ebonweave_Boots_01
+- - 1
+  - T_Imp_Ebonweave_BracerL_01
+- - 1
+  - T_Imp_Ebonweave_BracerR_01
+- - 1
+  - T_Imp_Ebonweave_Cuirass_01
+- - 1
+  - T_Imp_Ebonweave_Greaves_01
+- - 1
+  - T_Imp_Ebonweave_Helm_01
+- - 1
+  - T_Imp_Ebonweave_PauldronL_01
+- - 1
+  - T_Imp_Ebonweave_PauldronR_01

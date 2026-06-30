@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_BkGen_NavyCasualties_01
+name: Navy Casualty List
+script: ''
+mesh: pc\m\pc_bk_book_26.nif
+icon: pc\m\pc_bk_book_26.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<DIV ALIGN=\"LEFT\">\n[A list of Navy personnel who have died in military actions. Along with their names is their age, ship they were assigned too, state of service, and the name and adress of their relatives. The back of the book also features several formulaic examples for letters of condolence.]<BR>\n<BR>\n\n\n"
+data:
+  weight: 2.0
+  value: 10
+  book_type: Book
+  skill: None
+  enchantment: 0

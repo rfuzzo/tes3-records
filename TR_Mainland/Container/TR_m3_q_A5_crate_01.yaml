@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: TR_m3_q_A5_crate_01
+name: Wine Crate
+script: TR_m3_q_A5_WineCrate
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 3
+  - T_Imp_Drink_WineFreeEstat_01
+- - 2
+  - T_Imp_Drink_WineWolfsbl_01
+- - 6
+  - tr_m3_q_A5_spoiledwine

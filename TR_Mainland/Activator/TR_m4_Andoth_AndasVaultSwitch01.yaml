@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m4_Andoth_AndasVaultSwitch01
+name: Switch
+script: TR_m4_AndasHiddenSwitch_scp
+mesh: x\ex_gg_gateswitch_01.nif

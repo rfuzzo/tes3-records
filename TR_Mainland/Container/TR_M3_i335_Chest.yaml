@@ -1,0 +1,31 @@
+type: Container
+flags: ''
+id: TR_M3_i335_Chest
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_02.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - -1
+  - T_Com_Chain_Cuirass_03
+- - -1
+  - T_Com_Iron_Cuirass_01
+- - -1
+  - T_Com_Iron_Greaves_02
+- - -1
+  - T_Com_Iron_Helm_02
+- - -1
+  - T_Com_Iron_PauldronL_02
+- - 1
+  - T_Com_Steel_Cuirass_01
+- - -3
+  - hammer_repair
+- - -1
+  - imperial_chain_coif_helm
+- - -1
+  - imperial_chain_greaves
+- - -1
+  - repair_journeyman_01
+- - -4
+  - repair_prongs

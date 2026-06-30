@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Com_SetSky_SignWayLaintar_01
+name: Laintar
+script: ''
+mesh: sky\x\sky_act_rsign_laint1.nif

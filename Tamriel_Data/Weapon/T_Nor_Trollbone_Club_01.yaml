@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Nor_Trollbone_Club_01
+name: Nordic Trollbone Club
+script: ''
+mesh: tr\w\tr_w_trollbone_club.nif
+icon: tr\w\tr_w_trollbone_club.dds
+enchanting: ''
+data:
+  weight: 15.0
+  value: 85
+  weapon_type: BluntOneHand
+  health: 500
+  speed: 1.5
+  reach: 1.0
+  enchantment: 20
+  chop_min: 9
+  chop_max: 9
+  slash_min: 5
+  slash_max: 7
+  thrust_min: 5
+  thrust_max: 7
+  flags: ''

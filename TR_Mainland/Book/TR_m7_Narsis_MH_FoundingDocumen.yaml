@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_Narsis_MH_FoundingDocumen
+name: Narsis Founding Document
+script: ''
+mesh: m\Text_Scroll_open_01.nif
+icon: m\Tx_scroll_open_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n[This aged document details the founding of Narsis by its founder, Narsara Hla-Alu.]<BR>"
+data:
+  weight: 1.2
+  value: 500
+  book_type: Scroll
+  skill: None
+  enchantment: 100

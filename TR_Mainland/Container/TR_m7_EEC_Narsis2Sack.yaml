@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: TR_m7_EEC_Narsis2Sack
+name: Sack
+script: ''
+mesh: o\Contain_Com_Sack_02.NIF
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Mw_Random_IngredientMeat
+- - 2
+  - ingred_kagouti_hide_01

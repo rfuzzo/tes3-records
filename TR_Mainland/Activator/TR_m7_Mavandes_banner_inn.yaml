@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_Mavandes_banner_inn
+name: Inn
+script: OutsideBanner
+mesh: tr\f\tr_act_banner_inn_03.nif

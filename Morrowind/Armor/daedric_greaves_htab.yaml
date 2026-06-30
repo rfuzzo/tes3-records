@@ -1,0 +1,25 @@
+type: Armor
+flags: ''
+id: daedric_greaves_htab
+name: Daedric Greaves
+script: ''
+mesh: a\A_Daedric_Greaves_GND.nif
+icon: a\Tx_Daedric_greaves.tga
+enchanting: theranafeather_en_uniq
+biped_objects:
+- biped_object_type: Groin
+  male_bodypart: a_daedric_greaves_g
+  female_bodypart: ''
+- biped_object_type: LeftUpperLeg
+  male_bodypart: a_daedric_greaves_ul
+  female_bodypart: ''
+- biped_object_type: RightUpperLeg
+  male_bodypart: a_daedric_greaves_ul
+  female_bodypart: ''
+data:
+  armor_type: Greaves
+  weight: 54.0
+  value: 60000
+  health: 800
+  enchantment: 75
+  armor_rating: 80

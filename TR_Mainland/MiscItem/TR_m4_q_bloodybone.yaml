@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m4_q_bloodybone
+name: Bloody Bone
+script: TR_m4_q_bloodybone_script
+mesh: f\Furn_bone_01.nif
+icon: m\misc_Pop_bone00.tga
+data:
+  weight: 1.0
+  value: 1
+  flags: ''

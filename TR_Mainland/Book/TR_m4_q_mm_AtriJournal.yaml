@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_q_mm_AtriJournal
+name: Atriban Deras' Journal
+script: ''
+mesh: tr\m\tr_book_notebk_03.nif
+icon: tr\m\tr_book_closed_ntbk03.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This is Atriban Deras' personal journal. You read the last entry.] <BR> <BR>\r\nI saved Llaals from a Mabrigash today. I am so scared something might happen to me. I drank a cure disease potion just in case, but that damned witch's curse might be more than that. I hope nothing happens. <BR>\r\n<BR>\r\nMaybe I should've just walked away. Llaals is a good friend, but was that friendship worth it?<BR>\r\n<BR>\r\nWell, the deed is done. No going back now. <BR>\r\n"
+data:
+  weight: 0.5
+  value: 2
+  book_type: Book
+  skill: None
+  enchantment: 0

@@ -1,0 +1,12 @@
+type: Apparatus
+flags: ''
+id: apparatus_g_retort_01
+name: Grandmaster's Retort
+script: ''
+mesh: m\Apparatus_G_Retort_01.nif
+icon: m\Tx_retort_04.tga
+data:
+  apparatus_type: Retort
+  quality: 1.5
+  weight: 3.0
+  value: 1600

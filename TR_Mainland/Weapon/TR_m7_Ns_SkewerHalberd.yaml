@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m7_Ns_SkewerHalberd
+name: Skewer's Halberd
+script: ''
+mesh: TR\w\TR_w_adamant_halberd.NIF
+icon: TR\w\TR_w_adamant_halberd.dds
+enchanting: TR_m7_Ns_SkewerHalberd_en
+data:
+  weight: 25.0
+  value: 15000
+  weapon_type: SpearTwoWide
+  health: 900
+  speed: 1.0
+  reach: 1.8
+  enchantment: 80
+  chop_min: 1
+  chop_max: 8
+  slash_min: 1
+  slash_max: 36
+  thrust_min: 8
+  thrust_max: 8
+  flags: ''

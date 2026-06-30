@@ -1,0 +1,23 @@
+type: Container
+flags: ''
+id: de_p_desk_01_bildren
+name: Desk
+script: ''
+mesh: o\Contain_De_Desk_01.NIF
+encumbrance: 75.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - food_kwama_egg_02
+- - 1
+  - ingred_alit_hide_01
+- - 1
+  - ingred_black_lichen_01
+- - 1
+  - ingred_comberry_01
+- - 1
+  - ingred_crab_meat_01
+- - 1
+  - ingred_moon_sugar_01
+- - 1
+  - ingred_red_lichen_01

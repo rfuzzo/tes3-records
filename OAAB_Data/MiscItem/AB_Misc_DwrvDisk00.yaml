@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_DwrvDisk00
+name: Dwemer Disk
+script: ''
+mesh: OAAB\m\dwrv_disk00.nif
+icon: OAAB\m\misc_dwrv_disk00.dds
+data:
+  weight: 3.0
+  value: 50
+  flags: ''

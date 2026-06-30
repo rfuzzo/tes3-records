@@ -1,0 +1,36 @@
+type: Alchemy
+flags: ''
+id: T_Imp_Drink_WineBlackhill_01
+name: Black Hills Wine
+script: ''
+mesh: pc\m\pc_misc_wine_07.nif
+icon: pc\m\pc_wine_07.dds
+effects:
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Strength
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 20
+  max_magnitude: 20
+- magic_effect: Burden
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 50
+  max_magnitude: 50
+- magic_effect: FortifyFatigue
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 50
+  max_magnitude: 50
+data:
+  weight: 1.0
+  value: 50
+  flags: ''

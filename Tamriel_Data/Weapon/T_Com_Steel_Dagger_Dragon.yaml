@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Com_Steel_Dagger_Dragon
+name: Dragon Dagger
+script: ''
+mesh: w\W_Dagger_dragon.nif
+icon: w\Tx_dagger_dragon.tga
+enchanting: ''
+data:
+  weight: 3.6
+  value: 240
+  weapon_type: ShortBladeOneHand
+  health: 450
+  speed: 2.5
+  reach: 1.0
+  enchantment: 60
+  chop_min: 10
+  chop_max: 10
+  slash_min: 10
+  slash_max: 10
+  thrust_min: 10
+  thrust_max: 10
+  flags: ''

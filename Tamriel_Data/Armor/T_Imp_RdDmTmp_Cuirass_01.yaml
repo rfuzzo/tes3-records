@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Imp_RdDmTmp_Cuirass_01
+name: Red Dome Templar Cuirass
+script: LegionUniform
+mesh: tr\a\tr_a_rdtemp_cuir_gnd.nif
+icon: tr\a\tr_a_RDTmp_curaiss.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_A_RdDmTmpCuirass01_C
+  female_bodypart: ''
+data:
+  armor_type: Cuirass
+  weight: 30.0
+  value: 175
+  health: 540
+  enchantment: 200
+  armor_rating: 18

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_Key_02
+name: Tin Key
+script: ''
+mesh: TR\m\TR_key_DD01.NIF
+icon: TR\m\TR_Key_DD01.dds
+data:
+  weight: 0.0
+  value: 0
+  flags: ''

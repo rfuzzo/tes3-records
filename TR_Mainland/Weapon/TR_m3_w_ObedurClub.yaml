@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m3_w_ObedurClub
+name: Dreugh Club of Greater Poison
+script: ''
+mesh: w\W_Dreugh_club.NIF
+icon: w\tx_dreugh_club.tga
+enchanting: TR_m3_en_aim_dreughclub
+data:
+  weight: 10.8
+  value: 3000
+  weapon_type: BluntOneHand
+  health: 500
+  speed: 1.5
+  reach: 1.0
+  enchantment: 500
+  chop_min: 9
+  chop_max: 18
+  slash_min: 7
+  slash_max: 15
+  thrust_min: 6
+  thrust_max: 12
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

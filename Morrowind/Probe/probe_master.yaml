@@ -1,0 +1,12 @@
+type: Probe
+flags: ''
+id: probe_master
+name: Master's Probe
+script: ''
+mesh: m\Probe_Master_01.nif
+icon: m\Tx_probe_M_01.tga
+data:
+  weight: 0.25
+  value: 100
+  quality: 1.0
+  uses: 25

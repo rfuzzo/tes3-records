@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_BkRuinedOctavo02
+name: Ruined Book
+script: ''
+mesh: OAAB\m\bk_ruined_octavo02.nif
+icon: OAAB\m\bk_ruined_octavo02.tga
+data:
+  weight: 3.0
+  value: 1
+  flags: ''

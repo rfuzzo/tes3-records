@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_KingThistle_01
+name: King Thistle Flower
+script: ''
+mesh: Sky\n\sky_ingred_kingth.nif
+icon: sky\n\tx_ingred_kingthistle.dds
+data:
+  weight: 0.1
+  value: 1
+  effects:
+  - DrainFatigue
+  - FortifyHealth
+  - FortifyFatigue
+  - DamageMagicka
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

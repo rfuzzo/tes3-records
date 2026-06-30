@@ -1,0 +1,12 @@
+type: Apparatus
+flags: ''
+id: TR_m7_Ns_JNS_3_TombRetort
+name: Journeyman's Retort
+script: TR_m7_Ns_JNS_3_ScTombObjEnable
+mesh: m\Apparatus_J_Retort_01.nif
+icon: m\Tx_retort_02.tga
+data:
+  apparatus_type: Retort
+  quality: 1.0
+  weight: 6.0
+  value: 80

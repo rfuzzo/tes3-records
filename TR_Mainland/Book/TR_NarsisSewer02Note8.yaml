@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_NarsisSewer02Note8
+name: Note To Self
+script: ''
+mesh: tr\tr_note_pin.nif
+icon: default icon.dds
+enchanting: ''
+text: Connects to TR_Narsis_Sewers - Council Quarter
+data:
+  weight: 0.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 0

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_Ns_IL_7_Book
+name: Ruddy Eggs Export Ledger
+script: TR_m7_Ns_IL_7_BookSc
+mesh: pc\m\PC_bk_Book_25.nif
+icon: pc\m\pc_bk_book_25.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n[This ledger records the buy and sell prices for a large quantity of people. It includes brief descriptions of the people being bought and sold.]<BR>"
+data:
+  weight: 2.0
+  value: 2
+  book_type: Book
+  skill: None
+  enchantment: 0

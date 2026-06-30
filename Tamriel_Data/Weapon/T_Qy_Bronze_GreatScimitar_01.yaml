@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Qy_Bronze_GreatScimitar_01
+name: Quey Bronze Great Scimitar
+script: ''
+mesh: pi\w\pi_w_bronze_grsci.nif
+icon: pi\w\pi_w_bronze_grsci.dds
+enchanting: ''
+data:
+  weight: 27.0
+  value: 400
+  weapon_type: LongBladeTwoClose
+  health: 1750
+  speed: 1.25
+  reach: 1.0
+  enchantment: 137
+  chop_min: 1
+  chop_max: 30
+  slash_min: 1
+  slash_max: 26
+  thrust_min: 1
+  thrust_max: 18
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

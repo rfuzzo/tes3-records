@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_UshuKurLandSound
+name: 'Sound "Mine": Landslide 01'
+script: TR_m4_UshuKurLandlsdScp
+mesh: EditorMarker.NIF

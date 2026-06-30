@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_Map_Tamriel_01
+name: Map of the Empire
+script: ''
+mesh: TR\m\tr_misc_tammap_01.nif
+icon: TR\m\tr_misc_tammap_01.dds
+data:
+  weight: 0.5
+  value: 100
+  flags: ''

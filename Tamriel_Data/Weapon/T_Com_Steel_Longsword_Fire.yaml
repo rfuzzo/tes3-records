@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Com_Steel_Longsword_Fire
+name: Steel Flamesword
+script: ''
+mesh: tr\w\tr_w_steel_lsword_01.nif
+icon: tr\w\tr_w_steel_lsword_01.dds
+enchanting: cruel flame_en
+data:
+  weight: 20.0
+  value: 105
+  weapon_type: LongBladeOneHand
+  health: 900
+  speed: 1.35
+  reach: 1.0
+  enchantment: 60
+  chop_min: 2
+  chop_max: 14
+  slash_min: 1
+  slash_max: 20
+  thrust_min: 4
+  thrust_max: 18
+  flags: ''

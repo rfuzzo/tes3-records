@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: AB_light_DeLantGlass02Ylw_128
+name: Glass Lantern
+script: ''
+mesh: OAAB\l\deLantGlass_02_ylw.nif
+icon: OAAB\l\deLantGlass_02_Ylw.tga
+sound: ''
+data:
+  weight: 3.0
+  value: 12
+  time: 150
+  radius: 128
+  color:
+  - 255
+  - 236
+  - 0
+  - 0
+  flags: DYNAMIC | CAN_CARRY | FIRE | FLICKER_SLOW

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m7_HL_FG_Q2_FalengarBow
+name: Longbow of Enormous Precision
+script: ''
+mesh: w\W_longbow_steel.NIF
+icon: w\tx_longbow_Steel.tga
+enchanting: TR_m7_HL_FG_Q2_FalengarBowEn
+data:
+  weight: 8.0
+  value: 160
+  weapon_type: MarksmanBow
+  health: 600
+  speed: 1.0
+  reach: 1.0
+  enchantment: 35
+  chop_min: 1
+  chop_max: 25
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: ''

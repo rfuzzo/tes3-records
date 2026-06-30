@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m4_HH_GavrosStatue
+name: Ash Statue
+script: TR_m4_HH_AshStatue
+mesh: m\Misc_6th_Ash_Statue_01.NIF
+icon: m\Misc_6th_Ash_Statue_01.tga
+data:
+  weight: 4.0
+  value: 10
+  flags: ''

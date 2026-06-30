@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: amulet of light
+name: Amulet of Light
+script: ''
+mesh: c\Amulet_Common_2.NIF
+icon: c\tx_amulet_com2.tga
+enchanting: light_en
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 14
+  enchantment: 10

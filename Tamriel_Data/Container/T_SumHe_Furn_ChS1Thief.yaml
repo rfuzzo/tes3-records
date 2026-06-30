@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: T_SumHe_Furn_ChS1Thief
+name: Small Chest
+script: ''
+mesh: sum\o\sum_cont_box_01.nif
+encumbrance: 25.0
+container_flags: IS_BASE
+inventory:
+- - 5
+  - T_Sum_Random_Lockpick
+- - 2
+  - T_Sum_Random_Probe

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_Cake_01
+name: Cake
+script: ''
+mesh: hr\n\hr_cake_01.nif
+icon: hr\n\hr_cake_01.dds
+data:
+  weight: 1.0
+  value: 15
+  effects:
+  - RestoreFatigue
+  - None
+  - None
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

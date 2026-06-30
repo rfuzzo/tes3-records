@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: TR_m3-237_chest_silverw
+name: Small Chest
+script: ''
+mesh: o\Contain_chest_small_01.NIF
+encumbrance: 25.0
+container_flags: IS_BASE
+inventory:
+- - 4
+  - T_Imp_SilverWareFork_01
+- - 4
+  - T_Imp_SilverWareKnife_01
+- - 4
+  - T_Imp_SilverWareSpoon_01

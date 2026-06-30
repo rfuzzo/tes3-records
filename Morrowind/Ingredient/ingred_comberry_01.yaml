@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_comberry_01
+name: Comberry
+script: ''
+mesh: n\Ingred_Comberry_01.nif
+icon: n\Tx_comberry_01.tga
+data:
+  weight: 0.1
+  value: 2
+  effects:
+  - DrainFatigue
+  - RestoreMagicka
+  - FireShield
+  - Reflect
+  skills:
+  - Block
+  - Block
+  - Block
+  - Block
+  attributes:
+  - Strength
+  - Strength
+  - Strength
+  - Strength

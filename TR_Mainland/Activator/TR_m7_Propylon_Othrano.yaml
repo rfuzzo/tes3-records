@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_Propylon_Othrano
+name: Othrano Propylon
+script: TR_m7_Propylon_Othrano_sc
+mesh: tr\i\tr_in_portal_othrano.nif

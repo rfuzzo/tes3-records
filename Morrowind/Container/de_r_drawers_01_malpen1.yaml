@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: de_r_drawers_01_malpen1
+name: Chest of Drawers
+script: ''
+mesh: o\Contain_De_Drawers_01.NIF
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory:
+- - -50
+  - chitin arrow
+- - -20
+  - bonemold arrow
+- - -2
+  - hammer_repair

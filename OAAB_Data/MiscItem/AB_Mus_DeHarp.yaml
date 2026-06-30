@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Mus_DeHarp
+name: Harp
+script: ''
+mesh: OAAB\m\MusDeHarp.nif
+icon: OAAB\m\musDeHarp.dds
+data:
+  weight: 4.0
+  value: 15
+  flags: ''

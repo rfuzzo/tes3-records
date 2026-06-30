@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Rga_UNI_Gatkhel_01
+name: Gatkhel
+script: ''
+mesh: sky\w\sky_w_orich_claymore.nif
+icon: sky\w\sky_w_orich_claymore.dds
+enchanting: ''
+data:
+  weight: 28.0
+  value: 120000
+  weapon_type: LongBladeTwoClose
+  health: 3000
+  speed: 1.25
+  reach: 1.0
+  enchantment: 450
+  chop_min: 1
+  chop_max: 60
+  slash_min: 1
+  slash_max: 60
+  thrust_min: 1
+  thrust_max: 40
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

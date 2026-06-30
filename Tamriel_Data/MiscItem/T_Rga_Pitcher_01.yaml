@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Rga_Pitcher_01
+name: Pitcher
+script: ''
+mesh: pc\m\pc_misc_rga_pitchr_01.nif
+icon: pc\m\pc_rga_pitcher_01.dds
+data:
+  weight: 6.0
+  value: 8
+  flags: ''

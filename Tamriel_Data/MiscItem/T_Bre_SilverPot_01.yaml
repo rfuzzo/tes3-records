@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Bre_SilverPot_01
+name: Silver Pot
+script: ''
+mesh: hr\m\hr_m_silv_pot02.nif
+icon: hr\m\hr_m_silv_pot02.dds
+data:
+  weight: 6.0
+  value: 30
+  flags: ''

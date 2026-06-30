@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: T_Com_SeadrakeEgg_01
+name: ''
+script: T_ScObj_PlesiosaurEgg_01PC
+mesh: pc\m\pc_m_plesios_egg_01.nif

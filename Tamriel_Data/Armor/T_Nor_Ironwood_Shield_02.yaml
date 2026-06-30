@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Nor_Ironwood_Shield_02
+name: Black Ironwood Shield
+script: ''
+mesh: Sky\a\Sky_Ironwoodshield_02.nif
+icon: Sky\a\tx_nord_iwshield_02.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Shield
+  male_bodypart: T_A_NorIronwoodShield02_S
+  female_bodypart: ''
+data:
+  armor_type: Shield
+  weight: 13.0
+  value: 2990
+  health: 920
+  enchantment: 500
+  armor_rating: 46

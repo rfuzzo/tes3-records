@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Dae_Uni_Dawnbreaker
+name: Dawnbreaker
+script: ''
+mesh: pc\w\pc_w_dawnbreaker.nif
+icon: pc\w\pc_w_dawnbreaker.dds
+enchanting: T_Strike_Dawnbreaker
+data:
+  weight: 42.0
+  value: 110000
+  weapon_type: LongBladeOneHand
+  health: 2300
+  speed: 1.35
+  reach: 1.0
+  enchantment: 1400
+  chop_min: 2
+  chop_max: 30
+  slash_min: 1
+  slash_max: 43
+  thrust_min: 4
+  thrust_max: 38
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

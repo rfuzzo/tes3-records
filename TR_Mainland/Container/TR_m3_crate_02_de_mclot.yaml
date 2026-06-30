@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m3_crate_02_de_mclot
+name: Crate
+script: ''
+mesh: o\Contain_crate_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 4
+  - random_common_de_mclothes_01

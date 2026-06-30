@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: de_drawers_02_miungei1
+name: Chest of Drawers
+script: ''
+mesh: o\Contain_De_Drawers_02.NIF
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - ring of the black hand
+- - 1
+  - ring of the five fingers of pai
+- - 2
+  - common_robe_02
+- - 1
+  - bk_miungei
+- - 101
+  - random gold

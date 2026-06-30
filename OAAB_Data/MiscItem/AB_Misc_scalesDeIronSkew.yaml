@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_scalesDeIronSkew
+name: Iron Scales
+script: ''
+mesh: OAAB\m\scalesDeIronSkew.nif
+icon: OAAB\m\scalesDeIronSkew.dds
+data:
+  weight: 4.0
+  value: 15
+  flags: ''

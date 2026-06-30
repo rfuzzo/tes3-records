@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Rga_Flute_01
+name: Flute
+script: ''
+mesh: pc\m\pc_misc_rga_flute_01.nif
+icon: pc\m\pc_rga_flute.dds
+data:
+  weight: 3.0
+  value: 15
+  flags: ''

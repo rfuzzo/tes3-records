@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngMine_Ametrine_01
+name: Ametrine
+script: ''
+mesh: tr\n\tr_ing_ametrine.nif
+icon: tr\n\tr_ing_ametrine.dds
+data:
+  weight: 0.2
+  value: 150
+  effects:
+  - FortifyAttribute
+  - ResistMagicka
+  - WeaknessToMagicka
+  - Levitate
+  skills:
+  - Block
+  - None
+  - None
+  - None
+  attributes:
+  - Endurance
+  - None
+  - None
+  - None

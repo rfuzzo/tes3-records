@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_racer_plumes_01
+name: Racer Plumes
+script: ''
+mesh: n\Ingred_Racer_Plumes_01.nif
+icon: n\Tx_racer_plumes_01.tga
+data:
+  weight: 0.1
+  value: 20
+  effects:
+  - DrainAttribute
+  - Levitate
+  - None
+  - None
+  skills:
+  - Block
+  - Block
+  - Block
+  - Block
+  attributes:
+  - Willpower
+  - Strength
+  - Strength
+  - Strength

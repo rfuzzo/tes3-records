@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: sc_sjobalnote
+name: Thauraver's Orders
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThauraver,<BR>\r\n<BR>\r\nI'm tired of waiting. The hell with the Dark Brotherhood, the hell with the Morag Tong. You're all I need. Find those damn slaves and bring them back. If they won't come back, kill them. Actually, just kill them. They're damaged product and I don't need the aggravation.<BR>\r\n<BR>\r\nYou've never let me down before and I know you won't let me down now.<BR>\r\n<BR>\r\n-K<BR>\r\n<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: Security
+  enchantment: 0

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: we_temreki
+name: Temreki, Shackler of Souls
+script: ''
+mesh: w\W_Iron_Claymore.nif
+icon: w\Tx_Claymore_Iron.tga
+enchanting: we_temreki_en
+data:
+  weight: 27.0
+  value: 4500
+  weapon_type: LongBladeTwoClose
+  health: 1400
+  speed: 1.25
+  reach: 1.0
+  enchantment: 70
+  chop_min: 1
+  chop_max: 27
+  slash_min: 1
+  slash_max: 23
+  thrust_min: 1
+  thrust_max: 16
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

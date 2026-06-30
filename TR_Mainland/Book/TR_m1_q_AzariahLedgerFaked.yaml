@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: TR_m1_q_AzariahLedgerFaked
+name: Azariah's Storage Ledger
+script: TR_m1_q_CompareLedgers
+mesh: m\Text_Octavo_03.NIF
+icon: m\Tx_octavo_03.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This book shows a list of figures detailing how much ebony has been stored in the stockpile. However, it is all by Azariah's hand.]<BR>\r\n<BR>"
+data:
+  weight: 1.5
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 0

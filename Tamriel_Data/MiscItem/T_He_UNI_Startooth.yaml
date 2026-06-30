@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_He_UNI_Startooth
+name: Star Tooth
+script: ''
+mesh: hr\m\hr_misc_startooth_01.nif
+icon: hr\m\hr_m_startooth.dds
+data:
+  weight: 10.0
+  value: 25000
+  flags: ''

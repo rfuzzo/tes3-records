@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_Set_Shrine_SaintLuck_04
+name: Shrine of St. Arhamae
+script: T_ScObj_ShrineSaintFortunePC
+mesh: pc\x\pc_ex_wshrn_01.nif

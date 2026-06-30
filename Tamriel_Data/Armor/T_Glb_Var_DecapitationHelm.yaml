@@ -1,0 +1,22 @@
+type: Armor
+flags: PERSISTENT
+id: T_Glb_Var_DecapitationHelm
+name: Dummy Decapitation
+script: ''
+mesh: Add World Art
+icon: map_marker_red.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Head
+  male_bodypart: ''
+  female_bodypart: ''
+- biped_object_type: Neck
+  male_bodypart: ''
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 4.0
+  value: 1
+  health: 100
+  enchantment: 100
+  armor_rating: 1000

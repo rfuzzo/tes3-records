@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Yne_Iron_Shortsword
+name: Ynesai Iron Shortsword
+script: ''
+mesh: pi\w\pi_w_yiron_shsword.nif
+icon: pi\w\pi_w_yiron_shsword.dds
+enchanting: ''
+data:
+  weight: 8.0
+  value: 20
+  weapon_type: ShortBladeOneHand
+  health: 600
+  speed: 2.0
+  reach: 1.0
+  enchantment: 40
+  chop_min: 6
+  chop_max: 11
+  slash_min: 6
+  slash_max: 11
+  thrust_min: 4
+  thrust_max: 5
+  flags: ''

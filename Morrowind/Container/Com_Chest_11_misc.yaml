@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: Com_Chest_11_misc
+name: Large Chest
+script: ''
+mesh: o\contain_chest10.nif
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - random_armor_iron
+- - 1
+  - random_iron_weapon
+- - 1
+  - random_armor_steel

@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Glb_Flora_Nirnroot01
+name: Nirnroot
+script: ''
+mesh: pc\o\pc_flora_nirnroot.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - T_Glb_Random_FlorNirnroot

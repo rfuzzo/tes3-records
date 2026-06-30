@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m1_FW_sign_bakery
+name: Beleth's Bakery
+script: SignRotate
+mesh: tr\f\tr_act_sign_c_baker_04.nif

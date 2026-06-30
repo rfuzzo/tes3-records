@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_TwilightMembrane_01
+name: Winged Twilight Membrane
+script: ''
+mesh: tr\n\tr_ingred_wt_mem.nif
+icon: tr\n\tr_ing_wt_mem.dds
+data:
+  weight: 0.2
+  value: 200
+  effects:
+  - ResistMagicka
+  - Levitate
+  - FortifyAttackBonus
+  - DetectAnimal
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

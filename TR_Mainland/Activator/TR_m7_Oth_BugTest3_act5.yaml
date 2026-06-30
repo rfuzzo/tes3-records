@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m7_Oth_BugTest3_act5
+name: ''
+script: ''
+mesh: EditorMarker.nif

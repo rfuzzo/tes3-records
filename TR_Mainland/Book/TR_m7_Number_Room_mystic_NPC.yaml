@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_Number_Room_mystic_NPC
+name: Note To Self
+script: ''
+mesh: tr\tr_note_pin.nif
+icon: default icon.dds
+enchanting: ''
+text: "Give this guy the philosopher's armor, dialogue he should be excentric and also insightful\r\n"
+data:
+  weight: 0.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 0

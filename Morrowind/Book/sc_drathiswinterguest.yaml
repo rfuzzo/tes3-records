@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: sc_drathiswinterguest
+name: Scroll of Drathis' Winter Guest
+script: ''
+mesh: m\text_scroll_01.nif
+icon: m\tx_scroll_open_01.tga
+enchanting: sc_drathiswinterguest_en
+text: <DIV ALIGN="center"><FONT COLOR="000000" SIZE="2" FACE="Daedric">GREED EVENTUALLY TRAPS US ALL</FONT><BR>
+data:
+  weight: 0.2
+  value: 74
+  book_type: Scroll
+  skill: None
+  enchantment: 0

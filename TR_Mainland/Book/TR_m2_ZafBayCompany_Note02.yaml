@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2_ZafBayCompany_Note02
+name: Company Report
+script: ''
+mesh: m\Text_Parchment_01.NIF
+icon: m\Tx_parchment_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\n[This report details a successful business transaction between the Zafirbel Bay Company and Tel Gilan. It lists the amount of goods sold and describes the demands that have to be met for the next transaction.]<BR>\r\n"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

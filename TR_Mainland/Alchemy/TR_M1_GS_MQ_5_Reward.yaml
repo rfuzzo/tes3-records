@@ -1,0 +1,52 @@
+type: Alchemy
+flags: ''
+id: TR_M1_GS_MQ_5_Reward
+name: Sacred Oil
+script: ''
+mesh: n\Potion_Cyro_whiskey_01.NIF
+icon: n\Tx_cyro_whiskey_01.tga
+effects:
+- magic_effect: ResistMagicka
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 30
+  min_magnitude: 75
+  max_magnitude: 75
+- magic_effect: ResistFire
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 30
+  min_magnitude: 75
+  max_magnitude: 75
+- magic_effect: ResistFrost
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 30
+  min_magnitude: 75
+  max_magnitude: 75
+- magic_effect: ResistPoison
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 30
+  min_magnitude: 75
+  max_magnitude: 75
+- magic_effect: ResistShock
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 30
+  min_magnitude: 75
+  max_magnitude: 75
+data:
+  weight: 0.5
+  value: 500
+  flags: ''

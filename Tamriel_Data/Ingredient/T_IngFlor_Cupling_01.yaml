@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_Cupling_01
+name: Widow's Mortar
+script: ''
+mesh: TR\n\TR_ing_cupling.nif
+icon: TR\n\TR_ing_Cupling.dds
+data:
+  weight: 1.0
+  value: 10
+  effects:
+  - DamageHealth
+  - WeaknessToCommonDisease
+  - Silence
+  - FortifySkill
+  skills:
+  - None
+  - None
+  - None
+  - Alchemy
+  attributes:
+  - None
+  - None
+  - None
+  - Strength

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3-649_Altar_Dibella
+name: Altar of Dibella
+script: TR_m3-649_DibellaScript
+mesh: x\ex_imp_mooring_01.nif

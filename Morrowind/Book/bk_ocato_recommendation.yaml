@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: bk_ocato_recommendation
+name: Letter from Ocato
+script: ''
+mesh: m\Text_Parchment_02.NIF
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nTo the esteemed Arch-Mage Trebonius Artorius, Guildmaster of Vvardenfell,<BR>\r\n<BR>\r\nUpon receiving this letter, you will step down from your post and grant the title of Arch-Mage to %PCName. From this day forward, %PCName will handle all Guild matters in Vvardenfell. You may keep the title of Arch-Mage, but you will retire from active participation in the affairs of the Guild.<BR>\r\n<BR>\r\nIn the Emperor's Name,<BR>\r\n<BR>\r\nOcato<BR>\r\n"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

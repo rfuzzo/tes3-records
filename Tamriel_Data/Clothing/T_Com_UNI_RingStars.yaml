@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Com_UNI_RingStars
+name: Ring of Stars
+script: ''
+mesh: hr\c\hr_c_ring_stars.nif
+icon: hr\c\hr_c_ring_stars.dds
+enchanting: T_Const_RingStars
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 8000
+  enchantment: 0

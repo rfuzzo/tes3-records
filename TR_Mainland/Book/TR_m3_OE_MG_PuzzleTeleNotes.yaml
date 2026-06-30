@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_OE_MG_PuzzleTeleNotes
+name: Arquebald's Telekinesis Notes
+script: TR_m3_OE_MG_PuzzleSpellTome
+mesh: m\Text_Parchment_01.NIF
+icon: m\Tx_parchment_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nAny aspiring mystic will want to master the art of telekinesis early on. It is an easy spell to learn and requires little magical power to cast.<BR>\r\n<BR>\r\nThe effect is sometimes mistaken as part of the Alteration school, perhaps due to the confusion surrounding Mysticism. To understand why it is not Alteration, note that the object is manipulated, but not inherently changed.<BR>\r\n<BR>\r\nIt is common knowledge that telekinesis allows one to move objects within a certain range. Having a lack of range frustrates beginners, due to the poor potions, scrolls, and spells in circulation. While good advice for all forms of magic, the first step to making good use of this effect is to brew your own potions, enchant your own scrolls, and develop your own spells.<BR>\r\n<BR>\r\nThose who ignore this advice should keep in mind the relative strengths of each magical source. The popular Scroll of Inasi's Mystic Finger has the greatest potential range, though also the greatest variance, making it not much better than a potion at its worst. Spell merchants tend to sell combinations with adequate range, seeking to keep the complexity manageable for even the most simpleminded mage. Avoid potions when possible: you are better off walking a few steps forward.<BR>\r\n<BR>\r\nDuration is less important. In the majority of cases, there is only one object or container out of reach. Fifteen to twenty seconds is plenty to locate your target and either pull it toward you or manipulate it in the way desired.<BR>\r\n<BR>\r\nIn order to cast a basic telekinesis spell, begin by focusing the magical energy in your hands...<BR>\r\n<BR>\r\n[The text continues for several pages detailing proper casting techniques. There are charts comparing range and speed, and various calculations toward the end.]<BR>"
+data:
+  weight: 0.2
+  value: 50
+  book_type: Scroll
+  skill: None
+  enchantment: 0

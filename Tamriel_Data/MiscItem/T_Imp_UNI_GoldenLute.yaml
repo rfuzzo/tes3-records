@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_UNI_GoldenLute
+name: Golden Lute
+script: ''
+mesh: pc\m\pc_misc_lute_uni.nif
+icon: pc\m\pc_misc_lute_uni.dds
+data:
+  weight: 4.0
+  value: 600
+  flags: ''

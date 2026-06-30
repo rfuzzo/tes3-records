@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_BallWoodRed
+name: Wooden Ball
+script: ''
+mesh: OAAB\m\ball_wood_red.nif
+icon: OAAB\m\ball_wood_red.dds
+data:
+  weight: 1.5
+  value: 1
+  flags: ''

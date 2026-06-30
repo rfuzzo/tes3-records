@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_EnSc_Dae_ForbiddenDomination
+name: Scroll of Forbidden Domination
+script: ''
+mesh: m\text_scroll_01.nif
+icon: m\tx_scroll_open_01.tga
+enchanting: T_Once_DaeCommand30-30
+text: <DIV ALIGN="center"><FONT COLOR="F01108" SIZE="2" FACE="Daedric">YOU TOO SHALL SERVE</FONT><BR>
+data:
+  weight: 0.2
+  value: 3210
+  book_type: Scroll
+  skill: None
+  enchantment: 0

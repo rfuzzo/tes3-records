@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Cr_Goblin_Banner_08
+name: ''
+script: OutsideBanner
+mesh: pc\f\pc_act_goblin_fang_01.nif

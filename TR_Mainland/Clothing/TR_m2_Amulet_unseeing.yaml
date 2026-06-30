@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m2_Amulet_unseeing
+name: Amulet of Unseeing
+script: ''
+mesh: c\Amulet_Extravagant_2.NIF
+icon: c\tx_amulet_extrav2.tga
+enchanting: TR_m2_en_amounseeingen
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 220
+  enchantment: 600

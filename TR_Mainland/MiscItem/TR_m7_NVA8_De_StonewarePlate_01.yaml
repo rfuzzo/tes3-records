@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m7_NVA8_De_StonewarePlate_01
+name: Stoneware Plate
+script: TR_m7_NVA_Stage8_Persist
+mesh: TR\m\tr_misc_stn_plate_01.nif
+icon: TR\m\tr_misc_stn_plate01.dds
+data:
+  weight: 1.0
+  value: 5
+  flags: ''

@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: light_com_torch_burnedout_01
+name: Burned out Torch
+script: ''
+mesh: l\Light_Com_Torch_01.NIF
+icon: l\Light_Com_Torch_01.tga
+sound: ''
+data:
+  weight: 2.0
+  value: 1
+  time: 0
+  radius: 16
+  color:
+  - 0
+  - 0
+  - 0
+  - 0
+  flags: CAN_CARRY | OFF_BY_DEFAULT

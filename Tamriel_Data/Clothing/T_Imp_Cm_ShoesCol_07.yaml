@@ -1,0 +1,20 @@
+type: Clothing
+flags: ''
+id: T_Imp_Cm_ShoesCol_07
+name: Common Shoes
+script: ''
+mesh: pc\c\pc_col_m_shoes_07g.nif
+icon: pc\c\pc_col_shoes_07.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: LeftFoot
+  male_bodypart: T_C_ImpCmShoeCol07_F
+  female_bodypart: ''
+- biped_object_type: RightFoot
+  male_bodypart: T_C_ImpCmShoeCol07_F
+  female_bodypart: ''
+data:
+  clothing_type: Shoes
+  weight: 3.0
+  value: 2
+  enchantment: 100

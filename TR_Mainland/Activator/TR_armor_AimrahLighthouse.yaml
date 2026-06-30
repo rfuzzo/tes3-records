@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_armor_AimrahLighthouse
+name: Decorative Dreugh Shield
+script: TR_Aimrah_6_SecretWall
+mesh: a\shield_dreugh.nif

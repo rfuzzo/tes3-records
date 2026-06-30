@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: AB_o_ComPlnTable01Sew
+name: Table
+script: ''
+mesh: OAAB\o\com_p_table_side_01.nif
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - AB_lvl_SewingSmall

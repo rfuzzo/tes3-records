@@ -1,0 +1,12 @@
+type: Apparatus
+flags: ''
+id: AB_App_Grinder
+name: Grinder
+script: ''
+mesh: OAAB\m\yy_grinder.nif
+icon: OAAB\m\yy_grinder.tga
+data:
+  apparatus_type: MortarAndPestle
+  quality: 0.25
+  weight: 8.0
+  value: 30

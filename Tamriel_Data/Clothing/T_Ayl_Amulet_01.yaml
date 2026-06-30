@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Ayl_Amulet_01
+name: Ayleid Amulet
+script: ''
+mesh: pc\c\pc_ayleid_necklace_01.nif
+icon: pc\c\pc_ayleid_necklace_01.dds
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 240
+  enchantment: 1200

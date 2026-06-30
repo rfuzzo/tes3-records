@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_ColClayPot_02
+name: Jar
+script: ''
+mesh: pc\m\PC_Col_clay_pot02.nif
+icon: pc\m\pc_misc_col_clay_pt2.dds
+data:
+  weight: 1.0
+  value: 5
+  flags: ''

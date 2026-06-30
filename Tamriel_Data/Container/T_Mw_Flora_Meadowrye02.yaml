@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Mw_Flora_Meadowrye02
+name: Meadow Rye
+script: ''
+mesh: TR\o\TR_f_Alm_flower04b.NIF
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - random_rye

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Nor_Ancient_Mace_01
+name: Ancient Nordic Mace
+script: ''
+mesh: sky\w\sky_w_anordic_mace.nif
+icon: sky\w\sky_w_anordic_mace.dds
+enchanting: ''
+data:
+  weight: 16.0
+  value: 180
+  weapon_type: BluntOneHand
+  health: 1200
+  speed: 1.25
+  reach: 1.0
+  enchantment: 45
+  chop_min: 5
+  chop_max: 17
+  slash_min: 5
+  slash_max: 17
+  thrust_min: 1
+  thrust_max: 2
+  flags: ''

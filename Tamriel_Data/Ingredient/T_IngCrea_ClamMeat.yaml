@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_ClamMeat
+name: Clam Meat
+script: ''
+mesh: pi\n\tr_ing_clammeat.nif
+icon: pi\n\pi_ing_clammeat.dds
+data:
+  weight: 0.3
+  value: 3
+  effects:
+  - RestoreFatigue
+  - DrainAttribute
+  - WaterWalking
+  - None
+  skills:
+  - None
+  - Block
+  - Block
+  - None
+  attributes:
+  - None
+  - Endurance
+  - Endurance
+  - None

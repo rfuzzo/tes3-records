@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_TalhjoldeSHOTN_V3
+name: Talhjolde, Modiskva Bern
+script: ''
+mesh: sky\m\Sky_Book_Basic_13.nif
+icon: sky\m\Tx_Book_Basic_13.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"500F0F\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nTalhjolde, Modiskva Bern<BR><FONT COLOR=\"000000\">\r\npublished by the<BR>\r\nImperial University Press, 3E 421<BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\nThe Hawk is mighty and has the greatest wings<BR>\r\nUncommonly loyal and fiercest in battle<BR>\r\nHer snow-blown hird are never overcome<BR>\r\n<BR>\r\nThe Moth is the source [1] of all laughter and joy<BR>\r\nHer reward is for those who outlast the fray<BR>\r\nMead and song are her gift to Men<BR>\r\n<BR>\r\nThe Bear is most thoughtless of all beasts<BR>\r\nThough strong his cloak is thin as rime [2]<BR>\r\nNo other is ever truly friend to he<BR>\r\n<BR>\r\nOn crooked road the three beasts stalk towards the sky<BR>\r\nFearing only the journey's end<BR>\r\nWhen from below the hunger-dream called Adversary speaks:<BR>\r\n<BR>\r\n\"Little morsels, you tempt me cruelly so<BR>\r\nWhich of you will climb into my mouth<BR>\r\nAnd while away the time until the Burning?\"<BR>\r\n<BR>\r\nThe Hawk speaks first, in thunderclap voice<BR>\r\n\"The valor I bring bestows dignity on Men<BR>\r\nThe cost to sate you would be too high.\"<BR>\r\n<BR>\r\nThe Moth speaks next, dripping mead from dusty lips<BR>\r\n\"None could bear the wait for death without me<BR>\r\nMy pleasure cannot be for you alone.\"<BR>\r\n<BR>\r\nThe Bear does not speak, but salivates and gnashes<BR>\r\nAnd pulls his skin tightly across his shoulders<BR>\r\nHe roars with unrestrained fury and hate<BR>\r\n<BR>\r\nWith a laugh and smile as sharp as glass, the Adversary<BR>\r\nSays \"A hungry stomach has no ears, so Bear alone shall live<BR>\r\nIt is only anger that will be found until the end of time.\"<BR>\r\n<BR>\r\nFootnotes:<BR>\r\n[1] Literally, a \"fresh-running cleft.\" A mountain spring.<BR>\r\n[2] Compare \"thin-skinned.\"<BR>"
+data:
+  weight: 3.0
+  value: 40
+  book_type: Book
+  skill: None
+  enchantment: 0

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_chapeldoorhrt_i3-591-Imp
+name: ''
+script: TR_m3_OE_TombCrush_scp
+mesh: editormarker_box_01.nif

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: active_akula_lightning
+name: lightning shield
+script: ''
+mesh: i\active_akula_lightning.NIF

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_Oth_MG_2_NoteOndusi
+name: Letter for Ralsa Ondusi
+script: ''
+mesh: m\Text_Scroll_01.NIF
+icon: m\Tx_scroll_open_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nTo Ralsa Ondusi, Wizard of the Narsis Mages Guild <BR><BR>\r\nI intend to start the Vandirelyon expedition soon. I'm more sure than ever that the Ghost Ring has to be in there somewhere, though it may be quite hard to get to. The artifact's former owner was a skilled conjurer, and I have no doubt that there are plenty of traps to be found within the stronghold. With any luck, though, I'll have the Ring to show for it all the next time we speak. <BR><BR>\r\nYours, <BR>\r\nWizard Kharal gra-Ratash <BR>"
+data:
+  weight: 0.2
+  value: 5
+  book_type: Scroll
+  skill: None
+  enchantment: 0

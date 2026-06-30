@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: TR_m3_Boscap_chest11
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 237
+  - Gold_001
+- - 1
+  - bonemold_bracer_left
+- - 1
+  - bonemold_bracer_right
+- - 1
+  - iron shardskewer

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_MothWingMw_02
+name: Ash Moth Wing
+script: ''
+mesh: tr\n\tr_ing_moth_wing_02.nif
+icon: tr\n\tr_ing_moth_wing_02.dds
+data:
+  weight: 0.1
+  value: 5
+  effects:
+  - ResistFire
+  - DrainAttribute
+  - ResistMagicka
+  - SlowFall
+  skills:
+  - Block
+  - Block
+  - None
+  - None
+  attributes:
+  - Agility
+  - Speed
+  - None
+  - None

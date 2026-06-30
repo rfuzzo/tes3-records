@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_w_AshlEbonyArrow10x
+name: Ashlander Ebony Arrow (10)
+script: AB_QuiverAshlEbony10x_s
+mesh: OAAB\w\quiver_ashlebony.nif
+icon: OAAB\w\tx_rawebony_arrow.dds
+data:
+  weight: 1.5
+  value: 50
+  flags: ''

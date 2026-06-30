@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_UshuKurSinkRock2
+name: ''
+script: TR_m4_UshuKurRockSink_scp
+mesh: x\ex_t_rock_coastal_02.nif

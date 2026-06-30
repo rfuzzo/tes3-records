@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Rga_PorcelainCup_01
+name: Porcelain Cup
+script: ''
+mesh: hf\m\hf_misc_rga_PcCup_01.nif
+icon: hf\m\hf_misc_rga_PCCup_01.dds
+data:
+  weight: 4.0
+  value: 10
+  flags: ''

@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: active_dae_azura
+name: Statue of Azura
+script: DaedraAzura
+mesh: x\Ex_DAE_Azura.NIF

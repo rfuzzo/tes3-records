@@ -1,0 +1,28 @@
+type: Alchemy
+flags: ''
+id: T_De_Drink_GuarMilk_01
+name: Guar Milk
+script: ''
+mesh: tr\m\tr_flask_guarmilk.nif
+icon: tr\m\tr_flask_guarmilk.dds
+effects:
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Endurance
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 10
+  max_magnitude: 10
+- magic_effect: DrainAttribute
+  skill: None
+  attribute: Intelligence
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 10
+  max_magnitude: 10
+data:
+  weight: 4.0
+  value: 10
+  flags: ''

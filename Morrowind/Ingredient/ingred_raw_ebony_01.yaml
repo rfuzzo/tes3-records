@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_raw_ebony_01
+name: Raw Ebony
+script: ''
+mesh: n\Ingred_RawEbony_01.NIF
+icon: n\Tx_RawEbony.tga
+data:
+  weight: 10.0
+  value: 200
+  effects:
+  - DrainAttribute
+  - CurePoison
+  - FrostShield
+  - RestoreAttribute
+  skills:
+  - Block
+  - Block
+  - Block
+  - Block
+  attributes:
+  - Agility
+  - Strength
+  - Strength
+  - Speed

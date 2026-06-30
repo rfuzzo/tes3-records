@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Nor_Ex_Belt_01_WardShock
+name: Belt of Thunder Ward
+script: ''
+mesh: sky\c\Sky_c_belt_exqu_01.nif
+icon: sky\c\tx_c_belt_exqu_01.dds
+enchanting: T_Use_WardShock
+biped_objects: []
+data:
+  clothing_type: Belt
+  weight: 1.0
+  value: 246
+  enchantment: 400

@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m7_HL_FG_Q5_Barrel
+name: Wooden Barrel
+script: TR_m7_HL_FG_Q5_ActSc
+mesh: o\Contain_barrel_01.NIF
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 5
+  - random_de_cheapfood_01_nc

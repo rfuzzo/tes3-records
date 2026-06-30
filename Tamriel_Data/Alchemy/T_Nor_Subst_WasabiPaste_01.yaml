@@ -1,0 +1,44 @@
+type: Alchemy
+flags: ''
+id: T_Nor_Subst_WasabiPaste_01
+name: Wasabi Paste
+script: ''
+mesh: sky\n\Sky_Ingred_wasab_02.nif
+icon: sky\n\tx_ingred_wasab_02.dds
+effects:
+- magic_effect: FortifyAttackBonus
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 10
+  min_magnitude: 60
+  max_magnitude: 60
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Endurance
+  range: OnSelf
+  area: 0
+  duration: 10
+  min_magnitude: 60
+  max_magnitude: 60
+- magic_effect: DrainAttribute
+  skill: None
+  attribute: Agility
+  range: OnSelf
+  area: 0
+  duration: 10
+  min_magnitude: 60
+  max_magnitude: 60
+- magic_effect: DrainAttribute
+  skill: None
+  attribute: Speed
+  range: OnSelf
+  area: 0
+  duration: 10
+  min_magnitude: 60
+  max_magnitude: 60
+data:
+  weight: 0.5
+  value: 100
+  flags: ''

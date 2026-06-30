@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Nor_Et_Belt_01_WardSteel
+name: Belt of Steel Ward
+script: ''
+mesh: sky\c\Sky_c_belt_extr_01.nif
+icon: sky\c\tx_c_belt_extr_01.dds
+enchanting: fourth barrier_en
+biped_objects: []
+data:
+  clothing_type: Belt
+  weight: 1.0
+  value: 196
+  enchantment: 200

@@ -1,0 +1,27 @@
+type: Container
+flags: ''
+id: de_p_closet_02_mollimo
+name: Closet
+script: ''
+mesh: o\Contain_De_Closet_02.NIF
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - exquisite_amulet_01
+- - 1
+  - exquisite_ring_01
+- - 1
+  - exquisite_ring_02
+- - 1
+  - exquisite_skirt_01
+- - 1
+  - exquisite_robe_01
+- - 1
+  - exquisite_belt_01
+- - 1
+  - exquisite_shirt_01
+- - 1
+  - exquisite_shoes_01
+- - 1
+  - exquisite_pants_01

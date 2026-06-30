@@ -1,0 +1,49 @@
+type: Book
+flags: ''
+id: T_Bk_ColovianMythArtheimPC_V3
+name: The Blood-Money Siege
+script: ''
+mesh: pc\m\pc_bk_book_14.nif
+icon: pc\m\pc_bk_book_14.tga
+enchanting: ''
+text: |+
+  <DIV ALIGN="LEFT"><FONT COLOR="000000" SIZE="3" FACE="Magic Cards"><BR>THE BLOOD-MONEY SIEGE<BR>
+
+  <BR>
+
+  Rein Manellis, Beggar-King, had profited much of his latest feud with the Kvetchi, so much that upon returning to Brumath he had with him a cart piled high with reddish gold, upon which was spilled the blood of a pig. But the King of the Snows was not careful with his gold, so that he lost it when the hold slipped in the crossing of the river Scahat, and all washed to the lake Rumare save for a handful of blood-gold, and since then the river Scahat is known as the Miser-River, where Zenithar takes his toll. So Rein Manellis said, "Woe upon me, for ten-and-one years ago I borrowed of Heimth, king of Skingrad, a great sum of money, and today I must return him. But I know of many vexing tricks, many fool-words I have learned from the Nibeth, and I will make the Coin-King do my bidding yet!" And so Rein Manellis traveled on to the court of the king of Skingrad, proud Heimth, who is known to us as the Coin-King, for his vaults were filled with the yellow gold of those who trade in Nibeth.<BR>
+
+  <BR>
+
+  So Rein Manellis arrived at the court of plenty, where the city of Skingrad rules the trade-ford, its bridges spanning the Golden Way, moon-banners aloft, iron roofs and brave towers. Grand the domain of Skingrad, whose denizens know the joys of commerce, yet never forget to remember the Ideals of Colovia, bravery and piety! There Rein Manellis walked the Bridge of Tragedies to the court of Heimth Five-Swords. And so said the King of Brumath: "Heimth! Throne-brother, I come before you this day to end the debt that has grown heavy on my back. Heavy this debt has been, and I true thought to pay you back, but was waylaid by treachery, of Cirthes, bearded king of Chorral, and his horde." Replied Heimth king of Skingrad, "Of what do you speak? Cirthes has always been a faithful ally to me, has always helped me, as I have helped him, and as all such things hold together, I have always been an ally to Cirthes of Chorral." Replied Rein Manellis, "But so it has been! The blood-coin I had earned through the siege of Kvatch, he took it, and hid it in his keep, and I only could hold to a single handful, see here the proof!" and the Beggar-king showed the hand of blood-gold he kept.<BR>
+
+  <BR>
+
+  And Heimth was lured, for he desired for him the wealth of Chorral, and needed little convincing. And he called together his host, which consisted of Marr son of Alhm, Taruth Skull-Cleaver, Mahn who once decided upon the life of an Emperor, keeping tally of his virtues and faults, Corct and his seventeen sons, each one more powerful than the last, and Anatha of the Seven Brooks, and the Eight Dogs of Haml Grave-Child, Haml Grave-Child herself, and Ahad son of Mehad, and Catri son of Petr, and Neneit the Sutchi, and Comar the Hald-Man, and Potri who once spent seven days in a wine-cask, and bitterly regretted that of all his great feats this was the one men remembered most, and Masatre, and Katriko, and Mutak who never speaks one word where ten will suffice, and Horemheb Song-Guard, and Maed of Sarchal, and many more heroes of great renown besides, whose names and deeds do not need be tallied in full, and as leader of this host he called Batûn Half-Giant, more powerful than any man.<BR>
+
+  <BR>
+
+  So the host of Skingrad marched on Chorral, and at the gates of that secluded city they made their demands, that the blood-soiled money be brought to them in full, and that the king of Chorral come forth and kneel, and that the children of the king of Chorral come forth and kneel unto the third generation to the lords of Skingrad and Bruma. But Cirthes of Chorral refused, and sent out his champion, Hermwnthe-of-Thistles, to defend his honor. And furthermore he called this dispute to be settled beneath the eaves of Chorral's sacred oak, where all misbehavior be punished by a force Divine, which is higher than their own, and beyond reproach.<BR>
+
+  <BR>
+
+  Come forth Batûn, majestic. Batûn! His mother a giant, his father a larger-than-average man, thus enabling their union! Gigantic warrior, legs not unlike the trunks of a tree, arms the likes of which the gathered hosts of Colovian knighthood had never seen until that moment!<BR>
+
+  <BR>
+
+  There Hermwnthe-of-Thistles and Batûn Half-Giant first conversed, and exchanged pleasantries and grave insult, until the hour of blood had come. Batûn, he wielded a spear-club of great size, which was a lance not unlike a tree, around which he had wrapped with copper bands the bones of the fish that live in the great sea between the Land of the Nords and the Land of the Nords Before, which they call Old-Wood-Stead. Hermwnthe-of-Thistles, wielded her silver spear, which was topped with a thistle thorn, the reason for which is irrelevant to this tale, but is regaled in many stories that can be heard in the inns from Beaurichal to Vvey.<BR>
+
+  <BR>
+
+  In battle fierce they cleft the ground, and brought low that which stands tall, for Hermwnthe knew of a secret way to strike and draw blood from a stone, and Batûn was half-a-giant, powerful. Then when only the great oak of Chorral still stood, Hermwnthe saw opportunity, and struck Batûn's right hand from his arm, and Batûn disgraced himself, crawling and begging for mercy. But as he crawled and begged for mercy, his left hand hid within the roots of the great oak a secret poison, made by the men of Nibeth from the blood of Artheim the King Betrayed, to seep in the heart of the Arbor Hold. And this was one of the Twelve Dishonorable Acts carried out by a Half-Man on behalf of an otherwise virtuous Ruler of Colovia.<BR>
+
+  <BR>
+
+  So the armies of Heimth and Rein Manellis were defeated, and they were made to pay heavy tribute for their greed and folly. And the kingdom of Chorral lived in peace and prosperity for the next two years and three moons, but no longer, for the poisons of Nibeth know the hour and act accordingly. So ended the Blood-Money Siege, which was in many ways disgraceful, save when its participants show proper regard to the virtues of Colovian knighthood.<BR>
+
+data:
+  weight: 2.0
+  value: 50
+  book_type: Book
+  skill: None
+  enchantment: 0

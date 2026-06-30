@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: Mummy_06
+name: Mummy
+script: ''
+mesh: i\In_CI_mummy_06.NIF
+encumbrance: 0.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - ingred_ash_salts_01
+- - 1
+  - ingred_bonemeal_01

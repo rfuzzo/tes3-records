@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: TR_m3_stash4_i3-591-imp
+name: Loose Grave Stone
+script: ''
+mesh: tr\f\TR_furn_imp_stoneplaq.nif
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Mw_Random_Gems
+- - 1
+  - ingred_gravedust_01

@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Pi_Mine_OreCQTurquoi2
+name: Raw Turquoise
+script: ''
+mesh: pi\o\pi_cont_cqrock_turq_02.nif
+encumbrance: 0.0
+container_flags: ORGANIC | IS_BASE
+inventory:
+- - 8
+  - T_Pi_Random_OreTurquoise

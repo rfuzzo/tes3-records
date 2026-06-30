@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m4_TG_VendicciRecallBlocker
+name: ''
+script: TR_m4_TG_CoachRecallBlockerSc
+mesh: EditorMarker.NIF

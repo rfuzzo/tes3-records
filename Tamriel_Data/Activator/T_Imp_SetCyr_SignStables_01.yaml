@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_SetCyr_SignStables_01
+name: ''
+script: SignRotate
+mesh: pc\f\pc_furn_sign_stable_02.nif

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_ComArtPaintOrsi01
+name: Painting
+script: ''
+mesh: OAAB\m\com_paint_orsin_01.nif
+icon: OAAB\m\com_paint_orsin_01.tga
+data:
+  weight: 4.0
+  value: 250
+  flags: ''

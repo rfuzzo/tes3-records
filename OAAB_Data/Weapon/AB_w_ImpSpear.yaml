@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_ImpSpear
+name: Imperial Spear
+script: ''
+mesh: OAAB\w\rem_imp_spear.nif
+icon: OAAB\w\rem_imp_spear.dds
+enchanting: ''
+data:
+  weight: 12.0
+  value: 160
+  weapon_type: SpearTwoWide
+  health: 900
+  speed: 1.0
+  reach: 1.8
+  enchantment: 55
+  chop_min: 2
+  chop_max: 6
+  slash_min: 2
+  slash_max: 6
+  thrust_min: 7
+  thrust_max: 20
+  flags: ''

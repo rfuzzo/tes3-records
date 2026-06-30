@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_Qy_PalmwoodCandlePurp_77
+name: Palmwood Candlestick
+script: ''
+mesh: pi\l\pi_l_cnq_pw_candlepurp.nif
+icon: pi\l\pi_l_cnq_pw_candlepurp.dds
+sound: ''
+data:
+  weight: 2.0
+  value: 3
+  time: 120
+  radius: 77
+  color:
+  - 245
+  - 140
+  - 40
+  - 0
+  flags: DYNAMIC | CAN_CARRY | FIRE | FLICKER_SLOW

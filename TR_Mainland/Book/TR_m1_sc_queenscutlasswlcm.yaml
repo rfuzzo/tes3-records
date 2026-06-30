@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_sc_queenscutlasswlcm
+name: Message to the Guests
+script: ''
+mesh: m\Text_Parchment_01.nif
+icon: m\Tx_parchment_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nTo the Guests of The Queen's Cutlass<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nWe thank you for your patronage and remind you to please leave all belongings that are not yours in the room or you will face a penalty upon settling the bill. An in-house book selection is available for your reading pleasure, located in the second floor foyer.<BR>\r\n<BR>\r\nAlso, guests are asked to leave their keys with the bartender upon exiting the building. <BR>"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 100

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Imp_UNI_NandorSpear
+name: Nandor's Spear
+script: ''
+mesh: tr\w\tr_w_nandor_spear.nif
+icon: tr\w\tr_w_nandor_spear.dds
+enchanting: T_Use_NandorSpear
+data:
+  weight: 20.0
+  value: 28000
+  weapon_type: SpearTwoWide
+  health: 650
+  speed: 1.0
+  reach: 1.8
+  enchantment: 500
+  chop_min: 2
+  chop_max: 6
+  slash_min: 2
+  slash_max: 6
+  thrust_min: 5
+  thrust_max: 30
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

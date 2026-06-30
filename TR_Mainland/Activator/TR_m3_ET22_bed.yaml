@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_ET22_bed
+name: Moldy Cot
+script: Bed_Standard
+mesh: f\furn_cot00.nif

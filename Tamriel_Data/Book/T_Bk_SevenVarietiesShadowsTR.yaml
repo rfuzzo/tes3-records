@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_SevenVarietiesShadowsTR
+name: Seven Varieties of Shadows
+script: ''
+mesh: m\Text_Octavo_08.NIF
+icon: m\Tx_book_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nSeven Varieties of Shadows<BR>\r\nBy No Loss Red-Hand<BR><BR>\r\n\r\n<DIV ALIGN=\"LEFT\">By long study have I learned this --<BR><BR>\r\n\r\nShadow the first is the shadow direct, hard-cut in day by the Sun, unequivocal.<BR><BR>\r\n\r\nShadow the second is the shadow oblique, bent away from its mooring by the application of a dust.<BR><BR>\r\n\r\nShadow the third is the shadow effulgent, made expansive and billowing to fill out tight spaces by the judicious ingestion of bitters.<BR><BR>\r\n\r\nShadow the fourth is the shadow defensive, drawn from the air and made solid by burning flowerspice.<BR><BR>\r\n\r\nShadow the fifth is the shadow numbing, applied with ground resin.<BR><BR>\r\n\r\nShadow the sixth is the shadow imbecilic, descending on the mind from chewing wickstems.<BR><BR>\r\n\r\nShadow the seventh is the shadow everted, by application of hound's flesh.<BR><BR>\r\n\r\nNamira, bless me. Namira, kiss me. Namira, curse me entire.<BR><BR>\r\n\r\nThis have I learned at the feet of my master.<BR>"
+data:
+  weight: 2.0
+  value: 150
+  book_type: Book
+  skill: Alchemy
+  enchantment: 20

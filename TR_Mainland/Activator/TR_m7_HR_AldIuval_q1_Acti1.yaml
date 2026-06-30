@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m7_HR_AldIuval_q1_Acti1
+name: ''
+script: TR_m7_HR_AldIuval_q1_Acti1_sc
+mesh: EditorMarker.NIF

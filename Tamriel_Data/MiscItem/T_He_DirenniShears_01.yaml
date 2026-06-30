@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_He_DirenniShears_01
+name: Direnni Shears
+script: ''
+mesh: sky\m\sky_misc_dshears_01.nif
+icon: sky\m\tx_misc_dshears_01.dds
+data:
+  weight: 2.0
+  value: 12
+  flags: ''

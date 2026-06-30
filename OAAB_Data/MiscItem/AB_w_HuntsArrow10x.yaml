@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_w_HuntsArrow10x
+name: Huntsman Arrow (10)
+script: AB_QuiverHuntsman10x_s
+mesh: OAAB\w\quiver_huntsman.nif
+icon: OAAB\w\tx_huntsman_arrow.dds
+data:
+  weight: 1.5
+  value: 20
+  flags: ''

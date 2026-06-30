@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: TR_m7_Ns_TheaterLantern
+name: ''
+script: TR_m7_Ns_StageFright_ScSceneObj
+mesh: Sky\l\Sky_Light_Nord_LAT_04.nif
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 10
+  time: -1
+  radius: 50
+  color:
+  - 245
+  - 140
+  - 40
+  - 0
+  flags: DYNAMIC | FIRE | FLICKER_SLOW

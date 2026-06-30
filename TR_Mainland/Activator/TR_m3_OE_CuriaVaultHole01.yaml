@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m3_OE_CuriaVaultHole01
+name: Hole in the Floor
+script: TR_m3_OE_CuriaVaultHole01SCP
+mesh: tr\f\TR_furn_buttonblack.nif

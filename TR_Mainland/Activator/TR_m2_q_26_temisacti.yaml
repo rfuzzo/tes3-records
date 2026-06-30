@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m2_q_26_temisacti
+name: Temis Activate JournalScript
+script: ''
+mesh: EditorMarker.NIF

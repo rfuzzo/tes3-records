@@ -1,0 +1,36 @@
+type: Alchemy
+flags: ''
+id: T_Com_Subst_Perfume_03
+name: Minotaur Horn Essence
+script: ''
+mesh: pc\m\pc_perfume_03.nif
+icon: pc\m\pc_perfume_03.dds
+effects:
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Personality
+  range: OnSelf
+  area: 0
+  duration: 90
+  min_magnitude: 20
+  max_magnitude: 20
+- magic_effect: FortifyAttackBonus
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 90
+  min_magnitude: 10
+  max_magnitude: 10
+- magic_effect: FortifyFatigue
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 90
+  min_magnitude: 80
+  max_magnitude: 80
+data:
+  weight: 1.5
+  value: 130
+  flags: ''

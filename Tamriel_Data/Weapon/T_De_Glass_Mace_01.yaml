@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_De_Glass_Mace_01
+name: Glass Mace
+script: ''
+mesh: tr\w\tr_w_glass_mace.nif
+icon: tr\w\tr_w_glass_mace.dds
+enchanting: ''
+data:
+  weight: 17.6
+  value: 10000
+  weapon_type: BluntOneHand
+  health: 960
+  speed: 1.5
+  reach: 1.0
+  enchantment: 30
+  chop_min: 5
+  chop_max: 23
+  slash_min: 5
+  slash_max: 23
+  thrust_min: 1
+  thrust_max: 3
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

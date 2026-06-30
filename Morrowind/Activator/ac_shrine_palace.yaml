@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: ac_shrine_palace
+name: Palace Shrine
+script: shrinePalace
+mesh: f\Furn_shrine_vivec_01.NIF

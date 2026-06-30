@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_AndothDweRuinLight01
+name: ''
+script: TR_m4_AndothDweLight01_scp
+mesh: l\light_dwrv_neonbroke00.nif

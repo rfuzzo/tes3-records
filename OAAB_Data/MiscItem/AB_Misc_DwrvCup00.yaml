@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_DwrvCup00
+name: Ornate Dwemer Cup
+script: ''
+mesh: OAAB\m\dwrv_cup00.nif
+icon: OAAB\m\misc_dwrv_cup00.dds
+data:
+  weight: 0.5
+  value: 20
+  flags: ''

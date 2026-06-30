@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: AB_light_ComSconceLeverEXAMPLE
+name: Loose Sconce
+script: AB_Example_s
+mesh: OAAB\l\comSconceLever.nif

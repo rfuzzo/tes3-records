@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2_bk_jail-log_i393
+name: Tel Mothriva Jail Log
+script: ''
+mesh: m\Text_Quarto_03.nif
+icon: m\Tx_quarto_03.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This book details the prisoners that have passed through the Tel Mothrivra jail in the past eight months]<BR>"
+data:
+  weight: 4.0
+  value: 250
+  book_type: Book
+  skill: None
+  enchantment: 0

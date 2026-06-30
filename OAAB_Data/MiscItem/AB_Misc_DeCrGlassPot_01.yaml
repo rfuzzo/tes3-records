@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_DeCrGlassPot_01
+name: Crystal Glass Pot
+script: ''
+mesh: OAAB\m\misc_cr_glass_pot.nif
+icon: OAAB\m\misc_cr_glass_pot.dds
+data:
+  weight: 2.5
+  value: 3
+  flags: ''

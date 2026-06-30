@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Echo_31
+name: HIGH HLAALU ABDICATES
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_text_note_nar_news.nif
+icon: tr\m\tr_text_note_nar_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\tr_echo_512_256.dds\" WIDTH=\"348\" HEIGHT=\"168\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nHIGH HLAALU ABDICATES<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nA shock and a great blow to all loyal Hlaalu of Narsis -- and truly all of Morrowind -- as Athires Hlaalu, \"Prince of Narsis\" and former Grandmaster of House Hlaalu steps down from his position, retiring and moving on to (as an additional shock to the Temple faithful) \"pursue the face of Veloth.\"<BR><BR>\r\nPatriarch of the Second Hlaalu Family, Athires championed and led our glorious house past the cruel outlander Armistice and into the burgeoning Third Age; under his mighty stewardship House Hlaalu grew and flourished, expanding north onto the sacred Black Isle of Vvardenfell and enterprising across all stretches of Morrowind. With Grandmaster Athires abdicating and a new leader of the House confirmed, it is unclear whether the future of our house is to be just as fruitful.<BR><BR>\r\nMost unprecedented of all, an outlander now commands our illustrious clan -- the new Grandmaster being %PCName -- a %PCRace. This outlander has been quickly rising through the ranks in the house, earning enough votes from various Hlaalu councilors to be rightfully elected as High Hlaalu, in addition to former Grandmaster Athires' consent. While many praise this new direction, others criticize Grandmaster %PCName, fearing that the house may become even more susceptible to Imperial influence without a strong, native patriarch to lead the house in the right, traditional direction.<BR><BR>\r\nNow, testified by the new Grandmaster, who apparently also was a witness to the event, former High Hlaalu Athires has left Narsis in search of Saint Veloth himself, after experiencing a vision of his face and supposedly sharing conversation with him. Though slow to accept this revelation, many in the Temple have agreed that these accounts truly are valid, as the former Grandmaster's visionary dreams were proved to be true as they foretold a kidnapped incarnation of a saint, who was then saved and sanctioned by the Temple. A new shrine built at the point of this saint's revelation to Athires, the Temple is said to be actively sponsoring former High Hlaalu Athires' search for the prophet Veloth.<BR><BR>\r\nMany now ponder the future of Great House Hlaalu, but we at the Canyon Echo can say with surety that for better or for worse, for richer or for poorer, native or outlander, no one can ever replace former Grandmaster Athires Hlaalu.<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

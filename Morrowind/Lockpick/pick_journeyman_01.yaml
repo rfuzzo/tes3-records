@@ -1,0 +1,12 @@
+type: Lockpick
+flags: ''
+id: pick_journeyman_01
+name: Journeyman's Lockpick
+script: ''
+mesh: m\Pick_Journeyman_01.NIF
+icon: m\Tx_pick_J_01.tga
+data:
+  weight: 0.25
+  value: 50
+  quality: 1.1
+  uses: 25

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Yne_FurnM_Bed_02
+name: Bed
+script: Bed_Standard
+mesh: pi\f\yn_furnm_bed_02.nif

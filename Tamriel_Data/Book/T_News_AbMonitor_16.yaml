@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_AbMonitor_16
+name: NEW POCKET GUIDE TO THE EMPIRE
+script: T_ScNews_Bellman_Paper
+mesh: pc\m\pc_text_note_anv_news.nif
+icon: pc\m\pc_text_note_anv_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"PC\\pc_abmonitor.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nGEOGRAPHICAL SOCIETY CALLS FOR TRAVELERS' TALES<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nAfter months of speculation, the Imperial Geographical Society confirmed that it will indeed publish a Third Edition of its much-celebrated Pocket Guide to the Empire.<BR><BR>\r\nThe First Edition of the Guide, published during the early reign of Tiber Septim, and the Second Edition, published during the reign of Empress Morihatha, made enormous contributions to Imperial unity, bringing readers to far-flung corners of Tamriel during critical moments in Imperial history. That the Society has chosen this moment to publish a new Guide speaks to the importance of the contemporary age and the need to document the modern Empire for a modern generation.<BR><BR>\r\nWolli Antipodine, head of the Society's office in Anvil, has put out a call for travelers' testimonials, particularly those who have visited the recently-opened island of Vvardenfell in Morrowind Province.<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

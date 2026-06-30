@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m7_Shortsword_Ethala
+name: Ethala Faranis' Shortsword
+script: ''
+mesh: tr\w\tr_w_glass_ssword_01.nif
+icon: tr\w\tr_w_glass_ssword_01.dds
+enchanting: TR_m7_Shortsword_Ethala_en
+data:
+  weight: 8.0
+  value: 8000
+  weapon_type: ShortBladeOneHand
+  health: 400
+  speed: 2.0
+  reach: 1.0
+  enchantment: 20
+  chop_min: 6
+  chop_max: 16
+  slash_min: 6
+  slash_max: 16
+  thrust_min: 8
+  thrust_max: 15
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

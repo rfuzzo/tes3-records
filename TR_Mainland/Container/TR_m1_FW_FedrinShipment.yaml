@@ -1,0 +1,19 @@
+type: Container
+flags: PERSISTENT
+id: TR_m1_FW_FedrinShipment
+name: Fedrin Adlan's Shipment
+script: TR_m1_FW_FedrinShipmentScript
+mesh: o\Contain_Com_Chest_01.NIF
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - exquisite_belt_01
+- - 2
+  - exquisite_pants_01
+- - 1
+  - exquisite_robe_01
+- - 2
+  - exquisite_shirt_01
+- - 2
+  - exquisite_skirt_01

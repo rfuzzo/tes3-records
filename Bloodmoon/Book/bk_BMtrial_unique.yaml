@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: bk_BMtrial_unique
+name: Letter from Rigmor to Risi
+script: rignoteScript
+mesh: m\Text_Note_02.nif
+icon: m\Tx_note_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nDearest Risi,<BR>\r\n<BR>\r\nWhy will you not see me? You know how I feel, and I know you feel the same about me. Please, simply consent to speak to me. Just a word, a moment with you, would ease my soul. If I cannot be with you, I will have to resort to something drastic.\r\n<BR>\r\nPlease, consider your feelings. Your husband is a lout, away for weeks at a time, with no consideration for your needs. I have always been there for you, and I always will be. We should be together, dear Risi.<BR>\r\nRH<BR>\r\n<BR>\r\n"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

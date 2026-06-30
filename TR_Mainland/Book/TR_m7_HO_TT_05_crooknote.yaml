@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_HO_TT_05_crooknote
+name: Letter to Gavls Salothran
+script: TR_m7_HO_TT_05_crooknote_scr
+mesh: m\Text_Parchment_02.nif
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\nThere is no way I can come to Andarannipal. It was hard enough to get the Guild to set up shop in Varashimmus, and that was mostly unoccupied. I want neither the locals nor my colleagues asking questions about why I need to take a boat to yet another Daedric ruin, and one filled with Mehrunes Dagon worshippers to boot.<BR>\r\n<BR>\r\nHave your man meet me in Idathren instead. No one will question why I go there. I'll have the items from Almas Thirr that you wanted ready, and will hand them over as soon as he brings me that enchanted staff you promised me.<BR>\r\n<BR>\r\n- T<BR>\r\n<BR>\r\n"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

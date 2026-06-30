@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_TV4_TownBanner
+name: 'Terenu Aryon: Trader'
+script: OutsideBanner
+mesh: f\Furn_de_banner_pawn_01.NIF

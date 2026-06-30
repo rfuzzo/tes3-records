@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_UH_HlerynShippingSchedule
+name: Hleryn Shipping Schedule
+script: ''
+mesh: pc\m\pc_bk_book_01_open.nif
+icon: pc\m\pc_bk_book_01_open.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n[This logbook records the dates and times the vast chains that span the Kanit River are lowered and lifted, in accordance with scheduled trade and travel through Hlerynhul.]<BR>"
+data:
+  weight: 2.0
+  value: 2
+  book_type: Book
+  skill: None
+  enchantment: 0

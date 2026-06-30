@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: dwrv_desk_tureynul
+name: Heavy Dwemer Desk
+script: ''
+mesh: o\contain_dwrv_desk00.nif
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - ingred_diamond_01
+- - 1
+  - bk_kagrenac'splans_excl
+- - 1
+  - Misc_SoulGem_Petty

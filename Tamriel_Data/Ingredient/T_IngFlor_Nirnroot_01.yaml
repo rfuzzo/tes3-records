@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_Nirnroot_01
+name: Nirnroot
+script: ''
+mesh: pc\n\pc_ingred_nirnroot.nif
+icon: pc\n\pc_tx_ingred_nirnroot.dds
+data:
+  weight: 0.2
+  value: 25
+  effects:
+  - RestoreMagicka
+  - DrainAttribute
+  - DetectAnimal
+  - DrainFatigue
+  skills:
+  - None
+  - Block
+  - Block
+  - Block
+  attributes:
+  - None
+  - Speed
+  - Agility
+  - Speed

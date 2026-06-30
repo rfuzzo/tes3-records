@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m3_essrose_i3-128-ind
+name: Black Rose Essential Oil
+script: ''
+mesh: TR\m\TR_misc_potion_04.NIF
+icon: TR\m\TR_misc_potion_04.dds
+data:
+  weight: 1.5
+  value: 50
+  flags: ''

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Mw_TerrChlorineDS_Pool256_01
+name: ''
+script: T_ScObj_Deshaan_ChlorinePool
+mesh: tr\x\tr_terr_dp_acid_256.nif

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_GoldBowl_01
+name: Gold Bowl
+script: ''
+mesh: pc\m\pc_misc_gold_bowl_01.nif
+icon: pc\m\pc_misc_gold_bowl_01.dds
+data:
+  weight: 5.0
+  value: 220
+  flags: ''

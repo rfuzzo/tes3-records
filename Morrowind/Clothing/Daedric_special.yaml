@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: Daedric_special
+name: Daedric Sanctuary Amulet
+script: amuletDaedraScript
+mesh: c\Amulet_Madstone.NIF
+icon: c\tx_amulet_Madstone.tga
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 3.0
+  value: 3100
+  enchantment: 150

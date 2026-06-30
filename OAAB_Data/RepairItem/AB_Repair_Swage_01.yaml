@@ -1,0 +1,12 @@
+type: RepairItem
+flags: ''
+id: AB_Repair_Swage_01
+name: Repair Swage
+script: ''
+mesh: OAAB\m\repair_swage_01.nif
+icon: OAAB\m\repair_swage_01.dds
+data:
+  weight: 4.0
+  value: 10
+  uses: 20
+  quality: 0.8

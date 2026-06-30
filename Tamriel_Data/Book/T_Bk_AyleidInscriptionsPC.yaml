@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_AyleidInscriptionsPC
+name: Ayleid Inscriptions
+script: ''
+mesh: pc\m\PC_bk_Book_04.nif
+icon: pc\m\pc_bk_book_04.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nAyleid Inscriptions and their Translations<BR>\r\nby Raelys Anine<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nThe following inscriptions were painstakingly transcribed and interpreted over many long years, and are preserved here for all time.<BR>\r\n<BR>\r\n--\r\nAv molag anyammis, av latta magicka.\r\n\"From fire, life; from light, magic.\"<BR>\r\n<BR>\r\n--\r\nBarra agea ry sou karan.\r\n\"Wear lore as your armor.\"<BR>\r\n<BR>\r\n--\r\nAgea haelia ne jorane emero laloria.\r\n\"Wisdom learned by pain is a reliable guide in dark times.\" [literally, \"Terrible wisdom never betrayed the loremasters.\"]<BR>\r\n<BR>\r\n--\r\nNou aldmeris mathmeldi admia aurane gandra sepredia av relleis ye brelyeis ye varlais.\r\n\"Our exiled Elven ancestors heard the welcoming gifts of peace in the streams and beech trees and stars.\" [\"Mathmeldi\" means literally \"from-home-driven.\" ]<BR>\r\n<BR>\r\n--\r\nSuna ye sunnabe.\r\n\"Bless and blessed be.\"<BR>\r\n<BR>\r\n--\r\nVa garlas agea, gravia ye goria, lattia mallari av malatu.\r\n\"In the caverns of lore, ugly and obscure, shines the gold of truth.\"<BR>\r\n<BR>\r\n--\r\nVabria frensca, sa belle, sa baune, amaraldane aldmeris adonai.\r\n\"The foaming wave, so thunderous, so mighty, heralds the lordly Elves.\"<BR>"
+data:
+  weight: 2.0
+  value: 350
+  book_type: Book
+  skill: None
+  enchantment: 0

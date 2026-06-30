@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_Card_07
+name: Loose Ties
+script: ''
+mesh: pc\m\pc_misc_card_07.nif
+icon: pc\m\pc_misc_card_07.dds
+data:
+  weight: 0.1
+  value: 1
+  flags: ''

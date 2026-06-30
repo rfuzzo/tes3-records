@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_FM_Barrel_01
+name: ''
+script: TR_NecMQ_SeherbalDestrScript
+mesh: tr\f\tr_barrel_broken02.nif

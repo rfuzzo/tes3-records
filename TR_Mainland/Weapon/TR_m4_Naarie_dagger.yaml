@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m4_Naarie_dagger
+name: Naarie's Dismissal
+script: ''
+mesh: w\W_dagger_glass.nif
+icon: w\tx_dagger_glass.tga
+enchanting: TR_m4_Naarie_dagger_en
+data:
+  weight: 1.8
+  value: 6000
+  weapon_type: ShortBladeOneHand
+  health: 300
+  speed: 2.5
+  reach: 1.0
+  enchantment: 12
+  chop_min: 6
+  chop_max: 15
+  slash_min: 6
+  slash_max: 15
+  thrust_min: 6
+  thrust_max: 12
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

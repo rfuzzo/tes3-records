@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngMine_Flashgrit_01
+name: Flashgrit
+script: ''
+mesh: hf\n\hf_ing_flashgrit.nif
+icon: hf\n\hf_ingred_flashgrit.dds
+data:
+  weight: 1.0
+  value: 200
+  effects:
+  - FireDamage
+  - Reflect
+  - Jump
+  - NightEye
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

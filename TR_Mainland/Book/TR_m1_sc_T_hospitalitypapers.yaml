@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_sc_T_hospitalitypapers
+name: Telvanni Hospitality Papers
+script: ''
+mesh: m\Text_Parchment_01.NIF
+icon: m\Tx_parchment_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n*Certification of Hospitality*<BR>\r\n<BR>\r\nBy Proclamation of Great House of Telvanni, City of Port Telvannis, Mainland Morrowind, by Authority of the Grand Council of the Great House Telvanni and its Several Client and Subsidiary Houses and Clans<BR>\r\n<BR>\r\nHereas at the general Sessions of the Mage-Lords and their Mouths held at the City of Port Telvannis on the 16th day of Second Seed in the four-hundred-and-twenty-first year of the Reign of our Sovereign King Hlaalu Athyn Llethan, by the Grace of All Gods, King of Morrowind, Duke of Mournhold; Defender of the People and the Law; Loyal Servant of the Emperor and Empire; etc.<BR>\r\n<BR>\r\nMuthsera Master Allasi Enduren Mage-Lord, Prefect of Hospitality of the City of Port Telvannis aforesaid, hath entered into Recognizance with Sureties, before us his Majesty's Magistrates of Peace, within the said District, whose Names are hereunder written:<BR>\r\n<BR>\r\nWe therefore his Majesty's said Magistrates, have hereby Licensed, and allowed the said %PCName the %PCClass, %PCRace, to travel abroad in the city of Port Telvannis and its environs upon his own recognizance, to visit with all and sundry, and make conversation and arrangements and to seek lodgings with the citizens, tradesmen, and publicans of said town as put forth under law by the Collective Articles of the Grand Council of the Great House Telvanni, Mainland Morrowind for three full years, from henceforth next ensuing, or till such other time as shall be by us, or some of our fellow Magistrates thereunto appointed; Provided that if the said %PCName the %PCClass, %PCRace does not from time to time during that time, well and truly observe the Collective Articles of the Council of the Great House Telvanni, then this License shall presently cease, and be utterly void.<BR>\r\n<BR>\r\nSigned,<BR>\r\n<BR>\r\nMuthsera Master Allasi Enduren Mage-Lord<BR>\r\nRepresenting the Grand Council of the Great House Telvanni<BR>\r\n"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: bk_drenblackmail
+name: Dren's Note
+script: ''
+mesh: m\Text_Scroll_01.NIF
+icon: m\Tx_scroll_open_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nRanes and Navil,<BR>\r\n<BR>\r\nYou have served me well over the years. My brother has been trying to stop our business. We've lost over half our shipments recently. The Duke may be my brother, but if he keeps interfering I am afraid he must be killed. I will be next in line and can consolidate my power before the Redorans even come up with a candidate. I am telling you this so that you know the risks you may be taking. If you are unwilling, I will accept your word of honor not to speak of our business. If you stay, I will reward you.<BR>\r\n<BR>\r\nD<BR>\r\n"
+data:
+  weight: 0.2
+  value: 100
+  book_type: Scroll
+  skill: None
+  enchantment: 0

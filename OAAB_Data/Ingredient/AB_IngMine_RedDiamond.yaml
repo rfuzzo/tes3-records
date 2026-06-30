@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: AB_IngMine_RedDiamond
+name: Red Diamond
+script: ''
+mesh: OAAB\n\gem_diamond_red_01.nif
+icon: OAAB\n\gem_diamond_red.dds
+data:
+  weight: 0.2
+  value: 300
+  effects:
+  - FortifyAttribute
+  - FireDamage
+  - DamageHealth
+  - Paralyze
+  skills:
+  - Block
+  - None
+  - None
+  - None
+  attributes:
+  - Intelligence
+  - None
+  - None
+  - None

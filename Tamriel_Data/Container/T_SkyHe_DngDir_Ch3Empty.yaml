@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: T_SkyHe_DngDir_Ch3Empty
+name: Old Chest
+script: ''
+mesh: sky\o\sky_furn_alt_chest_03.nif
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory: []

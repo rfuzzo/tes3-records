@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Nor_Orn_Shortsword_01
+name: Nordic Shortsword
+script: ''
+mesh: TR\w\TR_w_nord_ssword.nif
+icon: TR\w\TR_w_nord_ssword.dds
+enchanting: ''
+data:
+  weight: 11.0
+  value: 65
+  weapon_type: ShortBladeOneHand
+  health: 800
+  speed: 2.0
+  reach: 1.0
+  enchantment: 50
+  chop_min: 4
+  chop_max: 14
+  slash_min: 4
+  slash_max: 14
+  thrust_min: 9
+  thrust_max: 16
+  flags: ''

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_khajproph
+name: Vaba Maaszi Lhajiito
+script: ''
+mesh: TR\m\tr_note_a01.nif
+icon: tr\m\tr_note_a04.dds
+enchanting: sc_invisibility_en
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"640F0F\" SIZE=\"4\" FACE=\"Magic Cards\"><BR>\r\nThus speaks Riddle'thar through the lips of Rid-Thar-ri'Dhan<BR>\r\n<BR>\r\n\"Since the time of Dunmereth my people have been enslaved, beaten, raped, tortured, mutilated, and murdered; yet, the blind Dunmer cannot see their own savagery and cannot understand the flight from plantation and city alike. We come together here, you and I, not as outlaws, not as slaves, but as fugitives to peace and freedom.  <BR>\r\n<BR>\r\nDistant are the lands of Anequina and Pellitine. Our homelands are three hundred miles away, yet here they are comingled within our blood. Here within this place which once housed slave markets and the offspring of rape and torment, we stand united, prepared for our final journey westward to Llesw'er, to the paradise I have promised unto you.  <BR>\r\n<BR>\r\nBe not worrisome. Do not let fall your courage and will, for the path to Llesw'er is tortuous and many will fall along the road. The Cyrod's mountains and the Argon Jungles are treacherous. For those who must fall, let them fall. They are immortal within our veins. <BR>\r\n<BR>\r\nGather your possessions, sons and daughters. Make ready. Upon the alignment of Jone and Jode we shall offer the blood of a Dunmer unto Khenarthi that she may quicken our journey and unto the reborn Mane for his mercy. We will not run like frightened Argonians. We will not hide like the Dunmer. We will walk together, arm in arm, towards the western horizon, towards our race's destiny.<BR>\r\n<BR>\r\nThough I cannot go with you, I will guide you from beyond the spirit plane, from beyond the Lunar Lattice. We shall be together again in Llesw'er.\"<BR>\r\n<BR>"
+data:
+  weight: 0.0
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 100

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_SetHarbor_RowboatFloat
+name: ''
+script: Float
+mesh: pc\x\pc_ex_rowboat.nif

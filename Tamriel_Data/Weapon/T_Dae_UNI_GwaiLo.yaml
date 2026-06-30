@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Dae_UNI_GwaiLo
+name: Goujian
+script: ''
+mesh: tr\w\tr_w_gwai_lo_uni.nif
+icon: tr\w\tr_w_gwai_lo_uni.dds
+enchanting: T_Const_GwaiLo
+data:
+  weight: 24.0
+  value: 150000
+  weapon_type: LongBladeTwoClose
+  health: 10000
+  speed: 1.35
+  reach: 1.0
+  enchantment: 150
+  chop_min: 15
+  chop_max: 55
+  slash_min: 20
+  slash_max: 50
+  thrust_min: 30
+  thrust_max: 40
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

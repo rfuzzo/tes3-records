@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m3_q_sack_wooden
+name: Cloth Sack
+script: TR_m3_OE_q_TWoodenSack
+mesh: o\Contain_Com_Sack_02.NIF
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 20
+  - TR_m3_q_OE_tokenwood

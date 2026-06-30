@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: TR_i2-309_crate_ma03
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - -1
+  - T_Com_Chain_Cuirass_01
+- - -1
+  - T_Com_Chain_Cuirass_02
+- - -1
+  - T_Com_Chain_Cuirass_03
+- - 1
+  - dragonscale_cuirass

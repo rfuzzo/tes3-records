@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Glb_Mine_Spellstone02
+name: Spellstone
+script: ''
+mesh: TR\o\tr_cont_spellstone_02.nif
+encumbrance: 0.0
+container_flags: ORGANIC | IS_BASE
+inventory:
+- - 3
+  - T_Glb_Random_Spellstone

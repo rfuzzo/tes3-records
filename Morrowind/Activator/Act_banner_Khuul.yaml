@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: Act_banner_Khuul
+name: Khuul
+script: OutsideBanner
+mesh: f\Act_banner_Khull.nif

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_PotionBottle_03
+name: Glass Bottle
+script: ''
+mesh: TR\m\TR_misc_potion_03.NIF
+icon: TR\m\TR_misc_potion_03.dds
+data:
+  weight: 1.5
+  value: 20
+  flags: ''

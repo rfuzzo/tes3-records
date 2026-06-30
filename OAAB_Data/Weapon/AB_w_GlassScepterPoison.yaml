@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_GlassScepterPoison
+name: Wild Poisonruler
+script: ''
+mesh: OAAB\w\glass_scepter.nif
+icon: OAAB\w\glass_scepter.dds
+enchanting: AB_w_GlassScepterPoison_en
+data:
+  weight: 3.4
+  value: 2900
+  weapon_type: BluntOneHand
+  health: 200
+  speed: 1.5
+  reach: 1.0
+  enchantment: 46
+  chop_min: 4
+  chop_max: 10
+  slash_min: 4
+  slash_max: 10
+  thrust_min: 1
+  thrust_max: 4
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_SetCyr_SignFactRatCatc_01
+name: Ratcatchers Guild
+script: SignRotate
+mesh: pc\f\pc_furn_sign_rat_01.nif

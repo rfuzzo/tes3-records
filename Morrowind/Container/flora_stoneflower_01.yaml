@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: flora_stoneflower_01
+name: Stoneflower
+script: ''
+mesh: o\Flora_Stoneflower_01.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - random_stoneflower_petals

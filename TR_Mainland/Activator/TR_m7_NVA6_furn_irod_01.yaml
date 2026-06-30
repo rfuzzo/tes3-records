@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_NVA6_furn_irod_01
+name: ''
+script: TR_m7_NVA_Stage6_Persist
+mesh: Sky\f\Sky_Furn_IRod_01.NIF

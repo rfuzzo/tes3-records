@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Furn_DwrvJunctionBox_a
+name: Unusual Dwemer Socket
+script: AB_DwrvJunctionBox_s
+mesh: OAAB\u\dwrvActJunctionBox.nif

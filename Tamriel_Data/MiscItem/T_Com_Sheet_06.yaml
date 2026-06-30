@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_Sheet_06
+name: Cloth
+script: ''
+mesh: pc\m\pc_misc_sheet_06.nif
+icon: pc\m\pc_misc_sheet_06.dds
+data:
+  weight: 3.0
+  value: 5
+  flags: ''

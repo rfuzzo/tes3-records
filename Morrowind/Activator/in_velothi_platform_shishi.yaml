@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: in_velothi_platform_shishi
+name: ''
+script: ''
+mesh: i\in_velothi_platform_01.NIF

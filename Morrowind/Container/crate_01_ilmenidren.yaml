@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: crate_01_ilmenidren
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - exquisite_skirt_01
+- - 1
+  - exquisite_shirt_01
+- - 1
+  - exquisite_pants_01

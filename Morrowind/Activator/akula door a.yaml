@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: akula door a
+name: ''
+script: ''
+mesh: d\door_dwrv_main00.nif

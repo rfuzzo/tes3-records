@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: crate_01_random_pos_co
+name: Crate
+script: ColonyDock
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 6
+  - random_pos
+- - 5
+  - random gold
+- - 1
+  - random_loot_special
+- - 1
+  - random_potion_attribute_restore
+- - 20
+  - random_loot_special_marksman

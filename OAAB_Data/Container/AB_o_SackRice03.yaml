@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: AB_o_SackRice03
+name: Sack
+script: ''
+mesh: OAAB\o\MomoSack03Rice.nif
+encumbrance: 50.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 10
+  - random_saltrice

@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: shield_of_light
+name: Shield of Light
+script: ''
+mesh: a\A_Shield_Imperial.nif
+icon: a\Tx_Imperial_shield.tga
+enchanting: light_en
+biped_objects:
+- biped_object_type: Shield
+  male_bodypart: a_shield_imperial
+  female_bodypart: ''
+data:
+  armor_type: Shield
+  weight: 6.0
+  value: 85
+  health: 100
+  enchantment: 375
+  armor_rating: 5

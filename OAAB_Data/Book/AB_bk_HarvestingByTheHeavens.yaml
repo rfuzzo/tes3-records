@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: AB_bk_HarvestingByTheHeavens
+name: Harvesting By The Heavens
+script: ''
+mesh: OAAB\m\ab_folio_02.nif
+icon: OAAB\m\ab_folio_02_c.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>HARVESTING BY THE HEAVENS<BR>\r\nA Farmer's Guide To Navigating The Seasons<BR>\r\nThe Official Agricultural Almanac<BR>\r\nPublished by the Guild of Astrologers<BR>\r\n<BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\n\r\n[This lengthy tome contains lists of crops and botanicals, complete with tables of their preferred growing conditions and the Patron under whose auspices they grow best. These are followed by general weather predictions for the year to come, based on historic trends and the Guild of Astrologers' readings of the signs of Kynareth's domain. The appendix has a large section of reader-submitted recipes, folklore, and advertisements of dubious relevance. The following disclaimer is found on the first page:<BR><BR>\r\n\r\nThe Guild notes that while every effort is made to maintain the accuracy of this Almanac, the information within should be considered educational, not instructional. A wise farmer will make use of the best practices and guidelines described herein while adapting their methods to local conditions.<BR><BR>\r\n\r\nFurthermore, the Guild strenuously emphasizes that the constellation of The Serpent exercises an unpredictable influence on all things. Planting, harvesting, and material changes to conditions should be avoided during any appearance of the Serpent in the heavens.]\r\n<BR><BR>"
+data:
+  weight: 2.0
+  value: 20
+  book_type: Book
+  skill: None
+  enchantment: 0

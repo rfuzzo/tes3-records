@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Sky_Flora_AspyrTeaH01
+name: Dried Aspyr Tea Leaves
+script: ''
+mesh: Sky\o\Sky_Cont_AspT_Dry.nif
+encumbrance: 0.0
+container_flags: ORGANIC | IS_BASE
+inventory:
+- - 1
+  - T_IngFlor_AspyrTea_01

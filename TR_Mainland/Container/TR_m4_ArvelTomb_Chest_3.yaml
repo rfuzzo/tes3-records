@@ -1,0 +1,19 @@
+type: Container
+flags: PERSISTENT
+id: TR_m4_ArvelTomb_Chest_3
+name: Chest
+script: TR_m4_DisableOnce_scp
+mesh: o\Contain_De_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 100
+  - Gold_001
+- - 1
+  - Misc_SoulGem_Grand
+- - 1
+  - expensive_amulet_03
+- - 1
+  - expensive_ring_03
+- - 3
+  - ingred_pearl_01

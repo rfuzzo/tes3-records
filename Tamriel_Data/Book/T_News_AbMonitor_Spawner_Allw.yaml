@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_AbMonitor_Spawner_Allw
+name: The Abecean Monitor
+script: T_ScNews_AbMonitor_Spawner_Allw
+mesh: pc\m\pc_text_note_anv_news.nif
+icon: pc\m\pc_text_note_anv_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"PC\\pc_abmonitor.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\"><BR>\r\n\r\nThis note spawns different editions of the Abecean Monitor randomly and depending on the Journal stage of various quests.<br><br>\r\n\r\nSpawned Monitor entries last two days unless picked up. After two days, they delete themselves, and this spawner spawns a new copy.<br><br>\r\n\r\nPlace this note where you want Monitor entries to spawn in a cell - you can rotate it however you please - but do not place it into inventories.<br><br>\r\n\r\nIf you're reading this in game, something is wrong.<br><br>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

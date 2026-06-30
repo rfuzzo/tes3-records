@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m3_Gilnam_Heirloom
+name: Gilnam Family Heirloom
+script: ''
+mesh: c\Amulet_Common_3.NIF
+icon: c\tx_amulet_com3.tga
+enchanting: TR_m3_Gilnam_Heirloom_en
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 120
+  enchantment: 10

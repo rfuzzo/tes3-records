@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: bk_pillowinvoice
+name: Invoice
+script: ''
+mesh: m\Text_Parchment_02.nif
+icon: m\Tx_scroll_open_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nImperial Bedding Supplies<BR>\r\nInvoice<BR>\r\n<BR>\r\nFor immediate delivery to:<BR>\r\n<BR>\r\nDrarayne Thelas<BR>\r\nof Balmora in Vvardenfell<BR>\r\n<BR>\r\n40 pillows<BR>\r\n<BR>\r\nShipped: 8th day of Morning Star, 3E426<BR>\r\n"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 100

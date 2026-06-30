@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_YellowGlassBowl01
+name: Yellow Glass Bowl
+script: ''
+mesh: tr\m\tr_misc_yelglas_bowl01.nif
+icon: tr\m\tr_misc_yelglass_bowl.dds
+data:
+  weight: 3.0
+  value: 4
+  flags: ''

@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: de_p_closet_02_llervi
+name: Closet
+script: ''
+mesh: o\Contain_De_Closet_02.NIF
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory:
+- - -2
+  - l_m_enchantitem_temple_rank0_1
+- - -5
+  - l_m_enchantitem_redoran_rank2
+- - -2
+  - l_m_enchantitem_imperial_rank0
+- - -2
+  - l_m_enchantitem_hlaalu_rank0
+- - -3
+  - l_m_enchantitem_telvanni_rank01

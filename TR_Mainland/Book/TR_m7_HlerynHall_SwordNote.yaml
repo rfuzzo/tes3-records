@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_HlerynHall_SwordNote
+name: Hleryn Family Heirloom
+script: ''
+mesh: m\Text_Scroll_01.NIF
+icon: m\Tx_scroll_open_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nHleryn Family Sword<BR>\r\n\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nThis sword has been passed down the generations of the Hleryn family as an heirloom and a symbol of strength, dating back to the second era. It is long said to be \"forged from the finest blades of light and darkness.\"<BR>\r\n"
+data:
+  weight: 0.2
+  value: 3
+  book_type: Scroll
+  skill: None
+  enchantment: 0

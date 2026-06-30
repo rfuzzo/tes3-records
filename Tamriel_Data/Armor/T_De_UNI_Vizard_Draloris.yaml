@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_De_UNI_Vizard_Draloris
+name: Vizard of the Assassin
+script: ''
+mesh: a\A_MoragTong_Helm.NIF
+icon: a\Tx_MoragTong_Helm.tga
+enchanting: T_Use_VizardAssassin
+biped_objects:
+- biped_object_type: Head
+  male_bodypart: a_moragtong_helm
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 3.0
+  value: 5200
+  health: 120
+  enchantment: 540
+  armor_rating: 12

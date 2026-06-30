@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_Glb_UNI_Skyrim_Ice_01
+name: Skyrim Ice
+script: ''
+mesh: tr\n\tr_ing_skyrim_ice.nif
+icon: tr\n\tr_ing_skyrim_ice.dds
+data:
+  weight: 5.0
+  value: 500
+  effects:
+  - ResistFrost
+  - FrostDamage
+  - FrostShield
+  - Silence
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

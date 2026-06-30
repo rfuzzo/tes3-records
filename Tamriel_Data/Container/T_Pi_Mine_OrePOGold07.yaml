@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Pi_Mine_OrePOGold07
+name: Raw Gold
+script: ''
+mesh: pi\o\pi_cont_porock_gold_07.nif
+encumbrance: 0.0
+container_flags: ORGANIC | IS_BASE
+inventory:
+- - 8
+  - T_Pi_Random_OreGold

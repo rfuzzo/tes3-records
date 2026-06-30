@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Bre_RedGlassPot_01
+name: Gilded Red Glass Pot
+script: ''
+mesh: hr\m\m_red_glass_pot.nif
+icon: hr\m\m_red_glass_pot.dds
+data:
+  weight: 2.0
+  value: 220
+  flags: ''

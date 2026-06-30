@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: ring_dahrkmezalf_uniq
+name: Ring of Dahrk Mezalf
+script: ''
+mesh: c\C_Ring_expensive_1.NIF
+icon: c\tx_ring_expensive01.tga
+enchanting: dahrk_mezalf_en_unique
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 60
+  enchantment: 150

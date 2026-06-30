@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_Set_WayshrineStendarr_01
+name: Wayshrine of Stendarr
+script: T_ScObj_ShrineWayStendarrPC
+mesh: pc\x\PC_Act_WShrn.nif

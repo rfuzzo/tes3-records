@@ -1,0 +1,31 @@
+type: Container
+flags: ''
+id: T_HRCom_Furn_Ch2MGuild
+name: Mages' Guild Supply Chest
+script: ''
+mesh: o\contain_com_chest_02.nif
+encumbrance: 300.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - Misc_SoulGem_Lesser
+- - 2
+  - Misc_SoulGem_Petty
+- - 1
+  - T_EnSc_Com_FallingBarrier
+- - 1
+  - p_fortify_intelligence_s
+- - 2
+  - p_fortify_willpower_s
+- - 1
+  - p_restore_health_s
+- - 10
+  - p_restore_magicka_s
+- - 1
+  - p_restore_willpower_s
+- - 1
+  - p_spell_absorption_s
+- - 3
+  - sc_daydenespanacea
+- - 2
+  - sc_divineintervention

@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: T_SkyNor_FurnM_Cl1CltM
+name: Closet
+script: ''
+mesh: sky\o\sky_furn_n_m_clst_01.nif
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - T_Sky_Random_Clothing
+- - 1
+  - T_Sky_Random_ClothingPantsMid
+- - 1
+  - T_Sky_Random_ClothingShirtsMid

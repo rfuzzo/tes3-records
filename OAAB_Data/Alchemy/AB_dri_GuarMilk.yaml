@@ -1,0 +1,20 @@
+type: Alchemy
+flags: ''
+id: AB_dri_GuarMilk
+name: Guar Milk
+script: ''
+mesh: OAAB\n\dri_guarmilk_01.nif
+icon: OAAB\n\dri_guarmilk_01.dds
+effects:
+- magic_effect: RestoreHealth
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 1
+  max_magnitude: 1
+data:
+  weight: 1.0
+  value: 4
+  flags: ''

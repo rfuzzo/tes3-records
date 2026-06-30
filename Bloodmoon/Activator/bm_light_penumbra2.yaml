@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: bm_light_penumbra2
+name: ''
+script: pentorch2Script
+mesh: f\act_light_sconce_off.NIF

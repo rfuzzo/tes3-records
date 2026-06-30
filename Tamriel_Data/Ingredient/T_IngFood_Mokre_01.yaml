@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_Mokre_01
+name: Mokre
+script: ''
+mesh: pc\n\PC_Mokre.nif
+icon: pc\n\pc_Mokre.tga
+data:
+  weight: 1.0
+  value: 150
+  effects:
+  - DrainAttribute
+  - Levitate
+  - DrainHealth
+  - Reflect
+  skills:
+  - Block
+  - Block
+  - None
+  - Mysticism
+  attributes:
+  - Personality
+  - Personality
+  - None
+  - Strength

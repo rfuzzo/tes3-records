@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Imp_Reman_Mace_01
+name: Reman Legion Mace
+script: ''
+mesh: pc\w\pc_w_reman_mace.nif
+icon: pc\w\pc_w_reman_mace.dds
+enchanting: ''
+data:
+  weight: 13.0
+  value: 130
+  weapon_type: BluntOneHand
+  health: 1700
+  speed: 1.4
+  reach: 1.0
+  enchantment: 40
+  chop_min: 4
+  chop_max: 9
+  slash_min: 4
+  slash_max: 9
+  thrust_min: 1
+  thrust_max: 1
+  flags: ''

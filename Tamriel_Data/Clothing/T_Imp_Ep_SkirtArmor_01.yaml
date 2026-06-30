@@ -1,0 +1,17 @@
+type: Clothing
+flags: ''
+id: T_Imp_Ep_SkirtArmor_01
+name: Imperial Leather Skirt
+script: ''
+mesh: pc\a\pc_a_pge_skirt_g.nif
+icon: pc\a\pc_a_pge01_skirt.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Skirt
+  male_bodypart: T_C_ImpSkirtArmor01_G
+  female_bodypart: ''
+data:
+  clothing_type: Skirt
+  weight: 4.0
+  value: 15
+  enchantment: 75

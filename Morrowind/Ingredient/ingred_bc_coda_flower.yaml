@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_bc_coda_flower
+name: Coda Flower
+script: ''
+mesh: n\Ingred_BC_Coda_Flower.NIF
+icon: n\Ingred_BC_Coda_Flower.tga
+data:
+  weight: 0.1
+  value: 23
+  effects:
+  - DrainAttribute
+  - Levitate
+  - DrainAttribute
+  - DrainHealth
+  skills:
+  - Block
+  - Block
+  - Block
+  - Block
+  attributes:
+  - Personality
+  - Strength
+  - Intelligence
+  - Strength

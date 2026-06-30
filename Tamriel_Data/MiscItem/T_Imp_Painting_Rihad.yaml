@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_Painting_Rihad
+name: Young Woman from Rihad
+script: ''
+mesh: pc\m\PC_M_Painting_Rihad.nif
+icon: pc\m\PC_M_Painting_Rihad.dds
+data:
+  weight: 5.0
+  value: 200
+  flags: ''

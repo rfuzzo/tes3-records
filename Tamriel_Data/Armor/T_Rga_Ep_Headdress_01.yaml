@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Rga_Ep_Headdress_01
+name: Expensive Redguard Hat
+script: ''
+mesh: pc\c\pc_fcot_rg_helm_gnd.nif
+icon: pc\c\pc_fcot_rg_helm.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Hair
+  male_bodypart: T_C_RgaEpHeaddress01_Hr
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 1.0
+  value: 20
+  health: 50
+  enchantment: 100
+  armor_rating: 5

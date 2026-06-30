@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_QyC_Ex_Amulet_01
+name: Exquisite Amulet
+script: ''
+mesh: pi\m\pi_c_qc_amulet_02.nif
+icon: pi\c\pi_c_qc_amulet_02.dds
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 240
+  enchantment: 1200

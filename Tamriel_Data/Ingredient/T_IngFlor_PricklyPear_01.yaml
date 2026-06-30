@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_PricklyPear_01
+name: Prickly pear
+script: ''
+mesh: hf\n\hf_ingred_PrickPear_01.nif
+icon: hf\n\hf_ingred_PrickPear_01.dds
+data:
+  weight: 0.2
+  value: 3
+  effects:
+  - RestoreFatigue
+  - DrainAttribute
+  - RestoreHealth
+  - DamageHealth
+  skills:
+  - None
+  - Block
+  - None
+  - None
+  attributes:
+  - None
+  - Willpower
+  - None
+  - None

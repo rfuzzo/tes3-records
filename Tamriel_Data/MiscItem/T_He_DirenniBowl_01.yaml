@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_He_DirenniBowl_01
+name: Direnni Bowl
+script: ''
+mesh: sky\m\sky_misc_dbowl_01.nif
+icon: sky\m\tx_misc_dbowl_01.dds
+data:
+  weight: 1.6
+  value: 14
+  flags: ''

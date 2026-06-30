@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Imp_Templar_Waraxe_01
+name: Imperial Templar War Axe
+script: ''
+mesh: tr\w\tr_w_temp_Waraxe.nif
+icon: tr\w\tr_w_temp_waraxe.dds
+enchanting: ''
+data:
+  weight: 24.0
+  value: 260
+  weapon_type: AxeOneHand
+  health: 1350
+  speed: 1.25
+  reach: 1.0
+  enchantment: 50
+  chop_min: 1
+  chop_max: 26
+  slash_min: 1
+  slash_max: 14
+  thrust_min: 1
+  thrust_max: 5
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

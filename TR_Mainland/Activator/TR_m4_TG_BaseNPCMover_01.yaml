@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m4_TG_BaseNPCMover_01
+name: TG Base NPC Mover
+script: TR_m4_TG_BaseNPCMover_scp
+mesh: EditorMarker.NIF

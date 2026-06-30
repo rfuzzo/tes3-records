@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: TR_m3_FM_Firepit_01
+name: ''
+script: TR_NecMQ_SeherbalDestrScript
+mesh: l\Furn_De_Firepit_F_01.NIF
+icon: ''
+sound: Fire 50
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 256
+  color:
+  - 255
+  - 140
+  - 40
+  - 0
+  flags: DYNAMIC | FIRE | FLICKER_SLOW

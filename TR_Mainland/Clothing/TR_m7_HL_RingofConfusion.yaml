@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m7_HL_RingofConfusion
+name: Ring of Confusion
+script: ''
+mesh: c\C_Ring_extravagant_1.NIF
+icon: c\tx_ring_extravagant01.tga
+enchanting: TR_m7_HL_RingofConfusion_en
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 350
+  enchantment: 600

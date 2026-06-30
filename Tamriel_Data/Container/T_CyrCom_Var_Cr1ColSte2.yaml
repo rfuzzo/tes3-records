@@ -1,0 +1,27 @@
+type: Container
+flags: ''
+id: T_CyrCom_Var_Cr1ColSte2
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Imp_ColSteel_Boots_02
+- - 1
+  - T_Imp_ColSteel_Cuirass_02
+- - 1
+  - T_Imp_ColSteel_GauntletL_02
+- - 1
+  - T_Imp_ColSteel_GauntletR_02
+- - 1
+  - T_Imp_ColSteel_Greaves_02
+- - 1
+  - T_Imp_ColSteel_Helm_02
+- - 1
+  - T_Imp_ColSteel_Helm_06
+- - 1
+  - T_Imp_ColSteel_PauldronL_02
+- - 1
+  - T_Imp_ColSteel_PauldronR_02

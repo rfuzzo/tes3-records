@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: BM_Ice_cuirass
+name: Ice Armor Cuirass
+script: ''
+mesh: a\A_Ice_M_Cuirass_GND.NIF
+icon: A\Ice_M_Chest.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: A_Ice_M_cuirass
+  female_bodypart: A_Ice_F_Cuirass
+data:
+  armor_type: Cuirass
+  weight: 27.0
+  value: 5000
+  health: 1000
+  enchantment: 180
+  armor_rating: 50

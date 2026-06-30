@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: dwrv_chest_fals
+name: Heavy Dwemer Chest
+script: ''
+mesh: o\contain_dwrv_chest00.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - misc_dwrv_goblet10
+- - 1
+  - misc_dwrv_artifact00
+- - 1
+  - misc_dwrv_artifact50
+- - 1
+  - misc_dwrv_artifact60

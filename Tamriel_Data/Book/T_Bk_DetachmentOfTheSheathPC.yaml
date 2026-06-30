@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_DetachmentOfTheSheathPC
+name: Detachment of the Sheath
+script: ''
+mesh: pc\m\pc_bk_book_22_open.nif
+icon: pc\m\pc_bk_book_22_open.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>On the Detachment of the Sheath from the Integument<BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\nby Arch-Prelate Fervidius Tharn<BR>\r\n<BR>\r\nThough all given Concavities, or sheathes within the integument of the Aurbis, are necessarily contained by the Aurbis, Right Reaching dictates that a defined sheath may be detached from the integument by invocation of Mnemoli. Upon intercourse with the star-orphan, the Beseeching Alesstic performs eversion of the organ of thought, an employment of the Hurling Disk that recapitulates the truth that a circle turned sidewise is a Tower. BY the same-truth, twisting the enveloping sheath into the middle dawn (to the number of seventeen) brings it to untime and unplace.<BR>\r\n<BR>\r\nEventualism, of course, predicts reabsorption upon depletion of the Wheeling Force, but the absence of duration may render even eventuality moot.<BR><BR>"
+data:
+  weight: 4.0
+  value: 140
+  book_type: Book
+  skill: None
+  enchantment: 0

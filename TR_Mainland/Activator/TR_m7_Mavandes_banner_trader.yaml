@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_Mavandes_banner_trader
+name: Trader
+script: OutsideBanner
+mesh: tr\f\tr_act_banner_trade_02.nif

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_DeCloth02Small
+name: Cloth
+script: ''
+mesh: OAAB\m\misc_cloth_02a.nif
+icon: OAAB\m\misc_cloth_02a.tga
+data:
+  weight: 1.0
+  value: 1
+  flags: ''

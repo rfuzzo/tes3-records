@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Note_ChaoticallyScrawledTR
+name: Chaotically scrawled note
+script: T_ScBook_SpSound
+mesh: m\Text_Note_02.nif
+icon: m\Tx_note_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>\r\nMadness save me, madness take me!<BR>\r\nMadness preserve me from madness greater still!<BR>\r\nChatter and chatter, night and day, day and night!<BR>\r\nI have no rest, no quiet, not a piece of my own mind!<BR>\r\nSo much gold glitters before me, but I value the saint<BR>\r\nand the one with mask is no saint!<BR>\r\nMadness save me from my dreams!<BR>\r\nHide me, give me the peace of insanity!<BR>\r\nI am drawn to the mountain,<BR>\r\nbut do not let me go!<BR>\r\nI am drawn and quartered in faith<BR>\r\nbut I am loyal to the end!<BR>\r\nForgive me for hearing his terrible voice<BR>\r\neven though I have scratched off my ears!<BR>\r\nForgive me for seeing his terrible dreams<BR>\r\neven though I have torn out my eyes!<BR>\r\nForgive me for allowing him to infect my flesh<BR>\r\neven though I still try to burn it away!<BR>\r\nHe wants me, to corrupt and taint<BR>\r\nbut I'm already touched by you, lord!<BR>\r\nSheogorath, I'm coming home to you!<BR>\r\nSheogorath, I'm<BR>\r\n<BR>\r\n[There may have been more to the note, but the rest has been covered by what is presumably the author's blood, or rendered illegible by its smearing] <BR>\r\n"
+data:
+  weight: 1.5
+  value: 150
+  book_type: Scroll
+  skill: None
+  enchantment: 100

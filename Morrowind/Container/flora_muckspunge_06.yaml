@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: flora_muckspunge_06
+name: Muckspunge
+script: ''
+mesh: f\Flora_muckspunge_06.NIF
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - random_muck

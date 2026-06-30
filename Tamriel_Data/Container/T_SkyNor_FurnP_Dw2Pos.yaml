@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: T_SkyNor_FurnP_Dw2Pos
+name: Endtable
+script: ''
+mesh: Sky\o\Sky_Furn_N_L_ET_01.nif
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Sky_Random_MiscBowl
+- - 2
+  - T_Sky_Random_MiscMug
+- - 1
+  - T_Sky_Random_MiscPot

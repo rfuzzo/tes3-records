@@ -1,0 +1,22 @@
+type: Armor
+flags: ''
+id: daedric_pauldron_left
+name: Daedric Left Pauldron
+script: ''
+mesh: a\A_Daedric_Pauldron_GND.nif
+icon: a\Tx_Daedric_pauldron.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: LeftUpperArm
+  male_bodypart: a_daedric_pauldron_ua
+  female_bodypart: ''
+- biped_object_type: LeftPauldron
+  male_bodypart: a_daedric_pauldron_cl
+  female_bodypart: ''
+data:
+  armor_type: LeftPauldron
+  weight: 30.0
+  value: 24000
+  health: 800
+  enchantment: 60
+  armor_rating: 80

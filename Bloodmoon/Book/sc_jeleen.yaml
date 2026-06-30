@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: sc_jeleen
+name: Jeleen's Sad Farewell
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nWithout my beautiful Mirisa, life is just not worth living. Only in death may I see my love again, so death is the course I choose. May the Nine Divines have mercy on my soul. <BR>\r\n<BR>\r\nJeleen<BR>\r\nImperial Cult Priest, Fort Frostmoth\r\n<BR>\r\n"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

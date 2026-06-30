@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_AshlStaffAzura
+name: Staff of Visions
+script: ''
+mesh: OAAB\w\ashstaffdaedric01.nif
+icon: OAAB\w\ashstaffdaedric01.dds
+enchanting: AB_w_AshlStaffAzura_en
+data:
+  weight: 16.0
+  value: 850
+  weapon_type: BluntTwoWide
+  health: 950
+  speed: 1.75
+  reach: 1.8
+  enchantment: 100
+  chop_min: 1
+  chop_max: 12
+  slash_min: 1
+  slash_max: 12
+  thrust_min: 1
+  thrust_max: 6
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m7_Ns_MG_Mys_act
+name: ''
+script: TR_m7_Ns_MG_Mys_Act_sc
+mesh: EditorMarker.nif

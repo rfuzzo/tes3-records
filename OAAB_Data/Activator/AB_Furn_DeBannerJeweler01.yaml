@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Furn_DeBannerJeweler01
+name: ''
+script: OutsideBanner
+mesh: OAAB\u\de_banner_jewel_01.nif

@@ -1,0 +1,22 @@
+type: Armor
+flags: ''
+id: imperial right pauldron
+name: Imperial Steel Right Pauldron
+script: ''
+mesh: a\A_Imperial_Pauldron_GND.nif
+icon: a\Tx_Imperial_pauldron.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: RightPauldron
+  male_bodypart: imperial cl pauldron
+  female_bodypart: ''
+- biped_object_type: RightUpperArm
+  male_bodypart: imperial ua
+  female_bodypart: ''
+data:
+  armor_type: RightPauldron
+  weight: 10.0
+  value: 53
+  health: 160
+  enchantment: 20
+  armor_rating: 16

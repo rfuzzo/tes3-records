@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: TR_m2_l_horror_eyes_2000
+name: ''
+script: ''
+mesh: l\Light_Fire.NIF
+icon: ''
+sound: Fire 50
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 2000
+  color:
+  - 213
+  - 0
+  - 0
+  - 0
+  flags: DYNAMIC | FIRE | FLICKER_SLOW

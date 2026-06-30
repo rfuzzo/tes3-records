@@ -1,0 +1,23 @@
+type: Clothing
+flags: ''
+id: T_De_Ex_SkirtHla_06
+name: Exquisite Skirt
+script: ''
+mesh: tr\c\tr_c_skirt_exq06_gnd.nif
+icon: tr\c\tr_c_skirt_exq06.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Skirt
+  male_bodypart: T_C_DeExSkirt06
+  female_bodypart: ''
+- biped_object_type: LeftKnee
+  male_bodypart: ''
+  female_bodypart: ''
+- biped_object_type: RightKnee
+  male_bodypart: ''
+  female_bodypart: ''
+data:
+  clothing_type: Skirt
+  weight: 2.0
+  value: 120
+  enchantment: 600

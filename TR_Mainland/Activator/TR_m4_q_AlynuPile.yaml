@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_q_AlynuPile
+name: Dirt Pile
+script: TR_m4_AlynuPileScript
+mesh: tr\x\TR_terrain_sand_07.nif

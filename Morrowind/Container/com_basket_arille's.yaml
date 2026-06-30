@@ -1,0 +1,41 @@
+type: Container
+flags: ''
+id: com_basket_arille's
+name: Basket
+script: ''
+mesh: o\Contain_Com_Basket_01.NIF
+encumbrance: 350.0
+container_flags: IS_BASE
+inventory:
+- - -100
+  - chitin arrow
+- - 1
+  - chitin short bow
+- - 1
+  - iron war axe
+- - 1
+  - iron spear
+- - 1
+  - iron warhammer
+- - 1
+  - iron club
+- - 1
+  - iron longsword
+- - 1
+  - iron shortsword
+- - 1
+  - iron_shield
+- - 1
+  - steel_gauntlet_right
+- - 1
+  - steel_gauntlet_left
+- - 1
+  - steel_greaves
+- - 5
+  - pick_journeyman_01
+- - 2
+  - l_n_armor_shields
+- - 2
+  - probe_journeyman_01
+- - 7
+  - repair_journeyman_01

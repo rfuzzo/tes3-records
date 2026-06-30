@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_MeatCliffracer_01
+name: Racer Meat
+script: ''
+mesh: TR\n\tr_ing_meat_clfrc.nif
+icon: TR\n\tr_ing_meat_clfrc.dds
+data:
+  weight: 1.5
+  value: 2
+  effects:
+  - DamageFatigue
+  - Levitate
+  - DrainAttribute
+  - None
+  skills:
+  - None
+  - None
+  - Block
+  - None
+  attributes:
+  - None
+  - None
+  - Personality
+  - None

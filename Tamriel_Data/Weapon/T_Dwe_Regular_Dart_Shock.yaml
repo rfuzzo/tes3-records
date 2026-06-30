@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Dwe_Regular_Dart_Shock
+name: Light Dwarven Shock Dart
+script: ''
+mesh: w\W_DwarvenSphereDart.NIF
+icon: w\Tx_W_DwarvenSphereDart.dds
+enchanting: dwrv_dart_area_shock
+data:
+  weight: 0.05
+  value: 20
+  weapon_type: MarksmanThrown
+  health: 200
+  speed: 1.6
+  reach: 1.0
+  enchantment: 100
+  chop_min: 5
+  chop_max: 7
+  slash_min: 1
+  slash_max: 3
+  thrust_min: 1
+  thrust_max: 3
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

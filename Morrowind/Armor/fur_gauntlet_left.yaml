@@ -1,0 +1,22 @@
+type: Armor
+flags: ''
+id: fur_gauntlet_left
+name: Nordic Fur Left Gauntlet
+script: ''
+mesh: a\A_NordicFur_Gauntlet_GND.nif
+icon: a\Tx_NordicFur_gauntlet.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: LeftHand
+  male_bodypart: a_nordicfur_gauntlet
+  female_bodypart: ''
+- biped_object_type: LeftWrist
+  male_bodypart: ''
+  female_bodypart: ''
+data:
+  armor_type: LeftGauntlet
+  weight: 1.5
+  value: 7
+  health: 25
+  enchantment: 60
+  armor_rating: 5

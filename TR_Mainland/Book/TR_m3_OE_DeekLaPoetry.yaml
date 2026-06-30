@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_OE_DeekLaPoetry
+name: Deek-La's Poetry (rough draft)
+script: ''
+mesh: m\Text_Parchment_02.NIF
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nShall I compare you to a Midyear's Day?\r\nYou are more lofty and radiant.\r\nRough winds do shake your darling buds of First Seed,\r\n[The rest of the page is blank]<BR>"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

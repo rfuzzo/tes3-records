@@ -1,0 +1,29 @@
+type: Container
+flags: ''
+id: TR_m1_con_corpseWarrior
+name: Corpse
+script: Sound_Flies
+mesh: o\contain_corpse20.NIF
+encumbrance: 120.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Com_Chain_Cuirass_02
+- - 1
+  - T_Imp_StuddedLeather_Boots_01
+- - 1
+  - T_Imp_StuddedLeather_Greaves_01
+- - 1
+  - T_Mw_Lvl_ArmorsShield
+- - 1
+  - T_Mw_Random_ArmorsPldrLImperial
+- - 1
+  - T_Mw_Random_ArmorsPldrRImperial
+- - 1
+  - T_Mw_Random_HelmetsImperial
+- - 1
+  - T_Mw_Random_WeaponsImperial
+- - 5
+  - l_n_repair item
+- - 5
+  - light_torch_01

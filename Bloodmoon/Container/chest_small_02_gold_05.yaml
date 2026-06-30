@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: chest_small_02_gold_05
+name: Small Chest
+script: ''
+mesh: o\Contain_chest_small_02.NIF
+encumbrance: 25.0
+container_flags: IS_BASE
+inventory:
+- - 5
+  - Gold_001

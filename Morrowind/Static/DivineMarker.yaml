@@ -1,0 +1,4 @@
+type: Static
+flags: PERSISTENT
+id: DivineMarker
+mesh: Marker_Divine.nif

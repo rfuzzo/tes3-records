@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_scrib_jerky_01
+name: Scrib Jerky
+script: ''
+mesh: n\Ingred_Scrib_Jerky_01.nif
+icon: n\Tx_scrib_jerky_01.tga
+data:
+  weight: 0.2
+  value: 5
+  effects:
+  - RestoreFatigue
+  - FortifyFatigue
+  - Burden
+  - SwiftSwim
+  skills:
+  - Block
+  - Block
+  - Block
+  - Block
+  attributes:
+  - Strength
+  - Strength
+  - Strength
+  - Strength

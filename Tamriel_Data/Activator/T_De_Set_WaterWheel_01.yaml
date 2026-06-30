@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_De_Set_WaterWheel_01
+name: ''
+script: T_ScObj_WaterWheel
+mesh: tr\f\tr_act_waterwheel_01.nif

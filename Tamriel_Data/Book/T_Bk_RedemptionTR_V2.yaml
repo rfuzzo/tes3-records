@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_RedemptionTR_V2
+name: Redemption Volume II
+script: ''
+mesh: TR\m\TR_book_closed_i05_AY.nif
+icon: TR\m\TR_book_closed_i05_AY.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nRedemption Volume II <BR>\r\nUnknown <BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nHe emerged into the sharp air of midnight. The moon was full and cast a sprinkling of shimmering light over the rooftops. To Vertius' eyes, all that was visible were blue shapes in the inky darkness. He could discern no movement.<BR>\r\n<BR>\r\nThen he stopped.<BR>\r\n<BR>\r\nSomething was stirring. He felt an indescribable urge to take refuge in his home. He had seen nothing, he had heard nothing, but the cold hand of fear gripped his heart. He moved his hand down to the icon that hung around his neck. The soft line of its carved wood gave him solace. He whispered a prayer the Nine and prayed for his own safety and the safety of whoever had released that earth-shattering scream. He shivered-the scream still reverberated in his skull.<BR>\r\n<BR>\r\nThen he saw a shadow unfolding in the darkness. It was the color of the midnight air and its movement was all that distinguished it from the scenery. It was moving at a rate that Vertius could not fathom. It was faster than any creature or person he had ever seen. It was getting closer, and quick.<BR>\r\n<BR>\r\nSuddenly it reached the crouched priest. He saw moonlight glinting off long rows of teeth. He heard a blood-curdling snarl issue from it.<BR>\r\n<BR>\r\nIt pounced.<BR>\r\n<BR>\r\nVertius raised his hand to shield himself from the creature. In the moment of thought available to him, his brain struggled to identify the ball of fury unleashed upon him.<BR>\r\n<BR>\r\nIts jaws connected with the soft flesh of his frail arm. He felt the spikes of pain emanating from his arm as those terrible teeth tore through his papery skin, his thin muscles and his brittle bones. A fear beyond that which he had felt before reached down and enveloped him. He tried to summon the text of the homilies of peace in his mind but they were drowned out by the terror that gripped him.<BR>\r\n<BR>\r\nThe beast flung him to the ground. The shock of his impact with the hard-packed earth echoed through him. The beast salivated over him as he lay helpless. Just as it was about to leap for his jugular, it stopped. Its ears were pricked up and its nostrils searched for scents on the breeze.<BR>\r\n<BR>\r\nIt turned and bounded away from the paralyzed cleric. He watched in shock as the creature moved towards the shouting that was now audible over the breeze. The source of the commotion was a group of the local farmers. In their hands, they held the implements that they knew so well. A pitchfork or a shovel was a deadly weapon in their hands.<BR>\r\n<BR>\r\nVertius watched as the beast fell upon the hapless farmers. Their screams shook the night air as blood loss pushed him out of conscience.<BR>"
+data:
+  weight: 1.5
+  value: 40
+  book_type: Book
+  skill: None
+  enchantment: 100

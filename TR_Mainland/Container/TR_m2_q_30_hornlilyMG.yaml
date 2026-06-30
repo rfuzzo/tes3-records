@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: TR_m2_q_30_hornlilyMG
+name: Horn Lily
+script: TR_m2_q_30_plants
+mesh: o\flora_plant_01.NIF
+encumbrance: 0.0
+container_flags: ORGANIC | IS_BASE
+inventory:
+- - 1
+  - Ingred_horn_lily_bulb_01
+- - 1
+  - random_bulbs

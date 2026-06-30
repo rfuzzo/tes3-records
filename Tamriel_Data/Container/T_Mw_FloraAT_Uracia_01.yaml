@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Mw_FloraAT_Uracia_01
+name: Pyrous Uracia
+script: ''
+mesh: tr\o\tr_flora_p_uracia_01.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - T_Mw_Random_FlorUracia

@@ -1,0 +1,21 @@
+type: Container
+flags: ''
+id: T_MwCom_FurnM_Cl3ExClot
+name: Closet
+script: ''
+mesh: tr\o\tr_furn_com_closet_03.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 3
+  - expensive_belt_03
+- - 3
+  - expensive_pants_03
+- - 2
+  - expensive_robe_03
+- - 2
+  - expensive_shirt_03
+- - 4
+  - expensive_shoes_03
+- - 1
+  - expensive_skirt_03

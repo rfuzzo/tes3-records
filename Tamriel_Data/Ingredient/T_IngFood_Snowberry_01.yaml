@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_Snowberry_01
+name: Snow Berries
+script: ''
+mesh: sky\n\sky_ingred_snowb_01.nif
+icon: sky\n\tx_ingred_snowb.dds
+data:
+  weight: 0.1
+  value: 1
+  effects:
+  - RestoreAttribute
+  - DamageFatigue
+  - DrainAttribute
+  - FrostShield
+  skills:
+  - Block
+  - None
+  - Block
+  - None
+  attributes:
+  - Personality
+  - None
+  - Agility
+  - None

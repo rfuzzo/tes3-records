@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_i2_445_CellarStairs_03
+name: ''
+script: TR_m2_445_sc_CellarStairsSlave1
+mesh: tr\i\TR_in_nec_uc_stairb_03.nif

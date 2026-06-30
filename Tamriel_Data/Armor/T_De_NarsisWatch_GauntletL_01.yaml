@@ -1,0 +1,22 @@
+type: Armor
+flags: ''
+id: T_De_NarsisWatch_GauntletL_01
+name: Hlaryn-An Bonemold L Gauntlet
+script: ''
+mesh: tr\a\tr_a_narsisw_gntlt_gnd.nif
+icon: tr\a\tr_a_narsis_w_gauntlet.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: LeftHand
+  male_bodypart: T_A_DeNarsisWatchGaunt01_Ha
+  female_bodypart: ''
+- biped_object_type: LeftWrist
+  male_bodypart: T_A_DeNarsisWatchGaunt01_W
+  female_bodypart: ''
+data:
+  armor_type: LeftGauntlet
+  weight: 3.5
+  value: 120
+  health: 85
+  enchantment: 200
+  armor_rating: 15

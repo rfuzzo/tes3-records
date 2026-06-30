@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Nor_Toadscale_Helm_03
+name: Toadscale Open Helm
+script: ''
+mesh: sky\a\sky_a_toad_helm_o.nif
+icon: sky\a\sky_a_toad_helm_o.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: Hair
+  male_bodypart: T_A_NorToadscaleHelm03_Ha
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 4.0
+  value: 200
+  health: 150
+  enchantment: 200
+  armor_rating: 18

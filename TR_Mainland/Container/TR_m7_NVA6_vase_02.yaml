@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: TR_m7_NVA6_vase_02
+name: Vase
+script: TR_m7_NVA_Stage6_Persist
+mesh: TR\o\TR_cont_de_vase_02.nif
+encumbrance: 10.0
+container_flags: IS_BASE
+inventory: []

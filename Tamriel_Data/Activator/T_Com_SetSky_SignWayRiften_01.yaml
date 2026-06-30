@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Com_SetSky_SignWayRiften_01
+name: Riften
+script: ''
+mesh: sky\x\sky_act_rsign_rift1.nif

@@ -1,0 +1,27 @@
+type: Book
+flags: ''
+id: T_Bk_MillionEyedInsectDreamTR
+name: A Million Eyed Insect Dreaming
+script: ''
+mesh: TR\m\TR_book_closed_i08_AY.nif
+icon: TR\m\TR_book_closed_i08_AY.dds
+enchanting: ''
+text: |-
+  <DIV ALIGN="CENTER"><FONT COLOR="000000" SIZE="3" FACE="Magic Cards"><BR>A Million Eyed Insect Dreaming - The Two Conquests of Veloth<BR>
+  <DIV ALIGN="CENTER"><FONT COLOR="000000" SIZE="3" FACE="Magic Cards"><BR>a fragment<BR>
+  <BR>
+  <DIV ALIGN="LEFT"><BR>...with the sole exception of the Dagoth-Sharmat, they have fallen into the worship of the shapeshifter demon Almsivi. Once mortal, this hermaphroditic monster takes the form of three persons, each a caricature of one of the higher Daedra. The Almsivi first emerged as a dreamborn doppelganger of Sul-Alandro, the shieldbearer to the ancient hortator Nerevar.<BR>
+  <BR>
+  In the middle of the first era, the demon chased that saintly pair, known throughout Tamriel for their tragedy, into the heart of Balúr, where the Doom-Drum was lost under a blazing inferno of ash and flame. The murder of Nerevar was quick and without warning (to this day the House Elves mock his memory with a false sainthood; he is depicted among them as a skeleton hung up by the feet). Alandro witnessed this crime, and at the gates of the pit where the greatest leviathan ghosts of the once-dawned reside, the son of clan Sul stood against his double, clad in chitin and ancestors' ash. His thoughts were blasted from his skull by Almsivi, and the things he had witnessed were forever splayed across his chain hood, the Wraithmail. Over time this hood was broken into links, and the links into ringlets, and the ringlets were crafted into piercings, so that now every ashkhan and mabrigash of even the most provincial gathering of netchleather yurts hears the holy whispers of Sul Alandro in their ears.<BR>
+  <BR>
+  What occurred then needs no explication, as the geological consequences of the Red Moment are recorded in the annals of all Tamriel's lettered cultures. Traveling through dreamtime, the demon Almsivi kidnapped and enchained the ancient prophet Véloth. That unspeakable monster put false doubts in his mind and seduced him by stoking these doubts. The voice of Trinimac the Liar-King now instilled fear in him, for it spoke the words of Almsivi, not Boethiah. False apparitions appeared before his eyes, his life became a ceaseless tempest of agony and torment, and, in a moment beyond draconian time, Véloth's soul was shattered. The normally stoic and resolute prophet so convulsed with fury and anguish that he rent the flesh from his throat so that he could scream aloud. In this moment of weakness, Véloth was ensnared by the repulsive tendrils of Almsivi and taken to a dreamscape of malevolent demons that have not walked the earth in ages uncountable.<BR>
+  <BR>
+  Where Véloth's jailers hid him was the inner chamber of Lie Rock, a heavy stone wreathed in madness which lies at the heart of Vivec, the greatest city of the House Elves. During the interregnum, the pious mabrigash Bar-Ziah Sul, whose name is Queen Cinders of the clans Sul and Hlathoom, made it her unyielding mission to free Véloth and restore him to his righteousness. For centuries she sought in vain, her sooted face babbling the names of unreal arteries for her betrothed and indentured ashkhans to explore. But there are no apertures in the mundial membrane which lies between our world and Lie Rock, the recondite keystone of deceit, for it is a chasm within chasms. However, in a moment of clarity, as the Cyrodiil armies gathered against broken borders, the wraithwhispers of her ancestor Alandro advised Bar-Ziah to wait at a particular crossing of phantasmal planes across a tangential series of moments.<BR>
+  <BR>
+  The ashface of Bar-Ziah Sul has since spoken only of jumbled, distressing woes, so what then occurred would be lost were it not for the register of her nix companion, a million-eyed insect dreaming. Waiting for her at that transdimensional point, the hound records, was an apparition of the Emperor, who greeted her despite her obvious protestation. With the uneasy approval of her ancestors (and consequently all the nomadic nations of the nearer East), Bar-Ziah Sul gave over Véloth to save Véloth, sacrificing history and honor for the one the Dark Elves loved more dearly than them both. With this sorry betrayal Mundus moved in an unseemly manner, Lie Rock was opened to them, and Bar-Ziah and her host stepped into the prison of the prophet to free him at last. But once beyond the gateway they found only golden footprints, impossibly facing east in a world without orients, until at last they dissipated into images of chitin-clad nix-mongrels...<BR>
+data:
+  weight: 1.0
+  value: 260
+  book_type: Book
+  skill: None
+  enchantment: 0

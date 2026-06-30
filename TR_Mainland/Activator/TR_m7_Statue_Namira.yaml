@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m7_Statue_Namira
+name: Statue of Namira
+script: TR_m7_DA_Namira_Statue_sc
+mesh: tr\x\tr_ex_dae_namira.nif

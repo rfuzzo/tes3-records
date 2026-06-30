@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_CloudyCorn_01
+name: Cloudy Corn
+script: ''
+mesh: Sky\n\Sky_Ingred_C_Corn_01.nif
+icon: Sky\n\Tx_Ingred_C_Corn_01.dds
+data:
+  weight: 0.1
+  value: 2
+  effects:
+  - RestoreFatigue
+  - Feather
+  - DrainAttribute
+  - FortifyHealth
+  skills:
+  - None
+  - None
+  - Block
+  - None
+  attributes:
+  - None
+  - None
+  - Luck
+  - None

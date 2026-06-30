@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_Coconut_01
+name: Coconut Meat
+script: ''
+mesh: pi\n\pi_ing_coconutmeat.nif
+icon: pi\n\pi_ing_coconutmeat.dds
+data:
+  weight: 2.0
+  value: 2
+  effects:
+  - RestoreFatigue
+  - None
+  - None
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

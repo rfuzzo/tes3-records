@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2_q_VaerinScrollSummon
+name: Vaerin's Scroll
+script: TR_m2_q_VaerinScrollSummon_sc
+mesh: m\text_scroll_01.nif
+icon: m\tx_scroll_open_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"center\"><FONT COLOR=\"000000\" SIZE=\"2\" FACE=\"Daedric\">E DMR<BR><BR>JKB PSDA</FONT><BR>\r\n"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

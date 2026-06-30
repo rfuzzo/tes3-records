@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: TR_m3_chest_pb_i3_598
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Mw_Random_ArmorBonemold
+- - 1
+  - T_Mw_Random_ArmorChitin
+- - 1
+  - T_Mw_Random_BooksDunmer
+- - 3
+  - T_Mw_Random_ClutterTable
+- - -3
+  - T_Mw_Random_Pos

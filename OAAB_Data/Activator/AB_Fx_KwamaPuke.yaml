@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Fx_KwamaPuke
+name: ''
+script: AB_KwamaEffect_s
+mesh: OAAB\e\kwama_puke.nif

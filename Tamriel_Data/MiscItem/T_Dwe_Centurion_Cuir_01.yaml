@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Dwe_Centurion_Cuir_01
+name: Steam Centurion Torso
+script: ''
+mesh: tr\m\tr_misc_dwrv_Ccuir_01.nif
+icon: tr\m\tr_misc_dwe_cuir_01.dds
+data:
+  weight: 40.0
+  value: 600
+  flags: ''

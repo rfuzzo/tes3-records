@@ -1,0 +1,28 @@
+type: Armor
+flags: ''
+id: T_Imp_ColSteel1_Boots_04
+name: Colovian Steel Boots
+script: ''
+mesh: PC\a\PC_a_ColoStl_04_BG.nif
+icon: pc\a\pc_a_ColoStl_Boots_4.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: LeftAnkle
+  male_bodypart: T_A_ImpColSteelBoots04_A
+  female_bodypart: ''
+- biped_object_type: RightAnkle
+  male_bodypart: T_A_ImpColSteelBoots04_A
+  female_bodypart: ''
+- biped_object_type: LeftFoot
+  male_bodypart: T_A_ImpColSteelBoots04_F
+  female_bodypart: ''
+- biped_object_type: RightFoot
+  male_bodypart: T_A_ImpColSteelBoots04_F
+  female_bodypart: ''
+data:
+  armor_type: Boots
+  weight: 20.0
+  value: 90
+  health: 190
+  enchantment: 200
+  armor_rating: 19

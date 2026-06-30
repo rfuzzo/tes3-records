@@ -1,0 +1,20 @@
+type: Clothing
+flags: ''
+id: T_De_Ex_Shoes_01
+name: Exquisite Shoes
+script: ''
+mesh: TR\c\tr_c_shoes_exq_01_GND.nif
+icon: TR\c\tr_c_shoes_exq_01.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: LeftFoot
+  male_bodypart: T_C_DeEqShoe01_F
+  female_bodypart: ''
+- biped_object_type: RightFoot
+  male_bodypart: T_C_DeEqShoe01_F
+  female_bodypart: ''
+data:
+  clothing_type: Shoes
+  weight: 3.0
+  value: 80
+  enchantment: 400

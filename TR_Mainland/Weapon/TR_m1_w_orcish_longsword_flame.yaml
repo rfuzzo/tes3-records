@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m1_w_orcish_longsword_flame
+name: Orcish Longsword Of Flame
+script: ''
+mesh: tr\w\tr_w_orcish_longsword.nif
+icon: tr\w\tr_w_orcish_longsword.dds
+enchanting: TR_m1_fire_onhit
+data:
+  weight: 10.0
+  value: 2200
+  weapon_type: LongBladeOneHand
+  health: 2000
+  speed: 1.0
+  reach: 1.0
+  enchantment: 85
+  chop_min: 10
+  chop_max: 20
+  slash_min: 2
+  slash_max: 25
+  thrust_min: 5
+  thrust_max: 17
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

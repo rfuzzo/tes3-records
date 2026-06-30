@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: TR_m4_AA_SehutuMummy
+name: Bel-Betu's Inanimate Body
+script: TR_m4_AA_SehutuMummyScp
+mesh: i\In_CI_mummy_01.NIF
+encumbrance: 0.0
+container_flags: IS_BASE
+inventory: []

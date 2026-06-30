@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Com_Steel_Truncheon_Paralysis
+name: Steel Truncheon of Paralysis
+script: ''
+mesh: tr\w\tr_w_steel_trunch_01.nif
+icon: tr\w\tr_w_steel_truncheon.dds
+enchanting: T_Strike_Paralysis
+data:
+  weight: 13.0
+  value: 210
+  weapon_type: BluntOneHand
+  health: 900
+  speed: 1.4
+  reach: 1.0
+  enchantment: 45
+  chop_min: 5
+  chop_max: 10
+  slash_min: 4
+  slash_max: 10
+  thrust_min: 1
+  thrust_max: 2
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

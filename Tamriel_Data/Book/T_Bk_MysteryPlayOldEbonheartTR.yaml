@@ -1,0 +1,70 @@
+type: Book
+flags: ''
+id: T_Bk_MysteryPlayOldEbonheartTR
+name: Mystery Play of Old Ebonheart
+script: ''
+mesh: TR\m\TR_book_closed02_AA.NIF
+icon: TR\m\TR_book_closed02_AA.tga
+enchanting: ''
+text: |
+  <DIV ALIGN="CENTER"><FONT COLOR="000000" SIZE="3" FACE="Magic Cards"><BR>Mystery Play of Old Ebonheart<BR>
+  <BR>
+  <DIV ALIGN="LEFT"><BR>This play is being performed annually on Old Ebonheart's Charter Day, in the city's fountain square. It has been performed with only small alterations for three hundred years.<BR>
+  <BR>
+  [Stendarr and Julianos walk together and converse, attended by spirits and singers who echo their words. Stendarr is traditionally played by the senior local magistrate, and he or she will select a reformed criminal to play the role of Julianos.]<BR>
+  <BR>
+  Julianos: A question comes to mind, beloved brother.<BR>
+  <BR>
+  Stendarr: Speak your question.<BR>
+  <BR>
+  Julianos: What is more important? Justice or Law?<BR>
+  <BR>
+  Stendarr: Why, justice. The law serves it.<BR>
+  <BR>
+  Julianos: But the law illuminates what is just!<BR>
+  <BR>
+  Stendarr: Only a fool would debate you, brother, but while there is wisdom in both our arguments they remain mere speculations. The gods must do nothing idly.<BR>
+  <BR>
+  Julianos: Here comes a demon from far places. Perhaps they will shed some light on these matters.<BR>
+  <BR>
+  [The Demon arrives accompanied by the striking of a gong. The Demon is played by three performers, but only the central figure speaks.]<BR>
+  <BR>
+  Demon: I am the three-faced god of lies. I come from the East and spit fire and water at my enemies. [The performer on the left breathes fire into the air, the performer on the right spits water at the crowd.]<BR>
+  <BR>
+  Julianos: And why do you interrupt our walk?<BR>
+  <BR>
+  Demon: I come to make you my slaves. My law surpasses your own, because it is the law of Oblivion made safe by tribune strength.<BR>
+  <BR>
+  Julianos: Wonderful! I adore triangles! [He produces a divine triangle, which floats above his head and turns so all the crowd can witness it.]<BR>
+  <BR>
+  Demon: Aha! The mathematics of law! The triangle is the strongest shape!<BR>
+  <BR>
+  Julianos: I knew this before you. Wisdom is a broad strong base with a pointed summit, on which all things must balance and order themselves or fall into ruin.<BR>
+  <BR>
+  Stendarr: Like my scales.<BR>
+  <BR>
+  Demon: All of this is true, but I am a greater god than either of you. I speak laws and mock them with the same breath! [The performer on the left raises their hands and chants a codex mantra, the performer on the right capers and shrieks, and steals hats from members of the crowd etc.]<BR>
+  <BR>
+  Julianos: How foolish this spirit is! There may be different laws for gods and demons and princes and peasants...<BR>
+  <BR>
+  Stendarr: ...But none can escape justice! All must answer to a higher power, even if that power is a reflection of themselves!<BR>
+  <BR>
+  [Julianos and Stendarr accost the left and right demons, and strike them with the flat of their swords. The gong sounds again and all is calm and the demons' babble stops.]<BR>
+  <BR>
+  Demon: We submit to your correct wisdom, and to your justice. Do as you will.<BR>
+  <BR>
+  Julianos: The law is clear. Death and defamation are the correct wages of this hubris. The triangle turned on edge is a blade. [He flourishes his triangular sword, crowd gasps etc.]<BR>
+  <BR>
+  Stendarr: This is correct brother. But our friend has now been enlightened, and will trouble us no more with arrogance or deception. [Crowd is not encouraged to laugh at this.] Let us show forbearance, as all who submit willingly to justice will find mercy appropriate to their crimes.<BR>
+  <BR>
+  Julianos: Your mercy inspires me, brother. To offer life when one has earned death! Such a pleasing notion!<BR>
+  <BR>
+  Demon: Great princes of the heavens, your student thanks you. All will reap the benefits of justice! [The three Demon performers dance and distribute brass coins among the crowd- these may be redeemed at the local alehouse by agreement.]<BR>
+  <BR>
+  Julianos and Stendarr: So it is, so will it always be. [Music plays, performers shed their costumes and join the revels.]<BR>
+data:
+  weight: 2.0
+  value: 50
+  book_type: Book
+  skill: None
+  enchantment: 0

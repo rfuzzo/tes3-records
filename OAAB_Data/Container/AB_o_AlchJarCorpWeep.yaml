@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: AB_o_AlchJarCorpWeep
+name: Jar of Corprus Weepings
+script: ''
+mesh: OAAB\o\alchJarCorpWeep.nif
+encumbrance: 0.0
+container_flags: ORGANIC | IS_BASE
+inventory:
+- - 5
+  - AB_lvl_IngCorprusWeepings

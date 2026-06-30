@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m7_LA6_Tomb_1_Sack
+name: Cloth Sack
+script: ''
+mesh: o\Contain_Com_Sack_02.NIF
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 2090
+  - T_De_HlaaluCompanyScrip_01

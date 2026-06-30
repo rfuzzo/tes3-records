@@ -1,0 +1,36 @@
+type: Alchemy
+flags: ''
+id: T_De_Drink_LiquorLlotham_01
+name: Llotham
+script: ''
+mesh: tr\m\tr_flask_llotham.nif
+icon: TR\m\TR_misc_flask_ungorth.dds
+effects:
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Endurance
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 3
+  max_magnitude: 3
+- magic_effect: RestoreFatigue
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 5
+  max_magnitude: 5
+- magic_effect: StuntedMagicka
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 1
+  max_magnitude: 1
+data:
+  weight: 1.5
+  value: 5
+  flags: ''

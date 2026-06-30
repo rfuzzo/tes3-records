@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Bellman_39
+name: MAGES GUILD MONOPOLY GONE
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_note_oe_news.nif
+icon: tr\m\tr_note_oe_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\TR_bellman_512_256.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nMAGES GUILD MONOPOLY GONE<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nThe Grand Council of Vvardenfell has introduced specific exemptions to the Guilds Act within the district. The resolution was proposed by the Telvanni representative and pushed through by a united front of the island's dominant Dark Elf Houses. It appears that the native factions temporarily set aside their differences for the purpose of hurting Imperial interests and labor protections. Though the wording of the resolution targets a wide array of arts and crafts, the move appears to be the latest assault on the Guild of Mages by the sorcerous House Telvanni. Sources within the Mages Guild decry the resolution, fearful that the new exemptions will flood the magical market with dangerous enchantments and encourage charlatans to pose as legitimate instructors.<br><br>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nBELLMAN ANALYSIS:<BR> EXPECT DRAWN-OUT LEGAL CHALLENGES<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nThe Guild of Mages is sure to challenge the legality of the new resolution. The Guilds Act of the Second Era leaves little ambiguity as far as the primacy of the Imperial Guilds is concerned, though the Armistice affords the district councils a large amount of leeway to introduce their own local rules and regulations regarding commerce. While the Bellman does not doubt that Imperial interests will ultimately prevail, the real question is whether House Telvanni will accept a ruling, or simply ignore the courts.<br><br>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

@@ -1,0 +1,27 @@
+type: Container
+flags: ''
+id: TR_m2_de_r_chest_01_tom
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Com_Adamant_Bow_01
+- - 50
+  - T_Com_Steel_Arrow_CruelFirestrm
+- - 50
+  - T_Com_Steel_Arrow_CruelFrostB
+- - 50
+  - T_Com_Steel_Arrow_CruelPoisonCl
+- - 50
+  - T_Com_Steel_Arrow_CruelShockSph
+- - 100
+  - bonemold arrow
+- - 100
+  - chitin arrow
+- - 50
+  - ebony arrow
+- - 100
+  - silver arrow

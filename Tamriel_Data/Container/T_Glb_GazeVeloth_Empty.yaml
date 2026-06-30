@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: T_Glb_GazeVeloth_Empty
+name: Ash
+script: ''
+mesh: hr\n\cr_lich_dust.nif
+encumbrance: 0.0
+container_flags: IS_BASE
+inventory: []

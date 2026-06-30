@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_VisionsOfKallistTR_V73-74
+name: <Deprecated>
+script: ''
+mesh: td\td_help_deprec_01.nif
+icon: m\Tx_book_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR><DEPRECATED><BR>\n\n<DIV ALIGN=\"LEFT\">\r\nUse T_Sc_VisionsOfKallistisPC instead!<BR>"
+data:
+  weight: 2.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 0

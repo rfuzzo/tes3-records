@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: de_p_chest_01_baradras
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_02.nif
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory: []

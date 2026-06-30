@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m3_OE_MGGemReward
+name: Bloodstone of Daedric Inference
+script: TR_m3_OE_MGGemReward_sc
+mesh: TR\n\TR_Ing_bloodstone_mm.nif
+icon: TR\n\TR_Ing_bloodstone_mm.dds
+data:
+  weight: 1.0
+  value: 2000
+  flags: ''

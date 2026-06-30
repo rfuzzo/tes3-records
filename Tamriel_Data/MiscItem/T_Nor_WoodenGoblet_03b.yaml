@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Nor_WoodenGoblet_03b
+name: Wooden Goblet
+script: ''
+mesh: Sky\m\Sky_Misc_W_Gob_03_02.nif
+icon: Sky\m\Tx_Misc_W_Gob_03_02.dds
+data:
+  weight: 2.0
+  value: 5
+  flags: ''

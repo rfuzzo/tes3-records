@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_emmurbalpitu_note
+name: Note to the Ordinators
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[The note has been severely damaged by fire, but some of it can still be read.] <br> <br>\r\n...seen with my own eyes... ...Emmurba... ...shrine full of witches who... ...blasphem... ...renounced the Tribu... ...openly against the Temple teachings... ...practice and sacrifice... ...worship the Bad Daedr... ...better to exterminate them all... <br>\r\n ...this I swear in the name of ALMSIV... <BR> <br>\r\n-- L.F. <br>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

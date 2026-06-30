@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: bound_dagger
+name: Bound Dagger
+script: ''
+mesh: w\W_Dagger_daedric.nif
+icon: w\Tx_Dagger_daedric.tga
+enchanting: bound dagger_effect_en
+data:
+  weight: 0.0
+  value: 0
+  weapon_type: ShortBladeOneHand
+  health: 600
+  speed: 2.5
+  reach: 1.0
+  enchantment: 60
+  chop_min: 9
+  chop_max: 20
+  slash_min: 9
+  slash_max: 20
+  thrust_min: 10
+  thrust_max: 20
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

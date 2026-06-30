@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Com_Farm_Scythe_01
+name: Scythe
+script: ''
+mesh: pc\w\pc_scythe_01.nif
+icon: pc\w\pc_w_scythe_01.dds
+enchanting: ''
+data:
+  weight: 7.0
+  value: 1
+  weapon_type: SpearTwoWide
+  health: 150
+  speed: 1.0
+  reach: 1.3
+  enchantment: 100
+  chop_min: 1
+  chop_max: 5
+  slash_min: 1
+  slash_max: 5
+  thrust_min: 0
+  thrust_max: 1
+  flags: ''

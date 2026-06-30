@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_HrHe_DngDir_Dw1Loot
+name: Old Drawers
+script: ''
+mesh: sky\o\sky_furn_alt_drw_01.nif
+encumbrance: 250.0
+container_flags: IS_BASE
+inventory:
+- - 5
+  - T_Hr_Random_DirenniLoot

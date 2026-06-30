@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: light_dae_brazier00
+name: ''
+script: ''
+mesh: l\light_DAE_brazier00.NIF
+icon: ''
+sound: Fire 50
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 500
+  color:
+  - 244
+  - 153
+  - 51
+  - 0
+  flags: DYNAMIC | FIRE | FLICKER_SLOW

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_BoneSkelRibs
+name: Ribs
+script: ''
+mesh: OAAB\m\skelTorsoRibs.nif
+icon: OAAB\m\skelTorsoRibs.tga
+data:
+  weight: 1.5
+  value: 1
+  flags: ''

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: active_dae_mehrunes
+name: Statue of Mehrunes Dagon
+script: DaedraMehrunes
+mesh: x\Ex_DAE_MehrunesDagon.NIF

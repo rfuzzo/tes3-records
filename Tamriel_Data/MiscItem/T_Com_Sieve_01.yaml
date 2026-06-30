@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_Sieve_01
+name: Salt Sieve
+script: ''
+mesh: sky\m\sky_misc_saltsieve.nif
+icon: sky\m\tx_m_saltsieve.dds
+data:
+  weight: 0.7
+  value: 5
+  flags: ''

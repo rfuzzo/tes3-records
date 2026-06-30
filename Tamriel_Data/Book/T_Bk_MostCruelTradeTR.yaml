@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_MostCruelTradeTR
+name: The Most Cruel Trade
+script: T_ScBook_SpParalyze
+mesh: m\Text_Quarto_02.nif
+icon: m\Tx_quarto_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>\r\nThe Most Cruel Trade<BR>\r\nBy Selenius Tennian<BR>\r\n<BR>\r\nThe ship rocked gently in the calm sea waters as it journeyed toward Morrowind. While it's movement found the greatest support with the wind filling the sails, it's Dunmeri masters supplemented the power of the breeze with that of oars. Though the addition could not have made much difference, it mattered little to the noble Dunmer. They would not be the ones blistering their palms doing the rowing, after all.<BR>\r\n<BR>\r\nDestined for the homeland of the Dark Elves, the ship had traveled to Elsweyr and Black Marsh, picking up cargo as it went. Responsibility for the rowing would naturally fall on the cargo, for what better way to ensure that the goods were of top quality? Should complaints reach those dark, pointed ears, the voicer would find themselves decorating a blade. Understanding as much, the cargo rarely broke it's code of silent suffering.<BR>\r\n<BR>\r\nThe cruel shipmasters would not be contented with merely slaying property of inferior quality. No, they would make an example of the subpar goods. Those who raised complaints were laid low, then skinned, and prepared as a fine meal for those who remained. The Dunmer would laugh about it, saying that one less hungry mouth would save on food, and make the trip that much more economically sound.<BR>\r\n<BR>\r\nAs they neared waters patrolled by Imperial customs ships, the Dunmer ordered their cargo below deck. Once safely out of sight, a mage among the Dunmer would paralyze each of the slaves and remove their bracers. With no means to break their fall, the mean spirited mer would shove the slaves over, letting them fall as they may.<BR>\r\n<BR>\r\nWhen the ship was finally inspected, above and below deck, questions were raised by customs officials. The reply of the ghastly Dunmer? No, those are not slaves. See how they do not move? They are not even alive! They are stuffed specimens, requested by a member of Great House Telvanni for decoration. Surely the worldly Imperials had heard of such things being done elsewhere in Tamriel, to other types of lowly lizards and cats. To convince the officials that nothing illegal had taken place, the Dunmer presented forged papers, claiming that the Khajiit and Argonians had been wanted criminals. Satisfied, if horrified, the officials let the ship pass into the waters surrounding Morrowind.<BR>\r\n<BR>\r\nThere, the true suffering would begin. <BR>\r\n"
+data:
+  weight: 3.0
+  value: 200
+  book_type: Book
+  skill: None
+  enchantment: 100

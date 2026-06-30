@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Com_Adamant_Warhammer_01
+name: Adamantium Warhammer
+script: ''
+mesh: TR\w\TR_w_adamant_warhammer.NIF
+icon: TR\w\TR_w_adamant_warhammer.dds
+enchanting: ''
+data:
+  weight: 45.0
+  value: 7500
+  weapon_type: BluntTwoClose
+  health: 5000
+  speed: 1.0
+  reach: 1.5
+  enchantment: 120
+  chop_min: 1
+  chop_max: 56
+  slash_min: 1
+  slash_max: 44
+  thrust_min: 1
+  thrust_max: 2
+  flags: ''

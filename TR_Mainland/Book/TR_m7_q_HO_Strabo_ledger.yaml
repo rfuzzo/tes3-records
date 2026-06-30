@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: TR_m7_q_HO_Strabo_ledger
+name: Tax Ledger
+script: TR_m7_q_StraboLedger_scr
+mesh: pc\m\PC_bk_Book_25.nif
+icon: pc\m\pc_bk_book_25.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n<BR>\r\nHlan Oek Merchant Levy for the Month of Last Seed\r\n<BR>\r\nVerified by Edrys Teri on behalf of House Hlaalu and Larienna Strabo on behalf of His Majesty Uriel Septim VII.\r\n<BR>\r\nThe levy on merchants collected by the Hlaalu has returned 5557 Septims. Of this, 695 Septims shall be passed on to the Imperial treasuries.\r\n<BR>\r\nThe payments are as follows:\r\n<BR>\r\nAsani Serdimapal -- 674\r\n<BR>\r\nDrala Uval -- 890\r\n<BR>\r\n[The list continues]\r\n<BR>"
+data:
+  weight: 2.0
+  value: 2
+  book_type: Book
+  skill: None
+  enchantment: 0

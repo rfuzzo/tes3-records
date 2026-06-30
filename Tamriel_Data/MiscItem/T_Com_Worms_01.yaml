@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_Worms_01
+name: Can of Worms
+script: ''
+mesh: tr\m\tr_misc_com_almalexia.nif
+icon: tr\m\tr_misc_com_almalexia.tga
+data:
+  weight: 0.4
+  value: 1
+  flags: ''

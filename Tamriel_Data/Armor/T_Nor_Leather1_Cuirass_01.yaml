@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Nor_Leather1_Cuirass_01
+name: Nordic Leather Cuirass
+script: ''
+mesh: sky\a\sky_nord_leath1_cu_gn.nif
+icon: sky\a\sky_nleath1_cuirass.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_A_NorLeath1Cuirass_C
+  female_bodypart: T_A_NorLeath1Cuirass_CF
+data:
+  armor_type: Cuirass
+  weight: 12.0
+  value: 35
+  health: 150
+  enchantment: 60
+  armor_rating: 5

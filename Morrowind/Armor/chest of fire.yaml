@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: chest of fire
+name: Chest of Fire
+script: ''
+mesh: a\A_M_Chitin_Cuirass_GND.nif
+icon: a\TX_Chitin_curaiss.tga
+enchanting: fire shield_en
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: a_m_chitin_chest
+  female_bodypart: ''
+data:
+  armor_type: Cuirass
+  weight: 6.0
+  value: 80
+  health: 300
+  enchantment: 100
+  armor_rating: 10

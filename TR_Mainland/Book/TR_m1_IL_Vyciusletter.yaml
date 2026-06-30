@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_IL_Vyciusletter
+name: Letter from V.P.
+script: TR_m1_IL_letterscript
+mesh: m\Text_Parchment_02.nif
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThenim,<BR>\r\n<BR>\r\nYou and your eastern patrons continue to deliver well. If your shipments continue, our garrison will have the revenue needed to sustain itself for decades to come. It is with pleasure that I redouble our agreement. Your payment is enclosed in this package.<BR>\r\n<BR>\r\nSigned<BR>\r\nV. P.<BR>\r\n<BR>"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 100

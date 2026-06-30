@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: Linus_Iulus_Maran Amulet
+name: Linus Iulus' Maran Amulet
+script: ''
+mesh: c\Amulet_Expensive_3.NIF
+icon: c\tx_amulet_expens3.tga
+enchanting: Maran Blessing_EN
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 300
+  enchantment: 150

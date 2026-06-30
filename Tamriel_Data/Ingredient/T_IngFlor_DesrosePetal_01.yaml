@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_DesrosePetal_01
+name: Desert Rose Petals
+script: ''
+mesh: tr\n\tr_ing_desrose_petals.nif
+icon: tr\n\tr_ing_desrose_petals.dds
+data:
+  weight: 0.1
+  value: 3
+  effects:
+  - RestoreAttribute
+  - FortifyMagicka
+  - DrainAttribute
+  - FortifyAttribute
+  skills:
+  - Block
+  - None
+  - Block
+  - Block
+  attributes:
+  - Intelligence
+  - None
+  - Speed
+  - Willpower

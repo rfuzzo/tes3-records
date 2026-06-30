@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: claymore_iceblade_unique
+name: Ice Blade of the Monarch
+script: ''
+mesh: w\W_art_claymore_iceblade.NIF
+icon: w\W_claymore_iceblade.tga
+enchanting: monarch's dirge
+data:
+  weight: 60.0
+  value: 95000
+  weapon_type: LongBladeTwoClose
+  health: 6000
+  speed: 1.25
+  reach: 1.0
+  enchantment: 700
+  chop_min: 5
+  chop_max: 50
+  slash_min: 4
+  slash_max: 40
+  thrust_min: 3
+  thrust_max: 30
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

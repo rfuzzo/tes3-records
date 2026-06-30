@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: wild sty ring
+name: Wild Sty Ring
+script: ''
+mesh: c\C_Ring_common02.NIF
+icon: c\tx_ring_common02.tga
+enchanting: erelvam's wild sty_en
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 32
+  enchantment: 10

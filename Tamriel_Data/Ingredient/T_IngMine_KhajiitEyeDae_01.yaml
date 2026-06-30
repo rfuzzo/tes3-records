@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngMine_KhajiitEyeDae_01
+name: Khajiit-Eye
+script: BILL_MarksDaedraSummon
+mesh: TR\n\TR_Ing_KhajEye.nif
+icon: TR\n\TR_Ing_KhaEye.dds
+data:
+  weight: 0.2
+  value: 100
+  effects:
+  - WeaknessToCommonDisease
+  - NightEye
+  - DrainAttribute
+  - FortifyAttribute
+  skills:
+  - None
+  - None
+  - Block
+  - Block
+  attributes:
+  - None
+  - None
+  - Personality
+  - Speed

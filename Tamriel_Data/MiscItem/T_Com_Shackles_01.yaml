@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_Shackles_01
+name: Shackles
+script: ''
+mesh: tr\m\tr_misc_com_shackles01.nif
+icon: tr\m\tr_misc_com_shackles01.dds
+data:
+  weight: 25.0
+  value: 10
+  flags: ''

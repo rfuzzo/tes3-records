@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_UNI_UlvoClawMisc
+name: Monstrous Hybrid Claw
+script: ''
+mesh: tr\c\tr_c_clawglove_uni_gnd.nif
+icon: tr\c\tr_c_uni_dreughclaw_01.dds
+data:
+  weight: 16.0
+  value: 750
+  flags: ''

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Com_SetHarbor_BoatFisher_02
+name: ''
+script: Float
+mesh: sky\x\sky_ex_fisherboat_02.nif

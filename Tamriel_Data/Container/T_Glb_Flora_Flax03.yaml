@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Glb_Flora_Flax03
+name: Flax
+script: ''
+mesh: pc\o\pc_flora_flax3.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - T_Glb_Random_FlorFlaxFlower03

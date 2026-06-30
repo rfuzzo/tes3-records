@@ -1,0 +1,36 @@
+type: Alchemy
+flags: ''
+id: Potion_Local_Brew_01
+name: Mazte
+script: ''
+mesh: n\Potion_Local_brew_01.NIF
+icon: n\Tx_local_brew_01.tga
+effects:
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Strength
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 20
+  max_magnitude: 20
+- magic_effect: DrainAttribute
+  skill: None
+  attribute: Willpower
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 20
+  max_magnitude: 20
+- magic_effect: DrainAttribute
+  skill: None
+  attribute: Intelligence
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 20
+  max_magnitude: 20
+data:
+  weight: 5.0
+  value: 10
+  flags: ''

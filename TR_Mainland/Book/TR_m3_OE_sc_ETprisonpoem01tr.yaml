@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_OE_sc_ETprisonpoem01tr
+name: Ballad of a Dead Man
+script: ''
+mesh: m\Text_paper_roll_01.nif
+icon: m\Tx_paper_roll_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR> <br>\r\nBALLAD OF A DEAD MAN <BR> <BR>\r\nMy dear stranger, a moment, I pray, <br>\r\nas I address you from beyond the grave,<br>\r\nas I myself approach that very grave. <br>\r\nOf your time the poet only asks the smallest speck, <br>\r\na moment to hear the dead man's ballad is sought: <br>\r\nBefore there's a noose around my neck <br>\r\nand under my feet there's nought. <br>\r\n<BR>\r\nFrankly, a villain I am, there's no denying: <br>\r\nthat my life was that of drinking, thieving, lying. <br>\r\nA victim or two, too, I left bleeding and dying. <br>\r\nI confess! I am a horrid sinner, a moral wreck, <br>\r\nand the worst of my sins was to get caught. <br>\r\nSoon there's a noose around my neck <br>\r\nand under my feet there's nought. <br>\r\n<BR>\r\nThe Legion boys, my hosts, should be told: <br>\r\ntoo generous they were with beatings & bread mold.<br>\r\nIf I could their kindness return, I would, tenfold. <br>\r\nListen! With shackles they come me to deck, <br>\r\nand drag me to the grim tree they've wrought. <br>\r\nSoon there's a noose around my neck <br>\r\nand under my feet there's nought. <br>\r\n<BR>\r\nStranger, pray for me for I am dead. <br>\r\nCold walls to my right, to my left, <br>\r\nand a beam above my head, <br>\r\nbut there's a noose around my neck <br>\r\nand under my feet there's nought. <br>\r\n<BR>\r\n<br>\r\nPS. Send my regards, if you can, to Horatio Gargonath, that pompous oaf. I wish him and his rubbish poetry all the worst in the world. <br>\r\nPPS. I believe it's raining outside. This just isn't my day. Farewell! <br>"
+data:
+  weight: 0.2
+  value: 40
+  book_type: Scroll
+  skill: None
+  enchantment: 0

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_File
+name: Metal File
+script: ''
+mesh: OAAB\m\st_file_lrg.nif
+icon: OAAB\m\st_file.dds
+data:
+  weight: 1.5
+  value: 8
+  flags: ''

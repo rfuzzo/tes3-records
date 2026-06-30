@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_ash_salts_01
+name: Ash Salts
+script: ''
+mesh: n\Ingred_ash_salts_01.NIF
+icon: n\Tx_ashsalts_01.tga
+data:
+  weight: 0.1
+  value: 25
+  effects:
+  - DrainAttribute
+  - ResistMagicka
+  - CureBlightDisease
+  - ResistMagicka
+  skills:
+  - Block
+  - Block
+  - Block
+  - Block
+  attributes:
+  - Agility
+  - Strength
+  - Strength
+  - Strength

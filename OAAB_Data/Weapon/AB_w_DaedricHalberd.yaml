@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_DaedricHalberd
+name: Daedric Halberd
+script: ''
+mesh: OAAB\w\w_daedric_halberd.nif
+icon: OAAB\w\tx_w_daed_halberd.dds
+enchanting: ''
+data:
+  weight: 45.0
+  value: 22000
+  weapon_type: SpearTwoWide
+  health: 1200
+  speed: 1.0
+  reach: 1.7
+  enchantment: 150
+  chop_min: 8
+  chop_max: 45
+  slash_min: 8
+  slash_max: 43
+  thrust_min: 3
+  thrust_max: 9
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

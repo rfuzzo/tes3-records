@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_MeatSqrl_01
+name: Squirrel Meat
+script: ''
+mesh: sky\n\sky_ingred_meat_sq_01.nif
+icon: sky\n\sky_ingred_meat_sq01.dds
+data:
+  weight: 1.0
+  value: 1
+  effects:
+  - Jump
+  - FortifyHealth
+  - CurePoison
+  - ResistPoison
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Fx_LightRay2_a
+name: ''
+script: AB_DayActivate_s
+mesh: OAAB\e\cave_ray_02.nif

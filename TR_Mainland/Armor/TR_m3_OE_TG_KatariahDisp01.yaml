@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: TR_m3_OE_TG_KatariahDisp01
+name: Death Mask of Katariah
+script: TR_m3_OE_TG_KatariahDisp01_SCP
+mesh: TR\a\TR_a_katariah_mask.nif
+icon: TR\a\TR_a_katariah_mask.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Head
+  male_bodypart: T_A_ImpUNIKatariahMask_Hd
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 2.35
+  value: 13000
+  health: 590
+  enchantment: 270
+  armor_rating: 17

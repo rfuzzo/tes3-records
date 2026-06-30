@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: AB_IngFood_WickwheatDumpling
+name: Wickwheat Dumpling
+script: ''
+mesh: OAAB\n\wickwheatDumpling.nif
+icon: OAAB\n\wickwheatDumpling.dds
+data:
+  weight: 0.1
+  value: 1
+  effects:
+  - RestoreHealth
+  - FortifyAttribute
+  - None
+  - None
+  skills:
+  - None
+  - Block
+  - None
+  - None
+  attributes:
+  - None
+  - Willpower
+  - None
+  - None

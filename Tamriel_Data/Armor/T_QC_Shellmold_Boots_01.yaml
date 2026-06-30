@@ -1,0 +1,28 @@
+type: Armor
+flags: ''
+id: T_QC_Shellmold_Boots_01
+name: Shellmold Boots
+script: ''
+mesh: tr\a\tr_a_shell_boot_01gd.nif
+icon: tr\a\tr_a_shell_boot_01.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: LeftAnkle
+  male_bodypart: T_A_QCShellmoldBoots01_A
+  female_bodypart: ''
+- biped_object_type: RightAnkle
+  male_bodypart: T_A_QCShellmoldBoots01_A
+  female_bodypart: ''
+- biped_object_type: LeftFoot
+  male_bodypart: T_A_QCShellmoldBoots01_F
+  female_bodypart: ''
+- biped_object_type: RightFoot
+  male_bodypart: T_A_QCShellmoldBoots01_F
+  female_bodypart: ''
+data:
+  armor_type: Boots
+  weight: 14.0
+  value: 100
+  health: 136
+  enchantment: 90
+  armor_rating: 13

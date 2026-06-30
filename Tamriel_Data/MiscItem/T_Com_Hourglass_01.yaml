@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_Hourglass_01
+name: Hourglass
+script: ''
+mesh: tr\m\tr_misc_hourglass.nif
+icon: tr\m\tr_misc_hourglass.dds
+data:
+  weight: 3.0
+  value: 15
+  flags: ''

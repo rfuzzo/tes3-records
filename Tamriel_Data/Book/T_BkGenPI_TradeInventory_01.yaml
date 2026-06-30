@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_BkGenPI_TradeInventory_01
+name: Inventory of Goods
+script: ''
+mesh: pi\m\pi_sc_palm_closed_01.nif
+icon: pi\m\pi_sc_palm_closed_01.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n[This document records goods currently stored on location, when the goods arrived and whether they are earmarked for future use or shipment.]<BR>"
+data:
+  weight: 1.2
+  value: 2
+  book_type: Scroll
+  skill: None
+  enchantment: 0

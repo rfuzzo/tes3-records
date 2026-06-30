@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: bk_eggorders
+name: Order Manifest
+script: ''
+mesh: m\Misc_paper_plain_01.nif
+icon: m\Tx_paper_plain_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This paper lists orders from all over Morrowind for kwaama eggs from Therana's farm.]<BR>\r\n"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_SkyNor_Furn_Box2Lockp
+name: Wooden Box
+script: ''
+mesh: sky\o\sky_cont_chestsml_02.nif
+encumbrance: 15.0
+container_flags: IS_BASE
+inventory:
+- - 3
+  - l_n_lockpicks

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_GreenGlassBowl_02
+name: Large Green Glass Bowl
+script: ''
+mesh: tr\m\tr_misc_de_g_bowl_02.nif
+icon: tr\m\tr_misc_de_g_bowl_02.dds
+data:
+  weight: 5.0
+  value: 6
+  flags: ''

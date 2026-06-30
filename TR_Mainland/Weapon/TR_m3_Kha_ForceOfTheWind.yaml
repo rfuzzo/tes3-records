@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m3_Kha_ForceOfTheWind
+name: Force of the Wind
+script: ''
+mesh: pc\w\pc_w_ebon_whammer.nif
+icon: pc\w\pc_w_ebon_whammer.tga
+enchanting: TR_m3_Kha_ForceOfTheWind_en
+data:
+  weight: 62.0
+  value: 40000
+  weapon_type: BluntTwoClose
+  health: 6000
+  speed: 1.0
+  reach: 1.5
+  enchantment: 225
+  chop_min: 1
+  chop_max: 55
+  slash_min: 1
+  slash_max: 50
+  thrust_min: 1
+  thrust_max: 3
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

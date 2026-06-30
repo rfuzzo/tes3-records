@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_TinderPolypore_01
+name: Tinder Polypore Cap
+script: ''
+mesh: pc\n\pc_ing_tpoly.nif
+icon: pc\n\pc_tx_ingred_tpoly.dds
+data:
+  weight: 0.1
+  value: 2
+  effects:
+  - RestoreAttribute
+  - ResistCommonDisease
+  - Invisibility
+  - DamageMagicka
+  skills:
+  - Block
+  - None
+  - None
+  - None
+  attributes:
+  - Willpower
+  - None
+  - None
+  - None

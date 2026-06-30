@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_Card_08
+name: Cuhlecain
+script: ''
+mesh: pc\m\pc_misc_card_08.nif
+icon: pc\m\pc_misc_card_08.dds
+data:
+  weight: 0.1
+  value: 1
+  flags: ''

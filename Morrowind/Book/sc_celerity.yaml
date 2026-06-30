@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: sc_celerity
+name: Scroll of Celerity
+script: ''
+mesh: m\text_scroll_01.nif
+icon: m\tx_scroll_open_01.tga
+enchanting: sc_celerity_en
+text: <DIV ALIGN="center"><FONT COLOR="000000" SIZE="2" FACE="Daedric">INVOKE IN THE NAME OF RIGHTEOUSNESS</FONT><BR>
+data:
+  weight: 0.2
+  value: 112
+  book_type: Scroll
+  skill: None
+  enchantment: 0

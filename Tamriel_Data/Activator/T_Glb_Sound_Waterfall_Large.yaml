@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Glb_Sound_Waterfall_Large
+name: Sound_Waterfall_Large
+script: T_ScSound_WaterfallLarge
+mesh: EditorMarker.NIF

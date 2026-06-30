@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_AloeVeraPulp_01
+name: Aloe Vera Pulp
+script: ''
+mesh: TR\n\TR_ing_aloe.nif
+icon: TR\n\TR_Ing_aloe_pulp.dds
+data:
+  weight: 0.2
+  value: 5
+  effects:
+  - ResistFire
+  - WeaknessToMagicka
+  - NightEye
+  - CurePoison
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

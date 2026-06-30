@@ -1,0 +1,31 @@
+type: Container
+flags: ''
+id: T_SkyCom_Furn_Ch2TrWpn2
+name: Chest
+script: ''
+mesh: Sky\o\Sky_Cont_Chest_02_02.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - -1
+  - BM nordic silver axe
+- - -1
+  - BM nordic silver battleaxe
+- - -1
+  - iron battle axe
+- - -150
+  - iron bolt
+- - -1
+  - iron longsword
+- - -1
+  - iron shortsword
+- - -1
+  - nordic claymore
+- - -50
+  - silver bolt
+- - -1
+  - steel broadsword
+- - -1
+  - steel crossbow
+- - -50
+  - steel throwing knife

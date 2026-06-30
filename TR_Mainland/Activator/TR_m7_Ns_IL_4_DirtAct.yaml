@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m7_Ns_IL_4_DirtAct
+name: Pile of Dirt
+script: TR_m7_Ns_IL_4_DirtMover
+mesh: tr\x\tr_terr_shdirt_pile_10.nif

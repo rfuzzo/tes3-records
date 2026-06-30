@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: furn_bannerd_clothing_d4_01
+name: 'Elegnan: Clothier'
+script: OutsideBanner
+mesh: f\Furn_bannerD_clothing_01.NIF

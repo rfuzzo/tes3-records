@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_He_GlassOpalPlate02
+name: Glass Plate
+script: ''
+mesh: sum\m\sum_m_gls_plate_o02.nif
+icon: sum\m\sum_m_glass_o02.dds
+data:
+  weight: 1.0
+  value: 5
+  flags: ''

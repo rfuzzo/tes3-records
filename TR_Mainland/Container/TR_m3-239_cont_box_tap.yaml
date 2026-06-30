@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: TR_m3-239_cont_box_tap
+name: Crate
+script: TR_m3-239_tapestry
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory: []

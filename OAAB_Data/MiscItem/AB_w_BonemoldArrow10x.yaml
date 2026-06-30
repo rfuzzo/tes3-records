@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_w_BonemoldArrow10x
+name: Bonemold Arrow (10)
+script: AB_QuiverBonemold10x_s
+mesh: OAAB\w\quiver_bonemold.nif
+icon: w\tx_arrow_bonemold.dds
+data:
+  weight: 1.5
+  value: 20
+  flags: ''

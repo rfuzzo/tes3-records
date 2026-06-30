@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea _StridentBirdEgg_01
+name: Strident Runner Egg
+script: ''
+mesh: pc\n\pc_ing_stridbirdegg.nif
+icon: pc\n\pc_ing_stridbirdegg.dds
+data:
+  weight: 0.5
+  value: 2
+  effects:
+  - RestoreFatigue
+  - WeaknessToMagicka
+  - Light
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

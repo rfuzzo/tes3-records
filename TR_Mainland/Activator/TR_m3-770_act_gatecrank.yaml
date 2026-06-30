@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3-770_act_gatecrank
+name: Gate Crank
+script: TR_m3-770_act_gatecrank_script
+mesh: f\Act_m_sewer_crank_01.nif

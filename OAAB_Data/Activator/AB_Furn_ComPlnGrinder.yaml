@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Furn_ComPlnGrinder
+name: Grinding Wheel
+script: AB_ComPlnGrinder_s
+mesh: OAAB\u\com_p_grindstand.nif

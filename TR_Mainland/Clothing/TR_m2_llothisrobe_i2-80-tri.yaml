@@ -1,0 +1,23 @@
+type: Clothing
+flags: ''
+id: TR_m2_llothisrobe_i2-80-tri
+name: Robe of Saint Llothis
+script: ''
+mesh: TR\c\TR_c_Necrom_Robe.nif
+icon: TR\c\TR_c_Necrom_Robe.dds
+enchanting: TR_m2_llothisen_i2-80-tri
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_C_DeExRobeNecrom01_C
+  female_bodypart: ''
+- biped_object_type: LeftAnkle
+  male_bodypart: ''
+  female_bodypart: ''
+- biped_object_type: RightAnkle
+  male_bodypart: ''
+  female_bodypart: ''
+data:
+  clothing_type: Robe
+  weight: 3.0
+  value: 80
+  enchantment: 400

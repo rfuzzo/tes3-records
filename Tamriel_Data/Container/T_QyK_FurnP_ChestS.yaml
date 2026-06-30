@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: T_QyK_FurnP_ChestS
+name: Small Chest
+script: ''
+mesh: pi\o\QyK_contp_chest_sml.nif
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory: []

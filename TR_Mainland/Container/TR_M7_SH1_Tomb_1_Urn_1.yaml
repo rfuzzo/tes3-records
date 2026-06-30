@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_M7_SH1_Tomb_1_Urn_1
+name: Urn of Andrus Hlaalu
+script: ''
+mesh: tr\o\tr_cont_urn_tapestry.nif
+encumbrance: 10.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - TR_M7_SH1_Tomb_1_Andrus

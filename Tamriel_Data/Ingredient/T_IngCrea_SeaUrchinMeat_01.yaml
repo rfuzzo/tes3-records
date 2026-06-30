@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_SeaUrchinMeat_01
+name: Sea Urchin Meat
+script: ''
+mesh: pi\n\tr_ing_seaurchin_meat.nif
+icon: pi\n\pi_ing_seaurchin_meat.dds
+data:
+  weight: 0.5
+  value: 5
+  effects:
+  - FortifyAttribute
+  - DamageAttribute
+  - SwiftSwim
+  - None
+  skills:
+  - Block
+  - Block
+  - Block
+  - None
+  attributes:
+  - Endurance
+  - Agility
+  - Agility
+  - None

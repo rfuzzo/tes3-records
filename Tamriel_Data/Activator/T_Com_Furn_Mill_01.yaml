@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Com_Furn_Mill_01
+name: Mill
+script: T_ScObj_Mill
+mesh: pc\f\pc_furn_com_mill_01.nif

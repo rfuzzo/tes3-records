@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_coprinus_01
+name: Violet Coprinus
+script: ''
+mesh: n\Ingred_coprinus_01.NIF
+icon: n\Tx_coprinus_01.tga
+data:
+  weight: 0.5
+  value: 1
+  effects:
+  - WaterWalking
+  - DrainFatigue
+  - Poison
+  - None
+  skills:
+  - Block
+  - Block
+  - Block
+  - Block
+  attributes:
+  - Strength
+  - Strength
+  - Strength
+  - Strength

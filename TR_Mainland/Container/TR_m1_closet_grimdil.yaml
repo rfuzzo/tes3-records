@@ -1,0 +1,23 @@
+type: Container
+flags: ''
+id: TR_m1_closet_grimdil
+name: Closet
+script: ''
+mesh: o\Contain_De_Closet_01.NIF
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Mw_Random_BooksTelvanni
+- - -3
+  - T_Mw_Random_ScrollsLvl1
+- - -2
+  - T_Mw_Random_ScrollsLvl2
+- - -1
+  - T_Mw_Random_ScrollsLvl3
+- - -2
+  - l_m_enchantitem_telvanni_rank01
+- - -2
+  - l_m_enchantitem_telvanni_rank6
+- - -2
+  - l_m_enchantitem_telvanni_rank8

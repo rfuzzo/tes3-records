@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_Kha_p_Bed_14
+name: Bed
+script: Bed_Standard
+mesh: f\Active_De_Bed_14.NIF

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2_q_AB_AdrosuNote
+name: Hastily-scribbled Note
+script: TR_m2_q_AB_AdrosuNoteSCN
+mesh: m\text_note_01.nif
+icon: m\tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nMy name is Adrosu Balmayn. I am sorry for my lack of words, but Dralothas Omothran took my tongue. I need you to help me. Down the road is another Dunmer, Teris Andrethi. He'd promised to get me a potion to regrow my tongue from some Telvanni mage, but I don't have any gold and he wants me to \"earn\" it by robbing travelers with him! Please, go to him and obtain that potion.\r\n<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

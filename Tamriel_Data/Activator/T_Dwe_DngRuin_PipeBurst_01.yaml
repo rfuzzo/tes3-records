@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Dwe_DngRuin_PipeBurst_01
+name: Burst Pipe Fitting
+script: T_ScObj_Dwe_PipeBrk
+mesh: tr\f\tr_act_dwe_pipe_brk01.nif

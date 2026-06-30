@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Dae_Gold_Cuirass_01
+name: Golden Saint Cuirass
+script: ''
+mesh: tr\a\tr_a_dae_gold_cuirGND.nif
+icon: tr\a\tr_a_dae_gold_cuirass.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_A_DaeGoldCuirass01_C
+  female_bodypart: T_A_DaeGoldCuirass01_CF
+data:
+  armor_type: Cuirass
+  weight: 25.0
+  value: 50000
+  health: 820
+  enchantment: 320
+  armor_rating: 75

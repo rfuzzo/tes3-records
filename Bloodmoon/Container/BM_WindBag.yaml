@@ -1,0 +1,9 @@
+type: Container
+flags: PERSISTENT
+id: BM_WindBag
+name: Bag of Winds
+script: windbagScript
+mesh: o\Contain_Com_Sack_01.NIF
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory: []

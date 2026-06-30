@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_CoinDram010
+name: Dram (10)
+script: AB_Dram010_s
+mesh: OAAB\m\dram_010.nif
+icon: OAAB\m\misc_coin_dram.dds
+data:
+  weight: 0.0
+  value: 10
+  flags: ''

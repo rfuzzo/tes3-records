@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_DwrvLanternBroken
+name: Broken Dwemer Lantern
+script: ''
+mesh: OAAB\l\dwrv_lanternBrk.nif
+icon: OAAB\l\dwrv_LanternBrk.dds
+data:
+  weight: 2.8
+  value: 22
+  flags: ''

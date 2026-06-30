@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m4_q_WiseWomansFavor
+name: Wise Woman's Favor
+script: ''
+mesh: c\amulet_expensive_2.nif
+icon: c\tx_amulet_expens2.dds
+enchanting: TR_m4_q_drainIntFortPer
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 200
+  enchantment: 100

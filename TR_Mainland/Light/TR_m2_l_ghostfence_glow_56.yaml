@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: TR_m2_l_ghostfence_glow_56
+name: ''
+script: ''
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 56
+  color:
+  - 44
+  - 105
+  - 220
+  - 0
+  flags: PULSE_SLOW

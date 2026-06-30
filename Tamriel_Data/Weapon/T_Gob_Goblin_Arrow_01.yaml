@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Gob_Goblin_Arrow_01
+name: Goblin Arrow
+script: ''
+mesh: tr\w\tr_w_goblin_arrow.nif
+icon: tr\w\tr_w_goblin_arrow.dds
+enchanting: ''
+data:
+  weight: 0.2
+  value: 10
+  weapon_type: Arrow
+  health: 10
+  speed: 1.0
+  reach: 1.0
+  enchantment: 25
+  chop_min: 7
+  chop_max: 12
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

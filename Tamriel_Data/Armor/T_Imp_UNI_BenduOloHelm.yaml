@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Imp_UNI_BenduOloHelm
+name: Helm of Bendu Olo
+script: ''
+mesh: pc\a\pc_a_bendu_olo_h.nif
+icon: pc\a\pc_a_bendu_olo_h.dds
+enchanting: T_Const_BenduOloHelm
+biped_objects:
+- biped_object_type: Hair
+  male_bodypart: T_A_ImpBenduOloHelm
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 4.0
+  value: 20000
+  health: 575
+  enchantment: 100
+  armor_rating: 54

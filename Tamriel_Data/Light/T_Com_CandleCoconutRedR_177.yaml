@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_Com_CandleCoconutRedR_177
+name: ''
+script: ''
+mesh: pi\l\pi_l_coco_candleRedR.nif
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 177
+  color:
+  - 255
+  - 15
+  - 5
+  - 0
+  flags: DYNAMIC | FIRE | FLICKER_SLOW

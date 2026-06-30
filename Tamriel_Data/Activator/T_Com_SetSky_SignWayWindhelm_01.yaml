@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Com_SetSky_SignWayWindhelm_01
+name: Windhelm
+script: ''
+mesh: sky\x\sky_act_rsign_windh1.nif

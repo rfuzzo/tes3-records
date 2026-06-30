@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_LadysSmock_01
+name: Lady's Smock Leaves
+script: ''
+mesh: pc\n\pc_ing_ladysmock.nif
+icon: pc\n\pc_tx_ingred_ladys.dds
+data:
+  weight: 0.1
+  value: 2
+  effects:
+  - RestoreAttribute
+  - ResistFire
+  - DamageFatigue
+  - FortifyHealth
+  skills:
+  - Block
+  - None
+  - None
+  - None
+  attributes:
+  - Intelligence
+  - None
+  - None
+  - None

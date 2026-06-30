@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: Act_BM_wall_corner_03
+name: ''
+script: fortDisableScript
+mesh: x\Ex_imp_wall_corner_01.nif

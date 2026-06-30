@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: TR_m1_l_i2_brazierbrk
+name: ''
+script: ''
+mesh: l\light_DAE_brazier00.NIF
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 16
+  color:
+  - 0
+  - 0
+  - 0
+  - 0
+  flags: ''

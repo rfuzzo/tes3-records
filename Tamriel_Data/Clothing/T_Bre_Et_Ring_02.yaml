@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Bre_Et_Ring_02
+name: Extravagant Ring
+script: ''
+mesh: hr\c\hr_c_etring_02.nif
+icon: hr\c\hr_c_etring_02.dds
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 120
+  enchantment: 600

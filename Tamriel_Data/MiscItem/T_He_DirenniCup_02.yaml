@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_He_DirenniCup_02
+name: Direnni Cup
+script: ''
+mesh: sky\m\Sky_Misc_DCup_02.nif
+icon: sky\m\tx_misc_dcup_02.dds
+data:
+  weight: 1.0
+  value: 10
+  flags: ''

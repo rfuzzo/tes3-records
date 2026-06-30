@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_SetMw_SignBriricca_01
+name: Briricca Private Bank
+script: SignRotate
+mesh: tr\f\tr_act_sign_c_bank_01.nif

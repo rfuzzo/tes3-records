@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_ImpClub
+name: Imperial Club
+script: ''
+mesh: OAAB\w\imperial_club.nif
+icon: OAAB\w\Imperial_club.dds
+enchanting: ''
+data:
+  weight: 12.0
+  value: 20
+  weapon_type: BluntOneHand
+  health: 400
+  speed: 1.5
+  reach: 1.0
+  enchantment: 60
+  chop_min: 5
+  chop_max: 5
+  slash_min: 3
+  slash_max: 3
+  thrust_min: 1
+  thrust_max: 3
+  flags: ''

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_EnSc_Com_JerdansIndulgence
+name: Scroll of Jerdan's Indulgence
+script: ''
+mesh: m\text_scroll_01.nif
+icon: m\tx_scroll_open_01.tga
+enchanting: T_Once_FrenzyHumanTarget15-60
+text: <DIV ALIGN="center"><FONT COLOR="000000" SIZE="2" FACE="Daedric">WOE UPON YOU</FONT><BR>
+data:
+  weight: 0.2
+  value: 178
+  book_type: Scroll
+  skill: None
+  enchantment: 0

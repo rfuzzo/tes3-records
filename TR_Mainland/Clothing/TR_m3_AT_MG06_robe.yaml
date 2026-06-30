@@ -1,0 +1,23 @@
+type: Clothing
+flags: ''
+id: TR_m3_AT_MG06_robe
+name: Robe of Rejuvenation
+script: ''
+mesh: c\C_M_Robe_Extrav_1c_GND.NIF
+icon: c\Tx_Robe_Extrav_1c.tga
+enchanting: TR_m3_q_AT_MG06_robe_en
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: C_M_Robe_Extrav_1c
+  female_bodypart: ''
+- biped_object_type: LeftAnkle
+  male_bodypart: ''
+  female_bodypart: ''
+- biped_object_type: RightAnkle
+  male_bodypart: ''
+  female_bodypart: ''
+data:
+  clothing_type: Robe
+  weight: 3.0
+  value: 950
+  enchantment: 210

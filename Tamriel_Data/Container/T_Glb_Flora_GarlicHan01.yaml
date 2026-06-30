@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Glb_Flora_GarlicHan01
+name: Bundle of Garlic
+script: ''
+mesh: Sky\o\Sky_Cont_Garlic_01.nif
+encumbrance: 0.0
+container_flags: ORGANIC | IS_BASE
+inventory:
+- - 4
+  - T_Glb_Random_FlorGarlic

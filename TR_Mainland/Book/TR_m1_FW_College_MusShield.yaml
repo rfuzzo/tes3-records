@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_FW_College_MusShield
+name: Shield of the Emperor
+script: ''
+mesh: m\text_parchment_01.nif
+icon: m\tx_parchment_01.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nShield of the Emperor<BR> <BR>\r\n<DIV ALIGN=\"LEFT\">\r\nEmperor Uriel V was slain in Ionith, a Tsaesci town in Akavir, amidst the tragic disasters that befell the Legions there in the winter of 289. The following is reproduced from Lord Pottreid's report to the Commission following the war:\r\n<BR>\r\n\"The few survivors of the Expeditionary Force who reached Septimia told how the Emperor had led the army out of Ionith by night two days earlier, successfully breaking through the enemy lines but then being surrounded by overwhelming forces on the road to Septimia. They told of a heroic last stand by the Emperor and the Tenth Legion, which allowed a remnant of the Fourteenth to reach Septimia. Two survivors of the Tenth arrived in Septimia that night, having slipped through the enemy lines during their undisciplined victory celebration. These men confirmed having seen the Emperor die, cut down by enemy arrows as he rallied the Tenth's shield wall.\"\r\n<BR>\r\nThe Shield of the Emperor has been held at Firewatch since the return of the reduced Far East Fleet to Tamriel in 290. Until the opening of the Museum in 389, it was kept in the vaults of Ember Keep. Although the shield is heavily damaged by Akaviri arrows and blades, the College has not attempted any repairs to the artifact on account of its historical importance.<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_bk_Braynas_Order
+name: Smith's Order
+script: ''
+mesh: m\Text_Parchment_02.NIF
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<BR>\r\n3 x Glass Dagger<BR>\r\n2 x Chitin Spear<BR>\r\n1 x Glass Shield<BR>\r\n2 x Chitin Longbow\r\n100 x Chitin Arrow\r\n<BR>\r\nRegards<BR>\r\nThels Gilvilo<BR>\r\n"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

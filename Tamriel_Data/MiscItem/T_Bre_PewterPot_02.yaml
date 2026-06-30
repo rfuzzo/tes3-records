@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Bre_PewterPot_02
+name: Pewter Pot
+script: ''
+mesh: hr\m\hr_misc_pew_pot_02.nif
+icon: hr\m\hr_misc_pew_pot_02.dds
+data:
+  weight: 5.0
+  value: 3
+  flags: ''

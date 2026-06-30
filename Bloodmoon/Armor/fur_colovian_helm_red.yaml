@@ -1,0 +1,19 @@
+type: Armor
+flags: BLOCKED
+id: fur_colovian_helm_red
+name: Red Colovian Fur Helm
+script: ''
+mesh: a\A_Helm_Colovian.NIF
+icon: a\Tx_Fur_Colovian_helm.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: Hair
+  male_bodypart: a_helm_colovian
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 2.0
+  value: 25
+  health: 70
+  enchantment: 75
+  armor_rating: 7

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: tr_m7_narsis_banner_36
+name: Voltandus' Fine Smithing
+script: OutsideBanner
+mesh: f\Furn_bannerD_WA_shop_01.nif

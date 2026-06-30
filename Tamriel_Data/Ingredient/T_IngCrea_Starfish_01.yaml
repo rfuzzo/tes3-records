@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_Starfish_01
+name: Starfish Leg
+script: ''
+mesh: pi\n\pi_ing_starfish_01.nif
+icon: pi\n\pi_ing_starfish_01.dds
+data:
+  weight: 0.3
+  value: 6
+  effects:
+  - WaterBreathing
+  - WeaknessToCommonDisease
+  - SwiftSwim
+  - CureCommonDisease
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

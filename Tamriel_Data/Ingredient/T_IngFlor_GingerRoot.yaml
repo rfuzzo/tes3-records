@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_GingerRoot
+name: Ginger Root
+script: ''
+mesh: pi\n\pi_ing_gingerroot.nif
+icon: pi\n\pi_ing_gingerroot.dds
+data:
+  weight: 0.3
+  value: 3
+  effects:
+  - RestoreFatigue
+  - FortifyAttribute
+  - None
+  - None
+  skills:
+  - None
+  - Block
+  - None
+  - None
+  attributes:
+  - None
+  - Endurance
+  - None
+  - None

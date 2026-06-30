@@ -1,0 +1,13 @@
+type: Container
+flags: PERSISTENT
+id: TR_m7_ShiSha_HH_Q2Desk
+name: Desk
+script: ''
+mesh: pc\o\pc_furn_com_desk.nif
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - 100
+  - Gold_001
+- - 2
+  - T_Cyr_Random_PosGC

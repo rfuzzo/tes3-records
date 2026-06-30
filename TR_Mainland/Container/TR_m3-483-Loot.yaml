@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: TR_m3-483-Loot
+name: Urn
+script: ''
+mesh: o\Contain_urn_05.NIF
+encumbrance: 10.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Bk_HandbookOfTheDevoutTR
+- - 1
+  - T_Com_Gold_Dagger_01
+- - 1
+  - ingred_bonemeal_01

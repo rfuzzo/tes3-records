@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_sload_soap_01
+name: Sload Soap
+script: ''
+mesh: n\Ingred_Sload_Soap_01.nif
+icon: n\Tx_sload_soap_01.tga
+data:
+  weight: 0.1
+  value: 50
+  effects:
+  - DrainAttribute
+  - FortifyAttribute
+  - FireShield
+  - RestoreAttribute
+  skills:
+  - Block
+  - Block
+  - Block
+  - Block
+  attributes:
+  - Personality
+  - Agility
+  - Strength
+  - Agility

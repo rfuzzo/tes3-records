@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: towr_tel_fyr_chest00
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory: []

@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: de_r_drawers_01_m_exq
+name: Drawers
+script: ''
+mesh: o\Contain_De_Drawers_01.NIF
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory:
+- - 3
+  - random_exquisite_de_mclothes1
+- - 5
+  - random_extravagant_de_mclothes1

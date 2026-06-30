@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: T_MwDe_FurnM_Dw1Clt
+name: Drawers
+script: ''
+mesh: TR\o\TR_furn_De_Rm_Drawers.NIF
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Mw_Random_Clothing
+- - 1
+  - random_de_pants
+- - 1
+  - random_de_robe
+- - 1
+  - random_de_shirt
+- - 1
+  - random_de_shoes_common

@@ -1,0 +1,25 @@
+type: Container
+flags: ''
+id: com_basket_01_pierlette
+name: Basket
+script: ''
+mesh: o\Contain_Com_Basket_01.NIF
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - ingred_alit_hide_01
+- - 2
+  - ingred_chokeweed_01
+- - 2
+  - ingred_gold_kanet_01
+- - 2
+  - ingred_kagouti_hide_01
+- - 2
+  - ingred_racer_plumes_01
+- - 2
+  - ingred_rat_meat_01
+- - 2
+  - ingred_scathecraw_01
+- - 2
+  - ingred_trama_root_01

@@ -1,0 +1,22 @@
+type: Armor
+flags: ''
+id: imperial left pauldron
+name: Imperial Steel Left Pauldron
+script: ''
+mesh: a\A_Imperial_Pauldron_GND.nif
+icon: a\Tx_Imperial_pauldron.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: LeftPauldron
+  male_bodypart: imperial cl pauldron
+  female_bodypart: ''
+- biped_object_type: LeftUpperArm
+  male_bodypart: imperial ua
+  female_bodypart: ''
+data:
+  armor_type: LeftPauldron
+  weight: 10.0
+  value: 53
+  health: 160
+  enchantment: 20
+  armor_rating: 16

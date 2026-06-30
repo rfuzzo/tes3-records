@@ -1,0 +1,23 @@
+type: Container
+flags: ''
+id: bm_corpseloot_02
+name: Corpse
+script: Sound_Flies
+mesh: o\contain_corpse10.NIF
+encumbrance: 120.0
+container_flags: IS_BASE
+inventory:
+- - 3
+  - ingred_bonemeal_01
+- - 5
+  - bm_corpse_loot_01
+- - 45
+  - random gold
+- - 1
+  - bm_randomboots_smugglers
+- - 1
+  - bm_randomleft_smugglers
+- - 1
+  - bm_randomright_smugglers
+- - 1
+  - bm_randomshield_smugglers

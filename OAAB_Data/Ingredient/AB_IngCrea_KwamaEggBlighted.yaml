@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: AB_IngCrea_KwamaEggBlighted
+name: Blighted Kwama Egg
+script: ''
+mesh: OAAB\n\egg_blight.nif
+icon: OAAB\n\ingred_egg_blighted.tga
+data:
+  weight: 1.0
+  value: 2
+  effects:
+  - DrainAttribute
+  - DamageFatigue
+  - None
+  - None
+  skills:
+  - Block
+  - None
+  - None
+  - None
+  attributes:
+  - Personality
+  - None
+  - None
+  - None

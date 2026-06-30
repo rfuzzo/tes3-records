@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_DaeRunestone_03
+name: Daedric Runestone
+script: ''
+mesh: OAAB\m\rem_dae_runestone_03.nif
+icon: OAAB\m\rem_dae_runestone3.dds
+data:
+  weight: 1.0
+  value: 50
+  flags: ''

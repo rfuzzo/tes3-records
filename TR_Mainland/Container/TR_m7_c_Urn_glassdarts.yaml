@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m7_c_Urn_glassdarts
+name: Urn
+script: ''
+mesh: o\Contain_urn_03.NIF
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - 10
+  - T_De_Glass_Dart_01

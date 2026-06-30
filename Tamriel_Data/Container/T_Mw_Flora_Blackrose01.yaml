@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Mw_Flora_Blackrose01
+name: Black Rose
+script: ''
+mesh: TR\o\TR_f_blackrose01.NIF
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - T_Mw_Random_FlorBlackrosePetals

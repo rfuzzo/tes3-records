@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: ex_dwrv_crank_dagoth
+name: Dwarven Crank
+script: Dagoth_doors
+mesh: i\in_dwrv_crank00.nif

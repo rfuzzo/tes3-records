@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: Wizard_chest_01_all
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - random_book_wizard_all
+- - 1
+  - random_pos
+- - 2
+  - l_m_potion

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_Painting_Thresvy
+name: Thresvy Sunset
+script: ''
+mesh: pc\m\PC_M_Painting_Thresvy.nif
+icon: pc\m\PC_M_Painting_Thresvy.dds
+data:
+  weight: 14.0
+  value: 500
+  flags: ''

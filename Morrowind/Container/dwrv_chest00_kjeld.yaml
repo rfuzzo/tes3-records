@@ -1,0 +1,31 @@
+type: Container
+flags: ''
+id: dwrv_chest00_kjeld
+name: Heavy Dwemer Chest
+script: ''
+mesh: o\contain_dwrv_chest00.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - chitin_shield
+- - 1
+  - ebony_boots
+- - 1
+  - steel_boots
+- - 1
+  - daedric_greaves
+- - 1
+  - iron_greaves
+- - 1
+  - chitin pauldron - right
+- - 1
+  - chitin pauldron - left
+- - 1
+  - dwemer_cuirass
+- - 1
+  - steel_cuirass
+- - 1
+  - dreugh_helm
+- - 1
+  - iron_helmet

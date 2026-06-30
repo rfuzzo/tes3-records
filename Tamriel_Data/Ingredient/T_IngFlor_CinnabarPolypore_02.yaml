@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_CinnabarPolypore_02
+name: Cinnabar Polypore Yellow Cap
+script: ''
+mesh: pc\n\PC_Ing_CinPoly2.nif
+icon: pc\n\pc_tx_ingred_cinpoly2.dds
+data:
+  weight: 0.1
+  value: 1
+  effects:
+  - RestoreAttribute
+  - FortifyAttribute
+  - DamageAttribute
+  - Reflect
+  skills:
+  - Block
+  - Block
+  - Block
+  - None
+  attributes:
+  - Endurance
+  - Endurance
+  - Personality
+  - None

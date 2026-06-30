@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_Kha_Scroll_Dremora
+name: Scroll of Summon Dremora
+script: ''
+mesh: m\text_scroll_01.nif
+icon: m\tx_scroll_open_01.tga
+enchanting: TR_m3_Kha_Scroll_Dremora_en
+text: <DIV ALIGN="center"><FONT COLOR="000000" SIZE="2" FACE="Daedric">BEHOLD!</FONT><BR>
+data:
+  weight: 0.2
+  value: 280
+  book_type: Scroll
+  skill: None
+  enchantment: 100

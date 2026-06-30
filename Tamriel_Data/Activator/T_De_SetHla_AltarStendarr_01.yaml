@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_De_SetHla_AltarStendarr_01
+name: Altar of Stendarr
+script: T_ScObj_ShrineHlaaluStendarr
+mesh: tr\f\tr_furn_hla_altar_ste.nif

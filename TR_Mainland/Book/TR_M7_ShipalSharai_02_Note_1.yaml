@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: TR_M7_ShipalSharai_02_Note_1
+name: Note
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nLady Vian, <BR>\r\n<BR>\r\nI know you enjoy your evening conversations with Madala Ceno, but our stocks are depleted as it is. If you must treat your friend to a drink when you talk, could you please consider something cheaper next time?<BR>\r\n<BR>\r\nArmas<BR>\r\n"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: amulet of igniis
+name: Amulet of Igniis
+script: ''
+mesh: c\Amulet_Extravagant_1.NIF
+icon: c\tx_amulet_extrav1.tga
+enchanting: am_amuletofigniis_en
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 1000
+  enchantment: 600

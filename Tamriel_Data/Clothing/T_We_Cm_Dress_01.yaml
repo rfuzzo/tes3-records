@@ -1,0 +1,17 @@
+type: Clothing
+flags: ''
+id: T_We_Cm_Dress_01
+name: Common Dress
+script: ''
+mesh: VA\c\VA_C_CmDress_01G.nif
+icon: va\c\VA_CmDress_01.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_C_WeCmDress01_C
+  female_bodypart: T_C_WeCmDress01_CF
+data:
+  clothing_type: Shirt
+  weight: 2.5
+  value: 6
+  enchantment: 20

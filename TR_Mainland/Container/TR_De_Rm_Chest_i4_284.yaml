@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: TR_De_Rm_Chest_i4_284
+name: Chest
+script: ''
+mesh: TR\o\TR_furn_De_Rm_Chest.NIF
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Mw_Lvl_Soulgems
+- - 2
+  - T_Mw_Random_BooksRedoran
+- - 1
+  - T_Mw_Random_BooksScholar
+- - 1
+  - T_Mw_Random_ClutterDesk
+- - 1
+  - random gold_lev_10

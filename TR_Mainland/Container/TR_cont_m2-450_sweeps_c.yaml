@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: TR_cont_m2-450_sweeps_c
+name: Chest
+script: ''
+mesh: TR\o\TR_furn_De_Rm_Chest.NIF
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - 10
+  - T_Com_Brush_01
+- - 5
+  - misc_de_cloth10
+- - 5
+  - misc_de_cloth11
+- - 3
+  - p_restore_health_q
+- - 5
+  - torch

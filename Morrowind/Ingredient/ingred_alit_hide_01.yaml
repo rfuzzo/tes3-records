@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_alit_hide_01
+name: Alit Hide
+script: ''
+mesh: n\Ingred_Alit_Hide_01.nif
+icon: n\Tx_alit_hide_01.tga
+data:
+  weight: 1.0
+  value: 5
+  effects:
+  - DrainAttribute
+  - ResistPoison
+  - Telekinesis
+  - DetectAnimal
+  skills:
+  - Block
+  - Block
+  - Block
+  - Block
+  attributes:
+  - Intelligence
+  - Strength
+  - Strength
+  - Strength

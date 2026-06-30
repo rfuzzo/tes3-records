@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Nor_SilverBowl_02
+name: Silver Bowl
+script: ''
+mesh: sky\m\sky_misc_slv_bwl_02.nif
+icon: sky\m\tx_misc_slv_bwl_02.dds
+data:
+  weight: 4.0
+  value: 26
+  flags: ''

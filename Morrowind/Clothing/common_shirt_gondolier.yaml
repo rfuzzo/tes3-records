@@ -1,0 +1,17 @@
+type: Clothing
+flags: ''
+id: common_shirt_gondolier
+name: Gondolier Shirt
+script: ''
+mesh: c\C_M_Shirt_Gondolier_GND.NIF
+icon: c\tx_shirt_common_gond.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: C_M_Shirt_Gondalier_C
+  female_bodypart: ''
+data:
+  clothing_type: Shirt
+  weight: 6.0
+  value: 6
+  enchantment: 100

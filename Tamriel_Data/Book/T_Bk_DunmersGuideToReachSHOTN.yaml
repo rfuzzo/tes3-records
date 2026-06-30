@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_DunmersGuideToReachSHOTN
+name: A Dunmer's Guide to The Reach
+script: ''
+mesh: Sky\m\Sky_Book_Basic_02.nif
+icon: Sky\m\Tx_Book_Basic_02.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nA Dunmer's Guide to Skyrim: The Reach<BR>\r\nby Giras Daroso<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nMay Mercy, Mastery, and Mystery guide your life and ancestors. My name is Giras Daroso and I have set out to compose a series of guidebooks about the frigid and alien land west of our enlightened people, Skyrim.<BR>\r\n<BR>\r\nIntroduction:<BR>\r\nThe Reach is one of the most ethnically diverse regions in Tamriel, having been fought over by essentially every major western power. Unlike what many of our people may believe, not all of Skyrim is like the most northern lands of House Redoran. The Reach is in fact covered with thick deciduous forests and is quite temperate in temperature. Some travellers may even find the many mesas and steep valleys reminiscent of the foyadas of Vvardenfell.<BR>\r\n<BR>\r\nTravelling to and from Markarth:<BR>\r\nOf all possible modes of transportation, I would greatly advise to take a boat. From Blacklight to the city of Haafingar and from there I would advise taking a river barge down the Karth river until you reach the city of Markarth, the largest settlement in the Hold. Passage can be booked here to virtually all corners of the region and even to other Holds.<BR>\r\n<BR>\r\nTemple Resources:<BR>\r\nAny pious Dunmer will find the religious faculties lacking in Markarth Hold, and with good reason, being far from our hallowed lands. I would highly suggest bringing the necessary materials and prayer books on your journey. With that said, there is in fact a hostel and house temple run by a kind soul named Vadas Marvani open to any of the Temple faithful. His residence is a two story house near the King's hall in Markarth.<BR>\r\n<BR>\r\nThe Locals:<BR>\r\nWhile the western nords are by no way amiable to our kind as a whole, they are too preoccupied with harassing the Breton and Redguard communities to bother a traveller from Morrowind. Remember that you are a representative of the Triune Way, and as long as the authorities be just, recall the writings of St. Delyn the Wise: keep no secret from your Judge's scale!<BR>\r\nHowever, I must stress that this does not make travel in the Reach like an evening at the spas of Dreynim. The native inhabitants of the area, aptly called Reachmen, are to be avoided unless absolutely necessary, as their villages are commonly hideouts for murderous marauders.<BR>\r\nIn addition, I have been told that Yokudo-Nordic unrest within the city of Dragonstar continues still at the time of this guide's completion.<BR>\r\n<BR>\r\n<BR>"
+data:
+  weight: 3.0
+  value: 75
+  book_type: Book
+  skill: None
+  enchantment: 0

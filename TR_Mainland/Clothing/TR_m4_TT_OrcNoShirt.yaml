@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m4_TT_OrcNoShirt
+name: Common Shirt
+script: ''
+mesh: c\C_M_Shirt_GND_common01.nif
+icon: c\TX_shirtcom01.tga
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Shirt
+  weight: 0.0
+  value: 16960
+  enchantment: 20

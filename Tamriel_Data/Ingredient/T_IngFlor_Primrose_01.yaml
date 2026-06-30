@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_Primrose_01
+name: Primrose Leaves
+script: ''
+mesh: pc\n\pc_ing_primerose.nif
+icon: pc\n\pc_tx_ingred_primerose.dds
+data:
+  weight: 0.1
+  value: 2
+  effects:
+  - RestoreAttribute
+  - RestoreAttribute
+  - FortifyAttribute
+  - DamageAttribute
+  skills:
+  - Block
+  - Block
+  - Block
+  - Block
+  attributes:
+  - Willpower
+  - Personality
+  - Luck
+  - Strength

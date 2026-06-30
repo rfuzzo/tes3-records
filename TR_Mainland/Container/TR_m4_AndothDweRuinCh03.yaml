@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: TR_m4_AndothDweRuinCh03
+name: Chest
+script: TR_m4_AndothDweChest02_scp
+mesh: o\Contain_Com_Chest_01.NIF
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - 5
+  - TR_m4_AndothDweParaDart
+- - 1
+  - T_De_Chitin_PioneerHelm_02
+- - 3
+  - p_chameleon_q

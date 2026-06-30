@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m2_act_Jet_2_i332
+name: ''
+script: TR_m2_script_gf_i332
+mesh: x\Ex_gg_particles_01.NIF

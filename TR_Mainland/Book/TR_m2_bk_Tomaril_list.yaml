@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2_bk_Tomaril_list
+name: Visitors' record
+script: ''
+mesh: m\Text_Octavo_07.nif
+icon: m\Tx_book_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR> Record of the visitors\r\n<BR>\r\nBy Asgrim Kolsgreg<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nThis is a record of all the people who have visited Tomaril Tower. Their names, occupation, their possible guild memberships and sometimes even their motives of the visit are written in this book.\r\n<BR>\r\n"
+data:
+  weight: 3.0
+  value: 50
+  book_type: Book
+  skill: None
+  enchantment: 0

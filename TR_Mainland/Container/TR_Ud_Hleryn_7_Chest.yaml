@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: TR_Ud_Hleryn_7_Chest
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - common_glove_left_01
+- - 1
+  - common_glove_right_01
+- - 1
+  - common_robe_02
+- - 1
+  - netch_leather_boots
+- - 1
+  - netch_leather_cuirass

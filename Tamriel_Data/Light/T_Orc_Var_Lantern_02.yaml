@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_Orc_Var_Lantern_02
+name: Orc Lantern
+script: ''
+mesh: sky\l\sky_lgt_orc_lantn_02.nif
+icon: sky\l\tx_orc_lantern02.dds
+sound: ''
+data:
+  weight: 6.0
+  value: 13
+  time: 180
+  radius: 220
+  color:
+  - 255
+  - 242
+  - 168
+  - 0
+  flags: DYNAMIC | CAN_CARRY | FIRE | FLICKER_SLOW

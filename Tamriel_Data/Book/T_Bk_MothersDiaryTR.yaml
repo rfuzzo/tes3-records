@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_MothersDiaryTR
+name: A Mother's Diary
+script: T_ScBook_SpBlind
+mesh: m\Text_Octavo_02.nif
+icon: m\Tx_octavo_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nA Mother's Diary<BR>\r\n<BR>\r\nBy Gancietia Ergalla<BR>\r\n<BR>\r\n[excerpt]<BR>\r\n<BR>\r\nIn days past, when our family lived in Cyrodiil, we enjoyed and took for granted simple Imperial traditions. Upon arrival in Morrowind, I often found myself disappointed at the stern and dour nature of the local Dark Elves; they lacked many of our familiar customs, and when exposed to them, the Dunmer would dismiss them as frivolous. So sad, to live a life so long, and devoid of merriment.<BR>\r\n<BR>\r\nRather than give in to their impassiveness, I stayed the course, and tried to adapt the customs of our homeland to something our new neighbors could relate to. Some of these attempts fared better than others, but I think one in particular did very well.<BR>\r\n<BR>\r\nIt would soon be Heart's Day (16th Sun's Dawn, as anyone in Tamriel could tell you), which just so happened to be the birthday of my neighbor's son. I took Craelia, his mother and a fellow Imperial, into my confidence in planning the celebration. She was delighted with the idea. Because Cyrodiilic pack animals are virtually unknown in Morrowind, I improvised on the old game, making it \"Pin the tail on the Guar\".<BR>\r\n<BR>\r\nAs my children and Craelia's played, Dunmer youngsters looked on in incomprehension. After a few minutes, one of the Dark Elven children inquired politely if he could play as well. Once one of them joined, a small group of others tentatively came over. I knew full well that they had probably been instructed by their parents to do so - the children were all of House Hlaalu, and were likely just trying to curry favor by appearing closer to the Empire. But as my idea had been a success, I didn't think too much of it.<BR>\r\n<BR>\r\nAn hour or two had passed, when one child complained that another was cheating. The bickering grew in volume, and was finally enough to attract one of the older Dunmer. He stood silently, listening as one Dunmer child accused another of peeking from under the blindfold. He sighed, and without a word placed a hand across the offending child's eyes.<BR>\r\n<BR>\r\n\"It will be fair now, if this is how you want to spend your time.\" He said, \"If only to practice my own skill, I will cast blind on whichever of you asks.\"<BR>\r\n<BR>\r\nThe children smiled, to have the odds evened. I smiled myself; I had thought that the Hlaalu would either permit or demand their children play, but I never expected an adult among them to be obviously supportive of it, even in a backhanded fashion. <BR>"
+data:
+  weight: 4.0
+  value: 200
+  book_type: Book
+  skill: None
+  enchantment: 100

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Qy_Intense_SparkBlade
+name: Intense Sparkblade
+script: ''
+mesh: pi\w\pi_w_bronze_dagger.nif
+icon: pi\w\pi_w_bronze_dagger.dds
+enchanting: T_Strike_IntenseSpark
+data:
+  weight: 4.0
+  value: 91
+  weapon_type: ShortBladeOneHand
+  health: 250
+  speed: 2.5
+  reach: 1.0
+  enchantment: 60
+  chop_min: 5
+  chop_max: 6
+  slash_min: 5
+  slash_max: 6
+  thrust_min: 5
+  thrust_max: 6
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

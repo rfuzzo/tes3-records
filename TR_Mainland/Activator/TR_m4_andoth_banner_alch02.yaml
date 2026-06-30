@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_andoth_banner_alch02
+name: 'Nevusa Falen: Alchemist'
+script: OutsideBanner
+mesh: tr\f\tr_act_banner_heal_01.nif

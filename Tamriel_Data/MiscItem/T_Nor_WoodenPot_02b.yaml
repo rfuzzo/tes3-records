@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Nor_WoodenPot_02b
+name: Wooden Pot
+script: ''
+mesh: Sky\m\Sky_Misc_W_Pot_02_02.nif
+icon: Sky\m\Tx_Misc_W_Pot_02_02.dds
+data:
+  weight: 2.5
+  value: 5
+  flags: ''

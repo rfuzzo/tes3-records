@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_NVA1_4_plank_pile
+name: ''
+script: TR_m7_NVA_Stage1_4
+mesh: tr\f\TR_ex_com_plank_pile.NIF

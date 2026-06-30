@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_CowardiceOfTheEnemyTR
+name: Cowardice of the Enemy
+script: T_ScBook_SpRestoreHealth
+mesh: m\Text_Octavo_03.nif
+icon: m\Tx_octavo_03.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>\r\nCowardice of the Enemy<BR>\r\nBy Rentilis Lleroth<BR>\r\n<BR>\r\nSkaering barely managed to duck another crushing blow, and was beginning to wonder how long he would be able to evade. He knew his Dremora Lord opponent thoroughly outclassed him in every respect, but Skaering was determined to hold the daedra here until his allies could flee the ruin. The merciless and tireless Dremora cared little for what Skaering wanted, as yet another swing of its mace passed harmlessly overhead.<BR>\r\n<BR>\r\nIn ducking this time, Skaering didn't merely bow, but dropped to one knee. Exhaustion was taking a toll, and the menacing gleam in the Dremora's eye said it knew as much. Striving to put some distance between it and himself, Skaering tried to use his wooden staff to trip the daedra. To his horror, the staff not only did not have the desired effect, but also splintered into pieces.<BR>\r\n<BR>\r\nThe Dremora Lord took a wider stance, to bring its mace down upon Skaering with brutally malevolent force. The Nord scurried backward, his ringmail jangling against the stone floor. Once, twice, three times the mace failed to find its mark and instead left valleys in the stone of the cold floor. But then Skaering encountered a wall, and he knew his life was surely nearing its end. The daedra lifted the mace high into the air, laughing with wintery humour.<BR>\r\n<BR>\r\nSkaering's last, desperate act was not to raise his hands in a futile gesture of defense. Instead, he tried something he thought would confuse the Dremora, and allow him time to get to his feet. Lunging toward the daedra's feet, he cast a spell to heal the few meager injuries he had been able to inflict upon the Dremora. It continued to hold the mace high in the air for a moment, a beat longer than expected. Then it threw the mace to the ground in disgust, its demonic face contorting in denied rage.<BR>\r\n<BR>\r\n\"Who would imagine honor in a beast so pathetic?\" It rumbled in a voice that made Skaering's blood run cold. Shaking its horned head, it dismissively added \"I will allow you to leave this shrine. Your allies, however, are lost. Do not come back. Ever.\" It turned its back on Skaering as it walked back into the depths of the shrine.<BR>\r\n<BR>\r\nTaking the opportunity presented, Skaering happily abandoned his companions to the tender mercies of the Dremora. In light of his own life, theirs did not seem so worth protecting. <BR>\r\n"
+data:
+  weight: 3.0
+  value: 200
+  book_type: Book
+  skill: None
+  enchantment: 100

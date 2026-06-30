@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_i3-789-Ind_Key
+name: Vhul Tradehouse Key
+script: ''
+mesh: TR\m\TR_Key_DD21.NIF
+icon: TR\m\TR_Key_DD21.dds
+data:
+  weight: 0.0
+  value: 50
+  flags: KEY

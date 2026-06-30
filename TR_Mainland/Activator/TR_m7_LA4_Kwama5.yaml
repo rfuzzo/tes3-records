@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_LA4_Kwama5
+name: Kwama Spawner
+script: TR_m7_LA4_Kwama5_sc
+mesh: EditorMarker.NIF

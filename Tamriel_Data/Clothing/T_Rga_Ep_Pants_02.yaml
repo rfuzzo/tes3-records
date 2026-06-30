@@ -1,0 +1,35 @@
+type: Clothing
+flags: ''
+id: T_Rga_Ep_Pants_02
+name: Expensive Pants
+script: ''
+mesh: hf\c\hf_pantsep_01_gnd.nif
+icon: hf\c\hf_pantsep_01.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Groin
+  male_bodypart: T_C_RgaEpPants02_G
+  female_bodypart: ''
+- biped_object_type: LeftAnkle
+  male_bodypart: T_C_RgaEpPants02_A
+  female_bodypart: ''
+- biped_object_type: LeftUpperLeg
+  male_bodypart: T_C_RgaEpPants02_UL
+  female_bodypart: ''
+- biped_object_type: RightAnkle
+  male_bodypart: T_C_RgaEpPants02_A
+  female_bodypart: ''
+- biped_object_type: RightUpperLeg
+  male_bodypart: T_C_RgaEpPants02_UL
+  female_bodypart: ''
+- biped_object_type: LeftKnee
+  male_bodypart: T_C_RgaEpPants02_K
+  female_bodypart: ''
+- biped_object_type: RightKnee
+  male_bodypart: T_C_RgaEpPants02_K
+  female_bodypart: ''
+data:
+  clothing_type: Pants
+  weight: 3.0
+  value: 15
+  enchantment: 75

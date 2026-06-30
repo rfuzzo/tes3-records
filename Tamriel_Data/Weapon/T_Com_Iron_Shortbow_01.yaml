@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Com_Iron_Shortbow_01
+name: Iron Short Bow
+script: ''
+mesh: tr\w\tr_w_iron_shortbow.nif
+icon: tr\w\tr_w_iron_shortbow.dds
+enchanting: ''
+data:
+  weight: 10.0
+  value: 70
+  weapon_type: MarksmanBow
+  health: 800
+  speed: 1.0
+  reach: 1.0
+  enchantment: 28
+  chop_min: 1
+  chop_max: 20
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: ''

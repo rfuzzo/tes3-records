@@ -1,0 +1,11 @@
+type: Container
+flags: PERSISTENT
+id: TR_m1_Q59_PR_Urn
+name: Urn
+script: TR_m1_Q59_PR_script_3
+mesh: o\Contain_urn_03.NIF
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - random_de_cheapfood_01_ne

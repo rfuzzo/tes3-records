@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m7_TV5_Tower_2_CaptainKey
+name: Iron Key
+script: ''
+mesh: TR\m\TR_Key_DD18.NIF
+icon: TR\m\TR_Key_DD18.dds
+data:
+  weight: 0.0
+  value: 0
+  flags: KEY

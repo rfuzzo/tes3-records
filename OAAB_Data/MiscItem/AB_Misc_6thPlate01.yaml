@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_6thPlate01
+name: Sixth House Plate
+script: ''
+mesh: OAAB\m\dk_6th_plate1.nif
+icon: OAAB\m\6th_plate1.dds
+data:
+  weight: 1.0
+  value: 3
+  flags: ''

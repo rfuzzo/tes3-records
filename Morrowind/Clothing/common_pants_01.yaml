@@ -1,0 +1,35 @@
+type: Clothing
+flags: ''
+id: common_pants_01
+name: Common Pants
+script: ''
+mesh: c\C_M_Pants_GND_common00.nif
+icon: c\TX_pantscom00.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: Groin
+  male_bodypart: c_m_pants_g_common00
+  female_bodypart: c_f_pants_g_common00
+- biped_object_type: RightAnkle
+  male_bodypart: c_m_pants_a_common00
+  female_bodypart: c_f_pants_a_common00
+- biped_object_type: LeftUpperLeg
+  male_bodypart: c_m_pants_ul_common00
+  female_bodypart: c_f_pants_ul_common00
+- biped_object_type: RightUpperLeg
+  male_bodypart: c_m_pants_ul_common00
+  female_bodypart: c_f_pants_ul_common00
+- biped_object_type: LeftKnee
+  male_bodypart: c_m_pants_k_common00
+  female_bodypart: c_f_pants_k_common00
+- biped_object_type: RightKnee
+  male_bodypart: c_m_pants_k_common00
+  female_bodypart: c_f_pants_k_common00
+- biped_object_type: LeftAnkle
+  male_bodypart: c_m_pants_a_common00
+  female_bodypart: c_f_pants_a_common00
+data:
+  clothing_type: Pants
+  weight: 2.0
+  value: 4
+  enchantment: 20

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: AB_IngMine_Peridot_01
+name: Peridot
+script: ''
+mesh: OAAB\n\gem_peridot_01.nif
+icon: OAAB\n\gem_peridot.dds
+data:
+  weight: 0.2
+  value: 150
+  effects:
+  - Poison
+  - ResistParalysis
+  - CurePoison
+  - WeaknessToMagicka
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

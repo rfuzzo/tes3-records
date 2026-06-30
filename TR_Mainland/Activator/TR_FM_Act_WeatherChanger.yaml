@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_FM_Act_WeatherChanger
+name: Weather Machine
+script: TR_FM_Act_WeatherChanger_sc
+mesh: EditorMarker.NIF

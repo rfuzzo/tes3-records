@@ -1,0 +1,9 @@
+type: Container
+flags: PERSISTENT
+id: TR_m1_q_DrinksChest
+name: Wooden Chest
+script: TR_m1_q_DrinksChest_Script
+mesh: o\contain_chest10.nif
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory: []

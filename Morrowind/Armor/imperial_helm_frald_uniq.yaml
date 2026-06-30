@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: imperial_helm_frald_uniq
+name: Helm of Graff the White
+script: ''
+mesh: a\A_Imperial_M_Helmet.nif
+icon: a\Tx_Imperial_helmet.tga
+enchanting: fralds_helm_uniq
+biped_objects:
+- biped_object_type: Hair
+  male_bodypart: imperial helmet
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 5.0
+  value: 70
+  health: 160
+  enchantment: 250
+  armor_rating: 16

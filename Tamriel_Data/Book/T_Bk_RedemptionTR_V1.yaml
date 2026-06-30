@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_RedemptionTR_V1
+name: Redemption Volume I
+script: ''
+mesh: TR\m\TR_book_closed_i05_AY.nif
+icon: TR\m\TR_book_closed_i05_AY.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nRedemption <BR>\r\nUnknown <BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nVertius Felannus gazed down upon the rich valley of his homeland. The rich loamy earth clung to the hem of his simple woolen robe. He was dressed in the garb of his order, wearing the simple weave of Maran devotees. The thick folds of cloth hid his thin frame from the eyes of men and the teeth of the harsh wind. A faint smile played about the edges of his care-worn lips. It was the same gentle smile that was etched into his face by a combination of years of missionary work and a trust in the divinity of the Nine. His feet were unshod, epitomizing the virtue of humility by which he tried to live his life.<BR>\r\n<BR>\r\nHe strode joyfully towards the village of Sten. The thatched roofs of the modest houses were partially obscured by a copse of flowering fruit trees, branches laden with their bounty. He carried with him nothing but his faith and a joy that stemmed from the knowledge that he would soon be home.<BR>\r\n<BR>\r\nThe orange glow of sunset hung in the air, filling the empty pastures with a subtle glow; a light for the eyes and a light for the soul.<BR>\r\n<BR>\r\nThis was Vertius' land; it was here that he had gone through his transformation from a smiling infant, to a solemn youth, into the quiet pious young man who had left to become a missionary. His long years in Argonia had given him an acceptance of life's hardships and had strengthened his faith in Mara. He had decided to return to Sten to run the local shrine. He would live out his last days in peace and solitude; nothing but him and his faith.<BR>\r\n<BR>\r\nThat night, he settled down to sleep on the rough paillasse that served as his bed. He was once more on the bed where he had slept for his formative years. He did not desire more comfortable surroundings. The house was empty now of his family, his last relatives having perished recently. Though he was alone, he felt the warmth of their spirits envelope him. As he drifted into slumber, he whispered a prayer of thanks that his family was in the arms of the gods.<BR>\r\n<BR>\r\nSuddenly, a piercing scream broke through the veil of sleep that enveloped him and thrust him back into the waking world. He arose from his bed, hastily pulling on his clothing. He picked up his traveling staff and rushed to the source of the commotion, trying to think of an innocent reason for a yell in the dark hours of the night. He could think of none and added an extra note of urgency to his efforts.<BR>"
+data:
+  weight: 1.5
+  value: 40
+  book_type: Book
+  skill: None
+  enchantment: 100

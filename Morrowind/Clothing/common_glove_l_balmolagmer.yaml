@@ -1,0 +1,17 @@
+type: Clothing
+flags: ''
+id: common_glove_l_balmolagmer
+name: Left Bal Molagmer Glove
+script: ''
+mesh: c\C_glove_Balmolagmer_GND.NIF
+icon: c\tx_glove_balmolagmer.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: LeftHand
+  male_bodypart: c_glove_balmolagmer
+  female_bodypart: ''
+data:
+  clothing_type: LeftGlove
+  weight: 1.0
+  value: 2
+  enchantment: 10

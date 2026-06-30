@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_AA_BorderBarrier_02
+name: ''
+script: TR_m4_AA_BorderBarrier_scp
+mesh: tr\x\tr_terr_rm_cl_ash_02.nif

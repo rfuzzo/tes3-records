@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Furn_DeBannerPawn
+name: ''
+script: OutsideBanner
+mesh: f\furn_de_banner_pawn_01.nif

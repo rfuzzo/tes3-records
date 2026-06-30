@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_De_Set_X_Buoy_01
+name: ''
+script: Float
+mesh: tr\x\tr_ex_de_buoy_01.nif

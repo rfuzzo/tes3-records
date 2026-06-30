@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_bk_m2_i3-437-Tri_freportm
+name: Necrom Monthly Financial Report
+script: ''
+mesh: TR\m\tr_book_closed_i06_ay.nif
+icon: tr\m\tr_book_closed_i06_ay.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR><BR>\r\n[This document appears to be a monthly financial report of the Temple in Necrom.]<BR>"
+data:
+  weight: 1.0
+  value: 10
+  book_type: Book
+  skill: None
+  enchantment: 0

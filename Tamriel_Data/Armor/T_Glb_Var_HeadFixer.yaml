@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Glb_Var_HeadFixer
+name: Vampire Head Fixer
+script: ''
+mesh: a\A_Iron_Helm_01.nif
+icon: a\Tx_Iron_Helm_01.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: Head
+  male_bodypart: a_iron_helm_01
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 0.0
+  value: 0
+  health: 1000
+  enchantment: 0
+  armor_rating: 1

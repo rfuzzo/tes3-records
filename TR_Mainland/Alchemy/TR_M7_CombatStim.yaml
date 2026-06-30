@@ -1,0 +1,76 @@
+type: Alchemy
+flags: ''
+id: TR_M7_CombatStim
+name: Experimental Stimulant
+script: ''
+mesh: m\Misc_Potion_Cheap_01.nif
+icon: m\Tx_potion_cheap_01.tga
+effects:
+- magic_effect: DrainAttribute
+  skill: None
+  attribute: Intelligence
+  range: OnSelf
+  area: 0
+  duration: 180
+  min_magnitude: 25
+  max_magnitude: 25
+- magic_effect: DrainAttribute
+  skill: None
+  attribute: Personality
+  range: OnSelf
+  area: 0
+  duration: 180
+  min_magnitude: 50
+  max_magnitude: 50
+- magic_effect: FortifyHealth
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 50
+  max_magnitude: 50
+- magic_effect: FortifyFatigue
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 50
+  max_magnitude: 50
+- magic_effect: FortifyAttackBonus
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 25
+  max_magnitude: 25
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Strength
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 15
+  max_magnitude: 15
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Speed
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 15
+  max_magnitude: 15
+- magic_effect: DrainHealth
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 180
+  min_magnitude: 1
+  max_magnitude: 1
+data:
+  weight: 1.0
+  value: 350
+  flags: ''

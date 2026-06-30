@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: AB_c_ExpensiveHood01
+name: Expensive Hood
+script: ''
+mesh: OAAB\c\robe_exp_01_hood_g.NIF
+icon: OAAB\c\robe_exp_01_hood.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: Hair
+  male_bodypart: AB_c_ExpHood01_hr
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 0.5
+  value: 5
+  health: 150
+  enchantment: 50
+  armor_rating: 4

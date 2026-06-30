@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Com_Adamant_Crossbow_01
+name: Adamantium Crossbow
+script: ''
+mesh: TR\w\TR_w_adamant_crossbow.nif
+icon: TR\w\TR_w_adamant_crossbow.dds
+enchanting: ''
+data:
+  weight: 23.0
+  value: 10000
+  weapon_type: MarksmanCrossbow
+  health: 800
+  speed: 1.0
+  reach: 1.0
+  enchantment: 110
+  chop_min: 38
+  chop_max: 38
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: ''

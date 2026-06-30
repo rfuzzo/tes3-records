@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_OE_NoteFromMinister
+name: Note from Minister of Justice
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nTo Gaulus the Jailor,<BR>\r\n<BR>\r\nThe bearer of this note has leave to visit General Casik, currently held prisoner in the Imperial dungeons.<BR>\r\n<BR>\r\nBy my hand,<BR>\r\n<BR>\r\nBelisatha Mede, Minister of Justice, Old Ebonheart<BR>\r\n<BR>"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

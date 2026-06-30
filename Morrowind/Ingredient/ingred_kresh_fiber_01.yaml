@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_kresh_fiber_01
+name: Kresh Fiber
+script: ''
+mesh: n\Ingred_Kresh_Fiber_01.nif
+icon: n\Tx_kresh_fiber_01.tga
+data:
+  weight: 0.1
+  value: 1
+  effects:
+  - RestoreAttribute
+  - FortifyAttribute
+  - DrainMagicka
+  - DrainAttribute
+  skills:
+  - Block
+  - Block
+  - Block
+  - Block
+  attributes:
+  - Luck
+  - Personality
+  - Strength
+  - Speed

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: BM ice longsword_FG_Unique
+name: Stalhrim Longsword of Flame
+script: ''
+mesh: w\W_Ice_longsword.NIF
+icon: w\Ice_longsword.dds
+enchanting: BM_icefire
+data:
+  weight: 70.0
+  value: 65000
+  weapon_type: LongBladeOneHand
+  health: 2500
+  speed: 1.5
+  reach: 1.0
+  enchantment: 80
+  chop_min: 4
+  chop_max: 50
+  slash_min: 5
+  slash_max: 55
+  thrust_min: 4
+  thrust_max: 55
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

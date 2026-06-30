@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Com_SetSky_SignWayWhiterun_01
+name: Whiterun
+script: ''
+mesh: sky\x\sky_act_rsign_whrun1.nif

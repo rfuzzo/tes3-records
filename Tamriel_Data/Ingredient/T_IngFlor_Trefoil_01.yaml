@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_Trefoil_01
+name: Trefoil Flower
+script: ''
+mesh: hr\n\hr_n_trefoil.nif
+icon: hr\n\hr_n_trefoil.dds
+data:
+  weight: 0.15
+  value: 3
+  effects:
+  - WeaknessToFrost
+  - Shield
+  - ResistPoison
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

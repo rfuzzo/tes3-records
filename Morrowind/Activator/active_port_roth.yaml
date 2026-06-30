@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: active_port_roth
+name: Rotheran Propylon
+script: Warp_Roth
+mesh: i\active_port_Roth.NIF

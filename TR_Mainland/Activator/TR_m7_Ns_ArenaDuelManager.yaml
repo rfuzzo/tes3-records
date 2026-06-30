@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m7_Ns_ArenaDuelManager
+name: ''
+script: TR_m7_Ns_ArenaDuelManager_sc
+mesh: EditorMarker.NIF

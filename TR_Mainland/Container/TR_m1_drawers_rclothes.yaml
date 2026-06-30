@@ -1,0 +1,21 @@
+type: Container
+flags: ''
+id: TR_m1_drawers_rclothes
+name: Chest of Drawers
+script: ''
+mesh: o\Contain_De_Drawers_01.NIF
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - expensive_belt_03
+- - 1
+  - expensive_pants_02
+- - 1
+  - expensive_ring_01
+- - 1
+  - expensive_shirt_03
+- - 1
+  - expensive_shoes_01
+- - 1
+  - expensive_skirt_03

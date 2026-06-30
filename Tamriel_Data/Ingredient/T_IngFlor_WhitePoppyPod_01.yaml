@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_WhitePoppyPod_01
+name: Dried Whitepoppy Pod
+script: ''
+mesh: TR\n\TR_ing_whitepoppypod.nif
+icon: TR\n\TR_Ing_poppypod.dds
+data:
+  weight: 0.1
+  value: 15
+  effects:
+  - DrainSkill
+  - CureCommonDisease
+  - DamageHealth
+  - CurePoison
+  skills:
+  - Sneak
+  - None
+  - None
+  - None
+  attributes:
+  - Strength
+  - None
+  - None
+  - None

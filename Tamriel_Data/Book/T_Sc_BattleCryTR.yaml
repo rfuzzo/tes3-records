@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Sc_BattleCryTR
+name: Battlecry
+script: T_ScBook_SpBoundAxe
+mesh: m\Text_Scroll_01.nif
+icon: m\Tx_scroll_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>\r\nLike the lull before the thunder <BR>\r\nRattling the battlefield above and under, <BR>\r\nthe dunmer lord upon his mighty steed, <BR>\r\nof flesh and sinew he came in deed. <BR>\r\nBoth sides of Nords and elves alike, <BR>\r\nstood pale as a man upon a pike. <BR>\r\n<BR>\r\nThe dunmer lord with eyes of blood, <BR>\r\nraised a fist as to stop a flood. <BR>\r\nUpon this fist those eyes were led, <BR>\r\ndrawing power from Magnus 'til his spell was fed. <BR>\r\nAnd inhuman screams were heard throughout that fight, <BR>\r\nas daedra from Oblivion were bound to him tight. <BR>\r\n<BR>\r\nThe howls increased and swirled round his fist, <BR>\r\ntheir spirits cried out in vain and hissed. <BR>\r\nAnd with a brilliant flash he forged an axe without peer, <BR>\r\nInhabited with daedra, its blade was ever sheer. <BR>\r\nAnd with this axe many foes he slew, <BR>\r\nThey fled from the elf, for many of them knew. <BR>\r\n"
+data:
+  weight: 1.5
+  value: 150
+  book_type: Scroll
+  skill: None
+  enchantment: 100

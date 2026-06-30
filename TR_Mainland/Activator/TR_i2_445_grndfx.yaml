@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_i2_445_grndfx
+name: ''
+script: TR_m2_445_sc_grndfx
+mesh: tr\f\TR_act_nec_uc_grndfx_0.nif

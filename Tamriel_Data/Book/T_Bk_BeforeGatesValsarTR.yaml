@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_BeforeGatesValsarTR
+name: Before the Gates of Valsar
+script: ''
+mesh: m\Text_Octavo_08.NIF
+icon: m\Tx_book_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nBefore the Gates of Valsar<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nThere had been preachers and portents, promising the most outrageous things and calling on ancestors which were not theirs. The city watch called their names and cut them down by their numbers, but their premonitions would not end.<BR>\r\n<BR>\r\nThe governor, \"Reclusiarch\" as his subjects had learned to call him, hid himself from the problems behind walls and wine, as he so often did, so nothing was done and nobody was called.<BR>\r\n<BR>\r\nOn the fifth day they arrived, a few hundred lost souls from New Aldmeris, ragged and hardened from their journey off the Blessed Isles through the great southern forests.<BR>\r\n<BR>\r\nThe high preacher at their front approached the city gates and spoke to the city itself. He spoke of their feeble life, their endless inheritance, of lifecycles unending, of the lies that were their ancestors. He promised an escape from the folly of birth through hardship and survival, so alien to the sanctity of the numbers that had once been cast and called in the city.<BR>\r\n<BR>\r\nAfter three days and seven nights, the gates were undone, and the pilgrims were accepted openly.<BR>\r\n<BR>\r\nThe high preacher wept as he took the measurements of the city, so much like the ones on the Blessed Isles, yet he never ceased spreading his creed. Even the doors of the governor's mansions were opened, and he entered, unbound and unafraid.<BR>\r\n<BR>\r\nAfter four days of rest, the pilgrims (now twice their number but of the same sum) left in high spirits and Valsar laid abandoned.<BR>\r\n<BR>\r\nThe Velothi had arrived in Cyrod.<BR>\r\n<BR>"
+data:
+  weight: 2.0
+  value: 60
+  book_type: Book
+  skill: None
+  enchantment: 20

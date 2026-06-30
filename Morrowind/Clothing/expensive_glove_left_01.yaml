@@ -1,0 +1,20 @@
+type: Clothing
+flags: ''
+id: expensive_glove_left_01
+name: Expensive Left Glove
+script: ''
+mesh: c\C_glove_expensive1_GND.NIF
+icon: c\tx_glove_expensive1.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: LeftHand
+  male_bodypart: c_glove_expensive1
+  female_bodypart: ''
+- biped_object_type: LeftWrist
+  male_bodypart: ''
+  female_bodypart: ''
+data:
+  clothing_type: LeftGlove
+  weight: 1.0
+  value: 10
+  enchantment: 50

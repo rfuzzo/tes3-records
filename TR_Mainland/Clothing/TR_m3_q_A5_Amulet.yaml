@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m3_q_A5_Amulet
+name: Lost Amulet
+script: ''
+mesh: c\Amulet_Exquisit_1.NIF
+icon: c\tx_amulet_exquisite1.tga
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 240
+  enchantment: 1200

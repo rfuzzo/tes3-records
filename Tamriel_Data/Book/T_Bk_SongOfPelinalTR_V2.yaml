@@ -1,0 +1,18 @@
+type: Book
+flags: ''
+id: T_Bk_SongOfPelinalTR_V2
+name: The Song of Pelinal, Volume 2
+script: ''
+mesh: TR\m\TR_book_closed_i15_AY.nif
+icon: TR\m\TR_book_closed_i15_AY.dds
+enchanting: ''
+text: |
+  <DIV ALIGN="LEFT"><FONT COLOR="000000" SIZE="3" FACE="Magic Cards">[Editor's Note: Volumes 1-6 are taken from the so-called Reman Manuscript located in the Imperial Library. It is a transcription of older fragments collected by an unknown scholar of the early Second Era. Beyond this, little is known of the original sources of these fragments, some of which appear to be from the same period (perhaps even from the same manuscript). But, as no scholarly consensus yet exists on dating these six fragments, no opinions will be offered here.]<BR>
+  <DIV ALIGN="CENTER"><BR>The Song of Pelinal, Volume 2: On His Coming<BR>
+  <DIV ALIGN="LEFT"><BR>[And then] Perrif spoke to the Handmaiden again, eyes to the Heavens which had not known kindness since the beginning of elven rule, and she spoke as a mortal, whose kindle is beloved by the Gods for its strength-in-weakness, a humility that can burn with metaphor and yet break [easily and] always, always doomed to end in death (and this is why those who let their souls burn anyway are beloved of the Dragon and His Kin), and she said: "And this thing I have thought of, I have named it, and I call it freedom. Which I think is just another word for Shezarr Who Goes Missing... [You] made the first rain at his sundering [and that] is what I ask now for our alien masters... [that] we might sunder them fully and repay their cruelty [by] dispersing them to drown in the Topal. Morihaus, your son, mighty and snorting, gore-horned, winged, when next he flies down, let him bring us anger." ... [And then] Kyne granted Perrif another symbol, a diamond soaked red with the blood of elves, [whose] facets could [un-sector and form] into a man whose every angle could cut her jailers and a name: PELIN-EL [which is] "The Star-Made Knight" [and he] was arrayed in armor [from the future time]. And he walked into the jungles of Cyrod already killing, Morihaus stamping at his side froth-bloody and bellowing from excitement because the Pelinal was come... [and Pelinal] came to Perrif's camp of rebels holding a sword and mace, both encrusted with the smashed viscera of elven faces, feathers and magic beads, which were the markings of the Ayleidoon, stuck to the redness that hung from his weapons, and he lifted them, saying: "These were their eastern chieftains, no longer full of their talking."<BR>
+data:
+  weight: 1.5
+  value: 100
+  book_type: Book
+  skill: None
+  enchantment: 100

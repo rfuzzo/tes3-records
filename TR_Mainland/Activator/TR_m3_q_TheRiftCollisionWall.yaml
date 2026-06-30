@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_q_TheRiftCollisionWall
+name: ''
+script: TR_m3_q_TheRiftBodies
+mesh: x\EditorMarker_box_02.NIF

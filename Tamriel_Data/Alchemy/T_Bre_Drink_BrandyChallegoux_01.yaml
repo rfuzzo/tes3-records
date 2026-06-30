@@ -1,0 +1,36 @@
+type: Alchemy
+flags: ''
+id: T_Bre_Drink_BrandyChallegoux_01
+name: Challegoux
+script: ''
+mesh: hr\m\hr_misc_challegoux.nif
+icon: hr\m\hr_misc_challegoux.dds
+effects:
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Strength
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 20
+  max_magnitude: 20
+- magic_effect: DrainAttribute
+  skill: None
+  attribute: Endurance
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 10
+  max_magnitude: 10
+- magic_effect: DrainAttribute
+  skill: None
+  attribute: Agility
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 10
+  max_magnitude: 10
+data:
+  weight: 1.5
+  value: 50
+  flags: ''

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Echo_22
+name: WESTERN MIRACLE WITNESSED
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_text_note_nar_news.nif
+icon: tr\m\tr_text_note_nar_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\tr_echo_512_256.dds\" WIDTH=\"348\" HEIGHT=\"168\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nILMYNA HLAALU WITNESSES WESTERN MIRACLE<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nA ranking noblewoman of the Seventh Hlaalu Family and daughter to Belron Hlaalu, Ilmyna Hlaalu has shocked all as she and several others testify the witnessing of a miracle -- not one of ALMSIVI, but in the fashion of the western Imperial faith.<BR><BR>\r\n\"I just can't explain it, I love the Three and I love my ancestors, but seeing it in person? It makes me reconsider where my faith lies, that's all I can say,\" says the young Hlaalu.<BR><BR>\r\nThe so-called \"miracle\" occurred in the Chapel of Zenithar within the Narsis Foreign Quarter, where the ranking Imperial Cult priest Plutus Ceno and another cult minion of his invited Ilmyna Hlaalu to witness a rock (yes readers, a ROCK) that he had \"seen in his dreams.\" Luckily for Ceno, this rock miraculously exploded into light upon the temple's altar, and left nine gems in its wake, seemingly signifying the Nine Divines of the Imperial pantheon.<BR><BR>\r\nThough Muthsera Hlaalu is said to now be actively supporting the Chapel of Zenithar and Imperial Cult in Morrowind, perhaps even converting herself, the Canyon Echo would like to remind its dear readers to not trust everything they hear, and that worship and respect of one's ancestors and the Three must always come first.<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_VampiresOfTelvannisTR
+name: Vampires of Telvannis
+script: ''
+mesh: m\Text_Octavo_07.NIF
+icon: m\Tx_book_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nVampires of Telvannis<BR>\r\n<BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\n[excerpts]<BR>\r\n<BR>\r\n...Unlike the cultivated, Temple-guarded heartlands of Morrowind where the mere mention of vampires is anathema, the wilderness of the Telvanni peninsula is home to many creatures of the night who thrive on the apathy of the mage-lords...<BR>\r\n<BR>\r\n...The Temple has all but given up on policing the anarchic northeast, limiting their attentions to protecting their few scattered redoubts in the region. Vampires operate openly in many settlements governed by the Telvanni, whose leadership is even rumored to include some of their bloodthirsty number...<BR>\r\n<BR>\r\n...While the Telvanni tolerate vampires more than their fellow countrymen, the violent wilderness clans still risk their wrath...<BR>\r\n<BR>\r\n...Telvannis has three known vampiric bloodlines, all of whom wield various magical abilities. The Rudhagor clan are quick and agile spellcasters, bending the will of their enemies to sacrificial ends. The Ehad vampires are psychotic killers who prey on lost souls, weakening their targets with spells before slaughtering them with their axes. The Draneth clan is the oldest in Telvannis, skilled summoners and enchanters who feed on young mages who stray too far into the wilderness...<BR>\r\n<BR>\r\n...The bloodlines of Telvannis are spurned even by their better known vampiric kin, and little is known of them besides their territories of activity. The Rudhagor, thought to be the youngest of the Telvannis clans, are known to wreak havoc along the southern borderlands of Telvannis District. Encounters with the vicious Ehad clan are common threats to traders in the northern dustlands, and rumors from Vahn indicate that the Draneth stalk the far northeastern isles...<BR>\r\n<BR>\r\n...Further inquiry into the subject of northeastern vampires is ill-advised, but it is said that courageous (or foolhardy) visitors to Port Telvannis might sate a hunger for knowledge by simply seeking out one of their number...<BR>\r\n<BR>"
+data:
+  weight: 3.0
+  value: 50
+  book_type: Book
+  skill: None
+  enchantment: 20

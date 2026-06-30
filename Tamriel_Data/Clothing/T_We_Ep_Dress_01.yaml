@@ -1,0 +1,17 @@
+type: Clothing
+flags: ''
+id: T_We_Ep_Dress_01
+name: Expensive Dress
+script: ''
+mesh: VA\c\VA_C_EpDress_01G.nif
+icon: va\c\VA_EpDress_01.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_C_WeEpDress01_C
+  female_bodypart: T_C_WeEpDress01_CF
+data:
+  clothing_type: Shirt
+  weight: 2.5
+  value: 24
+  enchantment: 80

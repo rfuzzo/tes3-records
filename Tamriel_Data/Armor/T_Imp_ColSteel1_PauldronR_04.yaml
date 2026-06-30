@@ -1,0 +1,22 @@
+type: Armor
+flags: ''
+id: T_Imp_ColSteel1_PauldronR_04
+name: Colovian Steel Right Pauldron
+script: ''
+mesh: PC\a\PC_a_ColoStl_04_PG.nif
+icon: pc\a\pc_a_ColoStl_PauldrL_4.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: RightPauldron
+  male_bodypart: T_A_ImpColSteelPauldr04_Cl
+  female_bodypart: ''
+- biped_object_type: RightUpperArm
+  male_bodypart: T_A_ImpColSteelPauldr04_UA
+  female_bodypart: ''
+data:
+  armor_type: RightPauldron
+  weight: 10.0
+  value: 80
+  health: 250
+  enchantment: 40
+  armor_rating: 19

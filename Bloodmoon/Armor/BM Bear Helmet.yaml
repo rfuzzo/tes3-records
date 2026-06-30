@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: BM Bear Helmet
+name: Bear Helmet
+script: ''
+mesh: a\A_Bear_Helmet.NIF
+icon: A\Tx_Bear_Helmet.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Hair
+  male_bodypart: A_Bear_Helmet
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 4.0
+  value: 40
+  health: 100
+  enchantment: 20
+  armor_rating: 15

@@ -1,0 +1,31 @@
+type: Armor
+flags: ''
+id: T_De_RedoranWatchman_Greaves
+name: Redoran Watchman's Greaves
+script: ''
+mesh: tr\a\tr_a_watch_grv_01gd.nif
+icon: tr\a\tr_a_watchman_grv_01.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Groin
+  male_bodypart: T_A_DeRedoranWatchGreaves_G
+  female_bodypart: ''
+- biped_object_type: LeftUpperLeg
+  male_bodypart: T_A_DeRedoranWatchGreaves_UL
+  female_bodypart: ''
+- biped_object_type: RightUpperLeg
+  male_bodypart: T_A_DeRedoranWatchGreaves_UL
+  female_bodypart: ''
+- biped_object_type: LeftKnee
+  male_bodypart: T_A_DeRedoranWatchGreaves_K
+  female_bodypart: ''
+- biped_object_type: RightKnee
+  male_bodypart: T_A_DeRedoranWatchGreaves_K
+  female_bodypart: ''
+data:
+  armor_type: Greaves
+  weight: 5.4
+  value: 27
+  health: 110
+  enchantment: 13
+  armor_rating: 11

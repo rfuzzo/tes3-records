@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m3_unending
+name: Unending
+script: TR_m3_OE_FG_UnendingScr
+mesh: tr\w\tr_w_adamant_baxe_uni.nif
+icon: tr\w\tr_w_adamant_baxe_uni.dds
+enchanting: ''
+data:
+  weight: 50.0
+  value: 8500
+  weapon_type: AxeTwoHand
+  health: 4000
+  speed: 1.0
+  reach: 1.0
+  enchantment: 0
+  chop_min: 15
+  chop_max: 65
+  slash_min: 3
+  slash_max: 35
+  thrust_min: 1
+  thrust_max: 6
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

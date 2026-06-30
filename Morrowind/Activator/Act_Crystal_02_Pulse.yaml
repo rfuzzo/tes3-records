@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: Act_Crystal_02_Pulse
+name: ''
+script: Sound_Crystal_Ringing
+mesh: i\In_T_crystal_02.NIF

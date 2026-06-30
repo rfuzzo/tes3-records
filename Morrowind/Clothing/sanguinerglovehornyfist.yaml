@@ -1,0 +1,17 @@
+type: Clothing
+flags: ''
+id: sanguinerglovehornyfist
+name: Glove of Sanguine Horny Fist
+script: ''
+mesh: c\c_glove_extravagant1_GND.NIF
+icon: c\tx_glove_extravagant_1.tga
+enchanting: sanguine horny fist_en
+biped_objects:
+- biped_object_type: RightHand
+  male_bodypart: c_glove_extravagant1
+  female_bodypart: ''
+data:
+  clothing_type: RightGlove
+  weight: 1.0
+  value: 1500
+  enchantment: 200

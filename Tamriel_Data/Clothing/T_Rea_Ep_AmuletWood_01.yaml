@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Rea_Ep_AmuletWood_01
+name: Reachman Amulet
+script: ''
+mesh: sky\c\sky_amulet_uni_rmwd.nif
+icon: sky\c\sky_amulet_uni_rmwd.dds
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 2.0
+  value: 150
+  enchantment: 100

@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Orc_Leather_PauldronL_01
+name: Orc Leather Left Pauldron
+script: ''
+mesh: Sky\a\Sky_A_ORCLTH_PD.nif
+icon: Sky\a\Tx_ORCLTH_Pauldron_L.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: LeftUpperArm
+  male_bodypart: T_A_OrcLeatherPauldr01_UA
+  female_bodypart: ''
+data:
+  armor_type: LeftPauldron
+  weight: 3.5
+  value: 60
+  health: 100
+  enchantment: 16
+  armor_rating: 12

@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: de_r_closet_01_maren
+name: Closet
+script: ''
+mesh: o\Contain_De_Closet_01.nif
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory:
+- - -5
+  - l_m_enchantitem_telvanni_rank01
+- - -2
+  - l_m_enchantitem_telvanni_rank6
+- - -1
+  - l_m_enchantitem_telvanni_rank8
+- - -3
+  - random_scroll_all

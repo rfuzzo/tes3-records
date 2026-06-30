@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_NVA4_bench_03
+name: ''
+script: TR_m7_NVA_Stage4_Persist
+mesh: tr\f\TR_furn_de_p_bench_03.NIF

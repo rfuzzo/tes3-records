@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: AB_Info_CaveScaffold
+name: InfoBox - Cave Scaffold
+script: ''
+mesh: OAAB\h\marker_info.nif
+icon: OAAB\h\marker_info.tga
+enchanting: ''
+text: Snaps to 256. When being placed adjacent to itself, there is less clipping if each piece is rotated 90 degrees from the next.
+data:
+  weight: 0.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 100

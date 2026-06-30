@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_EEC_Overhang3
+name: ''
+script: TR_m7_EEC_Ranch
+mesh: f\furn_overhang_03.nif

@@ -1,0 +1,21 @@
+type: Container
+flags: ''
+id: TR_m4-476_chest_03
+name: Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - Misc_SoulGem_Grand
+- - 1
+  - TR_m4-476_hartwigs_grip
+- - 1
+  - T_Dae_Alternate_Buckler_01
+- - 1
+  - T_Imp_Silver_Saber_01
+- - 1
+  - T_Sc_BattleCryTR
+- - 10
+  - glass throwing star

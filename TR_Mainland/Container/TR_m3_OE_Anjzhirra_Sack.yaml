@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m3_OE_Anjzhirra_Sack
+name: Sack
+script: ''
+mesh: o\Contain_Com_Sack_02.nif
+encumbrance: 50.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 4
+  - T_IngMine_OreGold_01

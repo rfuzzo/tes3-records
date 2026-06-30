@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_AbMonitor_23
+name: 'EDITORIAL: ON THE IMPERIAL NAVY'
+script: T_ScNews_Bellman_Paper
+mesh: pc\m\pc_text_note_anv_news.nif
+icon: pc\m\pc_text_note_anv_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"PC\\pc_abmonitor.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nEDITORIAL: THE SAD STATE OF THE IMPERIAL NAVY<BR>by Vasil Richton, Marshal of the River, Kingdom of Kvatch<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nStudents of history know well the feats of the Imperial Navy, from the heroic conquest of the Summersets to the intrepid invasion of the Far East. The brave sailors of five centuries have served their Emperor through tumult and trial, ensuring for generations to come the peace of the seas.<BR><BR>\r\nIn the light and legacy of such progenitors, today's cardinal fleets are but a pale shadow. The North Navy, renowned in song as the escorts of intrepid polar explorers, now cedes its duties to a rabble of privateers whose longships afflict the traders of Winterhold and Blacklight with the Emperor's blessing. The once-vaunted East Navy has abandoned its shieldforts, leaving the eastern coast of Tamriel to the ravages of Padomaic raiders -- or worse, a new attack from Akavir. The South Navy, long Tamriel's wooden wall against the Sea Elves, has retreated into the redwater Niben. But worst of all is the degradation of the West Navy under its present Navarch, Tiledorus Cadmerius.<BR><BR>\r\nUnder Navarch Cadmerius' control, the hallowed West Navy has seen itself become merely an appendage of continental actors, its hardy sailors reduced to lackeys for schemers and crooks. West Navy High Command has seen fit to mothball forts guarding the Abecean Sea's most critical trade lanes, keeping ships in port at Fort Telodrach while the merchants of Anvil and Stros M'Kai flee emboldened pirates. Worse yet, the Navarch does nothing while his surrogates play politics in the Kingdom of Anvil and cavort with its queen.<BR><BR>\r\nThe Emperor must see that the crumbling of the Imperial Navy bodes ill for his Empire. Only a thorough overhaul of its leadership across all four cardinal fleets can now save this respected institution from terminal decline.<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

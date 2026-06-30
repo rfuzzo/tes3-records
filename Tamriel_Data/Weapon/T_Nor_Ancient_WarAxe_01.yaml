@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Nor_Ancient_WarAxe_01
+name: Ancient Nordic Axe
+script: ''
+mesh: sky\w\sky_w_anordic_waraxe.nif
+icon: sky\w\sky_w_anordic_waraxe.dds
+enchanting: ''
+data:
+  weight: 23.0
+  value: 300
+  weapon_type: AxeOneHand
+  health: 1400
+  speed: 1.25
+  reach: 1.0
+  enchantment: 60
+  chop_min: 2
+  chop_max: 23
+  slash_min: 2
+  slash_max: 23
+  thrust_min: 1
+  thrust_max: 6
+  flags: ''

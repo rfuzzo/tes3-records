@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Qy_BronzeLadel
+name: Bronze Ladel
+script: ''
+mesh: pi\m\pi_m_cnq_b_ladel.nif
+icon: pi\m\pi_m_cnq_b_ladel.dds
+data:
+  weight: 1.0
+  value: 5
+  flags: ''

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_Ebony_Flask_01
+name: Ebony Flask
+script: ''
+mesh: tr\m\tr_misc_ebony_flask.nif
+icon: tr\m\tr_misc_ebony_flask.dds
+data:
+  weight: 8.0
+  value: 650
+  flags: ''

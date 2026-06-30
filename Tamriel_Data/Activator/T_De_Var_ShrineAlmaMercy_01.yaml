@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_De_Var_ShrineAlmaMercy_01
+name: Shrine of Almalexia's Mercy
+script: T_ScObj_ShrineAlmalexiaMercy
+mesh: TR\f\tr_shrine_almalexia.nif

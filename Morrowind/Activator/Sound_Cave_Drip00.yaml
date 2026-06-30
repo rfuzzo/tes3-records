@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: Sound_Cave_Drip00
+name: Sound_Cave_Drip00
+script: Sound_Cave_Drip
+mesh: EditorMarker.NIF

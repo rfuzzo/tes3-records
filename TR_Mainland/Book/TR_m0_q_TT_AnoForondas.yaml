@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: TR_m0_q_TT_AnoForondas
+name: Letter to Ano Forondas
+script: ''
+mesh: m\Text_Parchment_02.nif
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nDear Ano Forondas,<BR>\r\n<BR>\r\nGreetings in the name of ALMSIVI.<BR>\r\n<BR>\r\nI have troubling news to report. A group of dark cultists have infiltrated the heart of Vivec City, even establishing a shrine to the Mad God beneath St. Delyn Canton.<BR>\r\n<BR>\r\nBy the grace of the Tribunal, I was alerted to the danger. This %PCRace, a servant of the Temple, crusaded against the cultists and destroyed them.<BR>\r\n<BR>\r\nNevertheless, you should know that evil forces are at work in Morrowind--and they are closer than perhaps even you dared to suspect.<BR>\r\n<BR>\r\nI commend %PCName to you. Perhaps you have duties they can perform in the service of the Tribunal.<BR>\r\n<BR>\r\nYours,<BR>\r\n<BR>\r\nEndryn Llethan<BR>\r\n"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

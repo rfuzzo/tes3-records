@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_MeatBeef_01
+name: Beef
+script: ''
+mesh: Sky\n\Sky_Ingred_Meat_02.nif
+icon: Sky\n\Tx_Ingred_Meat_02.dds
+data:
+  weight: 1.0
+  value: 2
+  effects:
+  - RestoreFatigue
+  - FortifyHealth
+  - None
+  - None
+  skills:
+  - None
+  - None
+  - Block
+  - None
+  attributes:
+  - None
+  - None
+  - Agility
+  - None

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Bre_StonewareCup_02
+name: Stoneware Cup
+script: ''
+mesh: hr\m\hr_misc_stnwr_cup_02.nif
+icon: hr\m\hr_misc_stnwr_cup_02.dds
+data:
+  weight: 2.0
+  value: 3
+  flags: ''

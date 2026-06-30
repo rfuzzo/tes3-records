@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m4_TJ_GhostFence
+name: ''
+script: TR_m4_TJ_GhostFence_sc
+mesh: x\Ex_GG_fence_s_02.NIF

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Com_Steel_Shortsword_SunkGods
+name: Sword of Sunken Gods' Awakening
+script: ''
+mesh: w\W_shortsword00.nif
+icon: w\Tx_Shortsword01.tga
+enchanting: T_Use_SunkenGods
+data:
+  weight: 8.0
+  value: 220
+  weapon_type: ShortBladeOneHand
+  health: 750
+  speed: 2.0
+  reach: 1.0
+  enchantment: 40
+  chop_min: 5
+  chop_max: 12
+  slash_min: 5
+  slash_max: 12
+  thrust_min: 7
+  thrust_max: 12
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

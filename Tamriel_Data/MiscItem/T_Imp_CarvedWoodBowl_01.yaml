@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_CarvedWoodBowl_01
+name: Imperial Carved Wood Bowl
+script: ''
+mesh: pc\m\pc_misc_imp_crv_wd_bwl.nif
+icon: pc\m\pc_misc_imp_crv_wd_bwl.dds
+data:
+  weight: 1.0
+  value: 15
+  flags: ''

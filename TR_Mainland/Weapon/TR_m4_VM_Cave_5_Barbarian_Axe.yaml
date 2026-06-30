@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m4_VM_Cave_5_Barbarian_Axe
+name: Adamantium Shardaxe
+script: ''
+mesh: TR\w\TR_w_adamant_doubleaxe.NIF
+icon: TR\w\TR_w_adamant_axe.dds
+enchanting: freezing touch_en
+data:
+  weight: 35.0
+  value: 5500
+  weapon_type: AxeTwoHand
+  health: 3000
+  speed: 1.0
+  reach: 1.0
+  enchantment: 100
+  chop_min: 1
+  chop_max: 60
+  slash_min: 1
+  slash_max: 40
+  thrust_min: 1
+  thrust_max: 6
+  flags: ''

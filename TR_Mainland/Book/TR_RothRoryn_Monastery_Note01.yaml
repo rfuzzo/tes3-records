@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_RothRoryn_Monastery_Note01
+name: Scroll
+script: ''
+mesh: m\text_scroll_open_01.nif
+icon: m\tx_scroll_open_01.dds
+enchanting: ''
+text: "<DIV ALIGN=\"center\"><FONT COLOR=\"000000\" SIZE=\"2\" FACE=\"Magic Cards\">The Gospel of St. Aralor<BR><BR><DIV ALIGN=\"left\">[The scroll contains an abridged copy of 'The Gospel of St. Aralor', written in a steady hand.]</FONT><BR>\r\n[...]<BR>\r\n\"You must work off your sin,\" the voice replied. \"You must travel far so that others may see your contrition. In doing so you might inspire and help as many people as you have hurt, and then you might truly be saved. Go to the holy places of ALMSIVI, and see how the singular miracle of the Tribunal has been expressed in many forms. If you walk long enough, perhaps you will find me again.\" With that, there was a sound as if a dozen crystal chimes had been struck at once. The boulders around the mine collapsed like sand and Aralor was bathed in golden sunlight. In his joy he ran and shouted, and praised Ayem at the top of his voice. As the timid villagers emerged behind him, he threw them coins from his purse and even gave up his shoes. <BR> \r\n<BR>\r\nHe said to them, \"All the things I own, the things I stole and the body I wear, all are as impermanent as the rocks of the mine. Only the soul is ageless, and it is renewed by suffering and the shedding of worldly things.\" And those who heard these words wondered at them and were enlightened. <BR> \r\r\n[...]\n<BR>"
+data:
+  weight: 0.2
+  value: 15
+  book_type: Scroll
+  skill: None
+  enchantment: 0

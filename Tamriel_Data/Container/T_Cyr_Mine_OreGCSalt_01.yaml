@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Cyr_Mine_OreGCSalt_01
+name: Rock Salt
+script: ''
+mesh: pc\o\pc_cont_ore_gc_Salt01.nif
+encumbrance: 0.0
+container_flags: ORGANIC | IS_BASE
+inventory:
+- - 4
+  - T_Cyr_Random_Salt

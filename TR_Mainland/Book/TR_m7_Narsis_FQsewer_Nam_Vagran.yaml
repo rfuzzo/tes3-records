@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_Narsis_FQsewer_Nam_Vagran
+name: ''
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: ''
+enchanting: ''
+text: "Dunmer Vagrant Cultist\r\n\r\nReasonably tough for a vagrant, amped up by dark namira energies "
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

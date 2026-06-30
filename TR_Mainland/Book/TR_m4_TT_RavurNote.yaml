@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_TT_RavurNote
+name: Ravur's Scrawled Note
+script: TR_m4_TT_RavurNote_sc
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR><BR>\r\n%PCName<BR><BR>\r\nmeet me in the dormitories<BR><BR>\r\ndo not say a word to Nalvs<BR><BR> \r\nURGENT<BR><BR>\r\n"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_LA1_Grotto_1_Journal_1
+name: Thief's Journal 1
+script: ''
+mesh: m\Text_Note_02.nif
+icon: m\Tx_note_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<BR>\r\nI shouldn't have gotten greedy. I could hardly carry that sack of potions out the window, let alone climb down the balcony. Just my luck that I lost my footing climbing down and caused such a ruckus that every guard in town must have heard me!\r\n<BR>\r\nHow could I be such an amateur? I need to be more careful.\r\n<BR>\r\nFortunately, that alchemist makes one hell of a speed potion! Ha! Wish I had time to watch that poor guard's face as I nearly flew out of town!\r\n<BR>\r\nI found a small cave where I can camp for the night, or at least until the heat dies down. Once I get out of here, these potions will fetch a very fine price in the next town.\r\n<BR>"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 100

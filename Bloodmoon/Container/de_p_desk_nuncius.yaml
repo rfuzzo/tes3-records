@@ -1,0 +1,25 @@
+type: Container
+flags: ''
+id: de_p_desk_nuncius
+name: Antonius Nuncius' Desk
+script: nunciusStashScript
+mesh: o\Contain_De_Desk_01.NIF
+encumbrance: 75.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - Potion_Local_Brew_01
+- - 2
+  - Potion_Cyro_Whiskey_01
+- - 1
+  - potion_comberry_brandy_01
+- - 1
+  - potion_comberry_wine_01
+- - 1
+  - potion_cyro_brandy_01
+- - 1
+  - potion_local_liquor_01
+- - 1
+  - potion_skooma_01
+- - 256
+  - Gold_001

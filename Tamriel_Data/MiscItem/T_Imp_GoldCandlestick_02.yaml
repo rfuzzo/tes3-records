@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_GoldCandlestick_02
+name: Gold Candlestick
+script: ''
+mesh: pc\m\pc_misc_gold_cndl_02.nif
+icon: pc\m\pc_m_gld_cndl2.dds
+data:
+  weight: 6.0
+  value: 265
+  flags: ''

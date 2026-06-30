@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: AB_Ex_DeShipwrFloorTrapEXAMPLE
+name: Loose Deck
+script: AB_Example_s
+mesh: OAAB\x\shipwrFloorLargeTrap.nif

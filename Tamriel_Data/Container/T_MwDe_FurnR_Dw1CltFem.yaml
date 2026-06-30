@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: T_MwDe_FurnR_Dw1CltFem
+name: Chest of Drawers
+script: ''
+mesh: o\Contain_De_Drawers_01.NIF
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Mw_Random_Clothing
+- - 2
+  - T_Mw_Random_ClothingFemXpDun
+- - 1
+  - T_Mw_Random_ClothingFemXqDun
+- - 2
+  - T_Mw_Random_ClothingFemXvDun

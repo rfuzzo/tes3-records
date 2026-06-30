@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_MalaTor_Note03
+name: Archeologist's Journal
+script: ''
+mesh: m\Text_Note_02.nif
+icon: m\Tx_note_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nEntry 3\r\n<BR>\r\nI've reached what appears to be a dead end, but I refuse to believe this is the extent of Mala Tor. The massive pit I descended upon entering the ruin suggests a depth and complexity far beyond what is currently visible. The stonework here is too precise, too deliberate to be a mere surface-level structure.<BR>\r\n<BR>\r\nMy instincts, honed by years of archaeological expeditions, are screaming that there must be another way down. Hidden mechanisms, false walls, or concealed passages are common in Ayleid architecture. They were masters of spatial deception and ritual complexity.<BR>\r\n<BR>\r\nThe walls here seem to hold secrets. Certain stone blocks look subtly different, with almost imperceptible variations in their alignment. Tomorrow, I will begin a methodical examination of every inch of this chamber. Mala Tor has not revealed all of its mysteries. Not yet.<BR>\r\n<BR>\r\nDariem<BR>"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

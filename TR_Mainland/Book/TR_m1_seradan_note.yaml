@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_seradan_note
+name: 'A soggy note '
+script: ''
+mesh: m\Text_Note_02.nif
+icon: m\Tx_note_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nAlthough it appears to have been unlocked, your fate remains sealed.<BR>\r\n"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

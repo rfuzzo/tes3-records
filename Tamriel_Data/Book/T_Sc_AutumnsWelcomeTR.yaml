@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Sc_AutumnsWelcomeTR
+name: Autumn's Welcome
+script: ''
+mesh: m\Text_Scroll_01.nif
+icon: m\Tx_scroll_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nAutumn's Welcome<BR>\r\nHoratio Gargonath<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\">\r\nAutumn's lofty sky<BR>\r\ndescended, covering the valleys<BR>\r\nwith fluttering reds and yellows.<BR>\r\nThe glitter and ivory of snow<BR>\r\nsparkle from the high mountain pinnacle.<BR><BR>\r\nThe dawn of crimson and gold<BR>\r\nreverberated songs of migrating birds,<BR>\r\ndazzled unseen above the painted leaves.<BR>\r\nMelodies of autumn reflect the serenity<BR>\r\nthat lies in the approach of the frigid winter.<BR><BR>\r\nAutumn sinks down<BR>\r\nand blue hues flatter the icy mountaintops.<BR>\r\nCrows and blue-jays sound a trumpeting,<BR>\r\nas squirrels play<BR>\r\nwithin the color crested tree tops.<BR><BR>\r\nFrom the windless meadows<BR>\r\nmany bees hum by towards their home,<BR>\r\nand songbirds fashion musical tunes<BR>\r\nmore enchanting than the colors of autumn.<BR>"
+data:
+  weight: 1.1
+  value: 10
+  book_type: Scroll
+  skill: None
+  enchantment: 0

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Nor_WoodenCup_01
+name: Wooden Cup
+script: ''
+mesh: Sky\m\Sky_Misc_W_Cup_01_03.nif
+icon: Sky\m\Tx_Misc_W_Cup_01_03.dds
+data:
+  weight: 1.0
+  value: 5
+  flags: ''

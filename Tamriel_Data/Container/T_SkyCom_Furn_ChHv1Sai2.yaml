@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: T_SkyCom_Furn_ChHv1Sai2
+name: Chest
+script: ''
+mesh: Sky\o\Sky_Cont_Chest_04_01.nif
+encumbrance: 250.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Nor_Bucket_01
+- - 4
+  - T_Sky_Lvl_Loot
+- - 2
+  - T_Sky_Random_FoodSimple
+- - 2
+  - T_Sky_Random_Pos

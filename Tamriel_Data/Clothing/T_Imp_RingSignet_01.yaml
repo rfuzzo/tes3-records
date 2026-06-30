@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Imp_RingSignet_01
+name: Imperial Signet Ring
+script: ''
+mesh: tr\c\tr_c_imp_signet_ring.nif
+icon: tr\c\tr_c_imp_signet_ring.dds
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 1000
+  enchantment: 210

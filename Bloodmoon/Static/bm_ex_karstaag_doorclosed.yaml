@@ -1,0 +1,4 @@
+type: Static
+flags: PERSISTENT
+id: bm_ex_karstaag_doorclosed
+mesh: x\bm_ex_karstaag_doorclosed.NIF

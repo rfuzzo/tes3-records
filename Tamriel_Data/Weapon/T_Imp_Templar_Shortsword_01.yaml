@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Imp_Templar_Shortsword_01
+name: Imperial Templar Shortsword
+script: ''
+mesh: tr\w\tr_w_temp_shortsword.nif
+icon: tr\w\tr_w_temp_shortsword.dds
+enchanting: ''
+data:
+  weight: 8.0
+  value: 160
+  weapon_type: ShortBladeOneHand
+  health: 840
+  speed: 2.0
+  reach: 1.0
+  enchantment: 40
+  chop_min: 5
+  chop_max: 15
+  slash_min: 5
+  slash_max: 15
+  thrust_min: 7
+  thrust_max: 15
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

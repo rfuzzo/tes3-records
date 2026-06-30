@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: active_dae_malacath_df
+name: Statue of Malacath
+script: shrineDagonFel
+mesh: x\Ex_Dae_Malacath_attack.NIF

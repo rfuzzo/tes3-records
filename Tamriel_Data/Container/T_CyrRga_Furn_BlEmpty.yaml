@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: T_CyrRga_Furn_BlEmpty
+name: Bale
+script: ''
+mesh: hf\o\hf_cont_rga_bale_01.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory: []

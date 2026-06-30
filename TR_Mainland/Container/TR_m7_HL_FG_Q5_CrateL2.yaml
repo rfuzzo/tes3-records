@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: TR_m7_HL_FG_Q5_CrateL2
+name: Crate
+script: TR_m7_HL_FG_Q5_Act2Sc
+mesh: TR\o\tr_cont_crate_l_01.nif
+encumbrance: 400.0
+container_flags: IS_BASE
+inventory: []

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_Legion_BroadswordBroken01
+name: Broken Broadsword
+script: ''
+mesh: TR\m\TR_misc_imp_bsword_brk.NIF
+icon: TR\m\TR_misc_imp_bsword_brk.dds
+data:
+  weight: 10.0
+  value: 1
+  flags: ''

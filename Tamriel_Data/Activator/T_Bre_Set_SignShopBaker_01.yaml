@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Bre_Set_SignShopBaker_01
+name: ''
+script: SignRotate
+mesh: hr\f\hr_act_sign_baker_01.nif

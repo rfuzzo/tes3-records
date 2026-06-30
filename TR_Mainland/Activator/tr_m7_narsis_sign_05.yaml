@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: tr_m7_narsis_sign_05
+name: Free Farmer Rental Company
+script: SignRotate
+mesh: f\Active_sign_C_goods_01.nif

@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: TR_m2_proximus_crate_NP
+name: Crate
+script: ''
+mesh: o\Contain_crate_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - common_belt_04
+- - 1
+  - common_pants_02
+- - 1
+  - common_pants_05
+- - 1
+  - common_shirt_03
+- - 1
+  - common_shirt_06

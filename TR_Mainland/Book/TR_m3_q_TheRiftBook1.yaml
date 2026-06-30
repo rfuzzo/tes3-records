@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: TR_m3_q_TheRiftBook1
+name: Introduction to Hermaean Logic
+script: ''
+mesh: m\Text_Quarto_02.nif
+icon: m\Tx_quarto_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This book is a mystery. Every last page is covered in a thick layer of black ink.]<BR>\r\n<BR>"
+data:
+  weight: 4.0
+  value: 300
+  book_type: Book
+  skill: None
+  enchantment: 0

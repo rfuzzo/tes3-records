@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_Dreynim_log
+name: Shipwrights' Ledger
+script: ''
+mesh: m\Text_Octavo_open_03.nif
+icon: m\Tx_octavo_open_03.tga
+enchanting: ''
+text: "[This appears to be the records of the construction of ships at Dreynim, complete with dates and the names of buyers.]<BR>\r\n<BR>\r\n"
+data:
+  weight: 2.0
+  value: 0
+  book_type: Book
+  skill: Mercantile
+  enchantment: 20

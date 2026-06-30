@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: ring of poisonblooms
+name: Ring of Poisonblooms
+script: ''
+mesh: c\C_Ring_common05.NIF
+icon: c\tx_ring_common05.tga
+enchanting: poisonbloom_en
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 11
+  enchantment: 600

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: in_t_pc_hold_jamb_hall_s_a
+name: ''
+script: Strong3
+mesh: i\In_T_doorjamb_hall_small.nif

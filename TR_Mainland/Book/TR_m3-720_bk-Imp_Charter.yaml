@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3-720_bk-Imp_Charter
+name: Barristers Guild Charter
+script: ''
+mesh: m\Text_Octavo_03.NIF
+icon: m\Tx_octavo_03.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nImperial Charter of the Guild of Barristers<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nI. Purpose<BR>\r\n<BR>\r\nThe Guild of Barristers provides employment to educated solicitors and scholars of law and contracts to local citizens. Citizens may contract with the Guild for legal advice as well as prosecution or defense for criminal proceedings.<BR>\r\n<BR>\r\nII. Authority<BR>\r\n<BR>\r\nThe Guild of Barristers was established under the section 15 of the \"Guilds Act,\" and this charter was first confirmed under the Potentate Versidue-Shaie in the 321st year of the Second Era.<BR>\r\n<BR>\r\nIII. Rules and Procedures<BR>\r\n<BR>\r\nSee: \"The Niben-Colovian Code\" (volumes I-XXVII from the Imperial College Press) and \"The Marginal Edicts of the Akaviri Potentates\" (all twelve scrolls, including the three lost ones). <BR>\r\n<BR>\r\nIV. Membership Requirements<BR>\r\n<BR>\r\nThe Guild selects candidates who have studied in the Imperial College of Divine and Secular Law for a minimum of three years. Students from other accredited schools of law may be accepted provided that they pass an exam on the Imperial law, with the exception of the Thrassian Coral College of Ethics whose students are put to the sword instead.<BR>\r\n<BR>\r\nV. Applications for Membership<BR>\r\n<BR>\r\nCandidates must present themselves to the Chief Pontiff of Law in the Imperial City for examination and approval.<BR>\r\n<BR>\r\nATTACHMENT A: Barristers Guild Offices in Mournhold District, Province of Morrowind<BR>\r\n<BR>\r\nThe provincial head office of the Guild is located in the city of Ebonheart-on-Mainland. The office in Almalexia is established under lease from the Indoril Council.<BR>\r\n<BR>\r\n"
+data:
+  weight: 3.0
+  value: 30
+  book_type: Book
+  skill: None
+  enchantment: 0

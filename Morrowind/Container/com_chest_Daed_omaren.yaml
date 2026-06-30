@@ -1,0 +1,25 @@
+type: Container
+flags: ''
+id: com_chest_Daed_omaren
+name: Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - random_book_wizard_evil
+- - 1
+  - random_book_wizard_all
+- - 3
+  - l_m_potion
+- - 1
+  - l_b_rings
+- - 1
+  - l_m_wpn_melee
+- - 1
+  - l_b_loot_tomb
+- - 25
+  - Gold_001
+- - 1
+  - key_Forge of Rolamus

@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: T_Dreu_Furn_Ch5_CyrPos
+name: Chest
+script: ''
+mesh: tr\o\tr_furn_dreu_chest_05.nif
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - T_Cyr_Lvl_Potion
+- - 6
+  - T_Cyr_Random_PosGC
+- - 1
+  - T_Cyr_Random_PotionQuality
+- - 1
+  - misc_skull00
+- - 50
+  - random gold

@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: egg_kwama00
+name: Kwama Egg Sack
+script: ''
+mesh: o\contain_egg_kwama00.NIF
+encumbrance: 0.0
+container_flags: ORGANIC | IS_BASE
+inventory:
+- - 1
+  - food_kwama_egg_02

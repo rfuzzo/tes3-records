@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: ex_t_menhir_crystal
+name: ''
+script: menhirTelNaga
+mesh: x\Ex_T_menhir_crystal.NIF

@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m7_Ns_FG_4_RingWatchful
+name: Ring of Watchfulness
+script: ''
+mesh: c\C_Ring_common04.NIF
+icon: c\tx_ring_common04.tga
+enchanting: TR_m7_Ns_FG_RingWatchfulEnch
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 145
+  enchantment: 10

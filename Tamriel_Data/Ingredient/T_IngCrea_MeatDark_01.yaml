@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_MeatDark_01
+name: Warm Meat
+script: ''
+mesh: tdg\tr_ing_darkmeat.nif
+icon: tdg\tr_ing_darkmeat.dds
+data:
+  weight: 1.0
+  value: 5
+  effects:
+  - RestoreHealth
+  - None
+  - None
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

@@ -1,0 +1,22 @@
+type: Armor
+flags: ''
+id: T_Com_Bound_PauldronL_01
+name: Bound Left Pauldron
+script: ''
+mesh: a\A_Daedric_Pauldron_GND.nif
+icon: a\Tx_Daedric_pauldron.tga
+enchanting: T_Const_BoundPauldronLeft
+biped_objects:
+- biped_object_type: LeftUpperArm
+  male_bodypart: a_daedric_pauldron_ua
+  female_bodypart: ''
+- biped_object_type: LeftPauldron
+  male_bodypart: a_daedric_pauldron_cl
+  female_bodypart: ''
+data:
+  armor_type: LeftPauldron
+  weight: 0.0
+  value: 0
+  health: 800
+  enchantment: 60
+  armor_rating: 80

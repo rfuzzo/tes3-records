@@ -1,0 +1,53 @@
+type: Container
+flags: ''
+id: TR_m4_RR_VCave_4_Cr_01
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_De_Et_SkirtRedHero_02
+- - 1
+  - cloth bracer left
+- - 1
+  - cloth bracer right
+- - 1
+  - common_belt_02
+- - 1
+  - common_pants_03
+- - 1
+  - common_pants_04
+- - 1
+  - common_ring_03
+- - 1
+  - common_ring_04
+- - 1
+  - common_ring_05
+- - 1
+  - common_robe_02_r
+- - 1
+  - common_robe_02_rr
+- - 1
+  - common_shirt_01
+- - 1
+  - common_shirt_02
+- - 1
+  - common_shirt_02_rr
+- - 1
+  - common_shirt_04
+- - 1
+  - common_shoes_02
+- - 1
+  - common_shoes_03
+- - 1
+  - common_shoes_05
+- - 1
+  - common_skirt_05
+- - 1
+  - iron_gauntlet_right
+- - 1
+  - netch_leather_boiled_cuirass
+- - 1
+  - ring of fireball

@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Imp_Cm_Amulet_Tantha
+name: Tantha Charm
+script: ''
+mesh: pc\c\pc_c_cmamulet_05.nif
+icon: pc\c\pc_c_cmamulet_05.dds
+enchanting: T_Use_FortifyAcrobatics15-20
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 16
+  enchantment: 15

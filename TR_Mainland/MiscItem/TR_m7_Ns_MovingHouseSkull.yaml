@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m7_Ns_MovingHouseSkull
+name: Uhammaku's Skull
+script: TR_m7_Ns_MovingHouse_SkullSC
+mesh: m\misc_skull00.nif
+icon: m\misc_skull00.tga
+data:
+  weight: 0.5
+  value: 0
+  flags: ''

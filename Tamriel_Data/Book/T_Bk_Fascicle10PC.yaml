@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_Fascicle10PC
+name: Fascicle 41-45
+script: ''
+mesh: pc\m\PC_bk_Book_10.nif
+icon: pc\m\pc_bk_book_10.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe Testament of the Church-Mothers<BR>\r\nFascicle 41-45<BR>\r\nConsent of the Unwilling Spirits<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\n41. Said Mara: \"I see now, where we go, we depart the wellspring. Gladly I will look after what grows and becomes, and be shelter and the promise of shelter. But let Man ever know the hardship and the strife all new thing must endure. So let the making of that which is to last incur a heavy cost, and let all growth be an ordeal, so that the value of these things is self-evident.\"<BR>\r\n<BR>\r\n42. Said Arkay: \"Likewise, the wheel turns, and as it gives it takes away. There will be joy in the fruit of creation, and grief in the passing of time and the loss and the darkness and death, where we part with ourselves and one another, so that all may know and remember.\"<BR>\r\n<BR>\r\n43. Said Akatosh: \"I am the spirit of the oldest motion, and my will is inherent in all that transpires. Never before have I been called to prove right my actions, or speak in words that which is my decision. In this I will be no different now. Know, that I consent to this course and this current. Know not the reason.\"<BR>\r\n<BR>\r\n44. Said the gods of the Elves: \"This plan seems finite, abhor the deluge. From the path west we walk the mile long with no equitation. Yet where we wish to arrive, long we have been. Trust not the spirits of the Daedra, for they speak honeytongue and deceive you.\"<BR>\r\n<BR>\r\n45. Said the spirits of the Daedra: \"We will observe, and not act. Fresh the fruit of many labors, but it can be picked by any a man, not just the laborer. We are the watchers. Listen not to the gods of the Elves, for their words hold no wisdom for you, they are as chaff in the wind, neither knowing nor feeling, with no path returning to nowhere.\"<BR>\r\n<BR>"
+data:
+  weight: 4.0
+  value: 300
+  book_type: Book
+  skill: Enchant
+  enchantment: 0

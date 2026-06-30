@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_WoodBow
+name: Wooden Bow
+script: ''
+mesh: OAAB\w\wood_bow.nif
+icon: OAAB\w\wood_bow.tga
+enchanting: ''
+data:
+  weight: 10.0
+  value: 20
+  weapon_type: MarksmanBow
+  health: 300
+  speed: 1.0
+  reach: 1.0
+  enchantment: 8
+  chop_min: 1
+  chop_max: 15
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: ''

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2_q_36_LetterToAldard
+name: Letter from Bradys Hlaalo
+script: ''
+mesh: m\Text_Parchment_02.nif
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nDear Francine Aldard,<BR>\r\n<BR>\r\nI received your letter and the request you made with it. Although we, the Temple, appreciate any interest in our beliefs, I fail in seeing the point of your request. From what your messenger told me and judging from your name I assume that you are an outlander. Therefore you might not be familiar with the customs and traditions of our kin.<BR>\r\n<BR>\r\nThe Dunmer and especially we, the Temple, are practicing the tradition of conserving the remains of our beloved ancestors and relatives as bonewalkers since the days of Saint Veloth. In fact this tradition has not undergone changes since these days. To think one could scientifically investigate or even improve a rite which is in practice for generations would be arrogant and foolish.<BR>\r\n<BR>\r\nTherefore we cannot allow you to interrupt the exertion of our tasks by these measurements. This said, you are always welcome to visit the bonewalker smithies in Necrom as long as you don't disturb our priests working there. The ranks of the Temple are open to the faithful of any provenance. You, too, could be assigned these holy tasks, should you prove your faith and willingness to preserve rather than undermine our traditions.<BR>\r\n<BR>\r\nYours,<BR>\r\nBradys Hlaalo<BR>\r\n<BR>"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 100

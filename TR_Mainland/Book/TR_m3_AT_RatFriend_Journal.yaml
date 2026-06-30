@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_AT_RatFriend_Journal
+name: Giacinia's Journal
+script: ''
+mesh: m\text_octavo_open_06.nif
+icon: m\tx_book_open_03.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n[This journal contains pages filled with alchemical formulas and descriptions of various spells.]\r\n<BR>"
+data:
+  weight: 3.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

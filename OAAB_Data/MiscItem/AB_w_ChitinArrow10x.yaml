@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_w_ChitinArrow10x
+name: Chitin Arrow (10)
+script: AB_QuiverChitin10x_s
+mesh: OAAB\w\quiver_chitin.nif
+icon: w\tx_arrow_chitin.dds
+data:
+  weight: 1.0
+  value: 10
+  flags: ''

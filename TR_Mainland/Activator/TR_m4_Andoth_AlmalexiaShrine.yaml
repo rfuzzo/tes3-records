@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_Andoth_AlmalexiaShrine
+name: Shrine of Almalexia's Fury
+script: TR_m4_Andoth_AlmalexiaShrine_sc
+mesh: tr\x\tr_act_shrine_ando.nif

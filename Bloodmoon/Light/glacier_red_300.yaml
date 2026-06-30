@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: glacier_red_300
+name: ''
+script: ''
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 300
+  color:
+  - 175
+  - 39
+  - 39
+  - 0
+  flags: ''

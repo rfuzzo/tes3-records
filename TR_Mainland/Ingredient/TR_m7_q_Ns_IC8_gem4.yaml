@@ -1,0 +1,25 @@
+type: Ingredient
+flags: PERSISTENT
+id: TR_m7_q_Ns_IC8_gem4
+name: Sapphire
+script: ''
+mesh: TR\n\TR_Ing_sapphire_mm.NIF
+icon: TR\n\TR_Ing_sapphire_mm.dds
+data:
+  weight: 0.2
+  value: 200
+  effects:
+  - DamageHealth
+  - Shield
+  - ResistMagicka
+  - DamageFatigue
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Imp_Vampyrum_Mace_01
+name: Vampyrum Order Mace
+script: ''
+mesh: pc\w\pc_w_vampyr_mace_01.nif
+icon: pc\w\pc_w_vampyr_mace_01.dds
+enchanting: ''
+data:
+  weight: 11.0
+  value: 8000
+  weapon_type: BluntOneHand
+  health: 2400
+  speed: 1.3
+  reach: 1.0
+  enchantment: 50
+  chop_min: 2
+  chop_max: 20
+  slash_min: 2
+  slash_max: 20
+  thrust_min: 1
+  thrust_max: 3
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

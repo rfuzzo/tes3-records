@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_Uman_B1Note
+name: 'Bounty: Hamdirn'
+script: TR_m4_Uman_B1Note_sc
+mesh: m\Text_Parchment_01.NIF
+icon: m\Tx_parchment_01.tga
+enchanting: ''
+text: "<BR>\r\n<DIV ALIGN=\"CENTER\">\r\nBOUNTY NOTICE:\r\n<BR>\r\n<DIV ALIGN=\"left\">\r\nBy order of Indriri Veram, Redoran Lawman of Uman, and under the authority of the Ruby Throne,\r\n<BR>\r\nLet it be known that the criminal\r\n<BR>\r\n<DIV ALIGN=\"center\">\r\nHAMDIRN\r\n<BR>\r\n<DIV ALIGN=\"left\">\r\nis wanted dead for the crimes of brigandry, extortion, robbery, smuggling, and banditry.<BR>\r\n<BR>\r\nReward is 700 septims. Report to Indriri Veram at the Hound's Rest Inn in Uman for more information.\r\n<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

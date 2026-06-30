@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_HighKingsVeddaSHOTN_V4
+name: High King's Vedda Book Four
+script: ''
+mesh: Sky\m\sky_book_basic_14.nif
+icon: Sky\m\tx_book_basic_13.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nHigh King's Vedda<BR>\r\nBook Four<BR><BR>\r\n<IMG SRC=\"sky\\Sky_Bk_HighKingsVedda_four.dds\" WIDTH=\"240\" HEIGHT=\"240\">\r\n<BR> <DIV ALIGN=\"LEFT\"> <BR>\r\nI. LET no Child say that elves and their frigid demons are not the greatest evil.\r\n<BR>\r\nII. For in the bitter cold they watched the building of the World, and shivered in jealous admiration.\r\n<BR>\r\nIII. The World is a series of Breaths, a sustained Shout that fills the frosted void of ALDUIN's permissive ignorance.\r\n<BR>\r\nIV. With Kyne's first Breath, the snowy World-Throat was raised, and the elf-demons cried out in shame.\r\n<BR>\r\nV. With Kyne's second Breath, the chilled valleys were cut, and the elf-demons bit their tongues in despair.\r\n<BR>\r\nVI. With Kyne's third Breath, the icy rivers ran forth, and the elf-demons cut their flesh in loathing.\r\n<BR>\r\nVII. With Kyne's fourth Breath, sleet-flecked life covered the land, and the elf-demons debased one another in horror.\r\n<BR>\r\nVIII. With the fifth and most sublime Breath of Kyne, the Children of the Sky were born mighty and free, and the elf-demons howled oaths of destruction. And the snowy elves, demon-thralls without number, swore upon death and marched in all directions. And with them did War come into the World.\r\n<BR>\r\nMeditate on this: Kyne breathed five times to work this World. Measure your own Breath, for from a measured Breath are great works wrought.\r\n<BR> <BR>\r\n"
+data:
+  weight: 3.0
+  value: 300
+  book_type: Book
+  skill: None
+  enchantment: 0

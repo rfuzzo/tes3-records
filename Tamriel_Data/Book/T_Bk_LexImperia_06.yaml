@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_LexImperia_06
+name: Lex Imperii VI
+script: ''
+mesh: pc\m\PC_bk_Book_20.nif
+icon: pc\m\pc_bk_book_20.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nLEX IMPERII VI<BR>\r\n<BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\n<BR>\r\n[...]<BR>\r\n<BR>\r\nVI.VI Succession<BR>\r\n1. Successions are opened by natural or civil death<BR>\r\n2. A succession is opened by civil death from the moment at which that death is noted to have incurred, conformably the regulations of II.III.iii.2<BR>\r\n3. If several citizens, respectively the successors of each other, perish by one and the same accident, or in such close succession that it is not possible to ascertain the order of death, the presumption of survivorship is determined by specific circumstances, or by force of age<BR>\r\n4. The order of succession among legitimate heirs is regulated by Law; in defect of such, by the judgment of an order of Akatic Authority; in defect of such, the property passes to natural children, afterwards to the father or mother surviving, in absence of those, to the property of the Emperor<BR>\r\n5. A Stranger of Strange Lands or an Outsider of the Principalities cannot succeed to property<BR>\r\n6. Unworthy to succeed are those heirs who have been condemned for having caused the death or attempted to cause the death of the defunct<BR>\r\n7. Unworthy to succeed are those heirs who attempted to bring against the defunct a capital charge adjudged malicious<BR>\r\n8. Unworthy to succeed are those heirs being of age who failed to report the death of the defunct to the Imperial Executor<BR>\r\n<BR>\r\n[...]<BR>\r\n<BR>\r\nVI.X Donation<BR>\r\n1. In donation, the donor deprives themselves of the thing given in favor of the recipient, who receives it both actually and irrevocably<BR>\r\n2. In testament or will, the testator disposes of the whole or the part of his property, for such a time as when he no longer exists upon the Arena Supermundus<BR>\r\n3. To take up permanent residence in the Principalities is considered a factual cessation of existence upon the Arena Supermundus, and as such a valid reason for the execution of one's testament or will<BR>\r\n4. The testator is at liberty to revoke his testament or will at any time during life<BR>\r\n5. A testator who is confirmed deceased or no longer bound to existence upon the Arena Supermundus, but nevertheless manages to communicate through necromantic means, is no longer at liberty to revoke his testament or will<BR>\r\n6. Any condition included in a will or testament that runs counter to Law or morality shall be reputed as unwritten<BR>\r\n<BR>\r\n[...]<BR>\r\n<BR>"
+data:
+  weight: 4.0
+  value: 50
+  book_type: Book
+  skill: None
+  enchantment: 0

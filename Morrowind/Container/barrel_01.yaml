@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: barrel_01
+name: Barrel
+script: ''
+mesh: o\Contain_barrel_01.NIF
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory: []

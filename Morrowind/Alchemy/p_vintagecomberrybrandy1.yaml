@@ -1,0 +1,28 @@
+type: Alchemy
+flags: ''
+id: p_vintagecomberrybrandy1
+name: Vintage Brandy
+script: ''
+mesh: n\Potion_Comberry_brandy_01.NIF
+icon: n\Tx_Comberry_brandy_01.tga
+effects:
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Strength
+  range: OnSelf
+  area: 0
+  duration: 360
+  min_magnitude: 30
+  max_magnitude: 30
+- magic_effect: DrainAttribute
+  skill: None
+  attribute: Agility
+  range: OnSelf
+  area: 0
+  duration: 360
+  min_magnitude: 30
+  max_magnitude: 30
+data:
+  weight: 1.0
+  value: 500
+  flags: ''

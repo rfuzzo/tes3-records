@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Com_Steel_Dart_CruelFrostB
+name: Cruel Frostburst Dart
+script: ''
+mesh: w\W_dart_steel.NIF
+icon: w\tx_w_dart_steel.tga
+enchanting: T_Strike_CruelFrostArea
+data:
+  weight: 0.2
+  value: 16
+  weapon_type: MarksmanThrown
+  health: 150
+  speed: 1.0
+  reach: 1.0
+  enchantment: 15
+  chop_min: 2
+  chop_max: 5
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

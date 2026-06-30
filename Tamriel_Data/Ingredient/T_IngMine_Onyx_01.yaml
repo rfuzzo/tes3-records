@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngMine_Onyx_01
+name: Onyx
+script: ''
+mesh: tr\n\tr_ing_onyx.nif
+icon: tr\n\tr_ing_onyx.dds
+data:
+  weight: 0.2
+  value: 100
+  effects:
+  - DrainAttribute
+  - LightningShield
+  - WeaknessToFire
+  - ResistShock
+  skills:
+  - Block
+  - None
+  - None
+  - None
+  attributes:
+  - Personality
+  - None
+  - None
+  - None

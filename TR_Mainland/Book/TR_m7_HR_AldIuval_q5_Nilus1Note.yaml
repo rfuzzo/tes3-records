@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_HR_AldIuval_q5_Nilus1Note
+name: Nilus Indarys
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: ''
+enchanting: ''
+text: This is where TR_m7_Nilus Indarys will PositionCell at the beginning of TR_m7_HR_AldIuval_q1 and TR_m7_HR_AldIuval_q4
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

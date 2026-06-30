@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_sc_m2-56-Tribunalbonescroll
+name: Triune Grace
+script: ''
+mesh: m\text_paper_roll_01.nif
+icon: m\tx_paper_roll_01.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"6\" FACE=\"Magic Cards\"><BR><BR>\r\nFoundation of the Thrice-Blessed House<BR>\r\n<BR>\r\nYour Lords greet you\r\n<BR>\r\n<BR>\r\n</FONT>\r\n<FONT COLOR=\"cc0000\" SIZE=\"26\" FACE=\"Daedric\">AVS</FONT><BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Nor_Ancient_Broadsword_01
+name: Ancient Nordic Broadsword
+script: ''
+mesh: sky\w\sky_w_anordic_bsword.nif
+icon: sky\w\sky_w_anordic_bsword.dds
+enchanting: ''
+data:
+  weight: 15.0
+  value: 260
+  weapon_type: LongBladeOneHand
+  health: 800
+  speed: 1.25
+  reach: 1.0
+  enchantment: 60
+  chop_min: 6
+  chop_max: 18
+  slash_min: 2
+  slash_max: 18
+  thrust_min: 2
+  thrust_max: 18
+  flags: ''

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Glb_Sound_Loop_OldOnes
+name: 'Sound Effect: Old Ones Loop'
+script: T_ScSound_OldOnesLoop
+mesh: EditorMarker.NIF

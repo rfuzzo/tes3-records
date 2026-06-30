@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m4_Bd_Talis_key
+name: Talis Varalaryn's Key
+script: ''
+mesh: tr\m\tr_key_dd20.nif
+icon: tr\m\tr_key_dd20.dds
+data:
+  weight: 0.0
+  value: 0
+  flags: KEY

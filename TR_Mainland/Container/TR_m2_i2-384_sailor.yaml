@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: TR_m2_i2-384_sailor
+name: Sailor's Chest
+script: ''
+mesh: o\Contain_De_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 5
+  - Gold_001
+- - 1
+  - Misc_Inkwell
+- - 1
+  - Misc_Quill
+- - 1
+  - TR_m2_i2_384_bk_log1
+- - 3
+  - random_de_pos_01

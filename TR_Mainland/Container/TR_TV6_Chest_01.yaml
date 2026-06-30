@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: TR_TV6_Chest_01
+name: Chest
+script: ''
+mesh: o\Contain_Com_Chest_01.NIF
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Com_Scrapwood01
+- - 1
+  - T_Com_Scrapwood03
+- - 1
+  - T_De_Dreugh_Sparkclever_01
+- - 2
+  - l_n_soul gem
+- - 222
+  - random gold_lev_20

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_heartwood_01
+name: Heartwood
+script: ''
+mesh: m\Heartwood.NIF
+icon: m\Tx_Heartwood.dds
+data:
+  weight: 1.0
+  value: 200
+  effects:
+  - RestoreMagicka
+  - FortifyAttribute
+  - DrainAttribute
+  - WeaknessToFire
+  skills:
+  - None
+  - Block
+  - Block
+  - None
+  attributes:
+  - None
+  - Agility
+  - Strength
+  - None

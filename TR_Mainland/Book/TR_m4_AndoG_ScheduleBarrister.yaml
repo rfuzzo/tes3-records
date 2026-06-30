@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_AndoG_ScheduleBarrister
+name: A Barrister's Schedule
+script: ''
+mesh: m\Text_Note_02.nif
+icon: m\Tx_note_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This is a work schedule for a barrister. It lists the dates set for dizzying amounts of client appointments, official hearings, and such. No particular date or name jumps out.] <BR>"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

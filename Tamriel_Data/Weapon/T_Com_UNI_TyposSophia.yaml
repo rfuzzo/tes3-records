@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Com_UNI_TyposSophia
+name: Staff of the Typos Sophia
+script: ''
+mesh: tr\w\tr_w_typos_sophia.nif
+icon: tr\w\tr_w_typos_sophia.dds
+enchanting: T_Use_TyposSophia
+data:
+  weight: 10.0
+  value: 85000
+  weapon_type: BluntTwoWide
+  health: 4000
+  speed: 1.75
+  reach: 1.8
+  enchantment: 500
+  chop_min: 5
+  chop_max: 15
+  slash_min: 1
+  slash_max: 15
+  thrust_min: 5
+  thrust_max: 10
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

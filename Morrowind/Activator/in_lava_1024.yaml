@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: in_lava_1024
+name: ''
+script: lava
+mesh: i\In_lava_1024.NIF

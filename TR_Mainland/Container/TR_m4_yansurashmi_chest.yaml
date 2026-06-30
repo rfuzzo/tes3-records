@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: TR_m4_yansurashmi_chest
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_EnSc_Com_ElectricTouch
+- - 2
+  - l_b_loot_tomb03
+- - 1
+  - orcish_helm

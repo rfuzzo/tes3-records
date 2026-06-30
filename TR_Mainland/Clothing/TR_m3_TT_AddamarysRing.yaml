@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m3_TT_AddamarysRing
+name: Addamarys' Ring
+script: ''
+mesh: c\C_Ring_expensive_1.NIF
+icon: c\tx_ring_expensive01.tga
+enchanting: TR_m3_TT_Addamarys_en
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 100
+  enchantment: 50

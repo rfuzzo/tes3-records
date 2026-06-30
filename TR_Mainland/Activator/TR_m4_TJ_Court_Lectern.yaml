@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m4_TJ_Court_Lectern
+name: ''
+script: TR_m4_TJ_Court_Lectern_sc
+mesh: f\furn_de_lecturn.nif

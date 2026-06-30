@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m7_TV1_Cave_2_crt_sv
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - T_IngMine_OreSilver_01

@@ -1,0 +1,25 @@
+type: Container
+flags: ''
+id: TR_M2_i387_chest_books
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_02.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Bk_LegalBasicsAnchiviusTR
+- - 2
+  - T_Bk_RegretTR
+- - 1
+  - bk_BlueBookOfRiddles
+- - 1
+  - bk_BookDawnAndDusk
+- - 1
+  - bk_CantatasOfVivec
+- - 1
+  - bk_HomiliesOfBlessedAlmalexia
+- - 1
+  - bk_HouseOfTroubles_o
+- - 1
+  - bookskill_medium armor5

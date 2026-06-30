@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_TeloserasGuildNote
+name: GuildNote
+script: ''
+mesh: tr\tr_note_pin.nif
+icon: default icon.dds
+enchanting: ''
+text: This is the bandit loot room. It was suggested to me that this could be a target of a thieves guild quest for Kragenmoor or something, and the layout was altered to allow the player to better sneak to this room without fighting all the bandits (which also makes it less buggy with pathing anyway).
+data:
+  weight: 0.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 0

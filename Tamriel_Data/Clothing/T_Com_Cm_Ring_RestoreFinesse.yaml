@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Com_Cm_Ring_RestoreFinesse
+name: Ring of Restore Finesse
+script: ''
+mesh: c\c_ring_common04.nif
+icon: c\tx_ring_common04.dds
+enchanting: T_Use_RestoreFinesse
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 150
+  enchantment: 100

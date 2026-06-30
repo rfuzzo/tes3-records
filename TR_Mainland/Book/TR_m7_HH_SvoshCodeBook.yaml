@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: TR_m7_HH_SvoshCodeBook
+name: S'Vosh's Code Book
+script: ''
+mesh: tr\m\tr_book_notebk_05.nif
+icon: tr\m\tr_book_closed_ntbk05.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"330000\" SIZE=\"3\" FACE=\"Magic Cards\"> <BR>\r\nFZFDPK. HOBVJYCEV. <BR>\r\nVPBSYV WOMYAIU. GMXDQWZ. <BR>\r\nUVZAAAV. KWHHJBK. <BR>\r\nQSM'XG-GZDR. AUXDZLYSOWGU. <BR>"
+data:
+  weight: 1.0
+  value: 10
+  book_type: Book
+  skill: None
+  enchantment: 0

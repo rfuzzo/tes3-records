@@ -1,0 +1,11 @@
+type: Container
+flags: BLOCKED
+id: sack_small_(scale)00
+name: Small cloth sack
+script: ''
+mesh: o\Contain_Com_Sack_02.NIF
+encumbrance: 20.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - random gold_lev_05

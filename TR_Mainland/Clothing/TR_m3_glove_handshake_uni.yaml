@@ -1,0 +1,20 @@
+type: Clothing
+flags: ''
+id: TR_m3_glove_handshake_uni
+name: Glove of the Dextrous Handshake
+script: ''
+mesh: TR\c\TR_c_exp_glove_01_GND.nif
+icon: TR\c\tr_c_exp_glove_01.dds
+enchanting: TR_m3_glove_handshake_en
+biped_objects:
+- biped_object_type: RightHand
+  male_bodypart: T_C_ComEpGlove01_Ha
+  female_bodypart: ''
+- biped_object_type: RightWrist
+  male_bodypart: ''
+  female_bodypart: ''
+data:
+  clothing_type: RightGlove
+  weight: 1.0
+  value: 150
+  enchantment: 115

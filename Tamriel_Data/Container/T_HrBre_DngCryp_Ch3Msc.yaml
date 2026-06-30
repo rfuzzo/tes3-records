@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: T_HrBre_DngCryp_Ch3Msc
+name: Reliquary
+script: ''
+mesh: hr\o\hr_crypt_reliq_01.nif
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Hr_Random_LootCrypt
+- - 10
+  - random gold
+- - 1
+  - random gold_lev_05

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_NecMQ_SadalasOrders
+name: Orders for Anis Sadalas
+script: ''
+mesh: m\text_scroll_01.nif
+icon: m\tx_scroll_open_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"center\"><FONT COLOR=\"000000\" SIZE=\"2\" FACE=\"Magic Cards\"> <BR>\r\n<BR>\r\nDisciple Sadalas,<BR>\r\n<BR>\r\nI hereby order you to postpone your search for the missing bonewalker of Indoril Nerevar until your search party is thoroughly prepared. I expect you to cover all possiblities.<BR>\r\n<BR>\r\nIn the meantime the Nerevarine %PCName may already start looking for the bonewalker. Perhaps this unique connection will help in the search.<BR>\r\n<BR>\r\nCanon Simine Turethi<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

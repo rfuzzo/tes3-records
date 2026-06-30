@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_HO_banner_ship
+name: Shipbuilders and Sailors Hall
+script: OutsideBanner
+mesh: tr\f\tr_act_banner_trade_01.nif

@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: TR_m7_narsis_MTskell
+name: Corpse
+script: ''
+mesh: pc\o\PC_cont_corpse_sit.nif
+encumbrance: 120.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - DarkBrotherhood gauntlet_L
+- - 1
+  - ingred_bonemeal_01

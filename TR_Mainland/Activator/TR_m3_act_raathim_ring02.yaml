@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m3_act_raathim_ring02
+name: ''
+script: ''
+mesh: f\Furn_imp_metalring.nif

@@ -1,0 +1,22 @@
+type: Armor
+flags: ''
+id: T_De_IndBonemold_PauldronL_01
+name: Native Chuzei Left Pauldron
+script: ''
+mesh: TR\a\TR_a_ind_pld_gnd.NIF
+icon: TR\a\TR_a_ind_pldrn_L_01.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: LeftPauldron
+  male_bodypart: ''
+  female_bodypart: ''
+- biped_object_type: LeftUpperArm
+  male_bodypart: a_bonemold_gah_julan_ua
+  female_bodypart: ''
+data:
+  armor_type: LeftPauldron
+  weight: 8.0
+  value: 145
+  health: 140
+  enchantment: 16
+  armor_rating: 17

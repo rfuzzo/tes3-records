@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: tr_i4-507_w_hla_club
+name: Utu-Ihha's Dreugh Club
+script: ''
+mesh: w\W_Dreugh_club.NIF
+icon: w\tx_dreugh_club.tga
+enchanting: T_Const_SwiftSwim15
+data:
+  weight: 10.8
+  value: 500
+  weapon_type: BluntOneHand
+  health: 400
+  speed: 1.5
+  reach: 1.0
+  enchantment: 36
+  chop_min: 7
+  chop_max: 8
+  slash_min: 4
+  slash_max: 5
+  thrust_min: 3
+  thrust_max: 5
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

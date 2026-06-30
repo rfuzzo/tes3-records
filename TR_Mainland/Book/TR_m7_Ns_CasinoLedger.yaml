@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_Ns_CasinoLedger
+name: Fortuna Ledger
+script: TR_m7_Ns_CasinoLedgerSc
+mesh: pc\m\PC_bk_Book_01.nif
+icon: pc\m\pc_bk_book_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n[This ledger contains a list of numbers and abbreviations describing all financial activity of the Fortuna and its management. There is an enormous amount of large transactions between the Tanners and Miners Tong and the Fortuna accountant Telare Evos, signed as \"investments to the Talsilit Mining Company\".]<BR>"
+data:
+  weight: 2.0
+  value: 2
+  book_type: Book
+  skill: None
+  enchantment: 0

@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: T_MwDe_FurnM_Cl1Empty
+name: Closet
+script: ''
+mesh: TR\o\TR_furn_De_Rm_Closet.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory: []

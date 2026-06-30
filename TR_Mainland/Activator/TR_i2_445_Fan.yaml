@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_i2_445_Fan
+name: ''
+script: TR_m2_445_sc_fan
+mesh: TR\f\TR_act_nec_uc_fan.nif

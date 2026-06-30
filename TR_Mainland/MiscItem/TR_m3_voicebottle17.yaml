@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m3_voicebottle17
+name: '"Charles the Plant"'
+script: ''
+mesh: m\Misc_flask_01.NIF
+icon: m\Tx_flask_01.tga
+data:
+  weight: 1.0
+  value: 0
+  flags: ''

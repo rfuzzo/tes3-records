@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: glass_towershield
+name: Glass Tower Shield
+script: ''
+mesh: a\Towershield_Glass.nif
+icon: a\TX_towershield_glass.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: Shield
+  male_bodypart: towershield_glass
+  female_bodypart: ''
+data:
+  armor_type: Shield
+  weight: 9.0
+  value: 20000
+  health: 1100
+  enchantment: 450
+  armor_rating: 55

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_cattlenote
+name: Tattered Note
+script: TR_m4_VA_qdeadcattle
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nTheir magic has not yet infected my mind. I have no interest in nourishing these monsters and have chosen death on my own terms. \r\n\r\n-A\r\n<BR>"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

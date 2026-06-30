@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m4_RR_Skull_Ulaqth
+name: Skull of Warchief Ulaqth
+script: ''
+mesh: TR\m\TR_misc_skull_arg_02.NIF
+icon: TR\m\TR_misc_skull_arg.dds
+data:
+  weight: 0.5
+  value: 0
+  flags: ''

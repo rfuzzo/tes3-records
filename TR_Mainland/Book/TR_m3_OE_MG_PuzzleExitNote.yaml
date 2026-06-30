@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_OE_MG_PuzzleExitNote
+name: Exit Note
+script: ''
+mesh: TR\m\TR_note_a04.nif
+icon: TR\m\tr_note_a04.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>\r\n<DIV ALIGN=\"CENTER\"><BR><BR>\r\nOne of the Redguards holds the Exit Key<BR>\r\n<BR>"
+data:
+  weight: 0.2
+  value: 10
+  book_type: Scroll
+  skill: None
+  enchantment: 100

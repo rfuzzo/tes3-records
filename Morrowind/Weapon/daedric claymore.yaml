@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: daedric claymore
+name: Daedric Claymore
+script: ''
+mesh: w\W_Claymore_Daedric.nif
+icon: w\Tx_Daedric_claymore.tga
+enchanting: ''
+data:
+  weight: 81.0
+  value: 80000
+  weapon_type: LongBladeTwoClose
+  health: 5600
+  speed: 1.25
+  reach: 1.0
+  enchantment: 210
+  chop_min: 1
+  chop_max: 60
+  slash_min: 1
+  slash_max: 52
+  thrust_min: 1
+  thrust_max: 36
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

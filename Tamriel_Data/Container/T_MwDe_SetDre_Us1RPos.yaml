@@ -1,0 +1,27 @@
+type: Container
+flags: ''
+id: T_MwDe_SetDre_Us1RPos
+name: Stoneware Urns
+script: ''
+mesh: tr\o\tr_cont_sturns_r_01.nif
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Mw_Lvl_WeaponsChitin
+- - 1
+  - T_Mw_Random_ArmorChitin
+- - 1
+  - T_Mw_Random_ClutterPotionFlask
+- - 1
+  - T_Mw_Random_ClutterStoneware
+- - 3
+  - T_Mw_Random_DeshaanBread
+- - 2
+  - T_Mw_Random_DrinkDunmer
+- - 3
+  - T_Mw_Random_IngredientDeshaan
+- - 15
+  - random gold
+- - 1
+  - random_pos

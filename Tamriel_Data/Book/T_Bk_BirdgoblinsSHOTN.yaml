@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_BirdgoblinsSHOTN
+name: The Bird-Goblins
+script: ''
+mesh: Sky\m\Sky_Book_Saga_02.nif
+icon: Sky\m\Tx_Book_Saga_02.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe Bird-Goblins<BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\n'Neath the trees,<BR>\r\n<BR>\r\n'Neath the ground,<BR>\r\n<BR>\r\nMaking nary a sound,<BR>\r\n<BR>\r\nThe Bird-Goblins come out to play.<BR>\r\n<BR>\r\n**<BR>\r\n<BR>\r\nFlash of feather<BR>\r\n<BR>\r\nFlash of claw<BR>\r\n<BR>\r\nToo mad to withdraw,<BR>\r\n<BR>\r\nThe Bird-Goblins have come today.<BR>\r\n<BR>\r\n**<BR>\r\n<BR>\r\nKeep away, my sons,<BR>\r\n<BR>\r\nThough there are fewer,<BR>\r\n<BR>\r\nThey are not the green ones<BR>\r\n<BR>\r\nWho live in the sewer.<BR>\r\n<BR>\r\n**<BR>\r\n<BR>\r\nThey're clever and cruel,<BR>\r\n<BR>\r\nTall and pale-faced,<BR>\r\n<BR>\r\nSons of Hadhuul<BR>\r\n<BR>\r\nShould you see one, make haste!<BR>\r\n<BR>\r\n**<BR>\r\n<BR>\r\nDear old Colovia<BR>\r\n<BR>\r\nIs not nearly as dear<BR>\r\n<BR>\r\nWhen the Wild Elves<BR>\r\n<BR>\r\nOf ald-Cyrod draw near.<BR>\r\n<BR>\r\n**<BR>\r\n<BR>\r\nThe Bird-Goblins are here to stay.\r\n<BR>"
+data:
+  weight: 3.0
+  value: 25
+  book_type: Book
+  skill: None
+  enchantment: 0

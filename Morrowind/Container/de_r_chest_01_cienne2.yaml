@@ -1,0 +1,31 @@
+type: Container
+flags: ''
+id: de_r_chest_01_cienne2
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - -10
+  - ingred_bc_ampoule_pod
+- - -10
+  - ingred_bc_coda_flower
+- - -10
+  - ingred_bc_spore_pod
+- - -5
+  - ingred_void_salts_01
+- - -5
+  - ingred_scrap_metal_01
+- - -5
+  - ingred_racer_plumes_01
+- - -10
+  - food_kwama_egg_01
+- - -10
+  - ingred_kwama_cuttle_01
+- - -10
+  - ingred_hound_meat_01
+- - -3
+  - ingred_frost_salts_01
+- - -5
+  - ingred_coprinus_01

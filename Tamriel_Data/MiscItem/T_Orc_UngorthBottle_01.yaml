@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Orc_UngorthBottle_01
+name: Empty Ungorth Bottle
+script: ''
+mesh: sky\n\sky_potion_ungorth_01.nif
+icon: sky\n\tx_potion_ungorth_01.dds
+data:
+  weight: 1.0
+  value: 1
+  flags: ''

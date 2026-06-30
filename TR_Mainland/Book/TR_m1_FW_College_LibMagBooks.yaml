@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_FW_College_LibMagBooks
+name: Arcana and the Sciences
+script: ''
+mesh: m\text_parchment_01.nif
+icon: m\tx_parchment_01.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>Arcana and the Sciences<BR>\r\n <BR><DIV ALIGN=\"Left\">\r\nThese shelves house the College's collection of texts on the arcane arts and the sciences, including mundane fields such as botany, physics, and zoology, as well as the classical schools of magic: alchemy, alteration, conjuration, destruction, enchanting, illusion, mysticism, and restoration. Texts on more obscure fields, such as astrology, divination, thaumaturgy, and the mysteries of Oblivion are also kept in this section.\r\n<BR>\r\nInformation found in this section may be misused without proper expertise, leading to injury, death, or inadvertent liminal transit. Readers are encouraged to seek the advice of College faculty before attempting any magical or scientific experiment for the first time.<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

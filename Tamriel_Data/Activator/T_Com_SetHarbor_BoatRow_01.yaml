@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Com_SetHarbor_BoatRow_01
+name: ''
+script: Float
+mesh: pc\x\pc_ex_rowboat01.nif

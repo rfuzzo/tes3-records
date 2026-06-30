@@ -1,0 +1,20 @@
+type: Alchemy
+flags: ''
+id: TR_m2_i2_454_powder
+name: Timsa Powder
+script: ''
+mesh: m\Misc_pot_redware_04.nif
+icon: m\tx_pot_redware_04.dds
+effects:
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Endurance
+  range: OnSelf
+  area: 0
+  duration: 120
+  min_magnitude: 10
+  max_magnitude: 10
+data:
+  weight: 1.0
+  value: 70
+  flags: ''

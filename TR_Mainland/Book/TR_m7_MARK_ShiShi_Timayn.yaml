@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_MARK_ShiShi_Timayn
+name: Timayn Marelis
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: pi\m\pi_m_cnq_ngopta.dds
+enchanting: ''
+text: "Timayn Marelis moves here when the tomb is under attack in TR_m7_HH_Alvynu_6. He moves back when the tomb is clear.\r\n\r\nPositionCell in \"Ilvrin Hlaalu\"- \"I don't know what kind of business, exactly.\" and \"Yes. He got himself killed by the guards, if you weren't aware.\"\r\n\r\nHe moves back in \"Ilvrin Hlaalu\" as well- \"I see. I wish Timayn had been upfront about what was going on.\""
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

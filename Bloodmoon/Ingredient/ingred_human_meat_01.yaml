@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_human_meat_01
+name: Human Flesh
+script: ''
+mesh: n\Ingred_Rat_Meat_01.nif
+icon: n\Tx_rat_meat_01.tga
+data:
+  weight: 1.0
+  value: 1
+  effects:
+  - FortifyHealth
+  - DrainAttribute
+  - DrainAttribute
+  - None
+  skills:
+  - None
+  - Block
+  - Block
+  - None
+  attributes:
+  - None
+  - Intelligence
+  - Personality
+  - None

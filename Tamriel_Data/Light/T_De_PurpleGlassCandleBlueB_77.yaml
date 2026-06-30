@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_De_PurpleGlassCandleBlueB_77
+name: Fine Glass Candlestick
+script: ''
+mesh: tr\l\tr_l_purpg_candleblueB.nif
+icon: tr\l\tr_l_purpg_candleblue.dds
+sound: ''
+data:
+  weight: 1.45
+  value: 15
+  time: 120
+  radius: 77
+  color:
+  - 0
+  - 140
+  - 255
+  - 0
+  flags: DYNAMIC | CAN_CARRY | FIRE | FLICKER_SLOW

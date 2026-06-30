@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2_bk_AK_Prison_Log
+name: Akamora Prison Log
+script: ''
+mesh: m\Text_Octavo_03.NIF
+icon: m\Tx_octavo_03.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR> \r\nPrisoners currently being held in the cells of Akamora's guard tower: <BR>\r\n<BR>\r\nIrenoore, Altmer female, accused of committing acts of blasphemy. She is to be held in Akamora until her transfer into the custody of The Order of Inquisition. <BR>\r\n<BR>\r\nFarvam Ienith, Dunmer male, accused of egg poaching from Aravel-Senim Egg Mine.<BR>\r\n<BR> \r\n\r\n"
+data:
+  weight: 3.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 0

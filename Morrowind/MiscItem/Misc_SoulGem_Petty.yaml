@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: Misc_SoulGem_Petty
+name: Petty Soul Gem
+script: ''
+mesh: m\Misc_soulgem_petty.NIF
+icon: m\Tx_soulgem_Petty.tga
+data:
+  weight: 0.2
+  value: 10
+  flags: ''

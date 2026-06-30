@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m3_Dwepuz_fit1
+name: ''
+script: TR_m3_dwepuzfit1
+mesh: f\furn_dwrv_fitting00.nif

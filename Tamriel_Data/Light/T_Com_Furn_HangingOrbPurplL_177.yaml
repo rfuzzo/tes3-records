@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_Com_Furn_HangingOrbPurplL_177
+name: ''
+script: ''
+mesh: tr\l\tr_l_hanging_orb_purpL.nif
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 177
+  color:
+  - 177
+  - 83
+  - 255
+  - 0
+  flags: DYNAMIC | PULSE_SLOW

@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: lava_light_4096
+name: ''
+script: ''
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 4096
+  color:
+  - 171
+  - 50
+  - 20
+  - 0
+  flags: FLICKER_SLOW

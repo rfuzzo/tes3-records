@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_i3-787_urn_04_velk_n
+name: Urn
+script: ''
+mesh: o\Contain_urn_04.NIF
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - 5
+  - TR_i3-787_rnd_velk_nectar

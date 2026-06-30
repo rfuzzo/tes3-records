@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: AB_sc_CrumpledPaper01
+name: Crumpled Page
+script: ''
+mesh: OAAB\m\paperCrumpled01.nif
+icon: OAAB\m\crumpledpaper01.tga
+enchanting: ''
+text: ''
+data:
+  weight: 0.0
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 100

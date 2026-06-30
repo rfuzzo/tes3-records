@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_CanahFeather
+name: Canah Feather
+script: ''
+mesh: hf\n\hf_ing_canah_feather.nif
+icon: hf\n\hf_ing_canah_feather.tga
+data:
+  weight: 0.1
+  value: 250
+  effects:
+  - Levitate
+  - FortifyAttribute
+  - DrainAttribute
+  - RestoreAttribute
+  skills:
+  - None
+  - Block
+  - Block
+  - Block
+  attributes:
+  - None
+  - Personality
+  - Intelligence
+  - Endurance

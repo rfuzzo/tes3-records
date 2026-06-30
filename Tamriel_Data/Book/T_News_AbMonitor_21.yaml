@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_AbMonitor_21
+name: EXOTIC DISEASE IN ANVIL
+script: T_ScNews_Bellman_Paper
+mesh: pc\m\pc_text_note_anv_news.nif
+icon: pc\m\pc_text_note_anv_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"PC\\pc_abmonitor.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nEXOTIC DISEASE OUTBREAK IN ANVIL<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nGoldstone has confirmed reports that five Anvil citizens have fallen ill with Bluepox, a poorly understood and very rare disease. These cases are the first recorded in Anvil in over a century and the most it has ever suffered at once.<BR><BR>\r\nWhile Bluepox is not one of Morrowind's infamously virulent blight diseases, as some feared when it first appeared in the city, Goldstone sources did not provide any alternative explanation for its sudden appearance, merely stating that an investigation into the disease's origin was underway.<BR><BR>\r\nAlthough little about the disease is known for sure, common symptoms of Bluepox are known to include muscle spasms, fatigue, and the development of blue pox spots across the body. Officials have requested that anyone with additional information about Bluepox or the outbreak itself come forward at once, lest the outbreak spread and infect more citizens.<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

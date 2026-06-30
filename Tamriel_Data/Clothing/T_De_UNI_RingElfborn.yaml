@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_De_UNI_RingElfborn
+name: Ring of Elfborn
+script: ''
+mesh: tr\c\tr_c_elfborn_ring_uni.nif
+icon: tr\c\tr_c_elfborn_ring_uni.dds
+enchanting: T_Const_RingElfborn
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 12000
+  enchantment: 0

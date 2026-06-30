@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: Sound_Daedric_Chant00
+name: ''
+script: Sound_Daedric_Chant
+mesh: EditorMarker.NIF

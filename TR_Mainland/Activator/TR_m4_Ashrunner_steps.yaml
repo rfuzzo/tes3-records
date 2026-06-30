@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_Ashrunner_steps
+name: ''
+script: TR_FM_Stage8Rubble_sc
+mesh: pc\x\pc_ex_platf_steps02.nif

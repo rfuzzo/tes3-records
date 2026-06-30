@@ -1,0 +1,21 @@
+type: Container
+flags: ''
+id: TR_cont_crate_i3-795
+name: Crate
+script: ''
+mesh: TR\o\tr_cont_crate_l_01.nif
+encumbrance: 400.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - random_common_de_fclothes_01
+- - 1
+  - random_common_de_mclothes_01
+- - 1
+  - random_de_pants
+- - 1
+  - random_de_robe
+- - 1
+  - random_de_shirt
+- - 1
+  - random_de_shoes_common

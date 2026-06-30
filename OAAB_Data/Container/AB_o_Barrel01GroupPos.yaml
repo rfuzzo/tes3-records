@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: AB_o_Barrel01GroupPos
+name: Stack of Barrels
+script: ''
+mesh: OAAB\o\barrelShortGroup.nif
+encumbrance: 500.0
+container_flags: IS_BASE
+inventory:
+- - 10
+  - AB_lvl_PosCheapAll

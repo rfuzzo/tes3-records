@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: TR_m7_Narsis_JanusCuirass
+name: Janus Heartplate
+script: ''
+mesh: a\A_Ebony_Cuirass_GND.nif
+icon: a\Tx_Ebony_cuirass.tga
+enchanting: TR_m7_Narsis_JanusCuirass_en
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: a_ebony_cuirass
+  female_bodypart: ''
+data:
+  armor_type: Cuirass
+  weight: 60.0
+  value: 65000
+  health: 1800
+  enchantment: 400
+  armor_rating: 60

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_Ando_NevusaLetter
+name: Forged Letter
+script: ''
+mesh: m\Text_Parchment_02.nif
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nNevusa,<BR>\r\n<BR>\r\nThe wares we ordered have safely arrived in Menaan. Here's the gold we agreed upon. For your next shipment, we need:<BR>\r\n<BR>\r\n30 bluefoot mushrooms<BR>\r\n30 violet coprinus<BR>\r\n10 bottles of mazte<BR>\r\n10 bottles of shein<BR>\r\n10 bottles of sujamma<BR>\r\n<BR>\r\nBring the goods within a month, or face the consequences. We'll pay you 400 gold for it, same as last time.<BR>\r\n<BR>\r\nYours truly,<BR>\r\nR.V.<BR>\r\n<BR>"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2_q_26_litcritscroll
+name: Letter from Cyria Flavius
+script: ''
+mesh: m\Text_Scroll_02.NIF
+icon: m\Tx_scroll_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nTo whom it make concern,<BR>\r\n<BR>\r\nBy the request of Cyria Flavius, Governess of Helnim, upon receiving this letter, you will grant the shipment of miscellaneous goods to the courier %PCName. The courier will ensure the goods will be delivered both promptly and professionally to me, and will accept full responsibility of any damage of breakage to the book.<BR>\r\n<BR>\r\nIn the Emperor's Name,<BR>\r\n<BR>\r\nCyria Flavius, Governess of Helnim<BR>"
+data:
+  weight: 0.2
+  value: 5
+  book_type: Scroll
+  skill: None
+  enchantment: 0

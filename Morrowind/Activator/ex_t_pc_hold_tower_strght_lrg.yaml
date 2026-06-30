@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: ex_t_pc_hold_tower_strght_lrg
+name: ''
+script: Strong3
+mesh: x\Ex_T_tower_strght_lrg.nif

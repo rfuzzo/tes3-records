@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: T_CyrCom_Var_Cr2MscGC2
+name: Crate
+script: ''
+mesh: o\Contain_crate_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Cyr_Random_Bread
+- - 1
+  - T_Cyr_Random_DrinkColovian
+- - 4
+  - T_Cyr_Random_PosGC

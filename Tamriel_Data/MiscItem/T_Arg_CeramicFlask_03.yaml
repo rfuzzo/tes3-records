@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Arg_CeramicFlask_03
+name: Ceramic Flask
+script: ''
+mesh: bm\m\bm_cer_flsk_03.nif
+icon: bm\m\bm_misc_flsk_03.dds
+data:
+  weight: 1.5
+  value: 2
+  flags: ''

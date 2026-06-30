@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_Qy_BronzeCandleRed_64
+name: Bronze Candlestick
+script: ''
+mesh: pi\l\pi_l_cnq_b_candlered.nif
+icon: pi\l\pi_l_cnq_b_candlered.dds
+sound: ''
+data:
+  weight: 3.0
+  value: 13
+  time: 120
+  radius: 64
+  color:
+  - 245
+  - 140
+  - 40
+  - 0
+  flags: DYNAMIC | CAN_CARRY | FIRE | FLICKER_SLOW

@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: TR_RR_Monastery_Chest
+name: Ornate Small Chest
+script: ''
+mesh: TR\o\TR_cont_dae_amulet.nif
+encumbrance: 10.0
+container_flags: IS_BASE
+inventory:
+- - 89
+  - Gold_001
+- - 1
+  - T_Mw_Random_Gems
+- - 1
+  - amulet of shades

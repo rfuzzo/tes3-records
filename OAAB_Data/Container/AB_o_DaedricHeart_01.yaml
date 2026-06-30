@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: AB_o_DaedricHeart_01
+name: The Punished
+script: ''
+mesh: OAAB\o\dae_punished_01.nif
+encumbrance: 40.0
+container_flags: IS_BASE
+inventory: []

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_We_BonewareFork_01
+name: Boneware Fork
+script: ''
+mesh: VA\m\va_m_We_fork.nif
+icon: va\m\va_m_We_fork.dds
+data:
+  weight: 0.4
+  value: 1
+  flags: ''

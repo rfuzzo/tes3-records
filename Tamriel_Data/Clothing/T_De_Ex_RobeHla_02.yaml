@@ -1,0 +1,29 @@
+type: Clothing
+flags: ''
+id: T_De_Ex_RobeHla_02
+name: Exquisite Robe
+script: ''
+mesh: tr\c\tr_c_robe_hlaexq02_GND.nif
+icon: tr\c\tr_c_robe_hla_exq_02.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_C_DeExRobeHla02
+  female_bodypart: T_C_DeExRobeHla02F
+- biped_object_type: LeftWrist
+  male_bodypart: ''
+  female_bodypart: ''
+- biped_object_type: RightWrist
+  male_bodypart: ''
+  female_bodypart: ''
+- biped_object_type: LeftAnkle
+  male_bodypart: ''
+  female_bodypart: ''
+- biped_object_type: RightAnkle
+  male_bodypart: ''
+  female_bodypart: ''
+data:
+  clothing_type: Robe
+  weight: 3.0
+  value: 80
+  enchantment: 400

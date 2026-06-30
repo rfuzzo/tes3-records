@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Fx_WaterMist01
+name: ''
+script: Sound_Water_Spout
+mesh: OAAB\e\waterfall_mist_s_01.nif

@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_HrBre_FurnP_Cb1Cloths
+name: Cabinet
+script: ''
+mesh: hr\o\hr_furn_bre_p_cabnt1.nif
+encumbrance: 75.0
+container_flags: IS_BASE
+inventory:
+- - 6
+  - T_Hr_Random_MiscCloths

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: widowmaker_unique
+name: Widowmaker
+script: ''
+mesh: w\W_Nordic_BattleAxe.nif
+icon: w\Tx_WarAxe_Nordic.tga
+enchanting: widowmaker_en
+data:
+  weight: 35.0
+  value: 2200
+  weapon_type: AxeTwoHand
+  health: 1400
+  speed: 1.0
+  reach: 1.0
+  enchantment: 75
+  chop_min: 1
+  chop_max: 35
+  slash_min: 1
+  slash_max: 35
+  thrust_min: 1
+  thrust_max: 5
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

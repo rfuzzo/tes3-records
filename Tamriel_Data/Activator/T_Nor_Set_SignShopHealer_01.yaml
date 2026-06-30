@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Nor_Set_SignShopHealer_01
+name: Healer
+script: T_ScObj_WeatherAnimSHOTN
+mesh: sky\f\sky_act_sign_heal_01.nif

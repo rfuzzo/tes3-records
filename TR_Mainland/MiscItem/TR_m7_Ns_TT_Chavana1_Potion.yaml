@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m7_Ns_TT_Chavana1_Potion
+name: Inise Llarvu's Remedy
+script: ''
+mesh: TR\m\TR_misc_potion_03.NIF
+icon: TR\m\TR_misc_potion_03.dds
+data:
+  weight: 1.5
+  value: 20
+  flags: ''

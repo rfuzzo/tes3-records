@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_SkyCom_Furn_BsSalt02
+name: Salt Basket
+script: ''
+mesh: sky\o\sky_furn_bsksalt02.nif
+encumbrance: 10.0
+container_flags: IS_BASE
+inventory:
+- - 5
+  - T_Sky_Random_Salt

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_M1_Q66_GHT_Ra2_Scroll
+name: Scroll of Weakness to Plague
+script: ''
+mesh: m\Text_Scroll_01.NIF
+icon: m\Tx_scroll_open_01.tga
+enchanting: TR_M1_Q66_Ra2_Ench_WCD
+text: <DIV ALIGN="center"><FONT COLOR="000000" SIZE="2" FACE="Daedric">WOE UPON YOU</FONT><BR>
+data:
+  weight: 0.2
+  value: 215
+  book_type: Scroll
+  skill: None
+  enchantment: 0

@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: in_dagoth_bridge00
+name: Rope Bridge
+script: ''
+mesh: i\in_dagoth_bridge00.NIF

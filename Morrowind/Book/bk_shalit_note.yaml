@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: bk_shalit_note
+name: Note to Giden
+script: ''
+mesh: m\Text_Note_02.nif
+icon: m\Tx_note_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nGiden,<BR>\r\n<BR>\r\nHere's a blade for the new man. Send him ahead and we'll set up his arrangements. Dinner is waiting, but not for you. Muvrulea is sick again so you've drawn sentry duty. Don't worry, you'll be getting a portion of his share. Stay alert, bounty hunters are seeking us, but I feel fairly secure up here.<BR>\r\n<BR>\r\nRels<BR>\r\n<BR>\r\n"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

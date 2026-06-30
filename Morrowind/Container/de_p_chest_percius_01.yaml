@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: de_p_chest_percius_01
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - glass_boots
+- - 1
+  - glass_greaves
+- - 1
+  - glass_cuirass
+- - 1
+  - glass_helm

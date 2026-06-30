@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_MARK_Ando_HH_player
+name: player
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: ''
+enchanting: ''
+text: Marker for moving player in TR_m4_Om_ReRe_Teleport2
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

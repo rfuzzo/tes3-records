@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m7_EEC_SaltcrateS
+name: Crate
+script: TR_m7_EEC_Ranch
+mesh: tr\o\tr_cont_crate_eec_02.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 5
+  - random_saltrice

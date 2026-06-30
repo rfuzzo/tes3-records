@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: Iron Long Spear
+name: Iron Spear
+script: ''
+mesh: w\w_spear_iron.nif
+icon: w\Tx_Spear01.tga
+enchanting: ''
+data:
+  weight: 14.0
+  value: 20
+  weapon_type: SpearTwoWide
+  health: 400
+  speed: 1.0
+  reach: 1.8
+  enchantment: 50
+  chop_min: 1
+  chop_max: 3
+  slash_min: 1
+  slash_max: 3
+  thrust_min: 5
+  thrust_max: 20
+  flags: ''

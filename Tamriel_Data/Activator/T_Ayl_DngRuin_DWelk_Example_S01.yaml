@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: T_Ayl_DngRuin_DWelk_Example_S01
+name: Loria Stone
+script: T_ScObj_DWelk_SHK
+mesh: pc\f\pc_act_ar_dwelkynd.nif

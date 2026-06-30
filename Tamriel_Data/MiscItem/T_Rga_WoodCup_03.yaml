@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Rga_WoodCup_03
+name: Wooden Cup
+script: ''
+mesh: hf\m\hf_misc_rga_WdCup_03.nif
+icon: hf\m\hf_misc_rga_WdCup_03.dds
+data:
+  weight: 0.5
+  value: 1
+  flags: ''

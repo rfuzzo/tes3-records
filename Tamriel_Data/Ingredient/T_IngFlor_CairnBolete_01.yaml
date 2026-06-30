@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_CairnBolete_01
+name: Cairn Bolete Cap
+script: ''
+mesh: pc\n\PC_Ing_CBolete.nif
+icon: pc\n\pc_tx_ingred_cbolete.dds
+data:
+  weight: 0.2
+  value: 2
+  effects:
+  - RestoreHealth
+  - DamageAttribute
+  - ResistParalysis
+  - ShockDamage
+  skills:
+  - None
+  - Block
+  - None
+  - None
+  attributes:
+  - None
+  - Intelligence
+  - None
+  - None

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: bk_auranefrernis3
+name: Aurane Frernis' Recipies
+script: ''
+mesh: m\Text_Scroll_01.NIF
+icon: m\Tx_scroll_open_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe Alchemical Recipes<BR>\r\nof Aurane Frernis<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nA simple potion to breathe water can be made from luminous russula, a shelf fungus found in the Bitter Coast, and hackle-lo leaves. Crush the mushrooms and leaves into a paste and add water slowly until the mixture is just barely liquid enough to drink.<BR>\r\n<BR>\r\nNote: Try and find something to mix with this to make it taste better.<BR>\r\n<BR>\r\nA simple levitate potion can be made from coda flowers and either Cliff Racer plumes or trama roots.<BR>\r\n<BR>\r\nNote: Do NOT mix plumes with trama root.<BR>\r\n<BR>\r\n"
+data:
+  weight: 0.2
+  value: 100
+  book_type: Scroll
+  skill: None
+  enchantment: 0

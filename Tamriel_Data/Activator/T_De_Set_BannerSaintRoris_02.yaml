@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_De_Set_BannerSaintRoris_02
+name: Saint Roris
+script: OutsideBanner
+mesh: TR\f\TR_act_banner_roris02.nif

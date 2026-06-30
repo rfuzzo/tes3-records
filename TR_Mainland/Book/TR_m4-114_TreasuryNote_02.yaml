@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4-114_TreasuryNote_02
+name: Guard Roster
+script: ''
+mesh: m\Text_Note_02.nif
+icon: m\Tx_note_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[The scrap of paper details the roster for guard duty in the council vaults over the current week.]\r\n<BR>\r\n"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

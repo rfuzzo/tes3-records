@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_IronToadHide
+name: Iron Hide
+script: ''
+mesh: sky\n\sky_ingred_IronTHide.nif
+icon: sky\n\sky_ingred_IronTHide.dds
+data:
+  weight: 1.0
+  value: 10
+  effects:
+  - Burden
+  - SwiftSwim
+  - WeaknessToFrost
+  - FortifyHealth
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

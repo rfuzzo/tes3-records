@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_MetalPieceGold_02
+name: Gold Ingot
+script: ''
+mesh: tr\m\tr_misc_bar_gold_02.nif
+icon: tr\m\tr_misc_gold_ingot_02.dds
+data:
+  weight: 20.0
+  value: 1000
+  flags: ''

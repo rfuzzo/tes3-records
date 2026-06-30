@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_ExclusionaryMandatesPC
+name: The Exclusionary Mandates
+script: ''
+mesh: pc\m\pc_bk_book_16.nif
+icon: pc\m\pc_bk_book_16.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe Exclusionary Mandates<BR>\r\n\r\n<DIV ALIGN=\"LEFT\"><BR>\r\nThe Exclusionary Mandates of Maruhkite Selection: All Are Equal<BR>\r\n<BR>\r\n1: That the Supreme Spirit Akatosh is of unitary essence, as proven by the monolinearity of Time.<BR>\r\n1: That Shezarr the missing sibling is Singularly Misplaced and therefore Doubly Venerated.<BR>\r\n1: That the protean substrate that informs all denial of (1) is the Aldmeri Taint.<BR>\r\n1: That the Prophet Most Simian demonstrated that monothought begets Proper-Life.<BR>\r\n1: That the purpose of Proper-Life is the Expungement of the Taint.<BR>\r\n1: That the Arc of Time provides the mortal theater for the Sacred Expungement.<BR>\r\n1: That Akatosh is Time is Proper-Life is Taint-Death.<BR><BR>"
+data:
+  weight: 2.0
+  value: 80
+  book_type: Book
+  skill: None
+  enchantment: 0

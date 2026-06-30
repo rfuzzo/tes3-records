@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Ayl_CoinGold_01
+name: Gold Ayleid Coin
+script: ''
+mesh: pc\m\pc_ayl_coin_gold.nif
+icon: pc\m\pc_tx_ayleid_coin_gold.dds
+data:
+  weight: 0.05
+  value: 20
+  flags: ''

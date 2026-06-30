@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: Misc_DE_pot_redware_03
+name: Redware Pot
+script: ''
+mesh: m\Misc_pot_redware_03.NIF
+icon: m\Tx_pot_redware_03.tga
+data:
+  weight: 1.0
+  value: 2
+  flags: ''

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Nor_WoodenPlate_03b
+name: Wooden Plate
+script: ''
+mesh: Sky\m\Sky_Misc_W_Plt_03_02.nif
+icon: Sky\m\Tx_Misc_W_Plt_03_02.dds
+data:
+  weight: 1.0
+  value: 5
+  flags: ''

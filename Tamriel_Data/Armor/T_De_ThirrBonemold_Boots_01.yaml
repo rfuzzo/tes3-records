@@ -1,0 +1,28 @@
+type: Armor
+flags: ''
+id: T_De_ThirrBonemold_Boots_01
+name: Iuvan-Thir Bonemold Boots
+script: ''
+mesh: tr\a\tr_a_Thirr_B_gnd.nif
+icon: tr\a\tr_a_thirr_b.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: LeftFoot
+  male_bodypart: T_A_DeThirrBonemoldBoots01_F
+  female_bodypart: ''
+- biped_object_type: LeftAnkle
+  male_bodypart: T_A_DeThirrBonemoldBoots01_A
+  female_bodypart: ''
+- biped_object_type: RightFoot
+  male_bodypart: T_A_DeThirrBonemoldBoots01_F
+  female_bodypart: ''
+- biped_object_type: RightAnkle
+  male_bodypart: T_A_DeThirrBonemoldBoots01_A
+  female_bodypart: ''
+data:
+  armor_type: Boots
+  weight: 16.0
+  value: 100
+  health: 150
+  enchantment: 70
+  armor_rating: 15

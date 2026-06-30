@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Com_Adamant_Dagger_01
+name: Adamantium Dagger
+script: ''
+mesh: TR\w\TR_w_adamant_dagger.NIF
+icon: TR\w\TR_w_adamant_dagger.dds
+enchanting: ''
+data:
+  weight: 9.0
+  value: 1000
+  weapon_type: ShortBladeOneHand
+  health: 850
+  speed: 2.5
+  reach: 1.0
+  enchantment: 45
+  chop_min: 6
+  chop_max: 10
+  slash_min: 6
+  slash_max: 10
+  thrust_min: 1
+  thrust_max: 13
+  flags: ''

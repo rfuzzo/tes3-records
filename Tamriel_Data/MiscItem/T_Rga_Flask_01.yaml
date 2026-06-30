@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Rga_Flask_01
+name: Flask
+script: ''
+mesh: pc\m\pc_misc_rga_flask_01.nif
+icon: pc\m\pc_rga_flask_01.dds
+data:
+  weight: 3.0
+  value: 24
+  flags: ''

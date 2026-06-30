@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_SfishHead
+name: Slaughterfish Head
+script: ''
+mesh: OAAB\m\sfishDeadLayHead.nif
+icon: OAAB\m\sfishHead.tga
+data:
+  weight: 5.0
+  value: 1
+  flags: ''

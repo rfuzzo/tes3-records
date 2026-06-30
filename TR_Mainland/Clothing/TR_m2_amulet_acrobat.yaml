@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m2_amulet_acrobat
+name: Amulet of Acrobatics
+script: ''
+mesh: c\Amulet_Exquisit_1.NIF
+icon: c\tx_amulet_exquisite1.tga
+enchanting: TR_m2_en_amulet_of_acrobat
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 760
+  enchantment: 0

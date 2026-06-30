@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngMine_Topaz_01
+name: Topaz
+script: ''
+mesh: TR\n\TR_Ing_topaz_mm.NIF
+icon: TR\n\TR_Ing_topaz_mm.dds
+data:
+  weight: 0.1
+  value: 150
+  effects:
+  - DrainAttribute
+  - FortifyAttribute
+  - RestoreHealth
+  - FireShield
+  skills:
+  - Block
+  - Block
+  - None
+  - None
+  attributes:
+  - Strength
+  - Intelligence
+  - None
+  - None

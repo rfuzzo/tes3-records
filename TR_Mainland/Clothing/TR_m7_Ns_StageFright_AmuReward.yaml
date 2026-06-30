@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m7_Ns_StageFright_AmuReward
+name: Token of the Theater
+script: ''
+mesh: c\Amulet_Expensive_1.NIF
+icon: c\tx_amulet_expens1.tga
+enchanting: TR_m7_Ns_StageFright_Amu_en
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 800
+  enchantment: 150

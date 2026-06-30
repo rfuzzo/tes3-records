@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_De_SetRed_AffPillar_01
+name: House Redoran
+script: ''
+mesh: tr\f\TR_House_AffPillar_01.nif

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Glb_Sound_Chain_Mechanism
+name: 'Sound Effect: Chain Mechanism'
+script: T_ScSound_ChainMechanism
+mesh: EditorMarker.NIF

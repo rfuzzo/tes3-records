@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_QyK_Ep_Amulet_01
+name: Expensive Amulet
+script: ''
+mesh: pi\m\pi_c_qk_amulet_01.nif
+icon: pi\c\pi_c_qk_amulet_01.dds
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 30
+  enchantment: 150

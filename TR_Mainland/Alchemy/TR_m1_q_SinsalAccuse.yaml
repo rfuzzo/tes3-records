@@ -1,0 +1,20 @@
+type: Alchemy
+flags: ''
+id: TR_m1_q_SinsalAccuse
+name: Deadly Poison
+script: ''
+mesh: m\Misc_Potion_Quality_01.nif
+icon: m\Tx_potion_quality_01.tga
+effects:
+- magic_effect: DrainHealth
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 20
+  min_magnitude: 15
+  max_magnitude: 15
+data:
+  weight: 1.0
+  value: 80
+  flags: ''

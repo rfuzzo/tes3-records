@@ -1,0 +1,44 @@
+type: Alchemy
+flags: ''
+id: T_Imp_Subst_Incarnadine_01
+name: Incarnadine
+script: ''
+mesh: PC\m\pc_incarnadine.nif
+icon: pc\m\pc_incarnadine.dds
+effects:
+- magic_effect: FortifyHealth
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 5
+  duration: 60
+  min_magnitude: 20
+  max_magnitude: 20
+- magic_effect: FortifyFatigue
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 200
+  max_magnitude: 200
+- magic_effect: FortifyAttackBonus
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 100
+  max_magnitude: 100
+- magic_effect: DrainAttribute
+  skill: None
+  attribute: Agility
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 100
+  max_magnitude: 100
+data:
+  weight: 0.75
+  value: 300
+  flags: ''

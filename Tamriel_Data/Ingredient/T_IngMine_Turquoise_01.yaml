@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngMine_Turquoise_01
+name: Turquoise
+script: ''
+mesh: TR\n\TR_Ing_turquoise_mm.NIF
+icon: TR\n\TR_Ing_turquoise_mm.dds
+data:
+  weight: 0.2
+  value: 100
+  effects:
+  - DrainAttribute
+  - WaterWalking
+  - DamageAttribute
+  - Sanctuary
+  skills:
+  - Block
+  - None
+  - Block
+  - None
+  attributes:
+  - Willpower
+  - None
+  - Endurance
+  - None

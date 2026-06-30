@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_NordicSilverSpear
+name: Nordic Silver Spear
+script: ''
+mesh: OAAB\w\w_nord_spear.nif
+icon: OAAB\w\nord_spear.dds
+enchanting: ''
+data:
+  weight: 18.0
+  value: 1000
+  weapon_type: SpearTwoWide
+  health: 750
+  speed: 1.0
+  reach: 1.8
+  enchantment: 80
+  chop_min: 2
+  chop_max: 7
+  slash_min: 2
+  slash_max: 7
+  thrust_min: 4
+  thrust_max: 29
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE | SILVER

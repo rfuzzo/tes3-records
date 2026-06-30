@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Com_UNI_Chimere_Staff
+name: Chimere's Staff
+script: T_ScObj_StaffFlame
+mesh: pc\w\pc_w_chimere_staff.nif
+icon: pc\w\pc_w_chimere_staff.dds
+enchanting: T_Strike_Chimeres_Staff
+data:
+  weight: 10.0
+  value: 31000
+  weapon_type: BluntTwoWide
+  health: 2750
+  speed: 1.75
+  reach: 1.8
+  enchantment: 210
+  chop_min: 5
+  chop_max: 15
+  slash_min: 1
+  slash_max: 15
+  thrust_min: 5
+  thrust_max: 10
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

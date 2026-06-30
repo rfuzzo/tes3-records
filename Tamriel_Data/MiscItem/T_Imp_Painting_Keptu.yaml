@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_Painting_Keptu
+name: Landscape of a Keptu Fortress
+script: ''
+mesh: pc\m\PC_M_Painting_Keptu.nif
+icon: pc\m\PC_M_Painting_Keptu.dds
+data:
+  weight: 9.0
+  value: 300
+  flags: ''

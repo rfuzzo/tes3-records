@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Dae_UNI_Skull_Corruption
+name: Skull of Corruption
+script: ''
+mesh: tr\c\tr_c_skull_corr_uni.nif
+icon: tr\c\tr_c_skull_corr_uni.dds
+enchanting: T_Use_SkullOfCorruption
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 3.5
+  value: 7500
+  enchantment: 100

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_DeGreenPlatter
+name: Green Platter
+script: ''
+mesh: OAAB\m\greenPlatter.nif
+icon: OAAB\m\greenPlatter.tga
+data:
+  weight: 3.0
+  value: 10
+  flags: ''

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_DeRedwarePlatter
+name: Redware Platter
+script: ''
+mesh: OAAB\m\redware_de_platter.nif
+icon: OAAB\m\redware_de_platter.tga
+data:
+  weight: 4.0
+  value: 6
+  flags: ''

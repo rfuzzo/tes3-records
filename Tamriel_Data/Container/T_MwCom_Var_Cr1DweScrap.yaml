@@ -1,0 +1,25 @@
+type: Container
+flags: ''
+id: T_MwCom_Var_Cr1DweScrap
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Dwe_Scrap_Bracer_L
+- - 1
+  - T_Dwe_Scrap_Bracer_R
+- - 1
+  - T_Dwe_Scrap_Pauldron_L
+- - 1
+  - T_Dwe_Scrap_Pauldron_R
+- - 1
+  - T_Dwe_Scrap_boots
+- - 1
+  - T_Dwe_Scrap_cuirass
+- - 1
+  - T_Dwe_Scrap_greaves
+- - 1
+  - T_Dwe_Scrap_helmet

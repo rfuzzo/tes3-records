@@ -1,0 +1,34 @@
+type: Book
+flags: ''
+id: T_Bk_OrdolanesBestiaryTR_V09
+name: Ordolane's Bestiary, vol. 9
+script: ''
+mesh: TR\m\TR_book_closed_i03_AY.nif
+icon: TR\m\TR_book_closed_i03_AY.dds
+enchanting: ''
+text: |-
+  <DIV ALIGN="CENTER"><FONT COLOR="640F0F" SIZE="3" FACE="Magic Cards"><BR>Ordolane's Bestiary, vol. 9<BR>
+  <DIV ALIGN="LEFT"><FONT COLOR="000000" SIZE="3" FACE="Magic Cards"><BR> Being a complete listing of the Fauna of Tamriel, with truthful description, assembled from the reports of sundry Savants, Naturalists, Mystics &c from across the breadth of the Empire.
+  <BR>
+  <BR><FONT COLOR="821E00" SIZE="3" FACE="Magic Cards">The Dwimmerwort
+  <BR><FONT COLOR="000000" SIZE="3" FACE="Magic Cards">
+  Though often mistaken for a plant, the dwimmerwort belongs to the kingdom of beasts and is a long estranged cousin of the Wood Elves of southern Tamriel. It is an inconspicuous creature that is wont to carry various grasses and small herbs on its back. Individual specimens are sometimes known to have a preference for a particular species and will spread that plant wherever they pass. When trodden upon, they will confuse the unwary traveler and make them lose their way, even on familiar terrain.<BR>
+  <BR><FONT COLOR="821E00" SIZE="3" FACE="Magic Cards">The Carnelian or Imperial Sea-Snail
+  <BR><FONT COLOR="000000" SIZE="3" FACE="Magic Cards">
+  These massive snails can be encountered in the mangroves of the lower Niben delta, and are easily recognized by the great, horned shell they carry around on their back, which serves as their home. They are much prized among the Nibenese for the vibrant red dye they secrete, which is said to be an exact imitation of the Imperial ruby's color. As such, all official banners and heraldry of the Empire must be painted in sea-snail red, and many villages are dedicated to producing this dye. In the wild these snails rarely grow larger than a man, but in captivity they can grow to unlimited size, and it is not unusual to see their shells used as houses along the east banks of the Niben. Tradition dictates that, once every five years, the Emperor must sail down the Niben and exhibit the Amulet of Kings to the gathered sea-snails, in order to remind them of the color they are to produce.<BR>
+  <BR><FONT COLOR="821E00" SIZE="3" FACE="Magic Cards">The Bellfrog
+  <BR><FONT COLOR="000000" SIZE="3" FACE="Magic Cards">
+  Bulging-bellied uprooters of plants and small trees that manifest by their call announcing thunder. Their stomachs expand so widely that they eventually break their own backs. Bellfrogs are known to burst when exposed to the sun, or hit by rainwater, or when sitting on uneven surfaces, or when sprayed with ash and salt, or when looked upon by the infirm.<BR>
+  <BR><FONT COLOR="821E00" SIZE="3" FACE="Magic Cards">The Shalk
+  <BR><FONT COLOR="000000" SIZE="3" FACE="Magic Cards">
+  A fire-breathing beetle whose males inhabit the lava-covered Ashlands of Morrowind. Shalk females spend their whole lives submerged in the lava because they would freeze to death if they surfaced. Unlike most large insects of Morrowind, the shalk's chitin hide is not used as raw material for buildings, armor or weapons by the native Dunmer. This is because shalk residue tends to burst into flames spontaneously, sometimes years after the shalk's death.<BR>
+  <BR><FONT COLOR="821E00" SIZE="3" FACE="Magic Cards">The Spriggan
+  <BR><FONT COLOR="000000" SIZE="3" FACE="Magic Cards">
+  Also known as the Woodsman's Siren, a Spriggan looks like a slender tree from afar, a brazenly unclothed maid from mid-distance, and a mean-visaged wench with long, thorny claws growing at the end of each finger when faced at an arm's length - that is, if one dared to extend their arm to measure the distance. The Spriggan are grown and crafted by small, invisible earthen spirits who carve wooden tree trunks into Kynareth's likeness in their dimly lit underground gardens, and animate them to lure unwary woodcutters and hunters to their deaths with their wiles. Though there are fables of pure-hearted men earning a Spriggan's love and sharing a bed with them, such tales are always either entirely false or end with blood and splinters. It is also well known that for their tool-crafted mock-beauty the Spriggan have earned the jealous hatred of Dibella and her acolytes. Each time a Spriggan is set afire the goddess paints the flames with joyful colors.<BR>
+  <BR>IN DEDICATION TO THE EMPEROR URIEL SEPTIM VII <BR>
+data:
+  weight: 3.0
+  value: 60
+  book_type: Book
+  skill: None
+  enchantment: 0

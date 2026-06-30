@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Imp_UNI_Sybaris
+name: Sybaris
+script: ''
+mesh: pc\w\pc_w_sybaris.nif
+icon: pc\w\pc_w_sybaris.dds
+enchanting: T_Const_SybarisUni
+data:
+  weight: 20.0
+  value: 20000
+  weapon_type: LongBladeOneHand
+  health: 1250
+  speed: 1.5
+  reach: 1.0
+  enchantment: 550
+  chop_min: 2
+  chop_max: 23
+  slash_min: 1
+  slash_max: 31
+  thrust_min: 4
+  thrust_max: 28
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

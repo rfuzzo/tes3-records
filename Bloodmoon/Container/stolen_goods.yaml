@@ -1,0 +1,9 @@
+type: Container
+flags: PERSISTENT
+id: stolen_goods
+name: Chest marked "Evidence"
+script: ''
+mesh: o\Contain_Com_Chest_02.nif
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory: []

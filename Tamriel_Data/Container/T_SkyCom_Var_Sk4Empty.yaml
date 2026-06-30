@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: T_SkyCom_Var_Sk4Empty
+name: Sack
+script: ''
+mesh: Sky\o\Sky_Cont_Sack_01_04.nif
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory: []

@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Nor_GuardFalkr_BracerL_01
+name: Falkreath Guard Left Bracer
+script: ''
+mesh: sky\a\sky_a_falkr_brac_gnd.nif
+icon: sky\a\sky_falkr_bracer.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: LeftWrist
+  male_bodypart: T_A_NorGuardFalkrBracer01_W
+  female_bodypart: ''
+data:
+  armor_type: LeftBracer
+  weight: 3.5
+  value: 50
+  health: 65
+  enchantment: 160
+  armor_rating: 14

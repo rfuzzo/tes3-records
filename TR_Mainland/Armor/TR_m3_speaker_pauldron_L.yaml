@@ -1,0 +1,22 @@
+type: Armor
+flags: ''
+id: TR_m3_speaker_pauldron_L
+name: Left Pauldron of the Speaker
+script: ''
+mesh: TR\a\TR_A_Necrom_Pauldron.nif
+icon: TR\a\TR_a_Necrom_Pauldron.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: LeftUpperArm
+  male_bodypart: T_A_DeNecromPauldr01_UA
+  female_bodypart: ''
+- biped_object_type: LeftPauldron
+  male_bodypart: T_A_DeNecromPauldr01_Cl
+  female_bodypart: ''
+data:
+  armor_type: LeftPauldron
+  weight: 7.0
+  value: 1000
+  health: 300
+  enchantment: 30
+  armor_rating: 50

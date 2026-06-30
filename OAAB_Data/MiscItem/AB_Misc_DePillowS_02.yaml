@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_DePillowS_02
+name: Common Pillow
+script: ''
+mesh: OAAB\m\m_pillow_small_02.nif
+icon: OAAB\m\m_pillow_small_02.dds
+data:
+  weight: 0.5
+  value: 2
+  flags: ''

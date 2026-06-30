@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: ebony_shield
+name: Ebony Shield
+script: ''
+mesh: a\Shield_ebony.NIF
+icon: a\tx_shield_ebony.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: Shield
+  male_bodypart: shield_ebony
+  female_bodypart: ''
+data:
+  armor_type: Shield
+  weight: 30.0
+  value: 17000
+  health: 1200
+  enchantment: 1000
+  armor_rating: 60

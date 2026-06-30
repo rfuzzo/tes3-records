@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_Rigging_01
+name: Rigging Block
+script: ''
+mesh: pc\m\PC_misc_rigging.nif
+icon: pc\m\pc_tx_riggingblock.dds
+data:
+  weight: 3.0
+  value: 2
+  flags: ''

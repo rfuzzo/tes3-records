@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_LizardFootExtract_01
+name: Lizardfoot Extract
+script: ''
+mesh: Sky\n\sky_ingred_lizardf.nif
+icon: sky\n\tx_ingred_lizardfoot.dds
+data:
+  weight: 0.1
+  value: 8
+  effects:
+  - DrainHealth
+  - DamageFatigue
+  - RestoreAttribute
+  - WeaknessToFrost
+  skills:
+  - None
+  - None
+  - Block
+  - None
+  attributes:
+  - None
+  - None
+  - Luck
+  - None

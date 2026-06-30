@@ -1,0 +1,11 @@
+type: Container
+flags: PERSISTENT
+id: TR_m7_EEC_brandycrate
+name: Crate of Brandy
+script: TR_m7_EEC_Brandysmash
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 30
+  - potion_cyro_brandy_01

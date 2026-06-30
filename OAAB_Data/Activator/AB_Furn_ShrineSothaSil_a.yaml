@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Furn_ShrineSothaSil_a
+name: Shrine of Sotha Sil
+script: AB_ShrineSotha_s
+mesh: OAAB\u\shrine_sothasil_01.nif

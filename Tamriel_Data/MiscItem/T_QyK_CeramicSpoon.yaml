@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_QyK_CeramicSpoon
+name: Ceramic Spoon
+script: ''
+mesh: pi\m\pi_m_cnq_c_spoon.nif
+icon: pi\m\pi_m_cnq_c_spoon.dds
+data:
+  weight: 0.5
+  value: 4
+  flags: ''

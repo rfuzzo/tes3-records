@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_BkGen_Briricca Accounts01
+name: Briricca Accounts
+script: ''
+mesh: tr\m\tr_book_tomebk_04.nif
+icon: tr\m\tr_book_closed_tome04.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n[This book contains records of accounts and transactions of this branch of the Briricca Private Bank.]<BR>"
+data:
+  weight: 8.0
+  value: 80
+  book_type: Book
+  skill: None
+  enchantment: 0

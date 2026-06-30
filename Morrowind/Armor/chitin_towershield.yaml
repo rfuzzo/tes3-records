@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: chitin_towershield
+name: Chitin Tower Shield
+script: ''
+mesh: a\TowerShield_Chitin.NIF
+icon: a\Tx_Towershield_chitin.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: Shield
+  male_bodypart: towershield_chitin
+  female_bodypart: ''
+data:
+  armor_type: Shield
+  weight: 6.0
+  value: 32
+  health: 240
+  enchantment: 375
+  armor_rating: 12

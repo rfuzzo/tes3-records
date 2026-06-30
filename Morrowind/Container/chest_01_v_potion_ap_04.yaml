@@ -1,0 +1,95 @@
+type: Container
+flags: ''
+id: chest_01_v_potion_ap_04
+name: Wooden Chest
+script: ''
+mesh: o\contain_chest10.nif
+encumbrance: 175.0
+container_flags: IS_BASE
+inventory:
+- - -2
+  - p_disease_resistance_q
+- - -1
+  - p_disease_resistance_s
+- - -1
+  - p_dispel_s
+- - -2
+  - p_cure_poison_s
+- - -2
+  - p_cure_paralyzation_s
+- - -2
+  - p_cure_common_s
+- - -1
+  - p_restore_willpower_b
+- - -1
+  - p_restore_strength_b
+- - -1
+  - p_restore_magicka_b
+- - -1
+  - p_restore_speed_b
+- - -1
+  - p_restore_personality_b
+- - -1
+  - p_restore_luck_b
+- - -1
+  - p_restore_intelligence_b
+- - -2
+  - p_restore_health_b
+- - -2
+  - p_restore_fatigue_b
+- - -1
+  - p_restore_endurance_b
+- - -1
+  - p_restore_agility_b
+- - -1
+  - p_disease_resistance_b
+- - -1
+  - p_light_b
+- - -1
+  - p_fortify_health_b
+- - -1
+  - p_water_walking_s
+- - -1
+  - p_water_breathing_s
+- - -1
+  - p_swift_swim_c
+- - -1
+  - p_restore_magicka_c
+- - -2
+  - p_restore_health_c
+- - -2
+  - p_restore_fatigue_c
+- - -1
+  - p_shock_resistance_c
+- - -1
+  - p_poison_resistance_c
+- - -1
+  - p_magicka_resistance_c
+- - -1
+  - p_frost_resistance_c
+- - -1
+  - p_fire_resistance_c
+- - -1
+  - p_disease_resistance_c
+- - -1
+  - p_reflection_c
+- - -1
+  - p_night-eye_c
+- - -1
+  - p_lightning shield_c
+- - -1
+  - p_light_c
+- - -1
+  - p_frost_shield_c
+- - -1
+  - p_fortify_magicka_c
+- - -1
+  - p_fortify_health_c
+- - -1
+  - p_fortify_fatigue_c
+- - -1
+  - p_fire_shield_c
+- - -1
+  - p_disease_resistance_e
+- - -2
+  - p_cure_blight_s

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_LexImperia_05
+name: Lex Imperii V
+script: ''
+mesh: pc\m\PC_bk_Book_20.nif
+icon: pc\m\pc_bk_book_20.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nLEX IMPERII V<BR>\r\n<BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\n<BR>\r\n[...]<BR>\r\n<BR>\r\nV.IV Servitude or Manorial Services<BR>\r\n1. A servitude is a charge imposed upon an estate for the use and benefit of an estate belonging to another proprietor<BR>\r\n2. Servitude does not establish any pre-eminence of one estate over another<BR>\r\n3. Servitude is derived either from the natural situation of places, or from obligations imposed by Law, or from agreements between Citizen proprietors<BR>\r\n4. Inferior lands are subjected to receive the waters that flow naturally from superior lands, where the hand of man has not contributed to.<BR>\r\n5. A Citizen who possesses a spring or source of fresh water on their lands may make use of it at their pleasure, saving the right which the proprietor of a lower field may have acquired by title or by prescription<BR>\r\n6. Prescription may be acquired by uninterrupted enjoyment during the space of thirty years<BR>\r\n7. The Citizen proprietor cannot change the course of a spring or waterway when it supplies the inhabitants of a community, village, estate, city, outpost, or any other settlement for their necessary use<BR>\r\n8. A Citizen proprietor whose estate borders on a running water that is not declared a dependency of the Imperial domain, may employ it in any way he deems fit, as long as this does not befoul or unduly diminish the waterway<BR>\r\n9. A Citizen proprietor whose estate is crossed by a running water, may employ it in any way he deems fit, on condition that the ordinary course of the water is restored at the boundary of their estate<BR>\r\n10. Every Citizen proprietor may compel his neighbor to determine the common boundaries of their estates. Such determining must be at their common expense<BR>\r\n11. Every proprietor may enclose their estate<BR>\r\n12. Every proprietor who encloses their estate loses the rights to free pasturage and wilderness in proportion to the land he withdraws<BR>\r\n<BR>\r\n[...]<BR>\r\n<BR>"
+data:
+  weight: 4.0
+  value: 50
+  book_type: Book
+  skill: None
+  enchantment: 0

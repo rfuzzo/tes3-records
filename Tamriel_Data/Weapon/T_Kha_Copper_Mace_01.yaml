@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Kha_Copper_Mace_01
+name: Copper Mace
+script: ''
+mesh: els\w\els_w_copper_mace.nif
+icon: els\w\els_w_copper_mace.tga
+enchanting: ''
+data:
+  weight: 18.0
+  value: 360
+  weapon_type: BluntOneHand
+  health: 2300
+  speed: 1.5
+  reach: 1.0
+  enchantment: 65
+  chop_min: 5
+  chop_max: 17
+  slash_min: 5
+  slash_max: 17
+  thrust_min: 1
+  thrust_max: 2
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

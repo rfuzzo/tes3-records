@@ -1,0 +1,22 @@
+type: Armor
+flags: ''
+id: BM bear right pauldron
+name: Bear Right Pauldron
+script: ''
+mesh: a\A_Bear_Pauldron_GND.NIF
+icon: A\Tx_Bear_Pauldron.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: RightUpperArm
+  male_bodypart: A_bear_Pauldron_UA
+  female_bodypart: ''
+- biped_object_type: RightForearm
+  male_bodypart: A_Bear_Pauldron_FA
+  female_bodypart: ''
+data:
+  armor_type: RightPauldron
+  weight: 7.0
+  value: 60
+  health: 100
+  enchantment: 16
+  armor_rating: 15

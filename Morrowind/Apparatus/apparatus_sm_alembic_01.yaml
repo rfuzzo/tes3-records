@@ -1,0 +1,12 @@
+type: Apparatus
+flags: ''
+id: apparatus_sm_alembic_01
+name: SecretMaster's Alembic
+script: ''
+mesh: m\Apparatus_S_Alembic_01.nif
+icon: m\Tx_alembic_05.tga
+data:
+  apparatus_type: Alembic
+  quality: 2.0
+  weight: 3.0
+  value: 1600

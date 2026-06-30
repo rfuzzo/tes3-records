@@ -1,0 +1,28 @@
+type: Alchemy
+flags: ''
+id: T_Imp_Drink_WineSour
+name: Sour Wine
+script: ''
+mesh: pc\m\PC_misc_wine_09.nif
+icon: pc\m\PC_misc_wine_09.tga
+effects:
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Luck
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 15
+  max_magnitude: 15
+- magic_effect: DrainAttribute
+  skill: None
+  attribute: Agility
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 15
+  max_magnitude: 15
+data:
+  weight: 1.0
+  value: 10
+  flags: ''

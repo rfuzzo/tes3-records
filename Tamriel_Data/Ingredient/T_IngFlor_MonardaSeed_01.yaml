@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_MonardaSeed_01
+name: Monarda Seeds
+script: ''
+mesh: pc\n\PC_Ing_BergamotS.nif
+icon: pc\n\pc_tx_ingred_bergamots.dds
+data:
+  weight: 0.1
+  value: 1
+  effects:
+  - ResistCommonDisease
+  - Dispel
+  - DamageMagicka
+  - Silence
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

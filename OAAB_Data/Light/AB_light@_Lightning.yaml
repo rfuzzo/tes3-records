@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: AB_light@_Lightning
+name: ''
+script: AB_LightningLight_s
+mesh: editormarker.nif
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 8000
+  color:
+  - 139
+  - 139
+  - 139
+  - 0
+  flags: ''

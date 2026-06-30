@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_MothWingSky_02
+name: Buck Moth Wing
+script: ''
+mesh: sky\n\sky_ing_mothwing_02.nif
+icon: sky\n\sky_ing_mothwing_02.dds
+data:
+  weight: 0.1
+  value: 5
+  effects:
+  - Burden
+  - FortifyFatigue
+  - DrainAttribute
+  - CureParalyzation
+  skills:
+  - Block
+  - None
+  - Block
+  - None
+  attributes:
+  - Agility
+  - None
+  - Endurance
+  - None

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_Woadfl_01
+name: Woad Seeds
+script: ''
+mesh: sky\n\sky_Ingred_woadfl_01.nif
+icon: sky\n\tx_ingred_woadfl.dds
+data:
+  weight: 0.1
+  value: 3
+  effects:
+  - DamageFatigue
+  - DrainHealth
+  - FortifyAttribute
+  - ResistMagicka
+  skills:
+  - None
+  - None
+  - Block
+  - None
+  attributes:
+  - None
+  - None
+  - Strength
+  - None

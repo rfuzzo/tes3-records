@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: TR_i4-517_de_p_chest_02
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 48
+  - Gold_001
+- - 1
+  - T_EnSc_Com_ScorchingHand
+- - 1
+  - sc_nerusislockjaw
+- - 20
+  - steel throwing star

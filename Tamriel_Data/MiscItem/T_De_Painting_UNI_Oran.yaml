@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_Painting_UNI_Oran
+name: Atran Oran
+script: ''
+mesh: tr\m\TR_M_Painting_Oran.nif
+icon: tr\m\TR_M_Painting_Oran.dds
+data:
+  weight: 14.0
+  value: 1300
+  flags: ''

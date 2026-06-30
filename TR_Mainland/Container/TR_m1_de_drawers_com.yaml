@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: TR_m1_de_drawers_com
+name: Chest of Drawers
+script: ''
+mesh: o\Contain_De_Drawers_02.NIF
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - common_shirt_02_t
+- - 2
+  - common_shoes_02
+- - 1
+  - random_de_shoes_common
+- - 1
+  - random_drinks_01

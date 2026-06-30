@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_gold_kanet_01
+name: Gold Kanet
+script: ''
+mesh: n\Ingred_Gold_Kanet_01.nif
+icon: n\Tx_goldkanet_01.tga
+data:
+  weight: 0.1
+  value: 5
+  effects:
+  - DrainHealth
+  - Burden
+  - DrainAttribute
+  - RestoreAttribute
+  skills:
+  - Block
+  - Block
+  - Block
+  - Block
+  attributes:
+  - Strength
+  - Strength
+  - Luck
+  - Strength

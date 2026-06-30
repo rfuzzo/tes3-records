@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_Fascicle04PC
+name: Fascicle 17-20
+script: ''
+mesh: pc\m\PC_bk_Book_10.nif
+icon: pc\m\pc_bk_book_10.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe Testament of the Church-Mothers<BR>\r\nFascicle 17-20<BR>\r\nThe Roar of the Void<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\n17. Noisy and crowded did the Void of the Beginning become, and the gods drew idle breaths, and could not speak, for the world was arid, and for lack of air the Waters would have ceased, and for lack of air all would have fallen silent. The Beginning Place then was pierced and frayed in search of sustenance, and the Outer Void reached and seized the hearts of the gods.<BR>\r\n<BR>\r\n18. There from the roar of the Divine did spring forth Kynareth, returning the masculine breath, and she filled the world of the Beginning Place with her presence, carrying sound and water to and fro, and by her will there was air to wall the waters, and a sky to connect the world's forces. And the spirits of the air, the chorus, flew aloft and assumed their hierarchies.<BR>\r\n<BR>\r\n19. And Kynareth sprung from one end of the Void of the Beginning to the other, and where she touched the Waters they followed her in crashing waves, and where the touched the land of Mara it rose in sharpened peaks, and so she imbued in all the works of the Divines the sense of majesty.<BR>\r\n<BR>\r\n20. Yet Kynareth was ever restless and dissatisfied, as she quickly grew to know the walk of the Beginning Place from one end to the other, and desired ever more. Her restless mind turned to nightmares and madness, and nightmares and madness sprung from her eyes and fled to the far corners, giggling spirits by name of Vaer-Em and Shegg-Et, who are cursed by all right-minded folk.<BR>\r\n<BR>"
+data:
+  weight: 4.0
+  value: 300
+  book_type: Book
+  skill: Acrobatics
+  enchantment: 0

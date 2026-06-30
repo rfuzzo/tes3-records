@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_AndothDweRuinBanner02
+name: ''
+script: TR_m4_AndothDweBanners01_scp
+mesh: f\furn_com_tapestry_01.nif

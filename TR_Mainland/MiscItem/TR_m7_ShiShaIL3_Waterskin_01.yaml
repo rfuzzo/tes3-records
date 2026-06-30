@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m7_ShiShaIL3_Waterskin_01
+name: Legion Waterskin
+script: ''
+mesh: tr\m\tr_misc_de_waterskin.nif
+icon: tr\m\tr_misc_de_waterskin.dds
+data:
+  weight: 3.0
+  value: 10
+  flags: ''

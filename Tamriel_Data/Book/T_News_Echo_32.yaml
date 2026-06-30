@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Echo_32
+name: CYDNE JOUARGE LEAVES NARSIS
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_text_note_nar_news.nif
+icon: tr\m\tr_text_note_nar_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\tr_echo_512_256.dds\" WIDTH=\"348\" HEIGHT=\"168\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nFIREBRAND ABOLITIONIST LEAVES NARSIS<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nAll have breathed a sigh of relief across Narsis as infamous Breton slave abolitionist Cydne Jouarge has suddenly left Morrowind to return to High Rock. Jouarge had been harassing good, hard working slavers across the city and beyond, becoming one of the largest outlander voices of the uninformed, ill-willed \"cause\" in Morrowind and betraying the outlander's own armistice. Jouarge had even gone so far as to admit to the Canyon Echo that he had come to Morrowind in order to cause trouble, having somehow held correspondence with a slave here in Narsis.<BR><BR>\r\nToday, citizens can rest assured that the vile antics and treaty-breaking ravings of a madman shall cease, and that all just tradesmer are safe under Hlaalu stewardship. In fact, slave sales have only risen across southern Morrowind, Jouarge and his false \"movement\" having done more benefit than nought in the end.<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

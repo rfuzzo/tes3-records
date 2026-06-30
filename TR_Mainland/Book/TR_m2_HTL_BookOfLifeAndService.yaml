@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2_HTL_BookOfLifeAndService
+name: Book of Life and Service
+script: ''
+mesh: m\Text_Octavo_open_07.nif
+icon: m\Tx_book_open_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nTHE RANKS OF THE BLESSED<BR>\r\n<BR>\r\nBlessed are the Bonemen, for they serve without self in spirit forever. <BR>\r\nBlessed are the Mistmen, for they blend in the glory of the transcendent spirit. <BR>\r\nBlessed are the Wrathmen, for they render their rage unto the ages. <BR>\r\nBlessed are the Masters, for they bridge the past and span the future. <BR>\r\n<BR>\r\nTHE LITANY OF SERVICE<BR>\r\n<BR>\r\nThe Boneman's Oath<BR>\r\n<BR>\r\nWe die. <BR>\r\nWe pray. <BR>\r\nTo live. <BR>\r\nWe serve. <BR>\r\n<BR>\r\nThe Master's Voice<BR>\r\n<BR>\r\nYou swore. <BR>\r\nTo Serve. <BR>\r\nYour Lord. <BR>\r\n<BR>\r\n"
+data:
+  weight: 3.0
+  value: 40
+  book_type: Book
+  skill: None
+  enchantment: 0

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_SH11_Virdad_Quest
+name: Quest idea and Armigers
+script: ''
+mesh: tr\tr_note_pin.nif
+icon: default icon.dds
+enchanting: ''
+text: "The tower was recently occupied by 4 Armigers: Dunmer in glass gear. The Armigers are in the process of moving into the tower. They are in the process of restoring the tower after the battle and are sleeping on bedroll under the dome.\r\n\r\nOne of the Armigers should stay in the Dundeon room and watch over the captured Warlock.\r\n\r\nQuest idea:\r\nMisc or MG Quest\r\nName: Fiery Freedom\r\n\r\nRavaanos Gilvel, a prisoner in the dungeon and a master-level Destruction Mage, has asked the player to rescue him. To talk to Ravaanos, the player should either kill the Armigers or trick the guard Armiger into leaving the room. Then Ravaanos promises to give the key to his desk in the library with his research paper (which teaches a powerful Destruction spell) OR a unique ring with a powerful on area fire damage.\r\n\r\nEasy way: To give Ravaanos a Divine Intervention spell, he will give the player his key and leave, then escape the tower, kill the Armigers, or tell them that Ravaanos cast a unique Fiery Freedom spell and disappeared. The quest ends.\r\n\r\nLess easy way: All of the above, but use the research paper or ring to complete a quest from MG (or another guild). Reward is the same + gold"
+data:
+  weight: 0.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 0

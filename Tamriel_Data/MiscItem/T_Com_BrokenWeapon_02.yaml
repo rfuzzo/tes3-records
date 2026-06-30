@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_BrokenWeapon_02
+name: Broken Imperial Shortsword
+script: ''
+mesh: tr\w\tr_w_imp_ssword_brk.nif
+icon: tr\w\tr_w_imp_ssword_brk.dds
+data:
+  weight: 4.5
+  value: 1
+  flags: ''

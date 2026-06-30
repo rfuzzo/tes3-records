@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: TR_m1_C_Eyeball88_Helm
+name: Helm of the Creative
+script: ''
+mesh: tr\c\tr_c_hat_ex_telv_01gd.nif
+icon: tr\c\tr_c_hat_ex_telv_01.dds
+enchanting: TR_m1_C_Eyeball88_HelmEnch
+biped_objects:
+- biped_object_type: Hair
+  male_bodypart: T_C_DeExHatTelv01_Hr
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 2.0
+  value: 8000
+  health: 180
+  enchantment: 400
+  armor_rating: 10

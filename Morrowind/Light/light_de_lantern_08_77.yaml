@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: light_de_lantern_08_77
+name: ''
+script: ''
+mesh: l\Light_De_Lantern_08.NIF
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 77
+  color:
+  - 0
+  - 140
+  - 255
+  - 0
+  flags: DYNAMIC

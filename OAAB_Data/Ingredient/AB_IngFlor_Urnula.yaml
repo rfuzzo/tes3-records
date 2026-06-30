@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: AB_IngFlor_Urnula
+name: Veiled Urnula Cap
+script: ''
+mesh: OAAB\n\ing_urnula01.nif
+icon: OAAB\n\n_urnula01.dds
+data:
+  weight: 0.3
+  value: 3
+  effects:
+  - DamageHealth
+  - Chameleon
+  - Silence
+  - Feather
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

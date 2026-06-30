@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_Wickwheat_01
+name: Wheat Bundle
+script: ''
+mesh: M\misc_wickwheat00.nif
+icon: m\misc_wheatbundle00.dds
+data:
+  weight: 5.0
+  value: 10
+  flags: ''

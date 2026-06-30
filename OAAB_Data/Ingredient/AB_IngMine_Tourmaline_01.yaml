@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: AB_IngMine_Tourmaline_01
+name: Tourmaline
+script: ''
+mesh: OAAB\n\gem_tourmaline_01.nif
+icon: OAAB\n\gem_tourmaline_01.dds
+data:
+  weight: 0.2
+  value: 125
+  effects:
+  - DrainAttribute
+  - ResistFire
+  - RestoreAttribute
+  - DamageFatigue
+  skills:
+  - Block
+  - None
+  - Block
+  - None
+  attributes:
+  - Strength
+  - None
+  - Willpower
+  - None

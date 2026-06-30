@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: sc_savagetyranny
+name: Scroll of Savage Tyranny
+script: ''
+mesh: m\text_scroll_01.nif
+icon: m\tx_scroll_open_01.tga
+enchanting: sc_savagetyranny_en
+text: <DIV ALIGN="center"><FONT COLOR="000000" SIZE="2" FACE="Daedric">FROM THE EARTH TO THE AETHER...AND BACK.</FONT><BR>
+data:
+  weight: 0.2
+  value: 119
+  book_type: Scroll
+  skill: None
+  enchantment: 0

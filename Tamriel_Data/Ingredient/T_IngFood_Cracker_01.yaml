@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_Cracker_01
+name: Cracker
+script: ''
+mesh: pc\n\pc_ing_cracker.nif
+icon: pc\n\pc_ing_cracker.dds
+data:
+  weight: 0.1
+  value: 1
+  effects:
+  - RestoreFatigue
+  - None
+  - None
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_BoneSkelFootL.1
+name: Left Foot
+script: ''
+mesh: OAAB\m\skelFootL.1.nif
+icon: OAAB\m\skelFootL.tga
+data:
+  weight: 0.5
+  value: 1
+  flags: ''

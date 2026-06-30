@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_De_Set_BannerTownTelMothr_01
+name: Tel Mothrivra
+script: OutsideBanner
+mesh: TR\f\TR_banner_Tel_Mothriva.nif

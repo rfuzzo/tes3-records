@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_CephalopodShell_01
+name: Cephalopod Shell Fragment
+script: ''
+mesh: TR\n\TR_ing_ceph_shell.NIF
+icon: TR\n\TR_ing_ceph_shell.dds
+data:
+  weight: 2.0
+  value: 20
+  effects:
+  - Poison
+  - SwiftSwim
+  - WaterBreathing
+  - Shield
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

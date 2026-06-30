@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: helm_bearclaw_unique
+name: Helm of Oreyn Bearclaw
+script: ''
+mesh: a\A_art_helm_bearclaw.NIF
+icon: a\A_helm_bearclaw.tga
+enchanting: oreyn's courage
+biped_objects:
+- biped_object_type: Hair
+  male_bodypart: a_art_helm_bearclaw
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 10.0
+  value: 125000
+  health: 900
+  enchantment: 1200
+  armor_rating: 90

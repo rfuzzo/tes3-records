@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m3-758_w_bthung_impaler
+name: Bthung Impaler
+script: ''
+mesh: tr\w\w_crossbow_dwm_fix.nif
+icon: w\tx_crossbow_dwemer.tga
+enchanting: TR_m3-758_en_bthung_impaler
+data:
+  weight: 10.0
+  value: 1450
+  weapon_type: MarksmanCrossbow
+  health: 750
+  speed: 1.0
+  reach: 1.0
+  enchantment: 50
+  chop_min: 30
+  chop_max: 30
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE | SILVER

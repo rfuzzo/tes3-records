@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_w_UNI_Sorrow_01
+name: Sorrow
+script: ''
+mesh: TR\w\tr_w_ebony_wakizashi.nif
+icon: TR\w\TR_w_ebony_wakizashi.dds
+enchanting: TR_w_Hero_Sorrow_en
+data:
+  weight: 22.0
+  value: 36000
+  weapon_type: ShortBladeOneHand
+  health: 900
+  speed: 2.25
+  reach: 1.0
+  enchantment: 100
+  chop_min: 10
+  chop_max: 26
+  slash_min: 10
+  slash_max: 28
+  thrust_min: 7
+  thrust_max: 11
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

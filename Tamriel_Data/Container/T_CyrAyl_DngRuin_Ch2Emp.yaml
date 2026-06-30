@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: T_CyrAyl_DngRuin_Ch2Emp
+name: Ayleid Reliquary
+script: ''
+mesh: pc\o\pc_cont_ar_chest_02.nif
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory: []

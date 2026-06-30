@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_De_Set_BannerTownIldrim_01
+name: Ildrim
+script: ouch_wraithguard
+mesh: tr\f\tr_banner_ildrim.nif

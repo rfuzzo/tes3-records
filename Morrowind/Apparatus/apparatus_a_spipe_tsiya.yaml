@@ -1,0 +1,12 @@
+type: Apparatus
+flags: ''
+id: apparatus_a_spipe_tsiya
+name: Tsiya's Skooma Pipe
+script: ''
+mesh: m\Apparatus_A_Spipe_01.nif
+icon: m\Tx_Spipe_01.tga
+data:
+  apparatus_type: Alembic
+  quality: 0.15
+  weight: 2.0
+  value: 30

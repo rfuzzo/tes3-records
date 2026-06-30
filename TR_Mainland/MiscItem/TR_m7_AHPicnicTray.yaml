@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m7_AHPicnicTray
+name: Tray
+script: TR_m7_AffairsHeartPicnic_sc
+mesh: tr\m\tr_misc_wood_tray_a01.nif
+icon: TR\m\tr_misc_wood_tray_a01.dds
+data:
+  weight: 3.0
+  value: 5
+  flags: ''

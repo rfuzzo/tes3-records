@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Glb_TerrWater_CurveFlw_256_02
+name: ''
+script: T_ScSound_Water
+mesh: tr\x\tr_water_cvflow256s_dg.nif

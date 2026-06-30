@@ -1,0 +1,36 @@
+type: Alchemy
+flags: ''
+id: T_We_Drink_MeatJuiceRotmeth_01
+name: Rotmeth
+script: ''
+mesh: VA\m\va_m_We_rotmeth.nif
+icon: va\m\va_m_We_rotmeth.dds
+effects:
+- magic_effect: DrainAttribute
+  skill: None
+  attribute: Strength
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 20
+  max_magnitude: 20
+- magic_effect: DrainAttribute
+  skill: None
+  attribute: Speed
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 20
+  max_magnitude: 20
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Endurance
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 20
+  max_magnitude: 20
+data:
+  weight: 2.0
+  value: 12
+  flags: ''

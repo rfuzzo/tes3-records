@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_NarsisCQSewers_Note3
+name: Rolled Letter
+script: ''
+mesh: m\Text_paper_roll_01.nif
+icon: m\Tx_paper_roll_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nTaluri,<BR>\r\n<BR>\r\nSome of our friends at the border have ran into an issue. The passage is blocked. They assure me the outlanders will clear the path soon. I hope these two gifts soften the blow.<BR>\r\n<BR>\r\nV<BR>\r\n"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 100

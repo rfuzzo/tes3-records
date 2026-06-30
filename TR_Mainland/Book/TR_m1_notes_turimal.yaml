@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_notes_turimal
+name: Master Turimal's Notes
+script: ''
+mesh: tr\m\tr_book_notebk_01.nif
+icon: tr\m\tr_book_closed_ntbk01.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[These notes detail a connection between Oathrung and the ruins of Bthalag-Zturamz. It appears Master Turimal believed that Oathrung has resonant properties which may be the key to accessing the lower levels of the ruin.]\r\n<BR>"
+data:
+  weight: 0.5
+  value: 110
+  book_type: Book
+  skill: None
+  enchantment: 0

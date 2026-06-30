@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_barrel_m3-733_corkbu
+name: Wooden Barrel
+script: ''
+mesh: o\contain_barrel10.nif
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 15
+  - ingred_corkbulb_root_01

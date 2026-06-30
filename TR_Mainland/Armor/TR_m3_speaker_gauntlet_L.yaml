@@ -1,0 +1,22 @@
+type: Armor
+flags: ''
+id: TR_m3_speaker_gauntlet_L
+name: Left Hand of the Speaker
+script: ''
+mesh: TR\a\tr_a_nec_gaunt_gnd.nif
+icon: tr\a\tr_a_necrom_gaunt.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: LeftHand
+  male_bodypart: T_A_DeNecromGaunt01_Ha
+  female_bodypart: ''
+- biped_object_type: LeftWrist
+  male_bodypart: ''
+  female_bodypart: ''
+data:
+  armor_type: LeftGauntlet
+  weight: 4.5
+  value: 1000
+  health: 225
+  enchantment: 60
+  armor_rating: 50

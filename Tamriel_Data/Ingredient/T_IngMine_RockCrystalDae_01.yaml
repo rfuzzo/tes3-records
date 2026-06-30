@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngMine_RockCrystalDae_01
+name: Rock Crystal
+script: BILL_MarksDaedraSummon
+mesh: TR\n\TR_ing_rock_cryst_mm.nif
+icon: TR\n\TR_Ing_rock_crystal.dds
+data:
+  weight: 2.0
+  value: 50
+  effects:
+  - Burden
+  - CurePoison
+  - DrainAttribute
+  - RestoreMagicka
+  skills:
+  - None
+  - None
+  - Block
+  - None
+  attributes:
+  - None
+  - None
+  - Speed
+  - None

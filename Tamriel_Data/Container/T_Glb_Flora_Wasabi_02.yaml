@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Glb_Flora_Wasabi_02
+name: Wasabi
+script: ''
+mesh: pi\o\pi_f_wasabi_02.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - T_IngFood_WasabiRoot_01

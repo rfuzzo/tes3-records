@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_GoldGoblet_01
+name: Gold Goblet
+script: ''
+mesh: pc\m\pc_misc_gold_gobl_01.nif
+icon: pc\m\pc_misc_gold_gobl_01.dds
+data:
+  weight: 5.0
+  value: 240
+  flags: ''

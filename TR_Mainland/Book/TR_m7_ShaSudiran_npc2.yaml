@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_ShaSudiran_npc2
+name: Dunmer Outlaw Boss
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: ''
+enchanting: ''
+text: "Boss of the Dunmer outlaws hiding out in this cave, a little higher level than the others with loot to accommodate this.\r\nHigher level outlaw as the loot is pretty good for a bandit cave"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

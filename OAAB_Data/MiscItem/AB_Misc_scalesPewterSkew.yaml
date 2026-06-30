@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_scalesPewterSkew
+name: Pewter Scales
+script: ''
+mesh: OAAB\m\scalesPewterSkew.nif
+icon: OAAB\m\scalesPewterSkew.dds
+data:
+  weight: 3.0
+  value: 10
+  flags: ''

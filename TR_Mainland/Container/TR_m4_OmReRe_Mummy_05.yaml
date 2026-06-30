@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: TR_m4_OmReRe_Mummy_05
+name: Mummy
+script: ''
+mesh: i\In_CI_mummy_05.NIF
+encumbrance: 0.0
+container_flags: IS_BASE
+inventory: []

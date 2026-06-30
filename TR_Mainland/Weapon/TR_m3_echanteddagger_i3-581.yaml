@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m3_echanteddagger_i3-581
+name: Dire Silver Flamebiter
+script: ''
+mesh: TR\w\TR_W_silver_dagger_02.nif
+icon: W\tx_silver_dagger.dds
+enchanting: T_Strike_DireFlameArea
+data:
+  weight: 2.4
+  value: 140
+  weapon_type: ShortBladeOneHand
+  health: 400
+  speed: 2.5
+  reach: 1.0
+  enchantment: 16
+  chop_min: 4
+  chop_max: 5
+  slash_min: 4
+  slash_max: 5
+  thrust_min: 5
+  thrust_max: 5
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE | SILVER

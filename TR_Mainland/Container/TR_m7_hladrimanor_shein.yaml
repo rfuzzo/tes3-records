@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m7_hladrimanor_shein
+name: Shein Barrels
+script: ''
+mesh: tr\o\tr_cont_barrels_r_01.nif
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - 10
+  - TR_m7_HladriShein

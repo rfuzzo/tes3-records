@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_Painting_UNI_Ilvi
+name: Indoril Ilvi
+script: ''
+mesh: tr\m\TR_M_Painting_Ilvi.nif
+icon: tr\m\TR_M_Painting_Ilvi.dds
+data:
+  weight: 9.0
+  value: 1250
+  flags: ''

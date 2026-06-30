@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Com_SetSky_SignWayPargran_01
+name: Pargran
+script: ''
+mesh: sky\x\sky_act_rsign_parg1.nif

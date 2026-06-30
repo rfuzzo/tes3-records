@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Imp_Legion_Mace_01
+name: Imperial Mace
+script: ''
+mesh: tr\w\tr_w_imp_mace.nif
+icon: tr\w\tr_w_imp_mace.dds
+enchanting: ''
+data:
+  weight: 16.0
+  value: 40
+  weapon_type: BluntOneHand
+  health: 1500
+  speed: 1.3
+  reach: 1.0
+  enchantment: 55
+  chop_min: 3
+  chop_max: 12
+  slash_min: 3
+  slash_max: 12
+  thrust_min: 1
+  thrust_max: 2
+  flags: ''

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2_q_28_2_Geras_Mine_Orders
+name: Galdalior's Orders
+script: ''
+mesh: m\Text_Scroll_01.NIF
+icon: m\Tx_scroll_open_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nMiros,<BR>\r\n<BR>\r\nI heard of your success at curing the colony--good news, even if I had wished that the issue never had arisen. For the future, here is a book that should be of use. Superficially it is an entertaining read, if somewhat shallow. If you are intelligent enough to read between the lines, however--as you are, or at least you should be, it reveals a spell that cures common disease. It's not that we are running out of scrolls, but this is a faster and more effective way of dealing with these infections. That said, it's best to not have them happen in the first place. Watch out for your foragers when they come back from their sallies and better cure them preventively.<BR>\r\n<BR>\r\nGood luck,<BR>\r\nGaldalior<BR>"
+data:
+  weight: 1.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

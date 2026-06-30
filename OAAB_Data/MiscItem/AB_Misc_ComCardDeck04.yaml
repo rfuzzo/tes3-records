@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_ComCardDeck04
+name: Deck of Imperator Cards
+script: ''
+mesh: OAAB\m\com_card_deck_04.nif
+icon: OAAB\m\com_card_deck_04.dds
+data:
+  weight: 1.1
+  value: 20
+  flags: ''

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Bellman_08
+name: CORRUPTION ROCKS CALDERA MINE
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_note_oe_news.nif
+icon: tr\m\tr_note_oe_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\TR_bellman_512_256.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nCORRUPTION ROCKS CALDERA MINE<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nA scandal in the Caldera ebony mine has culminated in the arrest of town reeve Odral Helvi by order of Knight Protector Imsin the Dreamer of the Buckmoth Legion. The disgraced official was caught skimming ebony from the Vvardenfell mine, a grave offense as the precious resource is the sole domain of the Emperor. Investigation then revealed further acts of property fraud and racketeering. With the corruption in Caldera eliminated, the Empire can await even greater returns from the lucrative Caldera mining venture.<br><br>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nBELLMAN INVESTMENT TIPS<BR>\r\nBY MASTER TRADER JOLUS HERDANE<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nNow, readers, you've grown to trust me through the dozens of high-quality tips I've given you in past years. But let's stop futzing around, we all know where the real wealth and power is: real estate! That's right, Mir Corrup, situated among the tranquil forests of eastern Cyrodiil, is filled to the brim with beautiful mansions available at scandalously low prices. Sure the place is in a bit of a slump, but business sense tells me it's going to turn a corner any day now, and that's YOUR opportunity! In fact, I've set up the Morrowind Mir Corrup Mutual Fund so you could invest from the comfort of your local bank branch without even needing to visit the city!<br><br>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

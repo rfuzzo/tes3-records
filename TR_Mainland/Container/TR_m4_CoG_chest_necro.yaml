@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: TR_m4_CoG_chest_necro
+name: Small Chest
+script: ''
+mesh: o\Contain_chest_small_02.NIF
+encumbrance: 25.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - Misc_SoulGem_Common
+- - 1
+  - misc_skull10
+- - 1
+  - p_restore_magicka_q

@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_GlbDreu_Furn_SaKha1
+name: Food Sac
+script: ''
+mesh: tr\o\tr_furn_dreu_sac_05.nif
+encumbrance: 100.0
+container_flags: ORGANIC | IS_BASE
+inventory:
+- - 1
+  - random_bonemeal

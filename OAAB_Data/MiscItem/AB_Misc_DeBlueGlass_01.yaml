@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_DeBlueGlass_01
+name: Blue Glass
+script: ''
+mesh: OAAB\m\misc_blue_glass.nif
+icon: OAAB\m\misc_blue_glass.dds
+data:
+  weight: 2.0
+  value: 1
+  flags: ''

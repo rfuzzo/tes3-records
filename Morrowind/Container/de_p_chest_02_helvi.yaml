@@ -1,0 +1,23 @@
+type: Container
+flags: ''
+id: de_p_chest_02_helvi
+name: Chest
+script: ''
+mesh: o\contain_de_chest_02.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - netch_leather_gauntlet_right
+- - 1
+  - netch_leather_gauntlet_left
+- - 1
+  - netch_leather_pauldron_right
+- - 1
+  - netch_leather_pauldron_left
+- - 1
+  - dwemer_cuirass
+- - 1
+  - netch_leather_helm
+- - 1
+  - random_dwemer_weapon

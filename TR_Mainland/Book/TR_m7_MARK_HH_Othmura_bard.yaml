@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_MARK_HH_Othmura_bard
+name: Cornerclub Bard from Othmura
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: pi\m\pi_m_cnq_ngopta.dds
+enchanting: ''
+text: "When you force the bard at the High Wall Cornerclub to leave Othmura during the HH questline he will end up here.\r\nNPC ID: TR_m7_Talms Beleth\r\nPositionCell in dialogue result in topic \"troublesome bard\" for TR_m7_Idros Rothrano"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

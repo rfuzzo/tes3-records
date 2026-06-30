@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: crate_02_moonsugar
+name: Crate
+script: ''
+mesh: o\Contain_crate_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 6
+  - ingred_moon_sugar_01

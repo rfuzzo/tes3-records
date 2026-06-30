@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m3_salt1_i3-610-ind
+name: Redware Pot
+script: ''
+mesh: m\Misc_pot_redware_01.nif
+encumbrance: 5.0
+container_flags: IS_BASE
+inventory:
+- - 6
+  - ingred_fire_salts_01

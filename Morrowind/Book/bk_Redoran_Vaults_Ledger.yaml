@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: bk_Redoran_Vaults_Ledger
+name: Redoran Vaults Ledger
+script: ''
+mesh: m\Text_Octavo_open_03.nif
+icon: m\Tx_octavo_open_03.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nRedoran Vaults Ledger<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\n[This book contains meticulous records of all commerce and transactions of the Redoran Vaults as well as an up-to-date account of the current reserves.]<BR>\r\n<BR>\r\n"
+data:
+  weight: 2.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 20

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_NVA7_doorjamb
+name: ''
+script: TR_m7_NVA_Stage7
+mesh: i\In_Hlaalu_Doorjamb.nif

@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Nor_Ep_Ring_02_ShockBarrier
+name: Ring of Thunder-Shield
+script: ''
+mesh: sky\c\sky_ring_nordxp_02.nif
+icon: sky\c\tx_ring_nordxp_02.dds
+enchanting: shock barrier_en
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 82
+  enchantment: 150

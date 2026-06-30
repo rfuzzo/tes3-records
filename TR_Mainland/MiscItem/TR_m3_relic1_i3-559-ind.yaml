@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m3_relic1_i3-559-ind
+name: Plume of Saint Llothis
+script: ''
+mesh: m\Misc_Quill.NIF
+icon: m\Misc_Quill.tga
+data:
+  weight: 0.01
+  value: 250
+  flags: ''

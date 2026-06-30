@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Com_Steel_Shortbow_Exposure
+name: Short Bow of Exposure
+script: ''
+mesh: w\W_shortbow_steel.NIF
+icon: w\tx_shortbow_steel.tga
+enchanting: T_Use_Exposure
+data:
+  weight: 4.0
+  value: 430
+  weapon_type: MarksmanBow
+  health: 500
+  speed: 1.0
+  reach: 1.0
+  enchantment: 20
+  chop_min: 1
+  chop_max: 15
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

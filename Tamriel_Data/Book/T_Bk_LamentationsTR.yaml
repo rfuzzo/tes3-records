@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_LamentationsTR
+name: The Book of Lamentations
+script: ''
+mesh: m\Text_Octavo_08.nif
+icon: m\Tx_book_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe Book of Lamentations<BR>\r\n<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nOne small bird has called thee<BR>\r\nFrom a beak streaked crimson.<BR>\r\nIt cried once over Nerevar<BR>\r\nand thou went forth into Oblivion.<BR><BR>\r\n-The Lament for Nerevar<BR><BR><BR>\r\n\"This rocky shrine to the skull of a ruler grants no prayers. It has become the dusty grave of lamentations. Only the wind hears the voice of this place. The cries of night creatures and the passing wonder of two moons, all say his day has ended. This lonely reliquary is the final testament to his expired glory. No more supplicants come. The visitors have gone from the feast, the meadhall flame has been extinguished. How bare the pathway down this mountain.\"<BR><BR>\r\n-Inscription at a Tongue's grave<BR><BR><BR>\r\n\"Nature's beauteous form<BR>\r\nContains a lovely essence<BR>\r\nCalled by some- decay.<BR>\r\nBy this lovely presence<BR>\r\nNew life finds its way.<BR>\r\nTears shed silently<BR>\r\nAre but water of the soul:<BR>\r\nThey bring new life<BR>\r\nTo the pain of being<BR>\r\nA separation from that seeing<BR>\r\nWhich makes death whole.\"<BR><BR>\r\n-An old Redguard proverb<BR><BR><BR>\r\n\"He bore us to this place<BR>\r\nGuided by prophecy.<BR>\r\nEyes shown, ferocity<BR>\r\nGuided by their grace.<BR><BR>\r\nOver mountain-peak<BR>\r\nAnd shifting valley<BR>\r\nTo this land we seek<BR>\r\nOf ashen sky and rolling sea.<BR>\r\nOur hearth,<BR>\r\nOur home.<BR><BR>\r\nA darkening sin<BR>\r\nSlips us from his path<BR>\r\nAnd we fall away,<BR>\r\nour skin no more.<BR><BR>\r\nWe are<BR>\r\nnot his pride<BR>\r\nWe are<BR>\r\nHis shame.\"<BR><BR>\r\n-Lament for the failure to Veloth, unknown author<BR><BR><BR>\r\n\" . . . Will the Nerevarine ever come to our people? We, who have suffered injustice after injustice at the hands of the False Gods and their corrupted servants? They are naught by n'wah, they are nothing even to guar filth, but they commit heinous crimes against Veloth's true people and go unpunished! Has Azura abandoned her people, left them to the vicious teeth of the profane man-god? It seems we are a people forsaken even by their own gods . . .\"<BR><BR>\r\n-The voice of an Ashlander, after the failure of Peakstar<BR><BR><BR>\r\nThe fourth child was small,<BR>\r\ntoo small,<BR>\r\nand her litter-mates knew<BR>\r\ninstinctively,<BR>\r\nas all Khajiit children<BR>\r\nknow;<BR>\r\nshe would die,<BR>\r\nsoon,<BR>\r\nlasting no longer this<BR>\r\nrefrain.<BR><BR>\r\nI left her alone,<BR>\r\ntoo small,<BR>\r\nI left her as her<BR>\r\nchild-dream.<BR>\r\nPalatial little-one,<BR>\r\ngo<BR>\r\nnow into the<BR>\r\nquietus.<BR><BR>\r\n-Khajiit mother to her daughter<BR><BR><BR>"
+data:
+  weight: 2.0
+  value: 20
+  book_type: Book
+  skill: None
+  enchantment: 0

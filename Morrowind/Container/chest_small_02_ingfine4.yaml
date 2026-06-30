@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: chest_small_02_ingfine4
+name: Small Chest
+script: ''
+mesh: o\Contain_chest_small_02.NIF
+encumbrance: 25.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - ingred_scamp_skin_01
+- - 1
+  - ingred_scathecraw_01
+- - 1
+  - ingred_scrib_jerky_01

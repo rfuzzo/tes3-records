@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_Set_WayshrineKynareth_01
+name: Wayshrine of Kynareth
+script: T_ScObj_ShrineWayKynarethPC
+mesh: pc\x\PC_Act_WShrn.nif

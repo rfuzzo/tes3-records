@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Com_UNI_Spider_Impaler
+name: Spider Impaler
+script: ''
+mesh: hr\w\hr_w_spider_impaler.nif
+icon: hr\w\hr_w_spider_impaler.dds
+enchanting: T_Strike_Spider_Impaler
+data:
+  weight: 12.5
+  value: 5300
+  weapon_type: LongBladeOneHand
+  health: 400
+  speed: 1.5
+  reach: 1.0
+  enchantment: 50
+  chop_min: 5
+  chop_max: 11
+  slash_min: 5
+  slash_max: 11
+  thrust_min: 30
+  thrust_max: 30
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

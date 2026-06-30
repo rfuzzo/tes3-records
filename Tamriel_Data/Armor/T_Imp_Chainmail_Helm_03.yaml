@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Imp_Chainmail_Helm_03
+name: Morinth Chain Coif
+script: ''
+mesh: pc\a\pc_a_chain_brum_h_g.nif
+icon: pc\a\pc_a_chain_brum_h.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Hair
+  male_bodypart: T_A_ImpChainHelm03_Hr
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 3.5
+  value: 35
+  health: 100
+  enchantment: 175
+  armor_rating: 10

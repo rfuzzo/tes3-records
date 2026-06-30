@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m7_q_Ns_IC7_AmuletZenithar
+name: Amulet of Zenithar
+script: ''
+mesh: c\Amulet_Expensive_1.NIF
+icon: c\tx_amulet_expens1.tga
+enchanting: Zenithar_gospel_EN
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 140
+  enchantment: 150

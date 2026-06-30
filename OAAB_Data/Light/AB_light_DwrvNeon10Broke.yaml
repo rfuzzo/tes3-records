@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: AB_light_DwrvNeon10Broke
+name: ''
+script: ''
+mesh: OAAB\l\dwrv_neon10broke.nif
+icon: ''
+sound: Power light 50
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 177
+  color:
+  - 238
+  - 187
+  - 81
+  - 0
+  flags: DYNAMIC | PULSE_SLOW

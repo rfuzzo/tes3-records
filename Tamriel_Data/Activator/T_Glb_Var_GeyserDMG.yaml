@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Glb_Var_GeyserDMG
+name: ''
+script: T_ScObj_GeyserCollisionDMG
+mesh: tr\x\tr_water_geyserdmg.nif

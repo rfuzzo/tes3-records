@@ -1,0 +1,17 @@
+type: Clothing
+flags: ''
+id: T_Com_Et_Skirt_01
+name: Extravagant Skirt
+script: ''
+mesh: tr\c\tr_c_skirt_oe_01_gnd.nif
+icon: TR\c\tr_c_skirt_oe_s_01.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Skirt
+  male_bodypart: T_C_ComEtSkirt01_G
+  female_bodypart: ''
+data:
+  clothing_type: Skirt
+  weight: 2.0
+  value: 60
+  enchantment: 120

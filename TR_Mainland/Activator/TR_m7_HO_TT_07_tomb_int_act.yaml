@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m7_HO_TT_07_tomb_int_act
+name: ''
+script: TR_m7_HO_TT_07_Tomb_Int_scr
+mesh: EditorMarker.nif

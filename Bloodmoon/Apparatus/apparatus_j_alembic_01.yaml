@@ -1,0 +1,12 @@
+type: Apparatus
+flags: ''
+id: apparatus_j_alembic_01
+name: Journeyman's Alembic
+script: ''
+mesh: m\Apparatus_J_Alembic_01.nif
+icon: m\Tx_alembic_02.tga
+data:
+  apparatus_type: Alembic
+  quality: 1.0
+  weight: 7.0
+  value: 200

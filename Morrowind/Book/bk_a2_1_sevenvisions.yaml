@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: bk_a2_1_sevenvisions
+name: The Seven Visions
+script: ''
+mesh: m\Text_Parchment_01.NIF
+icon: m\Tx_parchment_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nSeven Visions of Seven Trials of the Incarnate<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\n[These are the words of the prophecy called \"Seven Visions of Seven Trials of the Incarnate.\" I wrote them down as she spoke them to me.]<BR>\r\n<BR>\r\nseven trials<BR>\r\nWhat he puts his hand to, that shall be done.<BR>\r\nWhat is left undone, that shall be done.<BR>\r\n<BR>\r\nfirst trial<BR>\r\nOn a certain day to uncertain parents<BR>\r\nIncarnate moon and star reborn.<BR>\r\n<BR>\r\nsecond trial<BR>\r\nNeither blight nor age can harm him.<BR>\r\nThe Curse-of-Flesh before him flies.<BR>\r\n<BR>\r\nthird trial<BR>\r\nIn caverns dark Azura's eye sees<BR>\r\nAnd makes to shine the moon and star.<BR>\r\n<BR>\r\nfourth trial<BR>\r\nA stranger's voice unites the Houses.<BR>\r\nThree Halls call him Hortator.<BR>\r\n<BR>\r\nfifth trial<BR>\r\nA stranger's hand unites the Velothi.<BR>\r\nFour Tribes call him Nerevarine.<BR>\r\n<BR>\r\nsixth trial<BR>\r\nHe honors blood of the tribe unmourned.<BR>\r\nHe eats their sin, and is reborn.<BR>\r\n<BR>\r\nseventh trial<BR>\r\nHis mercy frees the cursed false gods,<BR>\r\nBinds the broken, redeems the mad.<BR>\r\n<BR>\r\none destiny<BR>\r\nHe speaks the law for Veloth's people.<BR>\r\nHe speaks for their land, and names them great.<BR>\r\n"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Nor_UNI_StarFrost
+name: Starfrost
+script: T_ScObj_StartFrostPower
+mesh: Sky\c\sky_uni_stfrost.nif
+icon: sky\c\tx_amulet_star_frost.dds
+enchanting: T_Use_StarFrost
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 32000
+  enchantment: 1125

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_OE_sc_ETbladesdocument01
+name: A Blades Document
+script: ''
+mesh: m\Text_Parchment_02.nif
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR> To whom it concerns.<BR>\r\n<BR>\r\nBased on the information we have gained from the events of 3E426 (known locally and to you as \"Balmoran Tax Revolt\") and a string of assassinations (known to you as \"VV Pillars fell\"), do not assume the Emperor or yourself to be secure even behind thick walls.<BR>\r\n<BR>\r\nDuke Vedam Dren spends most of his time on Vvardenfell in Castle Ebonheart, leaving the Ebon Tower abandoned to wily courtiers, Curia sycophants, and bureaucrats. If Casik's accounts are truthful, at least one Daedric Doppelganger is at large in Ebonheart and might conspire with remnant Tharnites or local cultists to destabilize and threaten the Empire.<BR> \r\nNo agents are known. Trust nobody.<BR>\r\n<BR>\r\nPossible connection is suggested to local superstition that places a demon at the heart of the volcano Dagoth-Ur who is blamed for all evil. It might be a lone cult or tie into the Tharnite Arius heresy. Law-enforcement disciplinaries have acted against the latter during the Simulacrum. If necessary (as it is for the cases known to you as \"Uncolored House\" and \"The New Pestilence\"), initiate communication with your locally known contact and do not inform Cult leadership.<BR>\r\n<BR>\r\nLocal Councilors or expecting Councilors are not known to scheme against the Emperor, merely occupied with their seats in the Council and locally. As always during visits in the east, do not attempt to interfere with Councilor Divayth Fyr or his agents without utmost caution and affability. <BR>\r\nOf special interest is the displaced head of the Vvardenfell legions, Varus Vantinius. He is a desperate man in a high position. Be cautious of foolish acts of bravery in order to impress the Emperor.<BR>\r\n<BR>\r\nFinally, do not interfere with Vvardenfell or the movement of legions to the Inner Sea, even if they appear to you a potential danger to your position. <BR>\r\nIf the Emperor desires to visit even Castle Ebonheart, impress upon him with utmost urgency a necessity to stay clear of that island. If it proves impossible, send your locally known contact to establish communication with a local asset (known to them and now you as \"Smokey Clay\").<BR>\r\n<BR>\r\nAs always,<BR>\r\nremain faithful<BR>\r\n<BR>"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

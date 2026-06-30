@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: TR_m3_OE_LetterFromDeeshJa
+name: Letter from Deesh-Ja
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nMy darling,<BR>\r\n<BR>\r\nNot a day goes by that I do not think of you. Our tender moments are so few. I dream of the day when you and I will be free to be together as one.\r\n<BR>\r\nI wanted to let you know that I go to visit my sister in Stormhold. Her house is on the street that runs opposite the Imperial prison in the city. Oh, I do wish I had you to keep me company when I visit her. I would feel so safe with you to protect me in that awful place.\r\n<BR>\r\nAll my love, \r\nDeesh-Ja<BR>\r\n"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

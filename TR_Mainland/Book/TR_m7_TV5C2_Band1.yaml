@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_TV5C2_Band1
+name: ''
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: ''
+enchanting: ''
+text: 'smuggler, static '
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_Dae_Kha_LampBlue_256_UNI
+name: ''
+script: ''
+mesh: tr\l\tr_l_dae_lamp_blueUNI.nif
+icon: ''
+sound: Fire 50
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 256
+  color:
+  - 2
+  - 155
+  - 172
+  - 0
+  flags: DYNAMIC | FIRE | FLICKER_SLOW

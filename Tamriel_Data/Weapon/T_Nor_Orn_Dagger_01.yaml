@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Nor_Orn_Dagger_01
+name: Nordic Dagger
+script: ''
+mesh: TR\w\TR_w_nord_dagger.nif
+icon: TR\w\TR_w_nord_dagger.dds
+enchanting: ''
+data:
+  weight: 4.0
+  value: 35
+  weapon_type: ShortBladeOneHand
+  health: 600
+  speed: 2.5
+  reach: 1.0
+  enchantment: 20
+  chop_min: 5
+  chop_max: 8
+  slash_min: 5
+  slash_max: 8
+  thrust_min: 7
+  thrust_max: 8
+  flags: ''

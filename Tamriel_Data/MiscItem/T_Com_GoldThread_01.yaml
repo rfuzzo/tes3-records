@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_GoldThread_01
+name: Gold Thread
+script: ''
+mesh: pc\m\pc_misc_goldthread.nif
+icon: pc\m\pc_m_goldthread.dds
+data:
+  weight: 0.5
+  value: 25
+  flags: ''

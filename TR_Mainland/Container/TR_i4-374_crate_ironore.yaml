@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_i4-374_crate_ironore
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 10
+  - T_IngMine_OreIron_01

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: active_sign_c_arms_caldera
+name: 'Hodlismod: Armorer'
+script: SignRotate
+mesh: f\Active_sign_C_arms_01.NIF

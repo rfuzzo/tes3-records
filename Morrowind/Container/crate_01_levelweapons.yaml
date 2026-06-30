@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: crate_01_levelweapons
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - l_n_wpn_melee
+- - 1
+  - l_m_wpn_melee

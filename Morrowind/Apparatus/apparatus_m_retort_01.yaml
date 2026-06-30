@@ -1,0 +1,12 @@
+type: Apparatus
+flags: ''
+id: apparatus_m_retort_01
+name: Master's Retort
+script: ''
+mesh: m\Apparatus_M_Retort_01.nif
+icon: m\Tx_retort_03.tga
+data:
+  apparatus_type: Retort
+  quality: 1.2
+  weight: 4.0
+  value: 480

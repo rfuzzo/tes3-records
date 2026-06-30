@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_ChitinLongsword
+name: Chitin Longsword
+script: ''
+mesh: OAAB\w\chitin_longsword.nif
+icon: OAAB\w\chitin_longsword.tga
+enchanting: ''
+data:
+  weight: 10.0
+  value: 23
+  weapon_type: LongBladeOneHand
+  health: 720
+  speed: 1.35
+  reach: 1.0
+  enchantment: 30
+  chop_min: 2
+  chop_max: 11
+  slash_min: 1
+  slash_max: 16
+  thrust_min: 4
+  thrust_max: 14
+  flags: ''

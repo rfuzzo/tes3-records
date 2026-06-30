@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_Rga_Var_BronzeLamp_64
+name: Bronze Lamp
+script: ''
+mesh: pc\l\pc_rga_brlamp_01.nif
+icon: pc\l\pc_rga_brlamp_01.dds
+sound: ''
+data:
+  weight: 3.0
+  value: 15
+  time: 120
+  radius: 64
+  color:
+  - 245
+  - 140
+  - 40
+  - 0
+  flags: CAN_CARRY | FIRE | FLICKER_SLOW

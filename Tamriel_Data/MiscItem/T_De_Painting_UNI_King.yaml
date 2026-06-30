@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_Painting_UNI_King
+name: King Helseth Hlaalu
+script: ''
+mesh: tr\m\TR_M_Painting_King.nif
+icon: tr\m\TR_M_Painting_King.dds
+data:
+  weight: 20.4
+  value: 4480
+  flags: ''

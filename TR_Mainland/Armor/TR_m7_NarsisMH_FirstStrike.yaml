@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: TR_m7_NarsisMH_FirstStrike
+name: Cuirass of First Strike
+script: ''
+mesh: a\A_Glass_cuirass_GND.nif
+icon: a\TX_Glass_cuirass.tga
+enchanting: TR_m7_NarsisMH_FirstStrike_en
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: a_glass_cuirass
+  female_bodypart: ''
+data:
+  armor_type: Cuirass
+  weight: 18.0
+  value: 33000
+  health: 1500
+  enchantment: 120
+  armor_rating: 50

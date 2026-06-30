@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_Shipal_Sharai_banner_02
+name: 'Adavas Faryon: General Goods'
+script: OutsideBanner
+mesh: f\Furn_bannerD_goods_01.NIF

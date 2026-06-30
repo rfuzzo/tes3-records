@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Bre_TourneyHeater_Shield_MAS
+name: Wooden Heater Shield
+script: ''
+mesh: tr\a\tr_a_tou_shield_mas.nif
+icon: tr\a\tr_a_tou_shieldmas.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Shield
+  male_bodypart: T_A_Bre_TourneyShield_MAS_S
+  female_bodypart: ''
+data:
+  armor_type: Shield
+  weight: 15.0
+  value: 200
+  health: 450
+  enchantment: 750
+  armor_rating: 25

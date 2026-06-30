@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_bk_i2-428_houseshonored
+name: The True Houses
+script: ''
+mesh: m\Text_Octavo_open_08.NIF
+icon: m\Tx_book_open_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nWhen Nerevar and blessed Almsivi went forth to oppose the incorrigible Dwemer, the Houses and Tribes of Resdayn were united under the pennant of the Hortator. In memory of those days, let us put aside the vagaries of politics and celebrate the blessed alliance that was the First Council. Despite their differences, the True Houses stood united against the menace of Red Mountain, each strengthening the armies of Resdayn with its own talent: \r\n<BR>\r\n<BR>\r\nLet us praise House Indoril, whose faith was and remains the strongest. If Indoril is with us, who would question our resolve?\r\n<BR>\r\n<BR>\r\nLet us praise House Redoran, who carried our banners deep into the heart of the inferno. If Redoran is with us, who would stand against us?\r\n<BR>\r\n<BR>\r\nLet us praise House Dres, who walked among ghosts. If Dres is with us, who would mock our name?\r\n<BR>\r\n<BR>\r\nLet us praise House Telvanni, who could whisper the enemy into ruin. If Telvanni is with us, who would keep secrets from us?\r\n<BR>\r\n<BR>\r\nLet us praise House Hlaalu, who oversaw the order of our ranks. If Hlaalu is with us, who would find us unprepared?\r\n<BR>\r\n<BR>"
+data:
+  weight: 2.0
+  value: 50
+  book_type: Book
+  skill: None
+  enchantment: 0

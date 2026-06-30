@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Dwe_Schematic03
+name: Centurion Sphere Schematics
+script: ''
+mesh: TR\m\tr_note_dwe_sch03.nif
+icon: TR\m\tr_note_dwe_sch03.dds
+data:
+  weight: 1.0
+  value: 100
+  flags: ''

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m3_q_bloodstone
+name: Bloodstone
+script: ''
+mesh: n\Ingred_ruby_01.nif
+icon: n\Tx_ruby.tga
+data:
+  weight: 1.0
+  value: 50
+  flags: ''

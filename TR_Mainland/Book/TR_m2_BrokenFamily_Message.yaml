@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2_BrokenFamily_Message
+name: Message to Adren
+script: ''
+mesh: m\Misc_paper_plain_01.nif
+icon: m\Tx_paper_plain_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nDear Brother,\r\n<BR>\r\nLike Saint Veloth, I left home to embark on a pilgrimage. And like Saint Veloth, I will not return home. I have been inflicted with the sickness of vampirism. I am no longer welcome in Necrom.\r\n<BR>\r\nDespite this, I still remember the sermons and the gospels. I remember the saints, and I hold their lessons in my heart. \r\n<BR>\r\nI have invoked the name of the Patron of Outcasts because I wish you to recall his guidance. Did Saint Veloth not teach how to discern the difference between which beings are Good and which beings are Bad? It is written that it is the duty of the Temple to cleanse the land of vampires. But what is written is not always what is good. We must each discern for ourselves.  \r\n<BR>\r\nRemember the teachings of Saint Seryn. You have it within yourself to take on the sickness of others and make it your own. With this sickness we'll have the power we need to fight injustice like the saints we spent so long reading about. You can leave the library, and we can be the people we aspired to be as all those years ago as young boys. \r\n<BR>\r\nPlease meet me among the Ancestors in the Sadalvel Ancestral Tomb. As it is said: <BR>\"Refuse neither brother nor ghost\"!\r\n<BR>\r\nYours with love,\r\nVelyn\r\n<BR>"
+data:
+  weight: 1.0
+  value: 3
+  book_type: Scroll
+  skill: None
+  enchantment: 50

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: ex_t_playertower_sprout_p1comp
+name: ''
+script: Strong1_Only
+mesh: x\Ex_T_playertower_sprout.NIF

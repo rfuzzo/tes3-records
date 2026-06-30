@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: AB_f_HackleLo4_o
+name: Hackle-lo
+script: ''
+mesh: OAAB\f\flora_hackle-lo_04.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - random_hackle-lo_leaf

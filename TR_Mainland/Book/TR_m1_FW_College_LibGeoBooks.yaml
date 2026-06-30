@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_FW_College_LibGeoBooks
+name: Geographic Texts
+script: ''
+mesh: m\text_parchment_01.nif
+icon: m\tx_parchment_01.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nGeographic Texts<BR> <BR><DIV ALIGN=\"Left\">\r\nThis bookcases to the left contain the College's collection of maps and guidebooks to Morrowind Province and its settlements.\r\n<BR>\r\nThe College often loans these materials to faculty and affiliated organizations. Guests are encouraged to check back at a later time for maps or guides not currently in the Library Tower.<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

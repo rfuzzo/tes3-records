@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Dwe_Regular_Bolt_01
+name: Dwarven Bolt
+script: ''
+mesh: TR\w\TR_w_dwrv_bolt.nif
+icon: TR\w\TR_w_dwrv_bolt.dds
+enchanting: ''
+data:
+  weight: 0.1
+  value: 5
+  weapon_type: Bolt
+  health: 10
+  speed: 1.0
+  reach: 1.0
+  enchantment: 16
+  chop_min: 5
+  chop_max: 5
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

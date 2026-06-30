@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_EnSc_Com_SummonDremoraAll
+name: Scroll of Dagon's Peerage
+script: ''
+mesh: m\text_scroll_01.nif
+icon: m\tx_scroll_open_01.tga
+enchanting: T_Once_SummonDremoraAll60
+text: <DIV ALIGN="center"><FONT COLOR="000000" SIZE="2" FACE="Daedric">REVOLUTION AND RUIN. CHAOS AND CATACLYSM. DEATH AND DESTRUCTION.</FONT><BR>
+data:
+  weight: 0.2
+  value: 855
+  book_type: Scroll
+  skill: None
+  enchantment: 0

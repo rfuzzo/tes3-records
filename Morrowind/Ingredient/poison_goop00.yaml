@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: poison_goop00
+name: Poison
+script: ''
+mesh: n\Ingred_Corprus_weeping_01.NIF
+icon: n\Tx_corprus_weep_01.tga
+data:
+  weight: 0.1
+  value: 0
+  effects:
+  - WeaknessToPoison
+  - DamageHealth
+  - DamageFatigue
+  - Poison
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

@@ -1,0 +1,31 @@
+type: Armor
+flags: ''
+id: T_Imp_StuddedLeather_Greaves_01
+name: Studded Leather Greaves
+script: ''
+mesh: TR\a\tr_A_stud_leath_G_gnd.NIF
+icon: TR\a\TR_a_stud_lthr_greaves.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Groin
+  male_bodypart: T_A_ImpStuddedLeatherGreav01_G
+  female_bodypart: ''
+- biped_object_type: LeftUpperLeg
+  male_bodypart: T_A_ImpStuddedLeatherGreav01_UL
+  female_bodypart: ''
+- biped_object_type: RightUpperLeg
+  male_bodypart: T_A_ImpStuddedLeatherGreav01_UL
+  female_bodypart: ''
+- biped_object_type: LeftKnee
+  male_bodypart: T_A_ImpStuddedLeatherGreav01_K
+  female_bodypart: ''
+- biped_object_type: RightKnee
+  male_bodypart: T_A_ImpStuddedLeatherGreav01_K
+  female_bodypart: ''
+data:
+  armor_type: Greaves
+  weight: 5.4
+  value: 44
+  health: 100
+  enchantment: 10
+  armor_rating: 10

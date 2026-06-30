@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Nor_FineWoodPot_02
+name: Fine Wood Pot
+script: ''
+mesh: sky\m\sky_misc_fine_pot_02.nif
+icon: sky\m\tx_misc_fine_pot_02.dds
+data:
+  weight: 4.0
+  value: 14
+  flags: ''

@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Nor_Cm_Amulet_01
+name: Common Amulet
+script: ''
+mesh: Sky\c\Sky_Amulet_Common_01.nif
+icon: Sky\c\Tx_Amulet_Common_01.dds
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 2
+  enchantment: 15

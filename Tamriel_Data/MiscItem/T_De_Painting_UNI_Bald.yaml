@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_Painting_UNI_Bald
+name: The Proconsul
+script: ''
+mesh: tr\m\TR_M_Painting_Bald.nif
+icon: tr\m\TR_M_Painting_Bald.dds
+data:
+  weight: 13.0
+  value: 1300
+  flags: ''

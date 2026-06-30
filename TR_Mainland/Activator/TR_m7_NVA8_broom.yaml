@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_NVA8_broom
+name: ''
+script: TR_m7_NVA_Stage8_Persist
+mesh: tr\m\TR_misc_com_fp_broom.nif

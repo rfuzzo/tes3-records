@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Com_Var_Knife_02
+name: Cooking Knife
+script: ''
+mesh: TR\w\tr_w_cook_knife_01AY.nif
+icon: TR\w\TR_w_cooking_knife_03.dds
+enchanting: ''
+data:
+  weight: 3.0
+  value: 15
+  weapon_type: ShortBladeOneHand
+  health: 120
+  speed: 2.5
+  reach: 1.0
+  enchantment: 5
+  chop_min: 1
+  chop_max: 3
+  slash_min: 1
+  slash_max: 2
+  thrust_min: 3
+  thrust_max: 5
+  flags: ''

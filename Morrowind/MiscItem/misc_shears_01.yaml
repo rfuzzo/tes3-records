@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: misc_shears_01
+name: Shears
+script: ''
+mesh: m\Misc_shears_01.NIF
+icon: m\Tx_shears_01.tga
+data:
+  weight: 1.0
+  value: 1
+  flags: ''

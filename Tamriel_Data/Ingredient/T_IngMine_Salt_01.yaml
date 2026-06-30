@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngMine_Salt_01
+name: Salt
+script: ''
+mesh: pc\n\pc_ing_Salt.nif
+icon: pc\n\pc_ingred_salt_01.dds
+data:
+  weight: 0.1
+  value: 1
+  effects:
+  - WeaknessToMagicka
+  - ResistPoison
+  - None
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

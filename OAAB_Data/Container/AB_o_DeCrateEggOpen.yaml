@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: AB_o_DeCrateEggOpen
+name: Egg Crate
+script: ''
+mesh: OAAB\o\egg crate_open.nif
+encumbrance: 0.0
+container_flags: ORGANIC | IS_BASE
+inventory:
+- - 18
+  - AB_lvl_KwamaEgg

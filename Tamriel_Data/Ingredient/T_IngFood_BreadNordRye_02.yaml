@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_BreadNordRye_02
+name: Bread
+script: ''
+mesh: sky\n\sky_ing_ryebreadhalf.nif
+icon: sky\n\sky_ing_ryebreadhalf.dds
+data:
+  weight: 0.3
+  value: 1
+  effects:
+  - RestoreFatigue
+  - None
+  - None
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Imp_Domina_Helm_01
+name: Domina Helmet
+script: ''
+mesh: tr\a\tr_a_domina_helm.nif
+icon: tr\a\tr_a_domina_helm.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Hair
+  male_bodypart: T_A_ImpDomina01_Helm
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 3.0
+  value: 38
+  health: 100
+  enchantment: 45
+  armor_rating: 15

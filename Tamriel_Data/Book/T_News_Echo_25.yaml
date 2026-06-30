@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Echo_25
+name: BELT OF ST. OLMS RECOVERED
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_text_note_nar_news.nif
+icon: tr\m\tr_text_note_nar_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\tr_echo_512_256.dds\" WIDTH=\"348\" HEIGHT=\"168\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nBELT OF ST. OLMS RECOVERED<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nNot long after the Eight-Bones Temple and the Canyon Echo declared the sacred artifact, the Belt of St. Olms, missing -- we are proud to state that it has been found and recovered without harm by the faithful of the Tribunal.<BR><BR>\r\nIndeed, as previously theorized via rumor in Othmura, the belt had been stolen by a traitorous Ordinator, who had joined a vile Dagonite cult deep within the large Daedric ruin of Naemunbatashpi. However, thanks to the valiant efforts of Master Milara Orvayn and her agents, the cult was rooted out from the infernal dungeon and the Belt of St. Olms returned to its display at the Eight-Bones Temple in Narsis.<BR><BR>\r\nThe Canyon Echo would like to congratulate the Temple on this victory and on the sanctity of its blessed ways, for this clearly shows that, above all, trust, reliance, and faith may be found within the ancestors, and the Three.<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

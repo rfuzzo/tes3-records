@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Ayl_DWelkyndInv_01
+name: Inactive Loria Stone
+script: ''
+mesh: pc\m\pc_ayl_dwelkynd.nif
+icon: pc\m\pc_ayl_dwelkynd.dds
+data:
+  weight: 2.0
+  value: 120
+  flags: ''

@@ -1,0 +1,37 @@
+type: Container
+flags: ''
+id: TR_m4_And_Temple_Drawer
+name: Chest of Drawers
+script: ''
+mesh: o\Contain_De_Drawers_02.NIF
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory:
+- - 4
+  - Misc_Com_Wood_Bowl_01
+- - 6
+  - T_De_StonewareBowl_03
+- - 5
+  - T_De_StonewareCup_02
+- - 1
+  - T_De_StonewarePitcher_01
+- - 6
+  - T_De_StonewarePlate_05
+- - 1
+  - T_De_StonewarePlatter_01
+- - 2
+  - misc_com_wood_cup_01
+- - 3
+  - misc_com_wood_cup_02
+- - 9
+  - misc_com_wood_fork
+- - 10
+  - misc_com_wood_knife
+- - 12
+  - misc_com_wood_spoon_01
+- - 3
+  - misc_com_wood_spoon_02
+- - 1
+  - misc_de_goblet_01
+- - 1
+  - misc_de_goblet_06

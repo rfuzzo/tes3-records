@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_Ns_FG_7_OnFalsityBook
+name: On Falsity
+script: ''
+mesh: m\Text_Octavo_08.nif
+icon: m\Tx_book_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nOn Falsity<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nThis is the secret which unfolds with the first breath.<BR>\r\n<BR>\r\nThere is a mask like a no-face. It is closed. It is like a curved smile.<BR>\r\n<BR>\r\nA tongue is a not-leash. A tongue walks ever backwards.<BR>\r\n<BR>\r\nBehold the stone mirrors. Behold the sky mirrors.<BR>\r\n<BR>\r\nThree are the flame-tongues that are called BO-ETH-IAH.<BR>\r\n<BR>\r\n"
+data:
+  weight: 3.0
+  value: 300
+  book_type: Book
+  skill: None
+  enchantment: 0

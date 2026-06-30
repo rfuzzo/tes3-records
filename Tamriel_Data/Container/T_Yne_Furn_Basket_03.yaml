@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: T_Yne_Furn_Basket_03
+name: Basket
+script: ''
+mesh: pi\o\pi_o_yne_basket_03.nif
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory: []

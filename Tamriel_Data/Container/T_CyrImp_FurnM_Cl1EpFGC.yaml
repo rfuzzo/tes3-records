@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: T_CyrImp_FurnM_Cl1EpFGC
+name: Closet
+script: ''
+mesh: o\Contain_Com_Closet_01.NIF
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Cyr_Random_ClothingShirtsXpGC
+- - 1
+  - T_Cyr_Random_ClothingShoesXpGC
+- - 1
+  - T_Cyr_Random_ClothingSkirtsXpGC
+- - 1
+  - T_Cyr_Random_ClothingXpGC
+- - 1
+  - T_Cyr_Random_JewelryXp

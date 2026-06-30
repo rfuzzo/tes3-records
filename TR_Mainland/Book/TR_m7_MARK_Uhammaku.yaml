@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_MARK_Uhammaku
+name: Uhammaku Amarilk
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: ''
+enchanting: ''
+text: "TR_m7_Cr_Uhammaku moves here when you relocate his skull during TR_m7_Ns_MovingHouse\r\nPositionCell in script TR_m7_Ns_MovingHouse_SkullSC"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

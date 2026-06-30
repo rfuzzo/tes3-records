@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_EnSc_Com_FourCorners
+name: Scroll of The Four Corners
+script: ''
+mesh: m\text_scroll_01.nif
+icon: m\tx_scroll_open_01.tga
+enchanting: T_Once_FourCorners
+text: "<DIV ALIGN=\"center\"><FONT COLOR=\"000000\" SIZE=\"2\" FACE=\"Daedric\"><BR>\r\n\r\nI Call for<P>\r\nThe Fabricant of the Prince of Fools<P>\r\nThe Horned Titan of the Cursed King<P>\r\nThe Warrior of the Exalted Lord<P>\r\nThe Scuted Bearer of the Great Keeper<P>\r\n\r\n</FONT>\r\n</DIV>"
+data:
+  weight: 0.2
+  value: 1134
+  book_type: Scroll
+  skill: None
+  enchantment: 0

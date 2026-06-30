@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: ring_keley
+name: Engraved Ring of Healing
+script: CharGen_ring_keley
+mesh: c\C_Ring_expensive_1.NIF
+icon: c\tx_ring_expensive01.tga
+enchanting: Heal_minor
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 30
+  enchantment: 10

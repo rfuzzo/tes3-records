@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Yne_Ep_Amulet_01
+name: Expensive Amulet
+script: ''
+mesh: pi\c\yne_amulet_expensive01.nif
+icon: pi\c\yne_amulet_expensive01.dds
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 30
+  enchantment: 150

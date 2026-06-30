@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4-114_CensusRecord
+name: Census Record
+script: ''
+mesh: TR\m\TR_book_closed03_AA.NIF
+icon: TR\m\TR_book_closed03_AA.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This volume details information collected by the council on the citizenry of Bal Foyen over the preceding centuries: residency, occupation, holdings and other miscellanea are recorded in meticulous detail.]\r\n<BR>\r\n"
+data:
+  weight: 2.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 100

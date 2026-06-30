@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2_book_note2_i327
+name: Note
+script: ''
+mesh: m\Text_Parchment_02.NIF
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nLive One,<BR>\r\nHave you come to play my game? A prize could be yours, all you must do is follow each clue and summon a daedra to open the way; fail and you'll pay!<BR>\r\n<BR>\r\nWhat is the prize you ask? Patience, young one. A Telvanni lord must always take the long view. In time, if you don't die, you'll learn of your prize!<BR>\r\n<BR>\r\nNow I'm going to ask you to summon a creature on the nearby platform. However, it wouldn't be much of a game if I told you what creature it was outright. We'll start easy, for the sake of charity. Bring forth the most loyal servant of the Scourge of Mournhold. There, that should be enough for you to figure it out.<BR>\r\n<BR>\r\n-Llevran Vaerin<BR>\r\n<BR>\r\n"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_Ashdew_01
+name: Ashdew
+script: ''
+mesh: tr\n\tr_ing_ashdew.nif
+icon: n\Tx_gravedust_01.tga
+data:
+  weight: 0.1
+  value: 50
+  effects:
+  - FortifyAttribute
+  - DrainAttribute
+  - DrainMagicka
+  - DrainFatigue
+  skills:
+  - Block
+  - Block
+  - None
+  - None
+  attributes:
+  - Agility
+  - Intelligence
+  - None
+  - None

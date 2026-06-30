@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: TR_m4_AndoHH_MilnsLetter
+name: Letter from Milns Lloran
+script: TR_m4_AndoHH_MilnsLetterScript
+mesh: m\Text_Parchment_02.NIF
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"Left\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nDear %PCName,<BR>\r\n<BR>\r\nYour recent accomplishments have proven your potential as an agent for House Hlaalu, so I hope you will be happy to take on the task I have in mind for you. One of the most skilled bankers working for the House, Terani Deroth, has been unjustly captured by the Redoran, and is being held ransom in Bodrum. I am sure this has political motives, so they are unlikely to release her willingly. Therefore, I have planned a mission to rescue her.<BR>\r\n<BR>\r\nI have recruited the nightblade Galesa Arethi for the task, but I need your help to assist her. She is waiting for you at Varalaryn Tradehouse in Bodrum. Your task is to smuggle an Intervention scroll into Terani Deroth's cell. I am trusting you to do this discreetly. Above all, do not get caught. If you succeed on your task, I will reward you well. Should you have any questions, meet me at my manor before you go.<BR>\r\n<BR>\r\nSincerely,<BR>\r\nMilns Lloran<BR>\r\n"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

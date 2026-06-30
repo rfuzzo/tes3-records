@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m4_VA_resetorlukh
+name: ''
+script: TR_m4_VA_resetorlukh_scr
+mesh: EditorMarker.NIF

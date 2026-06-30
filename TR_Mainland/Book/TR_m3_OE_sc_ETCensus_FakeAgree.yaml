@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_OE_sc_ETCensus_FakeAgree
+name: Tax Agreement
+script: ''
+mesh: m\Text_Scroll_01.NIF
+icon: m\Tx_scroll_open_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nTAX RESTITUTION AGREEMENT<BR>\r\n<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nBetween<BR>\r\n<BR>\r\nThe Head of the Census, Ebon Tower, Province of Morrowind, authorized local representative of the Emperor Uriel Septim VII,<BR>\r\n<BR>\r\nAnd <BR>\r\n<BR>\r\nThe Duke of Ebon Tower, Ebon Tower, Province of Morrowind, authorized representative of King Helseth, <BR>\r\n<BR>\r\n<DIV ALIGN=\"CENTER\">PREAMBLE<BR>\r\n<BR><DIV ALIGN=\"LEFT\">\r\nTaxes due to the Empire, payed and recovered in Morrowind, are shipped once a year to Cyrodiil. <BR>\r\n<BR>\r\nAs a Province of the Empire, Morrowind receives a subsidy, representing one tenth of the taxes.<BR>\r\n<BR>\r\nTo avoid shipment and its hazards, the parties agree as follows:<BR>\r\n<BR>\r\n<DIV ALIGN=\"CENTER\">ARTICLE 1<BR>\r\n<BR><DIV ALIGN=\"LEFT\">\r\nOne tenth of the yearly taxes due to the Empire will stay in Ebon Tower, as the official subsidy. This sum is calculated by the Ebon Census And Excise. <BR>\r\n<BR>\r\n<DIV ALIGN=\"CENTER\">ARTICLE 2 <BR>\r\n<BR><DIV ALIGN=\"LEFT\">\r\nThe remaining subsidy is at the disposal of the Duke of Ebon Tower, who is charged to send the money to king Helseth.<BR>\r\n<BR>\r\n<DIV ALIGN=\"CENTER\">ARTICLE 3 <BR>\r\n<BR><DIV ALIGN=\"LEFT\">\r\nThe subsidy is to be paid by the Census to the Duke by instalments. This agreement is to be broght up to date every time a part payment is done.<BR>\r\n<BR>\r\n<BR>\r\n<BR>\r\n[Follow a list of dates and sums that have already been paid. The last entry dates from a few days before the pillar of the Census collapsed. It appears that the Duke didn't receive all the money due by the Census, and is entitled to claim for more. All seems fine, but after a careful reading, some minor mistakes become evident: spelling errors, and mismatched dates.]<BR>"
+data:
+  weight: 1.2
+  value: 10
+  book_type: Scroll
+  skill: None
+  enchantment: 400

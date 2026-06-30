@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: contain_corpse10_silent
+name: Corpse
+script: ''
+mesh: o\contain_corpse10.NIF
+encumbrance: 120.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - ingred_bonemeal_01
+- - 1
+  - key_skeleton

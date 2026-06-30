@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: light_de_lantern_07_warm
+name: Paper Lantern
+script: ''
+mesh: l\Light_De_Lantern_07.NIF
+icon: l\Light_De_Lantern_07.tga
+sound: ''
+data:
+  weight: 3.0
+  value: 10
+  time: 150
+  radius: 256
+  color:
+  - 164
+  - 224
+  - 251
+  - 0
+  flags: DYNAMIC | CAN_CARRY | FLICKER_SLOW

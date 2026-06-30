@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m4_w_GreatMacePenance
+name: Great Mace of Penance
+script: ''
+mesh: tr\w\tr_w_iron_gmace_01.nif
+icon: tr\w\tr_w_iron_gmace_01.dds
+enchanting: King's_Oath_PC_EN
+data:
+  weight: 35.0
+  value: 9000
+  weapon_type: BluntTwoWide
+  health: 2100
+  speed: 1.0
+  reach: 1.5
+  enchantment: 50
+  chop_min: 7
+  chop_max: 42
+  slash_min: 5
+  slash_max: 28
+  thrust_min: 2
+  thrust_max: 6
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

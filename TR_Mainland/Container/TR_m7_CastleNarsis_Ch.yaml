@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: TR_m7_CastleNarsis_Ch
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 500
+  - Gold_001
+- - 4
+  - T_Mw_Random_ClutterEbony
+- - 10
+  - T_Mw_Random_Gems
+- - 1
+  - T_Mw_Random_WeaponsEbony
+- - 1
+  - T_Mw_Random_WeaponsGlass

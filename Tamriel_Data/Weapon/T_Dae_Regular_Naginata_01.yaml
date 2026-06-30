@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Dae_Regular_Naginata_01
+name: Daedric Naginata
+script: ''
+mesh: TR\w\TR_w_daedra_naginata.nif
+icon: TR\w\TR_w_daedra_naginata.dds
+enchanting: ''
+data:
+  weight: 42.0
+  value: 22000
+  weapon_type: SpearTwoWide
+  health: 1200
+  speed: 1.3
+  reach: 1.8
+  enchantment: 160
+  chop_min: 4
+  chop_max: 9
+  slash_min: 4
+  slash_max: 12
+  thrust_min: 7
+  thrust_max: 40
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

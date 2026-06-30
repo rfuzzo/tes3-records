@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4-114_Notebook
+name: Notebook
+script: ''
+mesh: tr\m\tr_book_notebk_02.nif
+icon: tr\m\tr_book_closed_ntbk02.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[Each page of the small book is tightly packed with various jots and scribbles, indecipherable to anyone but the owner.]<BR>\r\n"
+data:
+  weight: 0.5
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 0

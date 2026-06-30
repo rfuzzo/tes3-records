@@ -1,0 +1,20 @@
+type: Clothing
+flags: ''
+id: T_Com_Ep_GloveR_Nimble
+name: Glove of Nimble Fingers
+script: ''
+mesh: TR\c\TR_c_exp_glove_01_GND.nif
+icon: TR\c\tr_c_exp_glove_01.dds
+enchanting: T_Use_NimbleFingers
+biped_objects:
+- biped_object_type: RightHand
+  male_bodypart: T_C_ComEpGlove01_Ha
+  female_bodypart: ''
+- biped_object_type: RightWrist
+  male_bodypart: ''
+  female_bodypart: ''
+data:
+  clothing_type: RightGlove
+  weight: 1.0
+  value: 130
+  enchantment: 50

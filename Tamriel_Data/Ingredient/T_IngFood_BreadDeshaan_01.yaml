@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_BreadDeshaan_01
+name: Deshaan Bread
+script: ''
+mesh: TR\n\tr_ing_deshaanbread_02.nif
+icon: TR\n\tr_ing_deshaanbread_02.dds
+data:
+  weight: 0.5
+  value: 1
+  effects:
+  - RestoreFatigue
+  - None
+  - None
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

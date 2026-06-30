@@ -1,0 +1,23 @@
+type: Container
+flags: ''
+id: TR_m1_c_chest_FWguard2
+name: Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Bk_CavernDoorTR
+- - 1
+  - T_De_Cm_Shirt_02
+- - 1
+  - T_Imp_StuddedLeather_Boots_01
+- - 7
+  - random gold
+- - 20
+  - random_loot_special_marksman
+- - 1
+  - random_pos
+- - 1
+  - random_potion_attribute_restore

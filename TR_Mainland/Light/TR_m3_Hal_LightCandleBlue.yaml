@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: TR_m3_Hal_LightCandleBlue
+name: ''
+script: TR_m3_Hal_Enable_sc
+mesh: l\Light_De_Candle_16.NIF
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 5
+  time: -1
+  radius: 64
+  color:
+  - 245
+  - 140
+  - 40
+  - 0
+  flags: DYNAMIC | FIRE | FLICKER_SLOW

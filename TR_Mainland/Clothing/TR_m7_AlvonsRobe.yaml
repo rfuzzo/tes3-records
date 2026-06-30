@@ -1,0 +1,23 @@
+type: Clothing
+flags: ''
+id: TR_m7_AlvonsRobe
+name: Alvon's Robe
+script: ''
+mesh: tr\c\tr_c_extr_robe_01_gnd.nif
+icon: tr\c\tr_extrav_pants_01.dds
+enchanting: TR_m7_AlvonsRobe_en
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_C_DeEtRobe01_C
+  female_bodypart: ''
+- biped_object_type: LeftAnkle
+  male_bodypart: ''
+  female_bodypart: ''
+- biped_object_type: RightAnkle
+  male_bodypart: ''
+  female_bodypart: ''
+data:
+  clothing_type: Robe
+  weight: 3.0
+  value: 2500
+  enchantment: 400

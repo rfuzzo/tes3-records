@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: stumble charm
+name: Stumble Charm
+script: ''
+mesh: c\Amulet_Common_1.NIF
+icon: c\tx_amulet_com1.tga
+enchanting: stumble_en
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 13
+  enchantment: 10

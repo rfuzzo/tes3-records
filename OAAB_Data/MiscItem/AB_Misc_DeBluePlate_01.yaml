@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_DeBluePlate_01
+name: Blue Glass Plate
+script: ''
+mesh: OAAB\m\misc_blue_glass_plt.nif
+icon: OAAB\m\misc_blue_glass_plt.dds
+data:
+  weight: 1.0
+  value: 2
+  flags: ''

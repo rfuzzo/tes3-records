@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m4_RR_BanditNoose
+name: ''
+script: TR_m4_RR_BanditNoose_scp
+mesh: sky\f\sky_furn_rope_noose1.nif

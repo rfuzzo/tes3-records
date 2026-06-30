@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: in_dwrv_crank_nchuleft_03
+name: Dwarven Crank
+script: nchulfetingthRight
+mesh: i\in_dwrv_crank00.nif

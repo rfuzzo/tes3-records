@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_TT_Sta_q2letter
+name: Domesea Norvalo's Testimony
+script: ''
+mesh: m\Text_Parchment_01.NIF
+icon: m\Tx_parchment_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nIt has been brought to my attention that the Imperial Legion has arrested Endril Gilveni, a penitent monk of the Monastery of St. Aralor. In accordance with the practices of the Tribunal Temple Law, his sentence is carried out in service to the Monastery. Endril Gilveni should be released, as it is not the place of the Legion to interfere with the practice of religion.\r\n<BR>\r\nDomesea Norvalo, Theurgist of Mara\r\n<BR>\r\n<BR>\r\n"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

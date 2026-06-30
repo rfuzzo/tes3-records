@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m4_AndothDweRuinPlate01
+name: Plate
+script: TR_m4_AndothDweBarPlate1_scp
+mesh: m\Misc_Com_Plate_02.NIF
+icon: m\Misc_Com_Plate_02.tga
+data:
+  weight: 1.0
+  value: 5
+  flags: ''

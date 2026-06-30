@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: Act_Ex_DE_ship_door
+name: Barred Door
+script: ''
+mesh: d\Ex_DE_ship_door.nif

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Dwe_ExplodoFlaps_01
+name: Dwemer Centurion Parts
+script: ''
+mesh: TR\m\TR_misc_explodo_flaps.NIF
+icon: TR\m\TR_misc_dwrv_exp_flaps.dds
+data:
+  weight: 8.0
+  value: 35
+  flags: ''

@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: Act_BM_wall_03
+name: ''
+script: fortEnableScript
+mesh: x\Ex_imp_rubble_08.NIF

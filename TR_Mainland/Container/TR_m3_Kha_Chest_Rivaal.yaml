@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: TR_m3_Kha_Chest_Rivaal
+name: Wooden Chest
+script: ''
+mesh: o\Contain_De_Chest_01.NIF
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Mw_Random_ClutterPeachware
+- - 1
+  - T_Mw_Random_ClutterPotionFlask
+- - 10
+  - T_Mw_Random_Ingredient
+- - 1
+  - T_Mw_Random_PosDunmer01
+- - 3
+  - l_m_potion

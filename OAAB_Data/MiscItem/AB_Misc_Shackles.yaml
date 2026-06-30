@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_Shackles
+name: Iron Shackles
+script: ''
+mesh: OAAB\m\shackles.nif
+icon: OAAB\m\shackles.dds
+data:
+  weight: 100.0
+  value: 1
+  flags: ''

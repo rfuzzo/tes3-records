@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Bre_Set_SignFactFGuild_01
+name: Fighters Guild
+script: SignRotate
+mesh: hr\f\hr_act_sign_fguild_01.nif

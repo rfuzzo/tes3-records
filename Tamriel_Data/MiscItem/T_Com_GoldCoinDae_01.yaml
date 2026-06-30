@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_GoldCoinDae_01
+name: Gold
+script: T_ScObj_GoldCoinDae_01
+mesh: m\Gold_001.NIF
+icon: m\Tx_Gold_001.tga
+data:
+  weight: 0.0
+  value: 1
+  flags: ''

@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: TR_cont_m4_399_closet
+name: Closet
+script: ''
+mesh: o\Contain_De_Closet_02.NIF
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory:
+- - 3
+  - T_Mw_Random_ClothingMaleXpDun
+- - 1
+  - T_Mw_Random_ClothingPantsCmDun
+- - 1
+  - bonemold_gah-julan_pauldron_r
+- - 1
+  - bonemold_greaves
+- - 1
+  - bonemold_tshield_redoranguard

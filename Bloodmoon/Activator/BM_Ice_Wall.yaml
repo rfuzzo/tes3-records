@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: BM_Ice_Wall
+name: Ice Wall
+script: icewallScript
+mesh: f\BM_ice_wall.NIF

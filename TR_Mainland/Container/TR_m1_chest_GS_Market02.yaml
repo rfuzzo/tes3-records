@@ -1,0 +1,27 @@
+type: Container
+flags: ''
+id: TR_m1_chest_GS_Market02
+name: Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - p_fire_shield_q
+- - 1
+  - p_frost_resistance_q
+- - 1
+  - p_frost_shield_c
+- - 1
+  - p_restore_endurance_e
+- - 5
+  - p_restore_health_e
+- - 1
+  - p_restore_intelligence_e
+- - 4
+  - p_restore_magicka_e
+- - 1
+  - p_swift_swim_e
+- - 2
+  - p_swift_swim_q

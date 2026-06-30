@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: TR_m7_othm_DrenChest
+name: Manos Dren's Chest
+script: ''
+mesh: o\Contain_chest_small_01.NIF
+encumbrance: 25.0
+container_flags: IS_BASE
+inventory:
+- - 265
+  - Gold_001
+- - 1
+  - T_IngMine_KhajiitEye_01
+- - 1
+  - ingred_emerald_01

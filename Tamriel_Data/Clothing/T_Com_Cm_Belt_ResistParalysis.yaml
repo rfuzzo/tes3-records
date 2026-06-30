@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Com_Cm_Belt_ResistParalysis
+name: Belt of Resist Paralysis
+script: ''
+mesh: c\c_belt_common_2.nif
+icon: c\tx_belt_common02.dds
+enchanting: T_Const_ResistParalysis
+biped_objects: []
+data:
+  clothing_type: Belt
+  weight: 1.0
+  value: 250
+  enchantment: 100

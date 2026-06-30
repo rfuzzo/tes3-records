@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: dwarven halberd_soultrap
+name: Bthuangth's Harvester
+script: ''
+mesh: w\W_Dwemer_halberd.nif
+icon: w\Tx_Dwemer_halberd.tga
+enchanting: we_soultrap_en
+data:
+  weight: 22.0
+  value: 900
+  weapon_type: SpearTwoWide
+  health: 1000
+  speed: 1.0
+  reach: 1.8
+  enchantment: 70
+  chop_min: 1
+  chop_max: 18
+  slash_min: 1
+  slash_max: 14
+  thrust_min: 5
+  thrust_max: 29
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

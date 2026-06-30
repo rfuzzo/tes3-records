@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: sc_radiyasicymask
+name: Scroll of Radiya's Icy Mask
+script: ''
+mesh: m\text_scroll_01.nif
+icon: m\tx_scroll_open_01.tga
+enchanting: sc_radiyasicymask_en
+text: <DIV ALIGN="center"><FONT COLOR="000000" SIZE="2" FACE="Daedric">WOE UPON YOU</FONT><BR>
+data:
+  weight: 0.2
+  value: 129
+  book_type: Scroll
+  skill: None
+  enchantment: 0

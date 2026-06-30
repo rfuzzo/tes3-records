@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Bre_Artisan_Claymore_01
+name: Wayrest Artisan Claymore
+script: ''
+mesh: TR\w\tr_w_breton_claymore.nif
+icon: TR\w\tr_w_breton_claymore.dds
+enchanting: ''
+data:
+  weight: 29.0
+  value: 480
+  weapon_type: LongBladeTwoClose
+  health: 2100
+  speed: 1.25
+  reach: 1.0
+  enchantment: 105
+  chop_min: 1
+  chop_max: 31
+  slash_min: 1
+  slash_max: 26
+  thrust_min: 1
+  thrust_max: 18
+  flags: ''

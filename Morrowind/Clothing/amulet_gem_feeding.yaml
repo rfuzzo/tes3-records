@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: amulet_gem_feeding
+name: Amulet of Gem Feeding
+script: ''
+mesh: c\Amulet_Exquisit_1.NIF
+icon: c\tx_amulet_exquisite1.tga
+enchanting: gem_feeding_en
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 275
+  enchantment: 1200

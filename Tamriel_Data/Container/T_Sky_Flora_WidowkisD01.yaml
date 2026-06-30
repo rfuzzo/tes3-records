@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Sky_Flora_WidowkisD01
+name: Dried Widow Kiss
+script: ''
+mesh: sky\o\sky_flora_WidowKDry.nif
+encumbrance: 0.0
+container_flags: ORGANIC | IS_BASE
+inventory:
+- - 1
+  - T_Sky_Random_FlorWidowkiss

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: BM Nordic Pick
+name: Ancient Nordic Pick Axe
+script: ''
+mesh: w\W_Pickaxe.NIF
+icon: w\PickAxe.dds
+enchanting: ''
+data:
+  weight: 20.0
+  value: 8000
+  weapon_type: AxeOneHand
+  health: 300
+  speed: 1.0
+  reach: 1.0
+  enchantment: 100
+  chop_min: 1
+  chop_max: 20
+  slash_min: 1
+  slash_max: 15
+  thrust_min: 1
+  thrust_max: 5
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

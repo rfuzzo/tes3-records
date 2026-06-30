@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m3_amuletdeeppockets
+name: Amulet of Deep Pockets
+script: ''
+mesh: c\Amulet_Expensive_2.NIF
+icon: c\tx_amulet_expens2.tga
+enchanting: TR_m3_amuletdeeppocket_en
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 750
+  enchantment: 1125

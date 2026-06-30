@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2_MARK_Jeela
+name: Jeela
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: ''
+enchanting: ''
+text: "Marker for moving TR_m2_S_Jeela\r\nscript: TR_m2_q_10_SaveSlaveEscape"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

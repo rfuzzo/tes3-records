@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_RedemptionTR_V5
+name: Redemption Volume V
+script: ''
+mesh: TR\m\TR_book_closed_i05_AY.nif
+icon: TR\m\TR_book_closed_i05_AY.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nRedemption Volume V <BR>\r\nUnknown <BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nHe spent the day in fits of prayer, dreading the night and the shadows it would bring.<BR>\r\n<BR>\r\nAs the moon rose to shine down upon him, it was not terror as before that came over him, but an unexplainable lust and desire, stronger than before.<BR>\r\n<BR>\r\nAs before, he felt his skin splitting and he bones shift.<BR>\r\n<BR>\r\nAs before, claws sprouted from his fingers.<BR>\r\n<BR>\r\nAs before, he stepped out into the night air.<BR>\r\n<BR>\r\nHe felt the call of the beast inside him, and he now he knew what the beast hungered for: blood.<BR>\r\n<BR>\r\nHe watched a small figure walking home under the moon's glow, and the lust overtook the last of his reservations. He bounded towards the figure, ignoring his screams of terror. His mind did not register that this was one of his neighbors, a father and a husband.<BR>\r\n<BR>\r\nHe lashed out at the helpless individual, and soon lost all consciousness to the ecstasy of the hunt.<BR>\r\n<BR>\r\nHe awoke once more in the shade of a tree, his mouth filled with the taste of human blood.<BR>\r\n<BR>\r\nHe felt no regret for the life of the farmer. He was but prey to be hunted. Though Mara no longer called to him, he did not wish for her company.<BR>\r\n<BR>\r\nHe spent the day waiting for the night, for when he would feel the rush of power once more. As the transformation overtook him once more, he did not fear its pain. He simply waited for blood.<BR>\r\n<BR>\r\nWithout delay, he stepped out into the undergrowth. He surged silently through the trees, keen senses searching for life. It did not take long to find it. Sitting alone by a carved headstone overlooking a gorge, a small figure lay weeping.<BR>\r\n<BR>\r\nHe approached under the blanket of darkness, mind consumed with the lust for blood and the anticipation of its taste. He emerged from the trees and revealed himself to the girl. Their eyes met, and through the clouds of desire in his mind, he felt a pang of familiarity. The beast retreated. This was the girl who had tended to him. Deep behind his bestial features, a battle raged with the beast. He reached out to Mara for strength, and she responded.<BR>\r\n<BR>\r\nInfused with the strength of his god, he flung himself and the other over the precipice. Man and beast sailed through the air. He saw the beast fall away from him as it dropped like a stone to the ground below. He felt Mara embrace him and fold him in her arms as he sailed above his bestial body, sailing upwards to find his redemption.<BR>"
+data:
+  weight: 1.5
+  value: 40
+  book_type: Book
+  skill: None
+  enchantment: 100

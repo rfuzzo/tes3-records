@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m3-771_w_arbalest
+name: Colovian Siegebreaker Arbalest
+script: ''
+mesh: tr\w\w_crossbow_fix.nif
+icon: w\tx_crossbow.dds
+enchanting: TR_m3_OE_colovian_arbalest_En
+data:
+  weight: 20.0
+  value: 4500
+  weapon_type: MarksmanCrossbow
+  health: 750
+  speed: 1.0
+  reach: 1.0
+  enchantment: 90
+  chop_min: 45
+  chop_max: 45
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

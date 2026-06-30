@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m4_TG_ElsweyrSmuggler_01
+name: ''
+script: TR_m4_TG_ElsweyrSmuggle_scp
+mesh: Sky\x\Sky_Ex_Fisherboat_01.nif

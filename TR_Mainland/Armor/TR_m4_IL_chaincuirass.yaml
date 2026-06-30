@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: TR_m4_IL_chaincuirass
+name: Chains of Credibility
+script: LegionUniform
+mesh: a\A_M_ImperialChain_C_GND.nif
+icon: a\Tx_ImperialChain_Cuirass.tga
+enchanting: TR_m4_IL_enchcuirass
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: a_m_imperialchain_cuirass
+  female_bodypart: A_ImperialChain _C_female
+data:
+  armor_type: Cuirass
+  weight: 21.0
+  value: 210
+  health: 300
+  enchantment: 140
+  armor_rating: 12

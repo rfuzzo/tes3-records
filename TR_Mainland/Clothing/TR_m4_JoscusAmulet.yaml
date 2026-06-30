@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m4_JoscusAmulet
+name: Joscus' Amulet
+script: ''
+mesh: c\Amulet_Common_4.NIF
+icon: c\tx_amulet_com4.tga
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 0.5
+  value: 5
+  enchantment: 0

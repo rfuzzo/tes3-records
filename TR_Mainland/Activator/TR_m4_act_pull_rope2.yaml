@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_act_pull_rope2
+name: Pull Rope
+script: TR_m4_act_pull_rope2_script
+mesh: f\Furn_De_Rope_07.nif

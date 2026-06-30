@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Nor_Ancient_Shortsword_01
+name: Ancient Nordic Shortsword
+script: ''
+mesh: sky\w\sky_w_anordic_shsword.nif
+icon: sky\w\sky_w_anordic_ssword.dds
+enchanting: ''
+data:
+  weight: 11.0
+  value: 210
+  weapon_type: ShortBladeOneHand
+  health: 800
+  speed: 2.0
+  reach: 1.0
+  enchantment: 50
+  chop_min: 4
+  chop_max: 15
+  slash_min: 3
+  slash_max: 14
+  thrust_min: 2
+  thrust_max: 10
+  flags: ''

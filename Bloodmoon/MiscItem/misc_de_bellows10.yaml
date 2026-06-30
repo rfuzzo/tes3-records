@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: misc_de_bellows10
+name: Bellows
+script: ''
+mesh: m\misc_bellows10.nif
+icon: m\misc_bellows00.tga
+data:
+  weight: 5.0
+  value: 1
+  flags: ''

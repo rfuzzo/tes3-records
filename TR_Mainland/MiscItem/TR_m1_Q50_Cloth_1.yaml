@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m1_Q50_Cloth_1
+name: High Quality Bolt of Cloth
+script: ''
+mesh: f\Furn_clothbolt_01.NIF
+icon: m\Tx_clothbolt_01.tga
+data:
+  weight: 15.0
+  value: 75
+  flags: ''

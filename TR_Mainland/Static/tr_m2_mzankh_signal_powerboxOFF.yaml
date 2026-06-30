@@ -1,0 +1,4 @@
+type: Static
+flags: PERSISTENT
+id: tr_m2_mzankh_signal_powerboxOFF
+mesh: TR\l\TR_in_dwrv_neon_Q.nif

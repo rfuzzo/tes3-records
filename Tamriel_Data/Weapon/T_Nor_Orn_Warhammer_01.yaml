@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Nor_Orn_Warhammer_01
+name: Nordic Warhammer
+script: ''
+mesh: TR\w\TR_w_nord_whammer.nif
+icon: TR\w\TR_w_nord_whammer.tga
+enchanting: ''
+data:
+  weight: 35.0
+  value: 185
+  weapon_type: BluntTwoClose
+  health: 1900
+  speed: 1.0
+  reach: 1.0
+  enchantment: 100
+  chop_min: 1
+  chop_max: 45
+  slash_min: 1
+  slash_max: 20
+  thrust_min: 1
+  thrust_max: 15
+  flags: ''

@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: TR_m4_Yenashpi_Chest
+name: Worn chest
+script: ''
+mesh: o\Contain_De_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Dwe_Regular_Dagger_01
+- - 1
+  - misc_dwrv_artifact50
+- - 1
+  - misc_dwrv_artifact60

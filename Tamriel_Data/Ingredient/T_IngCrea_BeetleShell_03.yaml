@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_BeetleShell_03
+name: Wood Beetle Shell
+script: ''
+mesh: TR\n\TR_Ing_Beetle_Shell_03.nif
+icon: TR\n\TR_Ing_Beetle_Shell_03.dds
+data:
+  weight: 0.5
+  value: 3
+  effects:
+  - FortifyAttribute
+  - DetectAnimal
+  - None
+  - None
+  skills:
+  - Block
+  - None
+  - None
+  - None
+  attributes:
+  - Endurance
+  - None
+  - None
+  - None

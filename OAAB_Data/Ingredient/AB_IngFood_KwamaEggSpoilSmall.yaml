@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: AB_IngFood_KwamaEggSpoilSmall
+name: Spoiled Kwama Egg
+script: ''
+mesh: f\Food_kwama_egg_01.NIF
+icon: m\Tx_food_kwama_egg_01.tga
+data:
+  weight: 0.5
+  value: 1
+  effects:
+  - DrainFatigue
+  - None
+  - None
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

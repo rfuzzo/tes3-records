@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: TR_i2_445_s2fx
+name: fx
+script: TR_m2_445_sc_s2fx
+mesh: tr\i\tr_collision_box_01.nif
+encumbrance: 0.0
+container_flags: IS_BASE
+inventory: []

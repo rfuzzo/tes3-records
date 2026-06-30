@@ -1,0 +1,29 @@
+type: Clothing
+flags: ''
+id: T_Rga_Cm_Pants_01
+name: Common Pants
+script: ''
+mesh: hf\c\hf_pantscm_01_gnd.nif
+icon: hf\c\hf_pantscm_01.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Groin
+  male_bodypart: T_C_RgaCmPants01_G
+  female_bodypart: ''
+- biped_object_type: RightKnee
+  male_bodypart: T_C_RgaCmPants01_K
+  female_bodypart: ''
+- biped_object_type: LeftUpperLeg
+  male_bodypart: T_C_RgaCmPants01_UL
+  female_bodypart: ''
+- biped_object_type: RightUpperLeg
+  male_bodypart: T_C_RgaCmPants01_UL
+  female_bodypart: ''
+- biped_object_type: LeftKnee
+  male_bodypart: T_C_RgaCmPants01_K
+  female_bodypart: ''
+data:
+  clothing_type: Pants
+  weight: 2.0
+  value: 4
+  enchantment: 20

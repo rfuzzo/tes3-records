@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngDye_Verdigris_01
+name: Verdigris Dye
+script: ''
+mesh: tr\n\tr_ing_verdigris.nif
+icon: tr\n\tr_ing_verdigris.dds
+data:
+  weight: 0.1
+  value: 30
+  effects:
+  - Light
+  - FortifyAttribute
+  - ResistParalysis
+  - None
+  skills:
+  - None
+  - Block
+  - None
+  - None
+  attributes:
+  - None
+  - Personality
+  - None
+  - None

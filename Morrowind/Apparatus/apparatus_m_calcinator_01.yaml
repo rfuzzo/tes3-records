@@ -1,0 +1,12 @@
+type: Apparatus
+flags: ''
+id: apparatus_m_calcinator_01
+name: Master's Calcinator
+script: ''
+mesh: m\App_M_Calcinator_01.nif
+icon: m\Tx_calcinator_03.tga
+data:
+  apparatus_type: Calcinator
+  quality: 1.2
+  weight: 13.0
+  value: 240

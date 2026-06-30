@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: crate_01_medernulen2
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - chitin short bow
+- - 1
+  - netch_leather_towershield
+- - 10
+  - misc_com_plate_05
+- - 1
+  - misc_de_fishing_pole
+- - 1
+  - misc_uni_pillow_01

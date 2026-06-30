@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_Bottomweed_01
+name: Bottomweed
+script: ''
+mesh: sky\n\sky_ingred_bottomw.nif
+icon: sky\n\tx_ingred_bottomw.dds
+data:
+  weight: 0.1
+  value: 5
+  effects:
+  - FortifyFatigue
+  - WaterBreathing
+  - Paralyze
+  - CureParalyzation
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

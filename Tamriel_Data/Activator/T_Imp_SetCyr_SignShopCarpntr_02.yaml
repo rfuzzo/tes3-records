@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_SetCyr_SignShopCarpntr_02
+name: ''
+script: SignRotate
+mesh: pc\f\pc_furn_sign_carpnt_02.nif

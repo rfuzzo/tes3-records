@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Bre_Set_SignShopGeneral_01
+name: ''
+script: SignRotate
+mesh: hr\f\hr_act_sign_general_01.nif

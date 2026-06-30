@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m3_OE_MG_PuzzleKingBed4
+name: The Bed King
+script: TR_m3_OE_MG_PuzzleBedKing3
+mesh: f\furn_com_bed_07.nif

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_SilverWarePlate_04
+name: Silverware Plate
+script: ''
+mesh: TR\m\TR_misc_silv_plate_06.nif
+icon: TR\m\TR_misc_silv_plate_06.dds
+data:
+  weight: 3.0
+  value: 17
+  flags: ''

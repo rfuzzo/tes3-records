@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Imp_Silver_Tanto_01
+name: Silver Tanto
+script: ''
+mesh: tr\w\tr_w_silver_tanto.nif
+icon: tr\w\tr_w_silver_tanto.dds
+enchanting: ''
+data:
+  weight: 3.0
+  value: 52
+  weapon_type: ShortBladeOneHand
+  health: 300
+  speed: 2.25
+  reach: 1.0
+  enchantment: 18
+  chop_min: 5
+  chop_max: 11
+  slash_min: 5
+  slash_max: 11
+  thrust_min: 5
+  thrust_max: 11
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE | SILVER

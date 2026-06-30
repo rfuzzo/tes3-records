@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: light_com_lantern_02_177_Boat01
+name: ''
+script: ''
+mesh: l\Light_Com_Lantern_02.NIF
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 10
+  time: -1
+  radius: 177
+  color:
+  - 245
+  - 140
+  - 40
+  - 0
+  flags: DYNAMIC | FIRE | FLICKER_SLOW

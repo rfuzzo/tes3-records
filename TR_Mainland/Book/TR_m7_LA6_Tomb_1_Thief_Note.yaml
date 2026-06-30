@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_LA6_Tomb_1_Thief_Note
+name: Thief's note
+script: ''
+mesh: m\Text_Note_02.nif
+icon: m\Tx_note_02.tga
+enchanting: ''
+text: "Thief's note<p>\r\n\r\n... has fallen into trap and we couldn't help him. I think he's dead now.<p>\r\n\r\nSounds from the downstair terrify me. Looks like some great evil has possesed this place, it's not normal tomb that we used to rob. And this key... I've no idea what door it opens. However, the treasure is so close, I can see the altar from a small window in the corridor. If I only had one of those telekinesis potions...<p>\r\n\r\n"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

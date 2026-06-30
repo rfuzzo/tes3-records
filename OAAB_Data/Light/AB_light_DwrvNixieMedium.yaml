@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: AB_light_DwrvNixieMedium
+name: ''
+script: ''
+mesh: OAAB\l\dwrv_nixieMed.nif
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 24
+  color:
+  - 98
+  - 37
+  - 0
+  - 0
+  flags: FLICKER

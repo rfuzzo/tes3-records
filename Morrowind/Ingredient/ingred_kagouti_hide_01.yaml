@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_kagouti_hide_01
+name: Kagouti Hide
+script: ''
+mesh: n\Ingred_Kagouti_Hide_01.nif
+icon: n\Tx_kagouti_hide_01.tga
+data:
+  weight: 1.0
+  value: 2
+  effects:
+  - DrainFatigue
+  - FortifyAttribute
+  - ResistCommonDisease
+  - NightEye
+  skills:
+  - Block
+  - Block
+  - Block
+  - Block
+  attributes:
+  - Strength
+  - Speed
+  - Strength
+  - Strength

@@ -1,0 +1,36 @@
+type: Alchemy
+flags: ''
+id: T_QyC_Cimoa
+name: Cimoa
+script: ''
+mesh: pi\m\pi_m_cnq_cimoa.nif
+icon: pi\m\pi_m_cnq_cimoa.dds
+effects:
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Agility
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 20
+  max_magnitude: 20
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Endurance
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 20
+  max_magnitude: 20
+- magic_effect: DrainAttribute
+  skill: None
+  attribute: Willpower
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 10
+  max_magnitude: 10
+data:
+  weight: 1.0
+  value: 55
+  flags: ''

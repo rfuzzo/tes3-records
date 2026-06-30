@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_OE_IAS_velothian
+name: Velothian Collection
+script: ''
+mesh: m\Text_Parchment_01.NIF
+icon: m\Tx_parchment_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe Velothian Collection <BR> <BR>\r\n<DIV ALIGN=\"CENTER\">\r\nThe pre-historic Dark Elves supposedly immigrated across the continent into Morrowind from the Summerset Isles during the Merethic Era. Following the prophet Veloth they established a culture known as the High Velothi culture. The items in the collection include pieces of Velothian armor, a burial urn and a brazier, and a column exemplifying the traditional Velothi architecture which can be seen in the ancestral tombs of the Dark Elves. <br> "
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

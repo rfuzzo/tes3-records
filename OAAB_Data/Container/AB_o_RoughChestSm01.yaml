@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: AB_o_RoughChestSm01
+name: Wooden Chest
+script: ''
+mesh: OAAB\o\roughChestSmall01.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory: []

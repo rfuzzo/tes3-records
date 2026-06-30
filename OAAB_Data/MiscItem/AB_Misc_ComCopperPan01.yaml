@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_ComCopperPan01
+name: Copper Pan
+script: ''
+mesh: OAAB\m\copperPan01.nif
+icon: OAAB\m\misc_copperpan_01.dds
+data:
+  weight: 3.0
+  value: 16
+  flags: ''

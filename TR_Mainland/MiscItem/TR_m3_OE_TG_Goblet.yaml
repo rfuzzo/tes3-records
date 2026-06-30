@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m3_OE_TG_Goblet
+name: Goblet
+script: TR_m3_OE_TG_PoisonWineScript
+mesh: m\Misc_De_Goblet_04.NIF
+icon: m\Misc_De_Goblet_04.tga
+data:
+  weight: 1.0
+  value: 3
+  flags: ''

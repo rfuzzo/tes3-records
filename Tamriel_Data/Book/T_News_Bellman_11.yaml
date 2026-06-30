@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Bellman_11
+name: MAGICAL BREAKTHROUGH IMMINENT?
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_note_oe_news.nif
+icon: tr\m\tr_note_oe_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\TR_bellman_512_256.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nMAGICAL BREAKTHROUGH IMMINENT?<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nOur city's community of magical practitioners is abuzz with speculation after Tarhiel, the Court Wizard of Ebonheart, was seen excitedly running up the castle stairs carrying a large stack of enchanted scrolls. This follows an extended period of time during which the Argonian had secluded himself in his chambers, supposedly working on a grand experiment. Yuaile Phyroc, a local enchanter who alerted us to this story, had this to say: \"Tarhiel's ideas are sometimes a little over the top, but I hope this discovery of his will jump start a new era of magical research and help our city's glory reach new heights!\"<br><br>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

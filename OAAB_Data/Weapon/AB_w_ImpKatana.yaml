@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_ImpKatana
+name: Imperial Katana
+script: ''
+mesh: OAAB\w\rem_imp_katana.nif
+icon: OAAB\w\rem_imp_katana.dds
+enchanting: ''
+data:
+  weight: 17.0
+  value: 160
+  weapon_type: LongBladeOneHand
+  health: 1700
+  speed: 1.5
+  reach: 1.0
+  enchantment: 70
+  chop_min: 4
+  chop_max: 23
+  slash_min: 1
+  slash_max: 19
+  thrust_min: 1
+  thrust_max: 6
+  flags: ''

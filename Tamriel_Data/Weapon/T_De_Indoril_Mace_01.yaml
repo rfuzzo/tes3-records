@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_De_Indoril_Mace_01
+name: Indoril Mace
+script: ''
+mesh: tr\w\tr_w_indoril_mace.nif
+icon: tr\w\tr_w_indoril_mace.dds
+enchanting: ''
+data:
+  weight: 23.0
+  value: 2400
+  weapon_type: BluntOneHand
+  health: 2700
+  speed: 1.5
+  reach: 1.0
+  enchantment: 45
+  chop_min: 5
+  chop_max: 20
+  slash_min: 5
+  slash_max: 20
+  thrust_min: 1
+  thrust_max: 3
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

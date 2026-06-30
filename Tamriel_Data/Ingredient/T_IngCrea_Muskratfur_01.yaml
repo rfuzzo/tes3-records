@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_Muskratfur_01
+name: Muskrat Fur
+script: ''
+mesh: pc\n\pc_ing_muskratfur.nif
+icon: pc\n\pc_ing_muskratfur.dds
+data:
+  weight: 0.4
+  value: 5
+  effects:
+  - DrainAttribute
+  - FortifyHealth
+  - ResistShock
+  - None
+  skills:
+  - Block
+  - None
+  - None
+  - None
+  attributes:
+  - Intelligence
+  - None
+  - None
+  - None

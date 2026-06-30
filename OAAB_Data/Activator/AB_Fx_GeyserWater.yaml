@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Fx_GeyserWater
+name: ''
+script: AB_GeyserVFX_s
+mesh: OAAB\e\GeyserWater.nif

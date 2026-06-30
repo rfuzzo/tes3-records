@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Com_Steel_Rapier_01
+name: Steel Rapier
+script: ''
+mesh: tr\w\tr_w_steel_rapier_01.nif
+icon: tr\w\tr_w_steel_rapier.dds
+enchanting: ''
+data:
+  weight: 14.0
+  value: 58
+  weapon_type: LongBladeOneHand
+  health: 1030
+  speed: 1.4
+  reach: 1.25
+  enchantment: 55
+  chop_min: 1
+  chop_max: 5
+  slash_min: 4
+  slash_max: 17
+  thrust_min: 5
+  thrust_max: 21
+  flags: ''

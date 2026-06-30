@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m1_Urn_Voun_Ash_02
+name: Urn
+script: ''
+mesh: o\Contain_urn_05.NIF
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - TR_m1_Voun_AshesUNI02

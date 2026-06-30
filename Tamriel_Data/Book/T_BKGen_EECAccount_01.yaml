@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_BKGen_EECAccount_01
+name: EEC Account Ledger
+script: ''
+mesh: pc\m\PC_bk_Book_15.nif
+icon: pc\m\pc_bk_book_15.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\n[This book contains information about various East Empire Company accounts. It is dated within the last five years.]\r\n<BR>"
+data:
+  weight: 2.0
+  value: 5
+  book_type: Book
+  skill: None
+  enchantment: 0

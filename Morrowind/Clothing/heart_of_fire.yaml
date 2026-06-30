@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: heart_of_fire
+name: Sanit-Kil's Heart of Fire
+script: ''
+mesh: c\Amulet_Expensive_1.NIF
+icon: c\tx_amulet_expens1.tga
+enchanting: fireheart_en
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 600
+  enchantment: 150

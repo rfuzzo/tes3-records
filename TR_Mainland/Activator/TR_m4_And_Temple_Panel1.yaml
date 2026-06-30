@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m4_And_Temple_Panel1
+name: ''
+script: ''
+mesh: tr\f\tr_furn_v_s_found01.nif

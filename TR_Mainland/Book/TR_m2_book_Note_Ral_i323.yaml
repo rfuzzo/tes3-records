@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2_book_Note_Ral_i323
+name: Handwritten Note
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nYour share.<BR>\r\n<BR>\r\n-Naleth<BR>\r\n<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

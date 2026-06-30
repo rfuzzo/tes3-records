@@ -1,0 +1,23 @@
+type: Container
+flags: ''
+id: T_MwDe_FurnP_Cl2Clt
+name: Closet
+script: ''
+mesh: o\Contain_De_Closet_02.NIF
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_De_Cm_Pants_01
+- - 1
+  - common_belt_05
+- - 1
+  - common_skirt_02
+- - 1
+  - random_de_pants
+- - 1
+  - random_de_robe
+- - 1
+  - random_de_shirt
+- - 1
+  - random_de_shoes_common

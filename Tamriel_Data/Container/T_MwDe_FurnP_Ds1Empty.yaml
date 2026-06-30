@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: T_MwDe_FurnP_Ds1Empty
+name: Desk
+script: ''
+mesh: TR\o\TR_furn_de_p_desk_01.nif
+encumbrance: 40.0
+container_flags: IS_BASE
+inventory: []

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_Painting_UNI_Warp
+name: The Warp in the West
+script: ''
+mesh: pc\m\PC_M_Painting_Warp.nif
+icon: pc\m\PC_M_Painting_Warp.dds
+data:
+  weight: 14.0
+  value: 1100
+  flags: ''

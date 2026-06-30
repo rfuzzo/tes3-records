@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: AB_ScEn_Chameleon_d
+name: Defective Scroll of Chameleon
+script: ''
+mesh: OAAB\m\scrollBargain.nif
+icon: OAAB\m\scroll_bargain.tga
+enchanting: AB_sc_Chameleon_d_en
+text: <DIV ALIGN="center"><FONT COLOR="000000" SIZE="2" FACE="Daedric">MY LIFE AND MY HONOR</FONT><BR>
+data:
+  weight: 0.2
+  value: 16
+  book_type: Scroll
+  skill: None
+  enchantment: 0

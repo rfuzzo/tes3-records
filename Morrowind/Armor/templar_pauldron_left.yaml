@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: templar_pauldron_left
+name: Imperial Templar Left Pauldron
+script: ''
+mesh: a\A_Templar_M_CL_Pauldron.nif
+icon: a\Tx_Templar_pauldron.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: LeftPauldron
+  male_bodypart: a_templar_m_cl_pauldron
+  female_bodypart: ''
+data:
+  armor_type: LeftPauldron
+  weight: 10.0
+  value: 60
+  health: 180
+  enchantment: 20
+  armor_rating: 18

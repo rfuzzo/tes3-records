@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_Painting_UNI_Nine
+name: Nine Rising Stars
+script: ''
+mesh: pc\m\PC_M_Painting_Nine.nif
+icon: pc\m\PC_M_Painting_Nine.dds
+data:
+  weight: 9.0
+  value: 1000
+  flags: ''

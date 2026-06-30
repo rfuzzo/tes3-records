@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_AM_banner_healer
+name: 'Dirisa Sendu: Healer'
+script: OutsideBanner
+mesh: tr\f\tr_act_banner_heal_01.nif

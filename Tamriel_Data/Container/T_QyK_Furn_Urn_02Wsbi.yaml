@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_QyK_Furn_Urn_02Wsbi
+name: Urn
+script: ''
+mesh: pi\o\pi_cont_qk_urn_02.nif
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - 4
+  - T_Glb_Random_FlorWasabiRoot

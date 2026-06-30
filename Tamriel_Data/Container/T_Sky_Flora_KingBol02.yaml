@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Sky_Flora_KingBol02
+name: King Bolete
+script: ''
+mesh: Sky\o\Sky_Flora_KingB_02.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - T_Sky_Random_FlorKingBolete

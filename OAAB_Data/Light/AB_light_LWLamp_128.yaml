@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: AB_light_LWLamp_128
+name: Limeware Lamp
+script: ''
+mesh: OAAB\l\lwLamp.nif
+icon: OAAB\l\lwLamp.tga
+sound: ''
+data:
+  weight: 4.0
+  value: 400
+  time: 500
+  radius: 128
+  color:
+  - 215
+  - 163
+  - 55
+  - 0
+  flags: DYNAMIC | CAN_CARRY | FIRE

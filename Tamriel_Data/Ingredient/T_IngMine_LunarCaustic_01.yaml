@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngMine_LunarCaustic_01
+name: Lunar Caustic
+script: ''
+mesh: tr\n\tr_ing_lunarcaustic.nif
+icon: tr\n\tr_ing_lunarcaustic.dds
+data:
+  weight: 0.1
+  value: 5
+  effects:
+  - FireDamage
+  - CureCommonDisease
+  - CurePoison
+  - RestoreHealth
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

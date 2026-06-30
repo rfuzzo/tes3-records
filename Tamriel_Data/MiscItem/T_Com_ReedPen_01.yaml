@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_ReedPen_01
+name: Reed Pen
+script: ''
+mesh: tr\m\tr_misc_reed_pen01.nif
+icon: tr\m\tr_misc_reed_pen01.dds
+data:
+  weight: 0.05
+  value: 3
+  flags: ''

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_bc_spore_pod
+name: Spore Pod
+script: ''
+mesh: n\Ingred_BC_Spore_Pod.NIF
+icon: n\Ingred_BC_Spore_Pod.tga
+data:
+  weight: 0.1
+  value: 1
+  effects:
+  - DrainAttribute
+  - DrainFatigue
+  - DetectKey
+  - Paralyze
+  skills:
+  - Block
+  - Block
+  - Block
+  - Block
+  attributes:
+  - Strength
+  - Strength
+  - Strength
+  - Strength

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Nor_Furs_03
+name: Fur Pack
+script: ''
+mesh: sky\m\Sky_Misc_Furs_03.nif
+icon: sky\m\tx_Misc_Furs_03.dds
+data:
+  weight: 5.0
+  value: 20
+  flags: ''

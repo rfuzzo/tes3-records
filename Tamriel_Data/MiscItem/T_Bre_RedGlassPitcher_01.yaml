@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Bre_RedGlassPitcher_01
+name: Gilded Red Glass Pitcher
+script: ''
+mesh: hr\m\m_red_glass_ptr.nif
+icon: hr\m\hr_misc_red_ptr.dds
+data:
+  weight: 4.0
+  value: 340
+  flags: ''

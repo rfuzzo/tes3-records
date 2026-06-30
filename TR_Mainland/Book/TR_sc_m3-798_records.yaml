@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_sc_m3-798_records
+name: Order of the Watch Records
+script: ''
+mesh: m\Text_Scroll_02.nif
+icon: m\Tx_scroll_03.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This paper documents notable crimes committed in the canton city of Almas Thirr from the year 3E 419 to present times.]<BR>\r\n<BR>"
+data:
+  weight: 1.5
+  value: 15
+  book_type: Scroll
+  skill: None
+  enchantment: 100

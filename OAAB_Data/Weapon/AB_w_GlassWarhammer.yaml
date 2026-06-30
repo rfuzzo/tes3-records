@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_GlassWarhammer
+name: Glass Warhammer
+script: ''
+mesh: OAAB\w\glassWarhammer.nif
+icon: OAAB\w\glassWarhammer.dds
+enchanting: ''
+data:
+  weight: 20.0
+  value: 9000
+  weapon_type: BluntTwoClose
+  health: 1600
+  speed: 1.0
+  reach: 1.5
+  enchantment: 30
+  chop_min: 1
+  chop_max: 55
+  slash_min: 1
+  slash_max: 50
+  thrust_min: 1
+  thrust_max: 2
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

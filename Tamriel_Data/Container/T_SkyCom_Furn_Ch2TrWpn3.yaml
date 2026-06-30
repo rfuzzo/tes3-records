@@ -1,0 +1,29 @@
+type: Container
+flags: ''
+id: T_SkyCom_Furn_Ch2TrWpn3
+name: Chest
+script: ''
+mesh: Sky\o\Sky_Cont_Chest_02_02.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - -1
+  - Iron Long Spear
+- - -1
+  - iron broadsword
+- - -1
+  - iron longsword
+- - -1
+  - nordic broadsword
+- - -1
+  - silver dagger
+- - -1
+  - silver shortsword
+- - -200
+  - steel arrow
+- - -200
+  - steel bolt
+- - -1
+  - steel halberd
+- - -1
+  - steel warhammer

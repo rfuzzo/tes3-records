@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_Painting_UNI_Wife
+name: Sathasa Andas
+script: ''
+mesh: tr\m\TR_M_Painting_Wife.nif
+icon: tr\m\TR_M_Painting_Wife.dds
+data:
+  weight: 6.0
+  value: 1550
+  flags: ''

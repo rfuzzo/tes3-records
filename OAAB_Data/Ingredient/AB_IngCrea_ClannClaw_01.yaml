@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: AB_IngCrea_ClannClaw_01
+name: Clannfear Claw
+script: ''
+mesh: OAAB\n\rem_clann_claw.nif
+icon: OAAB\n\n_clann_claw.dds
+data:
+  weight: 1.0
+  value: 50
+  effects:
+  - FortifyAttackBonus
+  - DrainAttribute
+  - DamageHealth
+  - CurePoison
+  skills:
+  - None
+  - Block
+  - None
+  - None
+  attributes:
+  - None
+  - Intelligence
+  - None
+  - None

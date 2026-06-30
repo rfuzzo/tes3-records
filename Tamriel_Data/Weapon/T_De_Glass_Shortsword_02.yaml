@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_De_Glass_Shortsword_02
+name: Glass Shortsword
+script: ''
+mesh: tdg\tr_w_glass_ssword_02.nif
+icon: tdg\tr_w_glass_ssword_02.dds
+enchanting: ''
+data:
+  weight: 8.0
+  value: 8000
+  weapon_type: ShortBladeOneHand
+  health: 400
+  speed: 2.0
+  reach: 1.0
+  enchantment: 20
+  chop_min: 6
+  chop_max: 20
+  slash_min: 6
+  slash_max: 20
+  thrust_min: 4
+  thrust_max: 12
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

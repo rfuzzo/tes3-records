@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_q_OE_Urien_crate
+name: ''
+script: TR_m3_q_OE_Urien_Crate_sc
+mesh: f\Furn_crate_open_01.NIF

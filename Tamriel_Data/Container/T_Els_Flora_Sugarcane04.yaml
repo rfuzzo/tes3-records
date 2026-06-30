@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Els_Flora_Sugarcane04
+name: Sweetgrass
+script: ''
+mesh: EPoS\o\flora_sugarcane_04.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 4
+  - T_Els_Random_FlorSugarcane

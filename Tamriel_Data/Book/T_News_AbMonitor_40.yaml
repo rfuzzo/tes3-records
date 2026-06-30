@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_AbMonitor_40
+name: 'COMMENTARY: OLD TROUBLE AND NEW'
+script: T_ScNews_Bellman_Paper
+mesh: pc\m\pc_text_note_anv_news.nif
+icon: pc\m\pc_text_note_anv_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"PC\\pc_abmonitor.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nOLD TROUBLE AND NEW<BR>\r\n<IMG SRC=\"PC\\pc_abmonitor_cartoon01.dds\" WIDTH=\"377\" HEIGHT=\"189\"><BR>\r\n"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

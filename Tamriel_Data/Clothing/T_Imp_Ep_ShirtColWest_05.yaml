@@ -1,0 +1,23 @@
+type: Clothing
+flags: ''
+id: T_Imp_Ep_ShirtColWest_05
+name: Expensive Shirt
+script: ''
+mesh: pc\c\PC_Col_M_Shirt_W2_02G.nif
+icon: pc\c\PC_Col_M_Shirt_W2_02I.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_C_ImpEpShirtColWest05_C
+  female_bodypart: T_C_ImpEpShirtColWest05_CF
+- biped_object_type: LeftUpperArm
+  male_bodypart: T_C_ImpEpShirtColWest05_UA
+  female_bodypart: T_C_ImpEpShirtColWest05_UAF
+- biped_object_type: RightUpperArm
+  male_bodypart: T_C_ImpEpShirtColWest05_UA
+  female_bodypart: T_C_ImpEpShirtColWest05_UAF
+data:
+  clothing_type: Shirt
+  weight: 2.5
+  value: 15
+  enchantment: 75

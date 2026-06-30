@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_De_SetHla_AltarAkatosh_01
+name: Altar of Akatosh
+script: T_ScObj_ShrineHlaaluAkatosh
+mesh: tr\f\tr_furn_hla_altar_aka.nif

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: misc_rollingpin_01
+name: Rolling Pin
+script: ''
+mesh: m\Misc_rollingpin_01.NIF
+icon: m\Tx_rollingpin_01.tga
+data:
+  weight: 3.0
+  value: 1
+  flags: ''

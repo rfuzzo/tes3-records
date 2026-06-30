@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2_ZafBayCompany_Ledger01
+name: Company Business Ledger
+script: ''
+mesh: pc\m\pc_bk_book_18.nif
+icon: pc\m\pc_bk_book_18.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n[This ledger records the items bought and sold by the Zafirbel Bay Company here in Telvannis district. It consists of names, dates and places. Most of them deal with kwama products or Telvanni Bug Musk.]<BR>\r\n\r\n"
+data:
+  weight: 2.0
+  value: 2
+  book_type: Book
+  skill: None
+  enchantment: 0

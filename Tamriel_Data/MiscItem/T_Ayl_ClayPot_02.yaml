@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Ayl_ClayPot_02
+name: Clay Pot
+script: ''
+mesh: pc\m\pc_ay_pot_02.nif
+icon: pc\m\pc_ay_pot_02.dds
+data:
+  weight: 2.0
+  value: 8
+  flags: ''

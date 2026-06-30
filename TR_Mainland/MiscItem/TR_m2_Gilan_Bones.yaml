@@ -1,0 +1,11 @@
+type: MiscItem
+flags: PERSISTENT
+id: TR_m2_Gilan_Bones
+name: Bone
+script: ''
+mesh: f\Furn_bone_01.nif
+icon: m\misc_Pop_bone00.tga
+data:
+  weight: 1.0
+  value: 1
+  flags: ''

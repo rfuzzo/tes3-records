@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Furn_ComRchBedSingle03
+name: Bed
+script: Bed_Standard
+mesh: OAAB\u\com_r_bed_s2_red.nif

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: tr_m3_oe_sign_c_bank_01
+name: Bricca Private Bank
+script: SignRotate
+mesh: f\Active_sign_C_pwan_01.nif

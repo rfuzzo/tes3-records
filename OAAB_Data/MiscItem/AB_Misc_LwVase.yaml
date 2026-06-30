@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_LwVase
+name: Limeware Vase
+script: ''
+mesh: OAAB\m\lw_vase.nif
+icon: OAAB\m\tx_limeware_vase.dds
+data:
+  weight: 5.0
+  value: 600
+  flags: ''

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Sc_VisionsOfKallistisPC
+name: 100 Dream-Visions of Kallistis
+script: ''
+mesh: m\text_scroll_01.nif
+icon: m\tx_scroll_open_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>The Hundred Dream-Visions of Kallistis<BR>...<BR>\r\n\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n\r\n73. Talos sweeps aside his enemies.<BR>\r\n\r\n<BR>\r\n\r\nStanding with my feet in Rumare's waters, I raised my eyes<BR>\r\n\r\nAnd saw a tower that pierced the sky, a sky with stars that shone though it was day<BR>\r\n\r\nI looked again, and the tower was a man, clad in white and gold<BR>\r\n\r\nAnd he reached his hand to the east and gathered brazen armor<BR>\r\n\r\nAnd he reached his hand to the west and swatted darting filigree birds.<BR>\r\n\r\n<BR>\r\n\r\nFrom temples that were like grains of sand and palaces of dust<BR>\r\n\r\nKings came in supplication, and gods too<BR>\r\n\r\nAnd he spoke from his wound, and they fell to their knees and became stones<BR>\r\n\r\nHe raised then a city of light and joy, which I did shake to see<BR>\r\n\r\nA perfect mechanism of heaven, the pure work of our blessed monstrous forebears made good.<BR>\r\n\r\n<BR>\r\n\r\n74. Talos purges the royalty of High Rock.<BR>\r\n\r\n<BR>\r\n\r\nThe tonsured princes bemoaned their fate<BR>\r\n\r\nHe whispered, and the wooden crowns flew from their heads<BR>\r\n\r\nI heard the crashing of rocks and the tumbling of palaces<BR>\r\n\r\nAs the slayers of Grandfather Zero vanished beneath the angry mountains.<BR>\r\n\r\n<BR>\r\n\r\nTattered banners and the wails of seneschals gave color to the air<BR>\r\n\r\nAnd slowly faded as new men, and new women, were called.<BR>\r\n\r\nWarriors and merchants became queens and kings<BR>\r\n\r\nAs the world was remade utterly, yet remained the same.<BR>\r\n\r\n<BR>\r\n\r\n...<BR>\r\n\r\n\r\n"
+data:
+  weight: 0.2
+  value: 130
+  book_type: Scroll
+  skill: None
+  enchantment: 0

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_De_Indoril_Scimitar_01
+name: Indoril Scimitar
+script: ''
+mesh: tr\w\tr_w_indoril_hopesh.nif
+icon: tr\w\tr_w_indoril_hopesh.dds
+enchanting: ''
+data:
+  weight: 30.0
+  value: 3000
+  weapon_type: LongBladeOneHand
+  health: 2250
+  speed: 1.35
+  reach: 1.0
+  enchantment: 360
+  chop_min: 2
+  chop_max: 21
+  slash_min: 1
+  slash_max: 33
+  thrust_min: 3
+  thrust_max: 26
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: TR_m4-514_chest_loot
+name: Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 338
+  - Gold_001
+- - 1
+  - TR_m4-514_w_sword
+- - 1
+  - T_Imp_ColFur_HelmTiger_01
+- - 1
+  - T_Imp_SilverWarePlate_04
+- - 2
+  - T_Imp_TankardNavy_01

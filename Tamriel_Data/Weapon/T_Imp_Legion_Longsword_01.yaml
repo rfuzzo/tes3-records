@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Imp_Legion_Longsword_01
+name: Imperial Longsword
+script: ''
+mesh: pc\w\pc_w_imp_lsword.nif
+icon: pc\w\pc_w_imp_lsword.tga
+enchanting: ''
+data:
+  weight: 21.0
+  value: 70
+  weapon_type: LongBladeOneHand
+  health: 700
+  speed: 1.35
+  reach: 1.0
+  enchantment: 70
+  chop_min: 2
+  chop_max: 12
+  slash_min: 1
+  slash_max: 18
+  thrust_min: 4
+  thrust_max: 16
+  flags: ''

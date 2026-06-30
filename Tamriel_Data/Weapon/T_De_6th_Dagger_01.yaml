@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_De_6th_Dagger_01
+name: Sixth House Dagger
+script: ''
+mesh: tr\w\tr_w_6th_dagger.nif
+icon: tr\w\tr_w_6th_dagger.dds
+enchanting: ''
+data:
+  weight: 8.3
+  value: 2000
+  weapon_type: ShortBladeOneHand
+  health: 1000
+  speed: 2.25
+  reach: 1.0
+  enchantment: 105
+  chop_min: 3
+  chop_max: 15
+  slash_min: 3
+  slash_max: 17
+  thrust_min: 7
+  thrust_max: 20
+  flags: ''

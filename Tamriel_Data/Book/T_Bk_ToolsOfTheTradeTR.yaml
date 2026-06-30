@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_ToolsOfTheTradeTR
+name: The Tools of the Trade
+script: ''
+mesh: tr\m\tr_book_notebk_02.nif
+icon: tr\m\tr_book_closed_ntbk02.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\">\r\n<FONT COLOR=\"000000\" SIZE=\"2\" FACE=\"Daedric\">\r\n<IMG SRC=\"TR\\tr_thieves_tools_01.dds\" WIDTH=\"290\" HEIGHT=\"290\"><BR> \r\n<IMG SRC=\"TR\\tr_thieves_tools_02.dds\" WIDTH=\"290\" HEIGHT=\"290\"><BR> \r\n<IMG SRC=\"TR\\tr_thieves_tools_03.dds\" WIDTH=\"290\" HEIGHT=\"290\"><BR> \r\n<IMG SRC=\"TR\\tr_thieves_tools_04.dds\" WIDTH=\"290\" HEIGHT=\"290\"><BR> \r\n<IMG SRC=\"TR\\tr_thieves_tools_05.dds\" WIDTH=\"290\" HEIGHT=\"290\"><BR> \r\n<IMG SRC=\"TR\\tr_thieves_tools_06.dds\" WIDTH=\"290\" HEIGHT=\"290\">\r\n</FONT><BR>"
+data:
+  weight: 0.5
+  value: 50
+  book_type: Book
+  skill: Security
+  enchantment: 0

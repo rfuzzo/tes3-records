@@ -1,0 +1,17 @@
+type: Clothing
+flags: ''
+id: T_Imp_Cm_SkirtColWest_03
+name: Common Skirt
+script: ''
+mesh: pc\c\PC_Col_C_Skirt_W1_03G.nif
+icon: pc\c\PC_Col_C_Skirt_W1_03I.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Skirt
+  male_bodypart: T_C_ImpCmSkirtColWest03_G
+  female_bodypart: ''
+data:
+  clothing_type: Skirt
+  weight: 2.0
+  value: 4
+  enchantment: 20

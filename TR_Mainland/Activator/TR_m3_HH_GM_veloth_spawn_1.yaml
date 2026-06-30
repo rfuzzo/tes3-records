@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_HH_GM_veloth_spawn_1
+name: veloth shrine spawn type 1
+script: TR_m3_HH_GM_veloth_spawn_1_scr
+mesh: EditorMarker.NIF

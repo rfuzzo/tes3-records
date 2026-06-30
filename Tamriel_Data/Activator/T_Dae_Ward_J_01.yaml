@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Dae_Ward_J_01
+name: ''
+script: T_ScObj_DaeWardJCollision
+mesh: tr\i\tr_collision_box_01.nif

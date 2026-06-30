@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: bk_colony_Toralf
+name: Tattered Note
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nLand somewhere NE of the colony. Wait until %PCName has left the site (the %PCRace can be identified based on descriptions previously provided.)<BR>\r\nKill every living thing in the colony. Be sure to leave behind some Skaal armor and weapons; there needs to be evidence readily available, should the Empire choose to investigate.<BR>\r\n<BR>\r\nPayment will be delivered at the designated meeting point once proof of the task's completion is presented.<BR>\r\n<BR>\r\n<BR>\r\nC<BR>"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

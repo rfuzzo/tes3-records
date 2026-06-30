@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Note_BralegelsNoteTR
+name: Bralegel's Note
+script: T_ScBook_SpFeather
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>\r\nBralegel's Note<BR>\r\n<BR>\r\nDear sir,<BR>\r\n<BR>\r\nI have little to report, save for a story of an interesting local character. I've already sent you the information about guard rotations, shipment schedules, and so forth; to date, things have not changed from the established pattern. Everything is as it should be, so the plans need no updating. I will try to sneak around and draw you a more accurate schematic of the place, but all in all, our plans should need little modification. So that this report is not a complete waste, I will now relate to you the tale as it was told to me by patrons of the local tavern:<BR>\r\n<BR>\r\nWhen I took my seat, I noticed a very large Nord passed out among a stack of bottles. I did not imagine glass a comfortable pillow, and so I commented that someone should rouse him, or at the very least gently rest his head on the table. The locals advised me against this course of action. According to past history, the Nord would not appreciate it.<BR>\r\n<BR>\r\nThough I could picture the Nord (they called him by the strange name of Kjohdor Elf-Flinger) being a vicious opponent in a bar fight, I asked about past experiences anyway. Believe me, sir, when I say it was not what I imagined.<BR>\r\n<BR>\r\nKjohdor was a mountain of a man, but the locals insisted that he was no fighter. Too lazy, they said. He was, in fact, a sorcerer, and a mediocre one at that. However limited he may be in that respect, though, he certainly gets the most out of his abilities. As they told me, one day it happened that a cocky Dunmer picked a fight with Kjohdor, thinking him a stupid, lazy brute. Ever the gentleman, the Nord took the fight outside.<BR>\r\n<BR>\r\nWhile the Dunmer drew his sword, Kjohdor cast a powerful Feather spell on him. The elf laughed, thinking Kjohdor an incompetent. Then the big Nord made an obscene comment about the Dunmer's ancestors, which prompted the elf to charge him. With surprising grace, the Nord sidestepped, and picked up the rude Dunmer easily. Kjohdor then propelled the unfortunate elf into the sky with all of his considerable strength. About a hundred feet in the air, the Feather spell gave out, and the Dunmer plummeted to his death.<BR>\r\n<BR>\r\nSir, the man sounds like he might be useful in our endeavor, however, he might not be of a temper to follow orders. In any case, it is good to know of him, if only to aid us in steering clear of him.<BR>\r\n<BR>\r\nEver your humble servant,<BR>\r\nBralegel <BR>\r\n"
+data:
+  weight: 1.5
+  value: 150
+  book_type: Scroll
+  skill: None
+  enchantment: 100

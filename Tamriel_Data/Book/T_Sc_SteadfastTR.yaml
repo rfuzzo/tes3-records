@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Sc_SteadfastTR
+name: Steadfast
+script: T_ScBook_SpRallyHumanoid
+mesh: m\Text_Scroll_open_03.nif
+icon: m\Tx_scroll_open_03.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>\r\nSteadfast<BR>\r\n<BR>\r\nBe we afeared of all that appears?<BR>\r\nScatter as mice to display our cowardice?<BR>\r\nOur ranks divide, scurry shamefully to hide?<BR>\r\nOr be a man, and stand alongside?<BR>\r\n<BR>\r\nDo not shake, you are not a leaf!<BR>\r\nDraw your sword, not let it remain in sheath!<BR>\r\nDo you hear me? Stand with pride!<BR>\r\nBe sure of yourself, and in us shall victory reside!<BR>\r\n<BR>\r\nStand! Fight! Hold!<BR>\r\nNow is not the time to shrink,<BR>\r\nNow is the time to be bold! <BR>\r\n"
+data:
+  weight: 1.5
+  value: 150
+  book_type: Scroll
+  skill: None
+  enchantment: 100

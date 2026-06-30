@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngMine_FoolsGold_01
+name: Fool's Gold
+script: ''
+mesh: tr\n\tr_ing_fools_gold.nif
+icon: tr\n\tr_ing_fools_gold.dds
+data:
+  weight: 2.0
+  value: 100
+  effects:
+  - FortifyAttribute
+  - Burden
+  - Blind
+  - DamageAttribute
+  skills:
+  - Block
+  - None
+  - None
+  - Block
+  attributes:
+  - Luck
+  - None
+  - None
+  - Intelligence

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Nor_SilverVase_01
+name: Silver Vase
+script: ''
+mesh: sky\m\sky_misc_slv_vs_01.nif
+icon: sky\m\tx_misc_slv_vs_01.dds
+data:
+  weight: 5.0
+  value: 30
+  flags: ''

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Dae_Regular_Longspear_01
+name: Daedric Longspear
+script: ''
+mesh: w\w_longspear_daedric.nif
+icon: w\tx_longspear_daedric.dds
+enchanting: ''
+data:
+  weight: 45.0
+  value: 25000
+  weapon_type: SpearTwoWide
+  health: 1200
+  speed: 1.0
+  reach: 1.8
+  enchantment: 160
+  chop_min: 2
+  chop_max: 9
+  slash_min: 3
+  slash_max: 9
+  thrust_min: 10
+  thrust_max: 50
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

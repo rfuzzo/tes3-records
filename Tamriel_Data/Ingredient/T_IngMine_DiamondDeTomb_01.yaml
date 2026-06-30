@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngMine_DiamondDeTomb_01
+name: Diamond
+script: T_ScObj_DeTombSpiritSummon
+mesh: n\Ingred_diamond_01.NIF
+icon: n\Tx_diamond.tga
+data:
+  weight: 0.2
+  value: 250
+  effects:
+  - DrainAttribute
+  - Invisibility
+  - Reflect
+  - DetectKey
+  skills:
+  - Block
+  - None
+  - None
+  - None
+  attributes:
+  - Agility
+  - None
+  - None
+  - None

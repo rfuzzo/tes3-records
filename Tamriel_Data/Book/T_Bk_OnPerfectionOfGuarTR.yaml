@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_OnPerfectionOfGuarTR
+name: On the Perfection of the Guar
+script: ''
+mesh: m\Text_Octavo_07.nif
+icon: m\Tx_book_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nOn the Perfection of the Guar<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nThere truly are few creatures across Tamriel that can be claimed to be the peak of creation. Some might claim this of the mighty dragons of legend. I have even heard it claimed that the eternal Lich can be classified as perfect. This is all nonsense of course!<BR>\r\n<BR>\r\nThe humble yet magestic guar is the ONLY creature across all of Tamriel that can truly claim such a title. The case should not even need to be made and should be self evident, but I shall do so anyways as it is so simple.<BR>\r\n<BR>\r\nI can recall my very first experience beholding such a grand beast as though it had just happened earlier this very day! I was having quite the miserable morning up to that point. The day began with me waking to a sore neck, which is certainly a less than ideal way to greet a new day. To add to this, it then rained all through the morning and midday! I was miserable and absolutely livid at having such poor luck. Then it happened. I saw next to a tree just down the road: a guar for the very first time! My day immediately improved!<BR>\r\n<BR>\r\nThe very first characteristic I noticed as I approached was it's loving and docile nature. So incredible is the demeanor of this fantastic being that it embraces all who come upon it! This demonstrates the ability of the guar to see through to the very soul of man and mer alike and understand that there is purity and kindness in all of us.<BR>\r\n<BR>\r\nTheir gorgeous appearance also cannot go understated. One glance at this wonderous creature will rapidly improve even the most sour of moods! From its appealing and universally loved skin tone and texture, to its soulful and innocent eyes. Truly a gift to us mortals from the Gods, and one that we're clearly not worthy of, might I add.<BR>\r\n<BR>\r\nSo advanced is its form that its arms are of the perfect size. The humble guar needs not the use of long arms, for it has no enemies to fend off! All creatures big and small love their eternal friend and companion, the guar.<BR>\r\n<BR>\r\nLastly, I will note the soothing and melodious tone of its purring. So generous is the guar that it produces a sound that calms the very souls of all who hear it and can be used quite effectively to drift even the most addled and busy mind to sleep.<BR>\r\n<BR>\r\nWith all of this being stated and made perfectly clear, can anyone now doubt the perfection of such a grand being? Can anyone ever attempt to supplant it with another \"perfect\" being? I think not!<BR>"
+data:
+  weight: 2.0
+  value: 35
+  book_type: Book
+  skill: None
+  enchantment: 0

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_FW_College_MusTelv
+name: Dark Elven Helms
+script: ''
+mesh: m\text_parchment_01.nif
+icon: m\tx_parchment_01.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nDark Elven Helms<BR> <BR>\r\n<DIV ALIGN=\"LEFT\">\r\nBeyond the walls of Firewatch, the lands of Telvannis District are dominated by the Dark Elf Great House Telvanni. Ruling their fiefs from strongholds grown from local sadrith, the isolationist wizard-lords of the Telvanni equip their forces in armors made from local wildlife. Seen here are two examples of such armorsmithing, made from chitin and crabshell.\r\n<BR>\r\nThese helms were collected from a pair of rebel insurgents who were killed attacking Firewatch in 419.\r\n<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_Kha_Amb_Sound
+name: Khalaan Amb Sound
+script: TR_m3_Kha_Sound_Loop
+mesh: EditorMarker.NIF

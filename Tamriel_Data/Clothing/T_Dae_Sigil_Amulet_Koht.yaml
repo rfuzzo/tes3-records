@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Dae_Sigil_Amulet_Koht
+name: Koht Sigil Amulet
+script: ''
+mesh: tr\c\tr_c_dae_sigil_k.nif
+icon: tr\c\tr_c_dae_sigil_k.dds
+enchanting: T_Use_Dae_Amulet_K
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 300
+  enchantment: 1000

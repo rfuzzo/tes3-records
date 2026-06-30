@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Com_Steel_Mace_Fiend
+name: Fiend Mace
+script: ''
+mesh: w\W_mace.nif
+icon: w\Tx_Mace01.tga
+enchanting: T_Use_FiendMace
+data:
+  weight: 15.0
+  value: 3000
+  weapon_type: BluntOneHand
+  health: 1800
+  speed: 1.3
+  reach: 1.0
+  enchantment: 50
+  chop_min: 3
+  chop_max: 14
+  slash_min: 3
+  slash_max: 14
+  thrust_min: 1
+  thrust_max: 2
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

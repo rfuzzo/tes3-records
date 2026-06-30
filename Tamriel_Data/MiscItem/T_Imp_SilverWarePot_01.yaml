@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_SilverWarePot_01
+name: Silverware Pot
+script: ''
+mesh: TR\m\TR_misc_silv_pot_01.NIF
+icon: TR\m\TR_misc_silv_pot_01.dds
+data:
+  weight: 2.0
+  value: 13
+  flags: ''

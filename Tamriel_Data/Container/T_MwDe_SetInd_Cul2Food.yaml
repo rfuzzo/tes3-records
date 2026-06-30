@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: T_MwDe_SetInd_Cul2Food
+name: Culdem
+script: ''
+mesh: TR\o\TR_cont_Ind_02.nif
+encumbrance: 60.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - T_Mw_Random_CheapfoodDunmerM1/2
+- - 2
+  - T_Mw_Random_Food
+- - 2
+  - T_Mw_Random_FoodM1/2
+- - 2
+  - random_food

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_MeatGoat_01
+name: Goat Meat
+script: ''
+mesh: sky\n\sky_ingred_goat_meat.nif
+icon: sky\n\sky_ingred_goat_meat.tga
+data:
+  weight: 1.0
+  value: 3
+  effects:
+  - RestoreFatigue
+  - FortifyAttribute
+  - None
+  - None
+  skills:
+  - None
+  - Block
+  - None
+  - None
+  attributes:
+  - None
+  - Agility
+  - None
+  - None

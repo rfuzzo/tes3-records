@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Orc_Regular_Longspear_01
+name: Orcish Longspear
+script: ''
+mesh: tr\w\tr_w_orcish_longspear.nif
+icon: tr\w\tr_w_orcish_longspear.dds
+enchanting: ''
+data:
+  weight: 16.0
+  value: 2000
+  weapon_type: SpearTwoWide
+  health: 2200
+  speed: 1.0
+  reach: 1.8
+  enchantment: 80
+  chop_min: 1
+  chop_max: 5
+  slash_min: 2
+  slash_max: 5
+  thrust_min: 8
+  thrust_max: 29
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

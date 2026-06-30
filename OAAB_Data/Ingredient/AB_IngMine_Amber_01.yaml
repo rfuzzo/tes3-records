@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: AB_IngMine_Amber_01
+name: Amber
+script: ''
+mesh: OAAB\n\gem_amber_01.nif
+icon: OAAB\n\gem_amber.dds
+data:
+  weight: 0.2
+  value: 75
+  effects:
+  - DetectAnimal
+  - ResistShock
+  - DamageFatigue
+  - WeaknessToPoison
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

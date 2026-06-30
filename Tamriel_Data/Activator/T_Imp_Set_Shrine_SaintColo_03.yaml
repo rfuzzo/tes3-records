@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_Set_Shrine_SaintColo_03
+name: Shrine of St. Venhir
+script: T_ScObj_ShrineSaintColoPC
+mesh: pc\x\pc_ex_wshrn_09.nif

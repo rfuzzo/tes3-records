@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_WickwheatBundle
+name: Bundle of Wickwheat
+script: ''
+mesh: OAAB\m\wickwheat_bundle.nif
+icon: OAAB\m\wickwheat_bundle.tga
+data:
+  weight: 2.0
+  value: 5
+  flags: ''

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_ash_yam_01
+name: Ash Yam
+script: ''
+mesh: n\Ingred_ash_yam_01.nif
+icon: n\Tx_ashyam_01.tga
+data:
+  weight: 0.5
+  value: 1
+  effects:
+  - FortifyAttribute
+  - FortifyAttribute
+  - ResistCommonDisease
+  - DetectKey
+  skills:
+  - Block
+  - Block
+  - Block
+  - Block
+  attributes:
+  - Intelligence
+  - Strength
+  - Strength
+  - Strength

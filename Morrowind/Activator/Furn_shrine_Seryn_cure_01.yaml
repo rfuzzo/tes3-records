@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: Furn_shrine_Seryn_cure_01
+name: Shrine of St. Seryn
+script: shrineSeryn
+mesh: f\Furn_shrine_seryn_01.NIF

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Furn_ComMidCot
+name: Cot
+script: Bed_Standard
+mesh: OAAB\u\com_m_cot.nif

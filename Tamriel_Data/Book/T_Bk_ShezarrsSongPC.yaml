@@ -1,0 +1,37 @@
+type: Book
+flags: ''
+id: T_Bk_ShezarrsSongPC
+name: Shezarr's Song
+script: ''
+mesh: pc\m\pc_bk_book_10.nif
+icon: pc\m\pc_bk_book_10.tga
+enchanting: ''
+text: |+
+  <DIV ALIGN="CENTER"><FONT COLOR="000000" SIZE="3" FACE="Magic Cards"><BR>SHEZARR'S SONG<BR>
+  <BR>
+  <DIV ALIGN="LEFT"><BR>
+  <BR>
+  ...This was a new thing that Shezarr described to the Gods, becoming mothers and fathers, being responsible, and making great sacrifices, with no guarantee of success, but Shezarr spoke beautifully to them, and moved them beyond mystery and tears. Thus the Aedra gave free birth to the world, the beasts, and the beings, making these things from parts of themselves. This free birth was very painful, and afterwards the Aedra were no longer young, and strong, and powerful, as they had been from the beginning of days.<BR>
+
+  <BR>
+
+  Some Aedra were disappointed and bitter in their loss, and angry with Shezarr, and with all creation, for they felt Shezarr had lied and tricked them. These Aedra, the Gods of the Aldmer, led by Auri-El, were disgusted by their enfeebled selves, and by what they had created. 'Everything is spoiled, for now, and for all time, and the most we can do is teach the Elven Races to suffer nobly, with dignity, and chastise ourselves for our folly, and avenge ourselves upon Shezarr and his allies.' Thus are the Gods of the Elves dark and brooding, and thus are the Elves ever dissatisfied with mortality, and always proud and stoic despite the harshness of this cruel and indifferent world.<BR>
+
+  <BR>
+
+  Other Aedra looked upon creation, and were well pleased. These Aedra, the Gods of Men and Beast Folk, led by Akatosh, praised and cherished their wards, the Mortal Races. 'We have suffered, and are diminished, for all time, but the mortal world we have made is glorious, filling our hearts and spirits with hope. Let us teach the Mortal Races to live well, to cherish beauty and honor, and to love one another as we love them.' Thus are the Gods of Men tender and patient, and thus are Men and Beast Folk great in heart for joy or suffering, and ambitious for greater wisdom and a better world.<BR>
+
+  <BR>
+
+  Now when the Daedra Lords heard Shezarr, they mocked him, and the other Aedra. 'Cut parts of ourselves off? And lose them? Forever? That's stupid! You'll be sorry! We are far smarter than you, for we will create a new world out of ourselves, but we will not cut it off, or let it mock us, but we will make this world within ourselves, forever ours, and under our complete control.'<BR>
+
+  <BR>
+
+  So the Daedra Lords created the Daedric Realms, and all the ranks of Lesser Daedra, great and small. And, for the most part, the Daedra Lords were well pleased with this arrangement, for they always had worshippers and servants and playthings close to hand. But, at the same time, they sometimes looked with envy upon the Mortal Realms, for though mortals were foul and feeble and contemptible, their passions and ambitions were also far more surprising and entertaining than the antics of the Lesser Daedra. Thus do the Daedra Lords court and seduce certain amusing specimens of the Mortal Races, especially the passionate and powerful. It gives the Daedra Lords special pleasure to steal away from Shezarr and the Aedra the greatest and most ambitious mortals. 'Not only are you fools to mutilate yourselves,' gloat the Daedra Lords, 'But you cannot even keep the best pieces, which prefer the glory and power of the Daedra Lords to the feeble vulgarity of the mush-minded Aedra.'<BR>
+
+data:
+  weight: 2.0
+  value: 300
+  book_type: Book
+  skill: None
+  enchantment: 0

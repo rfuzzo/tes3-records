@@ -1,0 +1,35 @@
+type: Clothing
+flags: ''
+id: T_De_Ex_PantsHla_06
+name: Exquisite Pants
+script: ''
+mesh: tr\c\tr_c_pants_exq06_gnd.nif
+icon: tr\c\tr_c_pants_exq_06.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Groin
+  male_bodypart: T_C_DeExPants06_G
+  female_bodypart: ''
+- biped_object_type: LeftUpperLeg
+  male_bodypart: T_C_DeExPants06_UL
+  female_bodypart: ''
+- biped_object_type: LeftKnee
+  male_bodypart: T_C_DeExPants06_K
+  female_bodypart: ''
+- biped_object_type: LeftAnkle
+  male_bodypart: T_C_DeExPants06_A
+  female_bodypart: ''
+- biped_object_type: RightUpperLeg
+  male_bodypart: T_C_DeExPants06_UL
+  female_bodypart: ''
+- biped_object_type: RightKnee
+  male_bodypart: T_C_DeExPants06_K
+  female_bodypart: ''
+- biped_object_type: RightAnkle
+  male_bodypart: T_C_DeExPants06_A
+  female_bodypart: ''
+data:
+  clothing_type: Pants
+  weight: 2.0
+  value: 120
+  enchantment: 600

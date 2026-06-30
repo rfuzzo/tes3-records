@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_bc_bungler's_bane
+name: Bungler's Bane
+script: ''
+mesh: n\Ingred_BC_Bungler's_Bane.NIF
+icon: n\Ingred_BC_Bungler's_Bane.tga
+data:
+  weight: 0.5
+  value: 1
+  effects:
+  - DrainAttribute
+  - DrainAttribute
+  - Dispel
+  - DrainAttribute
+  skills:
+  - Block
+  - Block
+  - Block
+  - Block
+  attributes:
+  - Speed
+  - Endurance
+  - Strength
+  - Strength

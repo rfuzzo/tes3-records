@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Com_Furn_BedStraw_02
+name: Straw Bed
+script: Bed_Standard
+mesh: tr\f\tr_furn_com_p_bedstr.nif

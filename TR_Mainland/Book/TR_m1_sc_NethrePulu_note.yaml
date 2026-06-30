@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_sc_NethrePulu_note
+name: Note to Egg Miners
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "To All Miners,<BR>\r\n<BR>\r\nQuit your drinking and get to work! You have missed three shipments to Port Telvannis, and the mages aren't happy. Unless you start shipping eggs immediately, I will have you all replaced and sent to work with the Dres before Masser wanes! As an incentive, no more alcohol is being allowed at the mine camp!<BR>\r\n<BR>\r\n"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

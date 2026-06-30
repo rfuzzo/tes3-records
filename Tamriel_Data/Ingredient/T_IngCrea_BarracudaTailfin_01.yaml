@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_BarracudaTailfin_01
+name: Barracuda Tailfin
+script: ''
+mesh: pi\n\pi_ing_barracudatailfn.nif
+icon: pi\n\pi_ing_barracudatailfn.dds
+data:
+  weight: 5.0
+  value: 20
+  effects:
+  - DrainHealth
+  - ResistPoison
+  - FortifyAttribute
+  - SwiftSwim
+  skills:
+  - None
+  - None
+  - Block
+  - None
+  attributes:
+  - None
+  - None
+  - Speed
+  - None

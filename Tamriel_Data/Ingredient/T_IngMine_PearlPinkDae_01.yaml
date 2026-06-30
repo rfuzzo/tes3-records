@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngMine_PearlPinkDae_01
+name: Pink Pearl
+script: BILL_MarksDaedraSummon
+mesh: pi\n\tr_ing_pearlpink.nif
+icon: pi\n\pi_ing_pearlpink.dds
+data:
+  weight: 0.2
+  value: 150
+  effects:
+  - DrainAttribute
+  - WaterBreathing
+  - FortifySkill
+  - RestoreHealth
+  skills:
+  - Block
+  - None
+  - Restoration
+  - None
+  attributes:
+  - Strength
+  - None
+  - Strength
+  - None

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Furn_ComPlnBedStraw
+name: Bed
+script: AB_BedFleas_s
+mesh: OAAB\u\comPlnBedStraw.nif

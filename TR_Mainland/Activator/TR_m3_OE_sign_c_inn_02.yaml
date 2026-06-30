@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_OE_sign_c_inn_02
+name: The Moth and Tiger
+script: SignRotate
+mesh: TR\f\tr_act_sign_inn_01.nif

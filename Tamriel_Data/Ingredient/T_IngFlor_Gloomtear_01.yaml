@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_Gloomtear_01
+name: Gloomtears
+script: ''
+mesh: hr\n\hr_n_gloomtear.nif
+icon: hr\n\hr_n_gloomtear.dds
+data:
+  weight: 0.1
+  value: 4
+  effects:
+  - DrainAttribute
+  - ResistFire
+  - DamageFatigue
+  - None
+  skills:
+  - Block
+  - None
+  - None
+  - None
+  attributes:
+  - Personality
+  - None
+  - None
+  - None

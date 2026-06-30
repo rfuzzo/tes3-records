@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Mw_Flora_NodStreak02
+name: Nodding Streakwort
+script: ''
+mesh: tr\f\tr_f_vm_nodstreak_02.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - T_Mw_Random_FlorNodStreakwort

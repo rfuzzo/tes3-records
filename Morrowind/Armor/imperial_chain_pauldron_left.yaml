@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: imperial_chain_pauldron_left
+name: Imperial Chain Left Pauldron
+script: ''
+mesh: a\A_M_ImperialChain_Pa_UA.nif
+icon: a\Tx_ImperialChain_pauldron.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: LeftUpperArm
+  male_bodypart: a_m_imperialchain_pa_ua
+  female_bodypart: ''
+data:
+  armor_type: LeftPauldron
+  weight: 10.0
+  value: 28
+  health: 200
+  enchantment: 70
+  armor_rating: 20

@@ -1,0 +1,35 @@
+type: Container
+flags: ''
+id: chest_tomb_gladroon
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - -25
+  - steel arrow
+- - -20
+  - steel dart
+- - 1
+  - steel crossbow
+- - 2
+  - steel longbow
+- - 1
+  - silver claymore
+- - 1
+  - silver flameslayer
+- - 1
+  - iron dagger
+- - 1
+  - iron flameblade
+- - 1
+  - iron wakizashi
+- - 1
+  - silver dagger
+- - 1
+  - silver shortsword
+- - 1
+  - steel dagger of swiftblade
+- - 1
+  - wild sparkblade

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_SilverScepterPeace
+name: Silver Scepter of Peace
+script: ''
+mesh: OAAB\w\silver_scepter.nif
+icon: OAAB\w\silver_scepter.dds
+enchanting: paralysis_en
+data:
+  weight: 5.2
+  value: 92
+  weapon_type: BluntOneHand
+  health: 225
+  speed: 1.5
+  reach: 1.0
+  enchantment: 60
+  chop_min: 3
+  chop_max: 6
+  slash_min: 3
+  slash_max: 6
+  thrust_min: 1
+  thrust_max: 3
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE | SILVER

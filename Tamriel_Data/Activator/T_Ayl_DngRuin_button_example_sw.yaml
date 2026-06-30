@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Ayl_DngRuin_button_example_sw
+name: Stone Button
+script: T_ScObj_AylBtn_SecWall_example
+mesh: pc\f\pc_act_ar_button.nif

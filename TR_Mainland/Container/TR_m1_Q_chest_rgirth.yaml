@@ -1,0 +1,21 @@
+type: Container
+flags: PERSISTENT
+id: TR_m1_Q_chest_rgirth
+name: Chest
+script: TR_m1_Q_RangirthChestScript
+mesh: o\Contain_De_Chest_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 187
+  - Gold_001
+- - 1
+  - TR_m1_Q_RangirthRing
+- - 2
+  - T_IngMine_Amethyst_01
+- - 1
+  - T_IngMine_Sapphire_01
+- - 1
+  - ingred_diamond_01
+- - 1
+  - misc_lw_cup

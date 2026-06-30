@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m7_LA_FlinBottle
+name: Empty Flin Bottle
+script: ''
+mesh: n\Potion_Cyro_whiskey_01.nif
+icon: n\Tx_cyro_whiskey_01.tga
+data:
+  weight: 0.4
+  value: 3
+  flags: ''

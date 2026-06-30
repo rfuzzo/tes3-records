@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4-114_ArchivalRecords
+name: Archival Records
+script: ''
+mesh: tr\m\tr_book_tomebk_04.nif
+icon: tr\m\tr_book_closed_tome04.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This weighty volume documents the day-to-day operations of the Bal Foyen council house over the preceding centuries: minutes of events held, correspondence to and from the council regarding its official interests, rulings over disputes and other details are recorded within.]<BR>"
+data:
+  weight: 8.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 0

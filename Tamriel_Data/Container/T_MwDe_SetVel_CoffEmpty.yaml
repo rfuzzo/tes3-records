@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: T_MwDe_SetVel_CoffEmpty
+name: Velothi Coffer
+script: ''
+mesh: tr\o\tr_cont_v_coffer_01.nif
+encumbrance: 10.0
+container_flags: IS_BASE
+inventory: []

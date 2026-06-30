@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_sc_PT_DrathorNotes
+name: Idrosis Drathor's Notes
+script: ''
+mesh: m\Text_Scroll_open_02.nif
+icon: m\Tx_scroll_open_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This parchment contains Idrosis Drathor's notes. It is full of scribblings, charts, and diagrams. It is open to the most recent entries.]<BR><BR>\r\nThe Black Lichen sample has been inside for three months now. Jeel-Lei agrees that it appears to be still alive. We'll put it back outside in a few weeks and see if it resumes growth. It shouldn't be too long before we'll be able to work on Black Lichen growth acceleration.<BR>\r\n<BR>\r\nI summoned another fire atronach. This one follows commands well and seems to be quite indifferent about being confined to a cell. I have attempted communication, but it insists on speaking in an unintelligible tongue. I may have to return to the library at Firewatch and see if there are any tomes on Daedric languages that I missed. Who would have thought that this project would require so much study in linguistics?<BR><BR>\r\nJeel-Lei discovered a sizable crack in the wall a few feet above the fire pool. I will have to write to the councilors a recommendation to shut down the display until repairs can be made. My advice will probably be ignored -- I'm not even sure why I bother with those fools.<BR>\r\n<BR>\r\nStrain \"4C\" of the Firefern is showing some promise. Fire resistance with anther of wild Black Willow shows a gain of 6%. With tincture of Frost Salts the gain is 11%.  Combined with recent discoveries on increased Frost Salt production, this could lead to a new production of fire resistance preparation.<BR>"
+data:
+  weight: 0.2
+  value: 100
+  book_type: Scroll
+  skill: None
+  enchantment: 0

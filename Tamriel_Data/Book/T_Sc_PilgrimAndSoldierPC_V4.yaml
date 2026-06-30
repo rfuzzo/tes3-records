@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Sc_PilgrimAndSoldierPC_V4
+name: The Pilgrim and the Soldier IV
+script: ''
+mesh: m\text_scroll_01.nif
+icon: m\tx_scroll_open_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">THE PILGRIM<BR>\r\nand<BR>\r\nTHE SOLDIER<BR>\r\n<BR>\r\n*The Valley*<BR>\r\n<BR>\r\n<DIV ALIGN=\"LEFT\">\r\nAnd how they suffered together, the pilgrim and the soldier, on the road to Sancre Tor.<BR>\r\n<BR>\r\nThe pilgrim was wild with fever,<BR>\r\nhis red wounds,<BR>\r\nas infected as his rotting head.<BR>\r\nIn his dreams the faces of saints,<BR>\r\nthe gods and spirits of his river home,<BR>\r\nwere mocking him.<BR>\r\n<BR>\r\nThe soldier was silent,<BR>\r\nher iron hammer at her side.<BR>\r\nWatching, waiting,<BR>\r\nhearing her companion weep.<BR>\r\n<BR>\r\nKnowing he needed her,<BR>\r\nNeeding cures she could not provide.<BR>\r\nKnowing he would die,<BR>\r\na slow death,<BR>\r\na painful death,<BR>\r\nor a swift one.<BR>\r\n<BR>\r\nAlone now, the soldier walks on,<BR>\r\nher bloodied hammer at her side,<BR>\r\nthe stories of a pilgrim ringing in her ears.<BR>\r\n<BR>\r\nAhead lies the hidden city, that awful mound,<BR>\r\nfountain of solace,<BR>\r\nherald of nothingness.<BR>\r\n<BR>\r\nFor the road to Sancre Tor,<BR>\r\nis a solitary road,<BR>\r\nwicked, bitter, and merciless.<BR>\r\nDo not tread it with a light step,<BR>\r\ndo not tread it with love in your heart,<BR>\r\ndo not tread it with hope in your head.<BR>\r\nAnd to walk it,<BR>\r\none must be alone.<BR>"
+data:
+  weight: 0.2
+  value: 60
+  book_type: Scroll
+  skill: None
+  enchantment: 0

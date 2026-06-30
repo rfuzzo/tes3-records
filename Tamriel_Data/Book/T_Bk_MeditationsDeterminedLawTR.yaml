@@ -1,0 +1,31 @@
+type: Book
+flags: ''
+id: T_Bk_MeditationsDeterminedLawTR
+name: Meditations on Determined Law
+script: ''
+mesh: TR\m\TR_book_closed_i09_AY.nif
+icon: TR\m\TR_book_closed_i09_AY.dds
+enchanting: ''
+text: |-
+  <DIV ALIGN="CENTER"><FONT COLOR="640F0F" SIZE="3" FACE="Magic Cards"><BR>Meditations on Determined Law<BR>
+  <DIV ALIGN="LEFT"><FONT COLOR="000000" SIZE="3" FACE="Magic Cards"><BR>A student asked their Elder, where does the Law reside? The Elder tapped him on the head with her prayer stick, and gestured toward a stand of Vulo trees. The student was satisfied with this answer.<BR>
+  <BR>
+  We live in an ordered universe. The world was called from the void by the design of the Tribunes, and all deliberately created things have an order to them. How could it be otherwise?<BR>
+  <BR>
+  A tree grows from a seed. Plant a hundred seeds and a hundred trees will grow. Plant those seeds in the same soil and they will all be much the same. Is the pattern of the tree contained in the seed? Of course.<BR>
+  <BR>
+  Plant a hundred seeds in a hundred different places. In the ash. On the coast. Within the canton walls. All of these trees will be different- some will grow tall and strong, some will be twisted, many will not grow at all. Does the destiny of the tree reside bodiless in the place? Surely it must.<BR>
+  <BR>
+  Three times three is nine. One number becomes another. But without the multiplication the number remains unchanging. Without numbers the multiplication cannot exist. It must be summoned into existence by the savant at the appointed time.<BR>
+  <BR>
+  An Argonian alone in the waste is not a slave. A Dunmer alone on the mountain is not a master. Yet they both have it in them to be slave and master, should they meet together. It is in the meeting that the bond is created.<BR>
+  <BR>
+  The Laws Determined reside within all things, as potential and restrictions of potential. But these laws are abstractions, which cannot be expressed until they find their context. It is through the infinite combinations of these simple orthodoxies that the world takes on the appearance of chaos. But there is no chaos. This is the error of the heathen.<BR>
+  <BR>
+  All of this has been planned. Praise ALMSIVI! <BR>
+data:
+  weight: 1.15
+  value: 45
+  book_type: Book
+  skill: None
+  enchantment: 100

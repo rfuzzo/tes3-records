@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Mrk_TeleportDisabler
+name: Disables teleport in the cell
+script: AB_TeleportDisabler_s
+mesh: OAAB\h\TeleportDisabler.nif

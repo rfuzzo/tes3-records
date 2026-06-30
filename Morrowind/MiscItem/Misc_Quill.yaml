@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: Misc_Quill
+name: Quill Pen
+script: ''
+mesh: m\Misc_Quill.NIF
+icon: m\Misc_Quill.tga
+data:
+  weight: 0.01
+  value: 1
+  flags: ''

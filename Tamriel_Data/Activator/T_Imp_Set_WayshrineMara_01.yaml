@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_Set_WayshrineMara_01
+name: Wayshrine of Mara
+script: T_ScObj_ShrineWayMaraPC
+mesh: pc\x\PC_Act_WShrn.nif

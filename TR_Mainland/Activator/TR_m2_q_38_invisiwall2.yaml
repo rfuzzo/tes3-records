@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m2_q_38_invisiwall2
+name: ''
+script: TR_m2_q_38_s_wall2
+mesh: EditorMarker_box_01.NIF

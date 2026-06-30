@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_BloodlilyFlower_01
+name: Blood Lily Flower
+script: ''
+mesh: pc\n\pc_ingred_bloodlily2.nif
+icon: pc\n\pc_tx_ingred_blilly2.dds
+data:
+  weight: 0.1
+  value: 1
+  effects:
+  - FortifyAttribute
+  - DamageHealth
+  - FortifyAttackBonus
+  - FireShield
+  skills:
+  - Block
+  - None
+  - None
+  - None
+  attributes:
+  - Personality
+  - None
+  - None
+  - None

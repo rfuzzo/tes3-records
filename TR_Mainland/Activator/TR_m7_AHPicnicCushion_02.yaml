@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_AHPicnicCushion_02
+name: ''
+script: TR_m7_AffairsHeartPicnic_sc
+mesh: f\furn_cushion_square_03.nif

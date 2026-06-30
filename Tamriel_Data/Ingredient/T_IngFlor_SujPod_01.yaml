@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_SujPod_01
+name: Kuj Sprout Pulp
+script: ''
+mesh: tr\n\tr_ing_sujpod_01.nif
+icon: tr\n\tr_ing_sujpod.dds
+data:
+  weight: 0.1
+  value: 10
+  effects:
+  - RestoreFatigue
+  - Sound
+  - DrainAttribute
+  - CureCommonDisease
+  skills:
+  - Block
+  - None
+  - Block
+  - None
+  attributes:
+  - Personality
+  - None
+  - Personality
+  - None

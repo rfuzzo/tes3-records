@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_AimrahIC6_DreughEgg3
+name: Dreugh Cocoon
+script: ''
+mesh: sky\o\sky_flora_bscap_03.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - ingred_dreugh_wax_01

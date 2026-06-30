@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: TR_m4_AndoMG_Q3Notes
+name: Notes on Hyperbolic Tesselation
+script: TR_m4_MG_NotesScript
+mesh: tr\m\tr_book_notebk_o_01.nif
+icon: tr\m\tr_book_open_ntbk01.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>Notes on Hyperbolic Tesselation\r\n<BR>by Nelos Llothri<BR><BR><DIV ALIGN=\"Left\">\r\n<BR>\r\n[These notes examine in great detail the arcane and physical properties of crystalline structures. Most of the material appears disorganized and written in shorthand.]\r\n<BR>"
+data:
+  weight: 1.0
+  value: 150
+  book_type: Book
+  skill: None
+  enchantment: 0

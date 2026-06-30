@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: T_SkyCom_Var_Bl1Scroll1
+name: Barrel
+script: ''
+mesh: Sky\o\Sky_Cont_Barrel_01.nif
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - sc_elementalburstfire
+- - 1
+  - sc_elementalburstfrost
+- - 1
+  - sc_elementalburstshock
+- - 1
+  - sc_healing
+- - 1
+  - sc_invisibility

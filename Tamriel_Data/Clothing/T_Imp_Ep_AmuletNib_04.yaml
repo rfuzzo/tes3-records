@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Imp_Ep_AmuletNib_04
+name: Expensive Amulet
+script: ''
+mesh: pc\c\pc_c_nib_am_ep04.nif
+icon: pc\c\pc_c_nib_am_ep04.dds
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 30
+  enchantment: 150

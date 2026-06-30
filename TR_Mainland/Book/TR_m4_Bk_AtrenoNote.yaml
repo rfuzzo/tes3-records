@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: TR_m4_Bk_AtrenoNote
+name: Note from Atreno Drenim
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n%PCName, <BR>\r\n<BR>\r\nI haven't forgotten how you helped me in Mannu. <BR>\r\n<BR>\r\nI told you I'd repay your kindness. Here's some gold. Have a drink on me, alright?<BR>\r\n<BR>\r\nBest wishes, <BR>\r\nAtreno<BR>\r\n<BR>\r\n"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

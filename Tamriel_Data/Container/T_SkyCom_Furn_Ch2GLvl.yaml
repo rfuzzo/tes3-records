@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: T_SkyCom_Furn_Ch2GLvl
+name: Chest
+script: ''
+mesh: Sky\o\Sky_Cont_Chest_02_02.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 50
+  - random gold
+- - 50
+  - random gold_lev_05
+- - 50
+  - random gold_lev_10
+- - 50
+  - random gold_lev_15
+- - 50
+  - random gold_lev_20

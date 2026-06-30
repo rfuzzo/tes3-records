@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_De_UNI_AmuletOfDematerial
+name: Amulet of Dematerialization
+script: ''
+mesh: c\amulet_exquisit_1.nif
+icon: c\tx_amulet_exquisite1.dds
+enchanting: T_Const_Dematerialization
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 350
+  enchantment: 1200

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Com_Set_X_Buoy_01
+name: ''
+script: Float
+mesh: pi\x\pi_ex_com_buoy_01.nif

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m7_NVA1_4_bucket_01
+name: Bucket
+script: TR_m7_NVA_Stage1_4_NP
+mesh: m\Misc_Com_Bucket_01.NIF
+icon: m\Misc_Com_Bucket_01.tga
+data:
+  weight: 5.0
+  value: 2
+  flags: ''

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Orc_Regular_Spear_01
+name: Orcish Spear
+script: ''
+mesh: tr\w\tr_w_orcish_spear.nif
+icon: tr\w\tr_w_orcish_spear.dds
+enchanting: ''
+data:
+  weight: 15.0
+  value: 1800
+  weapon_type: SpearTwoWide
+  health: 2000
+  speed: 1.0
+  reach: 1.8
+  enchantment: 75
+  chop_min: 1
+  chop_max: 5
+  slash_min: 2
+  slash_max: 5
+  thrust_min: 8
+  thrust_max: 24
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

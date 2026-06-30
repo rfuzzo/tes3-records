@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_q_BracersOrder
+name: Oran Plantation Order Agreement
+script: ''
+mesh: m\Text_Note_02.nif
+icon: m\Tx_note_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nTO BE DELIVERED:<BR>\r\nThree slave bracers engraved with the Oran Plantation seal.<BR>\r\n<BR>\r\nAGREED PAYMENT:<br>\r\nThree bottles of Surille Brothers 412 vintage.<BR>\r\n<BR>\r\nSIGNED,<BR>\r\nMutra Llehervu, Oran Plantation<BR>\r\nBUYER<BR><BR>\r\nLechlaud Rorielle, Great House Hlaalu<BR>\r\nSELLER<BR>"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

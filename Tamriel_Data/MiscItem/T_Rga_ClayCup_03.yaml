@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Rga_ClayCup_03
+name: Clay Cup
+script: ''
+mesh: hf\m\hf_misc_rga_ClCup_03.nif
+icon: hf\m\hf_misc_rga_ClCup_03.dds
+data:
+  weight: 0.9
+  value: 2
+  flags: ''

@@ -1,0 +1,21 @@
+type: Container
+flags: ''
+id: TR_m4-491_chest_shirts
+name: Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 5
+  - T_Mw_Random_ClothingShirtsCmDun
+- - 1
+  - common_shirt_03
+- - 1
+  - common_shirt_07
+- - 1
+  - common_shoes_05
+- - 1
+  - random gold_lev_05
+- - 5
+  - random_de_shirt

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_AbMonitor_22
+name: SUMMERSET FOOD IMPORTS RISE
+script: T_ScNews_Bellman_Paper
+mesh: pc\m\pc_text_note_anv_news.nif
+icon: pc\m\pc_text_note_anv_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"PC\\pc_abmonitor.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nSUMMERSET FOOD IMPORTS CONTINUE TO RISE<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nGrain and meat futures continue to show growth as Trident Exchange brokers report sustained and increasing demand from the Summerset Isles. The archipelago's burgeoning population, which Census and Excise records indicate is now higher than ever before, seem eager to import Cyrodiil foodstuffs at cheaper cost and in more reliable supply than counterpart goods produced on the Isles.<BR><BR>\r\nAccording to Nalirindo, chairman of Anvil's Chamber of Commerce, this trade in food goods benefits all participants. \"It's simple supply and demand,\" he told Carson, the Monitor's economic correspondent. \"The Summerset Isles cannot produce enough food to feed its people. Luckily, the Empire's wise trade policies allow merchants to fill this gap -- and make a profit in doing so.\" When pressed on the subject of the High Elves' growing dependence on foreign imports, Nalirindo -- himself a High Elf of Cyrodiilic birth -- waved off the concern. \"In the Empire, we all rely on trade between the Provinces. Why, I smoked a siyat cigar from Hammerfell just this afternoon. So long as the Legions keep good order on the roads and the Navy keeps good order at sea, the interdependence of the Provinces is an asset, not a liability.\"<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

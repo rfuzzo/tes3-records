@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m2_act_steam2_i327
+name: ''
+script: ''
+mesh: steam_lavariver.NIF

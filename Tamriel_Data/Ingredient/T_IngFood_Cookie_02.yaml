@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_Cookie_02
+name: Biscuit
+script: ''
+mesh: TR\n\TR_ing_cookie_02.NIF
+icon: TR\n\TR_ing_cookie_02.dds
+data:
+  weight: 0.2
+  value: 2
+  effects:
+  - RestoreFatigue
+  - None
+  - None
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

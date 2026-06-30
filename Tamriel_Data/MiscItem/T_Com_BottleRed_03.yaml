@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_BottleRed_03
+name: Bottle
+script: ''
+mesh: tr\m\tr_misc_bottle_r03.nif
+icon: tr\m\tr_misc_bottle_r03.tga
+data:
+  weight: 1.0
+  value: 1
+  flags: ''

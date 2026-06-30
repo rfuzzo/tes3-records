@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_Blackberry_01
+name: Blackberries
+script: ''
+mesh: pc\n\pc_ingr_blackberry_01.nif
+icon: pc\n\PC_Tx_Ingred_bberry.dds
+data:
+  weight: 0.1
+  value: 1
+  effects:
+  - RestoreFatigue
+  - WeaknessToMagicka
+  - ResistCommonDisease
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

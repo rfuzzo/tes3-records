@@ -1,0 +1,27 @@
+type: Container
+flags: ''
+id: TR_m7_Hlaalu2_Closet
+name: Closet
+script: ''
+mesh: o\Contain_De_Closet_01.NIF
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_De_Ex_PantsHla_05
+- - 1
+  - T_De_Ex_PantsHla_06
+- - 1
+  - T_De_Ex_RobeHla_02
+- - 1
+  - T_De_Ex_ShirtHla_05
+- - 1
+  - T_De_Ex_ShirtHla_06
+- - 1
+  - T_De_Ex_ShoesHla_08
+- - 1
+  - T_De_Ex_Shoes_01
+- - 1
+  - exquisite_belt_01
+- - 1
+  - extravagant_belt_02

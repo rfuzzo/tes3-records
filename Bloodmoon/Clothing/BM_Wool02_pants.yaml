@@ -1,0 +1,35 @@
+type: Clothing
+flags: ''
+id: BM_Wool02_pants
+name: Common Pants
+script: ''
+mesh: c\C_common_Wool02PGND.NIF
+icon: c\Tx_Common_Wool02_Pants.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Groin
+  male_bodypart: C_common_Wool02_G
+  female_bodypart: ''
+- biped_object_type: RightUpperLeg
+  male_bodypart: C_common_Wool02_UL
+  female_bodypart: ''
+- biped_object_type: LeftUpperLeg
+  male_bodypart: C_common_Wool02_UL
+  female_bodypart: ''
+- biped_object_type: LeftAnkle
+  male_bodypart: C_common_Wool02_A
+  female_bodypart: ''
+- biped_object_type: RightAnkle
+  male_bodypart: C_common_Wool02_A
+  female_bodypart: ''
+- biped_object_type: LeftKnee
+  male_bodypart: C_common_Wool02_K
+  female_bodypart: ''
+- biped_object_type: RightKnee
+  male_bodypart: C_common_Wool02_K
+  female_bodypart: ''
+data:
+  clothing_type: Pants
+  weight: 3.0
+  value: 4
+  enchantment: 20

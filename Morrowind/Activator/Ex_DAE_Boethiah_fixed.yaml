@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: Ex_DAE_Boethiah_fixed
+name: Shrine to Boethiah
+script: DaedraBoethiah2
+mesh: x\Ex_DAE_Boethiah.NIF

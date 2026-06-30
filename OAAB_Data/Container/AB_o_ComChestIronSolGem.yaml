@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: AB_o_ComChestIronSolGem
+name: Small Iron Box
+script: ''
+mesh: OAAB\o\com_ironbox.nif
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - Misc_SoulGem_Common
+- - 1
+  - Misc_SoulGem_Greater
+- - 1
+  - Misc_SoulGem_Petty
+- - 2
+  - l_n_soul gem

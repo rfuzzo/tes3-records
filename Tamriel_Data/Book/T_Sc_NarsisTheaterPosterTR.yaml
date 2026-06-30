@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Sc_NarsisTheaterPosterTR
+name: Theater Poster
+script: ''
+mesh: tr\m\tr_bk_narsistheat_01.nif
+icon: tr\m\tr_bk_narsistheat_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<IMG SRC=\"tr\\tr_hlaalutheater_bookart.dds\" WIDTH=\"270\" HEIGHT=\"270\"><BR>\r\nTHE WEALTH OF WAYREST<BR>\r\nby Muncia Naintes<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\nThe thrilling High Rock drama in four acts, in an all-new performance by the Hlaalu Theater Company of Narsis!<BR>\r\nStarring Mederyl Llendules as King Eadwyre of Wayrest and Lloros Farethi as Wulfharth, the Dread Dragon of the North!<BR>"
+data:
+  weight: 0.1
+  value: 2
+  book_type: Scroll
+  skill: None
+  enchantment: 0

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_FishBrowntrout_01
+name: Trout Meat
+script: ''
+mesh: Sky\n\Sky_Ingred_Meat_BT_01.nif
+icon: Sky\n\Tx_Ingred_Meat_BT_01.dds
+data:
+  weight: 1.0
+  value: 2
+  effects:
+  - RestoreFatigue
+  - ResistCommonDisease
+  - None
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

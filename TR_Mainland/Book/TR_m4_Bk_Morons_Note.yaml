@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_Bk_Morons_Note
+name: Meralath's Note
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<br> Dear reader <br><br> I hope you brought yourself a functioning potion of Rising Force, unless you're the filthy Orc that sold me a useless mixture... <br><br>It failed me as soon as I levitated up here. <br> <br>My possessions are hereby yours, take care of them.<br><br>-Meralath\r\n<br>"
+data:
+  weight: 0.5
+  value: 2
+  book_type: Scroll
+  skill: None
+  enchantment: 0

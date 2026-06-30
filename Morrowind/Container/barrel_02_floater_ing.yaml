@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: barrel_02_floater_ing
+name: Floating Barrel
+script: Float
+mesh: o\contain_barrel10.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 10
+  - random_ingredient

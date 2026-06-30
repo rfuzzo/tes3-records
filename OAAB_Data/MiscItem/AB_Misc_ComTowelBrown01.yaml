@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_ComTowelBrown01
+name: Towel
+script: ''
+mesh: OAAB\m\comTowelBrown01.nif
+icon: OAAB\m\comTowelBrown01.tga
+data:
+  weight: 3.0
+  value: 3
+  flags: ''

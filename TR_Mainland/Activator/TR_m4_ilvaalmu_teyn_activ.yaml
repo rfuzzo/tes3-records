@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m4_ilvaalmu_teyn_activ
+name: ''
+script: TR_m4_teyn_ilvaalmu_script
+mesh: EditorMarker.NIF

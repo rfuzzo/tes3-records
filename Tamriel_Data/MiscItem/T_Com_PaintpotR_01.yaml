@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_PaintpotR_01
+name: Red Paint Pot
+script: ''
+mesh: pc\m\pc_misc_p_pot_rd_01.nif
+icon: pc\m\pc_misc_p_pot_rd.dds
+data:
+  weight: 1.0
+  value: 6
+  flags: ''

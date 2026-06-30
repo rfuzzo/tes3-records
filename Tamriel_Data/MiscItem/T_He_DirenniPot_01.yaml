@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_He_DirenniPot_01
+name: Direnni Pot
+script: ''
+mesh: sky\m\sky_misc_dpot_01.nif
+icon: sky\m\tx_misc_dpot_01.dds
+data:
+  weight: 1.5
+  value: 13
+  flags: ''

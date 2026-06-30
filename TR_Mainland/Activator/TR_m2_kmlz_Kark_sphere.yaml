@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m2_kmlz_Kark_sphere
+name: ''
+script: TR_m2_kmlz_Kark_sphere_sc
+mesh: x\Ex_T_doorway_sphere_01.nif

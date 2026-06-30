@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m1_FW_TG6_BoneFrag1
+name: Kamal Bone Fragment Piece
+script: ''
+mesh: i\in_boneboulder03.nif

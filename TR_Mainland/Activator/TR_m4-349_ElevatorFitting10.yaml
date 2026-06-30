@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4-349_ElevatorFitting10
+name: ''
+script: TR_m4-349_ElevatorStuff_Sc
+mesh: f\furn_dwrv_fitting10.nif

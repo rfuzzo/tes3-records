@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_FollyOfSteelTR
+name: Folly of Steel
+script: T_ScBook_SpDisIntegrateArmor
+mesh: TR\m\TR_book_closed_i11_AY.nif
+icon: TR\m\TR_book_closed_i11_AY.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nFolly of Steel<BR>\r\nby Harjeld Ironbane<BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nAt dawn, for battle you stand\r\nclad in steel with shield in hand\r\nsafe and sound within your shell\r\nsafe from danger wherever it may dwell\r\nImpervious thou art,\r\nto blade, club or dart.<BR>\r\n<BR>\r\nslew men and mer left and right\r\nwalked woundless from every fight\r\nsafe you are within your shell\r\nsafe from danger no matter how fell\r\nImpervious thou art,\r\nto blade, club or dart.<BR>\r\n<BR>\r\nAt dawn, for battle you stand\r\nbefore you a wizard, staff in hand\r\nstowed away within your shell\r\nthe wizard spoke and did cast a spell\r\nImpervious thou art,\r\nto blade, club or dart.<BR>\r\n<BR>\r\nThe wizard you would crush\r\nbut your straps they turn to mush\r\nThe wizard should be struck!\r\nNo! your hinges fast are stuck!\r\nThough victory is a must!\r\nAlas your steel it turns to rust.\r\nRemember, O warrior, my dreaded name!\r\nThat name the name of Ironbane.<BR>"
+data:
+  weight: 2.0
+  value: 175
+  book_type: Book
+  skill: None
+  enchantment: 100

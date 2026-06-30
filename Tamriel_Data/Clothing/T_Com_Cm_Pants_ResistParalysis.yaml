@@ -1,0 +1,35 @@
+type: Clothing
+flags: ''
+id: T_Com_Cm_Pants_ResistParalysis
+name: Pants of Resist Paralysis
+script: ''
+mesh: c\c_m_pants_common_3c_gnd.nif
+icon: c\tx_pants_comm_3c.dds
+enchanting: T_Const_ResistParalysis
+biped_objects:
+- biped_object_type: Groin
+  male_bodypart: c_m_pants_common_3c_g
+  female_bodypart: ''
+- biped_object_type: RightAnkle
+  male_bodypart: c_m_pants_common_3c_a
+  female_bodypart: ''
+- biped_object_type: RightKnee
+  male_bodypart: c_m_pants_common_3c_k
+  female_bodypart: ''
+- biped_object_type: RightUpperLeg
+  male_bodypart: c_m_pants_common_3c_ul
+  female_bodypart: ''
+- biped_object_type: LeftAnkle
+  male_bodypart: c_m_pants_common_3c_a
+  female_bodypart: ''
+- biped_object_type: LeftKnee
+  male_bodypart: c_m_pants_common_3c_k
+  female_bodypart: ''
+- biped_object_type: LeftUpperLeg
+  male_bodypart: c_m_pants_common_3c_ul
+  female_bodypart: ''
+data:
+  clothing_type: Pants
+  weight: 2.0
+  value: 250
+  enchantment: 100

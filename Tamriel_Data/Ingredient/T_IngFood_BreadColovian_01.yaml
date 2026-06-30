@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_BreadColovian_01
+name: Colovian Bread
+script: ''
+mesh: pc\n\PC_Ingred_C_Bread_01.nif
+icon: pc\n\pc_tx_ingred_cbread1.dds
+data:
+  weight: 0.5
+  value: 2
+  effects:
+  - RestoreFatigue
+  - FortifyAttribute
+  - None
+  - None
+  skills:
+  - None
+  - Block
+  - None
+  - None
+  attributes:
+  - None
+  - Strength
+  - None
+  - None

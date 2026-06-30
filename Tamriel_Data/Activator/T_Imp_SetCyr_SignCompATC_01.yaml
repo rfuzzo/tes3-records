@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_SetCyr_SignCompATC_01
+name: Abecean Trading Company
+script: SignRotate
+mesh: pc\f\pc_furn_sign_atc_01.nif

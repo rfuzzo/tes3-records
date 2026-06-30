@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: TR_m3_Kha_Corpse_Key
+name: Corpse
+script: ''
+mesh: o\contain_corpse20.NIF
+encumbrance: 120.0
+container_flags: IS_BASE
+inventory:
+- - 5
+  - Gold_001
+- - 1
+  - TR_m3_Kha_Key_00
+- - 1
+  - ingred_bonemeal_01

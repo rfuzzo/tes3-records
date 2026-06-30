@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_Card_02
+name: Six of Books
+script: ''
+mesh: pc\m\pc_misc_card_02.nif
+icon: pc\m\pc_misc_card_02.dds
+data:
+  weight: 0.1
+  value: 1
+  flags: ''

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_OE_TG_FentusBoat06
+name: ''
+script: TR_m3_OE_TG_FentusBoat_scp
+mesh: tr\l\tr_in_dwrv_neon_q.nif

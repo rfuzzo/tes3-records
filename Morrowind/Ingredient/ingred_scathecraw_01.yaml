@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_scathecraw_01
+name: Scathecraw
+script: ''
+mesh: n\Ingred_Scathecraw_01.nif
+icon: n\Tx_scathecraw_01.tga
+data:
+  weight: 0.1
+  value: 2
+  effects:
+  - DrainAttribute
+  - CurePoison
+  - DrainHealth
+  - RestoreAttribute
+  skills:
+  - Block
+  - Block
+  - Block
+  - Block
+  attributes:
+  - Strength
+  - Strength
+  - Strength
+  - Willpower

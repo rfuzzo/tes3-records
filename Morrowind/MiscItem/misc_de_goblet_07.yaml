@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: misc_de_goblet_07
+name: Goblet
+script: ''
+mesh: m\Misc_De_Goblet_07.NIF
+icon: m\Misc_De_Goblet_07.tga
+data:
+  weight: 1.0
+  value: 3
+  flags: ''

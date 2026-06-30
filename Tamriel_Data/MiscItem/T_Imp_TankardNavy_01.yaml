@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_TankardNavy_01
+name: Naval Tankard
+script: ''
+mesh: tr\m\misc_impn_tankard_01.nif
+icon: m\Misc_Com_Tankard_01.tga
+data:
+  weight: 1.0
+  value: 5
+  flags: ''

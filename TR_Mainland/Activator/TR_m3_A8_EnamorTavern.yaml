@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_A8_EnamorTavern
+name: 'The Gentle Velk: Tavern'
+script: OutsideBanner
+mesh: f\Furn_banner_tavern_in.nif

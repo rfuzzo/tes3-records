@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m3_OE_CuriaVaultActDagger02
+name: ''
+script: TR_m3_OE_CuriaVaultDaggerSCP
+mesh: tr\w\tr_w_imp_dagger.nif

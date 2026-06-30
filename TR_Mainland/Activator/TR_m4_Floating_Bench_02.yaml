@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_Floating_Bench_02
+name: ''
+script: Float
+mesh: f\furn_com_bench_02.nif

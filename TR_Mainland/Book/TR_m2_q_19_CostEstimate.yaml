@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2_q_19_CostEstimate
+name: Estimate of Cost
+script: ''
+mesh: m\Text_paper_roll_01.nif
+icon: m\Tx_paper_roll_01.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nDear Serjo Venalis,<BR>\r\n<BR>\r\nWe are glad that you're considering to make an order at our Company. According to your written request we have put together the expected price of this order. Please note that the price, should you decide to order, may differ from the price given in this estimate.<BR>\r\n<BR>\r\nDetails:<BR>\r\nPick, iron  (8 Septims per piece)<BR>\r\n        10 pieces                  80 Septims<BR>\r\nChisel, iron  (5 Septims per piece)<BR>\r\n        5 pieces                   25 Septims<BR>\r\nHook, iron  (1 Septim per piece)<BR>\r\n        50 pieces                  50 Septims<BR>\r\nRope, hemp, 40 meters  (10 Septims per piece)<BR>\r\n        10 pieces                  100 Septims<BR>\r\nCrate, wood  (10 Septims per piece)<BR>\r\n        5 pieces                   50 Septims<BR>\r\nWood wool  (1 Septim per 1.000 angaids)<BR>\r\n        20.000 angaids         20 Septims<BR>\r\nScroll of Calman's Fissure  (500 Septims per piece)<BR>\r\n        3 pieces                     1500 Septims<BR>\r\n<BR>\r\n  Total                            1825 Septims<BR>\r\n<BR>\r\n<BR>\r\nWe're looking forward to accepting your orders.<BR>\r\n<BR>\r\nYours<BR>\r\n<BR>\r\nErville<BR>\r\nEast Empire Company<BR>\r\n<BR>"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 100

@@ -1,0 +1,20 @@
+type: Alchemy
+flags: PERSISTENT
+id: TR_m3_juice4_i3-128-ind
+name: Holly Wine
+script: ''
+mesh: m\Misc_Potion_Standard_01.nif
+icon: m\Tx_potion_standard_01.tga
+effects:
+- magic_effect: RestoreHealth
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 10
+  min_magnitude: 8
+  max_magnitude: 8
+data:
+  weight: 1.5
+  value: 81
+  flags: ''

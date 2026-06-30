@@ -1,0 +1,11 @@
+type: MiscItem
+flags: PERSISTENT
+id: key_hircine1
+name: A Glowing Key
+script: hircinekeyScript
+mesh: m\Key_Daedric_01.NIF
+icon: m\Tx_key_daedric.dds
+data:
+  weight: 0.0
+  value: 300
+  flags: ''

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngMine_SpinelDae_01
+name: Spinel
+script: BILL_MarksDaedraSummon
+mesh: TR\n\TR_Ing_spinel_mm.NIF
+icon: TR\n\TR_Ing_spinel_mm.dds
+data:
+  weight: 0.2
+  value: 100
+  effects:
+  - WeaknessToMagicka
+  - CureParalyzation
+  - Dispel
+  - DamageHealth
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

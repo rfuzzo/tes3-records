@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: misc_argonianhead_01
+name: The Head Of Scourge
+script: ''
+mesh: m\Misc_argonianhead_01.NIF
+icon: m\Tx_argonian_head_01.tga
+data:
+  weight: 3.0
+  value: 100
+  flags: ''

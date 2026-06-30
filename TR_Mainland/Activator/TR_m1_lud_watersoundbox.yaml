@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m1_lud_watersoundbox
+name: ''
+script: T_ScObj_WaterSimulation
+mesh: x\EditorMarker_box_02.NIF

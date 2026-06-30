@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Com_Iron_Longhammer_01
+name: Iron Longhammer
+script: ''
+mesh: tr\w\tr_w_iron_longhmr.nif
+icon: tr\w\tr_w_iron_longhmr.dds
+enchanting: ''
+data:
+  weight: 36.0
+  value: 80
+  weapon_type: BluntTwoClose
+  health: 1800
+  speed: 1.0
+  reach: 1.8
+  enchantment: 60
+  chop_min: 1
+  chop_max: 30
+  slash_min: 1
+  slash_max: 26
+  thrust_min: 1
+  thrust_max: 6
+  flags: ''

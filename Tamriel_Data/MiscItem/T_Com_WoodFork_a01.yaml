@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_WoodFork_a01
+name: Fork
+script: ''
+mesh: tr\m\tr_misc_wood_fork_a01.nif
+icon: TR\m\tr_misc_wood_fork_a01.dds
+data:
+  weight: 0.5
+  value: 2
+  flags: ''

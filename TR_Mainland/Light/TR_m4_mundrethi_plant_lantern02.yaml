@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: TR_m4_mundrethi_plant_lantern02
+name: Paper Lantern
+script: ''
+mesh: l\Light_De_Lantern_14.NIF
+icon: l\Light_De_Lantern_14.tga
+sound: ''
+data:
+  weight: 3.0
+  value: 10
+  time: 150
+  radius: 128
+  color:
+  - 255
+  - 15
+  - 5
+  - 0
+  flags: DYNAMIC | CAN_CARRY

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Cre_MinoTool_04
+name: Minotaur Tool
+script: ''
+mesh: pc\m\pc_misc_mino_tool_04.nif
+icon: pc\m\pc_misc_mino_tool_04.dds
+data:
+  weight: 15.0
+  value: 0
+  flags: ''

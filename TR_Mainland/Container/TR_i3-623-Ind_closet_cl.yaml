@@ -1,0 +1,21 @@
+type: Container
+flags: ''
+id: TR_i3-623-Ind_closet_cl
+name: Closet
+script: ''
+mesh: o\Contain_De_Closet_02.NIF
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory:
+- - 3
+  - T_Mw_Random_ClothingPantsCmDun
+- - 3
+  - T_Mw_Random_ClothingRobesCmDun
+- - 3
+  - T_Mw_Random_ClothingShirtsCmDun
+- - 2
+  - T_Mw_Random_ClothingSkirtsCmDun
+- - 1
+  - random_de_shoes_common
+- - 1
+  - random_loot_special

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_PBloomBulb_01
+name: Poison Bloom Bulb
+script: ''
+mesh: tr\n\tr_ing_pbloom_01.nif
+icon: tr\n\tr_ing_poisonbloom.dds
+data:
+  weight: 1.0
+  value: 25
+  effects:
+  - Poison
+  - Reflect
+  - DamageFatigue
+  - Light
+  skills:
+  - None
+  - Block
+  - None
+  - None
+  attributes:
+  - None
+  - Speed
+  - None
+  - None

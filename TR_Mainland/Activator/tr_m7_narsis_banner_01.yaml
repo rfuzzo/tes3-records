@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: tr_m7_narsis_banner_01
+name: 'Feldryn Tero: Bonesmith'
+script: OutsideBanner
+mesh: f\Furn_bannerD_WA_shop_01.nif

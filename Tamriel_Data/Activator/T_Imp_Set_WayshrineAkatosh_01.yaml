@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_Set_WayshrineAkatosh_01
+name: Wayshrine of Akatosh
+script: T_ScObj_ShrineWayAkatoshPC
+mesh: pc\x\PC_Act_WShrn.nif

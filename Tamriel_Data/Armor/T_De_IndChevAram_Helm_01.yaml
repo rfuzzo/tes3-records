@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_De_IndChevAram_Helm_01
+name: Native Chev-Aram Chitin Helm
+script: ''
+mesh: tr\a\tr_a_chevaram_helm_01g.nif
+icon: tr\a\tr_a_chevaram_helm_01.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Hair
+  male_bodypart: T_A_DeIndChevAramHelm01_Hr
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 1.0
+  value: 24
+  health: 200
+  enchantment: 125
+  armor_rating: 14

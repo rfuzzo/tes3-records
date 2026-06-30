@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: T_Tsa_Furn_Chest_01
+name: Chest
+script: ''
+mesh: pi\o\tsa_cont_chest.nif
+encumbrance: 250.0
+container_flags: IS_BASE
+inventory: []

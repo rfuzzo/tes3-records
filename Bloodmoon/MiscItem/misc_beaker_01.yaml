@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: misc_beaker_01
+name: Beaker
+script: ''
+mesh: m\Misc_beaker_01.nif
+icon: m\Tx_beaker_01.tga
+data:
+  weight: 0.5
+  value: 2
+  flags: ''

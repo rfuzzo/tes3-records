@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4-114_BlankLedger
+name: Blank Ledger
+script: ''
+mesh: pc\m\pc_bk_book_18.nif
+icon: pc\m\pc_bk_book_18.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n[Each page of this book has been meticulously ruled with ledger tables for use by the Bal Foyen council. The contents of these tables are currently empty.]<BR>\r\n\r\n"
+data:
+  weight: 2.0
+  value: 2
+  book_type: Book
+  skill: None
+  enchantment: 0

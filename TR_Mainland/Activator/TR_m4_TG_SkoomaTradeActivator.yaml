@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m4_TG_SkoomaTradeActivator
+name: Ando TG Skooma Trade Activator
+script: TR_m4_TG_SkoomaTradeAct_scp
+mesh: EditorMarker.NIF

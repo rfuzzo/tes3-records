@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: T_MwDwe_Furn_Cb1_Misc
+name: Rusted Dwemer Cabinet
+script: ''
+mesh: f\furn_dwrv_cabinet00.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - random_dwarven_misc
+- - 1
+  - random_dwemer_coins

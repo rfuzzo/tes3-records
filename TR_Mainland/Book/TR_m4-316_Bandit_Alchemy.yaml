@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4-316_Bandit_Alchemy
+name: A Bandit's Alchemical Work
+script: ''
+mesh: m\Text_Parchment_02.nif
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This piece of paper seems to be the worksheet of a bandit alchemist. It explains the trouble he had with creating a useful potion of water breathing, as well as some other remarks.]<BR>\r\n<BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\nI think I *finally* found out what the correct ingredients are. Kwama Cuttle and Luminous Russula make for a wonderful potion. However, I am not eager to test the potion on myself, nor would I give it to any of my comrades, seeing the lethal effect the previous potion demonstrated. While most of my fellows are useless idiots, they all know that the slaves are far more suitable as test subjects.<BR>\r\n<BR>\r\nAs soon as I concoct an adequate potion of water breathing, we can start the extraction of gold ore from the flooded tunnels. Everyone told me there are tons of it down there, and I intend to get hold of it!<BR>\r\n<BR>\r\nShould we succed in this undertaking, the potion I used in the last experiment could yet prove to be quite handy.<BR>\r\n"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: Alchemy
+  enchantment: 0

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: PERSISTENT
+id: ingred_eyeball_unique
+name: Flaming Eye of the Lightkeeper
+script: ''
+mesh: m\BM_FlamingEyeBall.NIF
+icon: m\Tx_FlamingEye.dds
+data:
+  weight: 1.0
+  value: 15
+  effects:
+  - ResistFrost
+  - NightEye
+  - DrainMagicka
+  - FortifyAttribute
+  skills:
+  - None
+  - None
+  - None
+  - Block
+  attributes:
+  - None
+  - None
+  - None
+  - Strength

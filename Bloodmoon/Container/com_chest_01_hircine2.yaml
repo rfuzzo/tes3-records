@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: com_chest_01_hircine2
+name: Chest
+script: hircinechestScript
+mesh: o\Contain_Com_Chest_01.NIF
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory: []

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_bc_hypha_facia
+name: Hypha Facia
+script: ''
+mesh: n\Ingred_BC_Hypha_Facia.NIF
+icon: n\Ingred_BC_Hypha_Facia.tga
+data:
+  weight: 0.1
+  value: 1
+  effects:
+  - DrainAttribute
+  - DrainAttribute
+  - DrainFatigue
+  - DetectEnchantment
+  skills:
+  - Block
+  - Block
+  - Block
+  - Block
+  attributes:
+  - Luck
+  - Agility
+  - Strength
+  - Strength

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_AyleidCitiesValenwoodPC
+name: Ayleid Cities of Valenwood
+script: ''
+mesh: pc\m\PC_bk_Book_01.nif
+icon: pc\m\pc_bk_book_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>Ayleid Cities of Valenwood\r\n<BR>\r\n<DIV ALIGN=\"LEFT\">\r\nAn Excerpt<BR>\r\n<BR>\r\nWritten by the Esteemed Historian Homfrey at the University of Gwylim, 2E 455<BR>\r\n<BR>\r\nBeing a Survey of the Triumphant Settlement of the Heartland High Elves in the Southern Regions<BR>\r\n<BR>\r\n... At this point, we should mention the remarkable cities of Ceyatatar, and the Ayleid settlement beneath what is now modern Bravil. These cities, along with the Valenwood cities of Haven, Woodhearth, and Silvenar, all flourished as a result of increased trade after the establishment of the great White-Gold Tower in what is now the heart of Cyrodiil.<BR>\r\n<BR>\r\nOf note in particular is the university and libraries at nearby Elden Root. The Ayleids there built their city in and around what is called the Elden Tree or the First Tree, believed by many to be the tree that seeded all of Valenwood.<BR>\r\n<BR>\r\nBoth Haven and Woodhearth were destroyed utterly by the sieging Maormer, who cared little for the advanced and enlightened ways of the Valenwood Aldmer. Marching inland, they plundered not only the Elden Root enclave, but also the Great Tree itself. What villainous tribe would injure and pillage such magnificence?<BR>\r\n<BR>\r\nIt is possible that the Maormer had broken the Aldmer traditions of racial purity and intermingled with indigenous, bestial tribes of Pyandonea. This would explain their savagery and lack of regard for the greatness of mainland Elven culture.<BR><BR>"
+data:
+  weight: 2.0
+  value: 80
+  book_type: Book
+  skill: None
+  enchantment: 0

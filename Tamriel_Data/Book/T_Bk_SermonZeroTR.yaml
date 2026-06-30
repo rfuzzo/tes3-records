@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_SermonZeroTR
+name: 36 Lessons of Vivec, Sermon 0
+script: ''
+mesh: m\Text_Octavo_06.nif
+icon: m\Tx_book_03.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe Thirty-Six Lessons of Vivec: Sermon Zero<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nThis is the truth of Sermon Zero, which is neither one.<BR>\r\n<BR>\r\nHe was born a poor Netchiman, but rich in his Wife and in Wisdom. Eternal are their names, mother and father of Vehk, Berahzic and Irdri.<BR>\r\n<BR>\r\nGenerous silver chalice, sword in the clouds, dying-radiant lady-star. He entered the Temple, passed the seven veils, beheld his wife, Berahzic. O: the word, the deed, the end inevitable: O!<BR>\r\n<BR>\r\nShe asked of him truths beyond words, and he answered without words, but added in completion:<BR>\r\n<BR>\r\n\"There is nothing beyond bliss, after death comes the void. Only then are we free to love. Figuring father Peryite would stamp it and catalogue it. And Mephala mother, embracing black hands, would smother it. Gods such as us must be gentle with all our children, both flesh and spirit, a seed-apple potpourri.\"<BR>\r\n<BR>\r\nOn that night Berahzic named her children but did not know their sum.<BR>\r\n<BR>\r\nDreams of peasants, a Netchiman's dream. IRDRI HLAFEM VEHK HYKRO.<BR>\r\n<BR>\r\nSilence is the command of the Aedra, the howling horror in the cavern of the heart, the laughter of Berahzic. Nocturnal's Black Skies, Peryite's Golden Order, Meridia's Green Generations, Mehrunes' Red Rage, the Sighs of Berahzic. O, her diamonds and crescents a crimson dawn over armies arrayed for battle, her dark and silent eyes the blinding snows of Solitude.<BR>\r\n<BR>\r\nMany thousand millions are the visions of aminreaV. A, awake, the first and last, the King of I.<BR>\r\n<BR>\r\nNetchiman Irdri on the next day took his wife and newfound treasure to meet the Dwarf-King at the end of Bthuangthuv.<BR>\r\n<BR>\r\nThere Kagrenac gave him the thrice-secret word:<BR>\r\n<BR>\r\nRPDXGBWGHPZBXLOdZaZeXL dCIBNGJZereZDQOPhtHVVeKV PrCSaNYyehBtCdInMZGaJRVeR rMGZuGCCIsHTZaLVeRFOrPZP KBPtORsKIiONhXTtPKFgHTV OnolJRVJEeZVKWQIbHVCMNn oIivFiVMlYVCBbCVVFoDIdInWa WIrLZVeVCMmewNIdGYIeKhT NtZTVoXVDKZt<BR>\r\n<BR>\r\nHere the true key lies. Vivec is the lesser or false key.<BR>\r\n<BR>\r\nFor in the beginning was the Word: Spoken by a Great Ape.<BR>\r\nFor in the beginning was the Word: Three by Seventy-two.<BR>\r\nFor in the beginning was the Word: ALMSIVI.<BR>\r\n<BR>\r\n"
+data:
+  weight: 3.0
+  value: 200
+  book_type: Book
+  skill: Mysticism
+  enchantment: 20

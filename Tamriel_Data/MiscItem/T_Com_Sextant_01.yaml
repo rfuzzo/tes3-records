@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_Sextant_01
+name: Sextant
+script: ''
+mesh: pi\m\PI_misc_sextant01.nif
+icon: pi\m\PI_misc_sextant01_icn.dds
+data:
+  weight: 1.0
+  value: 150
+  flags: ''

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_q_StolenList
+name: List of Stolen Items
+script: ''
+mesh: m\Misc_paper_plain_01.nif
+icon: m\Tx_paper_plain_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nItems that were missing:<BR>\r\n<BR>\r\nBolt of Cloth, 2<BR>\r\nWooden fork, 3<BR>\r\nWooden knife, 1<BR>\r\nGreen pot, 1<BR>\r\nBlue glass pot, 1<BR>\r\n<BR>\r\n\r\n"
+data:
+  weight: 1.0
+  value: 3
+  book_type: Scroll
+  skill: None
+  enchantment: 50

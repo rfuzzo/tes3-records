@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: Act_Terrain_lava_ventlg
+name: Steaming Lava Vent Large
+script: Sound_Steam
+mesh: x\Terrain_lava_ventLG.NIF

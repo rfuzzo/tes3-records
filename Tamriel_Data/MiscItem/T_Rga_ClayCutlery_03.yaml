@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Rga_ClayCutlery_03
+name: Clay Knife
+script: ''
+mesh: hf\m\hf_misc_rga_ClCutl_03.nif
+icon: hf\m\hf_misc_rga_ClCutl_03.dds
+data:
+  weight: 0.5
+  value: 1
+  flags: ''

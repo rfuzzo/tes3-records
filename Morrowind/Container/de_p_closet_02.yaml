@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: de_p_closet_02
+name: Closet
+script: ''
+mesh: o\Contain_De_Closet_02.NIF
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory: []

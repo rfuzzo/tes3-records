@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: T_Yne_Furn_Urn_03
+name: Urn
+script: ''
+mesh: pi\o\pi_cont_yne_urn_03.nif
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory: []

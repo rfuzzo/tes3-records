@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_ComPaintBrush01
+name: Paint Brush
+script: ''
+mesh: OAAB\m\paint_brush_01.nif
+icon: OAAB\m\paint_brush_01.tga
+data:
+  weight: 0.2
+  value: 8
+  flags: ''

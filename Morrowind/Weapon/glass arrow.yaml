@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: glass arrow
+name: Glass Arrow
+script: ''
+mesh: w\W_Glass_arrow.NIF
+icon: w\tx_arrow_glass.tga
+enchanting: ''
+data:
+  weight: 0.15
+  value: 8
+  weapon_type: Arrow
+  health: 10
+  speed: 1.0
+  reach: 1.0
+  enchantment: 9
+  chop_min: 1
+  chop_max: 6
+  slash_min: 0
+  slash_max: 0
+  thrust_min: 0
+  thrust_max: 0
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

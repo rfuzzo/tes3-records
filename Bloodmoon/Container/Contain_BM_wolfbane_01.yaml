@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: Contain_BM_wolfbane_01
+name: Dried Wolfbane
+script: ''
+mesh: o\Contain_BM_wolfbane_01.NIF
+encumbrance: 0.0
+container_flags: IS_BASE
+inventory: []

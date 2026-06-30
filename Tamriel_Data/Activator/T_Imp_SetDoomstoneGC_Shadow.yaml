@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_SetDoomstoneGC_Shadow
+name: The Shadow Stone
+script: T_ScObj_DoomBShadowPC
+mesh: pc\f\pc_dmstn_gc_thief.nif

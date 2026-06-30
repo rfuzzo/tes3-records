@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: act_ex_colony_root_4
+name: ''
+script: ColonyRoot1
+mesh: f\Flora_root_WG_04.nif

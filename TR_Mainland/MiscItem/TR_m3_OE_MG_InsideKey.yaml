@@ -1,0 +1,11 @@
+type: MiscItem
+flags: PERSISTENT
+id: TR_m3_OE_MG_InsideKey
+name: Geode Key
+script: ''
+mesh: tr\m\tr_key_dd05.nif
+icon: tr\m\tr_key_dd05.dds
+data:
+  weight: 0.0
+  value: 0
+  flags: KEY

@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m4_sadrapit_crate_02
+name: Crate
+script: ''
+mesh: TR\o\TR_cont_crate_L_01.nif
+encumbrance: 400.0
+container_flags: IS_BASE
+inventory:
+- - 5
+  - T_IngMine_OreSilver_01

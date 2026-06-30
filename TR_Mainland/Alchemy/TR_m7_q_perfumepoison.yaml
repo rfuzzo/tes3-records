@@ -1,0 +1,28 @@
+type: Alchemy
+flags: ''
+id: TR_m7_q_perfumepoison
+name: Essence of Netch Vomit
+script: ''
+mesh: pc\m\pc_perfume_01.nif
+icon: pc\m\pc_perfume_01.dds
+effects:
+- magic_effect: WeaknessToPoison
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 1
+  min_magnitude: 500
+  max_magnitude: 500
+- magic_effect: Poison
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 2
+  min_magnitude: 500
+  max_magnitude: 500
+data:
+  weight: 1.0
+  value: 100
+  flags: ''

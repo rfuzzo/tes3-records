@@ -1,0 +1,20 @@
+type: Clothing
+flags: ''
+id: T_Nor_UNI_FeetOfTheCloudwalker
+name: Feet of the Cloudwalker
+script: ''
+mesh: c\C_common_Nordic02ShoeGND.NIF
+icon: c\Tx_Common_Nordic02_Foot.dds
+enchanting: T_Const_Cloudwalker
+biped_objects:
+- biped_object_type: LeftFoot
+  male_bodypart: C_common_Nordic02_F
+  female_bodypart: ''
+- biped_object_type: RightFoot
+  male_bodypart: C_common_Nordic02_F
+  female_bodypart: ''
+data:
+  clothing_type: Shoes
+  weight: 2.5
+  value: 40
+  enchantment: 20

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngMine_OreBrass_01
+name: Brass Ore
+script: ''
+mesh: tr\n\tr_ing_brass.nif
+icon: tr\n\tr_ing_brass.dds
+data:
+  weight: 2.0
+  value: 20
+  effects:
+  - FortifyHealth
+  - WeaknessToNormalWeapons
+  - Jump
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_De_Ashlander_ShortSword_01
+name: Ashlander Shortsword
+script: ''
+mesh: tr\w\tr_w_ashglass_ssword.nif
+icon: tr\w\tr_w_ashglass_ssword.dds
+enchanting: ''
+data:
+  weight: 6.5
+  value: 6200
+  weapon_type: ShortBladeOneHand
+  health: 440
+  speed: 2.0
+  reach: 1.0
+  enchantment: 20
+  chop_min: 5
+  chop_max: 15
+  slash_min: 5
+  slash_max: 12
+  thrust_min: 7
+  thrust_max: 10
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

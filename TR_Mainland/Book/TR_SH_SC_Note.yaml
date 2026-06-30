@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_SH_SC_Note
+name: Note To Self
+script: ''
+mesh: tr\tr_note_pin.nif
+icon: default icon.dds
+enchanting: ''
+text: "thresher cave. when we come round to adding the gan-ettu shinathi below, this should either move so it can be used for kwoom pool/storage\r\nor some shinathi related loot should be swapped in - aveno"
+data:
+  weight: 0.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 0

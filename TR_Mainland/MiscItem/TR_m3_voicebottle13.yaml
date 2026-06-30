@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m3_voicebottle13
+name: '"Sload Drug Lord"'
+script: ''
+mesh: m\Misc_Com_Bottle_07.NIF
+icon: m\Misc_Com_Bottle_07.tga
+data:
+  weight: 2.0
+  value: 0
+  flags: ''

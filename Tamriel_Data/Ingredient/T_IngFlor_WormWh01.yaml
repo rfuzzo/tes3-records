@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_WormWh01
+name: Worm Wheat Tufts
+script: ''
+mesh: hr\n\hr_ing_wormwh_01.nif
+icon: hr\n\hr_ing_wormwh01.dds
+data:
+  weight: 0.1
+  value: 1
+  effects:
+  - DrainFatigue
+  - NightEye
+  - Feather
+  - DamageAttribute
+  skills:
+  - None
+  - None
+  - None
+  - Block
+  attributes:
+  - None
+  - None
+  - None
+  - Endurance

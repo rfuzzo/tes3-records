@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_i3-287-Imp-NC
+name: Navy chart
+script: ''
+mesh: m\Text_Scroll_01.NIF
+icon: m\Tx_scroll_open_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nInner Sea<BR>\r\n<IMG SRC=\"RedMountain_377_253.tga\" WIDTH=\"377\" HEIGHT=\"253\"><BR><BR>\r\n"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

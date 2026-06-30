@@ -1,0 +1,12 @@
+type: Alchemy
+flags: ''
+id: tr_m3_voicebottle3
+name: '"Dremora Lord"'
+script: ''
+mesh: m\Misc_Potion_Exclusive_01.nif
+icon: m\Tx_potion_exclusive_01.tga
+effects: []
+data:
+  weight: 0.25
+  value: 0
+  flags: ''

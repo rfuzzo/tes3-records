@@ -1,0 +1,36 @@
+type: Alchemy
+flags: ''
+id: TR_M4_i394_poisonlevitate
+name: Spoiled Potion of Rising Force
+script: ''
+mesh: m\Misc_Potion_Quality_01.nif
+icon: m\Tx_potion_quality_01.tga
+effects:
+- magic_effect: DrainAttribute
+  skill: None
+  attribute: Intelligence
+  range: OnSelf
+  area: 0
+  duration: 40
+  min_magnitude: 15
+  max_magnitude: 15
+- magic_effect: Levitate
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 15
+  min_magnitude: 1
+  max_magnitude: 1
+- magic_effect: Poison
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 30
+  min_magnitude: 1
+  max_magnitude: 1
+data:
+  weight: 1.0
+  value: 10
+  flags: ''

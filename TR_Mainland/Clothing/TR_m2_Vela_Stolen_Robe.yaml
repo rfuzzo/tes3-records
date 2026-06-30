@@ -1,0 +1,23 @@
+type: Clothing
+flags: PERSISTENT
+id: TR_m2_Vela_Stolen_Robe
+name: Vela Heleran's Poisonguard Robe
+script: ''
+mesh: tr\c\tr_c_robe_telv_01gd.nif
+icon: tr\c\tr_c_robe_telv_01.dds
+enchanting: poisonguard_en
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_C_DeEtRobeTelv01_C
+  female_bodypart: ''
+- biped_object_type: LeftAnkle
+  male_bodypart: ''
+  female_bodypart: ''
+- biped_object_type: RightAnkle
+  male_bodypart: ''
+  female_bodypart: ''
+data:
+  clothing_type: Robe
+  weight: 3.0
+  value: 200
+  enchantment: 200

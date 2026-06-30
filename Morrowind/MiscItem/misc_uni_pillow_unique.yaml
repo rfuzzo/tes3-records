@@ -1,0 +1,11 @@
+type: MiscItem
+flags: PERSISTENT
+id: misc_uni_pillow_unique
+name: Extra-Comfy Pillow
+script: pillowScript
+mesh: m\Misc_Com_Pillow_01.NIF
+icon: m\Misc_Com_Pillow_01.tga
+data:
+  weight: 1.0
+  value: 1
+  flags: ''

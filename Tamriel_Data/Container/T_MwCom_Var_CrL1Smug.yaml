@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: T_MwCom_Var_CrL1Smug
+name: Crate
+script: ''
+mesh: TR\o\TR_cont_crate_L_01.nif
+encumbrance: 400.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - T_Mw_Lvl_LootBanditGoods
+- - 10
+  - T_Mw_Lvl_LootSmugglerGoods

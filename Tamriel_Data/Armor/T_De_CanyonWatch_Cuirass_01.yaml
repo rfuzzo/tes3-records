@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_De_CanyonWatch_Cuirass_01
+name: Shipal-Arai Bonemold Cuirass
+script: ''
+mesh: tr\a\tr_a_cynwtch_cuir_gnd.nif
+icon: tr\a\tr_a_canyonwatch_cuir.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_A_DeCanyonWatchCuirass01_C
+  female_bodypart: ''
+data:
+  armor_type: Cuirass
+  weight: 19.5
+  value: 360
+  health: 400
+  enchantment: 160
+  armor_rating: 15

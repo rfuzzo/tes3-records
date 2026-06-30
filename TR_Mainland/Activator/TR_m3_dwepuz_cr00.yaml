@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m3_dwepuz_cr00
+name: Dwarven Crank
+script: TR_m3_dwepuzlev00
+mesh: i\in_dwrv_crank00.nif

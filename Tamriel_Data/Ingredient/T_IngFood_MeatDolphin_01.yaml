@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_MeatDolphin_01
+name: Dolphin Meat
+script: ''
+mesh: pc\n\pc_ing_dolphin_meat.nif
+icon: pc\n\pc_ing_dolphin_meat.tga
+data:
+  weight: 1.0
+  value: 5
+  effects:
+  - RestoreFatigue
+  - SwiftSwim
+  - FortifySkill
+  - Jump
+  skills:
+  - None
+  - None
+  - Acrobatics
+  - None
+  attributes:
+  - None
+  - None
+  - Strength
+  - None

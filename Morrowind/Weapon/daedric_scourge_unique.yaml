@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: daedric_scourge_unique
+name: Scourge
+script: ''
+mesh: w\W_art_mace_scourge.NIF
+icon: w\W_mace_scourge.tga
+enchanting: curse of scourge
+data:
+  weight: 30.0
+  value: 80000
+  weapon_type: BluntOneHand
+  health: 4000
+  speed: 1.5
+  reach: 1.0
+  enchantment: 200
+  chop_min: 10
+  chop_max: 35
+  slash_min: 10
+  slash_max: 35
+  thrust_min: 6
+  thrust_max: 8
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

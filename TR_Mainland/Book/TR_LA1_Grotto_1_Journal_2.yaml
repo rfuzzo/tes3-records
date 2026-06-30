@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_LA1_Grotto_1_Journal_2
+name: Thief's Journal 2
+script: ''
+mesh: m\Text_Note_02.nif
+icon: m\Tx_note_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<BR>\r\nI don't know how, but they've tracked me to this cave!\r\n<BR>\r\nI was forced to dive into the water to escape, and thanks to a water breathing potion I was able to swim well beyond their reach. But that's now the least of my worries! I was attacked by some man-squid beast under the water! I lost most of the potions while fleeing, which seemed to distract it long enough for me to escape. I'll need to find out where they've been stashed.\r\n<BR>\r\nI'm sure I've been here several days by now. Those cursed squid-men are waiting for me. I don't know where they're coming from, or how many there are, but I swear they're taking turns harassing me here, like they're taunting me! ... I need to make my move soon. Getting weak.\r\n<BR>\r\n"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 100

@@ -1,0 +1,25 @@
+type: Armor
+flags: ''
+id: dwemer_greaves
+name: Dwemer Greaves
+script: ''
+mesh: a\A_Dwemer_Greaves_GND.nif
+icon: a\TX_Dwemer_greaves.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: Groin
+  male_bodypart: a_dwemer_greaves_g
+  female_bodypart: ''
+- biped_object_type: LeftUpperLeg
+  male_bodypart: a_dwemer_greaves_ul
+  female_bodypart: ''
+- biped_object_type: RightUpperLeg
+  male_bodypart: a_dwemer_greaves_ul
+  female_bodypart: ''
+data:
+  armor_type: Greaves
+  weight: 18.0
+  value: 660
+  health: 200
+  enchantment: 25
+  armor_rating: 20

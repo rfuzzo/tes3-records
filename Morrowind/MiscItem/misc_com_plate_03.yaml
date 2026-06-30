@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: misc_com_plate_03
+name: Plate
+script: ''
+mesh: m\Misc_Com_Plate_03.NIF
+icon: m\Misc_Com_Plate_03.tga
+data:
+  weight: 1.0
+  value: 5
+  flags: ''

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_RegardsDunmerChitinTR
+name: In Regards to the Chitin Armor
+script: ''
+mesh: m\Text_Octavo_08.nif
+icon: m\Tx_book_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nIn Regards to the Dunmeri Chitin Armor<BR>\r\nby Roiwra, Military Historian and Enthusiast<BR>\r\n1st Edition; Imperial City, Cyrodiil<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nAll civilizations and societies are products of their environment. Although this is a very useful principle for those that aspire to study the history or culture(s) of Tamriel, it becomes even more prominent when one takes it upon him to analyze the Dunmer of the East.\r\n<BR>\r\nAt first glance, it might seem peculiar that the Dunmer use animal parts to manufacture their armor instead of iron and steel like the Imperials and the Nords. However, one has to take into account the exodus to Morrowind. This fated migration to the East stripped the Chimer (ancestors of the Dunmer) from Aldmeri resources and methodology of the time, forcing the new nation to start from the ground up.\r\n<BR>\r\nAs one might imagine, the first step was the development of agriculture and husbandry. Netch leather was used for clothing and insect resin for a plethora of tool making, and it was not long before warfare forced the denizens of Morrowind to come up with ways to defend themselves.\r\n<BR>\r\nThe protective chitin of native insects had various applications before its use as means of defense. As argued by notable Dunmer historians, the implementation in shield-making probably predates use in armor, but not by much.\r\n<BR>\r\nThe chitin style was a recipient of much experimentation early on, but its design eventually reached its apex. The modern style consists of a multitude of insect carapace layers, held together by powerful resinous glues that act as insulation, strengthening agent and padding.\r\n<BR>\r\nThe material from which the armor is made permits air flow, allowing the warrior within to endure hot summer days and last longer in combat. As such, chitin armor has been (and continues to be) used by light infantry, whose main role is to outflank more heavily equipped adversaries.\r\n<BR>\r\nThere is no doubt that chitin is a unique and cost-effective armor material that will be used for generations to come in land of the Dunmer. Perhaps other cultures, including that of the people of the Empire of Tamriel, could learn much from the adaptability of the Dunmer.\r\n<BR>"
+data:
+  weight: 1.5
+  value: 75
+  book_type: Book
+  skill: None
+  enchantment: 100

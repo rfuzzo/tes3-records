@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: AB_ScEn_StarryRoad
+name: Scroll of Starry Road
+script: ''
+mesh: OAAB\m\scrollCheap.nif
+icon: OAAB\m\scroll_cheap.tga
+enchanting: AB_sc_StarryRoad_en
+text: <DIV ALIGN="center"><FONT COLOR="000000" SIZE="2" FACE="Daedric">FOLLOW THE GE</FONT><BR>
+data:
+  weight: 0.2
+  value: 50
+  book_type: Scroll
+  skill: None
+  enchantment: 0

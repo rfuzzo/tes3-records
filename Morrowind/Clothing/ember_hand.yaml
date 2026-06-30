@@ -1,0 +1,17 @@
+type: Clothing
+flags: ''
+id: ember_hand
+name: Ember Hand
+script: ''
+mesh: c\C_glove_common1_GND.NIF
+icon: c\tx_glove_common1.tga
+enchanting: dire weakness to fire_EN
+biped_objects:
+- biped_object_type: RightHand
+  male_bodypart: c_glove_common1
+  female_bodypart: ''
+data:
+  clothing_type: RightGlove
+  weight: 1.0
+  value: 2
+  enchantment: 10

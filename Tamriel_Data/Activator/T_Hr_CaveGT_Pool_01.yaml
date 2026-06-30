@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Hr_CaveGT_Pool_01
+name: ''
+script: Sound_Cave_Drip
+mesh: hr\i\hr_act_in_cvgt_pool.nif

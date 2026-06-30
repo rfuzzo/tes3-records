@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_Q_MalaIntervention
+name: Almsivi Intervention on Other
+script: ''
+mesh: m\Text_Scroll_01.nif
+icon: m\Tx_scroll_open_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"center\"><FONT COLOR=\"000000\" SIZE=\"2\" FACE=\"Daedric\">INVOKE SWIFTLY AND WISELY </FONT><BR>\r\n"
+data:
+  weight: 0.2
+  value: 85
+  book_type: Scroll
+  skill: None
+  enchantment: 100

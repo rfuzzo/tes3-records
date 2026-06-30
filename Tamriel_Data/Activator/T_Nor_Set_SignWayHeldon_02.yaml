@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Nor_Set_SignWayHeldon_02
+name: Heldon
+script: ''
+mesh: sky\f\sky_act_signpost_02.nif

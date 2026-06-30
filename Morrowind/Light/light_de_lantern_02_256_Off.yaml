@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: light_de_lantern_02_256_Off
+name: Glass Lantern
+script: ''
+mesh: l\Light_De_Lantern_02.NIF
+icon: l\Light_De_Lantern_02.tga
+sound: ''
+data:
+  weight: 3.0
+  value: 12
+  time: 150
+  radius: 128
+  color:
+  - 0
+  - 147
+  - 255
+  - 0
+  flags: DYNAMIC | CAN_CARRY | FIRE | OFF_BY_DEFAULT | FLICKER_SLOW

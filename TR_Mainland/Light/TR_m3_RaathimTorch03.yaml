@@ -1,0 +1,19 @@
+type: Light
+flags: PERSISTENT
+id: TR_m3_RaathimTorch03
+name: Ebony-Trimmed Torch
+script: TR_m3_OE_RaathimT02SCP
+mesh: l\light_torch10.nif
+icon: l\light_torch10.tga
+sound: Fire 40
+data:
+  weight: 0.0
+  value: 5
+  time: 0
+  radius: 157
+  color:
+  - 245
+  - 140
+  - 40
+  - 0
+  flags: DYNAMIC | CAN_CARRY | FIRE | OFF_BY_DEFAULT | FLICKER_SLOW

@@ -1,0 +1,21 @@
+type: Container
+flags: ''
+id: tr_m7_marketchest_01
+name: Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - -1
+  - chitin boots
+- - -1
+  - chitin greaves
+- - -1
+  - cloth bracer left
+- - -1
+  - cloth bracer right
+- - -1
+  - fur_boots
+- - -1
+  - iron boots

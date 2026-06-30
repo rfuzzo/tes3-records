@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_AndoG_LawTranscript2
+name: Court Transcript
+script: ''
+mesh: m\Text_Scroll_open_02.nif
+icon: m\Tx_scroll_open_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n[This is the transcript for a recent court case in Bal Foyen regarding trade misconduct. Various trade laws and pedantic details are cited from the beginning, and the transcript continues like this for a while.]<BR>"
+data:
+  weight: 0.2
+  value: 2
+  book_type: Scroll
+  skill: None
+  enchantment: 100

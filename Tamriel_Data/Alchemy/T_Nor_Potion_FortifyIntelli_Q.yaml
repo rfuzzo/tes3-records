@@ -1,0 +1,20 @@
+type: Alchemy
+flags: ''
+id: T_Nor_Potion_FortifyIntelli_Q
+name: Quality Fortify Intelligence
+script: ''
+mesh: Sky\m\Sky_Misc_Potion_P_Q.nif
+icon: Sky\m\Tx_Misc_Potion_P_Q.dds
+effects:
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Intelligence
+  range: OnSelf
+  area: 0
+  duration: 45
+  min_magnitude: 15
+  max_magnitude: 15
+data:
+  weight: 0.5
+  value: 80
+  flags: ''

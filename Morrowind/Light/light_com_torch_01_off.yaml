@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: light_com_torch_01_off
+name: Torch
+script: ''
+mesh: l\Light_Com_Torch_01.NIF
+icon: l\Light_Com_Torch_01.tga
+sound: Fire 40
+data:
+  weight: 2.0
+  value: 5
+  time: 150
+  radius: 256
+  color:
+  - 245
+  - 140
+  - 40
+  - 0
+  flags: DYNAMIC | CAN_CARRY | FIRE | OFF_BY_DEFAULT | FLICKER_SLOW

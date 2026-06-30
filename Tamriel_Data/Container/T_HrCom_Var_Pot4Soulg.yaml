@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_HrCom_Var_Pot4Soulg
+name: Pot
+script: ''
+mesh: hr\o\hr_cont_pot_small_04.nif
+encumbrance: 10.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - T_Hr_Lvl_Soulgems

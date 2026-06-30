@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Gob_UNI_Blindstalker_Amulet
+name: Blind Stalker Amulet
+script: ''
+mesh: tr\c\tr_c_blindstalker.nif
+icon: tr\c\tr_c_blindstalker.dds
+enchanting: T_Const_Blindstalker_Amulet
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 25000
+  enchantment: 3400

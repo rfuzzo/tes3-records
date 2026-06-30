@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Echo_35
+name: THE DEVIL DAGOTH UR DEAD
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_text_note_nar_news.nif
+icon: tr\m\tr_text_note_nar_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\tr_echo_512_256.dds\" WIDTH=\"348\" HEIGHT=\"168\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nTHE DEVIL DAGOTH UR DEAD<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nMany thought this day would never come, that the black scorn of the Blight and its cruel master, unjustly cast upon the fair Dunmer people, would never be rooted out of their cursed stronghold. This day, all people of Morrowind may rejoice at the sacred feats of %PCName, Saint Nerevar reborn and savior of all Morrowind -- perhaps all Tamriel -- as Dagoth Ur, unholy abomination and foul devil of the Temple faithful, lies destroyed forever.<BR><BR>\r\nAfter official recognition and sponsorship of the noble Vivec himself, the Nerevarine set about past the Ghostgate and into the treacherous, plagued stretches of Red Mountain on the isle of Vvardenfell. While exact details of the Nerevarine's heroism are currently scarce, it is said that they gathered several Dwemer relics -- long forgotten to uncursed mortal eyes -- and with this power the fated hero did what countless could not and struck down the putrid demon Dagoth Ur.<BR><BR>\r\nWith the immediate dangers of Vvardenfell's Blight now gone, it is assuredly no better time to invest in the Black Isle's various ventures-- business booming on the recently-opened island. The Canyon Echo particularly foresees a rise in Dwemer and ebony exports, the rich area around the Red Mountain and its several ancient Dwarven cities now relatively safe.<BR><BR>\r\nOn this sacred day, as the skies over Vvardenfell lay clear and blue, and the threat of the vile Corprus disease no longer lingers over us all, we must of course praise the excellent Nerevarine (to whom the Canyon Echo wishes to extend a personal congratulations) and, of course, the magnificent Three, who guided us in their infinite wisdom to this very joyous day; praise be to ALMSIVI, and the Nerevarine!<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

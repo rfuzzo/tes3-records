@@ -1,0 +1,14 @@
+type: Clothing
+flags: PERSISTENT
+id: TR_m3_OE_VaultZapStone
+name: Lightning Crystal
+script: TR_m3_OE_VaultCrystalSCP
+mesh: tr\n\tr_ing_rock_cryst_mm.nif
+icon: tr\n\tr_ing_rock_crystal.dds
+enchanting: shockball_en
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 8.0
+  value: 500
+  enchantment: 45

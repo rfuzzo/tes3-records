@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_Ando_MG_Caster
+name: ''
+script: TR_m4_Ando_MG_CasterSc
+mesh: c\C_Ring_common01.NIF

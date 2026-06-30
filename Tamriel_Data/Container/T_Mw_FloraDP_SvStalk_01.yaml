@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: T_Mw_FloraDP_SvStalk_01
+name: Silverstalk
+script: ''
+mesh: tr\o\tr_flora_sstalk_01.nif
+encumbrance: 0.0
+container_flags: IS_BASE
+inventory: []

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_i2_445_MachineFX_C01
+name: ''
+script: TR_m2_445_sc_MachineFX_C1
+mesh: tr\f\TR_act_nec_uc_machfx_1.nif

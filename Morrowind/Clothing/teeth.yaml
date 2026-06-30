@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: teeth
+name: Teeth of the Urshilaku
+script: ''
+mesh: c\Amulet_teeth_Urshilaku.NIF
+icon: c\tx_amulet_urshilaku.tga
+enchanting: teeth_en
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 2400
+  enchantment: 1200

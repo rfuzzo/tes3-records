@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_BkGen_BlankLedger01
+name: Blank Ledger
+script: ''
+mesh: pc\m\PC_bk_Book_18.nif
+icon: pc\m\pc_bk_book_18.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n[Each page of this book has been meticulously ruled with ledger tables for later use. The contents of these tables are currently empty.]<BR>"
+data:
+  weight: 3.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 0

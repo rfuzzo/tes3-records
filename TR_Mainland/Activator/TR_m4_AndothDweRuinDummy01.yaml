@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_AndothDweRuinDummy01
+name: Practice Dummy
+script: TR_m4_AndothDweDummy01_scp
+mesh: f\furn_practice_dummy.nif

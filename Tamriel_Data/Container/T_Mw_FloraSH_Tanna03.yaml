@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Mw_FloraSH_Tanna03
+name: Tanna
+script: ''
+mesh: tr\o\tr_flora_tanna_03.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 5
+  - T_Mw_Random_FlorTanna

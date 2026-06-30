@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_i3-729_crt_picks
+name: Crate
+script: ''
+mesh: o\Contain_crate_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 5
+  - TR_i3-729_rnd_mining_pick

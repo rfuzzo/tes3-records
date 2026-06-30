@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Dae_UNI_OccultistRing
+name: Ghost Ring
+script: ''
+mesh: tr\c\tr_c_ring_occult.nif
+icon: tr\c\tr_c_ring_occult.dds
+enchanting: T_Use_OccultistRing
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 32000
+  enchantment: 375

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: tr_i2-445_bannershrine_exo
+name: Banner of the Exodus
+script: TR_m2_445_exodusshrine
+mesh: tr\f\tr_furn_bannerexo_uni.nif

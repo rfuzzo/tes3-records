@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Fx_WaterFallWide01
+name: ''
+script: Sound_Water_Spout
+mesh: OAAB\e\waterfallWide01.nif

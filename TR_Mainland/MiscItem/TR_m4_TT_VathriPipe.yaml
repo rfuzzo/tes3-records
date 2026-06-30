@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m4_TT_VathriPipe
+name: Ulmon's Hackle-Lo Pipe
+script: TR_m4_TT_LastWillEnable_sc
+mesh: TR\m\TR_misc_de_hacklo_pipe.NIF
+icon: TR\m\TR_misc_de_hacklo_pipe.dds
+data:
+  weight: 0.6
+  value: 12
+  flags: ''

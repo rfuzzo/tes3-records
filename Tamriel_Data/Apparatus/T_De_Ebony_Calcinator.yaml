@@ -1,0 +1,12 @@
+type: Apparatus
+flags: ''
+id: T_De_Ebony_Calcinator
+name: Ebony Calcinator
+script: ''
+mesh: tr\m\tr_app_e_calcinator.nif
+icon: tr\m\tr_app_e_calcinator.dds
+data:
+  apparatus_type: Calcinator
+  quality: 1.75
+  weight: 12.0
+  value: 8000

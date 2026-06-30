@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Bre_SilverBowl_02
+name: Silver Bowl
+script: ''
+mesh: hr\m\hr_m_silv_bowl02.nif
+icon: hr\m\hr_m_silv_bowl02.dds
+data:
+  weight: 5.0
+  value: 25
+  flags: ''

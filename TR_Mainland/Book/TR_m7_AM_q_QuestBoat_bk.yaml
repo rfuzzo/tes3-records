@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_AM_q_QuestBoat_bk
+name: Trade Manifest
+script: ''
+mesh: pc\m\PC_bk_Book_29.nif
+icon: pc\m\pc_bk_book_29.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n[A list of all the goods currently being transported on the Thirrine Lily. Nothing seems amiss.]<BR>\r\n<BR>\r\n[The ship appears to have stopped in Hlan Oek before its arrival in Ald Marak. The cargo from Hlan Oek is stored on the lower deck.]<BR>"
+data:
+  weight: 2.0
+  value: 2
+  book_type: Book
+  skill: None
+  enchantment: 0

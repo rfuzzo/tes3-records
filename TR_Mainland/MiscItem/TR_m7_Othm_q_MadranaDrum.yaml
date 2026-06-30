@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m7_Othm_q_MadranaDrum
+name: Madrana's Drum
+script: TR_m7_Othm_q_MadranaDrum_scr
+mesh: m\Misc_de_drum_01.NIF
+icon: m\Tx_de_drum_01.tga
+data:
+  weight: 2.0
+  value: 1
+  flags: ''

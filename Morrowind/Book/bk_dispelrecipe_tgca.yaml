@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: bk_dispelrecipe_tgca
+name: Dispel Potion Formula
+script: ''
+mesh: m\Text_Scroll_01.NIF
+icon: m\Tx_scroll_open_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n1 unit pearl<BR>\r\n1 unit moon sugar<BR>\r\n<BR>\r\nCrush pearl to form a power.<BR>\r\nHeat moon sugar until it melts and begins turning brown.<BR>\r\nAdd pearl dust and remove from heat.<BR>\r\nCool with water and add to an alembic.<BR>\r\nBoil the mixture and collect the vapor.<BR>\r\n"
+data:
+  weight: 0.2
+  value: 100
+  book_type: Scroll
+  skill: None
+  enchantment: 0

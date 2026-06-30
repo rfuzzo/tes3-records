@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Echo_37
+name: GOBLIN ATTACKS CONTINUE
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_text_note_nar_news.nif
+icon: tr\m\tr_text_note_nar_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\tr_echo_512_256.dds\" WIDTH=\"348\" HEIGHT=\"168\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nGOBLIN ATTACKS CONTINUE<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nLocals report continued violence in the northern Shipal-Shin, as goblins descend the cliff sides in great numbers in near-nightly raids. Many are counted dead and even more wounded in the most recent assault, including several guardsmen and brave citizens in their daring defense against the cruel creatures. A tale all too familiar to our readers in these trying times.<BR><BR>\r\nAn irate & wounded guard captain explains, \"This isn't the first time we've dealt with this, but the number and fervor of their attacks has increased of late. They sneak close before jumping our night watchmen, and by the time we can respond in force, the goblins have already killed, stolen or burned their share before scattering and fading away into the night.\" Truly frightful for those involved, and greatly concerning to those who often travel the region.<BR><BR>\r\nIn addition, many honorable traders have had their caravans ambushed and harassed at the hands of goblin hordes -- the foul beasts daring even to desecrate St. Veloth's holy path with these heinous crimes. The Echo encourages the wise reader to refrain from nightly travel while the attacks continue -- a night's safe rest is greater insurance for one's goods than risking an earlier arrival under threat of death and loss.<BR><BR>\r\nIn search of reassurance, the Echo's reporters have reached out and received word from both the Imperial Legion & Fighters Guild that the issue is being looked into, and several independent contractors have taken part in the search alongside them. Let us honest-folk hope for a swift discovery and subsequent annihilation of the horrid hideouts of those responsible.<BR><BR>\r\n<DIV ALIGN=\"CENTER\">\r\nDRAVOS TURIL'S EXQUISITE GOODS<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nNext time you're in the Narsis Council Quarter on business, visit our store for the highest quality goods in all categories. Whether you're looking for a rare tome, fortifying alchemies, or enchanted ebony, we stock anything the discerning mer could require.<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

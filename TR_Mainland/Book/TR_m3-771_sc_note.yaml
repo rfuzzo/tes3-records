@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3-771_sc_note
+name: A creeped-out guard's note
+script: ''
+mesh: m\Text_Note_02.nif
+icon: m\Tx_note_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nWE HAVE A RAT PROBLEM <BR>\r\nThe basement is absolutely horrid. The provisions are gone and 'em bloody rodents run everywhere. I'm not going down there until the Ratcatchers've dealt with it. <br>Don't care what the Cap'n says. Don't care about his precious import wine. Demote me or whatever, I'm not going down there.\r\n<BR>"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

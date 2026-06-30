@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_q_TheRiftBkFloat5
+name: Waterlogged Tome
+script: ''
+mesh: m\Text_Octavo_07.NIF
+icon: m\Tx_book_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[The knowledge contained within this ruined book is lost forever.]<BR>\r\n<BR>"
+data:
+  weight: 2.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 20

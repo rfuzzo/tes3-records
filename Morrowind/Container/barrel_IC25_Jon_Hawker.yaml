@@ -1,0 +1,23 @@
+type: Container
+flags: ''
+id: barrel_IC25_Jon_Hawker
+name: Barrel
+script: ''
+mesh: o\Contain_barrel_01.NIF
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - cruel shardblade
+- - 1
+  - expensive_shirt_01
+- - 1
+  - expensive_shoes_01
+- - 1
+  - expensive_pants_01
+- - 2
+  - sc_divineintervention
+- - 9
+  - l_n_smuggled_goods
+- - 1
+  - l_b_Bandit_goods

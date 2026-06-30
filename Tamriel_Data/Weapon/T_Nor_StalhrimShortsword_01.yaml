@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Nor_StalhrimShortsword_01
+name: Stalhrim Shortsword
+script: ''
+mesh: w\W_Ice_shortsword.NIF
+icon: w\Ice_shortsword.dds
+enchanting: ''
+data:
+  weight: 34.0
+  value: 35000
+  weapon_type: ShortBladeOneHand
+  health: 1000
+  speed: 2.5
+  reach: 1.2
+  enchantment: 20
+  chop_min: 3
+  chop_max: 36
+  slash_min: 3
+  slash_max: 36
+  thrust_min: 3
+  thrust_max: 34
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_i3-729_bk_surveyteam
+name: Survey Team Report
+script: ''
+mesh: m\Text_Scroll_02.NIF
+icon: m\Tx_scroll_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This scroll contains the surveyor's report on the lack of new adamantium deposits deeper in the caves. In the end, the mine is deemed economically unrewarding, and the surveyor's expert opinion is that it should be closed.]<BR>"
+data:
+  weight: 0.2
+  value: 20
+  book_type: Scroll
+  skill: None
+  enchantment: 0

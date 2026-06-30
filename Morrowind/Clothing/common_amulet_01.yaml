@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: common_amulet_01
+name: Common Amulet
+script: ''
+mesh: c\Amulet_Common_1.NIF
+icon: c\tx_amulet_com1.tga
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 2
+  enchantment: 10

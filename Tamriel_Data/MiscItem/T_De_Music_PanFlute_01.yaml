@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_Music_PanFlute_01
+name: Pan Flute
+script: ''
+mesh: tr\m\tr_misc_de_panflute_01.nif
+icon: tr\m\tr_misc_de_panflute_01.dds
+data:
+  weight: 0.5
+  value: 50
+  flags: ''

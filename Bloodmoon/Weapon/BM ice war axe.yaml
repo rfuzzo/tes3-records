@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: BM ice war axe
+name: Stalhrim War Axe
+script: ''
+mesh: w\W_Ice_waraxe.NIF
+icon: w\Ice_waraxe.dds
+enchanting: ''
+data:
+  weight: 35.0
+  value: 50000
+  weapon_type: AxeOneHand
+  health: 2000
+  speed: 1.25
+  reach: 1.0
+  enchantment: 250
+  chop_min: 1
+  chop_max: 40
+  slash_min: 1
+  slash_max: 30
+  thrust_min: 1
+  thrust_max: 5
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

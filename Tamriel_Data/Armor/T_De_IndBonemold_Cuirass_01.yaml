@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_De_IndBonemold_Cuirass_01
+name: Native Chuzei Bonemold Cuirass
+script: ''
+mesh: TR\a\TR_a_ind_cuir_gnd.NIF
+icon: TR\a\TR_a_ind_cuirass.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_A_DeIndBonemoldCuirass01_C
+  female_bodypart: T_A_DeIndBonemoldCuirass01_CF
+data:
+  armor_type: Cuirass
+  weight: 24.0
+  value: 375
+  health: 680
+  enchantment: 160
+  armor_rating: 17

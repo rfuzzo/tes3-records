@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngSpice_Saffron_01
+name: Saffron Powder
+script: ''
+mesh: pc\n\pc_ing_saffron.nif
+icon: pc\n\pc_ingred_saffron.dds
+data:
+  weight: 0.1
+  value: 40
+  effects:
+  - DrainAttribute
+  - NightEye
+  - FortifyAttribute
+  - RestoreAttribute
+  skills:
+  - Block
+  - None
+  - Block
+  - Block
+  attributes:
+  - Endurance
+  - None
+  - Personality
+  - Personality

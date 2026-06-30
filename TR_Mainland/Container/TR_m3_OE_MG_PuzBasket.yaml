@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m3_OE_MG_PuzBasket
+name: Basket
+script: TR_m3_OE_MG_PuzzleFloat5
+mesh: o\Contain_Com_Basket_01.NIF
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 5
+  - T_Mw_Random_CheapfoodDunmerM1/2

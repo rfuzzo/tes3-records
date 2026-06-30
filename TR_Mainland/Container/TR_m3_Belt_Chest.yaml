@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m3_Belt_Chest
+name: Old Chest
+script: ''
+mesh: tr\o\tr_furn_de_rm_chest.nif
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - TR_m3_belt_of_antipode

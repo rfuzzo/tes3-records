@@ -1,0 +1,23 @@
+type: Clothing
+flags: ''
+id: TR_m2_cloth_robe_sale_i323
+name: Robe of the Wizard's Hand
+script: ''
+mesh: TR\c\TR_c_extr_robe_01_GND.nif
+icon: TR\c\TR_extrav_pants_01.dds
+enchanting: TR_m2_en_Robe_Sale_i323
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_C_DeEtRobe01_C
+  female_bodypart: ''
+- biped_object_type: LeftAnkle
+  male_bodypart: ''
+  female_bodypart: ''
+- biped_object_type: RightAnkle
+  male_bodypart: ''
+  female_bodypart: ''
+data:
+  clothing_type: Robe
+  weight: 3.0
+  value: 275
+  enchantment: 200

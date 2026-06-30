@@ -1,0 +1,20 @@
+type: Clothing
+flags: ''
+id: TR_M4_i394_IronSoledShoes
+name: Iron Soled Shoes
+script: ''
+mesh: c\C_common_Wool01ShoeGND.NIF
+icon: c\Tx_Common_Wool01_Foot.dds
+enchanting: TR_M4_i394_IronSoledShoes_en
+biped_objects:
+- biped_object_type: LeftFoot
+  male_bodypart: C_common_Wool01_F
+  female_bodypart: ''
+- biped_object_type: RightFoot
+  male_bodypart: C_common_Wool01_F
+  female_bodypart: ''
+data:
+  clothing_type: Shoes
+  weight: 15.0
+  value: 250
+  enchantment: 10

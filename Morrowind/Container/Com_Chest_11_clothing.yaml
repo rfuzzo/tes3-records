@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: Com_Chest_11_clothing
+name: Large Chest
+script: ''
+mesh: o\contain_chest10.nif
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - common_belt_02
+- - 1
+  - common_shirt_02
+- - 1
+  - common_shoes_02
+- - 1
+  - common_pants_01
+- - 5
+  - random gold

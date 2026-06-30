@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: furn_banner_dagoth_01
+name: House Dagoth
+script: OutsideBanner
+mesh: f\Furn_banner_dagoth_01.NIF

@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: T_MwCom_FurnM_Dw3Empty
+name: Drawers
+script: ''
+mesh: tr\o\tr_furn_com_drawers_03.nif
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory: []

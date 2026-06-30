@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_Painting_UNI_Taming
+name: The Taming of Morrowind
+script: ''
+mesh: tr\m\TR_M_Painting_Taming.nif
+icon: tr\m\TR_M_Painting_Taming.dds
+data:
+  weight: 13.0
+  value: 1250
+  flags: ''

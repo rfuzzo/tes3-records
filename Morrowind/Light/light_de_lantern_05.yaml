@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: light_de_lantern_05
+name: Paper Lantern
+script: ''
+mesh: l\Light_De_Lantern_05.NIF
+icon: l\Light_De_Lantern_05.tga
+sound: ''
+data:
+  weight: 3.0
+  value: 10
+  time: 150
+  radius: 256
+  color:
+  - 245
+  - 140
+  - 40
+  - 0
+  flags: DYNAMIC | CAN_CARRY | FIRE

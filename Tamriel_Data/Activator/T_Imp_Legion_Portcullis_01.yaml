@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_Legion_Portcullis_01
+name: Border Gate
+script: ''
+mesh: TR\x\TR_ex_portcullis_01.nif

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m7_ArmigersFolly
+name: Armiger's Folly
+script: ''
+mesh: tr\w\tr_w_silver_longspear.nif
+icon: tr\w\tr_w_silver_longspear.dds
+enchanting: TR_m7_ArmigersFollyEn
+data:
+  weight: 14.0
+  value: 840
+  weapon_type: SpearTwoWide
+  health: 820
+  speed: 1.0
+  reach: 1.8
+  enchantment: 40
+  chop_min: 2
+  chop_max: 5
+  slash_min: 2
+  slash_max: 5
+  thrust_min: 5
+  thrust_max: 29
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE | SILVER

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_Dragynia_01
+name: Dragynia Blossom
+script: ''
+mesh: Sky\n\Sky_Ingred_Drag_01.nif
+icon: Sky\n\Tx_Ingred_Drag_01.dds
+data:
+  weight: 0.2
+  value: 2
+  effects:
+  - DrainAttribute
+  - FortifyAttribute
+  - ResistFire
+  - SpellAbsorption
+  skills:
+  - Block
+  - Block
+  - None
+  - None
+  attributes:
+  - Willpower
+  - Agility
+  - None
+  - None

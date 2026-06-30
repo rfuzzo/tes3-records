@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_i2-66_cont_indoril_d
+name: Culdem
+script: ''
+mesh: TR\o\TR_cont_Ind_02.nif
+encumbrance: 60.0
+container_flags: IS_BASE
+inventory:
+- - 5
+  - T_Mw_Random_DrinkDunmer

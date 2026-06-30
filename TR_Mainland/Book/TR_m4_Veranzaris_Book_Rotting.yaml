@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_Veranzaris_Book_Rotting
+name: Rotting Tome
+script: ''
+mesh: m\Text_Octavo_05.nif
+icon: m\Tx_book_04.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[The smell of this book is nauseous. Someone has poured something disgusting on it, almost every letter is blurry.]<BR>"
+data:
+  weight: 3.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 0

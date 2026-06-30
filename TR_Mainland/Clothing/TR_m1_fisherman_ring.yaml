@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m1_fisherman_ring
+name: Gavis Arantam's Ring
+script: TR_m1_q_Bah_FishermansRing
+mesh: c\C_Ring_common01.NIF
+icon: c\Tx_ring_common01.tga
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 12
+  enchantment: 10

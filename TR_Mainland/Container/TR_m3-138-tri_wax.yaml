@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m3-138-tri_wax
+name: Urn labeled "Dreugh Wax"
+script: ''
+mesh: o\Contain_urn_03.NIF
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - 5
+  - random_dreugh_wax

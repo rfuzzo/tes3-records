@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_i3-280_sc_WarningNote
+name: WARNING!
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nWARNING!!!<BR>\r\n<BR>\r\nDo NOT touch this diamond! I was in the middle of enchanting it when I accidentally dropped it, and it rolled over here. There's no telling what HORRIBLE creature would be summoned from the pits of Oblivion if someone moved it!\r\n<BR><BR>\r\nYou have been warned! Your death won't be on my conscience.\r\n<BR>\r\n--Maniel\r\n<br>\r\n \r\n "
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

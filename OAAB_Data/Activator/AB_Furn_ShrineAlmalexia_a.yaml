@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Furn_ShrineAlmalexia_a
+name: Shrine of Almalexia
+script: AB_ShrineAlma_s
+mesh: OAAB\u\shrine_almalexia_01.nif

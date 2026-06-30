@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_cot_i3-591-imp
+name: Old Cot
+script: Bed_Standard
+mesh: f\furn_cot00.nif

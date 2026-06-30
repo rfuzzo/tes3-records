@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m2_rockshrine_1ke
+name: The Blessed Stone
+script: shrineNerevar
+mesh: f\Terrain_rock_GL_08.nif

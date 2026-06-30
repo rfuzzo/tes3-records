@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_Kha_Int_ExSound
+name: Khalaan Ambient
+script: TR_m3_Kha_Int_ExSound_Sc
+mesh: EditorMarker.NIF

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_He_Painting_Miscurin
+name: Miscurin Mountains Landscape
+script: ''
+mesh: pc\m\PC_M_Painting_Miscurin.nif
+icon: pc\m\PC_M_Painting_Miscurin.dds
+data:
+  weight: 6.0
+  value: 1050
+  flags: ''

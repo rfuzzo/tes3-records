@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_sc_FW_scroll_02
+name: Pattern-Covered Scroll
+script: ''
+mesh: m\Text_Scroll_open_02.nif
+icon: m\Tx_scroll_open_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This parchment shows patterns and measurements of made-to-order clothes.]<BR>\r\n"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

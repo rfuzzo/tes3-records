@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m2_act_colapse_sounda_i324
+name: ''
+script: TR_m2_script_sound_i324
+mesh: EditorMarker.NIF

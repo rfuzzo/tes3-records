@@ -1,0 +1,23 @@
+type: Container
+flags: ''
+id: TR_i2-72_de_r_closet_02
+name: Closet
+script: ''
+mesh: o\Contain_De_Closet_01.NIF
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_De_Necrom_Boots_01
+- - 1
+  - T_De_Necrom_Cuirass_01
+- - 1
+  - T_De_Necrom_Greaves_01
+- - 1
+  - T_De_Necrom_Helm_01
+- - 1
+  - T_De_Necrom_PauldronL_01
+- - 1
+  - T_De_Necrom_PauldronR_01
+- - 1
+  - T_De_Necrom_Shield_01

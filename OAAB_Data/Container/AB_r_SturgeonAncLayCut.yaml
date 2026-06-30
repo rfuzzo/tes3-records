@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: AB_r_SturgeonAncLayCut
+name: Ancient Sturgeon
+script: ''
+mesh: OAAB\o\sturgeonAncLayCut.nif
+encumbrance: 0.0
+container_flags: ORGANIC | IS_BASE
+inventory:
+- - 5
+  - AB_lvl_IngCreaSturgeon

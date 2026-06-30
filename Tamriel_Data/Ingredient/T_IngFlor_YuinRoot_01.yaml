@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_YuinRoot_01
+name: Yuin Root
+script: ''
+mesh: hr\n\hr_n_yuinroot.nif
+icon: hr\n\hr_n_yuinroot.dds
+data:
+  weight: 0.2
+  value: 2
+  effects:
+  - WeaknessToMagicka
+  - FortifyFatigue
+  - CureCommonDisease
+  - Burden
+  skills:
+  - Block
+  - Block
+  - Block
+  - None
+  attributes:
+  - Agility
+  - Luck
+  - Strength
+  - None

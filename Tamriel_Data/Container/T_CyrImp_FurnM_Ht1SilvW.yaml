@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_CyrImp_FurnM_Ht1SilvW
+name: Hutch
+script: ''
+mesh: o\Contain_Com_Hutch_01.NIF
+encumbrance: 75.0
+container_flags: IS_BASE
+inventory:
+- - 6
+  - T_Cyr_Random_Silverware

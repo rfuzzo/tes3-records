@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Com_Ep_Ring_FallingSecondBarr
+name: Falling Second Barrier Ring
+script: ''
+mesh: c\c_ring_expensive_2.NIF
+icon: c\tx_ring_expensive02.dds
+enchanting: T_Use_FallingSecondBarrier
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 100
+  enchantment: 600

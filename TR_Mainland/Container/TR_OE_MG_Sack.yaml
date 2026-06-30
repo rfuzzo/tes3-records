@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: TR_OE_MG_Sack
+name: Cloth Sack
+script: ''
+mesh: o\Contain_Com_Sack_02.NIF
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 5
+  - Gold_001
+- - 1
+  - random_common_de_mclothes_01
+- - 4
+  - random_de_pants
+- - 1
+  - random_de_pos_01
+- - 2
+  - random_de_shoes_common

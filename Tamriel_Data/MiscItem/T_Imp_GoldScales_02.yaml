@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_GoldScales_02
+name: Gold Scales
+script: ''
+mesh: tr\m\tr_misc_com_scales_06.nif
+icon: tr\m\tr_misc_com_scales_06.dds
+data:
+  weight: 15.0
+  value: 280
+  flags: ''

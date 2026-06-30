@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: T_MwDe_FurnM_Ch1CltEp
+name: Chest
+script: ''
+mesh: tr\o\tr_furn_de_rm_chest.nif
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Com_Ep_GloveL_01
+- - 1
+  - T_Com_Ep_GloveR_01
+- - 1
+  - T_Com_Ep_Robe_01
+- - 1
+  - expensive_belt_02
+- - 1
+  - expensive_shirt_01

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_EggOrnada_01
+name: Ornada Egg
+script: ''
+mesh: TR\n\TR_Ing_Ornada_Egg.nif
+icon: TR\n\TR_Ing_Ornada_Egg.dds
+data:
+  weight: 0.25
+  value: 5
+  effects:
+  - RestoreFatigue
+  - Poison
+  - CurePoison
+  - DamageAttribute
+  skills:
+  - None
+  - None
+  - None
+  - Block
+  attributes:
+  - None
+  - None
+  - None
+  - Endurance

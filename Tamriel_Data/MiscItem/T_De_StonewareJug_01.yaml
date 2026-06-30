@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_StonewareJug_01
+name: Stoneware Jug
+script: ''
+mesh: TR\m\tr_misc_stn_jug.nif
+icon: TR\m\tr_misc_stn_jug_01.dds
+data:
+  weight: 2.0
+  value: 5
+  flags: ''

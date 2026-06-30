@@ -1,0 +1,31 @@
+type: Container
+flags: ''
+id: TR_m2_cont_c_chest_i323
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - bonemold_armun-an_cuirass
+- - 1
+  - bonemold_armun-an_pauldron_l
+- - 1
+  - bonemold_armun-an_pauldron_r
+- - 1
+  - bonemold_boots
+- - 1
+  - bonemold_bracer_left
+- - 1
+  - bonemold_bracer_right
+- - 1
+  - bonemold_greaves
+- - 1
+  - bonemold_tshield_telvanniguard
+- - 1
+  - cephalopod_helm
+- - 1
+  - sc_hellfire
+- - 2
+  - sc_sixthbarrier

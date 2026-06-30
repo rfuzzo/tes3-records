@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m4_Andoth_AndasVaultGate04
+name: Heavy Iron Gate
+script: ''
+mesh: TR\x\TR_ex_portcullis_01.nif

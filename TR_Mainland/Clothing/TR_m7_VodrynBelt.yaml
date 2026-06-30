@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m7_VodrynBelt
+name: Belt of Antitoxin
+script: ''
+mesh: c\C_belt_Extravagant_2.NIF
+icon: c\tx_belt_extravagant02.tga
+enchanting: TR_m7_VodrynBelt_en
+biped_objects: []
+data:
+  clothing_type: Belt
+  weight: 1.0
+  value: 5800
+  enchantment: 200

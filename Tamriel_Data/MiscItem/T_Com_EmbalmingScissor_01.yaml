@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_EmbalmingScissor_01
+name: Embalming Scissors
+script: ''
+mesh: sky\m\sky_misc_embalmsc.nif
+icon: sky\m\tx_misc_embalmsc.dds
+data:
+  weight: 1.0
+  value: 1
+  flags: ''

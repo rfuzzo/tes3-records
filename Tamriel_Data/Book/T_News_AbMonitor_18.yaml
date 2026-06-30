@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_AbMonitor_18
+name: MASQUED CAPTAIN APPREHENDED
+script: T_ScNews_Bellman_Paper
+mesh: pc\m\pc_text_note_anv_news.nif
+icon: pc\m\pc_text_note_anv_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"PC\\pc_abmonitor.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nMASQUED CAPTAIN APPREHENDED<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nThe Monitor has confirmed reports from Goldstone that the infamous Masqued Captain has been apprehended by the Kingdom of Anvil. The anonymous outlaw, who has overseen a campaign of piracy and terror in the Abecean for six years, is now imprisoned and awaiting trial in the dungeons beneath Goldstone, according to Lantin Chaskav, captain of the Anvil guard corps. While a trial date has not yet been set, sources in the castle confirmed that delivering the Emperor's justice to the West's most notorious pirate is the Queen's highest priority.<BR><BR>\r\nIt remains unclear how the Masqued Captain was captured, and whether or not his identity has yet been revealed. Chaskav did confirm that the 10,000 septim bounty placed on the Masqued Captain was indeed paid out, though he refused to identify the bounty hunter \"for their own protection\".<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

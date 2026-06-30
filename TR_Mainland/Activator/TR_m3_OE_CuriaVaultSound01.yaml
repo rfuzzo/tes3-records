@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m3_OE_CuriaVaultSound01
+name: Sound
+script: ''
+mesh: EditorMarker.NIF

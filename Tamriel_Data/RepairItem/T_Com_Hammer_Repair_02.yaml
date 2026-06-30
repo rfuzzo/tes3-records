@@ -1,0 +1,12 @@
+type: RepairItem
+flags: ''
+id: T_Com_Hammer_Repair_02
+name: Ball-peen Repair Hammer
+script: ''
+mesh: tr\m\tr_misc_hammer_bp_01.nif
+icon: TR\m\tr_misc_hammer_bp_01.dds
+data:
+  weight: 3.0
+  value: 8
+  uses: 22
+  quality: 0.75

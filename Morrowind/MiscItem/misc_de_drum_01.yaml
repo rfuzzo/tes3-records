@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: misc_de_drum_01
+name: Drum
+script: ''
+mesh: m\Misc_de_drum_01.NIF
+icon: m\Tx_de_drum_01.tga
+data:
+  weight: 2.0
+  value: 1
+  flags: ''

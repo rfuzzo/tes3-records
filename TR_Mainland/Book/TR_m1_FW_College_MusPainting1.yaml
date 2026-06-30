@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_FW_College_MusPainting1
+name: The Shoals of Septimia
+script: ''
+mesh: m\text_parchment_01.nif
+icon: m\tx_parchment_01.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe Shoals of Septimia<BR> <BR>\r\n<DIV ALIGN=\"LEFT\">\r\n'The Shoals of Septimia' was painted in 311 by the late Ato artist Claudia Verneti. Like many ships of the invasion force, the Imperial warship TEM Vasi Hadrach ran aground in 289 on the jagged rocks that form the treacherous straits off Septimia. Fifty-one ships of the Far East Fleet were lost during the three years of the Akaviri invasion. Of these, sixteen were destroyed in the dangerous waters immediately off the landing site at Septimia.<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

@@ -1,0 +1,31 @@
+type: Armor
+flags: ''
+id: T_Dae_Alternate_Greaves_01
+name: Daedric Greaves
+script: ''
+mesh: PC\a\pc_a_dae_grvs_gnd.nif
+icon: pc\a\pc_a_daedric_greaves.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Groin
+  male_bodypart: T_A_DaeAltGreaves_G
+  female_bodypart: ''
+- biped_object_type: LeftUpperLeg
+  male_bodypart: T_A_DaeAltGreaves_Ul
+  female_bodypart: ''
+- biped_object_type: RightUpperLeg
+  male_bodypart: T_A_DaeAltGreaves_Ul
+  female_bodypart: ''
+- biped_object_type: LeftKnee
+  male_bodypart: T_A_DaeAltGreaves_K
+  female_bodypart: ''
+- biped_object_type: RightKnee
+  male_bodypart: T_A_DaeAltGreaves_K
+  female_bodypart: ''
+data:
+  armor_type: Greaves
+  weight: 54.0
+  value: 44000
+  health: 800
+  enchantment: 75
+  armor_rating: 80

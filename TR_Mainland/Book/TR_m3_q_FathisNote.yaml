@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_q_FathisNote
+name: Scribbled Old Note
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>\r\nMy name is Nelyn Fathis. Ilmeni the witch stole my voice. She is in the village of Sailen. Bring it back to me, and then we can talk.<br>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

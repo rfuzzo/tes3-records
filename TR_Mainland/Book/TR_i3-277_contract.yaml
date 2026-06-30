@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_i3-277_contract
+name: Blank Loan Contract
+script: ''
+mesh: m\Text_Scroll_01.NIF
+icon: m\Tx_scroll_open_01.tga
+enchanting: ''
+text: <DIV ALIGN="LEFT"><FONT COLOR="000000" SIZE="3" FACE="Magic Cards"><BR>[This appears to be a contract for a financial loan, with the names and amounts left blank to be filled in later. The language is very extravagant, to such an extent that you find it difficult to understand exactly what the contract says concerning rising interest rates.]<BR>
+data:
+  weight: 0.2
+  value: 25
+  book_type: Scroll
+  skill: None
+  enchantment: 0

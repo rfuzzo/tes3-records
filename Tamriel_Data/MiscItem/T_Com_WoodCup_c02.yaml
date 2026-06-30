@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_WoodCup_c02
+name: Cup
+script: ''
+mesh: tr\m\tr_misc_wood_cup_c02.nif
+icon: TR\m\tr_misc_wood_cup_c02.dds
+data:
+  weight: 1.0
+  value: 1
+  flags: ''

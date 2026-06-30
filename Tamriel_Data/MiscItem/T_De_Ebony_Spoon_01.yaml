@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_Ebony_Spoon_01
+name: Ebony Spoon
+script: ''
+mesh: tr\m\tr_misc_ebony_spoon.nif
+icon: tr\m\tr_misc_ebony_spoon.dds
+data:
+  weight: 1.5
+  value: 75
+  flags: ''

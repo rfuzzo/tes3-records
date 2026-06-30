@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_Painting_UNI_Dahuul
+name: Saint Dahuul
+script: ''
+mesh: pc\m\PC_M_Painting_Dahuul.nif
+icon: pc\m\PC_M_Painting_Dahuul.dds
+data:
+  weight: 9.0
+  value: 1250
+  flags: ''

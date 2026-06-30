@@ -1,0 +1,27 @@
+type: Container
+flags: ''
+id: TR_m4_RR_LlenduTombChes
+name: Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 400.0
+container_flags: IS_BASE
+inventory:
+- - 1250
+  - Gold_001
+- - 3
+  - T_Com_MetalPieceGold_03
+- - 1
+  - T_Imp_GoldPitcher_01
+- - 1
+  - T_Imp_HandMirror_01
+- - 1
+  - T_Imp_SilverScales_01
+- - 6
+  - T_Imp_SilverWareCup_02
+- - 1
+  - T_IngMine_Sapphire_01
+- - 3
+  - ingred_diamond_01
+- - 4
+  - ingred_ruby_01

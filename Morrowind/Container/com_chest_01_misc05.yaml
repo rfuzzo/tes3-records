@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: com_chest_01_misc05
+name: Chest
+script: ''
+mesh: o\Contain_Com_Chest_01.NIF
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - random_common_de_mclothes_01
+- - 1
+  - random_de_pos_01
+- - 1
+  - random_de_cheapfood_01_nc
+- - 5
+  - Gold_001

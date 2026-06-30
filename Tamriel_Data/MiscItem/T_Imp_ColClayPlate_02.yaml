@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_ColClayPlate_02
+name: Plate
+script: ''
+mesh: pc\m\PC_Col_clay_plate02.nif
+icon: pc\m\pc_misc_col_clay_pl2.dds
+data:
+  weight: 1.5
+  value: 3
+  flags: ''

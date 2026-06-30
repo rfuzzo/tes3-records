@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: bk_joldanote
+name: A hastily scrawled note
+script: ''
+mesh: m\Text_Note_02.nif
+icon: m\Tx_note_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe blight cure is all mine! They won't get their hands on any of it. When they are gone, I shall reign in the tower!<BR>\r\n"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

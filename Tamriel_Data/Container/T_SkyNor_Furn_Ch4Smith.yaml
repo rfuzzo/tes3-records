@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: T_SkyNor_Furn_Ch4Smith
+name: Chest
+script: ''
+mesh: sky\o\sky_cont_chest_08_01.nif
+encumbrance: 250.0
+container_flags: IS_BASE
+inventory:
+- - 4
+  - l_n_repair item
+- - 1
+  - repair_journeyman_01
+- - 4
+  - repair_prongs

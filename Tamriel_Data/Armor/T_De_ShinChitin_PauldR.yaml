@@ -1,0 +1,22 @@
+type: Armor
+flags: ''
+id: T_De_ShinChitin_PauldR
+name: Shinathi Chitin Right Pauldron
+script: ''
+mesh: tr\a\tr_a_chitshin_pld_gnd.nif
+icon: tr\a\tr_a_chitshin_pauldron.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: RightUpperArm
+  male_bodypart: T_A_DeShinChitPauldron01_UA
+  female_bodypart: ''
+- biped_object_type: RightPauldron
+  male_bodypart: T_A_DeShinChitPauldron01_CL
+  female_bodypart: ''
+data:
+  armor_type: RightPauldron
+  weight: 2.5
+  value: 20
+  health: 120
+  enchantment: 12
+  armor_rating: 12

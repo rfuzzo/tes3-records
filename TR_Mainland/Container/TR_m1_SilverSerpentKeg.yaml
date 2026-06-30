@@ -1,0 +1,79 @@
+type: Container
+flags: ''
+id: TR_m1_SilverSerpentKeg
+name: Keg
+script: TR_m1_No_Activation
+mesh: f\Furn_com_kegstand.nif
+encumbrance: 0.0
+container_flags: IS_BASE
+inventory:
+- - 3
+  - Ingred_sweetpulp_01
+- - -4
+  - Potion_Cyro_Whiskey_01
+- - -10
+  - Potion_Local_Brew_01
+- - -2
+  - T_Imp_Drink_WineFreeEstat_01
+- - -2
+  - T_Imp_Drink_WinePlalloVin_01
+- - -3
+  - T_Imp_Drink_WineSurilieBr_01
+- - 1
+  - T_Imp_Drink_WineTamikaClr_01
+- - 1
+  - T_Imp_Drink_WineTwinMoon_01
+- - -6
+  - T_Imp_Drink_WineWolfsbl_01
+- - -6
+  - T_IngFood_EggMolecrab_01
+- - -7
+  - T_IngFood_FishSlaughterDried_01
+- - -7
+  - T_IngFood_FishSlaughterDried_02
+- - 1
+  - T_IngFood_MeatAlit_01
+- - 1
+  - T_IngFood_MeatBoar_02
+- - -8
+  - T_IngFood_MeatCliffracer_01
+- - -3
+  - T_IngFood_MeatGuar_01
+- - 2
+  - T_IngFood_MeatKagouti_01
+- - -4
+  - T_IngFood_MeatKwama_01
+- - 1
+  - T_IngFood_MeatMutton_01
+- - -5
+  - T_IngFood_Sweetroll_01
+- - -6
+  - food_kwama_egg_01
+- - -6
+  - food_kwama_egg_02
+- - -4
+  - ingred_bread_01
+- - -20
+  - ingred_comberry_01
+- - -6
+  - ingred_crab_meat_01
+- - 2
+  - ingred_holly_01
+- - -3
+  - ingred_hound_meat_01
+- - -3
+  - ingred_rat_meat_01
+- - 1
+  - p_vintagecomberrybrandy1
+- - -2
+  - potion_comberry_brandy_01
+- - -5
+  - potion_comberry_wine_01
+- - 1
+  - potion_cyro_brandy_01
+- - -3
+  - potion_local_liquor_01
+- - -1
+  - potion_nord_mead
+- - 30
+  - random_drinks_nord

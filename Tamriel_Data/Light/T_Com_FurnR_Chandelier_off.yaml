@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_Com_FurnR_Chandelier_off
+name: ''
+script: ''
+mesh: pc\l\PC_Com_Chandelier_01f.nif
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 16
+  color:
+  - 0
+  - 0
+  - 0
+  - 0
+  flags: ''

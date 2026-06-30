@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_Set_Shrine_SaintArt_04
+name: Shrine of St. Yndarrae
+script: T_ScObj_ShrineSaintArtPC
+mesh: pc\x\pc_ex_wshrn_01.nif

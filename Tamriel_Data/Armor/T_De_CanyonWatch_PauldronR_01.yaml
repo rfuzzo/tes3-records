@@ -1,0 +1,22 @@
+type: Armor
+flags: ''
+id: T_De_CanyonWatch_PauldronR_01
+name: Shipal-Arai Bonemold R Pauldron
+script: ''
+mesh: tr\a\tr_a_cynwtch_pld_gnd.nif
+icon: tr\a\tr_a_canyonwatch_pld.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: RightPauldron
+  male_bodypart: T_A_DeCanyonWatchPauldron01_Cl
+  female_bodypart: ''
+- biped_object_type: RightUpperArm
+  male_bodypart: T_A_DeCanyonWatchPauldron01_UA
+  female_bodypart: ''
+data:
+  armor_type: RightPauldron
+  weight: 7.0
+  value: 120
+  health: 140
+  enchantment: 16
+  armor_rating: 15

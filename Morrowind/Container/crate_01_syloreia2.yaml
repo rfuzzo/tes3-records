@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: crate_01_syloreia2
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - expensive_robe_02
+- - 1
+  - common_shirt_02
+- - 1
+  - common_pants_02
+- - 1
+  - light_com_candle_01_off
+- - 1
+  - light_com_candle_05_off

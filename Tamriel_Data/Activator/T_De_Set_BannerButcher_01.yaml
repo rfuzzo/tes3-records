@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_De_Set_BannerButcher_01
+name: Butcher's Shop
+script: OutsideBanner
+mesh: tr\f\tr_act_banner_butch_01.nif

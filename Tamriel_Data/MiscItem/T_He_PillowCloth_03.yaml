@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_He_PillowCloth_03
+name: Cloth Pillow
+script: ''
+mesh: sum\m\sum_misc_pillow_03.nif
+icon: sum\m\sum_misc_pillow_03.dds
+data:
+  weight: 1.0
+  value: 2
+  flags: ''

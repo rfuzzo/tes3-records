@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_Ebony_Cup_01
+name: Ebony Cup
+script: ''
+mesh: tr\m\tr_misc_ebony_cup.nif
+icon: tr\m\tr_misc_ebony_cup.dds
+data:
+  weight: 6.5
+  value: 450
+  flags: ''

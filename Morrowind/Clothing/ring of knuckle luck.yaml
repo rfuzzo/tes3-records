@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: ring of knuckle luck
+name: Ring of Knuckle Luck
+script: ''
+mesh: c\C_Ring_expensive_3.NIF
+icon: c\tx_ring_expensive03.tga
+enchanting: knuckle luck_en
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 69
+  enchantment: 150

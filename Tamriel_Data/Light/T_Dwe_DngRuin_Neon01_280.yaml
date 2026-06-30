@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_Dwe_DngRuin_Neon01_280
+name: ''
+script: ''
+mesh: tr\l\tr_l_dwrv_neon10.nif
+icon: ''
+sound: Power light 50
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 280
+  color:
+  - 238
+  - 187
+  - 81
+  - 0
+  flags: DYNAMIC | PULSE_SLOW

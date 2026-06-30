@@ -1,0 +1,25 @@
+type: Armor
+flags: ''
+id: T_Dae_Gold_PauldronL_01
+name: Golden Saint Left Pauldron
+script: ''
+mesh: tr\a\tr_a_dae_gold_pld_GND.nif
+icon: tr\a\tr_a_dae_gold_paulds.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: LeftPauldron
+  male_bodypart: T_A_DaeGoldPauld01_Cl
+  female_bodypart: ''
+- biped_object_type: LeftForearm
+  male_bodypart: T_A_DaeGoldPauld01_FA
+  female_bodypart: T_A_DaeGoldPauld01_FAF
+- biped_object_type: LeftUpperArm
+  male_bodypart: T_A_DaeGoldPauld01_UA
+  female_bodypart: T_A_DaeGoldPauld01_UAF
+data:
+  armor_type: LeftPauldron
+  weight: 7.0
+  value: 14000
+  health: 660
+  enchantment: 55
+  armor_rating: 75

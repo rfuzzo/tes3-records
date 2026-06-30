@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: AB_IngCrea_DaeTeeth_01
+name: Daedroth Teeth
+script: ''
+mesh: OAAB\n\rem_daed_teeth.nif
+icon: OAAB\n\n_daed_teeth.dds
+data:
+  weight: 0.5
+  value: 30
+  effects:
+  - DamageAttribute
+  - FortifyAttackBonus
+  - Poison
+  - RestoreAttribute
+  skills:
+  - Block
+  - None
+  - None
+  - Block
+  attributes:
+  - Agility
+  - None
+  - None
+  - Strength

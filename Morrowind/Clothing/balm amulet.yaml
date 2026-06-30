@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: balm amulet
+name: Balm Amulet
+script: ''
+mesh: c\Amulet_Common_4.NIF
+icon: c\tx_amulet_com4.tga
+enchanting: balyna's soothing balm_en
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 8
+  enchantment: 10

@@ -1,0 +1,12 @@
+type: Probe
+flags: ''
+id: probe_apprentice_01
+name: Apprentice's Probe
+script: ''
+mesh: m\Probe_Apprentice_01.NIF
+icon: m\Tx_probe_A_01.tga
+data:
+  weight: 1.0
+  value: 10
+  quality: 0.5
+  uses: 25

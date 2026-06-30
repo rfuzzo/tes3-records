@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: light_com_redware_lamp
+name: Redware Lamp
+script: ''
+mesh: l\Light_Redware_Lamp.NIF
+icon: l\Light_Redware_Lamp.tga
+sound: ''
+data:
+  weight: 3.0
+  value: 12
+  time: 120
+  radius: 128
+  color:
+  - 245
+  - 140
+  - 40
+  - 0
+  flags: CAN_CARRY | FIRE | FLICKER_SLOW

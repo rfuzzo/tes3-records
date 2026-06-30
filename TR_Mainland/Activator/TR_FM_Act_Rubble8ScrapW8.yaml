@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_FM_Act_Rubble8ScrapW8
+name: ''
+script: TR_FM_Stage8Rubble_sc
+mesh: sky\x\sky_ex_rn_h_scw_08.nif

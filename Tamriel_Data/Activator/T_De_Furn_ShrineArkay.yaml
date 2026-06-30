@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_De_Furn_ShrineArkay
+name: Shrine of Arkay
+script: T_ScObj_ShrineHlaaluArkay
+mesh: tr\f\tr_furn_de_altar_ark.nif

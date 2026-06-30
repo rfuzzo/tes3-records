@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_OE_FG_bk_ConJou3
+name: Torn Journal Page
+script: TR_m3_OE_FG_q_ConstJo3Scr
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "[This note is written in dried blood]<br>\r\n<br>\r\nbetrayed by L<br>\r\n<br>\r\nbut I got L\r\n<br>\r\n"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 10

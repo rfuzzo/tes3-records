@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_SumHe_FurnP_Cl1Empty
+name: Closet
+script: ''
+mesh: sum\o\sum_furn_p_closet_01.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Glb_Empty

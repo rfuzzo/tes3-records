@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_SetMw_BannerTownFireW_01
+name: ''
+script: OutsideBanner
+mesh: TR\f\TR_furn_imp_flag_FW_01.nif

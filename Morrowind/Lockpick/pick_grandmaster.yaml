@@ -1,0 +1,12 @@
+type: Lockpick
+flags: ''
+id: pick_grandmaster
+name: Grandmaster's Pick
+script: ''
+mesh: m\Pick_Grandmaster_01.nif
+icon: m\Tx_pick_G_01.tga
+data:
+  weight: 0.25
+  value: 200
+  quality: 1.4
+  uses: 25

@@ -1,0 +1,17 @@
+type: Clothing
+flags: ''
+id: black_blindfold_glove
+name: Elvul's Black Blindfold
+script: ''
+mesh: c\c_glove_extravagant1_GND.NIF
+icon: c\tx_glove_extravagant_1.tga
+enchanting: black blindfold_en
+biped_objects:
+- biped_object_type: LeftHand
+  male_bodypart: c_glove_extravagant1
+  female_bodypart: ''
+data:
+  clothing_type: LeftGlove
+  weight: 1.0
+  value: 1690
+  enchantment: 50

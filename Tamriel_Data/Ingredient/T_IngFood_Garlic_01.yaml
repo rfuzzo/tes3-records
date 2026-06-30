@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_Garlic_01
+name: Garlic
+script: ''
+mesh: Sky\n\Sky_Ingred_Garlic_01.nif
+icon: Sky\n\Tx_Ingred_Garlic_01.dds
+data:
+  weight: 0.2
+  value: 3
+  effects:
+  - RestoreFatigue
+  - ResistCommonDisease
+  - DrainAttribute
+  - RestoreHealth
+  skills:
+  - None
+  - None
+  - Block
+  - None
+  attributes:
+  - None
+  - None
+  - Personality
+  - None

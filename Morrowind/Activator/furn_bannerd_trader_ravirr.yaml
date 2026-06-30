@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: furn_bannerd_trader_ravirr
+name: 'Ra''Virr: Trader'
+script: OutsideBanner
+mesh: f\Furn_bannerD_goods_01.nif

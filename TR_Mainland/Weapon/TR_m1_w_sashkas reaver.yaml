@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m1_w_sashkas reaver
+name: Sashka's Reaver
+script: ''
+mesh: w\W_dagger_chitin.nif
+icon: w\Tx_chitin_dagger.tga
+enchanting: TR_m1_sashkas reaver_en
+data:
+  weight: 1.5
+  value: 6
+  weapon_type: ShortBladeOneHand
+  health: 380
+  speed: 2.0
+  reach: 1.0
+  enchantment: 80
+  chop_min: 5
+  chop_max: 5
+  slash_min: 5
+  slash_max: 5
+  thrust_min: 6
+  thrust_max: 7
+  flags: ''

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m7_JNS_UddanuDaeCrossbow
+name: Daedric Crossbow
+script: TR_m7_JNS_UddanuDaeCrossbowSc
+mesh: tr\w\tr_w_daedra_crossbow.nif
+icon: tr\w\tr_w_daedra_crossbow.dds
+enchanting: ''
+data:
+  weight: 30.0
+  value: 60000
+  weapon_type: MarksmanCrossbow
+  health: 1560
+  speed: 1.0
+  reach: 1.0
+  enchantment: 90
+  chop_min: 45
+  chop_max: 45
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

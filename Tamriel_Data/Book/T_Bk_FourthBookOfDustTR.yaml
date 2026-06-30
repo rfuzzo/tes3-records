@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_FourthBookOfDustTR
+name: Fourth Book of Dust
+script: ''
+mesh: m\Text_Octavo_07.nif
+icon: m\Tx_book_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nTHE FOURTH BOOK OF DUST<BR>\r\n<BR>\r\nFor there is the plenum of the heavens and the plenum of the houses.<BR>\r\nThere is the plenum of Oblivion and the plenum of men and mer.<BR>\r\n<BR>\r\n"
+data:
+  weight: 3.0
+  value: 40
+  book_type: Book
+  skill: None
+  enchantment: 0

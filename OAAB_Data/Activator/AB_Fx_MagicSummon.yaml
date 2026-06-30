@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Fx_MagicSummon
+name: ''
+script: AB_MagicFxCast1point5second_s
+mesh: oaab\e\magic_summon.nif

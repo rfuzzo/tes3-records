@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m3-641_basket_01_com
+name: Basket
+script: ''
+mesh: o\Contain_Com_Basket_01.NIF
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 7
+  - ingred_comberry_01

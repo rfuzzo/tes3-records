@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: TR_m1_FW_pickprobe
+name: Chest
+script: ''
+mesh: o\Contain_Com_Chest_01.NIF
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - 7
+  - pick_apprentice_01
+- - 4
+  - pick_journeyman_01
+- - 1
+  - pick_master
+- - 5
+  - probe_apprentice_01
+- - 3
+  - probe_journeyman_01

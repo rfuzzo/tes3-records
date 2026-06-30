@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: T_Yne_FurnM_Closet_01
+name: Closet
+script: ''
+mesh: pi\o\yn_contm_closet_01.nif
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory: []

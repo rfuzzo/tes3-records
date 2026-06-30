@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Bre_RedGlassFork_01
+name: Gilded Red Glass Fork
+script: ''
+mesh: hr\m\m_red_glass_frk.nif
+icon: hr\m\m_red_glass_frk.dds
+data:
+  weight: 1.0
+  value: 50
+  flags: ''

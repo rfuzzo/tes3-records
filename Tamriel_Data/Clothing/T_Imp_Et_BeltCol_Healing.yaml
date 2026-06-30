@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Imp_Et_BeltCol_Healing
+name: Belt of Healing
+script: ''
+mesh: pc\c\PC_Col_U_Belt_01.nif
+icon: pc\c\PC_Col_U_Belt_01I.dds
+enchanting: balyna's soothing balm_en
+biped_objects: []
+data:
+  clothing_type: Belt
+  weight: 1.0
+  value: 70
+  enchantment: 200

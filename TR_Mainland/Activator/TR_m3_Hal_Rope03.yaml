@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_Hal_Rope03
+name: ''
+script: TR_m3_Hal_Enable_sc
+mesh: f\furn_de_rope_03.nif

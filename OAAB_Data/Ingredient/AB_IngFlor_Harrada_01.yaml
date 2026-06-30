@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: AB_IngFlor_Harrada_01
+name: Harrada
+script: ''
+mesh: OAAB\n\n_harrada_01.nif
+icon: OAAB\n\n_harrada_01.dds
+data:
+  weight: 0.2
+  value: 15
+  effects:
+  - DamageHealth
+  - DamageMagicka
+  - Silence
+  - Paralyze
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

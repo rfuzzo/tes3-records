@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_TawnyFunnelCap_01
+name: Tawny Funnel Cap
+script: ''
+mesh: Sky\n\sky_ingred_tawnfcap.nif
+icon: sky\n\tx_ingred_tawnyfc.dds
+data:
+  weight: 0.2
+  value: 1
+  effects:
+  - RestoreAttribute
+  - DrainAttribute
+  - WeaknessToFire
+  - RestoreAttribute
+  skills:
+  - Block
+  - Block
+  - None
+  - Block
+  attributes:
+  - Intelligence
+  - Endurance
+  - None
+  - Luck

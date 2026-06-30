@@ -1,0 +1,51 @@
+type: Container
+flags: ''
+id: test_crate_all_cloth_bm
+name: Chest of Bloodmoon Clothes
+script: ''
+mesh: o\Contain_chest_large_01.NIF
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - BM_Nordic01_gloveL
+- - 1
+  - BM_Nordic02_gloveL
+- - 1
+  - BM_Wool01_gloveL
+- - 1
+  - BM_Wool02_gloveL
+- - 1
+  - BM_Nordic01_gloveR
+- - 1
+  - BM_Nordic02_gloveR
+- - 1
+  - BM_Wool01_gloveR
+- - 1
+  - BM_Wool02_gloveR
+- - 1
+  - BM_Nordic01_Robe
+- - 1
+  - BM_Nordic01_shirt
+- - 1
+  - BM_Nordic02_shirt
+- - 1
+  - BM_Wool01_shirt
+- - 1
+  - BM_Wool02_shirt
+- - 1
+  - BM_Nordic01_shoes
+- - 1
+  - BM_Nordic02_shoes
+- - 1
+  - BM_Wool01_shoes
+- - 1
+  - BM_Wool02_shoes
+- - 1
+  - BM_Nordic01_pants
+- - 1
+  - BM_Nordic02_pants
+- - 1
+  - BM_Wool01_pants
+- - 1
+  - BM_Wool02_pants

@@ -1,0 +1,23 @@
+type: Container
+flags: PERSISTENT
+id: TR_m4_Ando_FaulerChest
+name: Hemmette Fauler's Chest
+script: TR_m4_Ando_FaulerChestScript
+mesh: o\Contain_De_Chest_02.nif
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - light_tikitorch00
+- - -1
+  - p_cure_blight_s
+- - -2
+  - p_cure_common_s
+- - 2
+  - p_cure_poison_s
+- - 2
+  - p_fortify_health_c
+- - 2
+  - p_restore_fatigue_s
+- - -3
+  - p_restore_health_s

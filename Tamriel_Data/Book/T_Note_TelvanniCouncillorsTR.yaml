@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Note_TelvanniCouncillorsTR
+name: Telvanni Note
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nDirections to Telvanni Councillors:<BR>\r\n<BR>\r\nTo reach the Archmagister, travel to his dwelling here in Port Telvannis.<BR>\r\n<BR>\r\nTo reach Master Mithras' home, journey to Tel-Aranyon and ask the townsfolk for his home.<BR>\r\n<BR>\r\nTo reach Mistress Rathra, travel to the tower in Tel Ouada.<BR>\r\n<BR>\r\nTo reach Mistress Faruna, visit Tel Oren, but be careful; she is the very hot-tempered.<BR>\r\n<BR>\r\nTo reach Master Vaerin, walk or ride to the tower located at Alt Bosara.<BR>\r\n<BR>\r\nAnd finally, to reach Mistress Eldale, travel to Gah Sadrith. If you can't find her residence, ask around.<BR>\r\n<BR>\r\nOnce you have confirmed that these prominent citizens will answer our call or deny it, return to me promptly for further instruction. <BR>\r\n<BR>"
+data:
+  weight: 1.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

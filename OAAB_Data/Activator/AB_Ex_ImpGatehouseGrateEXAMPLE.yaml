@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: AB_Ex_ImpGatehouseGrateEXAMPLE
+name: ''
+script: ''
+mesh: OAAB\x\impGatehouseGrate.nif

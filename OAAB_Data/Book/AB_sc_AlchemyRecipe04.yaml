@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: AB_sc_AlchemyRecipe04
+name: Recipe - Rejuvenation
+script: ''
+mesh: m\Text_Scroll_02.nif
+icon: m\Tx_scroll_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nMadam Mary Madrigal's Advanced Alchemical Recipes<BR><BR>\r\n- Rejuvenation -<BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nPotion Effects:<BR>\r\n<BR>\r\nRestore Magicka<BR>\r\nFortify Magicka<BR>\r\nRestore Health<BR>\r\n<BR>\r\nThis potion is pricy to make, but is a mage's dream.<BR>\r\n<BR>\r\nComberry<BR>\r\nFrost Salts<BR>\r\nSaltrice<BR>\r\nEmerald<BR>\r\n<BR>\r\n<BR>\r\nOxidize the emerald in the calcinator until it turns clear, then crush. Mix comberry and saltrice into a red paste -- the consistency doesn't matter. Mix the dry ingredients, crushed emerald and frost salts, and distill with added clean water in the retort.<BR>\r\n<BR>\r\nDistill the comberry and saltrice paste separately in an alembic. Both mixtures will be neutral up to this point. When both are properly distilled, mix the two liquids together, and distill again in the retort. The potion should turn a bright red.<BR>"
+data:
+  weight: 0.5
+  value: 75
+  book_type: Scroll
+  skill: None
+  enchantment: 20

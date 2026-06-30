@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Nor_Orn_Staff_01
+name: Nordic Staff
+script: ''
+mesh: tr\w\tr_w_nordic_staff.nif
+icon: tr\w\tr_w_nordic_staff.dds
+enchanting: ''
+data:
+  weight: 18.0
+  value: 100
+  weapon_type: BluntTwoWide
+  health: 700
+  speed: 1.75
+  reach: 1.7
+  enchantment: 80
+  chop_min: 2
+  chop_max: 8
+  slash_min: 2
+  slash_max: 8
+  thrust_min: 1
+  thrust_max: 6
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

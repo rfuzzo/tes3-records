@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m2_kmlz_Rend_Wall1
+name: Dwemer Wall
+script: TR_m2_kmlz_Rend_Wall_sc
+mesh: i\in_dwrv_wall00.nif

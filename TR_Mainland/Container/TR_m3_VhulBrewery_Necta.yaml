@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m3_VhulBrewery_Necta
+name: Culdem
+script: ''
+mesh: TR\o\TR_cont_Ind_02.nif
+encumbrance: 60.0
+container_flags: IS_BASE
+inventory:
+- - 5
+  - T_IngCrea_VelkNectarSack_01

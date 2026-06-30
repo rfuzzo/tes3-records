@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_Mango_01
+name: Mango
+script: ''
+mesh: pc\n\pc_ing_mango.nif
+icon: pc\n\pc_ing_mango.dds
+data:
+  weight: 0.25
+  value: 3
+  effects:
+  - RestoreFatigue
+  - ResistShock
+  - RestoreHealth
+  - None
+  skills:
+  - None
+  - Block
+  - Block
+  - None
+  attributes:
+  - None
+  - Luck
+  - Willpower
+  - None

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_AT_OfficeRecord_Bk_Ruined
+name: Ruined Record
+script: ''
+mesh: tr\m\tr_book_notebk_05.nif
+icon: tr\m\tr_book_closed_ntbk05.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n[This book appears to record dedications made by pilgrims, but it is so affected by mould it is ultimately indecipherable.]<BR>\r\n<BR>\r\n\r\n"
+data:
+  weight: 0.5
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 0

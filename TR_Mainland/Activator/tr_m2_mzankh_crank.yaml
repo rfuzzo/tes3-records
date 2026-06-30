@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: tr_m2_mzankh_crank
+name: Dwarven Crank
+script: TR_M2_MzankhDoorCrank_sc
+mesh: i\in_dwrv_crank00.nif

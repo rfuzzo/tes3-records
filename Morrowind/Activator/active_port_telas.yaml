@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: active_port_telas
+name: Telasero Propylon
+script: Warp_Telas
+mesh: i\active_port_Telas.NIF

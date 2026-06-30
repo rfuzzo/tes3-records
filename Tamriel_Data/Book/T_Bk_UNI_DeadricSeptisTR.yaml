@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_UNI_DeadricSeptisTR
+name: Daedric Septis
+script: T_ScBook_SpDaedricSeptis
+mesh: TR\m\TR_book_sithis_daedr.nif
+icon: tr\m\tr_book_daedricseptis.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\">\r\n<FONT COLOR=\"000000\" SIZE=\"2\" FACE=\"Daedric\">\r\n<IMG SRC=\"TR\\DaedricSeptis.dds\" WIDTH=\"240\" HEIGHT=\"30\"><BR>\r\n<IMG SRC=\"TR\\DaeSep_CloseUp.dds\" WIDTH=\"240\" HEIGHT=\"240\"><BR>\r\n<BR>\r\n<IMG SRC=\"TR\\DaeSep_Transform.dds\" WIDTH=\"240\" HEIGHT=\"240\"><BR>\r\n<BR>\r\nWARLOCK OF MEHRUNES DAGON<BR>\r\n<BR>\r\n<IMG SRC=\"TR\\DaeSep_Silhouette.dds\" WIDTH=\"240\" HEIGHT=\"240\"><BR>\r\n<BR>\r\nWARLOCK OF MEHRUNES DAGON<BR>\r\n<BR>\r\n<IMG SRC=\"TR\\DaeSep_Dremora.dds\" WIDTH=\"240\" HEIGHT=\"240\"><BR>\r\n<BR>\r\nWARLOCK OF MEHRUNES DAGON<BR>\r\n</FONT>\r\n<BR>"
+data:
+  weight: 2.0
+  value: 3398
+  book_type: Book
+  skill: None
+  enchantment: 100

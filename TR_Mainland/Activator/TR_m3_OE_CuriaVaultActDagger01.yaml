@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m3_OE_CuriaVaultActDagger01
+name: ''
+script: TR_m3_OE_CuriaVaultDaggerSCP
+mesh: w\W_dagger_chitin.nif

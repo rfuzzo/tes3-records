@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_ruby_01
+name: Ruby
+script: ''
+mesh: n\Ingred_ruby_01.NIF
+icon: n\Tx_ruby.tga
+data:
+  weight: 0.2
+  value: 200
+  effects:
+  - DrainHealth
+  - Feather
+  - RestoreAttribute
+  - DrainAttribute
+  skills:
+  - Block
+  - Block
+  - Block
+  - Block
+  attributes:
+  - Strength
+  - Strength
+  - Intelligence
+  - Agility

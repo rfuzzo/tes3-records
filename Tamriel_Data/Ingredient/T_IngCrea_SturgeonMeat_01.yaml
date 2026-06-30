@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_SturgeonMeat_01
+name: Sturgeon Meat
+script: ''
+mesh: tr\n\tr_ing_sturgeon_meat.nif
+icon: tr\n\tr_ing_sturgeon_meat.dds
+data:
+  weight: 0.3
+  value: 3
+  effects:
+  - RestoreFatigue
+  - None
+  - None
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

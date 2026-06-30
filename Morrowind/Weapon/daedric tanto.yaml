@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: daedric tanto
+name: Daedric Tanto
+script: ''
+mesh: w\W_tanto_daedric.nif
+icon: w\Tx_tanto_daedric.tga
+enchanting: ''
+data:
+  weight: 12.0
+  value: 14000
+  weapon_type: ShortBladeOneHand
+  health: 1100
+  speed: 2.25
+  reach: 1.0
+  enchantment: 66
+  chop_min: 9
+  chop_max: 20
+  slash_min: 9
+  slash_max: 20
+  thrust_min: 9
+  thrust_max: 20
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

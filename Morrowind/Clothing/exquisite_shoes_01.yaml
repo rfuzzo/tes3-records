@@ -1,0 +1,20 @@
+type: Clothing
+flags: ''
+id: exquisite_shoes_01
+name: Exquisite Shoes
+script: ''
+mesh: c\C_shoes_exquisite_1_GND.NIF
+icon: c\tx_shoes_exquisite_1.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: LeftFoot
+  male_bodypart: c_shoes_exquisite_1_f
+  female_bodypart: ''
+- biped_object_type: RightFoot
+  male_bodypart: c_shoes_exquisite_1_f
+  female_bodypart: ''
+data:
+  clothing_type: Shoes
+  weight: 3.0
+  value: 80
+  enchantment: 400

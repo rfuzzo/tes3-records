@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m4_staff_i4-260-hla
+name: Keeper of Velothi
+script: ''
+mesh: TR\w\TR_w_adamant_staff.NIF
+icon: TR\w\TR_w_adamant_staff.dds
+enchanting: fire storm_en
+data:
+  weight: 12.0
+  value: 15000
+  weapon_type: BluntTwoWide
+  health: 700
+  speed: 1.75
+  reach: 1.5
+  enchantment: 500
+  chop_min: 2
+  chop_max: 18
+  slash_min: 3
+  slash_max: 18
+  thrust_min: 1
+  thrust_max: 12
+  flags: ''

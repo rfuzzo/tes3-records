@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m7_LA6_Cave1Door
+name: Troll Pen Gate
+script: TR_m7_LA6_Cave1Gate_Scp
+mesh: tr\x\tr_ex_de_palisade_02.nif

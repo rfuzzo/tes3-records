@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_AppleSkyrim_01
+name: Apple
+script: ''
+mesh: Sky\n\Sky_Ingred_Apple_01.nif
+icon: Sky\n\Tx_Ingred_Apple_01.dds
+data:
+  weight: 0.2
+  value: 3
+  effects:
+  - RestoreFatigue
+  - DamageAttribute
+  - FortifyAttribute
+  - None
+  skills:
+  - None
+  - Block
+  - Block
+  - None
+  attributes:
+  - None
+  - Willpower
+  - Speed
+  - None

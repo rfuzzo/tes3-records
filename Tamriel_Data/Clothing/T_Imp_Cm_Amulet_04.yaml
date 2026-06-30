@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Imp_Cm_Amulet_04
+name: Common Amulet
+script: ''
+mesh: pc\c\pc_c_cmamulet_04.nif
+icon: pc\c\pc_c_cmamulet_04.dds
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 2
+  enchantment: 15

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_CandleStickSilver_01
+name: Silver Candlestick
+script: ''
+mesh: pc\m\PC_Misc_Candlabra_02.nif
+icon: pc\m\pc_misc_candelabra02.dds
+data:
+  weight: 6.0
+  value: 22
+  flags: ''

@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: AB_light@_BlueWater_128
+name: ''
+script: ''
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 128
+  color:
+  - 33
+  - 190
+  - 199
+  - 0
+  flags: ''

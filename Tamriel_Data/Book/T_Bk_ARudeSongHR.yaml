@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_ARudeSongHR
+name: A Rude Song
+script: ''
+mesh: hr\m\HR_Bk_02.nif
+icon: hr\m\hr_bk_02.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nRUDE SONG<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nIn the spring of the year<BR>\r\nDoth propriety disappear<BR>\r\nIn the courts and the ports<BR>\r\nOf the Bay.<BR>\r\nDrinking new beer,<BR>\r\nEverybody feels queer<BR>\r\nAnd the Earls and the churls<BR>\r\nGo astray.<BR>\r\nThe bee and the bird<BR>\r\nDon't have to tell us a word.<BR>\r\nOur bodies for naughties<BR>\r\nAre prime.<BR>\r\nIf you haven't heard,<BR>\r\nYou can let yourself be lured<BR>\r\nFor the youth, for things uncouth,<BR>\r\nIt is time. <BR>\r\n<BR>\r\nOh, it's lovely to sit in a field, harvested into rows<BR>\r\nIt's lovelier still to do the same not wearing any clothes. <BR>\r\n<BR>\r\nPeople of the Bay bless<BR>\r\nThe flowered court of Wayrest<BR>\r\nFor showing us the gentle way of sin<BR>\r\nThe bonny Dark Elf queen<BR>\r\nLikes to see and to be seen<BR>\r\nWith cobblers, thieves,<BR>\r\nAnd tavernkeeps,<BR>\r\nAnd slaves, and fish-er-men.<BR>\r\nIn the court of Lainlyn,<BR>\r\nRight upon the mainland<BR>\r\nWith sex, the whole place is in a whirl.<BR>\r\nThe Baroness likes to play<BR>\r\nWith men who come her way,<BR>\r\nWhile the Baron likes the little boys and girls. <BR>\r\n<BR>\r\nOh, it's lovely to give your lady a kiss upon her nose<BR>\r\nIt's lovelier still to do the same not wearing any clothes. <BR>\r\n<BR>\r\nIn Daggerfall, they hold a ball<BR>\r\nAnd all of society indulges in a variety<BR>\r\nOf scandal, they can handle --<BR>\r\nA lot.<BR>\r\nThe Captain of the Guard<BR>\r\nHas to search very hard<BR>\r\nFor a bean that the Queen Has in her pants.<BR>\r\nAnd the Court Sorceress<BR>\r\nWill grant you a wish<BR>\r\nTo cause the King to fling<BR>\r\nAbout his lance. <BR>\r\n<BR>\r\nOh, it's lovely to give your love a single perfect rose<BR>\r\nIt's lovelier still to do the same not wearing any clothes.<BR>\r\nOh, it's lovely to abandon all your cares and fears and woes<BR>\r\nIt's lovelier still to do the same not wearing any clothes.<BR>\r\nYes sir, it's lovely not wear any clothes! <BR>\r\n\r\n"
+data:
+  weight: 3.0
+  value: 30
+  book_type: Book
+  skill: None
+  enchantment: 0

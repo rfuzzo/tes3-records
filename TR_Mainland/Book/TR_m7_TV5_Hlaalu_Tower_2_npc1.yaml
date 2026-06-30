@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_TV5_Hlaalu_Tower_2_npc1
+name: Gaurd
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: ''
+enchanting: ''
+text: Insert text about what you would like the quester or NPCer to do with your NPC here
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

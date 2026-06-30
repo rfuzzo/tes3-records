@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Com_Chain_Cuirass_02
+name: Chain Cuirass
+script: ''
+mesh: TR\a\TR_a_chain_cuir_gnd02.nif
+icon: TR\a\tr_a_chain_cuir_02.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_A_ComChainCuirass02_C
+  female_bodypart: ''
+data:
+  armor_type: Cuirass
+  weight: 27.0
+  value: 150
+  health: 400
+  enchantment: 200
+  armor_rating: 15

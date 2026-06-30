@@ -1,0 +1,22 @@
+type: Armor
+flags: ''
+id: BM_Ice_gauntletL
+name: Ice Armor Left Gauntlet
+script: ''
+mesh: a\A_Ice_Gauntlet_GND.NIF
+icon: A\Ice_Grove.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: LeftHand
+  male_bodypart: A_Ice_M_gauntlet
+  female_bodypart: A_Ice_F_gauntlet
+- biped_object_type: LeftWrist
+  male_bodypart: ''
+  female_bodypart: ''
+data:
+  armor_type: LeftGauntlet
+  weight: 4.0
+  value: 1000
+  health: 300
+  enchantment: 100
+  armor_rating: 50

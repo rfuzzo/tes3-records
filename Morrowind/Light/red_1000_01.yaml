@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: red_1000_01
+name: ''
+script: ''
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 1
+  time: -1
+  radius: 1000
+  color:
+  - 179
+  - 21
+  - 17
+  - 0
+  flags: ''

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Fx_WaterFlowCv512b
+name: ''
+script: AB_SoundWaterLayer_s
+mesh: OAAB\e\water_cvflow512s.nif

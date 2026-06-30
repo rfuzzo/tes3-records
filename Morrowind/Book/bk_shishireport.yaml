@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: bk_shishireport
+name: Shishi Report
+script: ''
+mesh: m\Text_Scroll_02.NIF
+icon: m\Tx_scroll_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nAs instructed, a party of five entered the Velothi tower of Shishi. Five Telvanni sorcerers fell and the tower is now ours, but we have suffered heavy losses. We will hold Shishi as long as we can and await your orders.<BR>\r\n<BR>\r\nBrerama Selas<BR>\r\n"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

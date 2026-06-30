@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Nor_Ep_Belt_01_WardIron
+name: Belt of Iron Ward
+script: ''
+mesh: sky\c\Sky_c_belt_exp_01.nif
+icon: sky\c\tx_c_belt_exp_01.dds
+enchanting: third barrier_en
+biped_objects: []
+data:
+  clothing_type: Belt
+  weight: 1.0
+  value: 82
+  enchantment: 50

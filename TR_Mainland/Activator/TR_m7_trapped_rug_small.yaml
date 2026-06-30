@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_trapped_rug_small
+name: ''
+script: TR_m7_sc_RugTrap_DmgMagicka
+mesh: tr\f\TR_furn_de_rug_s05.nif

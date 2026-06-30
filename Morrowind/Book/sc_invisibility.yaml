@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: sc_invisibility
+name: Scroll of Invisibility
+script: ''
+mesh: m\text_scroll_01.nif
+icon: m\tx_scroll_open_01.tga
+enchanting: sc_invisibility_en
+text: <DIV ALIGN="center"><FONT COLOR="000000" SIZE="2" FACE="Daedric">SHADOWS AND FOG</FONT><BR>
+data:
+  weight: 0.2
+  value: 112
+  book_type: Scroll
+  skill: None
+  enchantment: 100

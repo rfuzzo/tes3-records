@@ -1,0 +1,22 @@
+type: Armor
+flags: ''
+id: T_Imp_GuardTown1_GauntletL_01
+name: Cataphract Left Gauntlet
+script: ''
+mesh: pc\a\pc_a_guardarmorgcgt_g.nif
+icon: pc\a\pc_a_guard_gauntletgc.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: LeftHand
+  male_bodypart: T_A_ImpGuardtown1Gaun01_Ha
+  female_bodypart: ''
+- biped_object_type: LeftWrist
+  male_bodypart: ''
+  female_bodypart: ''
+data:
+  armor_type: LeftGauntlet
+  weight: 3.5
+  value: 33
+  health: 65
+  enchantment: 200
+  armor_rating: 13

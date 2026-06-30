@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: TR_m7_JNS_KVatraHelmOpen
+name: Deceit of K'Vatra
+script: ''
+mesh: tr\a\tr_a_kagouti_helm_open.nif
+icon: tr\a\tr_a_kagouti_helm_2.dds
+enchanting: TR_m7_JNS_KVatraHelmOpenEn
+biped_objects:
+- biped_object_type: Hair
+  male_bodypart: T_A_DeKagoutiHideHelm_02_Hr
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 3.0
+  value: 5000
+  health: 205
+  enchantment: 185
+  armor_rating: 30

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_Card_Deck_04
+name: Deck of Imperator Cards
+script: ''
+mesh: pc\m\pc_misc_card_deck_04.nif
+icon: pc\m\pc_misc_card_deck_04.dds
+data:
+  weight: 1.1
+  value: 20
+  flags: ''

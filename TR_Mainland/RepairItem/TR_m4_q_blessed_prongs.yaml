@@ -1,0 +1,12 @@
+type: RepairItem
+flags: ''
+id: TR_m4_q_blessed_prongs
+name: Blessed Prongs of Zenithar
+script: ''
+mesh: m\misc_prongs00.nif
+icon: m\misc_prongs00.tga
+data:
+  weight: 2.5
+  value: 500
+  uses: 30
+  quality: 1.8

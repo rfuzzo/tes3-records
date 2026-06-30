@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: act_bm_tombdoor3
+name: ''
+script: glendoorScript
+mesh: f\Terrain_rock_BM_66.nif

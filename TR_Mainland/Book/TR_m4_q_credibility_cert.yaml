@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_q_credibility_cert
+name: Certificate of Credulity
+script: ''
+mesh: m\Text_Parchment_01.NIF
+icon: m\Tx_parchment_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n*Certification of Credulity*<BR>\r\n<BR>\r\nBy Authority of the Camonna Tong<BR>\r\n<BR>\r\nIssued by Olvam Berelothi of Bal Foyen\r\n<BR>\r\nThis certificate is good for one free boatride back to wherever this witless outlander came from.<BR>\r\n<BR>\r\n<BR>\r\n<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_In_KwamaAcid4096
+name: ''
+script: AB_KwamaAcidPool_s
+mesh: OAAB\i\kwama_acid_huge.nif

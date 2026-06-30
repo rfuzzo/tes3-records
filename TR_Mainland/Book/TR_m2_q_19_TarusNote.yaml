@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2_q_19_TarusNote
+name: Piece of a letter
+script: ''
+mesh: m\Text_Note_02.nif
+icon: m\Tx_note_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This piece of paper seems to have belonged to a letter, but most parts have been ripped off. The only text that's left reads:]<BR>\r\n<BR>\r\n...has only yielded 200 coins, Tarus, I think the market is saturated with Dwemer stuff. Maybe we should settle for flin or other spirits. Our next meeting is this Loredas, come to the lighthouse and don't be late like last time.<BR>\r\n<BR>\r\nGilmyn<BR>\r\n"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

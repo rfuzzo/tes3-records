@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_ComCard05
+name: Five of Irons
+script: ''
+mesh: OAAB\m\com_card_05.nif
+icon: OAAB\m\com_card_05.dds
+data:
+  weight: 0.1
+  value: 1
+  flags: ''

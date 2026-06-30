@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4-92_Enchanters_Letter
+name: A Letter to a Cousin
+script: ''
+mesh: m\Text_Note_02.nif
+icon: m\Tx_note_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nMy dear cousin, may this letter find you in good health.<BR>\r\n<BR>\r\nThis week in the store was managable overall. Though, the new guard turned out to be quite a distress. He is constantly smoking and called me a clotpole. I don't even know what that is! <BR>\r\n<BR>\r\nThe bright side was that I had some pleasant outlanders visiting. Just don't tell your husband that I said that if you don't want your family budget dumped into a Morag Tong writ! A kind man from Cyrodiil presented me with this curious wombat (whatever that is) frankincense. It is square and, according to him, smells nice  when you burn it. I didn't dare sample the thing since you are the alchemist in our family. And I'm sending you all of it so you can try it yourself, dear cousin. <BR>\r\n<BR>\r\nI hope Balmora is still standing. Now, I should finish this brief report because I'm running out of ink. Say hello to your clotpole husband for me and don't forget to NOT send me anything from that blighted island you choose to live on!\r\n<BR>\r\n<BR>\r\nBest wishes, <BR>\r\nT. <BR>\r\n"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

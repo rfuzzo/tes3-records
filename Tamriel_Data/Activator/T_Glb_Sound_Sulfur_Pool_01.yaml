@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Glb_Sound_Sulfur_Pool_01
+name: 'Sound Effect: Sulfur Pool'
+script: T_ScSound_SulfurPool_01
+mesh: EditorMarker.NIF

@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Nor_Ep_Amulet_Wintercreep
+name: Amulet of Wintercreep
+script: ''
+mesh: sky\c\sky_amulet_expnsv_01.nif
+icon: sky\c\tx_amulet_expnsv_01.dds
+enchanting: T_Use_Wintercreep
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 130
+  enchantment: 150

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Test_Plaque_Rats
+name: Art by Rats
+script: ''
+mesh: pc\f\pc_furn_sign_plaque_02.nif

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_Vandir_Book
+name: Book of the Taldam Following
+script: ''
+mesh: m\Text_Octavo_07.NIF
+icon: m\Tx_book_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nTaldam Following<BR>\r\nA Burining Covenant to<BR>\r\nTaldam Ignatus<BR>\r\nIndex<BR>\r\n1. Taldam Ethos<BR>\r\n2. To the Faithful Burned<BR>\r\n3. Words of Taldam Ignatus<BR>\r\n4. Sacraments of Taldam Ignatus<BR>\r\n<BR>\r\nTaldam Ethos<BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nAnd so the recklessness of Mir has lead to death across the lands of Tamriel. And so the Unburned create the Burned. And so an equivalent force will prevail. Taldam Ignatus of another realm of our lord Arius will bring his Army of Fire to join these realms in his image. The Fools of this world have corrupted all those and what is that was pure. In Doing so they have created the Burned. The Folly of Fools stokes the Flames of his Army.<BR>\r\n<BR>\r\nAs his Fire Builds, will the ranks of the Burned Grow and commit the themselves to Taldam Ignatus, spawn of Arius. All will Join his blaze as his Burned Servants or as his Wake of Ash. Taldam Ignatus will cleanse the land of corruption and make a new land of the Burned who shall inherit the Realm. <BR>\r\n<DIV ALIGN=\"CENTER\"><BR><BR>\r\nTaldom Ignatus of Arius<BR>\r\n<BR>\r\nTo The Faithful Burned<BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nAll those who are Burned will see the Beauty of their Blistered Flesh. All the Beauty of the realm will become ash and the beauty of the Burned will reign in his service.<BR>\r\n<BR>\r\nAll those who are Burned commit themselves to his service. They will create Ash from the Unburned. They will Emulate his Immolation. His Immolation will take all the Discord of the world to Create the Sanctity of Ash, the Sanctuary of the Burned; an eruption of his rage and of the deepest depths of the land.<BR>\r\n<BR>\r\n<DIV ALIGN=\"CENTER\"><BR><BR>\r\nTaldom Ignatus of Arius<BR>\r\n<BR>\r\n(The profane text continues to explain the ravings of the Taldom Following) <BR>\r\n<BR>"
+data:
+  weight: 3.0
+  value: 10
+  book_type: Book
+  skill: None
+  enchantment: 20

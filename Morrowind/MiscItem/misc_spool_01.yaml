@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: misc_spool_01
+name: Spool
+script: ''
+mesh: m\Misc_spool_01.NIF
+icon: m\Tx_spool_01.tga
+data:
+  weight: 0.5
+  value: 1
+  flags: ''

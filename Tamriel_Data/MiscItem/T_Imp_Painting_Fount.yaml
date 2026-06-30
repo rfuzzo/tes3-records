@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_Painting_Fount
+name: A Peculiar Fountain
+script: ''
+mesh: pi\m\PI_M_Painting_Fount.nif
+icon: pi\m\PI_M_Painting_Fount.dds
+data:
+  weight: 9.0
+  value: 200
+  flags: ''

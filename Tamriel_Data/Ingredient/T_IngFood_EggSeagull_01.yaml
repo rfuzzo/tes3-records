@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_EggSeagull_01
+name: Seagull Egg
+script: ''
+mesh: Sky\n\sky_ingred_seagegg_01.nif
+icon: sky\n\tx_ingred_segg_01.dds
+data:
+  weight: 0.3
+  value: 5
+  effects:
+  - RestoreFatigue
+  - DrainAttribute
+  - DrainAttribute
+  - Feather
+  skills:
+  - None
+  - Block
+  - Block
+  - None
+  attributes:
+  - None
+  - Endurance
+  - Luck
+  - None

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_i2_445_Relic_S_f_r
+name: Sotha Sil's Leg Bones
+script: TR_m2_445_sc_SehtRelic
+mesh: tr\f\tr_furn_skel_foot_r.nif

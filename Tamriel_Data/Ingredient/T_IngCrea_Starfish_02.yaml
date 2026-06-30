@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_Starfish_02
+name: Starfish Leg
+script: ''
+mesh: pi\n\pi_ing_starfish_02.nif
+icon: pi\n\pi_ing_starfish_02.dds
+data:
+  weight: 0.3
+  value: 6
+  effects:
+  - WaterBreathing
+  - WeaknessToPoison
+  - FortifySkill
+  - Chameleon
+  skills:
+  - None
+  - None
+  - Athletics
+  - None
+  attributes:
+  - None
+  - None
+  - Strength
+  - None

@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: TR_m3_EastWind_Chest
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - TR_m3_MassurDanAxe
+- - 1
+  - T_De_Glass_Helm_Closed_01
+- - 1
+  - glass_cuirass
+- - 1
+  - glass_greaves

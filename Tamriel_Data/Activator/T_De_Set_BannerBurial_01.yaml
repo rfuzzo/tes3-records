@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_De_Set_BannerBurial_01
+name: ''
+script: OutsideBanner
+mesh: tr\f\tr_act_banner_burial01.nif

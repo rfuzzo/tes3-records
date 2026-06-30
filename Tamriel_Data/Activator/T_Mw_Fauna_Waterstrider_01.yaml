@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Mw_Fauna_Waterstrider_01
+name: Waterstrider
+script: T_ScCrea_Waterstrider
+mesh: tr\cr\tr_cr_waterstrider_01.nif

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_ComNineholesBoard
+name: Nine-holes Board
+script: ''
+mesh: OAAB\m\nineholes_01.nif
+icon: OAAB\m\nineholes_01.dds
+data:
+  weight: 2.0
+  value: 12
+  flags: ''

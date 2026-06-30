@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: TR_m2_FG_Darythi_Rethynnote
+name: Note to Rethyn Verelnim
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nVerelnim,<BR>\r\nYour summoning skills need practice. The spirits you send are easily dispatched by my guards. The day you're presented to me in shackles will be a date I will cherish for eternity.<BR>\r\n<BR>\r\n<BR>\r\nDarythi<BR>\r\n<BR>\r\n\r\n"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

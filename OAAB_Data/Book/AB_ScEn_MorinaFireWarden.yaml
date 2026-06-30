@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: AB_ScEn_MorinaFireWarden
+name: Scroll of Morina's Fire Warden
+script: ''
+mesh: OAAB\m\scrollCheap.nif
+icon: OAAB\m\scroll_cheap.tga
+enchanting: AB_sc_MorinaFireWarden_en
+text: <DIV ALIGN="center"><FONT COLOR="000000" SIZE="2" FACE="Daedric">YOU SHALL NOT PASS!</FONT><BR>
+data:
+  weight: 0.2
+  value: 98
+  book_type: Scroll
+  skill: None
+  enchantment: 0

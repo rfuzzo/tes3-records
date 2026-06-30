@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_Newtscales_01
+name: Newt Scales
+script: ''
+mesh: pc\n\pc_ing_newtscales.nif
+icon: pc\n\pc_tx_ingred_newts.dds
+data:
+  weight: 1.0
+  value: 5
+  effects:
+  - DrainAttribute
+  - ResistPoison
+  - RestoreAttribute
+  - SwiftSwim
+  skills:
+  - Block
+  - None
+  - Block
+  - None
+  attributes:
+  - Strength
+  - None
+  - Agility
+  - None

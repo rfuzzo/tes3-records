@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_AlchJarEmpty01
+name: Alchemical Jar
+script: ''
+mesh: OAAB\m\alchjarempty01.nif
+icon: OAAB\m\alchjarempty01.tga
+data:
+  weight: 1.5
+  value: 4
+  flags: ''

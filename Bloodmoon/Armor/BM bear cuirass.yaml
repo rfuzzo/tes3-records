@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: BM bear cuirass
+name: Bear Cuirass
+script: ''
+mesh: a\A_Bear_Cuirass_GND.NIF
+icon: A\Tx_Bear_Cuirass.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: A_Bear_Cuirass
+  female_bodypart: A_Bear_Skin_f
+data:
+  armor_type: Cuirass
+  weight: 25.0
+  value: 150
+  health: 325
+  enchantment: 60
+  armor_rating: 15

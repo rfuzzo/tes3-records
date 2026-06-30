@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_MeatHorker_01
+name: Horker Meat
+script: ''
+mesh: Sky\n\Sky_Ingred_Meat_04.nif
+icon: Sky\n\Tx_Ingred_Meat_04.dds
+data:
+  weight: 2.0
+  value: 20
+  effects:
+  - RestoreFatigue
+  - ResistFrost
+  - WeaknessToFire
+  - RestoreHealth
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_Card_04
+name: Seven of Dragons
+script: ''
+mesh: pc\m\pc_misc_card_04.nif
+icon: pc\m\pc_misc_card_04.dds
+data:
+  weight: 0.1
+  value: 1
+  flags: ''

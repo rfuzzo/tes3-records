@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: a_furn_de_table_8
+name: Table
+script: SignRotate
+mesh: f\Furn_De_Table_08.nif

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_BallLeather
+name: Leather Ball
+script: ''
+mesh: pc\m\pc_ball_leather.nif
+icon: pc\m\pc_ball_leather.dds
+data:
+  weight: 1.0
+  value: 1
+  flags: ''

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2_q_36_LetterToAthyrion
+name: Letter to Rilmas Athyrion
+script: ''
+mesh: m\Text_Parchment_01.nif
+icon: m\Tx_parchment_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nTo Serjo Rilmas Athyrion, Arch-Mage of Marog<BR>\r\n<BR>\r\nI'm not sure if you remember the circumstances, but six years ago I joined the great House Telvanni to become your apprentice in Marog. I was eager to learn the secrets of the art of magic from one of the wisest and most revered sorcerers of all of Morrowind. It turned out my expectations were not to be answered.<BR>\r\n<BR>\r\nFor one and a half years I did not face my master, and then the first words you spoke to me were: \"Fetch the soul of that Ogrim from my desk!\" Though disheartening I could have sustained it: who was I but a humble apprentice? After all weren't you doubtlessly concerned with your own important research?<BR>\r\n<BR>\r\nFurthermore I could have sustained the attitude of my colleagues who sabotaged my equipment, stole my research notes or dragged any idea I dared mention openly through the mire. I had never pondered locking away my equipment or keeping ideas by myself--until these days.<BR>\r\n<BR>\r\nMore than two years I persevered in the vain hope it'd become better once I reached the 'inner circle' of the tower. But unfortunately my hopes were to be dashed. Futilely I tried to draw your attention towards my work. Futilely I tried to gain your support for my research.<BR>\r\n<BR>\r\nSo eventually; in one moment of weakness; I left Marog and joined the Mages Guild instead. I must be blamed: it was an outrageous act of treason! The fact that I feel at home at the guild even increases the guilt I have burdened myself with.<BR>\r\n<BR>\r\nNothing could be said or done to excuse such an atrocity. Nonetheless I will try to explain my doings: it was my inferiority causing this treachery. I do not merit to be your apprentice, I do not even merit to polish your shoes. Indeed, you are Master Rilmas Athyrion and I am just a nobody!<BR>\r\n<BR>\r\nPerhaps it would have been the best course of action if you had sent me away at your own instigation. However your good will kept me in Marog and thus I happened to disappoint you disdainfully. Could you have foreseen it? No. It was no one but me who overestimated my capabilities.<BR>\r\n<BR>\r\nThese were the circumstances which led to my cowardly departure. Since then my decision haunts me and I agonize over what I could do to make up for my disgrace. Alas! There is nothing I can do. The damage is done.<BR>\r\n<BR>\r\nIf you know a way how I could compensate, please let me know and it shall be done. Until then I can only assure you of the gravity and sincerity of my remorse. I have to apologize for my gratelessness and recreance. You deserved a more loyal apprentice than I was.<BR>\r\n<BR>\r\nI hope you prove munificence and forgive your former apprentice who failed you so miserably.<BR>\r\n<BR>\r\nWith deepest regrets,<BR>\r\nFrancine Aldard<BR>\r\n<BR>"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 100

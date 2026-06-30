@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_MarshStalk_01
+name: Marsh Stalk Cap
+script: ''
+mesh: pc\n\pc_ing_marshstalk.nif
+icon: pc\n\pc_tx_ingred_marshs.dds
+data:
+  weight: 0.4
+  value: 5
+  effects:
+  - DrainAttribute
+  - Poison
+  - DetectAnimal
+  - ResistMagicka
+  skills:
+  - Block
+  - None
+  - None
+  - None
+  attributes:
+  - Strength
+  - None
+  - None
+  - None

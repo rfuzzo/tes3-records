@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_MARK_Eno_Hlaalu
+name: Eno Hlaalu
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: ''
+enchanting: ''
+text: "Eno moves to Vounoura after the player becomes Grandmaster and chooses to let him retire.\r\nNPC ID: eno hlaalu\r\nPositionCell in script: TR_m1_EnoVounora"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

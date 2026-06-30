@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2_q_20_ContractSigned
+name: Signed Fighters Guild Contract
+script: ''
+mesh: m\Text_paper_roll_01.nif
+icon: m\Tx_paper_roll_01.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This contract lists terms of agreement between the Fighters Guild and the Torvel family. It also bears the signature of Irelav Torvel.]<BR>"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 100

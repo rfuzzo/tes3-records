@@ -1,0 +1,23 @@
+type: Container
+flags: BLOCKED
+id: Rufinus_Alleius_chest
+name: Chest of Drawers
+script: ''
+mesh: o\Contain_Com_Drawers_01.NIF
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - expensive_glove_left_01
+- - 1
+  - black_blindfold_glove
+- - 2
+  - expensive_glove_right_01
+- - 2
+  - expensive_belt_03
+- - 3
+  - expensive_shirt_03
+- - 2
+  - expensive_shoes_03
+- - 4
+  - expensive_pants_03

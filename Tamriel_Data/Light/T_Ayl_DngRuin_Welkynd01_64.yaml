@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_Ayl_DngRuin_Welkynd01_64
+name: Welkynd Stone
+script: T_ScObj_WelkyndStoneCyr
+mesh: pc\m\pc_misc_welkyd_01.nif
+icon: pc\m\pc_misc_welkynd.dds
+sound: ''
+data:
+  weight: 1.5
+  value: 45
+  time: -1
+  radius: 64
+  color:
+  - 169
+  - 237
+  - 234
+  - 0
+  flags: CAN_CARRY

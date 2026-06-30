@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_BoneSkelHandR
+name: Right Hand
+script: ''
+mesh: OAAB\m\skelHandR.nif
+icon: OAAB\m\skelHandR.tga
+data:
+  weight: 0.5
+  value: 1
+  flags: ''

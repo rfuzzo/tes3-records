@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: AB_o_ComTrinketBoxTblEb
+name: Trinket Box
+script: ''
+mesh: OAAB\o\com_jewel_box.nif
+encumbrance: 20.0
+container_flags: IS_BASE
+inventory:
+- - 4
+  - AB_Misc_DeEbonyFork_01
+- - 4
+  - AB_Misc_DeEbonyKnife_01
+- - 4
+  - AB_Misc_DeEbonySpoon_01

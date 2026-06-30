@@ -1,0 +1,37 @@
+type: Container
+flags: ''
+id: crate_02_Lagius
+name: Crate
+script: ''
+mesh: o\Contain_crate_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - -1
+  - netch_leather_gauntlet_right
+- - -1
+  - netch_leather_gauntlet_left
+- - -1
+  - chitin boots
+- - -1
+  - netch_leather_boots
+- - -1
+  - imperial_chain_greaves
+- - -1
+  - chitin greaves
+- - -1
+  - netch_leather_greaves
+- - -1
+  - imperial_chain_pauldron_right
+- - -1
+  - imperial_chain_pauldron_left
+- - -1
+  - imperial_chain_cuirass
+- - -1
+  - imperial_studded_cuirass
+- - -1
+  - chitin cuirass
+- - -1
+  - netch_leather_cuirass
+- - -1
+  - imperial_chain_coif_helm

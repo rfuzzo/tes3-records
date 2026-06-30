@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Rga_ClayFlask_01
+name: Clay Flask
+script: ''
+mesh: hf\m\hf_misc_rga_ClFlask_01.nif
+icon: hf\m\hf_misc_rga_ClFlask_01.dds
+data:
+  weight: 0.5
+  value: 1
+  flags: ''

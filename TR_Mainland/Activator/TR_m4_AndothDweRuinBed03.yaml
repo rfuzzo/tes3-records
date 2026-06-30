@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_AndothDweRuinBed03
+name: Bed
+script: TR_m4_AndothDweBed03_scp
+mesh: tr\f\tr_act_de_bed_02.nif

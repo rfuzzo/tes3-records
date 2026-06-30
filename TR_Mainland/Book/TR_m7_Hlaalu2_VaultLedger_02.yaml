@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_Hlaalu2_VaultLedger_02
+name: Old Vaults Ledger
+script: ''
+mesh: m\Text_Octavo_03.NIF
+icon: m\Tx_octavo_03.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This book contains old records of commerce and transactions via the High Hlaalu's Vaults as well as an outdated account of the current inventory. Given the long history of the manor, many famed artifacts seem to have passed through these vaults at some point.]<BR>\r\n\r\n"
+data:
+  weight: 2.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 0

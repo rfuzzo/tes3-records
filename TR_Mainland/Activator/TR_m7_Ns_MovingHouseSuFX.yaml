@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m7_Ns_MovingHouseSuFX
+name: ''
+script: ''
+mesh: editormarker.nif

@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Hr_Flora_MistleDry
+name: Dried Mistletoe
+script: ''
+mesh: sky\o\sky_flora_MistleDry.nif
+encumbrance: 0.0
+container_flags: ORGANIC | IS_BASE
+inventory:
+- - 2
+  - T_Hr_Random_FlorMistletoe

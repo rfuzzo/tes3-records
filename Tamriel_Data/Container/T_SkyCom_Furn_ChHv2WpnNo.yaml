@@ -1,0 +1,21 @@
+type: Container
+flags: ''
+id: T_SkyCom_Furn_ChHv2WpnNo
+name: Chest
+script: ''
+mesh: Sky\o\Sky_Cont_Chest_04_02.nif
+encumbrance: 250.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Sky_Lvl_Armor
+- - 1
+  - T_Sky_Lvl_ArmorMedium
+- - 1
+  - T_Sky_Lvl_WeaponsAxe
+- - 1
+  - T_Sky_Lvl_WeaponsMelee
+- - 1
+  - random_armor_fur
+- - 1
+  - random_nordic_weapons

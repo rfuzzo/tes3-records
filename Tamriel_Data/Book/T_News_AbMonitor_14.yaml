@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_AbMonitor_14
+name: LOCAL BUSINESSMAN ARRESTED
+script: T_ScNews_Bellman_Paper
+mesh: pc\m\pc_text_note_anv_news.nif
+icon: pc\m\pc_text_note_anv_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"PC\\pc_abmonitor.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nLOCAL BUSINESSMAN ARRESTED ON TREASON CHARGES<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nThe Monitor has been informed that Unsolyo, a Sea Elf clothier in Anvil, has been arrested by the West Navy and imprisoned in Fort Telodrach's dungeons. Ensign Anandaya, an aide to Navarch Tiledorus Cadmerius, stated that Unsolyo was taken in on treason charges, but refused any further comment.<BR><BR>\r\nAccording to anonymous sources within Fort Telodrach, the arrest and prolonged detention of Unsolyo is linked to the recent attack by unknown forces on two Navy cutters on routine patrol in the Abecean Sea. The attack, which saw one ship sunk and another grievously damaged, has raised questions about the safety of the critical sea lanes of the eastern Abecean Sea.<BR><BR>\r\nWhile Sea Elf forces have been known to confront Imperial forces intermittently, a brazen attack on Imperial fleets in Abecean waters would constitute a serious breach of the detente long held between Tamriel and Pyandonea. The arrest of a respected Sea Elf merchant citizen seems to indicate that Navy intelligence has not ruled out this threat.<BR><BR>\r\nWith piracy on the rise in the Abecean Sea, the arrival of Sea Elf raiders presents a frightening new danger for sailors and traders. The West Navy, weakened by the recent attacks and the Navarch's decision to mothball certain forts, appears unprepared to face this new threat. The arrest of an Imperial citizen on the basis of race with unspecified evidence only highlights High Command's unpreparedness at this critical moment.<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

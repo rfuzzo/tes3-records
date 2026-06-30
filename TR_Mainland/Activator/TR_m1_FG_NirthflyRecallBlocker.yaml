@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m1_FG_NirthflyRecallBlocker
+name: ''
+script: TR_m1_FG_ShipRecallBlockerSc
+mesh: EditorMarker.NIF

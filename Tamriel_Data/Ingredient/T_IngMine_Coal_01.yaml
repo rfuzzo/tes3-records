@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngMine_Coal_01
+name: Coal
+script: ''
+mesh: TR\N\tr_ing_coal.nif
+icon: tr\n\tr_ing_coal.dds
+data:
+  weight: 1.0
+  value: 1
+  effects:
+  - DamageHealth
+  - ResistFire
+  - Chameleon
+  - DrainAttribute
+  skills:
+  - None
+  - None
+  - None
+  - Block
+  attributes:
+  - None
+  - None
+  - None
+  - Endurance

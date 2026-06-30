@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: iron sparkblade
+name: Iron Sparkblade
+script: ''
+mesh: w\W_Iron_shortsword.nif
+icon: w\Tx_Iron_shortsword.tga
+enchanting: spark_enu
+data:
+  weight: 8.0
+  value: 35
+  weapon_type: ShortBladeOneHand
+  health: 600
+  speed: 2.5
+  reach: 1.0
+  enchantment: 40
+  chop_min: 4
+  chop_max: 9
+  slash_min: 4
+  slash_max: 9
+  thrust_min: 5
+  thrust_max: 11
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

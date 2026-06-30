@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_muck_01
+name: Muck
+script: ''
+mesh: n\Ingred_Muck_01.nif
+icon: n\Tx_muck_01.tga
+data:
+  weight: 0.1
+  value: 1
+  effects:
+  - DrainAttribute
+  - DetectKey
+  - DrainAttribute
+  - CureCommonDisease
+  skills:
+  - Block
+  - Block
+  - Block
+  - Block
+  attributes:
+  - Intelligence
+  - Strength
+  - Personality
+  - Strength

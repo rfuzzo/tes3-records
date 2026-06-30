@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m2_He_pawn_valvius
+name: 'Valvius Matius: Pawnbroker'
+script: SignRotate
+mesh: f\Active_sign_C_pwan_01.NIF

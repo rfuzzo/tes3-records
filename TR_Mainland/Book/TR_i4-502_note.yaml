@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: TR_i4-502_note
+name: Note from Faldrim
+script: ''
+mesh: m\Text_Parchment_02.NIF
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nErlion<BR>\r\n<BR>\r\nI know how much you hate guarding the entry, but everyone needs to do it. I can no longer tolerate you weaselling your way out of it all the time. I do not want the men to think that I am giving you certain privileges here.<BR>\r\n<BR>\r\nFaldrim<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

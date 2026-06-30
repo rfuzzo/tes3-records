@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m1_HT_Nu1_almalexias_grace
+name: Amulet of Almalexia's Grace
+script: ''
+mesh: c\Amulet_Extravagant_1.NIF
+icon: c\tx_amulet_extrav1.tga
+enchanting: TR_m1_q_Almalexias_Grace
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 280
+  enchantment: 600

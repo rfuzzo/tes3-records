@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: AB_o_DeRchChest01ClothF
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - AB_lvl_c_DeExF

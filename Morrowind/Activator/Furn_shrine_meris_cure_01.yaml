@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: Furn_shrine_meris_cure_01
+name: Shrine of St. Meris
+script: shrineMeris
+mesh: f\Furn_shrine_meris_01.NIF

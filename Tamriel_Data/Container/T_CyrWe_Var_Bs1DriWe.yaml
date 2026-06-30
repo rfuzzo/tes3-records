@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_CyrWe_Var_Bs1DriWe
+name: Hide Basket
+script: ''
+mesh: pc\o\pc_cont_we_basket01.nif
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 6
+  - T_Val_Random_DrinkBosmer

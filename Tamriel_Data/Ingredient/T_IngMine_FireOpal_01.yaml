@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngMine_FireOpal_01
+name: Fire Opal
+script: ''
+mesh: tr\n\tr_ing_fire_opal.nif
+icon: tr\n\tr_ing_fire_opal.dds
+data:
+  weight: 0.2
+  value: 200
+  effects:
+  - WeaknessToFire
+  - FireDamage
+  - FireShield
+  - ResistFire
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

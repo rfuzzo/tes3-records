@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_Glb_Light_Window_400
+name: ''
+script: T_ScObj_WindowLight
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 400
+  color:
+  - 255
+  - 255
+  - 255
+  - 0
+  flags: ''

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_TT_Proverb02
+name: Lord Ilvi's Words of Wisdom II
+script: ''
+mesh: TR\m\TR_note_a04.nif
+icon: TR\m\tr_note_a04.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nOne cannot bow to the Emperor <BR>\r\nwithout turning their back on the Three.<BR>\r\n"
+data:
+  weight: 0.01
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

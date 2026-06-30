@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: Act_BM_pipe_06
+name: ''
+script: ''
+mesh: f\Act_BM_pipe_01.NIF

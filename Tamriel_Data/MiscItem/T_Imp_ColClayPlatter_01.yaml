@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_ColClayPlatter_01
+name: Platter
+script: ''
+mesh: pc\m\PC_Col_clay_platter.nif
+icon: pc\m\pc_misc_col_clay_plt.dds
+data:
+  weight: 4.0
+  value: 6
+  flags: ''

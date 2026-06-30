@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngMine_PearlBlack_01
+name: Black Pearl
+script: ''
+mesh: TR\n\TR_Ing_pearlblack_mm.NIF
+icon: TR\n\TR_Ing_pearlblack_mm.dds
+data:
+  weight: 0.2
+  value: 250
+  effects:
+  - Silence
+  - WaterBreathing
+  - DamageAttribute
+  - FortifyAttribute
+  skills:
+  - None
+  - None
+  - Block
+  - Block
+  attributes:
+  - None
+  - None
+  - Endurance
+  - Personality

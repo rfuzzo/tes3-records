@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: BM ice dagger
+name: Stalhrim Dagger
+script: ''
+mesh: w\W_Ice_dagger.NIF
+icon: w\Ice_dagger.dds
+enchanting: ''
+data:
+  weight: 5.0
+  value: 15000
+  weapon_type: ShortBladeOneHand
+  health: 800
+  speed: 2.5
+  reach: 1.0
+  enchantment: 65
+  chop_min: 10
+  chop_max: 16
+  slash_min: 10
+  slash_max: 16
+  thrust_min: 10
+  thrust_max: 16
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

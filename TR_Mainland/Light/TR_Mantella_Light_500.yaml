@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: TR_Mantella_Light_500
+name: ''
+script: ''
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 1
+  time: -1
+  radius: 500
+  color:
+  - 88
+  - 188
+  - 94
+  - 0
+  flags: PULSE_SLOW

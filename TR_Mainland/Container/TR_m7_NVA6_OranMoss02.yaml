@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m7_NVA6_OranMoss02
+name: Orange Moss
+script: TR_m7_NVA_Stage6_Persist
+mesh: tr\f\tr_flora_mossclump_02.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - T_Mw_Random_FlorOrangeMoss

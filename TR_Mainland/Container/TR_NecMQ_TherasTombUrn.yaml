@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_NecMQ_TherasTombUrn
+name: Urn
+script: TR_NecMQ_UrnRingletScript
+mesh: o\Contain_urn_05.NIF
+encumbrance: 10.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - ingred_bonemeal_01

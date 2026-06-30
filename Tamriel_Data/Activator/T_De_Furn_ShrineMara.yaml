@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_De_Furn_ShrineMara
+name: Shrine of Mara
+script: T_ScObj_ShrineHlaaluMara
+mesh: tr\f\tr_furn_de_altar_mar.nif

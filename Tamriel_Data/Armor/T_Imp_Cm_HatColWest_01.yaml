@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Imp_Cm_HatColWest_01
+name: Common Cloth Cap
+script: ''
+mesh: pc\c\PC_Col_C_Hat_W1_01G.nif
+icon: pc\c\PC_Col_C_Hat_W1_01I.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Hair
+  male_bodypart: T_C_ImpCmHatColWest01_Hr
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 1.0
+  value: 4
+  health: 50
+  enchantment: 20
+  armor_rating: 5

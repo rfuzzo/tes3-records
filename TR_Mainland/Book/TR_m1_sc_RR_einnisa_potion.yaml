@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_sc_RR_einnisa_potion
+name: Research
+script: ''
+mesh: m\text_scroll_01.nif
+icon: m\tx_scroll_open_01.tga
+enchanting: ''
+text: "<FONT COLOR=\"000000\" SIZE=\"2\" FACE=\"Magic Cards\">\r\n<BR>\r\n[This long set of notes is encoded in a secret language.]<BR>\r\n<BR>"
+data:
+  weight: 0.2
+  value: 10
+  book_type: Scroll
+  skill: None
+  enchantment: 0

@@ -1,0 +1,17 @@
+type: Clothing
+flags: ''
+id: T_Dae_UNI_RobeShroud
+name: Namira's Shroud
+script: T_ScObj_NamirasShroud
+mesh: tr\c\TR_c_shroud_uni_gnd.nif
+icon: tr\c\tr_c_robe_shroud.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_C_DaeRobeShroudUNI
+  female_bodypart: ''
+data:
+  clothing_type: Robe
+  weight: 3.0
+  value: 40000
+  enchantment: 0

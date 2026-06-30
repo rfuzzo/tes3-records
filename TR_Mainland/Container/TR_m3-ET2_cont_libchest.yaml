@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: TR_m3-ET2_cont_libchest
+name: Small Chest
+script: ''
+mesh: pc\o\pc_cont_chest_small_01.nif
+encumbrance: 25.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - Misc_Inkwell
+- - 1
+  - Misc_Quill
+- - 1
+  - T_Mw_Random_Gems
+- - 1
+  - random gold_lev_15
+- - 3
+  - sc_paper plain

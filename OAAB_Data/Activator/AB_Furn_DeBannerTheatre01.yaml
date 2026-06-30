@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Furn_DeBannerTheatre01
+name: ''
+script: OutsideBanner
+mesh: OAAB\u\de_banner_theat_01.nif

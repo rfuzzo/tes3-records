@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m4_TG_DironLetterCheck
+name: ''
+script: TR_m4_TG_DironLetterCheck_scp
+mesh: editormarker.nif

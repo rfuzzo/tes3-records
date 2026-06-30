@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m1_EEC_HareCoherer
+name: Professor Hare's Coherer
+script: ''
+mesh: m\misc_dwrv_artifact50.nif
+icon: m\misc_dwrv_artifact50.tga
+data:
+  weight: 40.0
+  value: 60
+  flags: ''

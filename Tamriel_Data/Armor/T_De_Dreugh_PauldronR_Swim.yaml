@@ -1,0 +1,22 @@
+type: Armor
+flags: ''
+id: T_De_Dreugh_PauldronR_Swim
+name: Dreugh Right Pauldron-Fin
+script: ''
+mesh: TR\a\tr_a_dreugh_pld_gnd.nif
+icon: TR\a\tr_a_dreugh_pauldron.dds
+enchanting: T_Const_SwiftSwim15
+biped_objects:
+- biped_object_type: RightPauldron
+  male_bodypart: T_A_DeDreughPauldr01_Cl
+  female_bodypart: ''
+- biped_object_type: RightUpperArm
+  male_bodypart: T_A_DeDreughPauldr01_UA_R
+  female_bodypart: ''
+data:
+  armor_type: RightPauldron
+  weight: 9.0
+  value: 2960
+  health: 600
+  enchantment: 40
+  armor_rating: 40

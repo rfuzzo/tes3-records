@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_w_SteelArrow10x
+name: Steel Arrow (10)
+script: AB_QuiverSteel10x_s
+mesh: OAAB\w\quiver_steel.nif
+icon: w\tx_arrow_steel.dds
+data:
+  weight: 1.0
+  value: 20
+  flags: ''

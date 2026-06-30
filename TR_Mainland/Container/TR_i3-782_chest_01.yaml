@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: TR_i3-782_chest_01
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_De_Cm_AmuletInd_01
+- - 1
+  - T_De_IndChevAram_PauldrL_01
+- - 1
+  - T_De_IndChevAram_PauldrR_01
+- - 10
+  - random gold
+- - 4
+  - random_common_de_mclothes_01

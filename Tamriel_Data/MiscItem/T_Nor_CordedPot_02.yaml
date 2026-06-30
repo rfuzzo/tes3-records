@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Nor_CordedPot_02
+name: Corded Pot
+script: ''
+mesh: sky\m\sky_misc_cord_pot_02.nif
+icon: sky\m\sky_misc_cord_pot_02.dds
+data:
+  weight: 1.5
+  value: 4
+  flags: ''

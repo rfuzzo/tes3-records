@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_ImpEtool
+name: Entrenching tool
+script: ''
+mesh: OAAB\w\w_legion_etool.nif
+icon: OAAB\w\w_legion_wtool.dds
+enchanting: ''
+data:
+  weight: 20.0
+  value: 10
+  weapon_type: AxeTwoHand
+  health: 450
+  speed: 1.0
+  reach: 1.0
+  enchantment: 10
+  chop_min: 4
+  chop_max: 9
+  slash_min: 2
+  slash_max: 3
+  thrust_min: 1
+  thrust_max: 3
+  flags: ''

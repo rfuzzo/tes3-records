@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_PurpleGlassKnife_01
+name: Fine Glass Knife
+script: ''
+mesh: tr\m\tr_misc_purpg_knife01.nif
+icon: tr\m\tr_misc_purpg_knife01.dds
+data:
+  weight: 1.0
+  value: 12
+  flags: ''

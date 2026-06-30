@@ -1,0 +1,29 @@
+type: Clothing
+flags: ''
+id: T_De_Et_PantsSacredBonemold_01
+name: Extravagant Pants
+script: ''
+mesh: tr\c\tr_c_sl_pants_gnd.nif
+icon: tr\c\tr_a_sl_pants.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Groin
+  male_bodypart: T_C_DeSacredLandsPants_G
+  female_bodypart: ''
+- biped_object_type: LeftKnee
+  male_bodypart: T_C_DeSacredLandsPants_K
+  female_bodypart: ''
+- biped_object_type: LeftUpperLeg
+  male_bodypart: T_C_DeSacredLandsPants_UL
+  female_bodypart: ''
+- biped_object_type: RightKnee
+  male_bodypart: T_C_DeSacredLandsPants_K
+  female_bodypart: ''
+- biped_object_type: RightUpperLeg
+  male_bodypart: T_C_DeSacredLandsPants_UL
+  female_bodypart: ''
+data:
+  clothing_type: Pants
+  weight: 2.0
+  value: 60
+  enchantment: 300

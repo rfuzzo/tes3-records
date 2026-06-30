@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: AB_bk_OfMenAndMer
+name: Of Men and Mer
+script: ''
+mesh: OAAB\m\ab_octavo_02.nif
+icon: OAAB\m\ab_octavo_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nOf Men and Mer<BR>\r\nby Hennabear<BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nSit, dear reader, have a care,<BR>\r\nAnd listen to wise Hennabear.<BR>\r\nI'll tell you things of Men and Mer,<BR>\r\nAnd all of them, you'll find, are fair.<BR>\r\n<BR>\r\nFirst I will of Dunmer speak,<BR>\r\nA culture old and quite unique.<BR>\r\nDark-skinned Elves of slight physique,<BR>\r\nTheir living gods' divine mystique.<BR>\r\n<BR>\r\nNext of Altmer you shall hear,<BR>\r\nNoble kin of highest tier.<BR>\r\nTheir icy words do not endear,<BR>\r\nBut speak no ill or you'll disappear.<BR>\r\n<BR>\r\nThe Redguard is the noble nomad,<BR>\r\nIn silks you'll often find them clad.<BR>\r\nThey carry sharp blades just in case,<BR>\r\nFast and skilled, you'll lose this race.<BR>\r\n<BR>\r\nIn forests Bosmer like to hide,<BR>\r\nFrom leaf to leaf like birds they glide.<BR>\r\nYou'll know at once when one has lied,<BR>\r\nHis lips will move when he's replied.<BR>\r\n<BR>\r\nThe burly Orc, slandered and green,<BR>\r\nProne to anger, not very serene.<BR>\r\nBelow the roughness one can glean<BR>\r\nA definite fondness for meaty cuisine.<BR>\r\n<BR>\r\nKhajiit: a large, smart, noble cat,<BR>\r\nSkilled in wordplay and mortal combat.<BR>\r\nThieves and pirates to be sure,<BR>\r\nBut the furred ones are so much more.<BR>\r\n<BR>\r\nBut now I see you're growing bored,<BR>\r\nPerhaps you'd like to hear of Nords?<BR>\r\nA people not to be ignored,<BR>\r\nForged in winter by axe and sword.<BR>\r\n<BR>\r\nArgonians are lizard men,<BR>\r\nWhose swamps contain their den.<BR>\r\nAsk a question, then ask again.<BR>\r\nWhat thoughts they have are beyond our ken.<BR>\r\n<BR>\r\nI'll finish with fine Breton tales,<BR>\r\nThis narrator's racial details.<BR>\r\nA people formed from harsh travails,<BR>\r\nBut hearty still, we yet prevail.<BR>\r\n<BR>\r\nNow, dear reader, you must swear,<BR>\r\nWhen you take these rhymes and share,<BR>\r\nTo ever credit Hennabear,<BR>\r\nFor if you don't—he'll come! Beware!<BR>\r\n<BR>"
+data:
+  weight: 2.0
+  value: 30
+  book_type: Book
+  skill: None
+  enchantment: 20

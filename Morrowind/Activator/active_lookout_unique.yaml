@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: active_lookout_unique
+name: ''
+script: lookoutScript
+mesh: f\Furn_Ashl_Chime_01.NIF

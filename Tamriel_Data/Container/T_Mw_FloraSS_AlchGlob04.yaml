@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Mw_FloraSS_AlchGlob04
+name: Alchemist's Globe
+script: ''
+mesh: tr\o\tr_f_ss_alchglobe_04.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 2
+  - T_Mw_Random_FlorAlchemistsGlobe

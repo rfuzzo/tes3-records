@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: com_hutch_01_wood_bowls
+name: Hutch
+script: ''
+mesh: o\Contain_Com_Hutch_01.NIF
+encumbrance: 75.0
+container_flags: IS_BASE
+inventory:
+- - 4
+  - misc_com_wood_bowl_02
+- - 1
+  - Misc_Com_Wood_Bowl_01

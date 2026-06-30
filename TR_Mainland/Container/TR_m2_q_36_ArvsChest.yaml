@@ -1,0 +1,23 @@
+type: Container
+flags: ''
+id: TR_m2_q_36_ArvsChest
+name: Arvs Rethrathi's Chest
+script: TR_m2_q_36_ArvsChestScript
+mesh: o\Contain_chest_small_01.NIF
+encumbrance: 25.0
+container_flags: IS_BASE
+inventory:
+- - 90
+  - Gold_001
+- - 1
+  - T_IngMine_Amethyst_01
+- - 1
+  - ingred_pearl_01
+- - 1
+  - misc_dwrv_bowl00
+- - 1
+  - misc_imp_silverware_cup
+- - 1
+  - ring of ice storm
+- - 3
+  - silver throwing star

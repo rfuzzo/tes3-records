@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Bellman_36
+name: KNIGHTS RECOVER LOST ARTIFACTS
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_note_oe_news.nif
+icon: tr\m\tr_note_oe_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\TR_bellman_512_256.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nKNIGHTS RECOVER LOST ARTIFACTS<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nThe Imperial Legion reports coming back into possession of priceless treasures shamelessly stolen from the Imperial Commission in Ebonheart-on-Vvardenfell. The Lord's Mail, a legendary cuirass long guarded by the Imperial Legion, was taken by a disgraced former legionary who abused his knowledge of the castle to betray his once-comrades. The thief resisted arrest and had to be put down by Imperial Legion knights. Chrysamere, also known as the Paladin's Blade, was taken by another traitorous knight and had since come into the possession of the illegal sorceress Draramu Hloran. The sorceress reportedly used the blade to terrorize the inhabitants of Sadrith Mora, who presumably feel great relief at the apprehension of the outlaw.<br><br>\r\n\r\nLord General Caecalia Victrix of the Imperial Legion in Morrowind is jubilant: \"With these decisive strikes, the Knights of the Imperial Legion demonstrated the cunning and ruthlessness that all traitors to the Imperial cause will have to reckon with. The Legion has once again reaffirmed the might of the Emperor Uriel Septim VII, long may he reign!\" Glory to the Emperor!<br><br>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

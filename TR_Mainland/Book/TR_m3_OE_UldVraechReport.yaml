@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_OE_UldVraechReport
+name: Report from Uld Vraech
+script: ''
+mesh: m\Text_paper_roll_01.nif
+icon: m\Tx_paper_roll_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nMadam Minister! <br> <BR>\r\nTensions between the Nords and the Dark Elves are rising due to recent events in the accursed region of Uld Vraech. <br> <br> A Redoran patrolman has gone missing north of Hjolfrstad. The Dunmer are blaming the Nords of Askareth village of this: they suspect that the lost patrolman has been taken prisoner by the Nords and is kept somewhere in the village. Naturally, the locals deny these accusations. <br> <br>\r\nIn the Nord town of Dunkreath there are whispers of secret pleas of assistance being sent to certain political factions in Skyrim. The assistance would be military in nature. Our eyes and ears at Dunmereth Pass, however, haven't reported any irregularities. <BR>\r\n<BR>\r\nEven though an armed conflict is still unlikely, it might be wise to consult with the Lord General about the possibility of detaching a regiment of Legion soldiers to keep the Emperor's peace. <br>\r\n<BR>\r\nSigned, <br>\r\nLucus Valdor <br>\r\nAgent of the Provincial Government <br>"
+data:
+  weight: 0.2
+  value: 25
+  book_type: Scroll
+  skill: None
+  enchantment: 100

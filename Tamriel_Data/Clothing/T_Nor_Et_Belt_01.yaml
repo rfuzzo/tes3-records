@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Nor_Et_Belt_01
+name: Extravagant Belt
+script: ''
+mesh: sky\c\Sky_c_belt_extr_01.nif
+icon: sky\c\tx_c_belt_extr_01.dds
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Belt
+  weight: 1.0
+  value: 40
+  enchantment: 200

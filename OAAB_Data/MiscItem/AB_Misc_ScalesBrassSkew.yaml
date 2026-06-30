@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_ScalesBrassSkew
+name: Brass Scales
+script: ''
+mesh: OAAB\m\scalesBrassSkew.nif
+icon: OAAB\m\scalesBrassSkew.dds
+data:
+  weight: 3.0
+  value: 25
+  flags: ''

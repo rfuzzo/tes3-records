@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: misc_dwrv_bowl00
+name: Ornate Dwemer Bowl
+script: ''
+mesh: m\misc_dwrv_bowl00.nif
+icon: m\misc_dwrv_bowl00.tga
+data:
+  weight: 3.0
+  value: 10
+  flags: ''

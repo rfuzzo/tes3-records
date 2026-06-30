@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_ImpStaff
+name: Imperial Staff
+script: ''
+mesh: OAAB\w\imperial_staff.nif
+icon: OAAB\w\imperial_staff.dds
+enchanting: ''
+data:
+  weight: 8.0
+  value: 40
+  weapon_type: BluntTwoWide
+  health: 280
+  speed: 1.75
+  reach: 1.8
+  enchantment: 85
+  chop_min: 4
+  chop_max: 5
+  slash_min: 4
+  slash_max: 5
+  thrust_min: 3
+  thrust_max: 4
+  flags: ''

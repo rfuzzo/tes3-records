@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Nor_WoodenFork_02b
+name: Wooden Fork
+script: ''
+mesh: Sky\m\Sky_Misc_W_Frk_02_02.nif
+icon: Sky\m\Tx_Misc_W_Frk_02_02.dds
+data:
+  weight: 0.5
+  value: 1
+  flags: ''

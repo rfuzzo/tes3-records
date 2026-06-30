@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_HH_Dren_q_Vedam2
+name: Letter to Vedam Dren
+script: TR_m7_HH_Dren_q_Vedam2SC
+mesh: m\Text_paper_roll_01.nif
+icon: m\Tx_paper_roll_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"Left\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nTo Vedam Dren,<BR>\r\n<BR>\r\nOrvas died on your watch. You are the most powerful man on that backwater island, and yet you couldn't ensure the safety of your only close relative? I can hardly believe that. This mess is all your fault! You should have made more compromises. You should have at least talked to him! Only one of my sons is dead, but now I feel as if I have no sons left.<BR>\r\n<BR>\r\nReleniah Dren<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

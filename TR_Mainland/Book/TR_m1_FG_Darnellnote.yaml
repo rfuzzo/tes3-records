@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_FG_Darnellnote
+name: Darnell's "Letter of Arrest"
+script: ''
+mesh: m\Text_Parchment_01.NIF
+icon: m\Tx_parchment_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nTO THE IMPERIAL CITIZEN KNOWN AS \"SALIRAZ\"<BR>\r\n<BR>\r\nYou are hereby ordered to cease and desist in your harassment of Mist-Eyes and to vacate Firewatch as early as you are able.<BR>\r\n<BR>\r\nFailure to comply will result in your arrest, and you will need to serve a sentence of hard labor for an indefinite period of time pending further investigation.<BR>\r\nJudiciously,<BR>\r\n<BR>\r\nChampion Darnell of the Dustmoth Legion Garrison<BR>\r\n<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

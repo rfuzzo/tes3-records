@@ -1,0 +1,11 @@
+type: MiscItem
+flags: BLOCKED
+id: T_Com_ShellOyster_02c
+name: Oyster Shell
+script: ''
+mesh: pi\m\pi_m_shelloyster2c.nif
+icon: pi\m\pi_m_shelloyster2c.dds
+data:
+  weight: 0.1
+  value: 2
+  flags: ''

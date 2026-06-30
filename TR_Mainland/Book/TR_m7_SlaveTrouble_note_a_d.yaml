@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: TR_m7_SlaveTrouble_note_a_d
+name: Letter to Who Set Me Free
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "To the %PCRace who set me free,<p>\r\n\r\nMaybe you didn't notice my plan. I left this note on Gweiwen's corpse to explain my actions. With my dagger gone, I had to use other means to kill her. It wasn't easy, slowly strangling her. I just wanted to reach Argonia and settle there without always looking over my shoulder.<p>\r\n\r\nI didn't take anything from Gweiwen. It's all yours if you want it.\r\n\r\nLong-Are-Days<p>"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

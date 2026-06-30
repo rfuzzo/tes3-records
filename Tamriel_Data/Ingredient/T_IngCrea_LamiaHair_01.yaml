@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_LamiaHair_01
+name: Lamia Hair
+script: ''
+mesh: pc\n\pc_ing_lamiahair.nif
+icon: pc\n\pc_tx_ingred_lamiah.dds
+data:
+  weight: 0.1
+  value: 40
+  effects:
+  - SwiftSwim
+  - DrainAttribute
+  - DetectEnchantment
+  - WaterBreathing
+  skills:
+  - None
+  - Block
+  - None
+  - None
+  attributes:
+  - None
+  - Strength
+  - None
+  - None

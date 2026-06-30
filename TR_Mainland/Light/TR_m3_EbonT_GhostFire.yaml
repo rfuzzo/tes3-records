@@ -1,0 +1,19 @@
+type: Light
+flags: PERSISTENT
+id: TR_m3_EbonT_GhostFire
+name: ''
+script: TR_m3_EbonT_GhostFireSCP
+mesh: l\Light_Fire.NIF
+icon: ''
+sound: T_SndObj_LargeFire
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 512
+  color:
+  - 156
+  - 24
+  - 1
+  - 0
+  flags: DYNAMIC | FLICKER_SLOW

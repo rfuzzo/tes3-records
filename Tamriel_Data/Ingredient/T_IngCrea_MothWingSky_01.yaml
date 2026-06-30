@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_MothWingSky_01
+name: Umber Moth Wing
+script: ''
+mesh: sky\n\sky_ing_mothwing_01.nif
+icon: sky\n\sky_ing_mothwing_01.dds
+data:
+  weight: 0.1
+  value: 5
+  effects:
+  - DrainFatigue
+  - FortifyAttribute
+  - RestoreAttribute
+  - None
+  skills:
+  - Block
+  - Block
+  - Block
+  - None
+  attributes:
+  - Agility
+  - Strength
+  - Strength
+  - None

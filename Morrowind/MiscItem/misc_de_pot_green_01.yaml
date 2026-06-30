@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: misc_de_pot_green_01
+name: Green Pot
+script: ''
+mesh: m\Misc_pot_green_01.NIF
+icon: m\Tx_pot_green_01.tga
+data:
+  weight: 2.5
+  value: 2
+  flags: ''

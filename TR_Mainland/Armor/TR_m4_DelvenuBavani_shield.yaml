@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: TR_m4_DelvenuBavani_shield
+name: Delvenu Bavani's Shield
+script: ''
+mesh: tr\a\tr_a_kagouti_shield.nif
+icon: tr\a\tr_a_kagouti_shield.dds
+enchanting: TR_m4_DelvenuBavani_shield_en
+biped_objects:
+- biped_object_type: Shield
+  male_bodypart: T_A_DeKagoutiHideShield_01_S
+  female_bodypart: ''
+data:
+  armor_type: Shield
+  weight: 6.0
+  value: 800
+  health: 400
+  enchantment: 330
+  armor_rating: 25

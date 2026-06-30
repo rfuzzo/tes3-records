@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: contain_corpse_thief2
+name: Corpse
+script: Sound_Flies
+mesh: o\contain_corpse20.NIF
+encumbrance: 120.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - silver shortsword
+- - 1
+  - ingred_bonemeal_01
+- - 1
+  - sc_frosselnote
+- - 1
+  - pick_journeyman_01
+- - 1
+  - probe_journeyman_01

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Cr_Goblin_Axe_01
+name: Goblin Axe
+script: ''
+mesh: pc\w\PC_W_Goblin_Axe.nif
+icon: pc\w\pc_w_gob_axe_01.dds
+enchanting: ''
+data:
+  weight: 1.0
+  value: 1
+  weapon_type: AxeOneHand
+  health: 100
+  speed: 1.35
+  reach: 1.0
+  enchantment: 100
+  chop_min: 1
+  chop_max: 5
+  slash_min: 1
+  slash_max: 5
+  thrust_min: 1
+  thrust_max: 5
+  flags: ''

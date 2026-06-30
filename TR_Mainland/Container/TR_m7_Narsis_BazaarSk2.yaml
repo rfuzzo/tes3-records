@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: TR_m7_Narsis_BazaarSk2
+name: Cloth Sack
+script: ''
+mesh: o\Contain_Com_Sack_02.NIF
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_IngSpice_Cardamon_01
+- - 1
+  - T_IngSpice_Hibiscus_01
+- - 3
+  - T_IngSpice_Saffron_01

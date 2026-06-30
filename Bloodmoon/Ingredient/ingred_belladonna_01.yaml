@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_belladonna_01
+name: Ripened Belladonna Berries
+script: ''
+mesh: n\Ingred_BM_belladonna_01.NIF
+icon: n\Tx_ingred_belladonna_01.dds
+data:
+  weight: 0.1
+  value: 5
+  effects:
+  - ResistMagicka
+  - RestoreMagicka
+  - FortifyMagicka
+  - DrainMagicka
+  skills:
+  - Block
+  - None
+  - Block
+  - None
+  attributes:
+  - Intelligence
+  - None
+  - Endurance
+  - None

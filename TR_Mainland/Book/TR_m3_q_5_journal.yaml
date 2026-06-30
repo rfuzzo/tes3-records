@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_q_5_journal
+name: Island Lookout's Journal
+script: TR_m3_q_5_journal_script
+mesh: TR\m\TR_book_closed02_STH.nif
+icon: TR\m\TR_GW_book_closed_02.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[You skim through a thick journal filled with fiery rants about daily life on Gorne. The most recent entry catches your eye.]\r\n<BR>\r\nBy ALMSIVI, the flowers. I've lived here thirty years that should have been three, a misfortune made even worse by Bariel and her wretched flowers.\r\n<BR>\r\nIn the town square she planted a gruesome orgy of purple, yellow, and blue, its odor like something dead and fermenting. Thanks to Madalin's snooty pet Bosmer, the town is now a flower garden, its foul smell blanketing the island and lingering in the windless air. I need to get away. Soon. If I don't, I might ensure Bariel never grows another blossom.\r\n<BR>\r\nMerchants who come here usually stay one day and one night, then leave. They remark how peaceful it is here, how restful and calm, how refreshing it must be to live without the pressure and strife of the mainland. They feel rejuvenated after spending the night. I want to scream at them: Are you blind? Do you not see that this island is a floating bouquet of tranquil madness?\r\n<BR>\r\nYesterday, another foreign hawker visited, dumb, loud, and barbaric. She was very easy to bargain with, selling potions for a fraction of their worth. So far in my pearl diving, I've kept to shallow waters, but with these potions, I'll crack open the deepest and oldest kollops without difficulty.\r\n<BR>\r\nTomorrow, I will dive for freedom. Very soon, I'll have enough drakes to quit this post and return to the mainland. Hopefully a place with no flowers.\r\n<BR>"
+data:
+  weight: 1.5
+  value: 2
+  book_type: Book
+  skill: None
+  enchantment: 0

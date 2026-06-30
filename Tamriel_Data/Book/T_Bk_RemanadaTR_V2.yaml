@@ -1,0 +1,21 @@
+type: Book
+flags: ''
+id: T_Bk_RemanadaTR_V2
+name: Remanada, Chapter 2
+script: ''
+mesh: m\Text_Octavo_07.nif
+icon: m\Tx_book_01.tga
+enchanting: ''
+text: |-
+  <DIV ALIGN="CENTER"><FONT COLOR="000000" SIZE="3" FACE="Magic Cards"><BR>Remanada, Chapter 2: The Chevalier Renald, Blade of the Pig<BR>
+
+  <DIV ALIGN="LEFT"><BR>And in the days of interregnum, the Chim-el Adabal was lost again amid the petty wars of gone-heathen kings. West and east knew no union then and all the lands outside of them saw Cyrodiil as a nest of snakemen and snakes. And for four more hundreds of years did the seat of Reman stay sundered, with only the machinations of a group of loyal knights keeping all its borders from throwing wide.<BR>
+  <BR>These loyal knights did go by no name then, but were known by their eastern swords and painted eyes, and it was whispered that they were descended from the bodyguard of old Reman. One of their number, called the Chevalier Renald, discovered the prowess of Cuhlecain and then supported him towards the throne. Only later would it be revealed that Renald did this thing to come closer to Talos, anon Stormcrown, the glorious yet-emperor Tiber Septim; only later still, that he was under instruction by a pig.<BR>
+  <BR>Long glory was wife to the all the knights of the dragon-banner, who knew no other and were brothers before beyond many seas and now were brothers under the law named the blade-surrender of Pale Pass. And having vampire blood these brother-knights lived for ages through and past Reman and then kept guard over his ward, the coiled king, Versidue-Shaie. The snake-captain Vershu became Renald became the protector of the northern west when the black dart was hooked into Savirien-Chorak.<BR>
+  <BR>[Here torn pages indicate that the rest of this ancient book has been lost.]<BR>
+data:
+  weight: 2.0
+  value: 20
+  book_type: Book
+  skill: None
+  enchantment: 0

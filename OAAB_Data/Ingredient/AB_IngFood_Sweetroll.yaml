@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: AB_IngFood_Sweetroll
+name: Sweetroll
+script: ''
+mesh: OAAB\n\food_sweet_roll_01.nif
+icon: OAAB\n\food_sweet_roll.dds
+data:
+  weight: 0.3
+  value: 5
+  effects:
+  - RestoreFatigue
+  - RestoreHealth
+  - DamageMagicka
+  - DrainAttribute
+  skills:
+  - None
+  - None
+  - None
+  - Block
+  attributes:
+  - None
+  - None
+  - None
+  - Speed

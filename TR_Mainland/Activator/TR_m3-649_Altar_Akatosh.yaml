@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3-649_Altar_Akatosh
+name: Altar of Akatosh
+script: TR_m3-649_AkatoshScript
+mesh: x\ex_imp_mooring_01.nif

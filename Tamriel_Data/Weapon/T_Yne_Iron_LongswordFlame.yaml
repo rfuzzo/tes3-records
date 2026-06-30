@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Yne_Iron_LongswordFlame
+name: Ynesai Iron Flamesword
+script: ''
+mesh: pi\w\pi_w_yiron_lngsword.nif
+icon: pi\w\pi_w_yiron_lngsword.dds
+enchanting: flame_enu
+data:
+  weight: 20.0
+  value: 61
+  weapon_type: LongBladeOneHand
+  health: 800
+  speed: 1.35
+  reach: 1.0
+  enchantment: 60
+  chop_min: 3
+  chop_max: 17
+  slash_min: 3
+  slash_max: 16
+  thrust_min: 2
+  thrust_max: 13
+  flags: ''

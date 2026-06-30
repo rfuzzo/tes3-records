@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Dwe_Coil_01
+name: Dwemer Coil
+script: ''
+mesh: tr\m\tr_misc_dwrv_coil00.nif
+icon: tr\m\tr_misc_dwrv_coil00.dds
+data:
+  weight: 1.0
+  value: 70
+  flags: ''

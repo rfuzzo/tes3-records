@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Nor_Set_SignShopGeneral_01
+name: General Goods
+script: T_ScObj_WeatherAnimSHOTN
+mesh: Sky\f\Sky_Act_Sign_Goods_01.nif

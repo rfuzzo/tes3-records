@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: hortatorbelt
+name: Belt of the Hortator
+script: ''
+mesh: c\C_belt_Exquisite_1.NIF
+icon: c\tx_belt_exquisite01.tga
+enchanting: hortatorbelt_uniq
+biped_objects: []
+data:
+  clothing_type: Belt
+  weight: 1.0
+  value: 1460
+  enchantment: 400

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_De_UNI_AlmaRulaGavel
+name: Gavel of the Alma Rula
+script: ''
+mesh: pc\w\pc_w_ebon_whammer.nif
+icon: pc\w\pc_w_ebon_whammer.dds
+enchanting: T_Const_AlmaRulaGavel
+data:
+  weight: 75.0
+  value: 80000
+  weapon_type: BluntTwoClose
+  health: 6500
+  speed: 1.0
+  reach: 1.5
+  enchantment: 0
+  chop_min: 1
+  chop_max: 80
+  slash_min: 1
+  slash_max: 70
+  thrust_min: 1
+  thrust_max: 5
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

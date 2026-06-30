@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_i2_445_ghostfx_2
+name: ''
+script: TR_m2_445_sc_ghostfx
+mesh: tr\f\TR_act_nec_uc_ghofx_2.nif

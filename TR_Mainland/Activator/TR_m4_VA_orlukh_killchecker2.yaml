@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m4_VA_orlukh_killchecker2
+name: orlukh killchecker
+script: TR_m4_orlukh_killcheck_scr
+mesh: EditorMarker.NIF

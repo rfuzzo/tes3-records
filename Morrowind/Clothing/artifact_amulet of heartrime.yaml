@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: artifact_amulet of heartrime
+name: Amulet of Heartrime
+script: ''
+mesh: c\Artifact_amulet_htrime_01.NIF
+icon: c\Tx_amulet_hrime_01.tga
+enchanting: ward of endus
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 5.0
+  value: 20000
+  enchantment: 600

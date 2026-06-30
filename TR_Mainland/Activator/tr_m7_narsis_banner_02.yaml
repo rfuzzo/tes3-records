@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: tr_m7_narsis_banner_02
+name: 'Geniette Winvale: Alchemist'
+script: OutsideBanner
+mesh: f\Furn_bannerD_alchemy_01.nif

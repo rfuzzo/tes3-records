@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_Paintpot_01
+name: Empty Paint Pot
+script: ''
+mesh: pc\m\pc_misc_p_pot.nif
+icon: pc\m\pc_misc_p_pot.dds
+data:
+  weight: 1.0
+  value: 1
+  flags: ''

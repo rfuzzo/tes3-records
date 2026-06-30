@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: AB_light_EnchOgrimOilLamp_200
+name: Grim Lamp
+script: AB_OgrimOilLamp_s
+mesh: OAAB\l\ogrimOilLamp.nif
+icon: OAAB\l\ogrimOilLamp.tga
+sound: ''
+data:
+  weight: 8.0
+  value: 35
+  time: 500
+  radius: 200
+  color:
+  - 134
+  - 177
+  - 52
+  - 0
+  flags: DYNAMIC | CAN_CARRY | FIRE | FLICKER_SLOW

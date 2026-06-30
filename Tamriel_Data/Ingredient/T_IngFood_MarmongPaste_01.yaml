@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_MarmongPaste_01
+name: Marmong Paste
+script: ''
+mesh: pi\n\pi_ing_marmongpaste.nif
+icon: pi\n\pi_ing_marmongpaste.dds
+data:
+  weight: 1.0
+  value: 4
+  effects:
+  - RestoreFatigue
+  - FortifyAttribute
+  - None
+  - None
+  skills:
+  - None
+  - Block
+  - None
+  - None
+  attributes:
+  - None
+  - Intelligence
+  - None
+  - None

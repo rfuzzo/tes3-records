@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: TR_m2_q_21_ChestFunds
+name: Caedan's Fortified Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 0.0
+container_flags: IS_BASE
+inventory: []

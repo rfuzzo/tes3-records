@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Com_SetSky_SignWayBeorinh_01
+name: Beorinhal
+script: ''
+mesh: sky\x\sky_act_rsign_beori1.nif

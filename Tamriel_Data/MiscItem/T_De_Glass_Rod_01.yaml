@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_Glass_Rod_01
+name: Glass Rod
+script: ''
+mesh: tr\m\tr_m_glass_rod.nif
+icon: tr\m\tr_m_glass_rod.dds
+data:
+  weight: 1.5
+  value: 1000
+  flags: ''

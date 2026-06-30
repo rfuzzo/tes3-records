@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_ectoplasm_01
+name: Ectoplasm
+script: ''
+mesh: n\Ingred_Ectoplasm_01.nif
+icon: n\Tx_ectoplasm_01.tga
+data:
+  weight: 0.1
+  value: 10
+  effects:
+  - FortifyAttribute
+  - DetectAnimal
+  - DrainAttribute
+  - DrainHealth
+  skills:
+  - Block
+  - Block
+  - Block
+  - Block
+  attributes:
+  - Agility
+  - Strength
+  - Strength
+  - Strength

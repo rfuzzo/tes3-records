@@ -1,0 +1,25 @@
+type: Container
+flags: ''
+id: TR_m4_RR_VCave_4_Cs_01
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_EnSc_Com_SpringTailLeap
+- - 30
+  - chitin throwing star
+- - 50
+  - corkbulb arrow
+- - 10
+  - flame arrow
+- - 20
+  - iron arrow
+- - 10
+  - iron throwing knife
+- - 2
+  - sc_almsiviintervention
+- - 1
+  - sc_daydenespanacea

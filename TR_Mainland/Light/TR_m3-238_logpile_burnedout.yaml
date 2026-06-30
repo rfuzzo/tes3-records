@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: TR_m3-238_logpile_burnedout
+name: ''
+script: ''
+mesh: l\Light_logpile_burnedout.NIF
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 16
+  color:
+  - 0
+  - 0
+  - 0
+  - 0
+  flags: ''

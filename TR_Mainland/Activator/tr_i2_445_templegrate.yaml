@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: tr_i2_445_templegrate
+name: ''
+script: TR_m2_445_sc_templegrate
+mesh: tr\i\tr_in_nec_templegrate.nif

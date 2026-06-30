@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m3_q_OE_Urien_sword_01
+name: Broken Poralia Family Sword
+script: ''
+mesh: TR\m\TR_misc_imp_ssword_brk.NIF
+icon: TR\m\TR_misc_imp_ssword_brk.dds
+data:
+  weight: 5.0
+  value: 1
+  flags: ''

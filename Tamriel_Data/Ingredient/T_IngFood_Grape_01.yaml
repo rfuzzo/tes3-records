@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_Grape_01
+name: Colovian Grapes
+script: ''
+mesh: pc\n\PC_Ingred_Grape_01.nif
+icon: pc\n\pc_tx_ingred_grape_01.dds
+data:
+  weight: 0.1
+  value: 3
+  effects:
+  - RestoreFatigue
+  - DamageAttribute
+  - ResistShock
+  - RestoreAttribute
+  skills:
+  - None
+  - Block
+  - None
+  - Block
+  attributes:
+  - None
+  - Willpower
+  - None
+  - Luck

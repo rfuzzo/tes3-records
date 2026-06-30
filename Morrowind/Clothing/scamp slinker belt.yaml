@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: scamp slinker belt
+name: Scamp Slinker Belt
+script: ''
+mesh: c\C_belt_Common_2.NIF
+icon: c\tx_belt_common02.tga
+enchanting: summon scamp_en
+biped_objects: []
+data:
+  clothing_type: Belt
+  weight: 1.0
+  value: 270
+  enchantment: 10

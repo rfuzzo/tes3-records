@@ -1,0 +1,25 @@
+type: Container
+flags: ''
+id: contain_corpse_Nord
+name: Corpse
+script: ''
+mesh: o\contain_corpse10.NIF
+encumbrance: 120.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - iron shardaxe
+- - 1
+  - common_shirt_03_c
+- - 1
+  - common_pants_03_c
+- - 1
+  - fur_bracer_right
+- - 1
+  - fur_bracer_left
+- - 1
+  - fur_boots
+- - 1
+  - nordic_ringmail_cuirass
+- - 1
+  - ingred_bonemeal_01

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_BoneSkelTorso
+name: Torso
+script: ''
+mesh: OAAB\m\skelTorso.nif
+icon: OAAB\m\skelTorso.tga
+data:
+  weight: 3.0
+  value: 1
+  flags: ''

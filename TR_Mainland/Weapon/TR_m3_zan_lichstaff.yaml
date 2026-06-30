@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m3_zan_lichstaff
+name: Alchurnod
+script: ''
+mesh: w\W_wooden_staff.nif
+icon: w\Tx_wooden_staff.tga
+enchanting: TR_m3_zan_lichstaff_en
+data:
+  weight: 10.0
+  value: 1250
+  weapon_type: BluntTwoWide
+  health: 300
+  speed: 1.75
+  reach: 1.8
+  enchantment: 245
+  chop_min: 5
+  chop_max: 15
+  slash_min: 6
+  slash_max: 15
+  thrust_min: 5
+  thrust_max: 13
+  flags: ''

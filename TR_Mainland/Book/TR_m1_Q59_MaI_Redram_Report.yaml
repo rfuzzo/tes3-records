@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: TR_m1_Q59_MaI_Redram_Report
+name: Redram Oran's Report
+script: TR_m1_Q59_MaI_Script_2
+mesh: m\Text_Parchment_01.NIF
+icon: m\Tx_parchment_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This is a hand written report detailing the activities occurring at the Odrethi Manor.  It is signed R. Oran]<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

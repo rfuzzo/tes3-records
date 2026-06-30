@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4-114_ChartersRecord_01
+name: Charters Record
+script: ''
+mesh: tr\m\tr_book_tomebk_o_02.nif
+icon: tr\m\tr_book_open_tome02.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This heavy volume details proclamations and resolutions made by the Bal Foyen Council over the preceding century.]<BR>"
+data:
+  weight: 8.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 0

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: active_port_falas
+name: Falasmaryon Propylon
+script: Warp_Falas
+mesh: i\active_port_Falag.NIF

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_EmbalmingPaste_01
+name: Embalming Paste
+script: ''
+mesh: sky\n\sky_ingred_embalm.nif
+icon: sky\n\tx_ingred_embalm.dds
+data:
+  weight: 1.0
+  value: 50
+  effects:
+  - DamageFatigue
+  - ResistCommonDisease
+  - FortifySkill
+  - SpellAbsorption
+  skills:
+  - None
+  - None
+  - Conjuration
+  - Block
+  attributes:
+  - None
+  - None
+  - Strength
+  - Personality

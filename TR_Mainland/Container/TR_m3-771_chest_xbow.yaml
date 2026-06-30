@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m3-771_chest_xbow
+name: Wooden Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - TR_m3-771_w_arbalest

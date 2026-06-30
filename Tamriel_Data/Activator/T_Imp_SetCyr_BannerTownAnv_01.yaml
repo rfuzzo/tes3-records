@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_SetCyr_BannerTownAnv_01
+name: ''
+script: OutsideBanner
+mesh: pc\f\pc_furn_anv_flag.nif

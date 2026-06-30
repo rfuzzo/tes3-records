@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_shrine_m2-69_sharmat
+name: Shrine of the Sharmat's Debt
+script: TR_m2_necshrinesharmat
+mesh: f\Furn_shrine_vivec_01.NIF

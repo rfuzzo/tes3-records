@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_Ns_TheaterNail
+name: ''
+script: TR_m7_Ns_StageFright_ScSceneObj
+mesh: tr\f\tr_furn_com_nail.nif

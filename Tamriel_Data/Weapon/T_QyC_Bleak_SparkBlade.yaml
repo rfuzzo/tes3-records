@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_QyC_Bleak_SparkBlade
+name: Bleak Sparkblade
+script: ''
+mesh: pi\w\pi_w_chitin_dagger.nif
+icon: pi\w\pi_w_chitin_dagger.dds
+enchanting: T_Strike_BleakSpark
+data:
+  weight: 1.5
+  value: 8
+  weapon_type: ShortBladeOneHand
+  health: 380
+  speed: 2.0
+  reach: 1.0
+  enchantment: 10
+  chop_min: 3
+  chop_max: 3
+  slash_min: 3
+  slash_max: 3
+  thrust_min: 4
+  thrust_max: 4
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

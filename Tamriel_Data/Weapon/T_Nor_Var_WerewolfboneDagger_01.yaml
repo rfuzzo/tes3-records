@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Nor_Var_WerewolfboneDagger_01
+name: Sacrificial Dagger
+script: ''
+mesh: TR\w\TR_w_sacr_dagger.NIF
+icon: TR\w\tr_w_sac_dagg_vr.tga
+enchanting: ''
+data:
+  weight: 3.0
+  value: 55
+  weapon_type: ShortBladeOneHand
+  health: 400
+  speed: 2.0
+  reach: 1.0
+  enchantment: 80
+  chop_min: 3
+  chop_max: 7
+  slash_min: 2
+  slash_max: 3
+  thrust_min: 5
+  thrust_max: 9
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE | SILVER

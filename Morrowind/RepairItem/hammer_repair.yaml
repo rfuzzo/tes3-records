@@ -1,0 +1,12 @@
+type: RepairItem
+flags: ''
+id: hammer_repair
+name: Apprentice's Armorer's Hammer
+script: ''
+mesh: m\misc_hammer10.nif
+icon: m\Tx_repair_A_01.tga
+data:
+  weight: 4.0
+  value: 10
+  uses: 20
+  quality: 0.8

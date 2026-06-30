@@ -1,0 +1,28 @@
+type: Alchemy
+flags: ''
+id: TR_i3-726-Imp_p_ether
+name: Potion of Ether
+script: ''
+mesh: m\Misc_Potion_Exclusive_01.nif
+icon: m\Tx_potion_exclusive_01.tga
+effects:
+- magic_effect: Sanctuary
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 30
+  min_magnitude: 50
+  max_magnitude: 50
+- magic_effect: Chameleon
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 30
+  min_magnitude: 50
+  max_magnitude: 50
+data:
+  weight: 0.25
+  value: 600
+  flags: ''

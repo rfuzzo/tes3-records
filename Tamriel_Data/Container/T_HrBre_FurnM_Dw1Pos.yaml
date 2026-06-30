@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_HrBre_FurnM_Dw1Pos
+name: Drawers
+script: ''
+mesh: hr\o\hr_furn_bre_m_drawer01.nif
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - 5
+  - T_Hr_Random_Pos

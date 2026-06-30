@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: TR_m3_Kha_3_Cupboard
+name: Hutch
+script: ''
+mesh: tr\o\tr_furn_de_rm_drawers.nif
+encumbrance: 0.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - Potion_Local_Brew_01
+- - 1
+  - T_De_Drink_LiquorLlotham_01
+- - 3
+  - random_de_blueware_01
+- - 2
+  - random_de_pos_01

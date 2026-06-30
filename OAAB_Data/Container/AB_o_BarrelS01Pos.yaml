@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: AB_o_BarrelS01Pos
+name: Barrel
+script: ''
+mesh: OAAB\o\barrel_s01.nif
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 7
+  - AB_lvl_Gold001
+- - 1
+  - AB_lvl_LootSpecial
+- - 2
+  - AB_lvl_PosCheapSmall
+- - 20
+  - random_loot_special_marksman

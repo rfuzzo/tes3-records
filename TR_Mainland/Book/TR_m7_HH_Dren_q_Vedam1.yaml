@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_HH_Dren_q_Vedam1
+name: Letter to Vedam Dren
+script: TR_m7_HH_Dren_q_Vedam1SC
+mesh: m\Text_paper_roll_01.nif
+icon: m\Tx_paper_roll_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"Left\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nMy dear son, Vedam!<BR>\r\n<BR>\r\nI hope you are doing well. I am writing to you with an important request. Both as your mother and as your ally in the Great House Hlaalu, I am asking you to end your petty conflict with your brother, Orvas. I know you two have been discordant ever since the passing of your Lord Father, but you must know better than anyone else that now, like never before, our family should stand united against all threats, foreign and internal alike. And it is my belief that your brother can aid us in that. You have always been the more thoughtful and peace-loving of my two sons, so I beg of you to stop treating your blood brother like an enemy and start treating him like a powerful ally and friend that you know he can become.<BR>\r\n<BR>\r\nYour loving mother, Releniah<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

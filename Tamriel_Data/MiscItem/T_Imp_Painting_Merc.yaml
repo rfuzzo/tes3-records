@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_Painting_Merc
+name: The Mercenary's Payment
+script: ''
+mesh: pc\m\PC_M_Painting_Merc.nif
+icon: pc\m\PC_M_Painting_Merc.dds
+data:
+  weight: 6.0
+  value: 430
+  flags: ''

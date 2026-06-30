@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m4_w_UvaynBlade_Uni
+name: Olmas Uvayn's Frostblade
+script: ''
+mesh: w\w_shortsword_ebony.nif
+icon: w\tx_shortsword_ebony.dds
+enchanting: dire frost_en
+data:
+  weight: 16.0
+  value: 10000
+  weapon_type: ShortBladeOneHand
+  health: 1200
+  speed: 2.0
+  reach: 1.0
+  enchantment: 80
+  chop_min: 10
+  chop_max: 20
+  slash_min: 10
+  slash_max: 22
+  thrust_min: 15
+  thrust_max: 25
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

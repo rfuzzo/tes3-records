@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: TR_m1_EECnote_i1-13
+name: Letter to Old Ebonheart
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<BR>\r\nTo Deputies of Eastern Empire Company in Ebonheart\r\n<BR>\r\nIt must come to your attention immediately that the formerly profitable diamond shafts have collapsed in Veramus Mine. That Telvanni Councilor was apparently correct in his assumption that the area was unstable and the strong wooden pilings we had imported from Solstheim were not enough. There was a small collapse in one of the side chambers, and water quickly flooded all of the new shafts. The onrush prevented escape, and several Dunmer miners and Imperial soldiers were lost in the torrent. It will prove impossible to continue mining, so I am asking for 20,000 Septims for recovery costs, to get the mine working back at full efficiency. \r\n<BR>\r\nFabius Varian,\r\nEastern Empire Company Fixer\r\n<BR>\r\n<BR>\r\n\r\n"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

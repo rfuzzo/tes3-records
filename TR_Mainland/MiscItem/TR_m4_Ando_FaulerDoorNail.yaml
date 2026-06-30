@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m4_Ando_FaulerDoorNail
+name: Nail
+script: TR_m4_Ando_FaulerDoorNoteScript
+mesh: Sky\m\Sky_Misc_Nails_01.nif
+icon: Sky\m\Tx_Misc_Nails_01.dds
+data:
+  weight: 0.05
+  value: 0
+  flags: ''

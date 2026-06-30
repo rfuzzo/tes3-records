@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_Narsis_Hlaalu7th_Note1
+name: Note To Self
+script: ''
+mesh: tr\tr_note_pin.nif
+icon: default icon.dds
+enchanting: ''
+text: Some heirloom of the family on the wall would look good here - maybe something from the wreck of the Seyda Neen like the ship wheel or some artifact from Hlaalu Brevur
+data:
+  weight: 0.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 0

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Imp_Silver_Dagger_02
+name: Silver Dagger
+script: ''
+mesh: tr\w\tr_w_silver_dagger_02.nif
+icon: tr\w\tr_w_silver_dagger_02.dds
+enchanting: ''
+data:
+  weight: 2.5
+  value: 55
+  weapon_type: ShortBladeOneHand
+  health: 425
+  speed: 2.5
+  reach: 1.0
+  enchantment: 17
+  chop_min: 4
+  chop_max: 6
+  slash_min: 4
+  slash_max: 6
+  thrust_min: 5
+  thrust_max: 6
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE | SILVER

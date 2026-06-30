@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Com_Iron_Helm_Open
+name: Iron Helmet
+script: ''
+mesh: pc\a\pc_a_iron_helm_o.nif
+icon: pc\a\pc_a_iron_helm_o.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Hair
+  male_bodypart: T_A_ComIronHelm03_Op
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 5.0
+  value: 30
+  health: 100
+  enchantment: 25
+  armor_rating: 10

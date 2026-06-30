@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_RR_SavrethiWine
+name: Unfermented Wine
+script: TR_m4_RR_SavrethiPool_scp
+mesh: pc\i\pc_in_cpl_oct1bl_01.nif

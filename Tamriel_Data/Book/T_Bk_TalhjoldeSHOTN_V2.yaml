@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_TalhjoldeSHOTN_V2
+name: Talhjolde, Hvals Bol
+script: ''
+mesh: sky\m\Sky_Book_Basic_13.nif
+icon: sky\m\Tx_Book_Basic_13.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"500F0F\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nTalhjolde, Hvals Bol<BR><FONT COLOR=\"000000\">\r\npublished by the<BR>\r\nImperial University Press, 3E 421<BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\nIn slipping shadows the weeping Whale waits<BR>\r\nDripping dappled in dark cast by master's walls<BR>\r\nGreat guts groan with turbulent tumult<BR>\r\nFor into love the breathless beast is swept<BR>\r\n<BR>\r\nThree times she was spied along the sighing shore<BR>\r\nAutumnal in her crackling raiment, her knowing Lady Harvest [1]<BR>\r\nHer daunting husband demanding his death<BR>\r\nIf Whale would woo Lord Winter's wife.<BR>\r\n<BR>\r\nLike fighting twins of old, love and fear take over<BR>\r\nWreaking writhing anguish until Whale wishes unbalance<BR>\r\nTo tip the painful scales and find love or fear the victor<BR>\r\nBetter one and consequence than torment until the end<BR>\r\n<BR>\r\nA hoot on high and flapping feathers announce another<BR>\r\nAs scheming Snake takes roost upon the hangman's branch<BR>\r\nSeeming to Whale's wet eyes as wise as old and amiable Owl [2]<BR>\r\nSaying \"Solutions, say? Smiling Snake can save you.\"<BR>\r\n<BR>\r\n\"See this coin? A simple kiss upon your lips and thus<BR>\r\nYour pain will disappear. One side severs love,<BR>\r\nThe other fear.\" The coin hasty Whale did snatch<BR>\r\nAnd declaring \"I care not which!\" did kiss and fall down dead<BR>\r\n<BR>\r\nAs sneaky Snake shed his wings, he shook his scaly head<BR>\r\nSaying \"See how stupid are these of warm blood,<BR>\r\nWho are so eager to slip their shackled states<BR>\r\nThey could not scent a thousand poisoned coins.\" [3]<BR>\r\n<BR>\r\nFootnotes:<BR>\r\n[1] \"Knowing\", here, is a Nordic term roughly equivalent to \"cognomen\" or \"sobriquet.\"<BR>\r\n[2] Snake, the totem of Orkey, is here taking the form of Owl, the totem of an old analogue to Julianos.<BR>\r\n[3] Poisoned coins appear surprisingly often in older Nordic folktales. Possibly a king or great warrior was killed by such means.<BR>"
+data:
+  weight: 3.0
+  value: 40
+  book_type: Book
+  skill: None
+  enchantment: 0

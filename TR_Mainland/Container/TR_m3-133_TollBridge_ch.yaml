@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m3-133_TollBridge_ch
+name: Worn chest
+script: ''
+mesh: o\Contain_De_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 196
+  - Gold_001

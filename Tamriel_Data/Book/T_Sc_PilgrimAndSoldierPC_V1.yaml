@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Sc_PilgrimAndSoldierPC_V1
+name: The Pilgrim and the Soldier I
+script: ''
+mesh: m\text_scroll_01.nif
+icon: m\tx_scroll_open_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">THE PILGRIM<BR>\r\nand<BR>\r\nTHE SOLDIER<BR>\r\n<BR>\r\n*The Encounter*<BR>\r\n<BR>\r\n<DIV ALIGN=\"LEFT\">\r\nHow they met, the pilgrim and the soldier, on the road to Sancre Tor.<BR>\r\n<BR>\r\nHe, a merchant son from the Nibenay, in his humblest saffron silk.<BR>\r\nRed tattoos on his face showing market allegiance.<BR>\r\nHe left behind his ledgers and his abacus,<BR>\r\nhis lover and his fortune,<BR>\r\nto ask of holy spirits the hidden meaning of all things.<BR>\r\n<BR>\r\nShe, a veteran marked by wake of war, Colovia's red-handed daughter.<BR>\r\nCruel scars across her face showing a legionnaire's map of servitude.<BR>\r\nSmitten by strife, smiting,<BR>\r\nwith a wicked hammer at her side.<BR>\r\nCome to the hidden city, to make amends for old and evil deeds.<BR>\r\n<BR>\r\nHow they met, and shared bread and brandy,<BR>\r\nlaughing, commiserating their lot.<BR>\r\nDetermined to journey together,<BR>\r\nalong the road to Sancre Tor.<BR>\r\n<BR>\r\nBut the road to Sancre Tor is long,<BR>\r\nit is a wicked road,<BR>\r\nand it must be walked alone.<BR>"
+data:
+  weight: 0.2
+  value: 60
+  book_type: Scroll
+  skill: None
+  enchantment: 0

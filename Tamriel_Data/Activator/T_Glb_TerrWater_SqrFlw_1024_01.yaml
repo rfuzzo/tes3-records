@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Glb_TerrWater_SqrFlw_1024_01
+name: ''
+script: T_ScSound_Water
+mesh: tr\x\tr_water_sqflow1024.nif

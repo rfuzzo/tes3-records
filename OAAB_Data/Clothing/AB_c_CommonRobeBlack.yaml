@@ -1,0 +1,23 @@
+type: Clothing
+flags: ''
+id: AB_c_CommonRobeBlack
+name: Common Robe
+script: ''
+mesh: OAAB\c\robe_com_black_g.nif
+icon: OAAB\c\robe_com_black.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: AB_c_ComRobeBlack_ch
+  female_bodypart: ''
+- biped_object_type: LeftAnkle
+  male_bodypart: ''
+  female_bodypart: ''
+- biped_object_type: RightAnkle
+  male_bodypart: ''
+  female_bodypart: ''
+data:
+  clothing_type: Robe
+  weight: 3.0
+  value: 2
+  enchantment: 25

@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: AB_light_ComCandleBlckRF02_64
+name: ''
+script: ''
+mesh: OAAB\l\pc_candle_blckrfl02.nif
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 64
+  color:
+  - 255
+  - 15
+  - 2
+  - 0
+  flags: DYNAMIC | FIRE | FLICKER_SLOW

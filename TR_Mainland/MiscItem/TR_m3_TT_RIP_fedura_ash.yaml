@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m3_TT_RIP_fedura_ash
+name: Ashes of Fedura Ovav
+script: ''
+mesh: tr\m\tr_misc_urn_01.nif
+icon: tr\m\tr_misc_urn_01.dds
+data:
+  weight: 10.0
+  value: 0
+  flags: ''

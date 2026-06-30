@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_Narsis_ZenChapel_Note2
+name: Rolled Prayer
+script: ''
+mesh: m\Text_paper_roll_01.nif
+icon: m\Tx_paper_roll_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<BR>\r\nO you who brings prosperity,<BR>\r\nO you who is magnificent,<BR>\r\nO you who is magnanimous,<BR>\r\nSagacious ancestor,<BR>\r\nDiligent ancestor, <BR>\r\nPertinacious ancestor!<BR>\r\n<BR>\r\nAllow my cargo to reach port!<BR>\r\n"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: misc_de_lute_01_phat
+name: Fat Lute
+script: ''
+mesh: m\Misc_de_lute_01.NIF
+icon: m\Tx_de_lute_01.tga
+data:
+  weight: 10.0
+  value: 0
+  flags: ''

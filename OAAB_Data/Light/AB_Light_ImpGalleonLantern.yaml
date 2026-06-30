@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: AB_Light_ImpGalleonLantern
+name: ''
+script: ''
+mesh: OAAB\l\imp_gall_lant.nif
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 512
+  color:
+  - 245
+  - 140
+  - 40
+  - 0
+  flags: DYNAMIC | FLICKER_SLOW

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Note_ImperialDecree
+name: Imperial Decree
+script: ''
+mesh: m\Text_Parchment_01.NIF
+icon: m\Tx_parchment_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nDECISIONS and DECLARATIONS<BR>\r\nof<BR>\r\nEMPEROR URIEL SEPTIM VII<BR>\r\nand his loyal servants in<BR>\r\nTHE ELDER COUNCIL<BR>\r\nno. 678 8765 121, 3E 426\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\n[This pamphlet is a listing of last year's notable Imperial declarations. Most of it involves taxation, trade law, and censored literature. About a third of the pamphlet consists of formal condemnations of various provincial rebellions.]<BR>\r\n"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

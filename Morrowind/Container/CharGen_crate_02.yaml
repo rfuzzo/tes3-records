@@ -1,0 +1,11 @@
+type: Container
+flags: PERSISTENT
+id: CharGen_crate_02
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 43
+  - Gold_001

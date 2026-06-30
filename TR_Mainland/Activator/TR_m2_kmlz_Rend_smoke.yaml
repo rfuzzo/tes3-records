@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m2_kmlz_Rend_smoke
+name: ''
+script: TR_m2_kmlz_Rend_Pipe_sc
+mesh: chimney_smoke_small.NIF

@@ -1,0 +1,36 @@
+type: Alchemy
+flags: ''
+id: T_Nor_Drink_Risla_01
+name: Risla
+script: ''
+mesh: sky\m\sky_misc_risla.nif
+icon: sky\m\tx_sky_m_risla.dds
+effects:
+- magic_effect: RestoreFatigue
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 5
+  max_magnitude: 5
+- magic_effect: DrainAttribute
+  skill: None
+  attribute: Intelligence
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 50
+  max_magnitude: 50
+- magic_effect: DrainAttribute
+  skill: None
+  attribute: Agility
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 50
+  max_magnitude: 50
+data:
+  weight: 1.5
+  value: 40
+  flags: ''

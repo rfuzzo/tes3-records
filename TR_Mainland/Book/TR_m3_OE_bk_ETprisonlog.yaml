@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_OE_bk_ETprisonlog
+name: Ebon Tower Prison Log
+script: ''
+mesh: m\Text_Octavo_open_03.nif
+icon: m\Tx_octavo_open_03.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nPrisoners currently held in Ebon Tower's prison: <BR>\r\n<BR>\r\nBeru Vesuri\r\n<br>\r\nHeld for Trespassing Ducal Chambers and Grand Theft.\r\n<BR> <br>\r\nName\r\n<br>\r\nHeld for ...\r\n<BR> <br>\r\nName\r\n<br>\r\nHeld for ...\r\n<BR> <br>\r\nCasik, formerly known as Lord General Casik\r\n<br>\r\nHeld for a variety of charges including, but not limited to, Misuse of Military Rank, Misallocation of Imperial Treasury Funds, Obstruction of Justice, Levying War against the Empire, Collusion with Daedric Forces, Conspiracy against the Emperor, Usurpation of a Royal Title, Partaking in the Simulacrum Conspiracy of 3E 389-399, and High Treason.\r\n<BR> <br>"
+data:
+  weight: 2.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 20

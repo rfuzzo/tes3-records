@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_TT_AndothrenLedger
+name: Bal Foyen Temple Ledger
+script: ''
+mesh: tr\m\tr_book_tomebk_04.nif
+icon: tr\m\tr_book_closed_tome04.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>Ledger for the Bal Foyen Temple<BR>3E413   -   3E ...<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nOn the date, blessed by our Lords as the 24th of Morning Star, in the year four-hundred-and-thirteen of the Third Era, Serjo Dalvus Savas, cobbler and retainer of the noble muthsera Ferone Adrano, generously donated a sum of 14 (fourteen) gold pieces to our Temple.<BR><BR>\r\nOn the date, blessed by our Lords as the 27th of Morning Star, in the year four-hundred-and-thirteen of the Third Era, Serjo Salvi Relis, commoner of no fixed profession and residence, generously donated a sum of 2 (two) gold pieces to our Temple.<BR><BR>\r\nOn the date, blessed by our Lords as the 1st of Sun's Dawn, in the year four-hundred-and-thirteen of the Third Era, Curate Nalvs Andolin engaged in a transaction with a traveling salesmer, buying 10 (ten) bushels of saltrice on the authority of the most honorable servant of ALMSIVI Master Muthsera Ralvos Hleran.<BR><BR>\r\n[The text drones on endlessly, meticulously detailing each and every transaction over the last fourteen years.]<BR><BR>"
+data:
+  weight: 15.0
+  value: 80
+  book_type: Book
+  skill: None
+  enchantment: 0

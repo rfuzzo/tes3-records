@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Com_SetMw_SignWayIdvano_01
+name: Id Vano
+script: Strong1
+mesh: f\active_signpost_01.NIF

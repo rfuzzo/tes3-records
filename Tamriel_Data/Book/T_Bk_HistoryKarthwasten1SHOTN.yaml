@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_HistoryKarthwasten1SHOTN
+name: A Short History of Karthwasten
+script: ''
+mesh: m\Text_Octavo_08.NIF
+icon: m\Tx_book_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nA Short History of Karthwasten<BR>\r\nNerus Lalrav, Steward of Kyne-blessed Jarl Jona of Dragonstar<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nTravelling up the road to Karthwasten, the former capital of the Redguard Reach, you can see the layers upon layers of past battles display themselves before you.  <BR>\r\n<BR>\r\nEvidence of initial settlement in the area around Karthwasten seems to date back to the late Merethic as a farming settlement built by one of the early Aldmeri families of High Rock, whose name has been lost to the pages of history. During the expansion years of King Vrage, the town was absorbed into the newly established hold of the Reach. Dubbed Karthwasten, after the river Karth that it lays abreast to, the settlement grew as a flood of Nordic colonists intermingled with the original proto-Breton farmers. For centuries, Karthwasten would prove itself time and again as an important fortified town against the original Nedic tribes of Hammerfell, the Rourken Dwemer, and eventually the warrior wave of the Yokudans.  <BR>\r\n<BR>\r\nDuring the War of the Red Diamond, the King of the Reach (who at that time had his seat in the city of Karthwasten) entered a military alliance with the Queen Potema of Solitude. Weakened by the conflict, the county was overrun, sacked and annexed by Dragonstar forces in 3E 136. Despite requests and petitions by the King of the Reach, compensation was not granted as \"punishment for the Hold's treason against the Ruby Throne was justified\". Over the next few hundred years, the city would be rebuilt, taking on the cultural motifs from the many cultures of the Reach, though predominately Yokudan.  <BR>\r\n<BR>\r\nHowever, as any citizen of the empire knows, the people of the Old Kingdom do not take theft lightly. In the year 396 of the Third Era, the War of the Bend'r-Makh engulfed the Reach in fire. Despite early successes at the battles of Julfnar's Cowardice and Purewater Run, the Nordic vanguard of the combined forces of King Vyrnod of the Reach and King Eyrfin of Haafingar completely routed Breton-Redguard forces at the Second Battle of Dragonstar. As part of the Treaty of Chorrol, the city of Karthwasten was incorporated the Nordic Kingdom of the Reach. It would be governed by a hero of the battle, now Jarl Jona the Ansei-Ender, who would later move her seat of power to Dragonstar itself in 3E 424.<BR>\r\n<BR>\r\nWith the return of the Nords, crime has decreased, quality of life has improved, and trade has flourished, with only minor unrest in the poor quarter, where most of the original Redguard inhabitants have been relocated. It is believed by many, including yours truly, that the best days of the city of Karthwasten are ahead of her.<BR>\r\n<BR>"
+data:
+  weight: 2.0
+  value: 55
+  book_type: Book
+  skill: None
+  enchantment: 0

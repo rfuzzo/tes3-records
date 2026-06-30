@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: BM_greedyman
+name: The Greedy Man's Bag
+script: windbagScript
+mesh: o\Contain_Com_Sack_02.NIF
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory: []

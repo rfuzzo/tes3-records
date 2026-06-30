@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_ComCopperPot01
+name: Copper Pot
+script: ''
+mesh: OAAB\m\copperPot01.nif
+icon: OAAB\m\misc_copperpot_01.dds
+data:
+  weight: 4.0
+  value: 18
+  flags: ''

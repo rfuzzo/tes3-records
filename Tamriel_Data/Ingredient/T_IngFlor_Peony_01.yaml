@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_Peony_01
+name: Peony Seeds
+script: ''
+mesh: pc\n\pc_ing_peonys.nif
+icon: pc\n\pc_tx_ingred_peonys.dds
+data:
+  weight: 0.2
+  value: 1
+  effects:
+  - RestoreAttribute
+  - DamageHealth
+  - DamageAttribute
+  - RestoreFatigue
+  skills:
+  - Block
+  - None
+  - Block
+  - None
+  attributes:
+  - Strength
+  - None
+  - Speed
+  - None

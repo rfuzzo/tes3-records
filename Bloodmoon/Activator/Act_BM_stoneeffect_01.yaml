@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: Act_BM_stoneeffect_01
+name: ''
+script: stoneeffectbeastScript
+mesh: i\active_dag_port10.NIF

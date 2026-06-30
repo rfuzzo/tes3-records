@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m1_BO_logpile_act
+name: Lighthouse Fire
+script: TR_m1_BO_muskflies_fire_scr
+mesh: l\Light_logpile_burnedout.NIF

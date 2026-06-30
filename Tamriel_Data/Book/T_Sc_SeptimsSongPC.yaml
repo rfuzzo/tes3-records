@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Sc_SeptimsSongPC
+name: The Song of Tiber Septim
+script: ''
+mesh: m\text_scroll_01.nif
+icon: m\tx_scroll_open_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">THE SONG OF TIBER SEPTIM<BR>\r\n\r\n<BR>\r\n\r\n<BR>\r\n\r\nExcerpt from the Odes of Tiber Septim<BR>\r\n\r\n<BR>\r\n\r\n   \"He was born in Atmora as Talos, 'Stormcrown' in the language of the ancient Ehlnofey, and it was from that shore he sailed. He spent his youth in Skyrim among the Nords. There he learned much from the Tongues and their chieftains and their ways of war. At twenty he led the invasion of Old Hrol'dan, taking it back from the Witchmen of High Rock and their kinsmen.<BR>\r\n\r\n<BR>\r\n\r\n    \"Soon the Greybeards made known that they were restless. Already the storms had begun from their murmurs. The Greybeards were going to Speak. The surrounding villages were abandoned as the people fled the coming blast.<BR>\r\n\r\n<BR>\r\n\r\n    \"The villagers warned Talos to turn back, for he was marching to the mountain where the Greybeards dwelt.<BR>\r\n\r\n<BR>\r\n\r\n    \"Inside he went, and on seeing him they removed their gags. When they spoke his name the World shook.<BR>\r\n\r\n<BR>\r\n\r\n    \"The Tongues of Skyrim told the son of Atmora that he had come to rule Tamriel and that he must travel south to do so.<BR>\r\n\r\n<BR>\r\n\r\n    \"And it is true that Talos did come to Cyrodiil shortly after the Battle of Old Hrol'dan.<BR>\r\n\r\n<BR>\r\n\r\n    \"And it is true that a great storm preceded his arrival.\"<BR>\r\n\r\n\r\n"
+data:
+  weight: 0.2
+  value: 80
+  book_type: Scroll
+  skill: None
+  enchantment: 0

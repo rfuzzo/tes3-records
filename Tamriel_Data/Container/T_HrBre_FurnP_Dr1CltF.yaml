@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: T_HrBre_FurnP_Dr1CltF
+name: Dresser
+script: ''
+mesh: hr\o\hr_furn_bre_p_drssr.nif
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - T_Hr_Random_ClothingCm
+- - 1
+  - T_Hr_Random_ClothingSkirtsCm

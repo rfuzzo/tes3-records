@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_Pitcher_01
+name: Pitcher Sack
+script: ''
+mesh: pc\n\pc_ing_pitcher_01.nif
+icon: pc\n\pc_tx_ingred_pitcher.dds
+data:
+  weight: 0.1
+  value: 5
+  effects:
+  - DrainMagicka
+  - ResistShock
+  - WaterBreathing
+  - DrainAttribute
+  skills:
+  - None
+  - None
+  - None
+  - Block
+  attributes:
+  - None
+  - None
+  - None
+  - Agility

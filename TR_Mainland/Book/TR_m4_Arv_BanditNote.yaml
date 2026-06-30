@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_Arv_BanditNote
+name: Note from Issarbaddon Bandits
+script: ''
+mesh: m\Text_Note_02.nif
+icon: m\Tx_note_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\nTo the Hlaalu scum:<BR>\r\n<BR>\r\nWe have the Argonian.<BR>\r\n<BR>\r\nYou will bring 300 septims to the cave of Issarbaddon.<BR>\r\n<BR>\r\nDon't cross us.<BR>"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_CrystalBall_01
+name: Crystal Ball
+script: ''
+mesh: tr\m\tr_misc_com_crysball.nif
+icon: tr\m\tr_misc_crystalball_01.dds
+data:
+  weight: 2.0
+  value: 30
+  flags: ''

@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m7_Q_DivingForArns
+name: Sunken Crate
+script: TR_m7_Q_DivingForArns_sc
+mesh: o\Contain_crate_01.NIF
+encumbrance: 1000.0
+container_flags: IS_BASE
+inventory:
+- - 10
+  - misc_dwrv_gear00

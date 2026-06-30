@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_He_Furn_Hammock_02
+name: Hammock
+script: Bed_Standard
+mesh: sum\f\sum_furn_he_hamm_02.nif

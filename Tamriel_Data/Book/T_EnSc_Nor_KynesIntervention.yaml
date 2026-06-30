@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_EnSc_Nor_KynesIntervention
+name: Scroll of Divine Intervention
+script: ''
+mesh: m\text_scroll_01.nif
+icon: m\tx_scroll_open_01.tga
+enchanting: T_Once_KynesIntervention
+text: <DIV ALIGN="center"><IMG SRC="Sky\Sky_Sc_LetKyneGuide.dds" WIDTH="200" HEIGHT="50"><BR>
+data:
+  weight: 0.2
+  value: 63
+  book_type: Scroll
+  skill: None
+  enchantment: 100

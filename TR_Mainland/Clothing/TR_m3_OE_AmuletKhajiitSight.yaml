@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m3_OE_AmuletKhajiitSight
+name: Amulet of Khajiit Sight
+script: ''
+mesh: c\Amulet_Extravagant_1.NIF
+icon: c\tx_amulet_extrav1.tga
+enchanting: TR_m3_OE_KhajitSight
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 1000
+  enchantment: 1000

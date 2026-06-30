@@ -1,0 +1,20 @@
+type: Alchemy
+flags: ''
+id: TR_m7_JNS_SloadPoisonGas
+name: K'Vatra's Poison Gas
+script: TR_m7_JNS_PoisonGasSc
+mesh: m\Misc_Potion_Exclusive_01.nif
+icon: m\Tx_potion_exclusive_01.tga
+effects:
+- magic_effect: Poison
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 120
+  min_magnitude: 30
+  max_magnitude: 30
+data:
+  weight: 2.0
+  value: 5000
+  flags: ''

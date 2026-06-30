@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: TR_m3-793_desk
+name: Desk
+script: ''
+mesh: o\Contain_De_Desk_01.NIF
+encumbrance: 75.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - Misc_Inkwell
+- - 1
+  - Misc_Quill
+- - 2
+  - T_Com_PotionBottle_01
+- - 3
+  - p_fortify_personality_b
+- - 2
+  - p_fortify_personality_c

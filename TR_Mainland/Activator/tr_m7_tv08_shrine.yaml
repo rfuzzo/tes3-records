@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: tr_m7_tv08_shrine
+name: Shrine of Seryn's Devotion
+script: TR_m7_TT_SerynPilgrimageScp
+mesh: f\Furn_shrine_vivec_01.NIF

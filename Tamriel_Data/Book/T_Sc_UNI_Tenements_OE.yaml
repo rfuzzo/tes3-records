@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Sc_UNI_Tenements_OE
+name: Scroll of Tenements
+script: ''
+mesh: m\text_scroll_01.nif
+icon: m\tx_scroll_open_01.tga
+enchanting: T_Once_TenementTime
+text: <DIV ALIGN="center"><FONT COLOR="000000" SIZE="2" FACE="Daedric">IN THE NAME OF THE GODS!</FONT><BR>
+data:
+  weight: 0.2
+  value: 697
+  book_type: Scroll
+  skill: None
+  enchantment: 0

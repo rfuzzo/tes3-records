@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m4_Ando_MG_WeirGateLens
+name: Weir Gate Focus Lens
+script: ''
+mesh: pc\m\pc_uni_gatefocus.nif
+icon: pc\m\pc_uni_sharplensI.dds
+data:
+  weight: 0.1
+  value: 500
+  flags: ''

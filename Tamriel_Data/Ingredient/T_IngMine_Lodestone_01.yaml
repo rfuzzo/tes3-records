@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngMine_Lodestone_01
+name: Lodestone
+script: ''
+mesh: hr\n\mn_lodestone.nif
+icon: hr\n\mn_lodestone.dds
+data:
+  weight: 2.5
+  value: 100
+  effects:
+  - DrainAttribute
+  - Telekinesis
+  - Burden
+  - ResistShock
+  skills:
+  - Block
+  - None
+  - None
+  - None
+  attributes:
+  - Endurance
+  - None
+  - None
+  - None

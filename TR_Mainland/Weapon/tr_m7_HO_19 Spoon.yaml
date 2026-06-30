@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: tr_m7_HO_19 Spoon
+name: Azuran Spoon
+script: ''
+mesh: m\misc_com_wood_spoon_01.nif
+icon: m\misc_com_wood_spoon_01.dds
+enchanting: ''
+data:
+  weight: 0.5
+  value: 25
+  weapon_type: ShortBladeOneHand
+  health: 50
+  speed: 2.2
+  reach: 0.15
+  enchantment: 3
+  chop_min: 1
+  chop_max: 5
+  slash_min: 1
+  slash_max: 5
+  thrust_min: 1
+  thrust_max: 5
+  flags: ''

@@ -1,0 +1,21 @@
+type: Container
+flags: ''
+id: TR_m7_TV4_Grotto_Cst_4
+name: Ancient Chest
+script: ''
+mesh: o\contain_daedric_chest_01.nif
+encumbrance: 0.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Mw_Lvl_Soulgems
+- - 1
+  - T_Mw_Random_Gems
+- - 1
+  - T_Mw_Random_OreGold
+- - 3
+  - T_Mw_Random_OreSilver
+- - 1
+  - T_Mw_Random_ScrollsLvl2
+- - 1
+  - T_Mw_Random_WeaponsDaedric

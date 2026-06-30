@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Nor_Set_BannerTownBeo_01
+name: Beorinhal
+script: OutsideBanner
+mesh: sky\f\sky_act_banner_be_01.nif

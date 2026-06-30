@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: T_SkyHe_DngDir_Ds1Msc1
+name: Old Desk
+script: ''
+mesh: sky\o\sky_furn_alt_desk_01.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Sky_Lvl_Soulgems
+- - 6
+  - T_Sky_Random_DirenniCoin
+- - 1
+  - T_Sky_Random_DirenniWelkynd
+- - 1
+  - T_Sky_Random_Gem

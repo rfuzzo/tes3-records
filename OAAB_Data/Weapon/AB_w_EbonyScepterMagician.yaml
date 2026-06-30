@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_EbonyScepterMagician
+name: Magician's Scepter
+script: ''
+mesh: OAAB\w\ebony_scepter.nif
+icon: OAAB\w\ebony_scepter.dds
+enchanting: AB_w_EbonyScepterMagician_en
+data:
+  weight: 22.0
+  value: 9000
+  weapon_type: BluntOneHand
+  health: 2400
+  speed: 1.6
+  reach: 1.0
+  enchantment: 140
+  chop_min: 3
+  chop_max: 15
+  slash_min: 3
+  slash_max: 15
+  thrust_min: 1
+  thrust_max: 2
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

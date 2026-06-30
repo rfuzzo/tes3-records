@@ -1,0 +1,22 @@
+type: Armor
+flags: ''
+id: BM_wolf_left_gauntlet_snow
+name: Snow Wolf Left Gauntlet
+script: ''
+mesh: a\A_Wolf_Gauntlet_GND.NIF
+icon: A\Tx_Wolf_Gauntlet.dds
+enchanting: snow shield
+biped_objects:
+- biped_object_type: LeftHand
+  male_bodypart: A_wolf_Gauntlet
+  female_bodypart: ''
+- biped_object_type: LeftWrist
+  male_bodypart: ''
+  female_bodypart: ''
+data:
+  armor_type: LeftGauntlet
+  weight: 1.5
+  value: 2000
+  health: 80
+  enchantment: 10
+  armor_rating: 35

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m3_q_A3_Distance_Finder
+name: Felms' Distance Finder
+script: TR_m3_q_A3_Distance_Script
+mesh: TR\m\TR_misc_toyguar_vr.NIF
+icon: TR\m\tr_misc_toyguar_vr.dds
+data:
+  weight: 1.0
+  value: 100
+  flags: ''

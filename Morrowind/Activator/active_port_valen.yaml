@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: active_port_valen
+name: Valenvaryon Propylon
+script: Warp_Valen
+mesh: i\active_port_Valen.NIF

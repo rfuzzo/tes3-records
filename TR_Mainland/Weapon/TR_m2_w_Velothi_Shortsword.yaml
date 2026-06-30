@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m2_w_Velothi_Shortsword
+name: Velothi Shortsword of Malice
+script: ''
+mesh: w\W_Shortsword_chitin.nif
+icon: w\Tx_chitin_shortsword.tga
+enchanting: veloth's malison_en
+data:
+  weight: 4.0
+  value: 13
+  weapon_type: LongBladeOneHand
+  health: 540
+  speed: 2.0
+  reach: 1.0
+  enchantment: 20
+  chop_min: 3
+  chop_max: 7
+  slash_min: 3
+  slash_max: 7
+  thrust_min: 4
+  thrust_max: 9
+  flags: ''

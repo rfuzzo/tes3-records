@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_PassionFruit_01
+name: Passion Fruit
+script: ''
+mesh: pc\n\pc_ing_passionfruit.nif
+icon: pc\n\pc_ing_passionfruit.dds
+data:
+  weight: 0.1
+  value: 1
+  effects:
+  - RestoreFatigue
+  - Feather
+  - DrainAttribute
+  - None
+  skills:
+  - None
+  - Block
+  - Block
+  - None
+  attributes:
+  - None
+  - Luck
+  - Luck
+  - None

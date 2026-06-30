@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_DwrvScepterPoison
+name: Last Judgment
+script: ''
+mesh: OAAB\w\dwrv_scepter.nif
+icon: OAAB\w\dwrv_scepter.dds
+enchanting: sting_en
+data:
+  weight: 12.0
+  value: 350
+  weapon_type: BluntOneHand
+  health: 2000
+  speed: 1.6
+  reach: 1.0
+  enchantment: 60
+  chop_min: 2
+  chop_max: 10
+  slash_min: 2
+  slash_max: 10
+  thrust_min: 1
+  thrust_max: 2
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

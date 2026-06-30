@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: ex_gg_fence_s_03
+name: ''
+script: GhostfenceScript
+mesh: x\Ex_GG_fence_s_03.NIF

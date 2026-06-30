@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_IndorilBookOfPassingCTR
+name: Indoril Book of Passing
+script: ''
+mesh: tr\m\tr_book_closed_i09_ay.nif
+icon: tr\m\tr_book_closed_i09_ay.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nIndoril Book of Passing <br>\r\nThrough the Doors of the Horizon <br>\r\n<DIV ALIGN=\"LEFT\"> <BR>\r\nAll are destined to die but the acceptable ways are few. The Great House of Indoril has always and will always uphold the standards of a good death. They are recorded here. <br> <br> \r\nFIRE. The Indoril of Khalaan (which the foreign Legions called \"Ebonheart\", now \"Old Ebonheart\") bathed in holy oils and walked into great fires. The wind carried their ashes to Necrom, which tells us that they died honorably. <br> <br>\r\nSLEEP. Saint Delyn died in his sleep on a pilgrimage. There is no shame in silence and serenity. From his servants' writings we have learned that he died well. <br> <br>\r\nBATTLE. Lord Dorom of Almalexia died by the hand of Mehrunes Dagon. Dagon severed his head, his arms and legs, yet Lord Dorom's face did not yield to a gruesome expression. There is no shame in dying in pain. <br> <br>\r\nHOUSE WAR. The Indoril of western Aanthirin were marked for death and, one by one, they were martyred. This bore testament to the honor they had brought to the House in life. No unworthy mer ever perished by the assassin's blade. <br> <br> \r\nSELF-MURDER. After Lord Nerevar died of his wounds, his shield-companion Alandro Sul carried his body to a room with candles, clothed him with ceremonial robes and cried tearful invocations. He should have pierced his own liver with a blessed blade. This would not have been a traitor's death. <br> <br>\r\nIt is a consolation to know that far greater mer than you have died before you. They are looked after. May all who die be looked after. <BR>\r\n<br>\r\n"
+data:
+  weight: 2.0
+  value: 50
+  book_type: Book
+  skill: None
+  enchantment: 50

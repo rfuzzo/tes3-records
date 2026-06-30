@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: AB_ScEn_Flameward_d
+name: Defective Scroll of Flameward
+script: ''
+mesh: OAAB\m\scrollBargain.nif
+icon: OAAB\m\scroll_bargain.tga
+enchanting: AB_sc_Flameward_d_en
+text: <DIV ALIGN="center"><FONT COLOR="000000" SIZE="2" FACE="Daedric">WOE UPON ME</FONT><BR>
+data:
+  weight: 0.2
+  value: 13
+  book_type: Scroll
+  skill: None
+  enchantment: 0

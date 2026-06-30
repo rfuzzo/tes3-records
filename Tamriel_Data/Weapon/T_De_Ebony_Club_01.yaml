@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_De_Ebony_Club_01
+name: Ebony Club
+script: ''
+mesh: tr\w\tr_w_ebony_club.nif
+icon: tr\w\tr_w_ebony_club.dds
+enchanting: ''
+data:
+  weight: 24.0
+  value: 5000
+  weapon_type: BluntOneHand
+  health: 1200
+  speed: 1.5
+  reach: 1.0
+  enchantment: 90
+  chop_min: 8
+  chop_max: 10
+  slash_min: 4
+  slash_max: 6
+  thrust_min: 4
+  thrust_max: 6
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

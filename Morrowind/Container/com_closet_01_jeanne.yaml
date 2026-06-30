@@ -1,0 +1,35 @@
+type: Container
+flags: ''
+id: com_closet_01_jeanne
+name: Closet
+script: ''
+mesh: o\Contain_Com_Closet_01.NIF
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory:
+- - -1
+  - imperial shield
+- - -1
+  - bonemold_shield
+- - -1
+  - bonemold_towershield
+- - -1
+  - chitin_shield
+- - -1
+  - chitin_towershield
+- - -1
+  - iron_shield
+- - -1
+  - iron_towershield
+- - -1
+  - netch_leather_shield
+- - -1
+  - netch_leather_towershield
+- - -1
+  - nordic_leather_shield
+- - -1
+  - steel_shield
+- - -1
+  - steel_towershield
+- - -1
+  - trollbone_shield

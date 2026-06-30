@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_RothRoryn_Monastery_AlmaAct
+name: Shrine of Forgiveness
+script: TR_RothRoryn_Monastery_AlmSc
+mesh: TR\f\tr_shrine_almalexia.nif

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: misc_skull10
+name: Servant's Skull
+script: ''
+mesh: m\misc_skull10.nif
+icon: m\misc_skull10.tga
+data:
+  weight: 0.5
+  value: 0
+  flags: ''

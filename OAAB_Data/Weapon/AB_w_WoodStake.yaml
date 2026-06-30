@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_WoodStake
+name: Wooden Stake
+script: ''
+mesh: OAAB\w\w_stake_wood.nif
+icon: OAAB\w\w_stake_wood.tga
+enchanting: ''
+data:
+  weight: 4.0
+  value: 2
+  weapon_type: ShortBladeOneHand
+  health: 200
+  speed: 2.2
+  reach: 1.0
+  enchantment: 5
+  chop_min: 0
+  chop_max: 1
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 2
+  thrust_max: 2
+  flags: ''

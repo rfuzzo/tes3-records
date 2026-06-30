@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_He_GlassBluPlatter01
+name: Glass Platter
+script: ''
+mesh: sum\m\sum_m_gls_platt_b01.nif
+icon: sum\m\sum_m_gls_plat_blue01.dds
+data:
+  weight: 2.0
+  value: 10
+  flags: ''

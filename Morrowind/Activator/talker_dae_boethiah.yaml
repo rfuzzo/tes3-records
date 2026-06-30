@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: talker_dae_boethiah
+name: Boethiah Statue Talker
+script: ''
+mesh: f\Furn_banner_hlaalu_01.nif

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Yne_FurnP_Bed_01
+name: Hammock
+script: Bed_Standard
+mesh: pi\f\yn_furnp_hammock_01.nif

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_DiceSingle
+name: Die
+script: ''
+mesh: OAAB\m\dice_single.nif
+icon: OAAB\m\misc_dice_single.tga
+data:
+  weight: 0.25
+  value: 2
+  flags: ''

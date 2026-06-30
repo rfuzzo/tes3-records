@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: tr_m7_narsis_banner_04
+name: The Rigged Challenge
+script: OutsideBanner
+mesh: f\Furn_banner_tavern_01.nif

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Com_SetSky_SignWayJormar_01
+name: Jormar
+script: ''
+mesh: sky\x\sky_act_rsign_jorm1.nif

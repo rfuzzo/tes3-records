@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: TR_m2_cont_MoonSug_i323
+name: Pillow
+script: ''
+mesh: m\Misc_Com_Pillow_01.nif
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 5
+  - ingred_moon_sugar_01
+- - 3
+  - potion_skooma_01

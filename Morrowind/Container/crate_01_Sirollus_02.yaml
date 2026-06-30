@@ -1,0 +1,35 @@
+type: Container
+flags: ''
+id: crate_01_Sirollus_02
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 600.0
+container_flags: IS_BASE
+inventory:
+- - -100
+  - steel bolt
+- - -50
+  - silver bolt
+- - -200
+  - steel arrow
+- - -100
+  - silver arrow
+- - -50
+  - silver dart
+- - -1
+  - steel crossbow
+- - -1
+  - bonemold long bow
+- - 1
+  - silver spear
+- - 1
+  - silver staff
+- - 1
+  - silver claymore
+- - 1
+  - silver longsword
+- - 1
+  - silver dagger
+- - 1
+  - silver shortsword

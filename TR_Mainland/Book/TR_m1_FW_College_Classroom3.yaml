@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_FW_College_Classroom3
+name: Classroom
+script: ''
+mesh: m\text_parchment_01.nif
+icon: m\tx_parchment_01.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nArchaeological Methods - Professor Odunia Hare<BR>\r\nGeography of the Eastern Provinces - Professor Sergius Antellius<BR>\r\nModern Morrowind History - Headmaster Jeanette Sitte<BR>\r\n"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

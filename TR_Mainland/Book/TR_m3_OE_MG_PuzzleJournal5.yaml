@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_OE_MG_PuzzleJournal5
+name: Potelie Sincel's Study Log
+script: TR_m3_OE_MG_PuzzleJournal_sc
+mesh: pc\m\pc_bk_letter_05.nif
+icon: pc\m\pc_m_letter_05.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nPotelie Sincel's Log - Study<BR>\r\n<BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\nEntry 1<BR>\r\nOuch. Careful here.<BR>\r\n<BR>\r\nEntry 2<BR>\r\nI've found some Restore Health potions. I should find a defensive scroll or something, otherwise I'll never get through here.<BR>\r\n<BR>\r\nEntry 3<BR>\r\nOr maybe a Levitation potion?<BR>\r\n<BR>\r\nEntry 4<BR>\r\nThis room has too many traps! I need stronger potions if I am to get past them all. I will come back later, but why would they put so many traps here? Did they have something to hide, or is it just the magic of this damned place?<BR>\r\n<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

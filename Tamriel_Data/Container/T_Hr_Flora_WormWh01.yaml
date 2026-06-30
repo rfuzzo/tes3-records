@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Hr_Flora_WormWh01
+name: Worm Wheat
+script: ''
+mesh: hr\o\hr_flora_wormwh_01.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - T_Hr_Random_FlorWormWh01

@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_MwDe_Furn_UrnTapAsh
+name: Urn
+script: ''
+mesh: tr\o\tr_cont_urn_tapestry.nif
+encumbrance: 10.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - ingred_bonemeal_01

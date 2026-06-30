@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: TR_m2_q_38_ectoplasm
+name: Ectoplasm
+script: TR_m2_q_38_s_ectoplasm
+mesh: n\Ingred_Ectoplasm_01.nif
+icon: n\Tx_ectoplasm_01.tga
+data:
+  weight: 0.1
+  value: 10
+  effects:
+  - FortifyAttribute
+  - DetectAnimal
+  - DrainAttribute
+  - DrainHealth
+  skills:
+  - Block
+  - None
+  - Block
+  - None
+  attributes:
+  - Agility
+  - None
+  - Strength
+  - None

@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Imp_Gold_Cuirass_02
+name: Imperial Gold Cuirass
+script: LegionUniform
+mesh: tr\a\tr_a_impgold_cuir_gnd.nif
+icon: tr\a\tr_a_impgold_cuirass.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_A_ImpGoldCuirass02_C
+  female_bodypart: ''
+data:
+  armor_type: Cuirass
+  weight: 30.0
+  value: 1120
+  health: 540
+  enchantment: 320
+  armor_rating: 18

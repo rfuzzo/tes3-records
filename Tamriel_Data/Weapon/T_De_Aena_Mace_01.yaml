@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_De_Aena_Mace_01
+name: Aena Mace
+script: ''
+mesh: tr\w\tr_w_aena_mace.nif
+icon: TR\w\tr_w_aena_mace.dds
+enchanting: ''
+data:
+  weight: 10.0
+  value: 15
+  weapon_type: BluntTwoClose
+  health: 350
+  speed: 1.0
+  reach: 1.0
+  enchantment: 30
+  chop_min: 5
+  chop_max: 10
+  slash_min: 3
+  slash_max: 3
+  thrust_min: 2
+  thrust_max: 3
+  flags: ''

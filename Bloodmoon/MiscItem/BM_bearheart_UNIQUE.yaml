@@ -1,0 +1,11 @@
+type: MiscItem
+flags: PERSISTENT
+id: BM_bearheart_UNIQUE
+name: Heart of the Spirit Bear
+script: ''
+mesh: m\BM_BearHunt.NIF
+icon: m\Tx_BearHunt.dds
+data:
+  weight: 1.0
+  value: 5
+  flags: KEY

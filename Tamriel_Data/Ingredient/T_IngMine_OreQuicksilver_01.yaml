@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngMine_OreQuicksilver_01
+name: Quicksilver Ore
+script: ''
+mesh: sky\n\sky_ingred_quicksilv.nif
+icon: sky\n\tx_ingred_quicksilv.dds
+data:
+  weight: 2.0
+  value: 100
+  effects:
+  - DamageHealth
+  - Reflect
+  - Blind
+  - Poison
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

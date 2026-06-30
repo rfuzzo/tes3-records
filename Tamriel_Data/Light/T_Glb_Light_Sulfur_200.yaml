@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_Glb_Light_Sulfur_200
+name: ''
+script: ''
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 200
+  color:
+  - 200
+  - 255
+  - 15
+  - 0
+  flags: PULSE_SLOW

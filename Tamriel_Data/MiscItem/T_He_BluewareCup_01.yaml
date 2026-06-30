@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_He_BluewareCup_01
+name: Blueware Cup
+script: ''
+mesh: sum\m\sum_misc_blue_cup_01.nif
+icon: sum\m\sum_misc_blue_cup_01.dds
+data:
+  weight: 1.0
+  value: 3
+  flags: ''

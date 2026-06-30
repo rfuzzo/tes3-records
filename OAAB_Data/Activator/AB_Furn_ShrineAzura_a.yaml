@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Furn_ShrineAzura_a
+name: Shrine of Azura
+script: AB_ShrineAzura_s
+mesh: OAAB\u\v_shrine_azura.nif

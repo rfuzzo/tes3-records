@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_PlayNineholesSpace_01c
+name: Select Space
+script: T_ScObj_NineholesSpace_01c
+mesh: TR\m\TR_misc_com_weight_04.nif
+icon: TR\m\TR_misc_com_weight_04.dds
+data:
+  weight: 0.0
+  value: 0
+  flags: ''

@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: TR_light_m4-358_green
+name: ''
+script: ''
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 64
+  color:
+  - 2
+  - 136
+  - 99
+  - 0
+  flags: FLICKER_SLOW

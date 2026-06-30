@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: AB_f_TramaVine_03
+name: Trama Vine
+script: ''
+mesh: OAAB\o\rem_trama_vine_03.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 4
+  - random_trama_root

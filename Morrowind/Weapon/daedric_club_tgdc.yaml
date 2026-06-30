@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: daedric_club_tgdc
+name: Anora's Club
+script: ''
+mesh: w\W_club_daedric.nif
+icon: w\Tx_club_daedric.tga
+enchanting: ''
+data:
+  weight: 36.0
+  value: 10000
+  weapon_type: BluntOneHand
+  health: 1600
+  speed: 1.5
+  reach: 1.0
+  enchantment: 120
+  chop_min: 10
+  chop_max: 12
+  slash_min: 4
+  slash_max: 8
+  thrust_min: 6
+  thrust_max: 8
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

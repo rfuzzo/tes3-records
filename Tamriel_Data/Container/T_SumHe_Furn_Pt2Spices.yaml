@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_SumHe_Furn_Pt2Spices
+name: Pot
+script: ''
+mesh: sum\o\sum_cont_pot_02.nif
+encumbrance: 25.0
+container_flags: IS_BASE
+inventory:
+- - 3
+  - T_Sum_Random_Spices

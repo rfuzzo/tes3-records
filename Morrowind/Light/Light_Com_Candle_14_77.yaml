@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: Light_Com_Candle_14_77
+name: Silver Candlestick
+script: ''
+mesh: l\Light_Com_Candle_14.NIF
+icon: l\Light_Com_Candle_08.tga
+sound: ''
+data:
+  weight: 4.0
+  value: 12
+  time: 120
+  radius: 77
+  color:
+  - 23
+  - 180
+  - 255
+  - 0
+  flags: DYNAMIC | CAN_CARRY | FIRE | FLICKER_SLOW

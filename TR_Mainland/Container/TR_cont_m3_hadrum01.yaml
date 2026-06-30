@@ -1,0 +1,21 @@
+type: Container
+flags: ''
+id: TR_cont_m3_hadrum01
+name: Chest
+script: ''
+mesh: TR\o\TR_furn_De_Rm_Chest.NIF
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - Misc_SoulGem_Greater
+- - 3
+  - Misc_SoulGem_Lesser
+- - 15
+  - T_Sc_Blank
+- - 1
+  - p_fortify_intelligence_q
+- - 1
+  - p_fortify_magicka_q
+- - 5
+  - p_restore_magicka_q

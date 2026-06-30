@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: bk_Dren_shipping_log
+name: Dren's shipping log
+script: ''
+mesh: m\Text_Octavo_open_08.NIF
+icon: m\Tx_book_open_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This appears to be the records of Orvas Dren's incoming and outgoing shipments, complete with dates and business partners.]<BR>\r\n"
+data:
+  weight: 2.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 20

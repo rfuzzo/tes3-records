@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Rga_Drum_01
+name: Drum
+script: ''
+mesh: pc\m\pc_misc_rga_drum_01.nif
+icon: pc\m\pc_rga_drum.dds
+data:
+  weight: 12.0
+  value: 20
+  flags: ''

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_Abacus
+name: Abacus
+script: ''
+mesh: OAAB\m\yy_abacus_02.nif
+icon: OAAB\m\yy_abacus_02.dds
+data:
+  weight: 3.0
+  value: 20
+  flags: ''

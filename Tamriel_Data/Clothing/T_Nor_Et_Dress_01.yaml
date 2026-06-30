@@ -1,0 +1,17 @@
+type: Clothing
+flags: ''
+id: T_Nor_Et_Dress_01
+name: Extravagant Dress
+script: ''
+mesh: Sky\c\Sky_C_F_DRS_02_GND.nif
+icon: Sky\c\Tx_c_drss_02.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_C_NorEtDress01_C
+  female_bodypart: T_C_NorEtDress01_CF
+data:
+  clothing_type: Robe
+  weight: 3.0
+  value: 40
+  enchantment: 200

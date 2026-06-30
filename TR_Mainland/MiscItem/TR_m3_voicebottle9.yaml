@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m3_voicebottle9
+name: '"Zurin Arctus"'
+script: ''
+mesh: m\Misc_Com_Bottle_05.NIF
+icon: m\Misc_Com_Bottle_05.tga
+data:
+  weight: 1.0
+  value: 0
+  flags: ''

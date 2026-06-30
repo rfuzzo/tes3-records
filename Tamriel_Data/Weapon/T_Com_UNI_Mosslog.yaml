@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Com_UNI_Mosslog
+name: Mosslog
+script: ''
+mesh: TR\w\TR_w_mosslog_uni.NIF
+icon: TR\w\tr_w_mosslog_uni.tga
+enchanting: T_Use_MosslogCommandCreature
+data:
+  weight: 23.0
+  value: 50
+  weapon_type: BluntTwoWide
+  health: 250
+  speed: 0.9
+  reach: 1.2
+  enchantment: 80
+  chop_min: 2
+  chop_max: 10
+  slash_min: 3
+  slash_max: 5
+  thrust_min: 0
+  thrust_max: 5
+  flags: ''

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_Aim_GilaDebris
+name: Brittle Wall
+script: TR_m3_Aimrah_GilaWall_Script
+mesh: tr\i\tr_in_v_debris_01.nif

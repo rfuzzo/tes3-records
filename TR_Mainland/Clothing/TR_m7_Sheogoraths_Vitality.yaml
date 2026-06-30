@@ -1,0 +1,23 @@
+type: Clothing
+flags: ''
+id: TR_m7_Sheogoraths_Vitality
+name: Sheogorath's Vitality
+script: ''
+mesh: tr\c\tr_c_regent_robe_GND.nif
+icon: TR\c\tr_c_regent_robe.dds
+enchanting: TR_m7_Sheogoraths_vitality_en
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_C_RegentRobe_C
+  female_bodypart: ''
+- biped_object_type: LeftAnkle
+  male_bodypart: ''
+  female_bodypart: ''
+- biped_object_type: RightAnkle
+  male_bodypart: ''
+  female_bodypart: ''
+data:
+  clothing_type: Robe
+  weight: 3.0
+  value: 650
+  enchantment: 400

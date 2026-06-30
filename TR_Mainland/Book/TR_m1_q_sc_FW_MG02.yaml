@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_q_sc_FW_MG02
+name: Report for Banvira Auctoria
+script: ''
+mesh: m\Text_paper_roll_01.nif
+icon: m\Tx_paper_roll_01.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nWoods<BR><BR>\r\nUHFSKCCWPZGCYMMTTEHQKYYWY<BR>\r\nVXKQELCWMKFEPKWOLHZEOQOO<BR>\r\nUHFSNANRLRESYFWGNSHNVGVKN<BR>\r\nIKQVWAPSGLFXZXHHSH<BR>\r\nQYHODHXWMSNGIZIBSHHROQGPBIETESPN<BR>\r\nZXEIOSCWHJGVSVHBVRMQGJ<BR>"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

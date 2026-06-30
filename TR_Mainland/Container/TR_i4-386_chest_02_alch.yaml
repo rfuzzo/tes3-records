@@ -1,0 +1,33 @@
+type: Container
+flags: ''
+id: TR_i4-386_chest_02_alch
+name: Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 3
+  - T_IngCrea_BeetleShell_01
+- - 3
+  - T_IngCrea_BeetleShell_03
+- - 5
+  - T_IngFlor_Nightshade_01
+- - 5
+  - T_IngFlor_WhitePoppyPod_01
+- - 10
+  - T_IngFood_EggMolecrab_01
+- - 10
+  - food_kwama_egg_01
+- - 5
+  - ingred_ash_yam_01
+- - 5
+  - ingred_bc_coda_flower
+- - 10
+  - ingred_black_anther_01
+- - 10
+  - ingred_bloat_01
+- - 10
+  - ingred_comberry_01
+- - 1
+  - ingred_dreugh_wax_01

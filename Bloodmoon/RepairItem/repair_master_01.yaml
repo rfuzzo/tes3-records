@@ -1,0 +1,12 @@
+type: RepairItem
+flags: ''
+id: repair_master_01
+name: Master's Armorer's Hammer
+script: ''
+mesh: m\Repair_Master_01.nif
+icon: m\Tx_repair_M_01.tga
+data:
+  weight: 2.0
+  value: 50
+  uses: 10
+  quality: 1.3

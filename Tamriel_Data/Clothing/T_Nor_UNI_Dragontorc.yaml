@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Nor_UNI_Dragontorc
+name: Dragontorc
+script: ''
+mesh: Sky\c\Sky_Artifact_DTorc_01.nif
+icon: Sky\c\Tx_Artifact_DTorc_01.dds
+enchanting: fire storm_en
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.5
+  value: 5000
+  enchantment: 300

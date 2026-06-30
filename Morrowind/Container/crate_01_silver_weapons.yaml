@@ -1,0 +1,27 @@
+type: Container
+flags: ''
+id: crate_01_silver_weapons
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - silver dart
+- - 1
+  - silver throwing star
+- - 1
+  - silver war axe
+- - 1
+  - silver spear
+- - 1
+  - silver staff
+- - 1
+  - silver claymore
+- - 1
+  - silver longsword
+- - 1
+  - silver dagger
+- - 1
+  - silver shortsword

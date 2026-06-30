@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: misc_skull00_shishi
+name: A Breton Skull
+script: Shishi_door
+mesh: m\misc_skull00.nif

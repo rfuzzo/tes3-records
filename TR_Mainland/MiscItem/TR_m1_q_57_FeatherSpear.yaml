@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m1_q_57_FeatherSpear
+name: Feather Spear
+script: ''
+mesh: m\Misc_Quill.NIF
+icon: m\Misc_Quill.tga
+data:
+  weight: 0.05
+  value: 0
+  flags: ''

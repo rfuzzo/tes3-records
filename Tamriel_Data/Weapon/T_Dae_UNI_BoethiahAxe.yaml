@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Dae_UNI_BoethiahAxe
+name: Axe of Boethiah
+script: ''
+mesh: TR\w\TR_w_boethiah_axe_uni.NIF
+icon: TR\w\TR_w_boeathiah_axe_uni.dds
+enchanting: potent poison_EN
+data:
+  weight: 40.0
+  value: 25000
+  weapon_type: AxeTwoHand
+  health: 4500
+  speed: 1.0
+  reach: 1.0
+  enchantment: 340
+  chop_min: 4
+  chop_max: 45
+  slash_min: 3
+  slash_max: 40
+  thrust_min: 1
+  thrust_max: 3
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_NordicProverbsTR
+name: Book of Nordic Proverbs
+script: ''
+mesh: TR\m\TR_book_closed_i15_AY.nif
+icon: TR\m\TR_book_closed_i15_AY.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nBook of Nordic proverbs<br>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n- One day, crows feast at the wolf's table; the next day, on his corpse.<br>\r\n- The man nearest the fire breathes the most smoke.<br>\r\n- There is no more wretched thing than that which makes a goblin sing.<br>\r\n- To see one wolf is to sense many.<br>\r\n- As the wise learn from error, so the brave rise from defeat.<br>\r\n- Even moonlight fades.<br>\r\n- Not everything in a bear pelt has its power.<br>\r\n- Those who leave the dead undisturbed see no spirits.<br>\r\n- What winter snow hides, the spring sun will reveal.<br>\r\n- The wind blinds those who struggle against it, as it hides the future from those who follow it.<br>\r\n- To know the future, one must remember the past.<br>\r\n- Not all wolves walk on four legs.<br>\r\n- He who fears defeat is lost.<br>\r\n- An impatient man loses more time wandering in darkness than one who waits for the dawn.<br>\r\n- A strong tower repels warriors, but attracts thieves.<br>\r\n- Great armor does not make great warrior.<br>\r\n- Best to cross thin ice unburdened.<br>\r\n- He who fears death never truly lives.<br>\r\n- To find out what is at the bottom of the mug, you must drink all the beer.<br>\r\n- If you want to save your eyes, close them. If you want to save your life, keep them open.<br>\r\n- Small arms don't swing big axes.<br>\r\n- Sometimes it is safer to be a beggar in rags than a warrior in armor.<br>\r\n- Babbling fools attract more fools; silent sages gather wisdom.<br>\r\n- The more years in a tree, the more strikes for the axe.<br>\r\n- This the wolf knows: even he is food for crows.<br>"
+data:
+  weight: 3.0
+  value: 60
+  book_type: Book
+  skill: None
+  enchantment: 0

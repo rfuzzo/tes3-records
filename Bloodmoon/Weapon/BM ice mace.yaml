@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: BM ice mace
+name: Stalhrim Mace
+script: ''
+mesh: w\W_Ice_mace.NIF
+icon: w\Ice_mace.dds
+enchanting: ''
+data:
+  weight: 65.0
+  value: 40000
+  weapon_type: BluntOneHand
+  health: 9000
+  speed: 1.3
+  reach: 1.1
+  enchantment: 200
+  chop_min: 5
+  chop_max: 45
+  slash_min: 5
+  slash_max: 45
+  thrust_min: 2
+  thrust_max: 6
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_ColClayCup_01
+name: Cup
+script: ''
+mesh: pc\m\PC_Col_clay_cup.nif
+icon: pc\m\pc_misc_col_clay_cup.dds
+data:
+  weight: 0.5
+  value: 4
+  flags: ''

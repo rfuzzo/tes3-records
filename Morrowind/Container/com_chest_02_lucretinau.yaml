@@ -1,0 +1,35 @@
+type: Container
+flags: ''
+id: com_chest_02_lucretinau
+name: Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - -1
+  - cloth bracer right
+- - -1
+  - cloth bracer left
+- - -1
+  - chitin_shield
+- - -1
+  - chitin_towershield
+- - -1
+  - chitin guantlet - right
+- - -1
+  - chitin guantlet - left
+- - -1
+  - chitin boots
+- - -1
+  - chitin greaves
+- - -1
+  - chitin pauldron - right
+- - -1
+  - chitin pauldron - left
+- - -1
+  - chitin cuirass
+- - -1
+  - chitin helm
+- - -3
+  - torch

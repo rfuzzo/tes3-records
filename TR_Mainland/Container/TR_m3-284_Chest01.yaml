@@ -1,0 +1,23 @@
+type: Container
+flags: ''
+id: TR_m3-284_Chest01
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - bm_random_healthpotions
+- - 1
+  - bm_random_lockpick
+- - 1
+  - bonemold_boots
+- - 1
+  - bonemold_pauldron_r
+- - 1
+  - ingred_wolf_pelt
+- - 1
+  - random_armor_bonemold
+- - 1
+  - random_de_pants

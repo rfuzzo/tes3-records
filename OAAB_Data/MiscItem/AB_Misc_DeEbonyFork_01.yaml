@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_DeEbonyFork_01
+name: Frosted Ebony Fork
+script: ''
+mesh: OAAB\m\misc_ebony_fork.nif
+icon: OAAB\m\misc_ebony_fork.dds
+data:
+  weight: 2.0
+  value: 35
+  flags: ''

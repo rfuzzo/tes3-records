@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: tr_m7_HO_19 FakeStaffChaos
+name: Genuine Staff of Chaos
+script: ''
+mesh: w\w_silver_staff.nif
+icon: w\tx_silver_staff.dds
+enchanting: ''
+data:
+  weight: 10.0
+  value: 50
+  weapon_type: BluntTwoWide
+  health: 200
+  speed: 1.0
+  reach: 1.75
+  enchantment: 8
+  chop_min: 10
+  chop_max: 12
+  slash_min: 5
+  slash_max: 8
+  thrust_min: 5
+  thrust_max: 5
+  flags: ''

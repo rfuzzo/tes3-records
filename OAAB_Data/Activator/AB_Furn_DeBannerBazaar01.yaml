@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Furn_DeBannerBazaar01
+name: ''
+script: OutsideBanner
+mesh: OAAB\u\de_banner_baz_01.nif

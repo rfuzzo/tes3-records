@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: throwing knife of sureflight
+name: Throwing Knife of Sureflight
+script: ''
+mesh: w\W_Dagger_dragon.nif
+icon: w\Tx_dagger_dragon.tga
+enchanting: ''
+data:
+  weight: 0.3
+  value: 7
+  weapon_type: MarksmanThrown
+  health: 100
+  speed: 1.0
+  reach: 1.0
+  enchantment: 15
+  chop_min: 1
+  chop_max: 4
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

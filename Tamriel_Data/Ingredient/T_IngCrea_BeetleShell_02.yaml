@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_BeetleShell_02
+name: Crag Beetle Shell
+script: ''
+mesh: TR\n\TR_Ing_Beetle_Shell_02.nif
+icon: TR\n\TR_Ing_Beetle_Shell_02.dds
+data:
+  weight: 0.5
+  value: 3
+  effects:
+  - FortifyAttribute
+  - Reflect
+  - None
+  - None
+  skills:
+  - Block
+  - None
+  - None
+  - None
+  attributes:
+  - Endurance
+  - None
+  - None
+  - None

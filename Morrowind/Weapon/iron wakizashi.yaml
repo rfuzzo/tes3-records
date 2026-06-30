@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: iron wakizashi
+name: Iron Wakizashi
+script: ''
+mesh: w\W_wakizashi_iron.nif
+icon: w\Tx_wakazashi_iron.tga
+enchanting: ''
+data:
+  weight: 10.0
+  value: 24
+  weapon_type: ShortBladeOneHand
+  health: 500
+  speed: 2.25
+  reach: 1.0
+  enchantment: 45
+  chop_min: 7
+  chop_max: 12
+  slash_min: 5
+  slash_max: 10
+  thrust_min: 1
+  thrust_max: 5
+  flags: ''

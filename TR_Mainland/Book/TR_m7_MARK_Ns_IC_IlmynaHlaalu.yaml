@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_MARK_Ns_IC_IlmynaHlaalu
+name: Ilmyna Hlaalu
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: m\Tx_scroll_open_01.tga
+enchanting: ''
+text: "Appears during final Narsis Imperial Cult quest, once player has TR_m7_q_Ns_IC8_strangeRock\r\nNPC ID: TR_m7_Ilmyna Hlaalu\r\nPosition Cell in script TR_m7_Ns_IC_PlutusCeno_sc"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_Set_Shrine_SaintWork_01
+name: Shrine of St. Kyma
+script: T_ScObj_ShrineSaintWorkPC
+mesh: pc\x\pc_ex_wshrn_08.nif

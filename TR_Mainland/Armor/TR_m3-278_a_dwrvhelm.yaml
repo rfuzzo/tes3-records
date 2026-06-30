@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: TR_m3-278_a_dwrvhelm
+name: Radack-Dizvir
+script: ''
+mesh: tr\a\tr_a_DwrvScrp_helmet.nif
+icon: tr\a\tr_a_DwrvScrp_helmet.tga
+enchanting: TR_m3-278_en_Fzhark
+biped_objects:
+- biped_object_type: Head
+  male_bodypart: T_A_DweScrp_helm
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 9.0
+  value: 1250
+  health: 150
+  enchantment: 250
+  armor_rating: 17

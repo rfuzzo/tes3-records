@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_PurpleGlassFork_01
+name: Fine Glass Fork
+script: ''
+mesh: tr\m\tr_misc_purpg_fork01.nif
+icon: tr\m\tr_misc_purpg_fork01.dds
+data:
+  weight: 1.0
+  value: 12
+  flags: ''

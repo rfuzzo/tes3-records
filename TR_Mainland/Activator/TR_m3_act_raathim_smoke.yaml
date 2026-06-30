@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m3_act_raathim_smoke
+name: ''
+script: ''
+mesh: steam_lavariver.NIF

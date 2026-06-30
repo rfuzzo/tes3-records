@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_i2-410_silver longsword_brok
+name: Silver Longsword
+script: ''
+mesh: w\W_Longsword_Silver.nif
+icon: w\Tx_Silver_longsword.tga
+enchanting: ''
+data:
+  weight: 16.0
+  value: 16
+  weapon_type: LongBladeOneHand
+  health: 64
+  speed: 1.35
+  reach: 1.0
+  enchantment: 48
+  chop_min: 2
+  chop_max: 14
+  slash_min: 1
+  slash_max: 20
+  thrust_min: 4
+  thrust_max: 18
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE | SILVER

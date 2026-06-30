@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_q_SlaveLeaflet
+name: Slave Market Leaflet
+script: ''
+mesh: m\Text_Note_02.nif
+icon: m\Tx_note_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This seems to be some kind of slave market leaflet. It is old and tarnished, but you can make out the names of some of the slaves.]\r\nKeerasa, age 27. An excellent cook.\r\nShuassi, age about 23. Strong, able-bodied.\r\nTalen-Ei, age 20. Adept at precise work.\r\nMa'herra, age 24. An excellent fisherman.\r\n<BR>\r\n"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

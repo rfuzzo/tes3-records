@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_De_Indoril_Halberd_01
+name: Indoril Halberd
+script: ''
+mesh: tr\w\tr_w_indoril_halberd.nif
+icon: tr\w\tr_w_indoril_halberd.dds
+enchanting: ''
+data:
+  weight: 21.0
+  value: 3000
+  weapon_type: SpearTwoWide
+  health: 900
+  speed: 1.0
+  reach: 1.8
+  enchantment: 45
+  chop_min: 2
+  chop_max: 7
+  slash_min: 2
+  slash_max: 7
+  thrust_min: 5
+  thrust_max: 29
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

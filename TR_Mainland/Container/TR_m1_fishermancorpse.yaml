@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: TR_m1_fishermancorpse
+name: Gavis Arantam's Corpse
+script: TR_m1_Q_bah_widowscript
+mesh: o\contain_corpse20.NIF
+encumbrance: 120.0
+container_flags: IS_BASE
+inventory: []

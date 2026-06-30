@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_SetMw_SignRL_01
+name: Runners League
+script: SignRotate
+mesh: tr\f\tr_act_sign_runners.nif

@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_CyrImp_Furn_ChS2Probe
+name: Small Chest
+script: ''
+mesh: pc\o\pc_cont_chest_small_02.nif
+encumbrance: 25.0
+container_flags: IS_BASE
+inventory:
+- - 5
+  - T_Cyr_Random_Probe

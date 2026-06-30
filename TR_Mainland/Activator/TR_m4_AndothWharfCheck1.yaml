@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_AndothWharfCheck1
+name: Bal Foyen Wharf Sneak Checker
+script: TR_m4_AndothWharfCheck_scp
+mesh: EditorMarker.NIF

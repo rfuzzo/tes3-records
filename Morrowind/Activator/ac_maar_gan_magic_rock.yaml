@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: ac_maar_gan_magic_rock
+name: Magic Rock of Maar Gan
+script: shrineMaarGan
+mesh: i\in_moldboulder02.nif

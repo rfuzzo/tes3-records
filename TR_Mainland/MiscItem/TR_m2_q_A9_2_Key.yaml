@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m2_q_A9_2_Key
+name: Fareloth House Key
+script: ''
+mesh: m\Key_Temple_01.NIF
+icon: m\Tx_key_temple_01.tga
+data:
+  weight: 0.0
+  value: 1
+  flags: KEY

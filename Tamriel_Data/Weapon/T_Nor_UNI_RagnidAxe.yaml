@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Nor_UNI_RagnidAxe
+name: Ragnid the Axe
+script: ''
+mesh: sky\w\sky_nord_steel_waraxe.nif
+icon: sky\w\tx_w_steel_waxe_01.dds
+enchanting: T_Strike_RagnidAxeUNI
+data:
+  weight: 26.0
+  value: 1500
+  weapon_type: AxeOneHand
+  health: 1800
+  speed: 1.25
+  reach: 1.0
+  enchantment: 140
+  chop_min: 1
+  chop_max: 35
+  slash_min: 1
+  slash_max: 22
+  thrust_min: 1
+  thrust_max: 5
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_Deathbell_01
+name: Death Bell
+script: ''
+mesh: sky\n\Sky_ingred_deathb.nif
+icon: sky\n\tx_ingred_deathb.dds
+data:
+  weight: 0.1
+  value: 5
+  effects:
+  - Poison
+  - FortifyAttribute
+  - WeaknessToPoison
+  - DetectEnchantment
+  skills:
+  - None
+  - Block
+  - None
+  - None
+  attributes:
+  - None
+  - Intelligence
+  - None
+  - None

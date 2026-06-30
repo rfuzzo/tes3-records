@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Com_Farm_Sledgehammer_01
+name: Sledgehammer
+script: ''
+mesh: sky\m\sky_Misc_Hammer_02.nif
+icon: sky\m\tx_misc_hammer_02.dds
+enchanting: ''
+data:
+  weight: 12.0
+  value: 15
+  weapon_type: BluntTwoClose
+  health: 350
+  speed: 1.0
+  reach: 1.5
+  enchantment: 20
+  chop_min: 1
+  chop_max: 18
+  slash_min: 1
+  slash_max: 14
+  thrust_min: 0
+  thrust_max: 2
+  flags: ''

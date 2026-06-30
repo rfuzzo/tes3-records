@@ -1,0 +1,20 @@
+type: Alchemy
+flags: ''
+id: TR_m1_PT_Redram_Pot
+name: Rantela Irenam's Shadow Potion
+script: ''
+mesh: TR\m\TR_misc_potion_04.NIF
+icon: TR\m\tr_misc_potion_04.dds
+effects:
+- magic_effect: Chameleon
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 15
+  min_magnitude: 100
+  max_magnitude: 100
+data:
+  weight: 1.75
+  value: 300
+  flags: ''

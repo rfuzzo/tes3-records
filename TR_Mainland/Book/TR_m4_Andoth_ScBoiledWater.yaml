@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_Andoth_ScBoiledWater
+name: Recipe for Boiled Water
+script: ''
+mesh: m\Text_Parchment_02.nif
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>Recipe for Boiled Water <BR> <BR>\r\n1. Rinse pot to make sure it is clean. <BR>\r\n2. Pour water carefully into pot. <BR>\r\n3. Put pot on fire. <BR>\r\n4. Wait until great big bubbles appear. <BR>\r\n5. Take pot off fire and serve. <BR> <BR>\r\nDo NOT leave on fire after great big bubbles appear. If you do, the water will disappear and you'll have to start over. <BR> <BR>\r\nThis old family recipe goes great with boiled kwama eggs, boiled ash yams, and boiled saltrice. <BR>"
+data:
+  weight: 1.0
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 200

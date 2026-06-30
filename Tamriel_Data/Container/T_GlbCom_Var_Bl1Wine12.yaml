@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_GlbCom_Var_Bl1Wine12
+name: Barrel
+script: ''
+mesh: o\Contain_barrel_01.NIF
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 10
+  - T_Glb_Random_WineTamika

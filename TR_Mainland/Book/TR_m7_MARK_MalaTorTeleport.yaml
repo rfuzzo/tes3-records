@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_MARK_MalaTorTeleport
+name: player
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: m\Tx_scroll_open_01.tga
+enchanting: ''
+text: "NPC ID: player\r\nPosition Cell in script TR_m7_MalaTor_FallScpt"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

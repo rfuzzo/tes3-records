@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_VA_q_orlukhnotes
+name: Notes on the Hlaalu
+script: TR_m4_VA_q_orlukhnotes_scr
+mesh: m\Text_Parchment_01.NIF
+icon: m\Tx_parchment_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[The following are notes scribbled in a shaky hand.]<BR>\r\n<BR>\r\nBal Foyen Estates<BR>\r\n<BR>\r\nAtrius - smaller manor, smells terrible<BR>\r\nNoravyn - old estate, few guards<BR>\r\nVendicci - heavily guarded, related to Ebonheart(?)<BR>\r\nAndas - very important, large estate, many guards<BR>\r\n<BR>\r\n[The note continues to describe each of the estates in detail, as well as the comings and goings of visitors and small drawings of each building.]\r\n<BR>\r\n"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

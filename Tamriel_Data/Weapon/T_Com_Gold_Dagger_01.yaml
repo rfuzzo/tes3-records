@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Com_Gold_Dagger_01
+name: Gold Dagger
+script: ''
+mesh: TR\w\TR_w_gold_dagger.nif
+icon: TR\w\TR_w_gold_dagger.tga
+enchanting: ''
+data:
+  weight: 2.5
+  value: 120
+  weapon_type: ShortBladeOneHand
+  health: 350
+  speed: 2.4
+  reach: 1.0
+  enchantment: 25
+  chop_min: 5
+  chop_max: 6
+  slash_min: 5
+  slash_max: 6
+  thrust_min: 6
+  thrust_max: 6
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

@@ -1,0 +1,17 @@
+type: Container
+flags: BLOCKED
+id: Redoran_treas_chest_02
+name: Small Chest
+script: ''
+mesh: o\Contain_chest_small_01.NIF
+encumbrance: 20.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - ingred_diamond_01
+- - 3
+  - ingred_emerald_01
+- - 9
+  - ingred_pearl_01
+- - 720
+  - Gold_001

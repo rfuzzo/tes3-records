@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: chest_Goris
+name: Goris's small chest
+script: ''
+mesh: o\Contain_chest_small_02.NIF
+encumbrance: 25.0
+container_flags: IS_BASE
+inventory:
+- - 3
+  - ingred_diamond_01
+- - 4
+  - ingred_emerald_01
+- - 2
+  - ingred_pearl_01
+- - 5
+  - ingred_ruby_01

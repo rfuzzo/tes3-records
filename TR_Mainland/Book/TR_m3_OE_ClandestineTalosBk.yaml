@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_OE_ClandestineTalosBk
+name: Fragments on General Talos
+script: ''
+mesh: m\Text_Quarto_open_01.nif
+icon: m\Tx_quarto_open_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[Only fragments of the writing are legible.]\r\n<br>\r\n<BR>\r\n...before the siege of Sancre Tor word came from King Cuhlecain that any deserter caught would be skinned alive and hanged. Well enough, the men thought. And they went and smeared their faces and bodies with the carmine mud they used to mortar brickwalls and fashioned nooses around their necks so that the judges-martial would not need to look for no rope... <br> <br> ...and the reddest and the most fearless of all was General Talos. A tiger of a man. When the dragon god cast him, he done and broke the mold... <BR> <br> ...A god of Men, of War, will not remain a-sky forever. He will come to us in flesh, clad in iron. He shall be chosen by camaraderie and proven by battle... <br> <br> ...He does this for us, Red Legions, for he loves us... <br> <br> <br>\r\n"
+data:
+  weight: 4.0
+  value: 250
+  book_type: Book
+  skill: None
+  enchantment: 100

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_He_NacreGoblet_01
+name: Nacre Goblet
+script: ''
+mesh: sum\m\m_nacre_mop_cup02.nif
+icon: sum\m\sum_m_nacre_gob1.dds
+data:
+  weight: 2.0
+  value: 12
+  flags: ''

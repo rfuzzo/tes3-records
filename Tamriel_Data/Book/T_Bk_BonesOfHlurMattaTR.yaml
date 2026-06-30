@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_BonesOfHlurMattaTR
+name: Bones of Hlur'Matta
+script: ''
+mesh: TR\m\TR_book_closed02_AA.NIF
+icon: TR\m\TR_book_closed02_AA.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nBones of Hlur'Matta<BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nWhat is a body? What is the flesh? A simple network of bones and blood? Connections made through touch, smell, sight, sound, and taste? No, the Ancestors have taught us that there is much more to a body than that. Within each body is a temple, an oratory. We breathe as we live, we shed tears as we grieve, and we bleed as we survive. The embodiment of these things, that is where the root of our being resides. The EMBODIMENT is our temple.<BR>\r\n<BR>\r\nMany questions are asked throughout life, and the answers only come to us in the precious last few moments we stride the salts. A sanctimonious offering to the Ancestors for the knowledge they have given us; we offer them our temples in return for theirs. We frame and carve and cleave at the silken stone to bellow the dirge of our thanks in the massive halls that carry our voices to the skies; so we build the temples with throats. We fashion and adorn and decorate the altars with precious stones and candles made from the waxy carcasses of our Skyrenders; so we drape the temples in clothing. <BR>\r\n<BR>\r\nWe plan and contrive and perceive and surmise as we cobble the statues that stand tall in the atriums; so we build the temples with minds. We offer and sacrifice and submit and nominate our faith to the statues and their altars; so we build the temples with life. Our temples are infinite.<BR>\r\nSo what, again do you say, is a body? Could you ever dissect the truth of absolutes on an expedition for answers for which there was never birthed a question? Under the moons and beside the lakes we warden our possessions to farm the land, but their hands will never touch the vestibules of our Ancestors. These are our sacred lands, our paradises within paradise. Tending these rituals is more taxing than tending the dirt could ever be, as we are constantly in a precarious correlation to the honor we can give and the honor the Ancestors deserve. <BR>\r\n<BR>\r\nBut what, then, of our dead? Of those who made their way back to the Ancestors? The ashes of the dead can suffocate and fall in sheets from the sky. We instead chaperone the bones of our deceased, and shape them into cairns and effigies of power. The same temples that are built inside of us shall be erected from the earth and unto the endless void of the sky.<BR>\r\nThis is the correlation that men and the Altmer do not understand, that they do not appreciate, that they cannot decipher. Seek these bones, these macabre motifs, and know that you are near our sublime abodes. Our dwellings may be forgotten to time and mortal whim, but they still stand sound and deeply fastened into our history.<BR>\r\n<BR>\r\nTread lightly, brethren. And may the Hands guide you.<BR>\r\n<BR>"
+data:
+  weight: 1.0
+  value: 125
+  book_type: Book
+  skill: None
+  enchantment: 0

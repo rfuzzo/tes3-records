@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_SumHe_Furn_Ch1Repair
+name: Chest
+script: ''
+mesh: sum\o\sum_cont_chest_01.nif
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - 6
+  - T_Sum_Random_Repair

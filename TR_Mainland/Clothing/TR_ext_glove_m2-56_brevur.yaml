@@ -1,0 +1,20 @@
+type: Clothing
+flags: ''
+id: TR_ext_glove_m2-56_brevur
+name: Brevur's Aurous Grasp
+script: ''
+mesh: tr\c\tr_c_exp_glove_02_gnd.nif
+icon: tr\c\tr_c_exp_glove_02.dds
+enchanting: TR_en_m2-56_brevurglove
+biped_objects:
+- biped_object_type: RightHand
+  male_bodypart: T_C_ComEpGlove02_Ha
+  female_bodypart: ''
+- biped_object_type: RightWrist
+  male_bodypart: ''
+  female_bodypart: ''
+data:
+  clothing_type: RightGlove
+  weight: 1.0
+  value: 400
+  enchantment: 20

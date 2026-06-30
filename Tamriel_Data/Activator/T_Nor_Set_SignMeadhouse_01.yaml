@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Nor_Set_SignMeadhouse_01
+name: Mead House
+script: T_ScObj_WeatherAnimSHOTN
+mesh: sky\f\sky_act_sign_mead_01.nif

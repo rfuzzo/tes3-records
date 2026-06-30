@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: TR_m3-649_Chandelier
+name: ''
+script: ''
+mesh: pc\l\pc_com_chandelier_01L.nif
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 80
+  color:
+  - 245
+  - 140
+  - 40
+  - 0
+  flags: DYNAMIC | FIRE | FLICKER_SLOW

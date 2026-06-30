@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_Furn_Console_01
+name: Control Console
+script: T_ScObj_ReactorConsole
+mesh: pc\f\pc_imp_furn_console.nif

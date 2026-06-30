@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_Persarine_01
+name: Persarine Blossom
+script: ''
+mesh: Sky\n\Sky_Ingred_Persa_01.nif
+icon: Sky\n\Tx_Ingred_Persa_01.dds
+data:
+  weight: 0.2
+  value: 2
+  effects:
+  - RestoreAttribute
+  - FortifyAttribute
+  - ResistMagicka
+  - RestoreHealth
+  skills:
+  - Block
+  - Block
+  - None
+  - None
+  attributes:
+  - Personality
+  - Luck
+  - None
+  - None

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_TeaAltmer_02
+name: Assa Tea Cake
+script: ''
+mesh: sum\n\sum_ingred_tea_02.nif
+icon: sum\n\sum_ingred_tea_02.dds
+data:
+  weight: 0.5
+  value: 4
+  effects:
+  - RestoreFatigue
+  - FortifyAttribute
+  - FortifyFatigue
+  - DamageAttribute
+  skills:
+  - None
+  - Block
+  - None
+  - Block
+  attributes:
+  - None
+  - Endurance
+  - None
+  - Speed

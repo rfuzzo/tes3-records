@@ -1,0 +1,31 @@
+type: Armor
+flags: ''
+id: TR_M3_i605_Greaves
+name: Lucky Helga's Legs
+script: ''
+mesh: TR\a\tr_a_nordic_grea_GND.nif
+icon: TR\a\tr_a_norir_greav.dds
+enchanting: TR_M3_i605_Greaves_en
+biped_objects:
+- biped_object_type: Groin
+  male_bodypart: T_A_NorIronGreaves01_G
+  female_bodypart: ''
+- biped_object_type: LeftUpperLeg
+  male_bodypart: T_A_NorIronGreaves01_UL
+  female_bodypart: ''
+- biped_object_type: RightUpperLeg
+  male_bodypart: T_A_NorIronGreaves01_UL
+  female_bodypart: ''
+- biped_object_type: LeftKnee
+  male_bodypart: T_A_NorIronGreaves01_K
+  female_bodypart: ''
+- biped_object_type: RightKnee
+  male_bodypart: T_A_NorIronGreaves01_K
+  female_bodypart: ''
+data:
+  armor_type: Greaves
+  weight: 11.0
+  value: 150
+  health: 220
+  enchantment: 90
+  armor_rating: 16

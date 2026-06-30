@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_De_Set_BannerTownFireW_01
+name: Firewatch
+script: OutsideBanner
+mesh: TR\f\TR_banner_Firewatch.nif

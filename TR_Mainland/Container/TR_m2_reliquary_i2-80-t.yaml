@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m2_reliquary_i2-80-t
+name: Ornate Reliquary
+script: ''
+mesh: o\Contain_chest_small_01.nif
+encumbrance: 10.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - TR_m2_llothisrobe_i2-80-tri

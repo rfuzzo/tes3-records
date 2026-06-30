@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_OE_BeruNote
+name: Note from Beru Vesuri
+script: ''
+mesh: m\Misc_paper_plain_01.nif
+icon: m\Tx_paper_plain_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nBy the time you get this note, I should be far enough away from this cursed city. I'm sorry I didn't stay to thank you in person. I was too worried the Duke's men would find me if I stayed in Old Ebonheart too long. I'm afraid I can't tell you where I went. This note could be found and you've seen how stubborn he is yourself.\r\n<BR>\r\nWords cannot express my gratitude, I will never forget your kindness. I left you one of the amulets he gifted me. It's enchanted, but I'm not skilled with magic, so I don't know what it does. I hope it serves you well and thank you again.\r\n<BR>\r\n- B.\r\n<BR>\r\n<BR>\r\n \r\n "
+data:
+  weight: 0.01
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

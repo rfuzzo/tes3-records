@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_Fascicle11PC
+name: Fascicle 46-49
+script: ''
+mesh: pc\m\PC_bk_Book_10.nif
+icon: pc\m\pc_bk_book_10.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe Testament of the Church-Mothers<BR>\r\nFascicle 46-49<BR>\r\nSong for the Architect<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\n46. Then of Magnus was asked to provide the design of the spheres, but he refused, as he feared to lose his station between figments and lines in the newly world. And Shezarr flattered and bribed him, saying, \"For you there is prepared a special throne, and it is the throne of power and the energies, you will be at the world's helm, to direct the currents. From the spark of light and the mind will grow all things, under the ruler of the left hand.\" And Magnus was convinced, and set about to sketch and plot the world.<BR>\r\n<BR>\r\n47. Sketch and plot the world he did, in long and laborious artifice. There the mountains and the rivers did not take shape, but the idea of mountains and rivers, not unlike the skin-painter who sits and endeavors to produce his fresh design on bark and crust. Save no effort did Magnus Architect, and he was supported in this by a legion of industrious spirits whose quills never rested, but drew ink like blood on the page of an uncaring skein.<BR>\r\n<BR>\r\n48. For all to know, that Magnus was a coward and a traitor in the earliest end. For he did leave the Mundus, near robbing it from its light, its heat, from the light in our hands, and his quill-legion did leave the Mundus also. Were it not for their negligence and haste, never would we know the hand of light and life that makes flower bloom, river flow, that makes the verdant places sing.<BR>\r\n<BR>\r\n49. Still, let us never forget Magnus Architect, who devised the world and designed our place within it, and Magnus Transmittal, who looks out on us from on high and sends the luminous, and Magnus Warden, who stands by the gate and prepares the final palatial. Give praise to cowards celestial and forgive them their betrayal.<BR>\r\n<BR>"
+data:
+  weight: 4.0
+  value: 300
+  book_type: Book
+  skill: Armorer
+  enchantment: 0

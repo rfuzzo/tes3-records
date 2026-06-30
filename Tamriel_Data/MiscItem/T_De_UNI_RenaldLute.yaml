@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_UNI_RenaldLute
+name: Renald the Incredible Lute
+script: T_ScObj_RenaldLute
+mesh: m\Misc_de_lute_01.NIF
+icon: m\Tx_de_lute_01.tga
+data:
+  weight: 3.0
+  value: 250
+  flags: ''

@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: TR_m3_Kha_3_Sconce10_64
+name: ''
+script: ''
+mesh: l\light_sconce10.NIF
+icon: ''
+sound: Fire 40
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 64
+  color:
+  - 245
+  - 140
+  - 50
+  - 0
+  flags: DYNAMIC | FIRE | FLICKER_SLOW

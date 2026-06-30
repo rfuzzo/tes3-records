@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: TR_m7_HK_chest_percius
+name: Percius Berano's Chest
+script: ''
+mesh: o\Contain_chest_small_02.NIF
+encumbrance: 25.0
+container_flags: IS_BASE
+inventory:
+- - 12
+  - T_De_Glass_Dart_01
+- - 6
+  - glass throwing knife
+- - 3
+  - glass throwing star

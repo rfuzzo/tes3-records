@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_EnSc_Ayl_DaedricHerald2
+name: Scroll of Strange Incomers
+script: ''
+mesh: pc\m\pc_ayl_scroll_01.nif
+icon: pc\m\pc_ayl_scroll_01.tga
+enchanting: T_Once_AylDaedricHerald2
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>\r\n<IMG SRC=\"PC\\PC_ay_scroll_daedric_herald.dds\" WIDTH=\"420\" HEIGHT=\"420\"><BR>"
+data:
+  weight: 2.5
+  value: 200
+  book_type: Scroll
+  skill: None
+  enchantment: 100

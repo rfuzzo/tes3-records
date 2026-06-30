@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_GoldWatcSeed_01
+name: Golden Watcher Seed
+script: ''
+mesh: hf\n\hf_ingred_GoldWatch_01.nif
+icon: hf\n\hf_ingred_GoldWatc_01.dds
+data:
+  weight: 0.1
+  value: 35
+  effects:
+  - RestoreAttribute
+  - NightEye
+  - FortifySkill
+  - Blind
+  skills:
+  - Block
+  - None
+  - Conjuration
+  - None
+  attributes:
+  - Willpower
+  - None
+  - Strength
+  - None

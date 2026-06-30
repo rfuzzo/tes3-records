@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_De_Var_ShrineOrdinator_01
+name: Shrine of the Ordinators
+script: T_ScObj_ShrineOrdinator
+mesh: TR\f\TR_furn_shrine_ord_01.nif

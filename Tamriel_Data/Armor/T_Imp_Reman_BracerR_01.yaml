@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Imp_Reman_BracerR_01
+name: Reman Legion Right Bracer
+script: ''
+mesh: pc\a\pc_a_reman_bracer_g.nif
+icon: pc\a\pc_a_reman_brac.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: RightWrist
+  male_bodypart: T_A_ImpRemanBracer01_W
+  female_bodypart: ''
+data:
+  armor_type: RightBracer
+  weight: 4.0
+  value: 110
+  health: 90
+  enchantment: 150
+  armor_rating: 19

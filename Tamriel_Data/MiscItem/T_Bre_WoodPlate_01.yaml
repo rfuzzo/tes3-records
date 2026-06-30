@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Bre_WoodPlate_01
+name: Plate
+script: ''
+mesh: hr\m\hr_misc_wood_plate_01.nif
+icon: hr\m\hr_misc_wood_plate_01.dds
+data:
+  weight: 1.0
+  value: 1
+  flags: ''

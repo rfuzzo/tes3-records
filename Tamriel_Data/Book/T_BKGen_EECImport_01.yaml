@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_BKGen_EECImport_01
+name: EEC Import Record
+script: ''
+mesh: pc\m\PC_bk_Book_15.nif
+icon: pc\m\pc_bk_book_15.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\n[This book is filled with figures on the import of products from other parts of the Empire. You can see the amounts traded of goods such as Cyrodilic brandy, flin, and silverware as recorded by the Census and Excise authorities. It is dated within the past five months.] \r\n<BR>"
+data:
+  weight: 2.0
+  value: 5
+  book_type: Book
+  skill: None
+  enchantment: 0

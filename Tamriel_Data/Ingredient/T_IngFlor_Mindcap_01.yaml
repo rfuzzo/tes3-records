@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_Mindcap_01
+name: Mindcap
+script: ''
+mesh: hr\n\hr_ing_mindcap_01.nif
+icon: hr\n\hr_ing_mindcap01.tga
+data:
+  weight: 0.2
+  value: 3
+  effects:
+  - Sound
+  - FortifyMagicka
+  - DrainFatigue
+  - Poison
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

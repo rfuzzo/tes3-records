@@ -1,0 +1,22 @@
+type: Armor
+flags: ''
+id: BM_NordicMail_gauntletL
+name: Nordic Mail Left Gauntlet
+script: ''
+mesh: a\A_NordicMail_M_Ga_GND.NIF
+icon: A\NordicMail_Grove.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: LeftHand
+  male_bodypart: A_NordicMail_M_gauntlet
+  female_bodypart: A_NordicMail_F_gauntlet
+- biped_object_type: LeftWrist
+  male_bodypart: ''
+  female_bodypart: ''
+data:
+  armor_type: LeftGauntlet
+  weight: 8.0
+  value: 1000
+  health: 100
+  enchantment: 100
+  armor_rating: 66

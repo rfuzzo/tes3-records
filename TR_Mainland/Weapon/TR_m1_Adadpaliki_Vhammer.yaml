@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m1_Adadpaliki_Vhammer
+name: Steel Viper Longhammer
+script: ''
+mesh: tr\w\tr_w_steel_longhmr.nif
+icon: tr\w\tr_w_steel_longhmr.dds
+enchanting: cruel viper_en
+data:
+  weight: 36.0
+  value: 280
+  weapon_type: BluntTwoClose
+  health: 2600
+  speed: 1.0
+  reach: 1.8
+  enchantment: 65
+  chop_min: 1
+  chop_max: 34
+  slash_min: 1
+  slash_max: 30
+  thrust_min: 1
+  thrust_max: 6
+  flags: ''

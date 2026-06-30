@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_Andoth_AndasManorLedger02
+name: Andas Estate Visitor Log
+script: ''
+mesh: tr\m\tr_book_tomebk_o_02.nif
+icon: tr\m\tr_book_open_tome02.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n[This is a log of the numerous people who have visited the Andas Estate.]<BR>"
+data:
+  weight: 8.0
+  value: 50
+  book_type: Book
+  skill: None
+  enchantment: 0

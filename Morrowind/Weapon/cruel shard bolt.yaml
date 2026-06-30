@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: cruel shard bolt
+name: Cruel Shard Bolt
+script: ''
+mesh: w\W_Bolt_silver.NIF
+icon: w\tx_bolt_silver.tga
+enchanting: cruel shard_en
+data:
+  weight: 0.1
+  value: 7
+  weapon_type: Bolt
+  health: 10
+  speed: 1.0
+  reach: 1.0
+  enchantment: 16
+  chop_min: 3
+  chop_max: 3
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

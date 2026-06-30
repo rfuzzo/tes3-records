@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_q_GuarNote
+name: Order Sheet
+script: ''
+mesh: m\Text_Note_02.nif
+icon: m\Tx_note_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nGaras,<BR>\r\n<BR>\r\nPlease deliver five crates of your guar meat to the Queen's Cutlass  in Firewatch. I do wonder how you manage such affordable prices, in these trying times.<BR>\r\n<BR>\r\nRa'manjas, Publican of the Queen's Cutlass<br>\r\n<br>\r\n[An addendum in different handwriting is noted underneath]\r\n<BR>\r\n<BR>\r\nFoolish cat-man. How indeed? Little does he know...<BR>\r\n<BR>"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

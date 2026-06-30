@@ -1,0 +1,11 @@
+type: MiscItem
+flags: PERSISTENT
+id: misc_com_wood_spoon_01_UNI2
+name: Spoon
+script: ''
+mesh: m\Misc_Com_Wood_Spoon_01.NIF
+icon: m\Misc_Com_Wood_Spoon_01.tga
+data:
+  weight: 0.5
+  value: 1
+  flags: ''

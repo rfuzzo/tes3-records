@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Imp_ColGoatHide_Helmet_01
+name: Colovian Goat Hide Helmet
+script: ''
+mesh: pc\a\pc_a_cologoat_helm_gnd.nif
+icon: pc\a\pc_a_goathide_helm.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Hair
+  male_bodypart: T_A_ImpColGoatHelmet01_Hr
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 3.0
+  value: 18
+  health: 50
+  enchantment: 75
+  armor_rating: 6

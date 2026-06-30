@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m7_MG_Conduit_03
+name: Oblivion Stream Conduit
+script: T_ScObj_SteamConduit
+mesh: pc\f\pc_imp_furn_conduit.nif

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_i2_238_bk_scrollledger
+name: Ledger
+script: ''
+mesh: m\Text_Octavo_open_07.nif
+icon: m\Tx_octavo_open_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nLedger for Scroll Procurement<BR>\r\n<DIV ALIGN=\"LEFT\">\r\nErimir - Scroll of Mark and 3 Scrolls of Recall<BR>\r\n  -Purpose: Set up teleport to personal chambers.<BR>\r\n<BR>\r\nValna Sipposoti - 1 Scroll of Flameguard<BR>\r\n -Purpose: Preparation of Highly Combustible Potion<BR>\r\n<BR>\r\nBren Smitte - 2 Scrolls of Hellfire<BR>\r\n -Purpose: Cooking<BR>\r\nBren: Your request has been denied - please see me and return those scrolls. -Aren<BR>\r\n<BR>\r\nTelasene Res - 2 Scrolls of Healing and 2 Scrolls of Bodily Restoration<BR>\r\n -Purpose: To use as supplements in healing.<BR>\r\n<BR>\r\nItesan Nessim - 2 Scrolls of Healing, 2 Scrolls of Fourth Barrier, 1 Scroll of Almsivi Intervention, 1 Scroll of Breva's Averted Eye's, and 3 Scrolls of Elemental Burst: Shock<BR>\r\n -Purpose: Upcoming Expedition to Kemel-Ze<BR>\r\n<BR>"
+data:
+  weight: 2.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 0

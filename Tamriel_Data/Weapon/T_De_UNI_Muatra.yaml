@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_De_UNI_Muatra
+name: Muatra
+script: ''
+mesh: tr\w\tr_w_muatra_uni.nif
+icon: tr\w\tr_w_muatra_uni.dds
+enchanting: T_Strike_Muatra
+data:
+  weight: 40.0
+  value: 220000
+  weapon_type: SpearTwoWide
+  health: 1800
+  speed: 1.0
+  reach: 1.8
+  enchantment: 1110
+  chop_min: 5
+  chop_max: 15
+  slash_min: 7
+  slash_max: 18
+  thrust_min: 15
+  thrust_max: 70
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

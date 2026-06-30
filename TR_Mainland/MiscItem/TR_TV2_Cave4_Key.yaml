@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_TV2_Cave4_Key
+name: A Rusty Key
+script: ''
+mesh: M\key_standard_01.nif
+icon: m\tx_key_standard_01.dds
+data:
+  weight: 0.0
+  value: 0
+  flags: KEY

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_q_EveshiNote
+name: Note to Diranya
+script: ''
+mesh: m\Misc_paper_plain_01.nif
+icon: m\Tx_paper_plain_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nI have resolved the issue we spoke of earlier: all of the items were found. I will tell you more in person, after I'm done with my work.\r\n-- Eveshi Drilor\r\n<BR>\r\n<BR>\r\n\r\n"
+data:
+  weight: 1.0
+  value: 3
+  book_type: Scroll
+  skill: None
+  enchantment: 50

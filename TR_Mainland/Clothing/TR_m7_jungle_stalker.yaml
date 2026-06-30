@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m7_jungle_stalker
+name: Amulet of the Jungle Stalker
+script: ''
+mesh: pc\c\pc_c_We_amulet_02.nif
+icon: pc\c\pc_We_amulet_02.dds
+enchanting: TR_m7_jungle_stalker_en
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 400
+  enchantment: 150

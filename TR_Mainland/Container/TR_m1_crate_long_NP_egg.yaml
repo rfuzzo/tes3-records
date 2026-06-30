@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: TR_m1_crate_long_NP_egg
+name: Crate
+script: ''
+mesh: TR\o\TR_cont_crate_L_01.nif
+encumbrance: 400.0
+container_flags: IS_BASE
+inventory:
+- - 5
+  - food_kwama_egg_01
+- - 5
+  - food_kwama_egg_02
+- - 15
+  - random_kwama egg
+- - 5
+  - random_kwama_cuttle

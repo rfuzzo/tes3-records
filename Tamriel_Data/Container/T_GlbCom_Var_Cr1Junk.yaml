@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_GlbCom_Var_Cr1Junk
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 20
+  - T_Glb_Random_Junk

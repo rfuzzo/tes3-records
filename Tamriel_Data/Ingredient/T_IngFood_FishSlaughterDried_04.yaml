@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_FishSlaughterDried_04
+name: Dried Slaughterfish
+script: ''
+mesh: pc\n\pc_ing_dryfish_04.nif
+icon: pc\n\pc_tx_ingred_dryfish4.dds
+data:
+  weight: 2.5
+  value: 3
+  effects:
+  - RestoreFatigue
+  - None
+  - None
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

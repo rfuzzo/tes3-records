@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Glb_Sound_Haunted_Hymn
+name: 'Sound Effect: Haunted Hymns'
+script: T_ScSound_HauntedHymn
+mesh: EditorMarker.NIF

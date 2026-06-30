@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_soaptaxscroll
+name: Soap Tax Proclamation Edict
+script: ''
+mesh: m\Text_Scroll_01.nif
+icon: m\Tx_scroll_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nSoap Tax Proclamation Edict<BR>\r\n<BR>\r\n<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\">\r\n[A long legal document that outlines the tax rates for many \"fat or wax-based solids, either for alchemical or personal hygiene purposes, known henceforth in this document as 'soaps'\". The tax rate on alchemical soaps such as 'sload soap' is five septims. The tax rate on all other soaps is zero.]<BR>"
+data:
+  weight: 1.0
+  value: 10
+  book_type: Scroll
+  skill: None
+  enchantment: 0

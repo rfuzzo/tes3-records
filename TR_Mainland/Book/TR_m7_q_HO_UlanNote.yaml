@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_q_HO_UlanNote
+name: Ulan's Orders
+script: ''
+mesh: m\Text_Note_02.nif
+icon: m\Tx_note_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nUlan,<BR>\r\n<BR>\r\nWe have reason to believe the Redguard will try to skip town this week. Should you see him in a hurry to board a ship, kill him.<BR>\r\n"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

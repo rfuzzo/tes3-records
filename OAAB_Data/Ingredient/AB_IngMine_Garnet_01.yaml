@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: AB_IngMine_Garnet_01
+name: Garnet
+script: ''
+mesh: OAAB\n\gem_garnet_01.nif
+icon: OAAB\n\gem_garnet.dds
+data:
+  weight: 0.2
+  value: 125
+  effects:
+  - WeaknessToFire
+  - FireDamage
+  - Sanctuary
+  - Blind
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

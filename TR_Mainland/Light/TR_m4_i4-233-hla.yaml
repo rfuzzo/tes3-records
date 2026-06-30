@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: TR_m4_i4-233-hla
+name: ''
+script: ''
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 1
+  time: -1
+  radius: 77
+  color:
+  - 2
+  - 136
+  - 99
+  - 0
+  flags: ''

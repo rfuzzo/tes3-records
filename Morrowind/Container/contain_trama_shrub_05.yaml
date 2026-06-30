@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: contain_trama_shrub_05
+name: Trama Shrub
+script: ''
+mesh: o\Contain_Trama_Shrub_05.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 2
+  - random_trama_root

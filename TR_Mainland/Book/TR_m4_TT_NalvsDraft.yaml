@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_TT_NalvsDraft
+name: Crumpled Paper
+script: TR_m4_TT_LastWillEnable_sc
+mesh: tr\m\tr_misc_crumpaper.nif
+icon: tr\m\tr_misc_crumpaper.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nBy the Grace of ALMSIVI, Lords and Rulers of All<BR>\r\n<BR>\r\nKnow all Dunmer by these words that Muthsera Ulmon Vathri has willed his possessions and house in Omaynis to the Temple--<BR>\r\n                ...has bequeathed his estate to Nalvs Andolin representing the Bal Foyen Tem--<BR>\r\n                ...has bequeathed his estate to the Tribunal Temple. Master Nalvs Andolin will act as caretaker of Ulmon Vathri's estate--<BR>\r\n                              ...Nalvs Andolin will be appointed as caretaker of said estate until such a time--<BR>\r\n<BR>"
+data:
+  weight: 0.2
+  value: 10
+  book_type: Scroll
+  skill: None
+  enchantment: 10

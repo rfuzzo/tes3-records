@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: T_Mw_Fauna_KwaCocoon02
+name: Kwama Cocoon
+script: ''
+mesh: tr\o\tr_cont_kwa_cocoon_02.nif
+encumbrance: 0.0
+container_flags: IS_BASE
+inventory: []

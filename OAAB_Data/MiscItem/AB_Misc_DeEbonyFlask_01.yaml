@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_DeEbonyFlask_01
+name: Frosted Ebony Flask
+script: ''
+mesh: OAAB\m\misc_ebony_flask.nif
+icon: OAAB\m\misc_ebony_flask.dds
+data:
+  weight: 4.0
+  value: 350
+  flags: ''

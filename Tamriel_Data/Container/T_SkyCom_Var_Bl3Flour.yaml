@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_SkyCom_Var_Bl3Flour
+name: Barrel
+script: ''
+mesh: Sky\o\Sky_Cont_Barrel_03.nif
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 10
+  - T_IngFood_Flour_01

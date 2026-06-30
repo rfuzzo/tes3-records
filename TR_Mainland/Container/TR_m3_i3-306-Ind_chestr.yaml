@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: TR_m3_i3-306-Ind_chestr
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_02.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 3
+  - hammer_repair
+- - 2
+  - repair_journeyman_01
+- - 2
+  - repair_master_01
+- - -3
+  - repair_prongs

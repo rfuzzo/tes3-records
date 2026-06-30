@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: BM_KA_bluefire_small
+name: ''
+script: ''
+mesh: i\BM_KA_bluefire.NIF
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 128
+  color:
+  - 2
+  - 148
+  - 164
+  - 0
+  flags: FLICKER_SLOW

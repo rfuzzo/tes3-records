@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m4_AA_UvaynJewelryBag_02
+name: Half of Balvene Uvayn's Jewelry
+script: ''
+mesh: f\Act_BM_seeds_01.NIF
+icon: n\Tx_ingred_seeds_01.dds
+data:
+  weight: 2.5
+  value: 3000
+  flags: ''

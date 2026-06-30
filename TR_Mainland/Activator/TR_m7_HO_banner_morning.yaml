@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_HO_banner_morning
+name: Morning Sun Cornerclub
+script: OutsideBanner
+mesh: tr\f\tr_act_banner_inn_01.nif

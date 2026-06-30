@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: T_MwCom_Var_CrL1EggRand
+name: Crate
+script: ''
+mesh: TR\o\tr_cont_crate_l_01.nif
+encumbrance: 400.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - T_Mw_Random_EggsHomogenous
+- - 1
+  - T_Mw_Random_EggsMixed
+- - 5
+  - random_kwama egg

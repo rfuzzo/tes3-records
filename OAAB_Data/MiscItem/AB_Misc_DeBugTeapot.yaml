@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_DeBugTeapot
+name: Decorative Teapot
+script: ''
+mesh: OAAB\m\kettle_bug_01.nif
+icon: OAAB\m\kettle_bug_01.tga
+data:
+  weight: 3.0
+  value: 10
+  flags: ''

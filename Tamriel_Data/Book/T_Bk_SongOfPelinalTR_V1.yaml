@@ -1,0 +1,18 @@
+type: Book
+flags: ''
+id: T_Bk_SongOfPelinalTR_V1
+name: The Song of Pelinal, Volume 1
+script: ''
+mesh: TR\m\TR_book_closed_i15_AY.nif
+icon: TR\m\TR_book_closed_i15_AY.dds
+enchanting: ''
+text: |
+  <DIV ALIGN="LEFT"><FONT COLOR="000000" SIZE="3" FACE="Magic Cards">[Editor's Note: Volumes 1-6 are taken from the so-called Reman Manuscript located in the Imperial Library. It is a transcription of older fragments collected by an unknown scholar of the early Second Era. Beyond this, little is known of the original sources of these fragments, some of which appear to be from the same period (perhaps even from the same manuscript). But, as no scholarly consensus yet exists on dating these six fragments, no opinions will be offered here.]<BR>
+  <DIV ALIGN="CENTER"><BR>The Song of Pelinal, Volume 1: On His Name<BR>
+  <DIV ALIGN="LEFT"><BR>That he took the name "Pelinal" was passing strange, no matter his later sobriquets, which were many. That was an Elvish name, and Pelinal was a scourge on that race, and not much given to irony. Pelinal was much too grim for that; even in youth he wore white hair, and trouble followed him. Perhaps his enemies named Pelinal of their own in their tongue, but that is doubtful, for it means "glorious knight", and he was neither to them. Certainly, many others added to that name during his days in Tamriel: he was Pelinal the Whitestrake because of his left hand, made of a killing light; he was Pelinal the Bloody, for he [drank] it in victory; he was Pelinal Insurgent, because he gave the crusades a face; he was Pelinal In Triumph, as the words eventually became synonymous, and men-at-arms gave thanks to the Eight when they saw his banner coming through war; he was Pelinal the Blamer, for he was quick to admonish those allies of his that favored tactics that ran counter to his, that is, sword-theory; and he was Pelinal the Third, though whether this was because some said he was a god guiser, who had incarnated twice before already, or that, simpler, he was the third vision given to Perrif, anon Alessia, in her prayers of liberation before he walked among the quarters of rebellion, is unknown.<BR>
+data:
+  weight: 1.5
+  value: 100
+  book_type: Book
+  skill: None
+  enchantment: 100

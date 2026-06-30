@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_bk_m4_letter_Wesencolm
+name: Letter From Wesencolm
+script: ''
+mesh: m\Text_Parchment_02.NIF
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>Agent Wesencolm at the Bodrum Lode<BR>\r\nVeloth District, Morrowind Province<BR><BR>\r\n14th of Last Seed<BR><BR>\r\nHome Office of the East Empire Company<BR>\r\nCity of Cyrodiil, Imperial Province<BR><BR>\r\nTo the Attention of: Acquisitions<BR><BR>\r\nThe Bodrum region, in the southwest of Roth Roryn, is, as previous reports have indicated, rich in malachite glass. I have been unable to demonstrate previous reserve estimates, but I believe that indigenous explorations have only barely tapped the higher level deposits.<BR><BR>\r\nHowever, it is unlikely that the Company could acquire any claims or even through-access without considerable intervention by the provincial government. All land in the territory is the hereditary property of a native institution called the House of Redoran; local leadership is very loyal to this organization and disinclined to negotiate with any other party. I recommend focusing our energies on other finds for the present.<BR><BR>\r\nI intend to make my return to the City, by way of the Kragenmoor Pass, before the end of the year, once I have concluded all of my affairs. I have been deadly tired the last few mornings.<BR><BR>\r\nWesencolm<BR>"
+data:
+  weight: 1.2
+  value: 5
+  book_type: Scroll
+  skill: None
+  enchantment: 0

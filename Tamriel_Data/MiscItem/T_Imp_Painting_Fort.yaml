@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_Painting_Fort
+name: A Fort Between Umbrella Trees
+script: ''
+mesh: pi\m\PI_M_Painting_Fort.nif
+icon: pi\m\PI_M_Painting_Fort.dds
+data:
+  weight: 6.0
+  value: 160
+  flags: ''

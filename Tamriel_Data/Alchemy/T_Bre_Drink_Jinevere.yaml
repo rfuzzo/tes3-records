@@ -1,0 +1,44 @@
+type: Alchemy
+flags: ''
+id: T_Bre_Drink_Jinevere
+name: Jinevere
+script: ''
+mesh: hr\m\hr_misc_jinevere.nif
+icon: hr\m\hr_misc_jinevere.dds
+effects:
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Strength
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 30
+  max_magnitude: 30
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Endurance
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 30
+  max_magnitude: 30
+- magic_effect: DrainAttribute
+  skill: None
+  attribute: Intelligence
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 25
+  max_magnitude: 25
+- magic_effect: DrainAttribute
+  skill: None
+  attribute: Willpower
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 25
+  max_magnitude: 25
+data:
+  weight: 4.0
+  value: 65
+  flags: ''

@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Rea_UNI_FeatherCrown
+name: Feathered Crown
+script: ''
+mesh: Sky\a\Sky_A_RM_HT_01_GND.nif
+icon: Sky\a\Sky_RM_Hat_01.dds
+enchanting: T_Use_FeatherCrown
+biped_objects:
+- biped_object_type: Hair
+  male_bodypart: ''
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 2.0
+  value: 850
+  health: 100
+  enchantment: 75
+  armor_rating: 8

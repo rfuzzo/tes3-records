@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2_q_Nm_Wake_ledger
+name: Sodden Ledger
+script: TR_m2_q_Nm_Wake_logscript
+mesh: m\Text_Octavo_05.NIF
+icon: m\Tx_book_04.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">[ Many years in the water have washed away all the ink of this ledger, and the pages stick together in a wet clump. However, there is a golden plaquette affixed to the inside cover, with ORPHANED DANCER embossed on it. ]<BR>\r\n\r\n"
+data:
+  weight: 2.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 0

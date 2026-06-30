@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: sc_fjaldingnote
+name: Old, Wet Note
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nWinter-Fist,\r\n<BR>\r\nIt is as we had feared. Angria and her rabble are intent on stealing the Snow Prince's armor from Jolgierr Barrow. My men drove them off, but they grabbed the helmet. I know they're hiding somewhere here on the island. They've been seen before near Lake Fjalding and the Frykte ice cave, so try looking there. I'll join up with you as soon as I'm able.\r\n<BR>\r\nHeinlen the Heavy\r\n<BR>\r\n \r\n "
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

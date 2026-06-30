@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: tramaroot_06
+name: Trama Root
+script: ''
+mesh: o\Contain_tramaroot_06.NIF
+encumbrance: 0.0
+container_flags: IS_BASE
+inventory: []

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Sc_TuneOfTheRoadTR
+name: Tune of the Road
+script: ''
+mesh: m\Text_Scroll_01.nif
+icon: m\Tx_scroll_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nTune of the Road<BR>\r\nFinn Geth<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\">\r\nThe road stretches ever on,<BR>\r\nAnd forever to it I am drawn.<BR>\r\nYet to keep my heavy lids awake,<BR>\r\nA mere tune is all it takes.<BR><BR>\r\nNo need for minstrels or bards,<BR>\r\nA simple song needs nothing of these regards.<BR>\r\nIt takes nothing save a mouth to sing it with<BR>\r\nAll else is just a myth.<BR><BR>\r\nYou can keep your lutes,<BR>\r\nYou can keep your guarskin drums.<BR>\r\nThe best companion on the road,<BR>\r\nIs a simple tune to hum.<BR>"
+data:
+  weight: 1.5
+  value: 10
+  book_type: Scroll
+  skill: None
+  enchantment: 0

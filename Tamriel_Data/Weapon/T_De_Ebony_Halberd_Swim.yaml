@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_De_Ebony_Halberd_Swim
+name: The Horker's Tooth
+script: ''
+mesh: pc\w\pc_w_ebon_halberd.nif
+icon: pc\w\pc_w_ebon_halberd.dds
+enchanting: T_Const_SwiftSwim25
+data:
+  weight: 28.0
+  value: 12180
+  weapon_type: SpearTwoWide
+  health: 1200
+  speed: 1.0
+  reach: 1.8
+  enchantment: 100
+  chop_min: 2
+  chop_max: 8
+  slash_min: 2
+  slash_max: 8
+  thrust_min: 5
+  thrust_max: 32
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

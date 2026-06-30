@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Com_Steel_Dagger_AugDisarm
+name: Steel Dagger of Disarming
+script: ''
+mesh: tr\w\tr_w_steel_dagger_03.nif
+icon: tr\w\tr_w_steel_dagger_03.dds
+enchanting: T_Strike_DisarmingWeapon
+data:
+  weight: 3.0
+  value: 87
+  weapon_type: ShortBladeOneHand
+  health: 420
+  speed: 2.5
+  reach: 1.0
+  enchantment: 40
+  chop_min: 3
+  chop_max: 4
+  slash_min: 3
+  slash_max: 4
+  thrust_min: 6
+  thrust_max: 9
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

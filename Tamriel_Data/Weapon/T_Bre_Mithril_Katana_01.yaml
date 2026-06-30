@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Bre_Mithril_Katana_01
+name: Mithril Katana
+script: ''
+mesh: tr\w\tr_w_mithril_katana.nif
+icon: tr\w\tr_w_mithril_katana.dds
+enchanting: ''
+data:
+  weight: 24.0
+  value: 12500
+  weapon_type: LongBladeOneHand
+  health: 2200
+  speed: 1.5
+  reach: 1.0
+  enchantment: 750
+  chop_min: 3
+  chop_max: 30
+  slash_min: 1
+  slash_max: 28
+  thrust_min: 1
+  thrust_max: 9
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

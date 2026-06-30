@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: artifact_amulet of heartheal
+name: Amulet of Heartheal
+script: ''
+mesh: c\Artifact_amulet_hheal_01.NIF
+icon: c\Tx_amulet_hheal_01.tga
+enchanting: ward of vemyn
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 5.0
+  value: 20000
+  enchantment: 150

@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: TR_m1_TW_AeonianShield
+name: Aeonian Shield
+script: ''
+mesh: a\TowerShield_Trollbone.NIF
+icon: a\tx_towershield_trollbone.tga
+enchanting: TR_m1_TW_Const_AeonianShield
+biped_objects:
+- biped_object_type: Shield
+  male_bodypart: towershield_trollbone
+  female_bodypart: ''
+data:
+  armor_type: Shield
+  weight: 16.0
+  value: 10000
+  health: 360
+  enchantment: 400
+  armor_rating: 18

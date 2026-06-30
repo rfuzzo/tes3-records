@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_He_GreenCeladonVase_01
+name: Green Celadon Vase
+script: ''
+mesh: sum\m\sum_misc_celg_vase_01.nif
+icon: sum\m\sum_misc_celg_vase_01.dds
+data:
+  weight: 5.0
+  value: 20
+  flags: ''

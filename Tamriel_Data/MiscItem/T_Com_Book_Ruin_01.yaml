@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_Book_Ruin_01
+name: Ruined Book
+script: ''
+mesh: tr\m\tr_book_ruined_01.nif
+icon: tr\m\tr_book_ruined_01.dds
+data:
+  weight: 3.0
+  value: 1
+  flags: ''

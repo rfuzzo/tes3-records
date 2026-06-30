@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_i2_303_journalNerendus
+name: Journal of Giden Nerendus
+script: ''
+mesh: TR\m\TR_note_a04.nif
+icon: TR\m\tr_note_a04.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThis is the journal of the famous smuggler Giden Nerendus, if I say so myself. Today we discovered this cavern. We first thought that it was only a grotto, but then we discovered this really nice hall. We didn't have to argue much before we set up camp; this is just a perfect cave. This great hall is very nice and the cave is really close to the river to help us smuggle. <BR>\r\n<BR>\r\nToday we constructed a pen for the beasties. They have nowhere to go now! Our smuggling operations go as planned, no one will smuggle as much as we will through these mountains!<BR>\r\n<BR>\r\nToday something strange has happened. My nose is turning yellow! They tell me my eyes are getting yellow as well! It's obvious I am becoming sick. The others are frightened, I was almost the healthiest of us...<BR> \r\n<BR>\r\nAn accursed day! I've been getting sicker over the last few days, and Tumsa also began to get a yellow nose. They were so frightened that they left me! They took all the things we smuggled with them, except for the heavy stuff. Luckily I know of a hidden stash we placed in the last room of the grotto in a crate... If I can reach it, I will be a wealthy man.<BR> \r\n<BR>\r\nNo! No, no, no. I couldn't climb the stairs. That means I'm trapped here! I've been drinking really much, but it isn't helping me at all. By Azura, I hope I get better!<BR> \r\n<BR>\r\nTrapped here in this cave. I can hear the beasts screaming. They are trapped as well in their cage. I wish I could save them. I wish I could save myself. I wish<BR> \r\n<BR>"
+data:
+  weight: 1.0
+  value: 10
+  book_type: Scroll
+  skill: None
+  enchantment: 100

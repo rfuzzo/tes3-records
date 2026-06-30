@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_Set_Shrine_Alessia01
+name: Shrine of Alessia
+script: T_ScObj_ShrineAlessia
+mesh: pc\x\pc_ex_wshrn_05.nif

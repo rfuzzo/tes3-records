@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_De_Var_LanternGreen05_177
+name: ''
+script: ''
+mesh: TR\l\tr_l_de_paplant_grn_01.nif
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 177
+  color:
+  - 25
+  - 180
+  - 140
+  - 0
+  flags: DYNAMIC

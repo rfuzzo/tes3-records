@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m7_Adavrin_KeyVault1
+name: Adavrin Plantation Vault Key 1
+script: ''
+mesh: TR\m\TR_Key_DD13.NIF
+icon: TR\m\TR_Key_DD13.dds
+data:
+  weight: 0.0
+  value: 300
+  flags: KEY

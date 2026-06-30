@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_SmearSpores_01
+name: Smear Spores
+script: ''
+mesh: tr\n\tr_ing_smearspores.nif
+icon: tr\n\tr_ing_smearspores.dds
+data:
+  weight: 1.0
+  value: 10
+  effects:
+  - Blind
+  - Poison
+  - DamageFatigue
+  - WaterBreathing
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_HoneyLily_01
+name: Honey Lily Blossom
+script: ''
+mesh: Sky\n\Sky_Ingred_LY_H_01.nif
+icon: Sky\n\Tx_Ingred_LY_H_01.dds
+data:
+  weight: 0.1
+  value: 2
+  effects:
+  - RestoreFatigue
+  - CurePoison
+  - RestoreHealth
+  - WeaknessToMagicka
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

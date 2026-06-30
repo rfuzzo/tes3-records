@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Com_Adamant_WarAxe_01
+name: Adamantium War Axe
+script: ''
+mesh: TR\w\TR_w_adamant_waraxe.NIF
+icon: TR\w\TR_w_adamant_axe.dds
+enchanting: ''
+data:
+  weight: 22.0
+  value: 1000
+  weapon_type: AxeOneHand
+  health: 2900
+  speed: 1.25
+  reach: 1.0
+  enchantment: 100
+  chop_min: 1
+  chop_max: 35
+  slash_min: 1
+  slash_max: 19
+  thrust_min: 1
+  thrust_max: 5
+  flags: ''

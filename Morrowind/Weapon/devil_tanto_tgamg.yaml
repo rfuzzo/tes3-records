@@ -1,0 +1,23 @@
+type: Weapon
+flags: PERSISTENT
+id: devil_tanto_tgamg
+name: Anarenen's Devil Tanto
+script: ''
+mesh: w\W_Tanto.nif
+icon: w\Tx_Tanto.tga
+enchanting: devil tanto_en
+data:
+  weight: 4.0
+  value: 157
+  weapon_type: ShortBladeOneHand
+  health: 500
+  speed: 2.25
+  reach: 1.0
+  enchantment: 22
+  chop_min: 5
+  chop_max: 9
+  slash_min: 5
+  slash_max: 9
+  thrust_min: 6
+  thrust_max: 9
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

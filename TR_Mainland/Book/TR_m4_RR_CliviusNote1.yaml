@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: TR_m4_RR_CliviusNote1
+name: Epitaph
+script: TR_m4_RR_CliviusStuff_scp
+mesh: m\Text_Note_02.nif
+icon: m\Tx_note_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nHere lies Clivius Corruvian<BR>\r\n<BR>\r\n"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 100

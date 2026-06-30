@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m7_AHPicnicLute
+name: Breynard's Lute
+script: TR_m7_AffairsHeartPicnic_sc
+mesh: pc\m\pc_misc_lute_01.nif
+icon: pc\m\pc_misc_lute_01.dds
+data:
+  weight: 4.0
+  value: 22
+  flags: ''

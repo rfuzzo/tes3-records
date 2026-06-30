@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Echo_04
+name: EEC CRUSHES MINERS' REVOLT
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_text_note_nar_news.nif
+icon: tr\m\tr_text_note_nar_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\tr_echo_512_256.dds\" WIDTH=\"348\" HEIGHT=\"168\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nEEC CRUSHES MINERS' REVOLT<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nSapphire miners in Num-Ittu Mine were recently coerced into ending a rebellion originally started for better wages. The mine, owned and operated by the East Empire Company, was a major source of income for it, but the workers never saw much of the profits themselves. According to a Company official who chose to remain anonymous, a mercenary known as %PCName was hired from the Fighters Guild to put down the revolt -- by any means necessary. Confirmed reports have been received that multiple miners were killed, possibly in an effort to scare any remaining back to work. The Echo wishes to remind the EEC that it bears responsibility for the safety of its employees, and denounces the cruel actions it has taken.<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

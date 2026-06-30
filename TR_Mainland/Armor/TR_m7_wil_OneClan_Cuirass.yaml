@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: TR_m7_wil_OneClan_Cuirass
+name: Salerys Family Cuirass
+script: ''
+mesh: tr\a\tr_a_wm_cuirass_gnd.nif
+icon: tr\a\tr_a_wm_cuirass.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_A_DeWatersMarchCuirass01_C
+  female_bodypart: ''
+data:
+  armor_type: Cuirass
+  weight: 24.0
+  value: 350
+  health: 480
+  enchantment: 160
+  armor_rating: 16

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_StonewarePlatter_01
+name: Stoneware Platter
+script: ''
+mesh: TR\m\tr_misc_stn_platter.nif
+icon: TR\m\tr_misc_stn_plate02.dds
+data:
+  weight: 2.0
+  value: 5
+  flags: ''

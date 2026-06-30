@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Bellman_21
+name: RAVEN ROCK UNDER NEW MANAGEMENT
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_note_oe_news.nif
+icon: tr\m\tr_note_oe_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\TR_bellman_512_256.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nRAVEN ROCK UNDER NEW MANAGEMENT<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nAfter suffering a series of setbacks and a spat of executive in-fighting, the Solstheim chapter of the East Empire Company was put under the management of %PCName the %PCRace. The chapter's previous Factor, Carnius Magius, was forcefully retired after it became evident that he was the architect of many of the hardships facing the colony. The residents of Raven Rock are of a hardy stock indeed, having endured attacks by Spriggans, the local savages, and even purported assassins. Despite all this, the settlement still stands, and one can only hope that it will thrive under the guidance of its new Factor.<br><br>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

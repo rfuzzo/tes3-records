@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_Propylon_Khalaan
+name: Khalaan Propylon
+script: TR_m3_Propylon_Khalaan_sc
+mesh: tr\i\tr_in_portal_khalaan.nif

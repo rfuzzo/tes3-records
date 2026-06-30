@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Nor_UNI_Kahvozeins_Fang_01
+name: Kahvozein's Fang
+script: ''
+mesh: sky\w\sky_w_kahv_fang_uni.nif
+icon: sky\w\sky_w_kahv_fang_uni.dds
+enchanting: T_Const_Kahvozein's_Fang
+data:
+  weight: 6.5
+  value: 35000
+  weapon_type: ShortBladeOneHand
+  health: 2200
+  speed: 2.5
+  reach: 1.0
+  enchantment: 20
+  chop_min: 10
+  chop_max: 20
+  slash_min: 13
+  slash_max: 25
+  thrust_min: 10
+  thrust_max: 20
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

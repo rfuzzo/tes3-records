@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m4_orlukhsblade
+name: Blade of Orlukh
+script: ''
+mesh: TR\w\TR_w_orcish_claymore.nif
+icon: TR\w\TR_w_orcish_claymore.dds
+enchanting: TR_m4_orlukhsblade_en
+data:
+  weight: 35.0
+  value: 3500
+  weapon_type: LongBladeTwoClose
+  health: 2500
+  speed: 1.25
+  reach: 1.0
+  enchantment: 100
+  chop_min: 12
+  chop_max: 45
+  slash_min: 10
+  slash_max: 40
+  thrust_min: 5
+  thrust_max: 23
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

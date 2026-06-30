@@ -1,0 +1,25 @@
+type: Container
+flags: ''
+id: T_MwCom_Var_Cr1IndBM_02
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_De_Bonemold_Ulvra_Boots
+- - 1
+  - T_De_Bonemold_Ulvra_BracerL
+- - 1
+  - T_De_Bonemold_Ulvra_BracerR
+- - 1
+  - T_De_Bonemold_Ulvra_Cuirass
+- - 1
+  - T_De_Bonemold_Ulvra_Greaves
+- - 1
+  - T_De_Bonemold_Ulvra_Helm
+- - 1
+  - T_De_Bonemold_Ulvra_PauldL
+- - 1
+  - T_De_Bonemold_Ulvra_PauldR

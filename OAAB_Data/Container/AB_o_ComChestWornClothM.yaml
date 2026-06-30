@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: AB_o_ComChestWornClothM
+name: Large Chest
+script: ''
+mesh: o\contain_chest10.nif
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - 3
+  - AB_lvl_c_DeComM

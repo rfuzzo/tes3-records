@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: T_SkyCom_Var_Cr9Miner
+name: Crate
+script: ''
+mesh: Sky\o\Sky_Cont_Crate_09.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - common_glove_left_01
+- - 1
+  - common_glove_right_01
+- - 3
+  - miner's pick
+- - 1
+  - misc_com_bucket_01

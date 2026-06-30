@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: TR_m2_de_r_chest_arms
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 20
+  - cruel sparkarrow
+- - 30
+  - silver arrow
+- - 2
+  - steel longbow

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_DreughWarAxe
+name: Dreugh War Axe
+script: ''
+mesh: OAAB\w\dreugh_waraxe.nif
+icon: OAAB\w\dreugh_waraxe.tga
+enchanting: ''
+data:
+  weight: 21.6
+  value: 600
+  weapon_type: AxeOneHand
+  health: 800
+  speed: 1.25
+  reach: 1.0
+  enchantment: 46
+  chop_min: 1
+  chop_max: 32
+  slash_min: 1
+  slash_max: 13
+  thrust_min: 1
+  thrust_max: 4
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

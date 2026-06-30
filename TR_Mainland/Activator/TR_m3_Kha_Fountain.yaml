@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_Kha_Fountain
+name: Fountain of the Whisps
+script: TR_m3_Kha_Whisp_Fountain
+mesh: f\furn_pycave_pool00.NIF

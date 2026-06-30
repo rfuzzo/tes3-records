@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_AbMonitor_32
+name: THE PILGRIM'S FIGHT PIT FAME
+script: T_ScNews_Bellman_Paper
+mesh: pc\m\pc_text_note_anv_news.nif
+icon: pc\m\pc_text_note_anv_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"PC\\pc_abmonitor.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nFIGHT PIT PHENOM FINISHES FIRST IN FABULOUS FASHION<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nThe rapid ascent of the Pilgrim in the Abecette Casino's world-famous arena has taken Anvil by storm and caused a great deal of tumult in the betting markets. Emerging from complete obscurity only recently, the Pilgrim has convincingly dispatched a succession of challengers, including the crowd favorites Harge the Large, the Corsairs, and Takhur the Terrible. To the delight of the crowd, the Pilgrim ended their historic run in the season's championship bout against the previous champion, the Nightingale, a contest which saw over nine million septims wagered.<BR><BR>\r\nWhile it is unclear what the future holds for this popular new fighter in coming seasons, the Pilgrim's unprecedented ascent to the very pinnacle of the sport has already earned them a place in pit fighting history for a generation.<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_De_FurnM_Bar_Door_01
+name: Bar Door
+script: BarDoor
+mesh: tr\f\tr_furn_de_rm_bar_d.nif

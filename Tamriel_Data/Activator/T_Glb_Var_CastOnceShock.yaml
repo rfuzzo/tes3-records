@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Glb_Var_CastOnceShock
+name: Shock
+script: T_ScObj_CastOnceShock
+mesh: c\C_Ring_common01.NIF

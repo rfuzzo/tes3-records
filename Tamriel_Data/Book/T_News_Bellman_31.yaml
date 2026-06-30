@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Bellman_31
+name: HOUSE ELVES ELECT HORTATOR
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_note_oe_news.nif
+icon: tr\m\tr_note_oe_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\TR_bellman_512_256.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nHOUSE ELVES ELECT HORTATOR<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nFollowing a period of religious unrest and political jockeying among the native factions, the Temple of the Dark Elves declared that an immigrant %PCRace has been elected Hortator of the Grand Council. Hortator is apparently not just the name of a popular card game, but also an ancient honorific bestowed upon the war chief of the Dark Elf armies. Why the notoriously xenophobic natives chose to confer this title upon a foreigner remains unclear. Informed sources tell us that the office of the Hortator has stood empty for at least two decades.<br><br>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nBELLMAN ANALYSIS:<BR>UPRISING IMMINENT?<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nDoes this Hortator pose a threat to Imperial hegemony? Citizens worried about potential Dark Elf uprisings can rest assured, so says one of the Bellman's anonymous Legion contacts: \"The terms of the Armistice forbid the natives from maintaining a standing army, leaving this war chief without warriors to command. This whole affair sounds like internal Dark Elf politics to me. Besides, what can a single %PCRace possibly hope to achieve?\"<br><br>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

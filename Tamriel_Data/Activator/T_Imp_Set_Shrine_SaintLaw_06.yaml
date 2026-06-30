@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_Set_Shrine_SaintLaw_06
+name: Shrine of St. Somutus
+script: T_ScObj_ShrineSaintLawPC
+mesh: pc\x\pc_ex_wshrn_04.nif

@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Imp_Cm_Amulet_AbsorbWillpower
+name: Amulet of Absorb Willpower
+script: ''
+mesh: pc\c\pc_c_cmamulet_01.nif
+icon: pc\c\pc_c_cmamulet_01.dds
+enchanting: red despair_enu
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 20
+  enchantment: 15

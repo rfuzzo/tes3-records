@@ -1,0 +1,23 @@
+type: Weapon
+flags: PERSISTENT | BLOCKED
+id: dwe_jinksword_curse_Unique
+name: Flawed Dwemer Jinksword
+script: ''
+mesh: w\W_Dwemer_shortsword.nif
+icon: w\Tx_Dwemer_shortsword.tga
+enchanting: paralysis_curse_unique_en
+data:
+  weight: 8.0
+  value: 350
+  weapon_type: ShortBladeOneHand
+  health: 1000
+  speed: 2.0
+  reach: 1.0
+  enchantment: 40
+  chop_min: 12
+  chop_max: 25
+  slash_min: 12
+  slash_max: 25
+  thrust_min: 11
+  thrust_max: 16
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

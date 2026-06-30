@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_Redpoppy_01
+name: Red Poppy
+script: ''
+mesh: sky\n\sky_ingred_redpoppy.nif
+icon: sky\n\tx_ingred_rpoppy.dds
+data:
+  weight: 0.1
+  value: 2
+  effects:
+  - DrainAttribute
+  - ResistFire
+  - RestoreAttribute
+  - RestoreFatigue
+  skills:
+  - Block
+  - None
+  - Block
+  - None
+  attributes:
+  - Strength
+  - None
+  - Endurance
+  - None

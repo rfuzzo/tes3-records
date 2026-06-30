@@ -1,0 +1,12 @@
+type: Lockpick
+flags: ''
+id: T_Com_Thief_Fork01
+name: Thief's Lockpick Fork
+script: ''
+mesh: tr\m\tr_misc_thief_fork.nif
+icon: tr\m\tr_misc_thief_fork.dds
+data:
+  weight: 0.25
+  value: 50
+  quality: 1.15
+  uses: 25

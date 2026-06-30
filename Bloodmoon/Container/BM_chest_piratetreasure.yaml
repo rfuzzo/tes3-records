@@ -1,0 +1,23 @@
+type: Container
+flags: ''
+id: BM_chest_piratetreasure
+name: Pirate's Chest
+script: ''
+mesh: o\Contain_De_Chest_02.nif
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - exquisite_amulet_01
+- - 3
+  - exquisite_ring_01
+- - 3
+  - ingred_diamond_01
+- - 4
+  - ingred_emerald_01
+- - 3
+  - ingred_ruby_01
+- - 1
+  - ingred_pearl_01
+- - 5000
+  - Gold_001

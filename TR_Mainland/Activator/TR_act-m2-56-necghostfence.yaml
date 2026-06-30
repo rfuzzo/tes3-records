@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_act-m2-56-necghostfence
+name: ''
+script: ''
+mesh: f\active_mh_forcefield.nif

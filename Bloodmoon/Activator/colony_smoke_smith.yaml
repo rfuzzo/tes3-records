@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: colony_smoke_smith
+name: ''
+script: ColonyServSmith
+mesh: chimney_smoke_small.NIF

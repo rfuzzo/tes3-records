@@ -1,0 +1,85 @@
+type: Container
+flags: ''
+id: T_TestSHotN_Weapons
+name: Chest of SHotN Weapons
+script: ''
+mesh: Sky\o\Sky_Cont_Chest_05_01.nif
+encumbrance: 250.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Nor_FineSteel_Seax_01
+- - 1
+  - T_Nor_Huntsman_Arrow_01
+- - 1
+  - T_Nor_Huntsman_Bow_01
+- - 1
+  - T_Nor_Huntsman_Shortsword_01
+- - 1
+  - T_Nor_Ice_Arrow_01
+- - 1
+  - T_Nor_Ice_Bow_01
+- - 1
+  - T_Nor_Iron_Seax_01
+- - 1
+  - T_Nor_Iron_Spear_01
+- - 1
+  - T_Nor_Iron_ThrowingAxe_01
+- - 1
+  - T_Nor_Iron_WarAxe_01
+- - 1
+  - T_Nor_Orn_BattleAxe_Frostbitt
+- - 1
+  - T_Nor_Orn_Broadsword_Frostbitt
+- - 1
+  - T_Nor_Orn_Dagger_01
+- - 1
+  - T_Nor_Orn_Longsword_01
+- - 1
+  - T_Nor_Orn_Seax_01
+- - 1
+  - T_Nor_Orn_Shortsword_01
+- - 1
+  - T_Nor_Orn_Spear_01
+- - 1
+  - T_Nor_Orn_ThrowingAxe_01
+- - 1
+  - T_Nor_Orn_WarAxe_01
+- - 1
+  - T_Nor_Orn_Warhammer_01
+- - 1
+  - T_Nor_Regular_Longsword_01
+- - 1
+  - T_Nor_SilverSpear_01
+- - 1
+  - T_Nor_Silver_Bow_01
+- - 1
+  - T_Nor_Silver_Dagger_Danswyrm
+- - 1
+  - T_Nor_Silver_Seax_01
+- - 1
+  - T_Nor_Silver_Shortsword_Danswyr
+- - 1
+  - T_Nor_StalhrimShortsword_01
+- - 1
+  - T_Nor_StalhrimSpear_01
+- - 1
+  - T_Nor_Steel_Spear_01
+- - 1
+  - T_Nor_Steel_WarHammer_01
+- - 1
+  - T_Nor_Steel_Waraxe_01
+- - 1
+  - T_Rea_Regular_Halberd_01
+- - 1
+  - T_Rea_Regular_Halberd_Bloodlett
+- - 1
+  - T_Rea_Regular_WarAxe_01
+- - 1
+  - T_Rea_Regular_WarAxe_Bonesplitt
+- - 1
+  - T_Rea_Regular_WarAxe_Harrier
+- - 1
+  - T_Rea_Regular_WarAxe_Witchwarri
+- - 1
+  - T_Rea_Regular_Warhammer_01

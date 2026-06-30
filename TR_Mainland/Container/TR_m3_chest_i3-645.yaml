@@ -1,0 +1,21 @@
+type: Container
+flags: ''
+id: TR_m3_chest_i3-645
+name: Ancient Wooden Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Mw_Lvl_WeaponsLongOneHand
+- - 3
+  - l_b_Bandit_goods
+- - 1
+  - p_levitation_s
+- - 200
+  - random gold
+- - 100
+  - random gold_lev_05
+- - 50
+  - random gold_lev_10

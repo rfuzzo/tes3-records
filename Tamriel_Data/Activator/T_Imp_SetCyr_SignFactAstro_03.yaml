@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_SetCyr_SignFactAstro_03
+name: Imperial Astrological Society
+script: ''
+mesh: pc\f\pc_furn_sign_astro_03.nif

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_q_FrorkLetter
+name: Frorkvald's Letter
+script: ''
+mesh: m\Text_Parchment_02.nif
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nI've traveled all the way from Skyrim to sample this city's hospitality, yet I have found it quite lacking. I speak, of course, of the famed elven brews. Mazte, shein, even sujamma -- It is all as weak and watery as the race that creates it. Give me one crate of good Nord mead, and I will have you and your fishbrew out of business within the month. <BR>\r\nYour incompetence has left me wanting, and I see no other form of restitution than trial by arms. As the challenged, you are of course free to choose the time, place, and methods. If you should refuse, I will have no choice but to desecrate your ancestral tomb. Your skeletons and ghosts should be no match for a Nord warrior such as me. <BR> <BR>\r\nFrorkvald the Stoker <BR>\r\n\r\n"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m7_q_Ns_IC4_AmuletStMeris
+name: Amulet of St. Meris
+script: ''
+mesh: c\Amulet_Expensive_3.NIF
+icon: c\tx_amulet_expens3.tga
+enchanting: T_Use_DaydenesPanacea
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 140
+  enchantment: 150

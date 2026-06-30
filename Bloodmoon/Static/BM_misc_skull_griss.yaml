@@ -1,0 +1,4 @@
+type: Static
+flags: PERSISTENT
+id: BM_misc_skull_griss
+mesh: m\misc_skull00.nif

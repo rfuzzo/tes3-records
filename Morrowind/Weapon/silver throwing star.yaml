@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: silver throwing star
+name: Silver Throwing Star
+script: ''
+mesh: w\W_silver_star.NIF
+icon: w\tx_silver_star.tga
+enchanting: ''
+data:
+  weight: 0.2
+  value: 16
+  weapon_type: MarksmanThrown
+  health: 45
+  speed: 1.0
+  reach: 1.0
+  enchantment: 12
+  chop_min: 2
+  chop_max: 5
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

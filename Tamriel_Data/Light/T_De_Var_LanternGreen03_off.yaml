@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_De_Var_LanternGreen03_off
+name: ''
+script: ''
+mesh: tr\l\tr_l_de_lantern_grn_03.nif
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 16
+  color:
+  - 0
+  - 0
+  - 0
+  - 0
+  flags: ''

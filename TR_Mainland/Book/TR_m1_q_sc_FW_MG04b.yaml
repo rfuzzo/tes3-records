@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_q_sc_FW_MG04b
+name: Report to Talver Dolmyn
+script: TR_m1_q_FW_AbsolonNotes_sc
+mesh: m\Text_paper_roll_01.nif
+icon: m\Tx_paper_roll_01.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nT is back. Gindaman will try to make another deal soon. Odylic mage arrived from the west. I've included a sample of his notes in this package. Soul gem shipments never stop.\r\n<BR>\r\nAuctoria suspects a spy. Thefts have been noticed. Need an out.\r\n<BR>\r\nNH\r\n<BR>"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

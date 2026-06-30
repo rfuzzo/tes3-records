@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_GrassPod01
+name: Grass Pod
+script: ''
+mesh: sky\n\t_ingFlor_GrassPod01.nif
+icon: sky\n\sky_ingr_grasspod.dds
+data:
+  weight: 0.1
+  value: 1
+  effects:
+  - ResistFrost
+  - RestoreFatigue
+  - DrainAttribute
+  - DrainAttribute
+  skills:
+  - None
+  - None
+  - Block
+  - Block
+  attributes:
+  - None
+  - None
+  - Luck
+  - Intelligence

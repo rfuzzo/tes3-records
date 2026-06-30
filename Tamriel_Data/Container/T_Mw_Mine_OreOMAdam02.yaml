@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Mw_Mine_OreOMAdam02
+name: Raw Adamantium
+script: ''
+mesh: tr\o\tr_cont_rock_aom_23.nif
+encumbrance: 0.0
+container_flags: ORGANIC | IS_BASE
+inventory:
+- - 1
+  - random_adamantium

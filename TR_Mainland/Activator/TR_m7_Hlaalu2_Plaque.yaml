@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_Hlaalu2_Plaque
+name: Manor of the Second Family
+script: TR_m7_Hlaalu2_Plaque_Sc
+mesh: pc\f\pc_furn_sign_plaque_02.nif

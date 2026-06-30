@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: misc_com_broom_01
+name: Broom
+script: ''
+mesh: m\Misc_Com_Broom_01.NIF
+icon: m\Misc_Com_Broom_01.tga
+data:
+  weight: 3.0
+  value: 5
+  flags: ''

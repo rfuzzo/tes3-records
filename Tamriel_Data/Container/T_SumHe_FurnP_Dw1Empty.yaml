@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_SumHe_FurnP_Dw1Empty
+name: Drawers
+script: ''
+mesh: sum\o\sum_furn_p_drwr_01.nif
+encumbrance: 110.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Glb_Empty

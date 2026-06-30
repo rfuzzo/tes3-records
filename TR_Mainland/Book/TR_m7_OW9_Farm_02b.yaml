@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_OW9_Farm_02b
+name: Farm_02b
+script: ''
+mesh: tr\tr_note_pin.nif
+icon: default icon.dds
+enchanting: ''
+text: "Farm shack\r\nFurnP"
+data:
+  weight: 0.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 0

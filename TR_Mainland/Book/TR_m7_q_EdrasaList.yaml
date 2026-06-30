@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_q_EdrasaList
+name: Edrasa's List
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nA single bottle of Shein to lubricate my fauces<BR>\r\n<BR>\r\nTwo delectable pieces of scrib jerky to fill me up<BR>\r\n<BR>\r\nAn olive branch for the peace that my love has won -- at least until the next bloody duel<BR>\r\n<BR>\r\nAnd a beautifully written poem that confesses my deepest desires, my most profound feelings towards Jalir Vonis<BR>\r\n<BR>\r\n\r\n"
+data:
+  weight: 0.2
+  value: 100
+  book_type: Scroll
+  skill: None
+  enchantment: 0

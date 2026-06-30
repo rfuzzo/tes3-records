@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: sc_cureblight_ranged
+name: Scroll of Daerir's Blessing
+script: ''
+mesh: m\Text_Scroll_01.nif
+icon: m\Tx_scroll_open_01.tga
+enchanting: cureblight_ranged_en
+text: "<DIV ALIGN=\"center\">\r\n<FONT FACE=\"Daedric\"><BR>\r\n\r\nBlessing of Daerir<P>\r\n\r\nRide the storms, lest they ride thee.<P>\r\nConsume the red sands, lest they consume thee<P>\r\nBy the one from the dark waters<P>\r\nBy the one who was first in the deep waters<P>\r\nBy my will I cleanse thee of the red sands.<P>\r\n\r\n</FONT>\r\n</DIV>"
+data:
+  weight: 1.0
+  value: 100
+  book_type: Scroll
+  skill: None
+  enchantment: 100

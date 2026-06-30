@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_ProperLockDesignPC
+name: Proper Lock Design
+script: ''
+mesh: pc\m\pc_bk_book_39.nif
+icon: pc\m\pc_bk_book_39.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nProper Lock Design and Construction<BR><BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nI have encountered many thieves whose sole interest in locks is how to open them and thereby pilfer the protected contents of the room or chest. I have taken it upon myself to devise a system of locks that can defeat such villainous intent.<BR>\r\n<BR>\r\nThe materials used to create a lock are of utmost importance. Shoddy brass or copper will give way to a well placed kick, thereby rendering the lock itself useless. I recommend steel over iron when choosing a material. More robust materials tend to be prohibitively expensive and necessitate the door being made of similar metals. I have been chagrined to stumble across the shattered shell of a wooden chest, its dwarven lock intact and still locked.<BR>\r\n<BR>\r\nOnce these basics are settled, pay particular attention to the offset of the tumblers. A seven degree offset to the keyhole will allow a torque style key to work smoothly, while at the same time causing numerous headaches for the thief attempting to insert non-torque lockpicks.<BR>\r\n<BR>\r\nIn similar fashion, the springs of the tumblers should be made by different smiths. Each smith will unknowingly create a spring with different tension than his fellow smiths. This variance will also create difficulties for anyone attempting to pick the lock.<BR>\r\n<BR>"
+data:
+  weight: 2.0
+  value: 30
+  book_type: Book
+  skill: None
+  enchantment: 0

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_SH09Kwama2_Note1
+name: Rolled Record
+script: ''
+mesh: m\Text_paper_roll_01.nif
+icon: m\Tx_paper_roll_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n[This document records upcoming business matters such as the bulk transport of eggs, the wages of workers, and a dispute regarding the cost of proposed support repairs.]<BR>\r\n"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

@@ -1,0 +1,21 @@
+type: Container
+flags: ''
+id: TR_AimrahIC6_SmallSack
+name: Small Sack
+script: ''
+mesh: TR\o\TR_contain_small_sack.nif
+encumbrance: 20.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_IngFood_MeatAlit_01
+- - 1
+  - T_IngFood_MeatGuar_01
+- - 2
+  - ingred_alit_hide_01
+- - 2
+  - ingred_crab_meat_01
+- - 3
+  - ingred_guar_hide_01
+- - 2
+  - ingred_kagouti_hide_01

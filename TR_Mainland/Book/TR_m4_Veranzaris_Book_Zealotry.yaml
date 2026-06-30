@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_Veranzaris_Book_Zealotry
+name: Zealotry
+script: ''
+mesh: m\Text_Octavo_07.nif
+icon: m\Tx_book_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nZealotry<BR>\r\nThe beliefs and ways of the Zealots dedicated to Sheogorath<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nThe self-proclaimed Zealots of Sheogorath believe our liege lord to be not just a man of mysterious and wondrous powers, but a living god. They believe his will sustains the lands and his whim supports all things in it. They believe Arden-Sul, Who Reads the Winds in Our Entrails, was the mortal aspect of Lord Sheogorath, and will come again to cleanse the Realm. Since these claims are clearly ridiculous, it can be assumed that all Zealots are quite mad.\r\n<BR><BR>\r\nThe Zealots cannot be reasoned with. They cannot be treatied with easily. They attack almost anyone on sight, assuming them to be heretics or non-believers. They fight to the death, reveling in the carnage.\r\n<BR><BR>\r\nThe reader might ask, then how does one join the Zealots? After much research, I discovered that Zealots sneak into settled areas and leave sets of robes behind. Anyone inclined toward Zealotry can don these robes and approach the Zealots safely. It is said that Zealot leaders can see the true heart of a supplicant, even if he wears the robes, and will slay any false supplicants.\r\n<BR><BR>\r\nEven then, the Zealots have painful rituals meant to prove their fealty to Sheogorath. Only the most devout supplicants are accepted into their ranks. Those who fail these tests are put to death.\r\n<BR><BR>\r\nOnce a supplicant is accepted as a Zealot, he is taught ceremonies and sorcerous secrets. The best known of these is summoning Flesh Atronachs to do their bidding. These powerful creatures are formidable foes.<BR>"
+data:
+  weight: 3.0
+  value: 250
+  book_type: Book
+  skill: None
+  enchantment: 0

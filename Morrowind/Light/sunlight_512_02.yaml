@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: sunlight_512_02
+name: ''
+script: ''
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 512
+  color:
+  - 253
+  - 240
+  - 2
+  - 0
+  flags: ''

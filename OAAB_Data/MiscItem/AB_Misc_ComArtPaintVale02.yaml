@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_ComArtPaintVale02
+name: Painting
+script: ''
+mesh: OAAB\m\com_paint_vale_02.nif
+icon: OAAB\m\com_painting_vale_02.tga
+data:
+  weight: 6.0
+  value: 300
+  flags: ''

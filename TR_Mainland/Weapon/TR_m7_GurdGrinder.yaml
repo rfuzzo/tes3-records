@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m7_GurdGrinder
+name: Gurd's Mineral Grinder
+script: ''
+mesh: tr\w\tr_w_orcish_club.nif
+icon: tr\w\tr_w_orcish_club.dds
+enchanting: TR_m7_GurdGrinder_en
+data:
+  weight: 12.6
+  value: 2000
+  weapon_type: BluntOneHand
+  health: 900
+  speed: 1.5
+  reach: 1.0
+  enchantment: 45
+  chop_min: 8
+  chop_max: 10
+  slash_min: 4
+  slash_max: 5
+  thrust_min: 4
+  thrust_max: 5
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

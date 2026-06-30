@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: TR_m7_HelvalTombChest
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - ebony_towershield
+- - 2
+  - l_b_loot_tomb03

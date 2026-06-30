@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_bc_ampoule_pod
+name: Ampoule Pod
+script: ''
+mesh: n\Ingred_BC_Ampoule_Pod.NIF
+icon: n\Ingred_BC_Ampoule_Pod.tga
+data:
+  weight: 0.1
+  value: 2
+  effects:
+  - WaterWalking
+  - Paralyze
+  - DetectAnimal
+  - DrainAttribute
+  skills:
+  - Block
+  - Block
+  - Block
+  - Block
+  attributes:
+  - Strength
+  - Strength
+  - Strength
+  - Willpower

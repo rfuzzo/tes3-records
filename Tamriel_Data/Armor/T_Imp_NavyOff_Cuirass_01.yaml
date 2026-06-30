@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Imp_NavyOff_Cuirass_01
+name: Navy Officer Cuirass
+script: ''
+mesh: tr\a\TR_A_NavyOff_Cuir_G.nif
+icon: tr\a\tr_a_navyoff_cuir.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_A_ImpNavyOffCuir01_C
+  female_bodypart: T_A_ImpNavyOffCuir01_CF
+data:
+  armor_type: Cuirass
+  weight: 29.0
+  value: 165
+  health: 500
+  enchantment: 200
+  armor_rating: 17

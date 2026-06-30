@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_NVA3_crane_middle_01
+name: ''
+script: TR_m7_NVA_Stage3
+mesh: tr\x\CraneMiddle01.NIF

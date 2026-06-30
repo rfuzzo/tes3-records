@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_OE_HighRockSpyReport
+name: Royal Spies' Report
+script: ''
+mesh: m\Text_paper_roll_01.nif
+icon: m\Tx_paper_roll_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nFor the King's eyes only. Messenger should be either blind, illiterate or put to death upon delivery. <br> <br> \r\nYour Royal Highness! <br> <br>\r\nIn WAYREST: HRH Queen Elysana remains unpopular as ever. In the streets of Wayrest the rabble call the Queen an 'orc-face' and a 'foolish witch' and they think back with great fondness to the good old days when the wolf banner flew alongside the three roses above the towers and walls of the city. The people long for your return, my King.  \r\n<br> <br>\r\nOur spies within the household of Castle Wayrest tell that HRH Queen Elysana is growing increasingly paranoid. She has recently hired a new taster of noble birth out of fear that her would-be poisoners could use a poison that only affected aristocrats. Last month also saw a summary execution of a blacksmith's apprentice who was unfortunate enough to cross paths with the Queen's carriage twice on the same afternoon, which made him a likely assassin. We are requesting permission to fuel the Queen's paranoia with a few strategically (mis)placed daggers.\r\n<br> <br>\r\nIn FIRSTHOLD: A conversation between HRH Queen Morgiah and an unidentified party was successfully eavesdropped in the palace ice gardens by our spy. Reportedly, the Queen told the other party that she was \"unto to 'them'\" and that she \"would have to contact 'him'\". She then went on to declare in an exaggeratedly loud voice that any spy listening in the conversation should--while writing their report--make sure to spell 'them' with a capital 'T' and spell 'him' as 'Mannimarco, the King of Worms'. Our spy concludes his report by saying that he believes his cover has been blown and requests immediate assistance, and indeed: we haven't heard of him since. We believe that he has resorted to the \"invisibility potion\" we supplied him with and have already made the necessary arrangements to find a replacement.\r\n<BR> <BR>\r\nLong live the King!  \r\n<BR>\r\n<BR>"
+data:
+  weight: 2.0
+  value: 70
+  book_type: Scroll
+  skill: None
+  enchantment: 0

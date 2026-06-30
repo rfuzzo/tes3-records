@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_MwDe_Furn_U5ScrollA
+name: Urn
+script: ''
+mesh: o\Contain_urn_05.NIF
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - 7
+  - T_Mw_Random_ScrollsLvl1

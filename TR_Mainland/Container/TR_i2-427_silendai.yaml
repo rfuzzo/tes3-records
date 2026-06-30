@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_i2-427_silendai
+name: Corpse of General Silendai
+script: ''
+mesh: o\contain_corpse00.NIF
+encumbrance: 120.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - ingred_bonemeal_01

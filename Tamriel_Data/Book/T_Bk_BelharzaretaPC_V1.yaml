@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_BelharzaretaPC_V1
+name: The Belharzareta I
+script: ''
+mesh: pc\m\pc_bk_book_10.nif
+icon: pc\m\pc_bk_book_10.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>Book I: Belharza the Child<BR>\r\n\r\n<DIV ALIGN=\"LEFT\"><BR>\n\nIn those days, of course, it was uncommon among the Nedic tribesmen for a male to achieve any notoriety out of the arena of combat. If he wore silks, they were woven in rings of enchantment to ward off spear and arrow; if rubies glittered at his throat, they were arrayed there by a foeman's heart as it pounded its last frantic tattoo through iron-scarred veins. In those days, a man's hands were for plows and swords, not scrolls nor sceptres. And so it was that when Belharza was born, the unhappy product of a convenient marriage, blessed Al-Esh permitted his father, who had served her well during her rebellion, to spirit him away back to the North. Perhaps, in her mercy, she thought it a kindness, a chance to win honor upon the battlefields of Skyrim, and avoid the diplomatic pitfalls of an arena that would never welcome him. Mayhap she dreamed he would be a mercenary captain or general in the service of the High King, leading a skvadron of Nord screamers all the way to Sovngarde's gate.<BR>\n\nBut it was not to be, for his father was a troubled and paranoid man with a great many enemies both real and perceived. He kept his prize locked away in a cold fortress of wood and earth against the time when the warlord might press a claim to the Ruby Throne and sweep aside the frail woman who played at Empire there. Thus for eight years Belharza grew in isolation, thin and sickly, spoiled and sheltered, unaware of the royal blood which coursed like fire through him and sung yearning for conquest. At night, he dreamed of bleached towers reaching for the sky like mammoth-bones, webs of beaded silk criss-crossing the avenues dotted with rice-paper lanterns, and above all, a faceless woman with kind hands and a soft voice, breast aglow in sanguine royalty.<BR>\n\nBut when he asked his father about these dreams and inquired after his mother, the warlord laughed and told him his mother was a pox-ridden camp follower who had given up her only son for a horn of ale and a sack of iron coins. With his liar's tongue he poured poisoned words into his son's cup, and the boy drank obediently until his stomach was full and his heart was empty. And so Belharza put no more stock in these dragon's dreams, and resigned himself to be married off to one of the daughters of his father's thanes, as was the custom in those days for the marsh-lenders of Hjaal. And in this darkness his only companions were his father's sworn men, hoary weepers whose lowborn breath stank of wasabi and blood.<BR>"
+data:
+  weight: 2.0
+  value: 200
+  book_type: Book
+  skill: None
+  enchantment: 0

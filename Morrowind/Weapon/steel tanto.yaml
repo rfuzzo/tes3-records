@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: steel tanto
+name: Steel Tanto
+script: ''
+mesh: w\W_Tanto.nif
+icon: w\Tx_Tanto.tga
+enchanting: ''
+data:
+  weight: 4.0
+  value: 28
+  weapon_type: ShortBladeOneHand
+  health: 600
+  speed: 2.25
+  reach: 1.0
+  enchantment: 22
+  chop_min: 5
+  chop_max: 11
+  slash_min: 5
+  slash_max: 11
+  thrust_min: 6
+  thrust_max: 11
+  flags: ''

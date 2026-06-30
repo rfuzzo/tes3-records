@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_OE_act_ETCensus_pillar
+name: Collapsed Pillar
+script: TR_m3_OE_ETCensusRepair5
+mesh: x\ex_imp_rubble_04.nif

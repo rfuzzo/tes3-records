@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: Terrain_ashmire_02
+name: ''
+script: Sound_mud_bubbles
+mesh: x\Terrain_ashmire_01.nif

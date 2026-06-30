@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m1_q_TTShrine2
+name: Shrine of the Isle of Arches
+script: TR_m1_q_TTShrine2_Script
+mesh: f\Furn_shrine_vivec_01.NIF

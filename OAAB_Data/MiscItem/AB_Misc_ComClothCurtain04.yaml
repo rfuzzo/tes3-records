@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_ComClothCurtain04
+name: Bolt of Cloth
+script: ''
+mesh: OAAB\m\com_curtain04_roll.nif
+icon: OAAB\m\com_curtain04_roll.tga
+data:
+  weight: 55.0
+  value: 150
+  flags: ''

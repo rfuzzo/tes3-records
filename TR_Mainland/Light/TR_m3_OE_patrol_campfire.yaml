@@ -1,0 +1,19 @@
+type: Light
+flags: PERSISTENT
+id: TR_m3_OE_patrol_campfire
+name: ''
+script: TR_m3_OE_HauntPatrol
+mesh: l\light_pitfire00.NIF
+icon: ''
+sound: Fire 50
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 256
+  color:
+  - 245
+  - 140
+  - 50
+  - 0
+  flags: DYNAMIC | FIRE | FLICKER_SLOW

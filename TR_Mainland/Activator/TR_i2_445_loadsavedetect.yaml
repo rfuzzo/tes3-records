@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_i2_445_loadsavedetect
+name: ''
+script: TR_m2_445_sc_loadsavedetect
+mesh: editormarker_box_01.nif

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Bre_SilverPitcher_01
+name: Silver Pitcher
+script: ''
+mesh: hr\m\hr_m_silv_pitch01.nif
+icon: hr\m\hr_m_silv_pitch01.dds
+data:
+  weight: 7.0
+  value: 30
+  flags: ''

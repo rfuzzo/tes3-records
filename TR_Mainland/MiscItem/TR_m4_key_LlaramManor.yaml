@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m4_key_LlaramManor
+name: Llaram Manor Master Key
+script: ''
+mesh: TR\m\TR_Key_DD19.NIF
+icon: TR\m\tr_key_dd19.dds
+data:
+  weight: 0.0
+  value: 0
+  flags: KEY

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Yne_CeremonialTurtleSlayer
+name: Ceremonial Dragon-Turtle Slayer
+script: ''
+mesh: pi\w\pi_w_turtleslayer.nif
+icon: pi\w\pi_w_turtleslayer.dds
+enchanting: ''
+data:
+  weight: 33.0
+  value: 782
+  weapon_type: LongBladeTwoClose
+  health: 2400
+  speed: 1.0
+  reach: 1.5
+  enchantment: 130
+  chop_min: 1
+  chop_max: 32
+  slash_min: 1
+  slash_max: 38
+  thrust_min: 1
+  thrust_max: 20
+  flags: ''

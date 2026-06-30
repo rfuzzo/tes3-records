@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: AB_IngCrea_DreughShell_01
+name: Dreugh Shell
+script: ''
+mesh: OAAB\n\rem_dreugh_shell.nif
+icon: OAAB\n\rem_dreugh_shell.dds
+data:
+  weight: 1.0
+  value: 35
+  effects:
+  - RestoreAttribute
+  - SwiftSwim
+  - DamageAttribute
+  - Feather
+  skills:
+  - Block
+  - None
+  - Block
+  - None
+  attributes:
+  - Strength
+  - None
+  - Endurance
+  - None

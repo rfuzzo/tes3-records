@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: belt of wisdom
+name: Belt of Wisdom
+script: ''
+mesh: c\C_belt_Common_1.NIF
+icon: c\tx_belt_common01.tga
+enchanting: wisdom_en
+biped_objects: []
+data:
+  clothing_type: Belt
+  weight: 1.0
+  value: 5
+  enchantment: 70

@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m4_FelmsCargoLift
+name: ''
+script: ''
+mesh: i\in_cavern_ramp00.nif

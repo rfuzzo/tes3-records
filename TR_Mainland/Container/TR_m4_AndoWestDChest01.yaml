@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: TR_m4_AndoWestDChest01
+name: Chest
+script: ''
+mesh: TR\o\TR_furn_De_Rm_Chest.NIF
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - 450
+  - Gold_001
+- - 1
+  - Potion_Cyro_Whiskey_01
+- - 2
+  - potion_comberry_brandy_01
+- - 1
+  - potion_cyro_brandy_01

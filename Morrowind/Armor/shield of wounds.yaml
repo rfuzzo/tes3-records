@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: shield of wounds
+name: Shield of Wounds
+script: ''
+mesh: a\Shield_Dwemer.nif
+icon: a\Tx_Dwemer_shield.tga
+enchanting: wound_enu
+biped_objects:
+- biped_object_type: Shield
+  male_bodypart: shield_dwemer
+  female_bodypart: ''
+data:
+  armor_type: Shield
+  weight: 15.0
+  value: 620
+  health: 400
+  enchantment: 500
+  armor_rating: 20

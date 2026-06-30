@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m7_HR_AldIuval_q4_Cart
+name: ''
+script: TR_m7_HR_AldIuval_q4_Cart_sc
+mesh: x\EX_MH_bazaar_cart_01.NIF

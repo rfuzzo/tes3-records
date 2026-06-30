@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: TR_m2_VG_CCorpseAsrb
+name: Corpse
+script: Sound_Flies
+mesh: o\contain_corpse10.NIF
+encumbrance: 120.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - ingred_bonemeal_01
+- - 1
+  - slave_bracer_left
+- - 1
+  - slave_bracer_right

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_FW_Palace_TreasuryRecords
+name: Treasury Records
+script: ''
+mesh: tr\m\tr_book_notebk_o_01.nif
+icon: tr\m\tr_book_open_ntbk01.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>[This logbook records the contents of the ducal treasury over several months,  and describes several recent additions to the palace vaults. The most recent entry describes the seizure of an \"unnaturally strong\" hide helmet recovered from a smuggling vessel in the Inner Sea.]\r\n<BR>"
+data:
+  weight: 1.0
+  value: 20
+  book_type: Book
+  skill: None
+  enchantment: 0

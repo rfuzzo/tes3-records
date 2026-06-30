@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_WoodDrawKnife
+name: Draw Knife
+script: ''
+mesh: OAAB\m\tool_drawknife.nif
+icon: OAAB\m\tool_drawknife.dds
+data:
+  weight: 2.0
+  value: 10
+  flags: ''

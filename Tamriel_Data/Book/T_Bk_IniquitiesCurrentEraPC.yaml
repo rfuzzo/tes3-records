@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_IniquitiesCurrentEraPC
+name: Iniquities of the Current Era
+script: ''
+mesh: m\Text_Octavo_07.nif
+icon: m\Tx_book_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>Iniquities of the Current Era<BR>\n<DIV ALIGN=\"LEFT\"><BR>\r\n<BR>\r\n... For what has become of the Empire, and of the Imperial arts and great arcane sciences which our ancestors had mastered? Knowledge of the arts has regressed so much that in today's decadent age one can scarcely imagine how or for what reason such skills were ever cherished.<BR>\r\n<BR>\r\nIn the halcyon days of the early Third Empire, and the zenith of the Second Empire before that, virtue was considered its own reward. In those noble ages, the Imperial arts flourished, and among men of knowledge there was no question that all the mysteries of the Aurbis were to be fully uncovered for the betterment of future generations.<BR>\r\n<BR>\r\nThus, Salus catalogued the qualities of the blood of beasts and the roots of plants, and the wise Selirius spent ten years in a cold tower to question the revolutions of the heavens. See the great orators, in turn -- the Consul Mero spoke so eloquently and at such length to the Council that he perished of thirst, and Milius, the Mouth of Emperors, could find no worthy heir in the present.<BR>\r\n<BR>\r\nWhere are the poets, the great philosophers, the masters of every art and craft? The great lineages of the Heartlands have brought forth an unworthy generation, besotted with wine, drugs and provincial concubines. They cannot practice the arts and sciences of the past, and in truth are incapable of even appreciating the fruits of these labors. What has become of astrolothurgy? Of theosophy? Where lies the exquisite road to wisdom?<BR>\r\n<BR>\r\nWho still goes into the temples to vow upon Julianos or Zenithar, that they may achieve eloquence? Who still bathes in the dust of Sancre Tor, or climbs the flanks of Mount Lidea, looking for clarity and Divine inspiration? Of the current generation, there are none who pray for a sound mind and body, instead, they cross the thresholds of vile sanctuaries and pledge gifts with loathsome intentions, promising offerings for the murder of relatives, for treasure, and the fulfillment of base desires.<BR>\r\n<BR>\r\nEven the Elder Council, that exponent of all that should be just and wise, is now in the habit of sending for priests to pray away the debts of Empire and sway the Gods to grant a boon of thirty million drakes annually to the coffers of the Imperial City. And none question the impropriety of praying for wealth.<BR>\r\n<BR>\r\nThus, do not be surprised by the deterioration of speechcraft, silk-weaving, painting, sculpture, or any of the refined arts, for in this age a pouch of coins is held in more awe than anything ever created by the likes of Morachellis, Selia, or Praxathes.<BR>"
+data:
+  weight: 2.0
+  value: 30
+  book_type: Book
+  skill: None
+  enchantment: 0

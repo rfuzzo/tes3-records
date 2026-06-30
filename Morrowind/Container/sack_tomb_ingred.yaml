@@ -1,0 +1,17 @@
+type: Container
+flags: BLOCKED
+id: sack_tomb_ingred
+name: Cloth Sack
+script: ''
+mesh: o\Contain_Com_Sack_02.NIF
+encumbrance: 30.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - random_bittergreen_petals
+- - 1
+  - random_comberry
+- - 1
+  - random_ash_salts
+- - 1
+  - random_heather

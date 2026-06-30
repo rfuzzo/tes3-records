@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_sign_cirifae
+name: Cirifae's Tradehouse
+script: SignRotate
+mesh: x\Furn_sign_inn_01.NIF

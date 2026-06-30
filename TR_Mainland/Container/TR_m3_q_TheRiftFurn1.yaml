@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m3_q_TheRiftFurn1
+name: Desk
+script: floatAboveStartHeight
+mesh: TR\o\TR_furn_De_Rm_Desk01.NIF
+encumbrance: 40.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - T_Mw_Random_PosDunmer01

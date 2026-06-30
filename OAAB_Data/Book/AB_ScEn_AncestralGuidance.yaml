@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: AB_ScEn_AncestralGuidance
+name: Scroll of Ancestral Guidance
+script: ''
+mesh: OAAB\m\rem_sc_velothi_01.nif
+icon: OAAB\m\scroll_velothi_01.dds
+enchanting: AB_sc_AncestralGuidance_en
+text: <DIV ALIGN="center"><FONT COLOR="000000" SIZE="2" FACE="Daedric">GUIDANCE OF THY LORDS</FONT><BR>
+data:
+  weight: 0.3
+  value: 347
+  book_type: Scroll
+  skill: None
+  enchantment: 100

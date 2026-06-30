@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: TR_m7_NVA8_sack_Gold_05
+name: Cloth Sack
+script: TR_m7_NVA_Stage8_Persist
+mesh: o\Contain_Com_Sack_02.NIF
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 5
+  - Gold_001
+- - 2
+  - random_de_shoes_common
+- - 1
+  - random_expensive_de_fclothes_02

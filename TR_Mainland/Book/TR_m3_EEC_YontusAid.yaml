@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: TR_m3_EEC_YontusAid
+name: ''
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: ''
+enchanting: ''
+text: TR_m3_Yontus Kushummu is possibly teleported here after the events of TR_m3_EEC_Cano6
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

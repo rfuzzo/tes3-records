@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_Com_CandleCoconutWhi_Off
+name: ''
+script: ''
+mesh: pi\l\pi_l_coco_candleWhi_o.nif
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 16
+  color:
+  - 0
+  - 0
+  - 0
+  - 0
+  flags: ''

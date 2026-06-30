@@ -1,0 +1,31 @@
+type: Armor
+flags: ''
+id: iron_greaves
+name: Iron Greaves
+script: ''
+mesh: a\A_Iron_Greaves_GND.nif
+icon: a\Tx_Iron_greaves.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: Groin
+  male_bodypart: a_iron_greaves_g
+  female_bodypart: ''
+- biped_object_type: LeftUpperLeg
+  male_bodypart: a_iron_greaves_ul
+  female_bodypart: ''
+- biped_object_type: RightUpperLeg
+  male_bodypart: a_iron_greaves_ul
+  female_bodypart: ''
+- biped_object_type: LeftKnee
+  male_bodypart: a_iron_greaves_k
+  female_bodypart: ''
+- biped_object_type: RightKnee
+  male_bodypart: a_iron_greaves_k
+  female_bodypart: ''
+data:
+  armor_type: Greaves
+  weight: 18.0
+  value: 44
+  health: 100
+  enchantment: 25
+  armor_rating: 10

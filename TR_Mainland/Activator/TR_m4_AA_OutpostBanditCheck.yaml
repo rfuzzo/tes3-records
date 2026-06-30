@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m4_AA_OutpostBanditCheck
+name: ''
+script: TR_m4_AA_OutpostBanditCheck_scp
+mesh: editormarker.nif

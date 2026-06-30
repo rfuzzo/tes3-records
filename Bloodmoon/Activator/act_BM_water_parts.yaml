@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: act_BM_water_parts
+name: ''
+script: ''
+mesh: f\act_BM_water_parts.NIF

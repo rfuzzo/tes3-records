@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m3_bloodstonestrips
+name: Rough Cloth Strips
+script: TR_m3_bloodstonestrips_scr
+mesh: TR\m\tr_napkin_fd_YwRF2.nif
+icon: TR\m\tr_napkin_sm_YwRF2.dds
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Shoes
+  weight: 1.0
+  value: 2
+  enchantment: 10

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4-114_VaultRegister
+name: Vault Registry
+script: ''
+mesh: m\Text_Scroll_01.NIF
+icon: m\Tx_scroll_open_01.tga
+enchanting: ''
+text: "Recorded herein are the current lessees of the secure vaults and their contents.\r\n<BR>\r\nVault I\r\nLeased by: Serjo Dreynos Helvi\r\nAssets accounted:\r\n-Five pieces of ebony ore, Serjo Helvi displayed proof of lawful purchase signed by Serjo's Odral Helvi of the Caldera Mining Company and Canctunian Ponius of his Imperial Majesties East Empire Company to clerks xxx and xxx.\r\n-Five bars of gold bullion.\r\n-Three hundred and fourty five gold septims in loose coinage.\r\n-One chest weighing twenty pounds, contents unknown.\r\n-One bottle of vintage greef.\r\n-two uncut jade stones\r\n-one shield of dwarvish make,(delivered as a gift to Serjo Helvi from Serjo xxx of the Imperial Archeological soceity as gift for benevolent patronage)\r\n-three bottles of goya (delivered from the Guild of Brewers and Fishmongers to be collected by Serjo Helvi at his leisure)\r\n<BR>\r\nVault II\r\nLeased by: Serjo Dathlyn Vando\r\nAssets accounted:\r\n-One pair of silk gloves\r\n-One padded skirt in the colovian fashion\r\n-One silk shirt and black vest\r\n-One green silk shirt\r\n-One silk shirt and vest\r\n-Three pair of shoes\r\n-One bowl of arsenic powder\r\n-One bowl of purple dye\r\n-One bowl of white dye\r\n-One piece of quicksilver ore\r\n-Three bars of lavender soap\r\n-Three bottles of sload oil\r\n-Two bottles of Bug Musk, delivered by a \"Mirten Carlier\" of the \"Thunderhelm\" out of Helnim\r\n-One chest weighing ten pounds, contents unknown.\r\n-Two hundred gold septims in loose coinage\r\n<BR>\r\nVault III\r\nLeased by: Serjo Mels Mathyn\r\nAssets accounted:\r\n-Five bolts of mixed fabrics\r\n-One bolt of moth silk\r\n-five bars of silver bullion\r\n-three hundred gold septims in loose coinage\r\n-an assorted collection of glassware that serjo Mathyn instructed be handled with delicacy\r\n<BR>\r\nVault IV\r\nLeased by: Vacant\r\n<BR>"
+data:
+  weight: 1.2
+  value: 10
+  book_type: Scroll
+  skill: None
+  enchantment: 400

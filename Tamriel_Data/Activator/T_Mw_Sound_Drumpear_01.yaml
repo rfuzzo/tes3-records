@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Mw_Sound_Drumpear_01
+name: Drumpear Sound 01
+script: T_ScSoundDrumpear_01
+mesh: EditorMarker.nif

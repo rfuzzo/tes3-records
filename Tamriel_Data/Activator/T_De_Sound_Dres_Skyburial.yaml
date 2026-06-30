@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_De_Sound_Dres_Skyburial
+name: 'Sound Effect: Dres Skyburial'
+script: T_ScSound_HauntedSkyburial
+mesh: EditorMarker.NIF

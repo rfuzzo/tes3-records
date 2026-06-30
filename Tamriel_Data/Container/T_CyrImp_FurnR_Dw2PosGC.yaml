@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: T_CyrImp_FurnR_Dw2PosGC
+name: Drawers
+script: ''
+mesh: pc\o\pc_com_drawers_w.nif
+encumbrance: 75.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - T_Cyr_Random_Cloths
+- - 4
+  - T_Cyr_Random_PosGC

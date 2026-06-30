@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_ReaverSongsSHOTN_v3
+name: Songs of the Reaver Clans, vIII
+script: ''
+mesh: Sky\m\Sky_Book_Basic_08.nif
+icon: Sky\m\Tx_Book_Basic_08.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nSongs of the Ghost Sea Reaver Clans<BR>\r\nCompiled by Johannes Silvanus,<BR>\r\nChairman of the Committee for the Transposition of Indigenous Oral Traditions, Imperial University<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nVolume Three<BR>\r\n<BR>\r\n[Note from the author: This final song concerns the introduction of time into Mundus, and depicts Shor in his capacity as a wily trickster god -- one who could extend the kalpa but for his betrayal and death. It is notable for its interesting blend of pre-Return totemism with an Old Empire understanding of the Nordic mythic cycle. For a summary of this scholarly framework, please consult Elonwe of Lillandril's inestimable volume \"Cultural Eras of the Nords.\"]<BR>\r\n<BR>\r\nSo far does shrewd Shor, fox-furred<BR>\r\nSeek goodness for his salt-flecked scions<BR>\r\nThat even [autarch] Alduin, despot dragon,<BR>\r\nSleeps fitfully, slumbers fearfully<BR>\r\n<BR>\r\nBut, bright bushed, shrewd Shor <BR>\r\nDeepens the dragon's dozing<BR>\r\nAnd boasts \"Only the foxy god of Men<BR>\r\nCan keep the world-hall standing\"<BR>\r\n<BR>\r\nWitnessed by the wild clan<BR>\r\nShrewd Shor seized the dragon's tail<BR>\r\nAnd lashed tight the worthy world-hall<BR>\r\nWeaving with time the waiting world<BR>\r\n<BR>\r\nRevealing to none his secret schemes, Shor settled against the wolf<BR>\r\nAs hawk and moth upwards circled<BR>\r\nAnd the Children fought and fucked<BR>\r\nKnowing themselves safe by shrewd Shor's shift<BR>\r\n<BR>\r\nBut woe! Foul elves, unnatural, exist<BR>\r\nSneaking snake, wicked woodsman<BR>\r\nHating the hall, creation of the clan<BR>\r\nStirring the dragon, seeking death<BR>\r\n<BR>\r\nAnd in deepest darkness, craven creatures<BR>\r\nCut cords and fastened the father of all<BR>\r\nSecure to Sovngarde's shorebound keel<BR>\r\nDrowning dead in the starlit surf of Sky<BR>\r\n<BR>\r\nSo did shrewd Shor, fine father<BR>\r\nDie disgraced by dragon-doomed demons<BR>\r\nThe eternal world ended by envious elves<BR>\r\nAnd mighty Man made mortal once more<BR>\r\n<BR>"
+data:
+  weight: 3.0
+  value: 60
+  book_type: Book
+  skill: None
+  enchantment: 0

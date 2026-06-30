@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m3_OE_RumaSoanixCase
+name: A Secure Scroll Case
+script: TR_m3_OE_RumaDisableSCP
+mesh: pc\m\pc_misc_scrollcase.nif
+encumbrance: 0.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - TR_m3_OE_RumaShipDeed

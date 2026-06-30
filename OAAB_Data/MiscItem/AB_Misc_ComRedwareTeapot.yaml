@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_ComRedwareTeapot
+name: Teapot
+script: ''
+mesh: OAAB\m\kettle_redware_01.nif
+icon: OAAB\m\kettle_redware_01.tga
+data:
+  weight: 2.0
+  value: 10
+  flags: ''

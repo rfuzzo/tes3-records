@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m3_OE_MG_PuzSkull
+name: Mammoth Skull
+script: ''
+mesh: sky\x\sky_ex_mskull_02.nif
+encumbrance: 0.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - TR_m3_OE_MG_CorridorKey

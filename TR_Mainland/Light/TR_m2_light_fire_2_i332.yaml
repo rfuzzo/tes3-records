@@ -1,0 +1,19 @@
+type: Light
+flags: PERSISTENT
+id: TR_m2_light_fire_2_i332
+name: ''
+script: ''
+mesh: fire_small.NIF
+icon: ''
+sound: Fire 40
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 256
+  color:
+  - 245
+  - 140
+  - 40
+  - 0
+  flags: DYNAMIC | FIRE | FLICKER_SLOW

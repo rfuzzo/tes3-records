@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: AB_o_DwCabWall02
+name: Rusted Dwemer Cabinet
+script: ''
+mesh: OAAB\o\dwrvCabinetWallWide.nif
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory: []

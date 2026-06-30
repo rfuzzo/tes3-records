@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: crate_01_food_misc01
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 7
+  - ingred_marshmerrow_01
+- - 3
+  - ingred_rat_meat_01
+- - 8
+  - ingred_saltrice_01

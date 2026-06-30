@@ -1,0 +1,17 @@
+type: Clothing
+flags: ''
+id: TR_m7_q_andasskirt
+name: Battleskirt of Andas
+script: ''
+mesh: TR\c\tr_warrior_skirt_i_gnd.nif
+icon: TR\c\tr_pb_warrior_skirt_i.dds
+enchanting: TR_m7_q_andasskirt_en
+biped_objects:
+- biped_object_type: Groin
+  male_bodypart: T_C_DeEpSkirtIndWarrior01_G
+  female_bodypart: ''
+data:
+  clothing_type: Skirt
+  weight: 2.0
+  value: 500
+  enchantment: 300

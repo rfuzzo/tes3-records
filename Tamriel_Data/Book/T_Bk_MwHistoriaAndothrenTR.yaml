@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_MwHistoriaAndothrenTR
+name: 'Morrowind Historia: Bal Foyen'
+script: ''
+mesh: TR\m\TR_book_closed01_STH.nif
+icon: TR\m\TR_GW_book_closed_01.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nMorrowind Historia: Bal Foyen<BR>\r\nBy Varias Cedas<BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nSome of you, my faithful readers, may know of Bal Foyen as a stop on trade routes along the Inner Sea. Located in a crater, it has often been mentioned as the first Dark Elven city truly welcoming outside traders. But while the city has only recently come to the Empire's attention as a viable trade center, it has a rich history.<BR>\r\n<BR>\r\nMost native residents of Bal Foyen are eager to talk at great length of the city's past, which is inexorably tied to the rise of one local family or the other, depending on the speaker. But everybody can agree that Bal Foyen would not be what it is without the local temple.<BR>\r\n<BR>\r\nThis temple, once the center of activity for the city, is located on a small island in the middle of the crater, next to a great waterfall said to be a holy site. Indeed, the temple has long been a pilgrimage site for worshippers of the false Dark Elven deity Almalexia, whose shrine is located underneath the waterfall and connected to the temple island via bridge.<BR>\r\n<BR>\r\nThese pilgrims would often arrive on the main road from what is now Ebonheart, and comprised most of Bal Foyen's visitors. Trade primarily consisted of the exchange of water from the temple for crops from farms outlying the city. The temple would then distribute the food among city residents. This arrangement still continues today, but is overshadowed by the much larger amounts of trade (managed with the aid of the Dark Elven House Hlaalu) flowing from the Imperial Docks.<BR>\r\n<BR>\r\nThe Dark Elves take great pride in the history of the city. What most residents don't know is that the site in fact has two histories. Bal Foyen was not the first city at its location, nor is it the largest. Imperial excavators have uncovered a sprawling Dwemer complex to the east of the city. Of course, most Dunmer are aware of the ruins, and many have found scraps of metal in the ground, but none know of the sheer size of the ancient ruins. In fact, even our Imperial explorers have only seemed to scratch the surface of these great ruins. Speculation continues as to whether the Dwemer site was for commercial, military, or spiritual purposes.<BR>\r\n<BR>\r\nTravelers interested in these ruins are advised not to venture within, however, as many of the Dwemer security machines are still active, and many tunnels are extremely unstable. Access is greatly restricted until excavation teams can secure the lower levels; even one as illustrious and well-mannered as myself was only permitted to view the highest level, which was sadly devoid of items of interest.<BR>"
+data:
+  weight: 3.0
+  value: 100
+  book_type: Book
+  skill: None
+  enchantment: 0

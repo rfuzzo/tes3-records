@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Rga_PillowDec_01
+name: Decorative Pillow
+script: ''
+mesh: hf\m\hf_misc_rga_cushion01.nif
+icon: hf\m\hf_misc_decpillow_01.dds
+data:
+  weight: 1.0
+  value: 10
+  flags: ''

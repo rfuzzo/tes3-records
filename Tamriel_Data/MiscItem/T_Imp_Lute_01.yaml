@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_Lute_01
+name: Lute
+script: ''
+mesh: pc\m\pc_misc_lute_01.nif
+icon: pc\m\pc_misc_lute_01.dds
+data:
+  weight: 4.0
+  value: 22
+  flags: ''

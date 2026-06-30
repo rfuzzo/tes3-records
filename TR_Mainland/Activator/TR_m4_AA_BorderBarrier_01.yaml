@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_AA_BorderBarrier_01
+name: ''
+script: TR_m4_AA_BorderBarrier_scp
+mesh: x\flora_ash_log_04.nif

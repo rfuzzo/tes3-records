@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m4_AndothDweRuinBF01
+name: Bluefoot
+script: TR_m4_AndothDwePlants01_scp
+mesh: TR\f\TR_Flora_Bluefoot_04.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 3
+  - T_IngFlor_Bluefoot_01

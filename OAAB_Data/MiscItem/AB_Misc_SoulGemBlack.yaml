@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_SoulGemBlack
+name: Black Soul Gem
+script: ''
+mesh: OAAB\m\soulgem_black.nif
+icon: OAAB\m\soulgem_black.dds
+data:
+  weight: 2.0
+  value: 200
+  flags: ''

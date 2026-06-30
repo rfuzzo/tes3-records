@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: de_p_desk_01_pesesius
+name: Desk
+script: ''
+mesh: o\Contain_De_Desk_01.NIF
+encumbrance: 75.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - sc_paper plain
+- - 1
+  - Potion_Cyro_Whiskey_01
+- - 50
+  - Gold_001

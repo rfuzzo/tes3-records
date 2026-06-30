@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: 'tr_m7_questersplsscript '
+name: Note To quest dev
+script: ''
+mesh: tr\tr_note_pin.nif
+icon: default icon.dds
+enchanting: ''
+text: "made an activator\r\nquester please give a script to it can be removed with a shovel and then open the door"
+data:
+  weight: 0.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 0

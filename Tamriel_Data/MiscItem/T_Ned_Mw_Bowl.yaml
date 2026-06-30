@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Ned_Mw_Bowl
+name: Nedic Bowl
+script: ''
+mesh: tr\m\tr_nedic_bowl_01.nif
+icon: tr\m\tr_nedic_bowl_01.dds
+data:
+  weight: 3.0
+  value: 150
+  flags: ''

@@ -1,0 +1,37 @@
+type: Container
+flags: ''
+id: T_SkyCom_Furn_Ch2Tr2
+name: Chest
+script: ''
+mesh: Sky\o\Sky_Cont_Chest_02_02.nif
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - -2
+  - T_Sky_Random_ArmorIron
+- - -5
+  - T_Sky_Random_Clothing
+- - 5
+  - T_Sky_Random_Hide
+- - -4
+  - T_Sky_Random_MiscCeramicBowl
+- - 3
+  - T_Sky_Random_PotionCheap
+- - 2
+  - T_Sky_Random_PotionSpoiled
+- - -3
+  - T_Sky_Random_WeaponIron
+- - -2
+  - p_restore_fatigue_c
+- - -2
+  - p_restore_health_c
+- - -4
+  - random_armor_fur
+- - -50
+  - steel arrow
+- - -50
+  - steel bolt
+- - -30
+  - steel throwing knife
+- - -3
+  - torch

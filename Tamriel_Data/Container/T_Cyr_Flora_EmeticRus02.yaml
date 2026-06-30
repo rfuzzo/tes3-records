@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Cyr_Flora_EmeticRus02
+name: Emetic Russula
+script: ''
+mesh: pc\o\pc_flora_ERussula2.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - T_Cyr_Random_FlorEmeticRussula

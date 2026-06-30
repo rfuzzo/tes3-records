@@ -1,0 +1,20 @@
+type: Alchemy
+flags: ''
+id: T_Com_Potion_ReflectDamage_E
+name: Exclusive Potion of Reflection
+script: ''
+mesh: m\Misc_Potion_Exclusive_01.nif
+icon: m\Tx_potion_exclusive_01.tga
+effects:
+- magic_effect: Reflect
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 20
+  max_magnitude: 20
+data:
+  weight: 0.25
+  value: 175
+  flags: ''

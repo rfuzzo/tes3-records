@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_OE_sc_ICbrassramble_02
+name: Cyrtus Clagno's Note
+script: ''
+mesh: m\Text_Parchment_01.NIF
+icon: m\Tx_parchment_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nI can see it glitter and glimmer, like a copper dream.<BR>\r\nA tower of brass on top of a volcano.<BR>\r\nI've been there in my dreams, holding the knife. Spirits beckoning me closer.<BR>\r\n<BR>\r\nOne day I will travel there when awake.<BR>\r\n"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

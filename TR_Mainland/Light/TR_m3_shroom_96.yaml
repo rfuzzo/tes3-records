@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: TR_m3_shroom_96
+name: ''
+script: ''
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 96
+  color:
+  - 53
+  - 180
+  - 255
+  - 0
+  flags: DYNAMIC

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_StonewareCup_01
+name: Stoneware Cup
+script: ''
+mesh: TR\m\tr_misc_stn_cup_01.nif
+icon: TR\m\tr_misc_stn_cup_01.dds
+data:
+  weight: 0.6
+  value: 3
+  flags: ''

@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: act_bm_snowdoor2
+name: ''
+script: penumbradoorScript
+mesh: f\Terrain_rock_BM_26.nif

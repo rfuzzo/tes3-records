@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_DreughBattleAxe
+name: Dreugh Battle Axe
+script: ''
+mesh: OAAB\w\dreugh_battleaxe.nif
+icon: OAAB\w\dreugh_battleaxe.tga
+enchanting: ''
+data:
+  weight: 24.2
+  value: 740
+  weapon_type: AxeTwoHand
+  health: 1200
+  speed: 1.0
+  reach: 1.0
+  enchantment: 52
+  chop_min: 1
+  chop_max: 45
+  slash_min: 1
+  slash_max: 35
+  thrust_min: 1
+  thrust_max: 5
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

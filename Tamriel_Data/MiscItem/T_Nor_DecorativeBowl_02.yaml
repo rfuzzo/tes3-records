@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Nor_DecorativeBowl_02
+name: Decorative Bowl
+script: ''
+mesh: Sky\m\Sky_Misc_C_Bowl_02.nif
+icon: sky\m\tx_misc_decbowl_02.dds
+data:
+  weight: 5.0
+  value: 20
+  flags: ''

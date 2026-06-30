@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: thong
+name: Thong of Zainab
+script: ''
+mesh: c\Amulet_ThongofZainab.NIF
+icon: c\tx_amulet_thongZainab.tga
+enchanting: thong_en
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 2400
+  enchantment: 50

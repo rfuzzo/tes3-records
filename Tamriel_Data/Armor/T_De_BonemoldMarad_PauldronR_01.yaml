@@ -1,0 +1,22 @@
+type: Armor
+flags: ''
+id: T_De_BonemoldMarad_PauldronR_01
+name: Maradlai Bonemold R Pauldron
+script: ''
+mesh: tr\a\tr_a_bonem_marad_cl.nif
+icon: tr\a\tr_a_marad_pauld_01.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: RightPauldron
+  male_bodypart: T_A_DeBonemoldMaradPauldr01_Cl
+  female_bodypart: ''
+- biped_object_type: RightUpperArm
+  male_bodypart: a_bonemold_gah_julan_ua
+  female_bodypart: ''
+data:
+  armor_type: RightPauldron
+  weight: 8.0
+  value: 120
+  health: 150
+  enchantment: 16
+  armor_rating: 16

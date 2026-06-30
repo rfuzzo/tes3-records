@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: AB_f_Urnula_03
+name: Veiled Urnula
+script: ''
+mesh: OAAB\f\f_urnula03.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 4
+  - AB_IngFlor_Urnula

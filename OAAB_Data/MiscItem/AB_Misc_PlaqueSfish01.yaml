@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_PlaqueSfish01
+name: Slaughterfish
+script: ''
+mesh: OAAB\m\plaquesfish03.nif
+icon: OAAB\m\misc_plaquesfish03.dds
+data:
+  weight: 8.0
+  value: 30
+  flags: ''

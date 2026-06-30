@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: TR_m1_q67_Fa1_Seeds
+name: Desert Siren Seeds
+script: ''
+mesh: n\Ingred_BM_belladonna_01.NIF
+icon: n\Tx_ingred_belladonna_01.dds
+data:
+  weight: 0.1
+  value: 65
+  effects:
+  - Poison
+  - Silence
+  - None
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

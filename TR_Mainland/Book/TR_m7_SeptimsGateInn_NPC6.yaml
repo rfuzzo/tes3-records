@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_SeptimsGateInn_NPC6
+name: Jammel
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: ''
+enchanting: ''
+text: "commoner / hunter\r\n\r\nwears common shirt / pants, leather boots, iron shortbow or slightly better"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: In_Thirsk_columnpiece02
+name: Rubble
+script: ThirskRubble
+mesh: i\In_Thirsk_columnpiece02.NIF

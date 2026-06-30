@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m3_OE_Fentus3bRapier
+name: Poisoned Saber
+script: ''
+mesh: tr\w\tr_w_silver_saber.nif
+icon: tr\w\tr_w_silver_saber.dds
+enchanting: TR_m3_OE_PoisonRapierFentus
+data:
+  weight: 4.0
+  value: 350
+  weapon_type: LongBladeOneHand
+  health: 275
+  speed: 2.25
+  reach: 1.0
+  enchantment: 60
+  chop_min: 2
+  chop_max: 8
+  slash_min: 4
+  slash_max: 14
+  thrust_min: 6
+  thrust_max: 18
+  flags: SILVER

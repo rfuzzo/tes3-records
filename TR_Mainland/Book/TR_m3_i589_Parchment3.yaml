@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_i589_Parchment3
+name: A Letter
+script: ''
+mesh: m\Text_Parchment_02.nif
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nI really don't know why the cult paid so much attention to this particular shrine. It's nothing special, it's even smaller than most of the other shrines! The only thing we found here when we arrived was that parchment with some kind of a song on it. It mentions the 'high way' and claws and things like that. The only idea I got is that it's talking about the opening in the ceiling. There are some claws there, but I guess an agile mage could levitate past them. Don't know why anyone would want to do that... However, it might be worth checking. You might want to take a look at it yourself.<BR><BR>\r\nGlory to Molag Bal!<BR>\r\n<BR>"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

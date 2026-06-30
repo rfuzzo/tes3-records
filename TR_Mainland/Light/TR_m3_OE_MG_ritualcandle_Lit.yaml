@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: TR_m3_OE_MG_ritualcandle_Lit
+name: Expended Ritual Candle
+script: ''
+mesh: l\Light_De_Candle_10.NIF
+icon: l\Light_De_Candle_10.tga
+sound: ''
+data:
+  weight: 1.0
+  value: 1
+  time: 120
+  radius: 128
+  color:
+  - 245
+  - 140
+  - 40
+  - 0
+  flags: DYNAMIC | CAN_CARRY | PULSE

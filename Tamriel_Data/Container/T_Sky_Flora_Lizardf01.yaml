@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Sky_Flora_Lizardf01
+name: Lizards Foot
+script: ''
+mesh: sky\o\Sky_flora_LizardF_01.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - T_Sky_Random_FlorLizardfootExtr

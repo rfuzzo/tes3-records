@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Com_Iron_Longspear_01
+name: Iron Longspear
+script: ''
+mesh: tr\w\tr_w_iron_longspear.nif
+icon: tr\w\tr_w_iron_longspear.dds
+enchanting: ''
+data:
+  weight: 14.0
+  value: 20
+  weapon_type: SpearTwoWide
+  health: 400
+  speed: 1.0
+  reach: 1.8
+  enchantment: 50
+  chop_min: 1
+  chop_max: 3
+  slash_min: 1
+  slash_max: 3
+  thrust_min: 5
+  thrust_max: 20
+  flags: ''

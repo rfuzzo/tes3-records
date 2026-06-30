@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m7_Ns_HuscarlAxe
+name: Axe of the Huscarl
+script: ''
+mesh: TR\w\tr_w_glass_battleaxe.nif
+icon: TR\w\tr_w_glass_battleaxe.dds
+enchanting: TR_m7_Ns_HuscarlAxe_en
+data:
+  weight: 20.5
+  value: 20000
+  weapon_type: AxeTwoHand
+  health: 1240
+  speed: 1.0
+  reach: 1.0
+  enchantment: 35
+  chop_min: 1
+  chop_max: 49
+  slash_min: 1
+  slash_max: 34
+  thrust_min: 1
+  thrust_max: 6
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

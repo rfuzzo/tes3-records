@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_ShellClam_02a
+name: Clam Shell
+script: ''
+mesh: pi\m\pi_m_shellclam02a.nif
+icon: pi\m\pi_m_shellclam02a.dds
+data:
+  weight: 3.0
+  value: 6
+  flags: ''

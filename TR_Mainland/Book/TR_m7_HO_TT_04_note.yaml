@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: TR_m7_HO_TT_04_note
+name: Bloody Note
+script: TR_m7_Gethis_RaviroIt_scr
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nA TRAITOR'S DEATH\r\n<BR>\r\n\r\n"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

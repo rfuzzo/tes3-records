@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_VA_andasbattle
+name: Orlukh_AndasBattle_acti
+script: TR_m4_VA_andasbattle_scr
+mesh: EditorMarker.NIF

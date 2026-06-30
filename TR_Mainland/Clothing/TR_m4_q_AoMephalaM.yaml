@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m4_q_AoMephalaM
+name: Modified Amulet of Mephala
+script: ''
+mesh: c\amulet_expensive_3.nif
+icon: c\tx_amulet_expens3.dds
+enchanting: TR_m4_q_drainIntPer
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 200
+  enchantment: 100

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Bre_Mithril_Tanto_01
+name: Mithril Tanto
+script: ''
+mesh: tr\w\tr_w_mithril_tanto.nif
+icon: tr\w\tr_w_mithril_tanto.dds
+enchanting: ''
+data:
+  weight: 8.0
+  value: 5900
+  weapon_type: ShortBladeOneHand
+  health: 600
+  speed: 2.1
+  reach: 1.0
+  enchantment: 430
+  chop_min: 7
+  chop_max: 16
+  slash_min: 7
+  slash_max: 16
+  thrust_min: 7
+  thrust_max: 16
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

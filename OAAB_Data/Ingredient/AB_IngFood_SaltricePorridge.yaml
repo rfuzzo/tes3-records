@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: AB_IngFood_SaltricePorridge
+name: Saltrice Porridge
+script: ''
+mesh: OAAB\n\saltrice_porridge.nif
+icon: OAAB\n\salt_porridge.dds
+data:
+  weight: 0.5
+  value: 5
+  effects:
+  - RestoreHealth
+  - None
+  - None
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

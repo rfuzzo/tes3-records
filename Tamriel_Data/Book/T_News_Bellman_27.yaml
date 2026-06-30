@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Bellman_27
+name: ARCH-MAGE KILLED IN DUEL
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_note_oe_news.nif
+icon: tr\m\tr_note_oe_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\TR_bellman_512_256.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nARCH-MAGE KILLED IN DUEL<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nDramatic events are underway in the Vvardenfell Mages Guild. Arch-Mage Trebonius Artorius, a famous battlemage in his own right, was reportedly struck down in a duel against a fellow Guild mage. Circumstances around the duel are murky -- rumors suggest essentially a mutiny within the guild, with Artorius standing accused of ineffectual leadership. The Bellman's local Mages Guild contacts, themselves not under the jurisdiction of the Vvardenfell hierarchy, vehemently denied the possibility of any conspiracy within the Mages Guild. However, one source added ominously: \"No one is surprised at what happened to Trebonius.\" It is, as of yet, unclear whether the guild's supreme council is aware of the developments, nor what their response will be. We can only hope for no interruptions in the essential services the Mages Guild provides in the untamed Vvardenfell frontier.<br><br>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_EEC_Palisade01
+name: ''
+script: TR_m7_EEC_Ranch
+mesh: tr\x\tr_ex_de_palisade_01.nif

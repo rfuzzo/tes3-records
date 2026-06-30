@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m4_arenakey_i4-261-hla
+name: Master Arelis' Skeleton Key
+script: ''
+mesh: TR\m\TR_Key_DD22.NIF
+icon: TR\m\TR_Key_DD22.dds
+data:
+  weight: 0.0
+  value: 100
+  flags: KEY

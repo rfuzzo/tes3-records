@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: shockbite mace
+name: Shockbite Mace
+script: ''
+mesh: w\W_mace.nif
+icon: w\Tx_Mace01.tga
+enchanting: sparkbolt_en
+data:
+  weight: 15.0
+  value: 78
+  weapon_type: BluntOneHand
+  health: 1200
+  speed: 1.3
+  reach: 1.0
+  enchantment: 50
+  chop_min: 3
+  chop_max: 14
+  slash_min: 3
+  slash_max: 14
+  thrust_min: 1
+  thrust_max: 2
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

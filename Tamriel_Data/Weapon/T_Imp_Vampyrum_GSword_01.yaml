@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Imp_Vampyrum_GSword_01
+name: Vampyrum Order Greatsword
+script: ''
+mesh: pc\w\pc_w_vampyr_gsword_01.nif
+icon: pc\w\pc_w_vampyr_gsword_01.dds
+enchanting: ''
+data:
+  weight: 28.0
+  value: 29700
+  weapon_type: LongBladeTwoClose
+  health: 2850
+  speed: 1.25
+  reach: 1.0
+  enchantment: 70
+  chop_min: 1
+  chop_max: 41
+  slash_min: 1
+  slash_max: 36
+  thrust_min: 1
+  thrust_max: 17
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

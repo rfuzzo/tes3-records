@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_CardMiscHla_03
+name: 'Hlaalu Servant: Gladiator'
+script: ''
+mesh: tr\m\tr_misc_card_h_servant.nif
+icon: tr\m\tr_misc_card_h_servant.dds
+data:
+  weight: 0.02
+  value: 20
+  flags: ''

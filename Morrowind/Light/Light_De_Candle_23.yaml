@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: Light_De_Candle_23
+name: Brass Candlestick
+script: ''
+mesh: l\Light_De_Candle_23.NIF
+icon: l\Light_De_Candle_15.tga
+sound: ''
+data:
+  weight: 2.0
+  value: 5
+  time: 120
+  radius: 128
+  color:
+  - 255
+  - 15
+  - 5
+  - 0
+  flags: CAN_CARRY | FIRE | FLICKER_SLOW

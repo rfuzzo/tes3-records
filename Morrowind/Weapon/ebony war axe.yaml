@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: ebony war axe
+name: Ebony War Axe
+script: ''
+mesh: w\W_waraxe_ebony.nif
+icon: w\Tx_waraxe_ebony.tga
+enchanting: ''
+data:
+  weight: 48.0
+  value: 15000
+  weapon_type: AxeOneHand
+  health: 2400
+  speed: 1.25
+  reach: 1.0
+  enchantment: 100
+  chop_min: 1
+  chop_max: 37
+  slash_min: 1
+  slash_max: 20
+  thrust_min: 1
+  thrust_max: 5
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

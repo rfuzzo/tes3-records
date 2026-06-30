@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m7_AI_JNS_5_MaceReward
+name: Dreugh Mace of Earthshaking
+script: ''
+mesh: tr\w\tr_w_dreugh_mace.nif
+icon: tr\w\tr_w_dreugh_mace.dds
+enchanting: TR_m7_AI_JNS_5_RewardEnch
+data:
+  weight: 12.8
+  value: 400
+  weapon_type: BluntOneHand
+  health: 600
+  speed: 1.3
+  reach: 1.0
+  enchantment: 44
+  chop_min: 1
+  chop_max: 15
+  slash_min: 1
+  slash_max: 15
+  thrust_min: 1
+  thrust_max: 6
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

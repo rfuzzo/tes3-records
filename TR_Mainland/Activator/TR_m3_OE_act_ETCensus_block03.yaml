@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_OE_act_ETCensus_block03
+name: Loose Stone Block
+script: TR_m3_OE_ETCensusRepair6c
+mesh: f\furn_imp_stoneblock_01.nif

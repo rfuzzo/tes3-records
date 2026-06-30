@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m7_q_NsTGBow
+name: Brilliance
+script: ''
+mesh: pc\w\pc_w_ayleid_bow.nif
+icon: pc\w\pc_w_ayleid_bow.dds
+enchanting: TR_m7_q_NsTGBow_en
+data:
+  weight: 6.0
+  value: 750
+  weapon_type: MarksmanBow
+  health: 500
+  speed: 1.0
+  reach: 1.0
+  enchantment: 100
+  chop_min: 1
+  chop_max: 36
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: active_akula_fire
+name: fire shield
+script: ''
+mesh: i\active_akula_fire.NIF

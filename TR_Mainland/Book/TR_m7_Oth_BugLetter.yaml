@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: TR_m7_Oth_BugLetter
+name: Scrawled Note
+script: TR_m7_Oth_FamoriNote_sc
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: <DIV ALIGN="center"><FONT COLOR="000000" SIZE="2" FACE="Magic Cards"><BR><BR><BR>PROPERTY OF BERA FAMORI<BR> IF FOUND <BR>RETURN TO OTHMURA</FONT><BR>
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_OldFjoritheCoveSHOTN
+name: Old Fjori the Cove
+script: ''
+mesh: sky\m\sky_book_basic_07.nif
+icon: sky\m\tx_book_basic_07.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR><BR>\r\n[A favorite oar-song amongst the sailors of Uld Vraech.]<BR>\r\n<BR>\r\nWhere have you been all day<BR>\r\nOld Fjori the Cove?<BR>\r\nWhere have you been all day<BR>\r\nYou benighted rogue?<BR>\r\n<BR>\r\nO chasing dreugh-folk, chasing dreugh-folk<BR>\r\nNow lay me down, upon the ground<BR>\r\nI think I soon might die<BR>\r\n<BR>\r\nWhy did you chase the dreugh-folk<BR>\r\nOld Fjori the Cove?<BR>\r\nWhy did you chase the dreugh-folk<BR>\r\nYou benighted rogue?<BR>\r\n<BR>\r\nThey took me dagger, they took me dagger<BR>\r\nNow lay me down, upon the ground<BR>\r\nI think I soon might die<BR>\r\n<BR>\r\nWhere did they take your dagger<BR>\r\nOld Fjori the Cove?<BR>\r\nWhere did they take your dagger<BR>\r\nYou benighted rogue?<BR>\r\n<BR>\r\nThe ocean depths, the ocean depths<BR>\r\nNow lay me down, upon the ground<BR>\r\nI think I soon might die<BR>\r\n<BR>\r\nWhat happened in the depths<BR>\r\nOld Fjori the Cove?<BR>\r\nWhat happened in the depths<BR>\r\nYou benighted rogue?<BR>\r\n<BR>\r\nThey took me head, they took me head<BR>\r\nNow lay me down, upon the ground<BR>\r\nI think I soon might die<BR>\r\n<BR>\r\nThen how are you singing this<BR>\r\nOld Fjori the Cove?<BR>\r\nHow are you singing this<BR>\r\nYou benighted rogue?<BR>\r\n<BR>\r\n[At this point, exaggerated gurgling noises are made until the singers deem the song is over.]<BR><BR>"
+data:
+  weight: 2.0
+  value: 40
+  book_type: Book
+  skill: None
+  enchantment: 0

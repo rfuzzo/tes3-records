@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m1_Soulburn
+name: Soulburn
+script: ''
+mesh: w\w_mace.nif
+icon: w\tx_mace01.dds
+enchanting: TR_m1_Soulburn_en
+data:
+  weight: 15.0
+  value: 2000
+  weapon_type: BluntOneHand
+  health: 1800
+  speed: 1.3
+  reach: 1.0
+  enchantment: 410
+  chop_min: 3
+  chop_max: 14
+  slash_min: 3
+  slash_max: 14
+  thrust_min: 1
+  thrust_max: 2
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

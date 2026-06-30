@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_DeCrGlassPlate_01
+name: Crystal Glass Plate
+script: ''
+mesh: OAAB\m\misc_cr_glass_plt.nif
+icon: OAAB\m\misc_cr_glass_plt.dds
+data:
+  weight: 1.0
+  value: 12
+  flags: ''

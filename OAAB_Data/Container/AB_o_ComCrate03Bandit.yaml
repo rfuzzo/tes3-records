@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: AB_o_ComCrate03Bandit
+name: Crate
+script: ''
+mesh: OAAB\o\com_crate_03.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 3
+  - AB_lvl_BanditGoods

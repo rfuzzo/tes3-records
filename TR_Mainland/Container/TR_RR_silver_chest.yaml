@@ -1,0 +1,23 @@
+type: Container
+flags: ''
+id: TR_RR_silver_chest
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - Misc_Imp_Silverware_Bowl
+- - 2
+  - Misc_Imp_Silverware_Cup_01
+- - 1
+  - T_Imp_SilverWareDish_01
+- - 1
+  - T_Imp_Silver_PauldronL_01
+- - 1
+  - T_Imp_Silver_PauldronR_01
+- - 1
+  - misc_imp_silverware_pitcher
+- - 1
+  - silver shortsword

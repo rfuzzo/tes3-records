@@ -1,0 +1,23 @@
+type: Container
+flags: ''
+id: TR_m7_Narsis_CatChest2
+name: Chest
+script: T_ScObj_DeTombSpiritSummon
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 105
+  - Gold_001
+- - 2
+  - T_Mw_Random_Gems
+- - 2
+  - T_Mw_Random_OreSilver
+- - 1
+  - T_Mw_Random_WeaponsEbony
+- - 250
+  - random gold
+- - 3
+  - random_diamond
+- - 5
+  - random_ebony

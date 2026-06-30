@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_i3-729_adam_dep7
+name: Depleted Raw Adamantium
+script: ''
+mesh: i\Contain_rock_Am_21.NIF
+encumbrance: 0.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - TR_i3-729_random_low_adam

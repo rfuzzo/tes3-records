@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Glb_Sound_Loop_Abyss
+name: 'Sound Effect: Abyss Loop'
+script: T_ScSound_AbyssLoop
+mesh: EditorMarker.NIF

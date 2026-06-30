@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_bk_i1-36
+name: Journal of Tyertil
+script: ''
+mesh: TR\m\TR_book_closed_i06_AY.nif
+icon: TR\m\TR_book_closed_i06_AY.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This is the diary of Tyertil, a High Elf Alchemist] <BR>\r\n<BR>\r\nSundas, 19th of Sun's Dawn <BR>\r\nI headed east from Llothanis at sunrise. Although I had originally planned to head along the river towards Ranyon-ruhn, one of my fellow alchemists had told me that there was an interesting grotto east along the river. I hoped that the grotto would contain algae samples suitable for my studies, or perhaps, if I got lucky, some Dreugh.<BR> \r\n<BR>\r\nMorndas, 20th of Sun's Dawn <BR>\r\nInteresting indeed! Unlike the typical grotto, this cavern started out submerged but soon rose upwards. Most of the cave had only knee-height water. In the beginning I was a bit disappointed to find no algae, but as I headed deeper into the cave my disappointment turned to glee. Instead of common plants, there were Bloat Spores! Although the alchemical ingredient Bloat is common, the Bloat Spore plant is surprisingly rare. I have decided to spend more time here in order to study these plants. <BR>\r\n<BR>\r\nMiddas, 23rd of Sun's Dawn <BR>\r\nMy head is spinning. I am short of breath. My limbs feel as though they are made of solid steel. Why I feel this way is still a mystery to me. Most of my food spoiled due to the dampness of this place, and I have not been able to cast any of my spells successfully. I remember reading about the effects of the Bloat somewhere. But I cannot recall what it said... <BR>\r\n<BR>\r\n[The rest of the entry is composed of the illogical ravings of the dying. The last few sentences are no more than scribbles.]<BR>\r\n"
+data:
+  weight: 2.0
+  value: 40
+  book_type: Book
+  skill: None
+  enchantment: 0

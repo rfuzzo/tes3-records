@@ -1,0 +1,23 @@
+type: Container
+flags: ''
+id: TR_m3_darane_crate_01
+name: Crate
+script: ''
+mesh: o\Contain_crate_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - -10
+  - T_Com_Adamant_Arrow_01
+- - 1
+  - T_Com_Wood_Crossbow_01
+- - 1
+  - T_Imp_Silver_Longbow_01
+- - -20
+  - bonemold bolt
+- - -50
+  - iron arrow
+- - -50
+  - iron bolt
+- - 1
+  - short bow

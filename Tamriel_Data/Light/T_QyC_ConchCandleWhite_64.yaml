@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_QyC_ConchCandleWhite_64
+name: ''
+script: ''
+mesh: pi\l\pi_l_cnq_s_cancowhit.nif
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 64
+  color:
+  - 245
+  - 140
+  - 40
+  - 0
+  flags: DYNAMIC | FIRE | FLICKER_SLOW

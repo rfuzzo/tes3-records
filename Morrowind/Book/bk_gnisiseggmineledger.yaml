@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: bk_gnisiseggmineledger
+name: Gnisis Eggmine Ledger
+script: ''
+mesh: m\Text_Octavo_07.nif
+icon: m\Tx_book_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nZebdusipal    4 eggs<BR>\r\nShanud    9 eggs<BR>\r\nMausur    5 eggs<BR>\r\nKummi    6 eggs<BR>\r\n"
+data:
+  weight: 2.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 20

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Sc_BondmansCreedTR
+name: Bondman's Creed
+script: ''
+mesh: m\Text_Scroll_01.nif
+icon: m\Tx_scroll_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nBondman's Creed\r\n<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nCreation did not begin when the world sprang into existence, but when that existence was first questioned. There is no worth in a concept that is not tested. There is no strength without adversity.<BR>\r\n<BR>\r\nOur ancient ancestors, the Aedra, sought stasis and complacency. When Lorkhan faced them with the Arena, they faded or fled. They abandoned their descendants to their fates as wayward orphans in the proving grounds. Our stronger, better ancestors found them, nurtured them, challenged them, and let them find their strength.<BR>\r\n<BR>\r\nWhen our nearer ancestors fled from their stronger cousins, preferring to find nourishment by licking salt from rocks rather than facing their adversaries, they were weak and unprepared. The skyrenders found them, challenged them, nurtured them and let them find their strength.<BR>\r\n<BR>\r\n<BR>\r\nA blade is dull without a whetstone to scrape it.<BR>\r\nA bargain is worthless without a haggler to negotiate it.<BR>\r\nA warrior is impotent without a rival to contest him.<BR>\r\nA man is feckless without a clan to direct him.<BR>\r\nA descendant with no ancestor has no past.<BR>\r\nAn ancestor with no descendant has no future.<BR>\r\n<BR>\r\nThe world is full of discord. Seek it, expose it, overcome it, rule over it.<BR>\r\nWe are the foundlings of the Daedra, the seekers of Veloth, the brothers of the Hive.<BR>\r\nWe have tilled the salt fields, we have warred with the trees.<BR>\r\nWe do not flee.<BR>\r\n<BR>"
+data:
+  weight: 1.1
+  value: 30
+  book_type: Scroll
+  skill: None
+  enchantment: 0

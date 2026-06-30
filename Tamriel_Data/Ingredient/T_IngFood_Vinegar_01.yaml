@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_Vinegar_01
+name: Vinegar
+script: ''
+mesh: pc\n\pc_ing_vinegar.nif
+icon: pc\n\pc_ing_vinegar.dds
+data:
+  weight: 1.0
+  value: 10
+  effects:
+  - ResistFire
+  - DrainAttribute
+  - RestoreAttribute
+  - CureCommonDisease
+  skills:
+  - None
+  - Block
+  - Block
+  - None
+  attributes:
+  - None
+  - Personality
+  - Personality
+  - None

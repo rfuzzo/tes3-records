@@ -1,0 +1,28 @@
+type: Alchemy
+flags: ''
+id: T_Esr_Drink_Pudjing
+name: Pudjing
+script: ''
+mesh: pi\m\pi_misc_pudjing.nif
+icon: pi\m\pi_misc_drink_pudjing.dds
+effects:
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Willpower
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 30
+  max_magnitude: 30
+- magic_effect: DrainAttribute
+  skill: None
+  attribute: Agility
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 30
+  max_magnitude: 30
+data:
+  weight: 5.0
+  value: 100
+  flags: ''

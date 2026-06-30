@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: T_MwDe_SetDre_U2Arrows
+name: Stoneware Urn
+script: ''
+mesh: tr\o\tr_cont_sturn_02.nif
+encumbrance: 75.0
+container_flags: IS_BASE
+inventory:
+- - 20
+  - bonemold arrow
+- - 12
+  - chitin arrow

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_AndothDweRuinNail01
+name: ''
+script: TR_m4_AndothDweChest02_scp
+mesh: tr\f\tr_furn_com_nail.nif

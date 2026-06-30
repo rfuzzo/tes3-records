@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: AB_Info_DwrvScaffoldLadders
+name: InfoBox - Dwemer Scaff Ladders
+script: ''
+mesh: OAAB\h\marker_info.nif
+icon: OAAB\h\marker_info.tga
+enchanting: ''
+text: The dwemer scaffold ladder set has static and door versions.
+data:
+  weight: 0.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 100

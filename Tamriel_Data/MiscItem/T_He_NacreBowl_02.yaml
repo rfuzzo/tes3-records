@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_He_NacreBowl_02
+name: Nacre Bowl
+script: ''
+mesh: sum\m\m_nacre_mop_bowl02.nif
+icon: sum\m\sum_m_nacre_bwl2.dds
+data:
+  weight: 2.0
+  value: 14
+  flags: ''

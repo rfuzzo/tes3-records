@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: T_Mw_Flora_ResinTap01
+name: Resin Tap
+script: ''
+mesh: tr\f\tr_f_resintap_01.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 2
+  - T_Mw_Random_FlorResin
+- - 1
+  - ingred_resin_01

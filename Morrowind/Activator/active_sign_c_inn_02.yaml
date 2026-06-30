@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: active_sign_c_inn_02
+name: Six Fishes
+script: SignRotate
+mesh: f\Active_sign_C_inn_02.NIF

@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_MwCom_Furn_Ch10ArmImp
+name: Chest
+script: ''
+mesh: o\contain_chest10.nif
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - 8
+  - T_Mw_Random_ArmorsImperial

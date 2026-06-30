@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_MwCom_Furn_Ch1Band
+name: Wooden Chest
+script: ''
+mesh: o\Contain_Com_Chest_01.NIF
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - 6
+  - T_Mw_Lvl_LootBanditGoods

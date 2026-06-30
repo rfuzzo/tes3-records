@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: AB_sc_TheFourthBookOfDust
+name: The Fourth Book of Dust
+script: ''
+mesh: m\text_scroll_01.nif
+icon: m\tx_scroll_open_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nFor there is the plenum of the heavens and the plenum of the houses.<BR>\r\nThere is the plenum of Oblivion and the plenum of men and mer.<BR>\r\n<BR>"
+data:
+  weight: 0.2
+  value: 300
+  book_type: Scroll
+  skill: None
+  enchantment: 0

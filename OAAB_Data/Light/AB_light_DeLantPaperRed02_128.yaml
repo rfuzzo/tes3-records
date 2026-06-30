@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: AB_light_DeLantPaperRed02_128
+name: ''
+script: ''
+mesh: OAAB\l\deLantPaperRed_02.nif
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 128
+  color:
+  - 255
+  - 15
+  - 5
+  - 0
+  flags: DYNAMIC | FLICKER_SLOW

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_LA4_eggmine_danger
+name: Danger
+script: TR_m7_LA4_eggmine_stage2_sc
+mesh: f\Furn_bannerD_danger_01.NIF

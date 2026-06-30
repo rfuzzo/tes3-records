@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2_q_21_AlerinusDocument
+name: Special Financing
+script: ''
+mesh: m\Text_Scroll_02.NIF
+icon: m\Tx_scroll_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nSpecial Financing - Helnim Militia<BR>\r\n<BR>\r\n[The scroll contains three columns, the first column consists of dates, the second consists of amounts of money, the third consists of various purposes like 'recruiting', 'armor' or 'rations'. Below the columns is a message you can't decipher:]<BR>\r\n<BR>\r\n<FONT COLOR=\"000000\" SIZE=\"2\" FACE=\"Daedric\">THIS WAS NO FRUIT OF SUCH WORLDS AND SUNS AS SHINE ON THE TELESCOPES AND PHOTOGRAPHIC PLATES OF OUR OBSERVATORIES. THIS WAS NO BREATH FROM THE SKIES WHOSE MOTIONS AND DIMENSIONS OUR ASTRONOMERS MEASURE OR DEEM TOO VAST TO MEASURE. IT WAS JUST A COLOR OUT OF SPACE - A FRIGHTFUL MESSENGER FROM UNFORMED REALMS OF INFINITY BEYOND ALL NATURE AS WE KNOW IT; FROM REALMS WHOSE MERE EXISTENCE STUNS THE BRAIN AND NUMBS US WITH THE BLACK EXTRA COSMIC GULFS IT THROWS OPEN BEFORE OUR FRENZIED EYES.</FONT><BR>\r\n<FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nJorval\r\n<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

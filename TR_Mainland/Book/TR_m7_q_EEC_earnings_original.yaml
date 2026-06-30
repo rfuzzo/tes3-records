@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_q_EEC_earnings_original
+name: EEC Earnings Report
+script: ''
+mesh: m\Text_Scroll_01.NIF
+icon: m\Tx_scroll_open_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>\r\nFree Traders and Honorable Merchants of the Exchange,<BR>\r\n<FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>\r\nBy order of the Board of Directors, I present the East Empire Trading Company's earnings statement for this financial period.<BR>\r\nWe are pleased to report that revenues have remained stable over this period. Our successful trade operations continue unhindered across the provinces.<BR>\r\nOur operations in Argonia have been proceeding as expected with caravans arriving on schedule. Trade routes through the Black Marsh remain perfectly secure with no incidents of ambush to report.<BR>\r\nRegarding piracy concerns, we assure investors that our ships have completely avoided any unfortunate encounters with pirates in the Abecean Sea. Our security measures have proven entirely adequate in addressing such threats. The company's fleet of vessels has maintained its numbers with no significant losses to report.<BR>\r\nThe recent unrest in Cyrodiil City has led the Board to suspend its weekly meetings indefinitely. However, productivity has not suffered; communication proceeds smoothly over the Dreamsleeve.<BR>\r\nFinancial reserves are sufficient to meet all current obligations. Our debt position remains manageable with all payments to creditors being made promptly.<BR>\r\nWe confidently project continued stability for the next quarter. Your continued investment is greatly appreciated.<BR>\r\n<IMG SRC=\"TR\\tr_eec_seal.dds\" WIDTH=\"100\" HEIGHT=\"100\">\r\n<FONT COLOR=\"500000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nyr. obt. srvt.<BR>\r\nAlaisa Belliena<BR>\r\nSecretary to the Treasurer of the East Empire Company in Cyrodiil City\r\n<BR>\r\nOfficer of the East Empire Company<BR>\r\n<BR>"
+data:
+  weight: 0.2
+  value: 20
+  book_type: Scroll
+  skill: None
+  enchantment: 0

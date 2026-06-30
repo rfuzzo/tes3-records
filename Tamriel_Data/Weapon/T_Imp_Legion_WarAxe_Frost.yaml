@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Imp_Legion_WarAxe_Frost
+name: Imperial Shardaxe
+script: ''
+mesh: PC\w\pc_w_imp_waraxe.nif
+icon: pc\w\pc_w_imp_waraxe.dds
+enchanting: cruel shard_en
+data:
+  weight: 25.0
+  value: 80
+  weapon_type: AxeOneHand
+  health: 1000
+  speed: 1.25
+  reach: 1.0
+  enchantment: 60
+  chop_min: 1
+  chop_max: 18
+  slash_min: 1
+  slash_max: 9
+  thrust_min: 1
+  thrust_max: 3
+  flags: ''

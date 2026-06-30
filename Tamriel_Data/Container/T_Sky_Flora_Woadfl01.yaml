@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Sky_Flora_Woadfl01
+name: Woad Flower
+script: ''
+mesh: sky\o\sky_flora_woadfl_01.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - T_Sky_Random_FlorWoadfl

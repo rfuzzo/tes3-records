@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Bellman_20
+name: COLONY ESTABLISHED ON SOLSTHEIM
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_note_oe_news.nif
+icon: tr\m\tr_note_oe_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\TR_bellman_512_256.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nCOLONY ESTABLISHED ON SOLSTHEIM<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nThe East Empire Company, always intent on providing the people of the Empire with new opportunities for wealth and prosperity, has established a new settlement on the island of Solstheim. Situated far north in the Sea of Ghosts, the island provides a welcome change from Morrowind's otherwise brown and dusty environments, with beautiful shorelines, green trees, glistening snow and fresh air. The settlement itself, a booming little town called Raven Rock, is a wellspring of opportunity just waiting for people to take advantage of. Whether it is driving ebony out of the ground, building sturdy homes from plentiful lumber, or simply serving the local brews at the bar, work there is rewarding and well-paid. Truly a place to call home. If you are interested in helping the EEC bring their venture to fruition, apply at the Resettlement Office today!<br><br>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

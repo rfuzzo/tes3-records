@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: dwrv_chest10_rare
+name: Ornate Dwemer Chest
+script: ''
+mesh: o\contain_dwrv_chest10.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - random_dwarven_all
+- - 1
+  - random_dwarven_misc
+- - 25
+  - misc_dwrv_coin00

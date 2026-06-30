@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: Sound_Dwemer_Ruin00
+name: Sound_Dwemer_Ruin00
+script: Sound_Dwemer_Ambient
+mesh: EditorMarker.NIF

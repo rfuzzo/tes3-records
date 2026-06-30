@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_De_CanyonWatch_Helm_01
+name: Shipal-Arai Bonemold Helm
+script: ''
+mesh: tr\a\tr_a_cynwtch_helm_gnd.nif
+icon: tr\a\tr_a_canyonwatch_helm.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Hair
+  male_bodypart: T_A_DeCanyonWatchHelm01_Hr
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 3.5
+  value: 165
+  health: 160
+  enchantment: 100
+  armor_rating: 17

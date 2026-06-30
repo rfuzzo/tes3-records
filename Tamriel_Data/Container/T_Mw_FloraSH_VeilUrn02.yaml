@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Mw_FloraSH_VeilUrn02
+name: Veiled Urnula
+script: ''
+mesh: TR\o\tr_f_urnula02.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - T_Mw_Random_FlorUrnula

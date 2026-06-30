@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_AshlGlassShortsword
+name: Ashlander Glass Shortsword
+script: ''
+mesh: OAAB\w\ashglass_ssword.nif
+icon: OAAB\w\ashglass_shortword.tga
+enchanting: ''
+data:
+  weight: 3.0
+  value: 200
+  weapon_type: ShortBladeOneHand
+  health: 110
+  speed: 2.25
+  reach: 1.0
+  enchantment: 66
+  chop_min: 1
+  chop_max: 11
+  slash_min: 1
+  slash_max: 11
+  thrust_min: 5
+  thrust_max: 11
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

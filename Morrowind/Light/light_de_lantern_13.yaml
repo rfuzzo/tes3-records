@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: light_de_lantern_13
+name: ''
+script: ''
+mesh: l\Light_De_Lantern_13.NIF
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 256
+  color:
+  - 255
+  - 15
+  - 5
+  - 0
+  flags: DYNAMIC

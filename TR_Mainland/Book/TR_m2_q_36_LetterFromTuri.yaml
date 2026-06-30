@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2_q_36_LetterFromTuri
+name: Letter from Turi Julian
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nCommander<BR>\r\n<BR>\r\nI know that you are under pressure to arrest Aspanu Pisca since that incident with the two dead women last month. I, on the other hand, am fed up with Aspanu giving out our hard earned stuff to 'widows and orphans'.<BR>\r\n<BR>\r\nPerhaps it was to our mutual advantage if you could get hold of Pisca: you can prove what a competent officer you are and I will be able to keep the meager plunder that we somehow brought together.<BR>\r\n<BR>\r\nIf I was able to pique your interest, leave a note inside the knothole of the big tree at Verulas Pass.<BR>\r\n<BR>\r\nJulian<BR>\r\n<BR>"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

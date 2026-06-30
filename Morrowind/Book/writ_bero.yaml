@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: writ_bero
+name: Honorable Writ of Execution
+script: ''
+mesh: m\Text_paper_roll_01.nif
+icon: m\Tx_paper_roll_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nDram Bero<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nThe afore-mentioned personage has been marked for honorable execution in accordance to the lawful tradition and practice of the Morag Tong Guild. The Bearer of this non-disputable document has official sanctioned license to kill the afore-mentioned personage.<BR>\r\n<BR>\r\n<DIV ALIGN=\"CENTER\">\r\n<IMG SRC=\"MoragTong.tga\" WIDTH=\"96\" HEIGHT=\"96\"><BR>\r\n"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

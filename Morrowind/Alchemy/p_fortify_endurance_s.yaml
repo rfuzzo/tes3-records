@@ -1,0 +1,20 @@
+type: Alchemy
+flags: ''
+id: p_fortify_endurance_s
+name: Standard Fortify Endurance
+script: ''
+mesh: m\Misc_Potion_Standard_01.nif
+icon: m\Tx_potion_standard_01.tga
+effects:
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Endurance
+  range: OnSelf
+  area: 0
+  duration: 30
+  min_magnitude: 10
+  max_magnitude: 10
+data:
+  weight: 0.75
+  value: 35
+  flags: ''

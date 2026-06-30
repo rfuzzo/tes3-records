@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m1_Q_rangirthswitch
+name: Odd Sconce
+script: TR_m1_Q_rangirthsconcescript
+mesh: l\light_sconce10.nif

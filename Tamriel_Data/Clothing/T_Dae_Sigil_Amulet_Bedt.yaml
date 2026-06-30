@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Dae_Sigil_Amulet_Bedt
+name: Bedt Sigil Amulet
+script: ''
+mesh: tr\c\tr_c_dae_sigil_b.nif
+icon: tr\c\tr_c_dae_sigil_b.dds
+enchanting: T_Use_Dae_Amulet_B
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 300
+  enchantment: 1000

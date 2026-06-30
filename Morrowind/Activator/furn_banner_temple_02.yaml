@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: furn_banner_temple_02
+name: Dunmer Temple
+script: OutsideBanner
+mesh: f\Furn_banner_temple_02.NIF

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: furn_bannerd_goods_telaruhn
+name: 'Ferele Athram: Trader'
+script: OutsideBanner
+mesh: f\Furn_bannerD_goods_01.NIF

@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Glb_Fauna_ChickHang01
+name: Chicken
+script: ''
+mesh: Sky\o\Sky_Cont_Chicken_01.nif
+encumbrance: 0.0
+container_flags: ORGANIC | IS_BASE
+inventory:
+- - 2
+  - T_Glb_Random_FaunChicken

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_BkGen_IndClerkInterpretation
+name: Clerical Interpretations
+script: ''
+mesh: m\Text_paper_roll_01.nif
+icon: m\Tx_paper_roll_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n[This Indoril clerical document provides plain interpretations to various statements and writings of the resident Indoril nobility.]<BR>"
+data:
+  weight: 0.2
+  value: 2
+  book_type: Scroll
+  skill: None
+  enchantment: 100

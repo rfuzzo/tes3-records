@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_FW_College_NotesLaw
+name: Student's Notes
+script: ''
+mesh: m\text_parchment_02.nif
+icon: m\tx_parchment_02.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[A student's diligent notes on the complexities of Dunmer law. Many lines are scratched through or edited.]\r\n<BR>\r\n"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

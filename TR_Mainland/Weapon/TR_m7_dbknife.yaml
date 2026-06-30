@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m7_dbknife
+name: Dark Brotherhood Throwing Knife
+script: ''
+mesh: tr\w\tr_w_imp_knife.nif
+icon: tr\w\tr_w_imp_knife.dds
+enchanting: TR_m7_dbknife_en
+data:
+  weight: 0.3
+  value: 50
+  weapon_type: MarksmanThrown
+  health: 100
+  speed: 1.0
+  reach: 1.0
+  enchantment: 20
+  chop_min: 1
+  chop_max: 6
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: ''

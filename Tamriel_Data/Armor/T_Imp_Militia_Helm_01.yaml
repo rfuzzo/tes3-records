@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Imp_Militia_Helm_01
+name: Militia Steel Helmet
+script: ''
+mesh: pc\a\pc_a_militiahelm_g.nif
+icon: pc\a\pc_a_milit_helm.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Hair
+  male_bodypart: T_A_ImpMilitiaHelm01_Hr
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 5.0
+  value: 70
+  health: 160
+  enchantment: 250
+  armor_rating: 16

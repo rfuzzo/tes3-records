@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Nor_DeerskinDrum_01
+name: Deerskin Drum
+script: ''
+mesh: Sky\m\Sky_Misc_Deer_Drum.nif
+icon: Sky\m\Tx_Misc_Deer_Drum.dds
+data:
+  weight: 1.5
+  value: 10
+  flags: ''

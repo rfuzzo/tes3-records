@@ -1,0 +1,36 @@
+type: Alchemy
+flags: ''
+id: T_Imp_Drink_RicebeerMori_01
+name: Mori
+script: ''
+mesh: pc\m\pc_misc_mori.nif
+icon: pc\m\pc_mori_icon.dds
+effects:
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Strength
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 20
+  max_magnitude: 20
+- magic_effect: DrainAttribute
+  skill: None
+  attribute: Agility
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 10
+  max_magnitude: 10
+- magic_effect: DrainAttribute
+  skill: None
+  attribute: Speed
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 10
+  max_magnitude: 10
+data:
+  weight: 5.0
+  value: 10
+  flags: ''

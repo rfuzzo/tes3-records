@@ -1,0 +1,17 @@
+type: Clothing
+flags: ''
+id: BM_Nordic01_gloveL
+name: Left Glove
+script: ''
+mesh: c\C_common_Nordic01GlGND.NIF
+icon: c\Tx_Common_Nordic01_Hand.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: LeftHand
+  male_bodypart: C_common_Nordic01_Gl
+  female_bodypart: ''
+data:
+  clothing_type: LeftGlove
+  weight: 1.0
+  value: 4
+  enchantment: 20

@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: act_bm_snowdoor1
+name: ''
+script: skaalaradoorScript
+mesh: f\Terrain_BM_snow_02.nif

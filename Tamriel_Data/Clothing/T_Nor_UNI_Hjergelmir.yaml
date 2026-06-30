@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Nor_UNI_Hjergelmir
+name: Hjergelmir's Claw
+script: ''
+mesh: Sky\c\sky_uni_hjergelmir.nif
+icon: sky\c\tx_uni_hjergelmir.dds
+enchanting: T_Use_HjergelmirUni
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 5800
+  enchantment: 450

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_He_DirenniCoin_01
+name: Direnni Coin
+script: ''
+mesh: sky\m\sky_misc_dcoin_01.nif
+icon: sky\m\tx_misc_dcoin_01.dds
+data:
+  weight: 0.05
+  value: 30
+  flags: ''

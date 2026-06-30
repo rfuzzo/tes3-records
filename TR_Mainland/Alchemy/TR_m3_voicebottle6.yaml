@@ -1,0 +1,12 @@
+type: Alchemy
+flags: ''
+id: TR_m3_voicebottle6
+name: '"Indrid Cold"'
+script: ''
+mesh: m\Misc_Potion_Quality_01.nif
+icon: m\Tx_potion_quality_01.tga
+effects: []
+data:
+  weight: 0.5
+  value: 0
+  flags: ''

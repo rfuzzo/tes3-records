@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_ArvelTombNote
+name: Dear Brother
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nDear Brother\r\n<BR>\r\nWe are estranged lately, so I leave this letter here where you will find it rather than risking another fight at your front door. Please do not ignore this. I would not write if I did not believe it was important.\r\n<BR>\r\nI hope that you find this before going to pay your respects, for I have concerning news. I was making an offering to grandfather when his spirit appeared to me in an uproar. \"Restless!\" he kept repeating. \"Restless! Chafing wrists! Bound! Unbound!\"\r\n<BR>\r\nHe would not stop repeating it. I believe it is a warning. I thought to bring this to the Temple but something stayed my hand. I think he was trying to drive me away. His visage was so horrible, brother. It was like he was alive again. I think it might be best if we leave the spirits to their rest a little while.\r\n<BR>\r\nI do not mean to frighten or tell you what to do. Commune with our ancestors but take care what you say to them. They are restless, I tell you.\r\n<BR>\r\nI know I don't deserve to ask, but will you give my love to your daughters? \r\n<BR>\r\nYour loving sister,\r\n<BR>\r\nDalnorea\r\n<BR>"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

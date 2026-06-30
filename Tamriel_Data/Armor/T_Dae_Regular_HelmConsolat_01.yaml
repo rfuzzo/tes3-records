@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Dae_Regular_HelmConsolat_01
+name: Daedric Face of Consolation
+script: ''
+mesh: tr\a\tr_a_dae_face_sheog.nif
+icon: tr\a\tr_a_dae_face_sheog.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: Head
+  male_bodypart: T_A_DaeRegularHelmConsol01_Hd
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 15.0
+  value: 14000
+  health: 800
+  enchantment: 750
+  armor_rating: 65

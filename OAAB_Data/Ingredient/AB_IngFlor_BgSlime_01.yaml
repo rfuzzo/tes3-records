@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: AB_IngFlor_BgSlime_01
+name: Bittergreen Slime
+script: ''
+mesh: OAAB\n\rem_bg_slime.nif
+icon: OAAB\n\rem_bg_slime.dds
+data:
+  weight: 0.1
+  value: 3
+  effects:
+  - Poison
+  - DamageHealth
+  - RestoreHealth
+  - RestoreFatigue
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

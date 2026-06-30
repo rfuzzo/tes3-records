@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: AB_sc_paperPlainInkRing
+name: Stained Paper
+script: ''
+mesh: OAAB\m\paper_ink_ring.nif
+icon: m\Tx_paper_plain_01.tga
+enchanting: ''
+text: ''
+data:
+  weight: 1.0
+  value: 3
+  book_type: Scroll
+  skill: None
+  enchantment: 50

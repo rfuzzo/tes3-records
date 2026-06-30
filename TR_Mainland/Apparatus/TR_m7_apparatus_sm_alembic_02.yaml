@@ -1,0 +1,12 @@
+type: Apparatus
+flags: PERSISTENT
+id: TR_m7_apparatus_sm_alembic_02
+name: Secret Master's Alembic
+script: TR_m7_SM_sm_alembic_disable
+mesh: m\Apparatus_S_Alembic_01.nif
+icon: m\Tx_alembic_05.tga
+data:
+  apparatus_type: Alembic
+  quality: 2.0
+  weight: 3.0
+  value: 6000

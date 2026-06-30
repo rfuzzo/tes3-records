@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m2_crate_long_TL
+name: Crate
+script: ''
+mesh: TR\o\TR_cont_crate_L_01.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 13
+  - ingred_ash_yam_01

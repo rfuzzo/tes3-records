@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Imp_Vampyrum_Dagger_Leech
+name: Vampyrum Order Leechclaw
+script: ''
+mesh: pc\w\pc_w_vampyr_dagger_01.nif
+icon: pc\w\pc_w_vampyr_dagger_01.dds
+enchanting: T_Strike_VampyrumWeapon
+data:
+  weight: 2.25
+  value: 3800
+  weapon_type: ShortBladeOneHand
+  health: 500
+  speed: 2.5
+  reach: 1.0
+  enchantment: 20
+  chop_min: 3
+  chop_max: 8
+  slash_min: 3
+  slash_max: 8
+  thrust_min: 3
+  thrust_max: 8
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

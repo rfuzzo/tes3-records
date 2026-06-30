@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Imp_ColBronzeOld_Helm_01
+name: Bronze Helm
+script: ''
+mesh: Sky\a\Sky_A_Bronze_HE_G.nif
+icon: Sky\a\Tx_Bronze_Helm.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Hair
+  male_bodypart: T_A_ImpColBronzeOldHelm01_Hr
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 4.5
+  value: 100
+  health: 160
+  enchantment: 300
+  armor_rating: 16

@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_De_UNI_FacelessHelm
+name: Indoril Helmet
+script: T_ScObj_FacelessHelm
+mesh: tr\a\tr_a_ind_faceless_helm.nif
+icon: TR\a\tr_a_ind_faceless_helm.dds
+enchanting: T_Const_Blind100
+biped_objects:
+- biped_object_type: Head
+  male_bodypart: T_A_DeIndFacelessHelm01_Hd
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 4.5
+  value: 3000
+  health: 450
+  enchantment: 225
+  armor_rating: 70

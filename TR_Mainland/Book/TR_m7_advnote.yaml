@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_advnote
+name: Adventurer's Note
+script: ''
+mesh: m\Text_Note_02.nif
+icon: m\Tx_note_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nI've run into my fair share of Daedra before, but nothing this powerful. It had blue skin and horns, the most terrifying monster I've ever seen. I was able to levitate up to this nook, but not before being badly wounded. <BR>\r\n<BR>\r\nGods, it's a lot of blood. I found a very rare piece of armor here, probably worth a fortune. But it doesn't matter now. I'm going to die up here. If you're reading this, take the greaves in my memory, and run from that creature while you still can. <BR>"
+data:
+  weight: 0.0
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 100

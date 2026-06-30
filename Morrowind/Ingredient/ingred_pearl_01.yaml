@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_pearl_01
+name: Pearl
+script: ''
+mesh: n\Ingred_pearl_01.NIF
+icon: n\Tx_pearl.tga
+data:
+  weight: 0.2
+  value: 100
+  effects:
+  - DrainAttribute
+  - Dispel
+  - WaterBreathing
+  - ResistCommonDisease
+  skills:
+  - Block
+  - Block
+  - Block
+  - Block
+  attributes:
+  - Agility
+  - Strength
+  - Strength
+  - Strength

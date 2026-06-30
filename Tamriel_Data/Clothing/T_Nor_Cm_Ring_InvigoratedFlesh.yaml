@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Nor_Cm_Ring_InvigoratedFlesh
+name: Ring of Invigorated Flesh
+script: ''
+mesh: Sky\c\Sky_Ring_Nord_01.nif
+icon: Sky\c\Tx_Ring_Nord_01.dds
+enchanting: T_Use_InvigoratedFlesh
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 117
+  enchantment: 10

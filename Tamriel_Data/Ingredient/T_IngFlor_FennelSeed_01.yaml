@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_FennelSeed_01
+name: Fennel Seeds
+script: ''
+mesh: pc\n\pc_ing_fennels.nif
+icon: pc\n\pc_tx_ingred_fennels.dds
+data:
+  weight: 0.1
+  value: 5
+  effects:
+  - DamageMagicka
+  - DamageAttribute
+  - Telekinesis
+  - Paralyze
+  skills:
+  - None
+  - Block
+  - None
+  - None
+  attributes:
+  - None
+  - Intelligence
+  - None
+  - None

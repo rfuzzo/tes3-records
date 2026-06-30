@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Dwe_Scrap_helmet
+name: Dwemer Scrap Helmet
+script: ''
+mesh: TR\a\tr_a_DwrvScrp_helmet.nif
+icon: tr\a\tr_a_DwrvScrp_helmet.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Head
+  male_bodypart: T_A_DweScrp_helm
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 3.5
+  value: 225
+  health: 100
+  enchantment: 200
+  armor_rating: 25

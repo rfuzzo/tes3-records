@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Imp_Executioners_Axe
+name: Executioner's Axe
+script: ''
+mesh: tr\w\tr_w_thoricles_axe_uni.nif
+icon: tr\w\tr_w_thoricles_axe.dds
+enchanting: ''
+data:
+  weight: 38.0
+  value: 200
+  weapon_type: AxeTwoHand
+  health: 1300
+  speed: 0.9
+  reach: 1.0
+  enchantment: 30
+  chop_min: 1
+  chop_max: 40
+  slash_min: 1
+  slash_max: 28
+  thrust_min: 1
+  thrust_max: 4
+  flags: ''

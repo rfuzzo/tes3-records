@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Els_Flora_Nightsh01
+name: Nightshade
+script: ''
+mesh: pc\o\pc_flora_nightshade.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - T_Els_Random_FlorNightshade

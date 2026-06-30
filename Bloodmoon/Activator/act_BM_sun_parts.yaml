@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: act_BM_sun_parts
+name: ''
+script: stoneeffect1Script
+mesh: f\act_BM_sun_parts.NIF

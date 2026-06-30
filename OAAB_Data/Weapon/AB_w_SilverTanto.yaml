@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_SilverTanto
+name: Silver Tanto
+script: ''
+mesh: OAAB\w\silver_tanto.nif
+icon: OAAB\w\silver_tanto.dds
+enchanting: ''
+data:
+  weight: 3.0
+  value: 56
+  weapon_type: ShortBladeOneHand
+  health: 280
+  speed: 2.25
+  reach: 1.0
+  enchantment: 16
+  chop_min: 5
+  chop_max: 11
+  slash_min: 5
+  slash_max: 11
+  thrust_min: 6
+  thrust_max: 11
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE | SILVER

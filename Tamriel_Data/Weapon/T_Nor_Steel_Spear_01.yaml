@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Nor_Steel_Spear_01
+name: Nordic Steel Spear
+script: ''
+mesh: sky\w\sky_nord_steel_spear.nif
+icon: sky\w\tx_w_steel_spear_01.dds
+enchanting: ''
+data:
+  weight: 14.0
+  value: 170
+  weapon_type: SpearTwoWide
+  health: 1200
+  speed: 1.25
+  reach: 1.8
+  enchantment: 60
+  chop_min: 2
+  chop_max: 5
+  slash_min: 2
+  slash_max: 5
+  thrust_min: 6
+  thrust_max: 26
+  flags: ''

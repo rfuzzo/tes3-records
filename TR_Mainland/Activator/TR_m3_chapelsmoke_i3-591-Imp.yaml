@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m3_chapelsmoke_i3-591-Imp
+name: ''
+script: TR_m3_OE_TombPermaOpenSmoke_scp
+mesh: tr\f\tr_act_steam_lavariver.nif

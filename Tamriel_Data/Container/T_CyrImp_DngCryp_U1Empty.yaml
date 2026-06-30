@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_CyrImp_DngCryp_U1Empty
+name: Urn
+script: ''
+mesh: pc\o\PC_Cont_Imp_Urn.nif
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Glb_Empty

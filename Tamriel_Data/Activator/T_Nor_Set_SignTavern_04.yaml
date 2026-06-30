@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Nor_Set_SignTavern_04
+name: Tavern
+script: T_ScObj_WeatherAnimSHOTN
+mesh: sky\f\sky_act_sign_tvrn_04.nif

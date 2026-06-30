@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Cyr_Mine_OreWWIron05
+name: Raw Iron
+script: ''
+mesh: pc\o\pc_cont_wwrock_iron_05.nif
+encumbrance: 0.0
+container_flags: ORGANIC | IS_BASE
+inventory:
+- - 8
+  - T_Cyr_Random_OreIron

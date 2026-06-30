@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Nor_Companion_Cuirass_01
+name: Companion Cuirass
+script: ''
+mesh: Sky\a\Sky_A_Companion_CU_G.nif
+icon: Sky\a\Tx_Comp_Cuirass.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_A_NorCompanionCuir01_C
+  female_bodypart: ''
+data:
+  armor_type: Cuirass
+  weight: 20.0
+  value: 3600
+  health: 500
+  enchantment: 200
+  armor_rating: 25

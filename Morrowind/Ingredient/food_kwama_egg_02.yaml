@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: food_kwama_egg_02
+name: Large Kwama Egg
+script: ''
+mesh: f\Food_kwama_egg_02.NIF
+icon: m\Tx_food_kwama_egg_01.tga
+data:
+  weight: 2.0
+  value: 2
+  effects:
+  - RestoreFatigue
+  - Paralyze
+  - FrostShield
+  - FortifyHealth
+  skills:
+  - None
+  - Block
+  - Block
+  - Block
+  attributes:
+  - Strength
+  - Strength
+  - Strength
+  - Strength

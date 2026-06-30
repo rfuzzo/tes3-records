@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: TR_m7_AldIuvalJNS_Helm
+name: 'Magickeater Helm '
+script: ''
+mesh: tr\a\tr_a_guarskin_helmet.nif
+icon: tr\a\tr_a_guarskin_helmet.dds
+enchanting: T_Use_MagickeaterRobe
+biped_objects:
+- biped_object_type: Head
+  male_bodypart: T_A_DeGuarSkinHelm02_Hd
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 3.5
+  value: 537
+  health: 80
+  enchantment: 100
+  armor_rating: 8

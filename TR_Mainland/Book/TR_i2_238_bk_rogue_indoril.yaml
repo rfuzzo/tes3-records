@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_i2_238_bk_rogue_indoril
+name: Commandant's Log
+script: ''
+mesh: m\Text_Quarto_open_01.nif
+icon: m\Tx_quarto_open_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nLog<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nWe have escaped yet again.  Curse those fool Indoril.  Curse them for their shortsightedness.  Do they not know that strength is needed to weather the coming storm?  Curse them and their hunting parties!  Bhaskev, Innorik, and Utomial, all lost.  They were good soldiers, and I will miss them before the end.  Yet there are still six of us.  We can yet prevail.<BR>\r\n<BR>\r\nThis cave should provide us with some time to rest, repair, and regroup.  Perhaps we may even be able to recruit a few new men.  They will be sorely needed if we are to survive another assault.  Yet, I must not show despair - the men need me to be a strong leader.<BR>\r\n<BR>"
+data:
+  weight: 3.0
+  value: 10
+  book_type: Book
+  skill: None
+  enchantment: 100

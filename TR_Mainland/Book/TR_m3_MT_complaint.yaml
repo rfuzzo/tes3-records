@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_MT_complaint
+name: Formal Complaint
+script: ''
+mesh: m\text_scroll_01.nif
+icon: m\tx_scroll_open_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nTo the Honorable Minister of Justice Belisatha Mede,<BR>\r\n<BR>\r\nI, %PCName, member of the Morag Tong in good standing, hereby submit this petition for monetary compensation for the damages suffered as a result of my wrongful arrest by a member of the Old Ebonheart city garrison.<BR>\r\n<BR>\r\nI was executing a sanctioned writ on Dileru Dras, citizen of Old Ebonheart, as per the laws and customs of Morrowind in general and the honorable Morag Tong Guild in particular, guaranteed by the Treaty of the Armistice and affirmed multiple times since then. As I left the house of the aforementioned personage, a member of the Old Ebonheart city guard by the name of Entosaro Tanian, Trooper of the Imperial Legion, stopped and then unlawfully detained me, despite me carrying and presenting the Writ of Execution for Dileru Dras, proving the virtue and legality of my actions.<BR>\r\n<BR>\r\nDue to the unlawful and disrespectful actions of Entosaro Tanian, Trooper of the Imperial Legion, I have suffered significant harm to my health, dignity, reputation and/or property.<BR>\r\n<BR>\r\nTherefore, I demand that the Imperial Treasury pay to me a sum of no less than 1100 septims as compensation for my physical, emotional and/or material damages, as well as legal fees accrued in the pursuit of this compensation. This compensation shall serve as an acknowledgement by the Imperial Curia that the aforementioned member of the Imperial Legion has acted unlawfully and disreputable, and affirm the rights of the Morag Tong to carry out sanctioned executions throughout the Imperial Province of Morrowind.<BR>\r\n<BR>\r\nI request that this petition be granted without delay or further dispute. I reserve the right to pursue further legal action if this petition is denied or ignored.<BR><BR><BR>\r\nPrepared with the assistance of the Guild of Barristers of Old Ebonheart, Vvardenfell District, Imperial Province of Morrowind<BR>\r\n<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

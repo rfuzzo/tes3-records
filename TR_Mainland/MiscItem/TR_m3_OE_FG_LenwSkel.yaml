@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m3_OE_FG_LenwSkel
+name: Ancient Skeleton
+script: TR_m3_OE_FG_q_LenwynSkelScr
+mesh: o\contain_corpse10.nif
+icon: m\misc_skull00.tga
+data:
+  weight: 30.0
+  value: 10
+  flags: ''

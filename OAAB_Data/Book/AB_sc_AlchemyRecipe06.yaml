@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: AB_sc_AlchemyRecipe06
+name: Recipe - Mages Steadfast Mirror
+script: ''
+mesh: m\Text_Scroll_02.nif
+icon: m\Tx_scroll_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nMadam Mary Madrigal's Advanced Alchemical Recipes<BR><BR>\r\n- Mage's Steadfast Mirror -<BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nPotion Effects:<BR>\r\n<BR>\r\nSpell Absorbtion<BR>\r\nParalyze<BR>\r\nReflect<BR>\r\nRestore Magicka<BR>\r\n<BR>\r\nThis potion is intended for magical duels, but has an unwanted paralyze effect, so an alembic is absolutely necessary. You may want to make a separate potion of cure paralyzation to go with this one.<BR>\r\n<BR>\r\nComberry<BR>\r\nFire Petal<BR>\r\nHound Meat<BR>\r\nVoid Salts<BR>\r\n<BR>\r\n<BR>\r\nCrush fire petal together with void salts. Distill this mixture in your alembic thoroughly to reduce the unwanted paralyze effect. Reduce hound meat in the calcinator until the water is gone, and mix with crushed comberry.<BR>\r\n<BR>\r\nThe comberry and hound meat will form a meaty paste that must be further reduced in the calcinator until it starts to bubble. Take this mixture, while still hot, and mix with the distilled liquid from the fire petal and void salts. Make sure this liquid finishes distilling first. If you let the paste cool before you mix it, the potion will be ruined.<BR>\r\n<BR>\r\nOnce this is all mixed together, set to distill in the retort overnight. The finished potion should be dark red.<BR>"
+data:
+  weight: 0.5
+  value: 75
+  book_type: Scroll
+  skill: None
+  enchantment: 20

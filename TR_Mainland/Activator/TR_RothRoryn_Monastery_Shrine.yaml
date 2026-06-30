@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_RothRoryn_Monastery_Shrine
+name: A Worn Inscription
+script: TR_RothRoryn_Monastery_ShrineSc
+mesh: f\Furn_triolith_01.nif

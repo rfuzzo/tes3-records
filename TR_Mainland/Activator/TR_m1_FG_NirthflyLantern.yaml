@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m1_FG_NirthflyLantern
+name: ''
+script: TR_m1_q_FG_BoatStuffDisable
+mesh: l\light_de_lantern_05.nif

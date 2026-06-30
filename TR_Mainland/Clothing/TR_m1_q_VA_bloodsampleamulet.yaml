@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m1_q_VA_bloodsampleamulet
+name: Amulet of Devouring Anguish
+script: ''
+mesh: c\Amulet_Expensive_3.nif
+icon: c\tx_amulet_expens3.tga
+enchanting: TR_m1_q_VA_bloodsampleamulet_en
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 0.1
+  value: 550
+  enchantment: 600

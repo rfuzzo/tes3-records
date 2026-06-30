@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: misc_de_bowl_white_01
+name: Bowl
+script: ''
+mesh: m\Misc_bowl_white_01.NIF
+icon: m\Misc_de_bowl_white_01.tga
+data:
+  weight: 3.0
+  value: 2
+  flags: ''

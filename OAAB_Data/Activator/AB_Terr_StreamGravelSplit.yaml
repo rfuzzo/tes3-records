@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Terr_StreamGravelSplit
+name: ''
+script: Sound_Water_Spout
+mesh: OAAB\t\streamGravelSplit.nif

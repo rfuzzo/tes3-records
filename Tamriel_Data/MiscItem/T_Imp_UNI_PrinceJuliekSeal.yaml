@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_UNI_PrinceJuliekSeal
+name: Prince Juliek's Seal
+script: ''
+mesh: tr\m\tr_misc_juliekseal.nif
+icon: tr\m\tr_misc_juliek_seal.dds
+data:
+  weight: 1.5
+  value: 3000
+  flags: ''

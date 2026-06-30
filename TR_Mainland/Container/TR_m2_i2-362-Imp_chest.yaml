@@ -1,0 +1,31 @@
+type: Container
+flags: ''
+id: TR_m2_i2-362-Imp_chest
+name: Wooden Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 500.0
+container_flags: IS_BASE
+inventory:
+- - 3
+  - Misc_Imp_Silverware_Bowl
+- - 3
+  - Misc_Imp_Silverware_Cup_01
+- - 3
+  - misc_imp_silverware_cup
+- - 3
+  - misc_imp_silverware_pitcher
+- - 3
+  - misc_imp_silverware_plate_01
+- - 3
+  - misc_imp_silverware_plate_02
+- - 3
+  - misc_imp_silverware_plate_03
+- - 2
+  - misc_lw_bowl
+- - 2
+  - misc_lw_cup
+- - 2
+  - misc_lw_flask
+- - 2
+  - misc_lw_platter

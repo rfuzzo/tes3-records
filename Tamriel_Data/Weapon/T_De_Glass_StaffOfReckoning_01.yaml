@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_De_Glass_StaffOfReckoning_01
+name: Glass Staff of Reckoning
+script: ''
+mesh: w\W_staff_glass.nif
+icon: w\Tx_staff_glass.tga
+enchanting: T_Strike_GlassStaffOfReckoning
+data:
+  weight: 4.8
+  value: 6100
+  weapon_type: BluntTwoWide
+  health: 240
+  speed: 1.75
+  reach: 1.5
+  enchantment: 42
+  chop_min: 2
+  chop_max: 12
+  slash_min: 3
+  slash_max: 12
+  thrust_min: 1
+  thrust_max: 9
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

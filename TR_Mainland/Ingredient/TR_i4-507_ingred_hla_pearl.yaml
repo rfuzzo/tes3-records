@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: TR_i4-507_ingred_hla_pearl
+name: Edelmine's Pearl
+script: ''
+mesh: n\Ingred_pearl_01.NIF
+icon: n\Tx_pearl.tga
+data:
+  weight: 0.2
+  value: 350
+  effects:
+  - DrainAttribute
+  - Dispel
+  - WaterBreathing
+  - ResistCommonDisease
+  skills:
+  - Block
+  - None
+  - None
+  - None
+  attributes:
+  - Agility
+  - None
+  - None
+  - None

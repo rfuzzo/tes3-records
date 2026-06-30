@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: TR_m7_Ashurbalipal_ch1
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - Gold_001
+- - 1
+  - common_pants_03
+- - 1
+  - common_shirt_03
+- - 1
+  - common_shoes_03

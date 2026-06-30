@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_283_sc_Stockcertblank
+name: Blank EEC Stock Certificate
+script: ''
+mesh: m\Text_Scroll_01.NIF
+icon: m\Tx_scroll_open_01.tga
+enchanting: ''
+text: "This certifies that               is the owner of<BR>\r\n<BR>\r\n                     <BR>\r\n<BR>\r\nfully paid and non-assessable shares, of the par value of one (1) Septim each, of the common stock of the             division of the East Empire Company (hereafter referred to as \"the Company\"), transferrable on the books of the Company by the Holder himself in person or by duly authorized representative of the Holder upon surrender of this certificate properly endorsed. <BR>\r\nThis certificate and the shares represented hereby are issued and shall be held subject to all provisions of the Articles of Incorporation and of the by-laws of the Company (copies of which are on file at the Company's main office) to all which by acceptance the holder hereof assents. This certificate is not valid unless undersigned by the Transfer Agent and registered by the Registrar.<BR>\r\nIn Witness Whereof the Company has caused this certificate to be executed by the facsimile signatures of its duly authorized officers and a facsimile of its corporate seal to be printed hereon.<BR>\r\n<BR>\r\nSigned<BR>\r\n<BR>\r\n<BR>"
+data:
+  weight: 0.2
+  value: 10
+  book_type: Scroll
+  skill: None
+  enchantment: 0

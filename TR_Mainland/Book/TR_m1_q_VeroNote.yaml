@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m1_q_VeroNote
+name: Official Reply from the Council
+script: ''
+mesh: m\Misc_paper_plain_01.nif
+icon: m\Tx_paper_plain_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nNo.\r\n<BR>\r\n<BR>\r\n \r\n "
+data:
+  weight: 0.01
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

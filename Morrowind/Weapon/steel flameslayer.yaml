@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: steel flameslayer
+name: Steel Flameslayer
+script: ''
+mesh: w\W_N_Claymore.nif
+icon: w\Tx_Claymore.tga
+enchanting: cruel flame_en
+data:
+  weight: 27.0
+  value: 180
+  weapon_type: LongBladeTwoClose
+  health: 2100
+  speed: 1.25
+  reach: 1.0
+  enchantment: 70
+  chop_min: 1
+  chop_max: 27
+  slash_min: 1
+  slash_max: 23
+  thrust_min: 1
+  thrust_max: 16
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

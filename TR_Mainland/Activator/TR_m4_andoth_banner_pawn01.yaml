@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_andoth_banner_pawn01
+name: 'Angunas: Pawnbroker'
+script: OutsideBanner
+mesh: f\Furn_de_banner_pawn_01.NIF

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Rga_Alik_Dagger_01
+name: Alik'r Dagger
+script: ''
+mesh: pc\w\pc_rga_alik_dagg_01.nif
+icon: pc\w\pc_rga_alik_dagger_01.dds
+enchanting: ''
+data:
+  weight: 3.0
+  value: 20
+  weapon_type: ShortBladeOneHand
+  health: 450
+  speed: 2.5
+  reach: 1.0
+  enchantment: 20
+  chop_min: 4
+  chop_max: 5
+  slash_min: 4
+  slash_max: 5
+  thrust_min: 5
+  thrust_max: 5
+  flags: ''

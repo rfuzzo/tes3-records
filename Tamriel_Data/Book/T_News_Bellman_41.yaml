@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Bellman_41
+name: ARTS AND CULTURE EDITION
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_note_oe_news.nif
+icon: tr\m\tr_note_oe_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\TR_bellman_512_256.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nARTS AND CULTURE EDITION<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nThis week, the Bellman staff are proud to feature book reviews by Conjur, an employee of the Zafirbel Bay Company in Helnim.<br>\r\n<BR>\r\n\"The Arrowshot Woman\", various authors<BR>\r\n<BR>\r\nThis collection of tall tales and fables from exotic Elsweyr will delight citizens from all walks of life. A weighty tome, filled with adventure. Recommended for young readers!<BR>\r\n<BR>\r\n\"The Necklace\", Ormax Endre<BR>\r\n<BR>\r\nThe Empire's mandate to rule Tamriel rests not only on legions and levies, but also the heavenly stream of artistic inspiration that flows from the Nine Divines into man and mer. With fast-paced prose and deadly stakes, this pulse-pounding novel soars ever-towards its shocking twist ending. No, this novel is not for the faint of heart. In short, meddle not in the affairs of dragons, dear reader!<BR>\r\n<BR>\r\n\"The Hope of the Redoran\", Turiul Nirith<BR>\r\n<BR>\r\nThis provincial classic is an ideal introduction to the ancient culture of Morrowind's native Great Houses. Great House Redoran venerates honor, loyalty, and solemnity, principles the reader will encounter in spades. This Dunmer morality tale on pride and trial by combat comes highly recommended.<BR>\r\n<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

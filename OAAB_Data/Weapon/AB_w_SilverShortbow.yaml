@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_SilverShortbow
+name: Silver Shortbow
+script: ''
+mesh: OAAB\w\silver_shortbow.nif
+icon: OAAB\w\silver_shortbow.dds
+enchanting: ''
+data:
+  weight: 3.0
+  value: 120
+  weapon_type: MarksmanBow
+  health: 340
+  speed: 1.0
+  reach: 1.0
+  enchantment: 16
+  chop_min: 1
+  chop_max: 15
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE | SILVER

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Sc_SoundOfWaterTR
+name: The Sound of Water
+script: ''
+mesh: m\Text_Scroll_01.nif
+icon: m\Tx_scroll_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe Sound of Water<BR>\r\nHoratio Gargonath<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\">\r\nI have tasted the clear<BR>\r\nI have whispered in its ear<BR>\r\nI have called upon the water<BR>\r\nAnd seen it break upon the rocks<BR><BR>\r\nHave you heard the water calling?<BR>\r\nHave you felt the gentle lapping?<BR>\r\nSwirling at your feet<BR>\r\nHave you seen the river twisting?<BR>\r\nAnd turning, so sweet<BR><BR>\r\nCrystal-clear water<BR>\r\nWrithing and churning<BR>\r\nTurned black and murky<BR>\r\nThen crystal again<BR><BR>\r\nHave you heard the water calling?<BR>\r\nHave you felt the gentle lapping?<BR>\r\nSwirling at your feet<BR>\r\nHave you seen the river twisting?<BR>\r\nAnd turning, so sweet<BR><BR>\r\nI have felt the water rising<BR>\r\nUp from the briny deep<BR>\r\nI have heard the water rushing<BR>\r\nAnd pushing at my feet<BR><BR>\r\nThe water, so clear<BR>\r\nLike a crystal, held dear<BR>\r\nThe water, so wonderful<BR>\r\nLike a caress, so gentle?<BR>"
+data:
+  weight: 1.1
+  value: 50
+  book_type: Scroll
+  skill: None
+  enchantment: 0

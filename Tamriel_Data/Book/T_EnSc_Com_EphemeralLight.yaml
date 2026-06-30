@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_EnSc_Com_EphemeralLight
+name: Scroll of Ephemeral Light
+script: ''
+mesh: m\text_scroll_open_01.nif
+icon: m\tx_scroll_open_01.dds
+enchanting: T_Once_LightTarget35-20
+text: <DIV ALIGN="center"><FONT COLOR="000000" SIZE="2" FACE="Daedric">WOE UPON YOU</FONT><BR>
+data:
+  weight: 0.2
+  value: 78
+  book_type: Scroll
+  skill: None
+  enchantment: 100

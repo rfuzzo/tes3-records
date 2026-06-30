@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: light_tikitorch00_320_ffd
+name: ''
+script: ''
+mesh: l\light_tikitorch00.NIF
+icon: ''
+sound: Fire 40
+data:
+  weight: 0.0
+  value: 1
+  time: -1
+  radius: 320
+  color:
+  - 235
+  - 155
+  - 35
+  - 0
+  flags: DYNAMIC | FIRE | FLICKER_SLOW

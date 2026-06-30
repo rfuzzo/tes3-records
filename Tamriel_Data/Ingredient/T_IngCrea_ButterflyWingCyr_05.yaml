@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_ButterflyWingCyr_05
+name: Ephialtic Nightkiss Wing
+script: ''
+mesh: pc\n\pc_ing_btrfly_wing_05.nif
+icon: pc\n\pc_ing_btrfly_wing_05.dds
+data:
+  weight: 0.1
+  value: 8
+  effects:
+  - DrainAttribute
+  - FortifyAttribute
+  - NightEye
+  - RestoreMagicka
+  skills:
+  - Block
+  - Block
+  - None
+  - None
+  attributes:
+  - Willpower
+  - Luck
+  - None
+  - None

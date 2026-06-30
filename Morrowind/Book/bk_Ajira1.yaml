@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: bk_Ajira1
+name: Ajira's Mushroom Report
+script: ajiraReports
+mesh: m\Text_Scroll_01.NIF
+icon: m\Tx_scroll_open_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nMushrooms of the Bitter Coast<BR>\r\nJourneyman Report from Ajira<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nAjira studies four common mushrooms in Vvardenfell.<BR>\r\n<BR>\r\nLuminous Russula is a toadstool like mushroom with a brown spot on top. All Russula has strong odors, but Luminous Russula much stronger. Russula can be poison if not prepared right. When mixed with pearl dust it makes very good potion to breathe under the water.<BR>\r\n<BR>\r\nViolet Coprinus is a tall toadstool that glows in the night. Coprinus also is poison if mixed wrongly like if you mix with Russula. Coprinus mixed with scales lets Ajira walk on the water instead of under the water. Much better.<BR>\r\n<BR>\r\nBungler's Bane looks like a brown shelf and grows from trees and sometimes wet rocks. Bungler's Bane very bad for you when mixed with almost anything. Very hard to use, but Ajira found Bungler's Bane and left over crushed pearl makes good dispel potion. No bad effects with Ajira's skill, but potion tastes very bad.<BR>\r\n<BR>\r\nHypha Facia looks just like Bungler's Bane. Confuses Ajira very easily, but Bungler's Bane smells more dry and dusty. Hypha Facia has little smell, but taste is very moist. Hypha Facia very good mushroom for eating, but too much makes Ajira clumsy. Ajira used Hypha Facia to make the nix hound meat more edible, and Ajira could smell all enchantments in Ajira's room. Ajira found no other use for Hypha Facia.<BR>\r\n<BR>\r\nAjira works very hard to go all over Bitter Coast and collect all these mushrooms. Ajira deserves rank of Journeyman much sooner than Galbedir.<BR>\r\n<BR>\r\n"
+data:
+  weight: 0.2
+  value: 100
+  book_type: Scroll
+  skill: None
+  enchantment: 0

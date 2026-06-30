@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Key_Keyring
+name: Keyring
+script: ''
+mesh: OAAB\m\misc_keyring.nif
+icon: OAAB\m\misc_keyring.tga
+data:
+  weight: 0.0
+  value: 0
+  flags: ''

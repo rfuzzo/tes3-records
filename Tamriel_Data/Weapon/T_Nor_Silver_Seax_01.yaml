@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Nor_Silver_Seax_01
+name: Nordic Silver Seax
+script: ''
+mesh: TR\w\TR_w_seax_silver.nif
+icon: TR\w\TR_w_seax_silver.dds
+enchanting: ''
+data:
+  weight: 12.0
+  value: 650
+  weapon_type: ShortBladeOneHand
+  health: 850
+  speed: 1.6
+  reach: 1.0
+  enchantment: 80
+  chop_min: 7
+  chop_max: 25
+  slash_min: 9
+  slash_max: 20
+  thrust_min: 9
+  thrust_max: 27
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE | SILVER

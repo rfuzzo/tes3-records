@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_We_Wenbone_Cuirass_01
+name: Wenbone Armor Cuirass
+script: ''
+mesh: va\a\va_a_wenb_cuir_gnd.nif
+icon: va\a\va_a_wenb_cuirass.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_A_WeWenBCuir01_C
+  female_bodypart: T_A_WeWenBCuir01_CF
+data:
+  armor_type: Cuirass
+  weight: 27.0
+  value: 400
+  health: 540
+  enchantment: 180
+  armor_rating: 17

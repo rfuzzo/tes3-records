@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: AB_bk_CodexArcana4_sk
+name: Codex Arcana, Volume IV
+script: ''
+mesh: m\Text_Octavo_07.NIF
+icon: m\Tx_book_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nCodex Arcana, Volume IV<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nSTUDENTS AND SCHOLAR: Attend our Abjurations!<BR>\r\nSHOWING DUE PROPRIETY IN THE CUSTODY OF BOOKS<BR>\r\n<BR>\r\nWe not only render service to the Emperor in preparing volumes of new books, but also exercise an office of sacred piety when we treat books carefully, and again when we restore them to their proper places and commend them to inviolable custody; that they may rejoice in purity while we have them in our hands, and rest securely when they are restored to their repositories. And surely next to the vestments and engines dedicated to the Emperor's glory, arcane books deserve to be rightly treated by the battlemage, to which great injury is done so often as they are touched by unclean hands. Wherefore we deem it expedient to warn our students against various negligences, such as might be easily avoided and which do wonderful harm to books.<BR>\r\n<BR>\r\nBeing a partial index of arcane contrivances known to the scholars and alchemists of Battlespire, that these contrivances might more readily be known to all students, and neither abused, nor neglected, nor wasted in their employment.<BR>\r\n<BR>\r\n\"Tale of the Whole Flesh\"<BR>\r\nCasts the spell of Major Cure Health<BR>\r\n<BR>\r\n\"Tear of Despair\"<BR>\r\nProduces the casting of Major Continuous Damage to the victim<BR>\r\n<BR>\r\n\"Thimble of Magefire\"<BR>\r\nProduces the casting of Minor Magic Damage Range<BR>\r\n<BR>\r\n\"Thread of Sparking\"<BR>\r\nRenders the power of Minor Shock Damage Range<BR>\r\n<BR>\r\n\"Tides of the Between\"<BR>\r\nProduces the casting of Teleport<BR>\r\n<BR>\r\n\"Tinct of the Apprentice\"<BR>\r\nProduces the casting of Minor Poison Damage<BR>\r\n<BR>\r\n\"Waft of Lightness\"<BR>\r\nProduces the casting of Jumping<BR>\r\n<BR>\r\n\"Web of the Master\"<BR>\r\nRenders the power of Major Poison Damage<BR>\r\n<BR>\r\n\"Whim of the Grand Warding\"<BR>\r\nRenders the power of Resistance to All elements<BR>\r\n<BR>\r\n\"Wind of Swiftness\"<BR>\r\nRenders the power of Running<BR>\r\n<BR>\r\n\"Winds of Storm\"<BR>\r\nProduces the casting of Medium Shock Damage Range<BR>\r\n<BR>\r\n\"Wing of Spellshifting\"<BR>\r\nCasts the spell of Spell Reflection<BR>\r\n<BR>\r\n\"Withy of Withering\"<BR>\r\nCasts the spell of Minor Continuous Damage to the victim\r\n<BR>"
+data:
+  weight: 2.0
+  value: 60
+  book_type: Book
+  skill: Mysticism
+  enchantment: 20

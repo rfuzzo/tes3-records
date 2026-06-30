@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: AB_bk_DaedricAlphabet
+name: Daedric for Dunmer
+script: ''
+mesh: OAAB\m\ab_octavo_04.nif
+icon: OAAB\m\ab_octavo_04.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nDaedric for Dunmer<BR><BR>\r\n<BR>\r\n<DIV ALIGN=\"LEFT\">It is important for every Dunmer child to learn the Daedric alphabet, as it is used in both Temple banners and magical scrolls. A remnant of Daedric worship, from before the Battle of Red Mountain, it is part of Dunmer cultural heritage.<BR>\r\n<BR>\r\nTemple acolytes and mage apprentices alike must become fluent in Daedric. Even the dullest Dunmer child would do well to learn these sigils, for they are used on scrolls of ALMSIVI intervention, used to teleport you to safety.\r\n<BR>\r\n<DIV ALIGN=\"CENTER\"><IMG SRC=\"OAAB\\Dae_alphabet_A.dds\" WIDTH=\"240\" HEIGHT=\"240\"><BR>\r\n<BR>\r\n<IMG SRC=\"OAAB\\Dae_alphabet_B.dds\" WIDTH=\"240\" HEIGHT=\"240\"><BR>\r\n<BR>\r\n<IMG SRC=\"OAAB\\Dae_alphabet_C.dds\" WIDTH=\"240\" HEIGHT=\"240\"><BR>\r\n<BR>\r\n<IMG SRC=\"OAAB\\Dae_alphabet_D.dds\" WIDTH=\"240\" HEIGHT=\"240\"><BR>\r\n<BR>\r\n<IMG SRC=\"OAAB\\Dae_alphabet_E.dds\" WIDTH=\"240\" HEIGHT=\"240\"><BR>\r\n<BR>\r\n<IMG SRC=\"OAAB\\Dae_alphabet_F.dds\" WIDTH=\"240\" HEIGHT=\"240\"><BR>\r\n<BR>\r\n<IMG SRC=\"OAAB\\Dae_alphabet_G.dds\" WIDTH=\"240\" HEIGHT=\"240\"><BR>\r\n<BR>\r\n<IMG SRC=\"OAAB\\Dae_alphabet_H.dds\" WIDTH=\"240\" HEIGHT=\"240\"><BR>\r\n<BR>\r\n<IMG SRC=\"OAAB\\Dae_alphabet_I.dds\" WIDTH=\"240\" HEIGHT=\"240\"><BR>\r\n<BR>\r\n<IMG SRC=\"OAAB\\Dae_alphabet_J.dds\" WIDTH=\"240\" HEIGHT=\"240\"><BR>\r\n<BR>\r\n<IMG SRC=\"OAAB\\Dae_alphabet_K.dds\" WIDTH=\"240\" HEIGHT=\"240\"><BR>\r\n<BR>\r\n<IMG SRC=\"OAAB\\Dae_alphabet_L.dds\" WIDTH=\"240\" HEIGHT=\"240\"><BR>\r\n<BR>\r\n<IMG SRC=\"OAAB\\Dae_alphabet_M.dds\" WIDTH=\"240\" HEIGHT=\"240\"><BR>\r\n<BR>\r\n<IMG SRC=\"OAAB\\Dae_alphabet_N.dds\" WIDTH=\"240\" HEIGHT=\"240\"><BR>\r\n<BR>\r\n<IMG SRC=\"OAAB\\Dae_alphabet_O.dds\" WIDTH=\"240\" HEIGHT=\"240\"><BR>\r\n<BR>\r\n<IMG SRC=\"OAAB\\Dae_alphabet_P.dds\" WIDTH=\"240\" HEIGHT=\"240\"><BR>\r\n<BR>\r\n<IMG SRC=\"OAAB\\Dae_alphabet_Q.dds\" WIDTH=\"240\" HEIGHT=\"240\"><BR>\r\n<BR>\r\n<IMG SRC=\"OAAB\\Dae_alphabet_R.dds\" WIDTH=\"240\" HEIGHT=\"240\"><BR>\r\n<BR>\r\n<IMG SRC=\"OAAB\\Dae_alphabet_S.dds\" WIDTH=\"240\" HEIGHT=\"240\"><BR>\r\n<BR>\r\n<IMG SRC=\"OAAB\\Dae_alphabet_T.dds\" WIDTH=\"240\" HEIGHT=\"240\"><BR>\r\n<BR>\r\n<IMG SRC=\"OAAB\\Dae_alphabet_U.dds\" WIDTH=\"240\" HEIGHT=\"240\"><BR>\r\n<BR>\r\n<IMG SRC=\"OAAB\\Dae_alphabet_V.dds\" WIDTH=\"240\" HEIGHT=\"240\"><BR>\r\n<BR>\r\n<IMG SRC=\"OAAB\\Dae_alphabet_W.dds\" WIDTH=\"240\" HEIGHT=\"240\"><BR>\r\n<BR>\r\n<IMG SRC=\"OAAB\\Dae_alphabet_Z.dds\" WIDTH=\"240\" HEIGHT=\"240\"><BR>\r\n<BR>"
+data:
+  weight: 2.0
+  value: 50
+  book_type: Book
+  skill: None
+  enchantment: 20

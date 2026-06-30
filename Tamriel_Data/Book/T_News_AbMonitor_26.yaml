@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_AbMonitor_26
+name: BLACK ISLE CO. UP SKY-HIGH
+script: T_ScNews_Bellman_Paper
+mesh: pc\m\pc_text_note_anv_news.nif
+icon: pc\m\pc_text_note_anv_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"PC\\pc_abmonitor.dds\" WIDTH=\"290\" HEIGHT=\"140\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nNEW TRADING COMPANY EXPLODES IN VALUE WITH INNOVATIVE BUSINESS STRATEGY<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nMiracle or mirage? The streets of Anvil have been buzzing with talk of the Black Isle Company, a distributor of goods from Vvardenfell island which has made waves off the back of a seemingly endless stock run. The mania surrounding the company has grown to the point where brokers speak of paupers, some with the very clothes falling off their backs, demanding a share of the company in exchange for what little they have to their name. Indeed, to hear some speak of it, the Black Isle Company seems not to be a company at all, but an infinite font of wealth by which one can convert even a small sum into a fortune. This all begs a simple question: what has it done to earn its success?<BR><BR>\r\nIn an effort to shed light on the situation, the Monitor sat down with a company representative for questions. What resulted was a dive into the inner workings of one of the most interesting newcomers to Cyrodiil's corporate world. One of the most common concerns regarding the Black Isle Company is the legality of its operation, given the East Empire Company's charter over all Morrowind. The BIC skirts this by using the EEC as a middleman, purchasing bulk quantities of goods at a discount and selling them piecemeal throughout Colovia. This process, which streamlines the bureaucratic morass associated with buying from the EEC, allows the BIC to sell Dark Elven goods at lower prices while still making a profit.<BR><BR>\r\nIt is this innovative new business model which has resulted in the Company's sky-high stock price. Indeed, even before the first shipment of goods has arrived from Vvardenfell, several businesses throughout Colovia have announced their intention to source their products through BIC representatives.<BR><BR>\r\nWhile the Black Isle Company's rise has been unprecedented, the competence of its employees and forward-thinking vision of its leaders make it seem less a fluke than the long-theorized confluence of several factors in an enterprise much greater than the sum of its parts -- one which is no doubt poised to change the corporate landscape forever.<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

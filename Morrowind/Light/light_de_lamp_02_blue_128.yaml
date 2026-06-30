@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: light_de_lamp_02_blue_128
+name: ''
+script: ''
+mesh: l\Light_De_Lamp_07.NIF
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 128
+  color:
+  - 1
+  - 128
+  - 254
+  - 0
+  flags: DYNAMIC | FIRE | FLICKER_SLOW

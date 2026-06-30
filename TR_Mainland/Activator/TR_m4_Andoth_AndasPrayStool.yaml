@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m4_Andoth_AndasPrayStool
+name: Prayer Stool
+script: TR_m4_AndasPrayerStool_scp
+mesh: f\furn_kneeling_stool_01.nif

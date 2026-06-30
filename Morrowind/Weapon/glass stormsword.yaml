@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: glass stormsword
+name: Glass Stormsword
+script: ''
+mesh: w\W_Longsword_crystal.nif
+icon: w\Tx_Crystal_longsword.tga
+enchanting: dire spark_en
+data:
+  weight: 12.0
+  value: 17000
+  weapon_type: LongBladeOneHand
+  health: 640
+  speed: 1.35
+  reach: 1.0
+  enchantment: 36
+  chop_min: 2
+  chop_max: 24
+  slash_min: 1
+  slash_max: 33
+  thrust_min: 4
+  thrust_max: 30
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

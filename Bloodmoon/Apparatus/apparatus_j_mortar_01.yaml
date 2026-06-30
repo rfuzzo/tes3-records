@@ -1,0 +1,12 @@
+type: Apparatus
+flags: ''
+id: apparatus_j_mortar_01
+name: Journeyman's Mortar and Pestle
+script: ''
+mesh: m\Misc_mortarpestle_01.NIF
+icon: m\Tx_mortarpestle_01.tga
+data:
+  apparatus_type: MortarAndPestle
+  quality: 1.0
+  weight: 4.0
+  value: 400

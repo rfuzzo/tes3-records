@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: TR_m4-17_light_de_lantern_02
+name: ''
+script: ''
+mesh: l\Light_De_Lantern_02.NIF
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 12
+  time: -1
+  radius: 400
+  color:
+  - 0
+  - 128
+  - 255
+  - 0
+  flags: DYNAMIC | FIRE | FLICKER_SLOW

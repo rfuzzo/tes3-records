@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_SetDoomstoneGC_Ritual
+name: The Ritual Stone
+script: T_ScObj_DoomBRitualPC
+mesh: pc\f\pc_dmstn_gc_mage.nif

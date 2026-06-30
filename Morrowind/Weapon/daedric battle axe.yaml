@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: daedric battle axe
+name: Daedric Battle Axe
+script: ''
+mesh: w\W_battleaxe_daedric.NIF
+icon: w\tx_battleaxe_daedric.tga
+enchanting: ''
+data:
+  weight: 90.0
+  value: 50000
+  weapon_type: AxeTwoHand
+  health: 4800
+  speed: 1.0
+  reach: 1.0
+  enchantment: 165
+  chop_min: 1
+  chop_max: 80
+  slash_min: 1
+  slash_max: 60
+  thrust_min: 1
+  thrust_max: 8
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

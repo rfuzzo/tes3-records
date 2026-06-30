@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m4-349_WaterTrap_Lever_3
+name: Dwemer Lever
+script: TR_m4-349_WaterTrap_Lever_Sc
+mesh: i\act_dwe_lever00.NIF

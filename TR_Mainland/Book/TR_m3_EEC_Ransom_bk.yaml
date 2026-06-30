@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_EEC_Ransom_bk
+name: EEC Ransom Note
+script: ''
+mesh: m\Text_Note_02.nif
+icon: m\Tx_note_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nFor the East Empire Company!<BR><BR>\r\nTwo of your merchants had the misfortune of sailing into my lands and so falling into my hands. I demand a handsome ransom for their return. Send ONLY %PCName the %PCRace with 5,000 drakes and NO ONE ELSE. Or everyone dies!<BR><BR>\r\n%PCName knows who I am and where to find me.<BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

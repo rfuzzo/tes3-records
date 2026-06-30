@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m4_IL_Evidaxe
+name: Orzuk's Iron Battle Axe
+script: TR_m4_IL_axescript
+mesh: w\W_BATTLEAXE_IRON.nif
+icon: w\tx_battleaxe_iron.tga
+enchanting: ''
+data:
+  weight: 30.0
+  value: 50
+  weapon_type: AxeTwoHand
+  health: 1200
+  speed: 1.0
+  reach: 1.0
+  enchantment: 55
+  chop_min: 1
+  chop_max: 32
+  slash_min: 1
+  slash_max: 24
+  thrust_min: 1
+  thrust_max: 3
+  flags: ''

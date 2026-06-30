@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: Misc_Com_Pitcher_Metal_01
+name: Pitcher
+script: ''
+mesh: m\Misc_Com_Pitcher_Metal_01.NIF
+icon: m\Misc_Com_Pitcher_Metal_01.tga
+data:
+  weight: 2.0
+  value: 2
+  flags: ''

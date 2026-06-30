@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: T_Mw_Fauna_CookedOrnd01
+name: Cooked Ornada
+script: ''
+mesh: TR\o\TR_cont_cook_ornada.NIF
+encumbrance: 0.0
+container_flags: ORGANIC | IS_BASE
+inventory:
+- - 3
+  - T_Mw_Random_FaunOrnadaMeat
+- - 1
+  - T_Mw_Random_OrnadaStuffing

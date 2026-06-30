@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Rga_GlasswarePlate_01
+name: Decorative Plate
+script: ''
+mesh: pc\m\pc_misc_rga_gplate01.nif
+icon: pc\m\pc_misc_rga_gplate01.dds
+data:
+  weight: 3.0
+  value: 10
+  flags: ''

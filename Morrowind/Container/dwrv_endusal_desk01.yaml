@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: dwrv_endusal_desk01
+name: Heavy Dwemer Desk
+script: ''
+mesh: o\contain_dwrv_desk00.nif
+encumbrance: 60.0
+container_flags: IS_BASE
+inventory:
+- - 8
+  - misc_dwrv_coin00
+- - 1
+  - misc_dwrv_gear00

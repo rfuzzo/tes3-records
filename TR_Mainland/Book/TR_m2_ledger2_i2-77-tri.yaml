@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2_ledger2_i2-77-tri
+name: Necrom Census Ledger
+script: ''
+mesh: m\Text_Octavo_03.NIF
+icon: m\Tx_octavo_03.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This book shows the names of all people entering Necrom by the harbor.]<BR>\r\n<BR>\r\n"
+data:
+  weight: 2.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 0

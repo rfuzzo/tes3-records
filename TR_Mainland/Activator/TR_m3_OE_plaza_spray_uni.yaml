@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_OE_plaza_spray_uni
+name: Sound_MournSpray
+script: Sound_Water_Spout
+mesh: EditorMarker.NIF

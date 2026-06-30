@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: bk_notetomalsa
+name: Note to Malsa Ules
+script: ''
+mesh: m\Text_Parchment_02.nif
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nMalsa,<BR>\r\n<BR>\r\nKeep our special guest in the room behind the tapestry. Make sure the door is locked and that he is under guard at all times. If he escapes, I will blame you.<BR>\r\n<BR>\r\nV<BR>\r\n"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

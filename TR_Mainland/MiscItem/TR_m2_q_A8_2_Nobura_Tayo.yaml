@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m2_q_A8_2_Nobura_Tayo
+name: Nobura Tayo
+script: TR_m2_q_A8_2_NoburaScript
+mesh: n\ingred_ruby_01.nif
+icon: n\tx_ruby.dds
+data:
+  weight: 0.2
+  value: 800
+  flags: ''

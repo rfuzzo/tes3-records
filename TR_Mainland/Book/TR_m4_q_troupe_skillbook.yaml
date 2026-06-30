@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_q_troupe_skillbook
+name: Enunciation for Thespians
+script: ''
+mesh: m\Text_Octavo_03.nif
+icon: m\Tx_octavo_03.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nEnunciation for Thespians<BR>\r\nby Coster Jeveford<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\n[This book lists many useful breathing and enunciation exercises, so that the actor may enunciate properly while speaking both loud enough as well as at a desirable pace.]<BR><BR>\r\n"
+data:
+  weight: 3.0
+  value: 250
+  book_type: Book
+  skill: Speechcraft
+  enchantment: 0

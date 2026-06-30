@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_De_UNI_Provocation_TR
+name: Ring of Provocation
+script: ''
+mesh: c\C_Ring_extravagant_2.NIF
+icon: c\tx_ring_extravagant02.tga
+enchanting: T_Const_Provocation
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 200
+  enchantment: 600

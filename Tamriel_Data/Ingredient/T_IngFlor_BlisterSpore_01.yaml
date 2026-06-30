@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_BlisterSpore_01
+name: Blister Spore
+script: ''
+mesh: tr\n\tr_ing_blisterspore.nif
+icon: tr\n\tr_ing_blisterspore.dds
+data:
+  weight: 0.1
+  value: 3
+  effects:
+  - FortifyHealth
+  - WeaknessToPoison
+  - Poison
+  - Blind
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

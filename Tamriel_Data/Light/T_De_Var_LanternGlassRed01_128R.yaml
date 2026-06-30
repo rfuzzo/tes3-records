@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_De_Var_LanternGlassRed01_128R
+name: Glass Lantern
+script: ''
+mesh: tr\l\tr_l_de_lantgl_red02.nif
+icon: tr\l\tr_l_de_lantg_red02.dds
+sound: ''
+data:
+  weight: 3.0
+  value: 12
+  time: 150
+  radius: 128
+  color:
+  - 245
+  - 10
+  - 69
+  - 0
+  flags: DYNAMIC | CAN_CARRY | FIRE | FLICKER_SLOW

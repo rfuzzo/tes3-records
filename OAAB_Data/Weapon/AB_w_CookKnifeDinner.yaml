@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_CookKnifeDinner
+name: Knife
+script: ''
+mesh: OAAB\w\cook_knife_dinner.nif
+icon: OAAB\w\w_cook_knife_dinner.tga
+enchanting: ''
+data:
+  weight: 0.3
+  value: 1
+  weapon_type: ShortBladeOneHand
+  health: 100
+  speed: 2.5
+  reach: 0.75
+  enchantment: 5
+  chop_min: 0
+  chop_max: 1
+  slash_min: 1
+  slash_max: 1
+  thrust_min: 2
+  thrust_max: 2
+  flags: ''

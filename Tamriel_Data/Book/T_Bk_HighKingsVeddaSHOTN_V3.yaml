@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_HighKingsVeddaSHOTN_V3
+name: High King's Vedda Book Three
+script: ''
+mesh: Sky\m\sky_book_basic_14.nif
+icon: Sky\m\tx_book_basic_13.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nHigh King's Vedda<BR>\r\nBook Three<BR><BR>\r\n<IMG SRC=\"sky\\Sky_Bk_HighKingsVedda_three.dds\" WIDTH=\"240\" HEIGHT=\"240\">\r\n<BR> <DIV ALIGN=\"LEFT\"> <BR>\r\nI. LET it never be forgotten: all things are for ALDUIN alone. Wretch! No other may claim sovereignty over the demesne of the Dragon.\r\n<BR>\r\nII. Thus the Hirser followed Shor through the vivid void of stars. Tsun's bright Voice led the glorious dead of the old World, sideways Men whose deeds slip through the cracks of burning, on their march of reclamation. By dawn They were at Sky, that most sacred point.\r\n<BR>\r\nIII. And in that first light They looked once:\r\n<BR>\r\nIV. Amidst Them and filled with the ashes of dead possibilities, ALDUIN, The World-Eater, The Twilight Dragon, slept. ALDUIN devours all, and sleeps. It is the weakest mind that believes ALDUIN, the fiery serpent Whose body is the circumference of existence, can be woken by the singing of mortals.\r\n<BR>\r\nV. They looked twice:\r\n<BR>\r\nVI. Beneath Them, shadowed shapes, lesser beings, not yet elves and their elf-demons. Helpless and ill-formed they lay.\r\n<BR>\r\nVII. At once They understood:\r\n<BR>\r\nVIII. All beings - Man and elf, God and demon - are drawn to the shining interplay of up and down. The sacred height is called Sky. But the Breath of Kyne is truth: Sky's light is for Shor's Clan alone.\r\n<BR>\r\nIX. All will understand:\r\n<BR>\r\nX. The building of the World at Sky is forbidden by tradition, and by the maw of ALDUIN. The void is that of ALDUIN, and the Kalpa lasts by His forbearance alone.\r\n<BR>\r\nXI. Shor is the shrewd God, and knows that although the endless void belongs to ALDUIN, World-building is the true good. He has meditated on the Breath of Kyne, that glittering Voice, and does not listen to traditions, or Dragons. He knows His death.\r\n<BR>\r\nXII. Thus did the Hirser set to the building of the World, at Shor's direction. Their bodies support Sky, which is an idea alone. The Children, we Children, will throng to fill it lest the works of the Hirser go without witness. This shining World is good.\r\n<BR>\r\nMeditate on this: Everything is within the cycle of one Kalpa, the Breath held between the Dragon's feasting and awakening. There are many kalpas, up and down.\r\n<BR> <BR>\r\n"
+data:
+  weight: 3.0
+  value: 300
+  book_type: Book
+  skill: None
+  enchantment: 0

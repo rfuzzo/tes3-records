@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_StonewareBowl_03
+name: Stoneware Bowl
+script: ''
+mesh: tr\m\tr_misc_stn_bowl_03.nif
+icon: tr\m\tr_misc_stn_bowl_03.dds
+data:
+  weight: 1.0
+  value: 3
+  flags: ''

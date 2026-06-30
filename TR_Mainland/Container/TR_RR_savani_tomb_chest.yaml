@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_RR_savani_tomb_chest
+name: Small Chest
+script: ''
+mesh: o\Contain_chest_small_01.NIF
+encumbrance: 15.0
+container_flags: IS_BASE
+inventory:
+- - 10
+  - T_Com_Steel_ThrowingStar_CrSSph

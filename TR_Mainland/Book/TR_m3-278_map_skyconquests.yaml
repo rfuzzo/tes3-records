@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3-278_map_skyconquests
+name: Nord Conquests of the First Era
+script: ''
+mesh: m\Text_Scroll_01.NIF
+icon: m\Tx_scroll_open_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><IMG SRC=\"TR\\skyrim_conquests.dds\" WIDTH=\"300\" HEIGHT=\"300\"><BR>\r\n"
+data:
+  weight: 0.2
+  value: 175
+  book_type: Scroll
+  skill: None
+  enchantment: 400

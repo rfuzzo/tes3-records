@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_Barendreth_Ord
+name: ''
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: ''
+enchanting: ''
+text: "Ordinator\r\n\r\nShould be scripted to attack vampires on sight "
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

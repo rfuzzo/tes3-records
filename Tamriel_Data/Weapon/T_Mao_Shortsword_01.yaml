@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Mao_Shortsword_01
+name: Maormer Shortsword
+script: ''
+mesh: tr\w\tr_w_mao_shrtsword.nif
+icon: tr\w\tr_w_mao_shortsword.dds
+enchanting: ''
+data:
+  weight: 4.0
+  value: 750
+  weapon_type: ShortBladeOneHand
+  health: 800
+  speed: 2.0
+  reach: 1.0
+  enchantment: 45
+  chop_min: 6
+  chop_max: 13
+  slash_min: 6
+  slash_max: 13
+  thrust_min: 1
+  thrust_max: 12
+  flags: ''

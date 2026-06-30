@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_Silkbolt_01
+name: Bolt of Moth-Silk
+script: ''
+mesh: pc\m\pc_misc_ms_01.nif
+icon: pc\m\pc_clothbolt_silk_01.dds
+data:
+  weight: 10.0
+  value: 100
+  flags: ''

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: TR_m3_q_OE_MG_Dae_Sapphire
+name: <Cursed Gem Spawn Point>
+script: TR_m3_q_OE_MG_GemScript2
+mesh: TR\n\TR_Ing_sapphire_mm.NIF
+icon: TR\n\TR_Ing_sapphire_mm.dds
+data:
+  weight: 1.0
+  value: 200
+  effects:
+  - Dispel
+  - NightEye
+  - None
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

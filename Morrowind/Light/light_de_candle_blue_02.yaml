@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: light_de_candle_blue_02
+name: Bamboo Candlestick
+script: ''
+mesh: l\Light_de_candle_blue_02.NIF
+icon: l\Light_de_candle_blue_01.tga
+sound: ''
+data:
+  weight: 2.0
+  value: 3
+  time: 120
+  radius: 128
+  color:
+  - 0
+  - 140
+  - 255
+  - 0
+  flags: DYNAMIC | CAN_CARRY | FIRE | FLICKER_SLOW

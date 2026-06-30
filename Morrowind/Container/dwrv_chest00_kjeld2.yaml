@@ -1,0 +1,35 @@
+type: Container
+flags: ''
+id: dwrv_chest00_kjeld2
+name: Heavy Dwemer Chest
+script: ''
+mesh: o\contain_dwrv_chest00.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 20
+  - silver bolt
+- - 20
+  - silver arrow
+- - -15
+  - chitin arrow
+- - 20
+  - silver throwing star
+- - 20
+  - silver dart
+- - 1
+  - dwarven crossbow
+- - 1
+  - steel viperaxe
+- - 1
+  - iron war axe
+- - 1
+  - steel sparkskewer
+- - 1
+  - glass staff
+- - 1
+  - nordic claymore
+- - 1
+  - iron sparkslayer
+- - 1
+  - ebony shortsword

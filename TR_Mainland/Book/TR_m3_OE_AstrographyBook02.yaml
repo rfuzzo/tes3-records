@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_OE_AstrographyBook02
+name: Sharai-Saldro's Astrography
+script: TR_m3_OE_TG_SaldroLibraryScript
+mesh: m\text_folio_03.nif
+icon: m\Tx_folio_open_03.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"> <br> [Sharai-Saldro's Astrography, centuries old, contains detailed maps of the night sky of Nirn and its familiar constellations. You recognize the book from earlier. The Ebon Tower library, it seems, was Fentus' buyer.]\r\n<BR>\r\n<IMG SRC=\"EfoulkeFirmament_Warrior.tga\" WIDTH=\"240\" HEIGHT=\"240\"><BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n<DIV ALIGN=\"CENTER\"><BR>\r\n<IMG SRC=\"EfoulkeFirmament_Wizard.tga\" WIDTH=\"240\" HEIGHT=\"240\">\r\n<BR\r\n<DIV ALIGN=\"CENTER\"><BR>\r\n<IMG SRC=\"EfoulkeFirmament_Thief.tga\" WIDTH=\"240\" HEIGHT=\"240\"><BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n<BR>\r\n\r\n"
+data:
+  weight: 4.0
+  value: 1500
+  book_type: Book
+  skill: None
+  enchantment: 0

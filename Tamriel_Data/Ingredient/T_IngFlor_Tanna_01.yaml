@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_Tanna_01
+name: Tanna
+script: ''
+mesh: tr\n\tr_ing_tanna.nif
+icon: tr\n\tr_f_tanna.dds
+data:
+  weight: 0.2
+  value: 5
+  effects:
+  - RestoreFatigue
+  - RestoreMagicka
+  - DrainHealth
+  - WeaknessToCommonDisease
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

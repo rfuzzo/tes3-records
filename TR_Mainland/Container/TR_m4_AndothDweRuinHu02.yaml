@@ -1,0 +1,27 @@
+type: Container
+flags: ''
+id: TR_m4_AndothDweRuinHu02
+name: Hutch
+script: TR_m4_AndothDweBarSet02_scp
+mesh: o\contain_com_hutch_01.nif
+encumbrance: 75.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - Ingred_scrib_cabbage_01
+- - 1
+  - Potion_Cyro_Whiskey_01
+- - 5
+  - Potion_Local_Brew_01
+- - 2
+  - T_Bre_Drink_WineWayrest_01
+- - 1
+  - T_Imp_Drink_WineBattle_01
+- - 5
+  - ingred_bread_01
+- - 2
+  - ingred_rat_meat_01
+- - 1
+  - ingred_scrib_jelly_01
+- - 4
+  - potion_comberry_wine_01

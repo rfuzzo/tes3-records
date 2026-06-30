@@ -1,0 +1,21 @@
+type: Container
+flags: ''
+id: TR_m4_Andoth_VendicciCS
+name: Cloth Sack
+script: ''
+mesh: o\Contain_Com_Sack_02.NIF
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 450
+  - Gold_001
+- - 2
+  - T_IngMine_Amethyst_01
+- - 1
+  - T_IngMine_Garnet_01
+- - 1
+  - T_IngMine_TopazBlue_01
+- - 4
+  - potion_skooma_01
+- - 450
+  - random gold

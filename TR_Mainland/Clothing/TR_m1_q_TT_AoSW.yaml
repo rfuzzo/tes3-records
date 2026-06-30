@@ -1,0 +1,14 @@
+type: Clothing
+flags: PERSISTENT
+id: TR_m1_q_TT_AoSW
+name: Amulet of Seht's Warding
+script: TR_m1_q_TT_AoSW_Script
+mesh: c\Amulet_Extravagant_2.NIF
+icon: c\tx_amulet_extrav2.tga
+enchanting: TR_m1_q_TT_AoSW_Ench
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 1000
+  enchantment: 1250

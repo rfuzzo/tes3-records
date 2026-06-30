@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Nor_Steel_Cuirass_01
+name: Nord Steel Cuirass
+script: ''
+mesh: Sky\a\Sky_A_Nord_Steel_CU_G.nif
+icon: Sky\a\Tx_Nord_STL_Cuirass.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_A_NorSteelCuirass01_C
+  female_bodypart: T_A_NorSteelCuirass01_CF
+data:
+  armor_type: Cuirass
+  weight: 30.0
+  value: 600
+  health: 500
+  enchantment: 200
+  armor_rating: 25

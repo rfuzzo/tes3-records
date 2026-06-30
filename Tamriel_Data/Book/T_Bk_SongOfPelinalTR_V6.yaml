@@ -1,0 +1,18 @@
+type: Book
+flags: ''
+id: T_Bk_SongOfPelinalTR_V6
+name: The Song of Pelinal, Volume 6
+script: ''
+mesh: TR\m\TR_book_closed_i15_AY.nif
+icon: TR\m\TR_book_closed_i15_AY.dds
+enchanting: ''
+text: |-
+  <DIV ALIGN="LEFT"><FONT COLOR="000000" SIZE="3" FACE="Magic Cards">[Editor's Note: Volumes 1-6 are taken from the so-called Reman Manuscript located in the Imperial Library. It is a transcription of older fragments collected by an unknown scholar of the early Second Era. Beyond this, little is known of the original sources of these fragments, some of which appear to be from the same period (perhaps even from the same manuscript). But, as no scholarly consensus yet exists on dating these six fragments, no opinions will be offered here.]<BR>
+  <DIV ALIGN="CENTER"><BR>The Song of Pelinal, Volume 6: On His Madness<BR>
+  <DIV ALIGN="LEFT"><BR>[And it is] said that he emerged into the world like a Padomaic, that is, borne by Sithis and all the forces of change therein. Still others, like Fifd of New Teed, say that beneath the Pelinal's star-armor was a chest that gaped open to show no heart, only a red rage shaped diamond-fashion, singing like a mindless dragon, and that this was proof that he was a myth-echo, and that where he trod were shapes of the first urging. Pelinal cared for none of this and killed any who would speak god-logic, except for fair Perrif, who he said, "enacts, rather than talks, as language without exertion is dead witness." When those soldiers who heard him say this stared blankly, he laughed and swung his sword, running into the rain of Kyne to slaughter their Ayleid captives, screaming, "O Aka, for our shared madness I do this! I watch you watching me watching back! Umaril dares call us out, for that is how we made him!" [And it was during] these fits of anger and nonsense that Pelinal would fall into the Madness, where whole swaths of lands were devoured in divine rampage to become Void, and Alessia would have to pray to the Gods for their succor, and they would reach down as one mind and soothe the Whitestrake until he no longer had the will to kill the earth in whole. And Garid of the men-of-ge once saw such a Madness from afar and maneuvered, after it had abated, to drink together with Pelinal, and he asked what such an affliction felt like, to which Pelinal could only answer, "Like when the dream no longer needs its dreamer."<BR>
+data:
+  weight: 1.5
+  value: 100
+  book_type: Book
+  skill: None
+  enchantment: 100

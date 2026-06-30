@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: TR_m2_mothrivra_mimic
+name: Chest
+script: TR_m2_mothrivra_mimic_Sc
+mesh: o\contain_de_chest_02.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory: []

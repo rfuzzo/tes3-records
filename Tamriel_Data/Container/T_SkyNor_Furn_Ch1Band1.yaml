@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: T_SkyNor_Furn_Ch1Band1
+name: Chest
+script: ''
+mesh: Sky\o\Sky_Cont_Chest_06_01.nif
+encumbrance: 250.0
+container_flags: IS_BASE
+inventory:
+- - 5
+  - T_Sky_Lvl_BanditGoods
+- - 1
+  - T_Sky_Lvl_Potion
+- - 1
+  - T_Sky_Random_Drinks
+- - 50
+  - random gold

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_willow_anther_01
+name: Willow Anther
+script: ''
+mesh: n\Ingred_Willow_Anther_01.nif
+icon: n\Tx_willow_anther_01.tga
+data:
+  weight: 0.1
+  value: 10
+  effects:
+  - DrainAttribute
+  - FrostShield
+  - CureCommonDisease
+  - CureParalyzation
+  skills:
+  - Block
+  - Block
+  - Block
+  - Block
+  attributes:
+  - Personality
+  - Strength
+  - Strength
+  - Strength

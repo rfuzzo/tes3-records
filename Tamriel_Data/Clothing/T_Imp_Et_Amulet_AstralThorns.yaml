@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Imp_Et_Amulet_AstralThorns
+name: Amulet of Astral Thorns
+script: ''
+mesh: pc\c\pc_c_etamulet_01.nif
+icon: pc\c\pc_c_etamulet_01a.dds
+enchanting: flay spirit [ranged]_en
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 220
+  enchantment: 600

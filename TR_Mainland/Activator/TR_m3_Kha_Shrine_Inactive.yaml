@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_Kha_Shrine_Inactive
+name: Shrine of Almalexia's Mercy
+script: TR_m3_Kha_InactiveShrine_sc
+mesh: TR\f\tr_shrine_almalexia.nif

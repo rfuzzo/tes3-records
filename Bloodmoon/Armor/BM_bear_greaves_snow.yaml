@@ -1,0 +1,31 @@
+type: Armor
+flags: ''
+id: BM_bear_greaves_snow
+name: Snow Bear Greaves
+script: ''
+mesh: a\A_Bear2_Greaves_GND.NIF
+icon: A\Tx_Bear2_Greaves.dds
+enchanting: snow shield
+biped_objects:
+- biped_object_type: Groin
+  male_bodypart: A_Bear2_Greaves_G
+  female_bodypart: ''
+- biped_object_type: LeftUpperLeg
+  male_bodypart: A_Bear2_Greaves_UL
+  female_bodypart: ''
+- biped_object_type: RightUpperLeg
+  male_bodypart: A_Bear2_Greaves_UL
+  female_bodypart: ''
+- biped_object_type: LeftKnee
+  male_bodypart: A_Bear2_Greaves_K
+  female_bodypart: ''
+- biped_object_type: RightKnee
+  male_bodypart: A_Bear2_Greaves_K
+  female_bodypart: ''
+data:
+  armor_type: Greaves
+  weight: 10.0
+  value: 8500
+  health: 220
+  enchantment: 45
+  armor_rating: 35

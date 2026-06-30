@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: Lucky_Break
+name: Haakon's Lucky Break
+script: ''
+mesh: w\W_silver_staff.nif
+icon: w\Tx_silver_staff.tga
+enchanting: lucky_break_en
+data:
+  weight: 6.4
+  value: 860
+  weapon_type: BluntTwoWide
+  health: 270
+  speed: 1.75
+  reach: 1.5
+  enchantment: 56
+  chop_min: 3
+  chop_max: 15
+  slash_min: 3
+  slash_max: 15
+  thrust_min: 3
+  thrust_max: 9
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE | SILVER

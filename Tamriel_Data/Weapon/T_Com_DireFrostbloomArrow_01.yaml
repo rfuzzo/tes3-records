@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Com_DireFrostbloomArrow_01
+name: Dire Frostbloom Arrow
+script: ''
+mesh: w\W_Silver_arrow.NIF
+icon: w\tx_arrow_silver.tga
+enchanting: T_Strike_dire_frost_ma_en
+data:
+  weight: 0.1
+  value: 7
+  weapon_type: Arrow
+  health: 10
+  speed: 1.0
+  reach: 1.0
+  enchantment: 12
+  chop_min: 1
+  chop_max: 3
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE | SILVER

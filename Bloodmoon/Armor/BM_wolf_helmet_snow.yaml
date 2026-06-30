@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: BM_wolf_helmet_snow
+name: Snow Wolf Helmet
+script: ''
+mesh: a\A_Wolf_Helmet.NIF
+icon: A\Tx_Wolf_Helmet.dds
+enchanting: snow shield
+biped_objects:
+- biped_object_type: Hair
+  male_bodypart: A_wolf_Helmet
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 2.0
+  value: 3500
+  health: 100
+  enchantment: 20
+  armor_rating: 35

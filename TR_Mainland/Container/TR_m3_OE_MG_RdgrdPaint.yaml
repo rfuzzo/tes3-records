@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m3_OE_MG_RdgrdPaint
+name: The Redguard
+script: TR_m3_OE_MG_PuzzleHallRedguard
+mesh: pc\f\pc_furn_portrait_14.nif
+encumbrance: 0.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - TR_m3_OE_MG_PuzzleExitKey

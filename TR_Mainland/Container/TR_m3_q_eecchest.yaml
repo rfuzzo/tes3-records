@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: TR_m3_q_eecchest
+name: Ornate Chest
+script: TR_m3_q_eecchest_scr
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - TR_m3_q_eecamulet
+- - 1
+  - ingred_diamond_01
+- - 1
+  - ingred_emerald_01
+- - 1
+  - ingred_pearl_01
+- - 1
+  - ingred_ruby_01

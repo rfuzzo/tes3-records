@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: T_SkyCom_Var_BlFl1Empty
+name: Floating Barrel
+script: Float
+mesh: Sky\o\Sky_Cont_Barrel_01.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory: []

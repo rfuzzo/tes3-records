@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_De_Dreugh_Shield_Swim
+name: Dreugh Shield of Meriyon's Fins
+script: ''
+mesh: a\Shield_dreugh.NIF
+icon: a\tx_shield_dreugh.tga
+enchanting: T_Const_SwiftSwim60
+biped_objects:
+- biped_object_type: Shield
+  male_bodypart: shield_dreugh
+  female_bodypart: ''
+data:
+  armor_type: Shield
+  weight: 13.5
+  value: 6240
+  health: 800
+  enchantment: 450
+  armor_rating: 40

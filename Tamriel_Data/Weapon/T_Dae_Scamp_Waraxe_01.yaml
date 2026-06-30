@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Dae_Scamp_Waraxe_01
+name: Scamp War Axe
+script: ''
+mesh: pc\w\pc_w_scamp_axe.nif
+icon: pc\w\pc_w_scamp_axe.dds
+enchanting: ''
+data:
+  weight: 23.0
+  value: 300
+  weapon_type: AxeOneHand
+  health: 850
+  speed: 1.25
+  reach: 1.0
+  enchantment: 100
+  chop_min: 1
+  chop_max: 18
+  slash_min: 1
+  slash_max: 10
+  thrust_min: 1
+  thrust_max: 2
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

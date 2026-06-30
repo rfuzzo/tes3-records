@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_SetDoomstoneGC_Atro
+name: The Atronach Stone
+script: T_ScObj_DoomBAtroPC
+mesh: pc\f\pc_dmstn_gc_mage.nif

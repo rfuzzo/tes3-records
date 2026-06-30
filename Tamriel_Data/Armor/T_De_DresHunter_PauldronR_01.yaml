@@ -1,0 +1,22 @@
+type: Armor
+flags: ''
+id: T_De_DresHunter_PauldronR_01
+name: Dres Hunter Right Pauldron
+script: ''
+mesh: TR\a\tr_a_dres_hunt_p_gnd.nif
+icon: TR\a\tr_a_dres_p.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: RightUpperArm
+  male_bodypart: T_A_DeDresHunterPauldr01_UA
+  female_bodypart: ''
+- biped_object_type: RightPauldron
+  male_bodypart: T_A_DeDresHunterPauldr01_Cl
+  female_bodypart: ''
+data:
+  armor_type: RightPauldron
+  weight: 6.0
+  value: 100
+  health: 180
+  enchantment: 20
+  armor_rating: 17

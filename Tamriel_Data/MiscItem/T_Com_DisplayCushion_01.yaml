@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_DisplayCushion_01
+name: Cushion
+script: ''
+mesh: tr\m\tr_misc_cushion_disp01.nif
+icon: tr\m\tr_misc_cushion_disp01.dds
+data:
+  weight: 1.0
+  value: 2
+  flags: ''

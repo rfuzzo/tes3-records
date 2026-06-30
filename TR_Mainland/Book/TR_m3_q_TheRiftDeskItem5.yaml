@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_q_TheRiftDeskItem5
+name: Rolled Paper
+script: TR_m3_q_TheRiftFloodDisable
+mesh: m\Text_paper_roll_01.nif
+icon: m\Tx_paper_roll_01.tga
+enchanting: ''
+text: ''
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

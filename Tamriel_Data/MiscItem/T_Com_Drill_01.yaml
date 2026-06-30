@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_Drill_01
+name: Drill
+script: ''
+mesh: pc\m\pc_misc_drill.nif
+icon: pc\m\pc_misc_drill.dds
+data:
+  weight: 3.0
+  value: 3
+  flags: ''

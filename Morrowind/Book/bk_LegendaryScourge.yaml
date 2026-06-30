@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: bk_LegendaryScourge
+name: The Legendary Scourge
+script: ''
+mesh: m\Text_Octavo_06.NIF
+icon: m\Tx_book_03.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n\"Not till the very evening they came,\" answered he, and then told of his dealings with Mehrunes Dagon's thralls, saying that Mackkan would find it easier to whistle on the wind's tracks and go on a fool's errand than to fight his toads. Then said Mackkan:<BR>\r\n<BR>\r\n<FONT COLOR=\"821E00\" SIZE=\"3\" FACE=\"Magic Cards\"> <BR>\r\n\"Now see to thy safety henceforward,<BR>\r\n And stick to thy parts and thy pride;<BR>\r\n Or this mallet of mine, Malacath's Scourge,<BR>\r\n Will meet with thine ear of a surety.<BR>\r\n For quick as I can cry \"Equality\",<BR>\r\n Though eight arms thou couldst boast of,<BR>\r\n Such bumps thou shalt comb on thy brainpan,<BR>\r\n Thou that breakest the howes of the dead.<BR>\r\n<FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>\r\nEXPLICATION: The mace Scourge, Blessed of Malacath, Mackkan's legendary weapon, forged from sacred ebony in the Fountains of Fickledire, has ever been the bane of the Dark Kin, and many a black spirit has been hurled back into Oblivion with a single blow of this bold defender of the friendless. Scourge now hangs within the armory of Battlespire, ready to take up in the name of the Emperor against the Daedric Lords.<BR>\r\n"
+data:
+  weight: 2.0
+  value: 200
+  book_type: Book
+  skill: None
+  enchantment: 0

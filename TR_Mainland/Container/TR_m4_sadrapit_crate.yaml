@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: TR_m4_sadrapit_crate
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - p_cure_common_s
+- - 2
+  - p_levitation_s
+- - 2
+  - p_restore_health_s
+- - 1
+  - p_restore_magicka_s

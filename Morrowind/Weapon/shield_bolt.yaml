@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: shield_bolt
+name: FOR SPELL CASTING
+script: ''
+mesh: w\magic_target_S.NIF
+icon: ''
+enchanting: ''
+data:
+  weight: 1.0
+  value: 0
+  weapon_type: Arrow
+  health: 100
+  speed: 1.0
+  reach: 1.0
+  enchantment: 100
+  chop_min: 1
+  chop_max: 1
+  slash_min: 1
+  slash_max: 1
+  thrust_min: 1
+  thrust_max: 1
+  flags: ''

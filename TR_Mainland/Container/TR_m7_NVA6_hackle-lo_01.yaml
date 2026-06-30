@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m7_NVA6_hackle-lo_01
+name: Hackle-lo
+script: TR_m7_NVA_Stage6_Persist
+mesh: o\Flora_hackle-lo_01.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - random_hackle-lo_leaf

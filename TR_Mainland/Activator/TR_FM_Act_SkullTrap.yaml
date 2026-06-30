@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_FM_Act_SkullTrap
+name: Crackling Skull
+script: TR_FM_Act_SkullTrap_sc
+mesh: tr\f\tr_furn_skel_skull_01.nif

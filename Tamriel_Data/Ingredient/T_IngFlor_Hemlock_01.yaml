@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_Hemlock_01
+name: Hemlock Seeds
+script: ''
+mesh: sky\n\sky_ingred_hemlock01.nif
+icon: sky\n\tx_ingred_hemlock01.dds
+data:
+  weight: 0.1
+  value: 1
+  effects:
+  - Poison
+  - Paralyze
+  - FireDamage
+  - ResistFrost
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

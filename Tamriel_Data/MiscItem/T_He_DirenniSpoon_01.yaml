@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_He_DirenniSpoon_01
+name: Direnni Spoon
+script: ''
+mesh: sky\m\sky_misc_dspoon_01.nif
+icon: sky\m\tx_misc_dspn_01.dds
+data:
+  weight: 0.5
+  value: 7
+  flags: ''

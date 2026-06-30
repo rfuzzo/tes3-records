@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Pi_Mine_OreCQIron05
+name: Raw Iron
+script: ''
+mesh: pi\o\pi_cont_cqrock_iron_05.nif
+encumbrance: 0.0
+container_flags: ORGANIC | IS_BASE
+inventory:
+- - 8
+  - T_Pi_Random_OreIron

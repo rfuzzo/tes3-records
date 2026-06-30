@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_act-m2-56-necswitch-out
+name: Ghostfence
+script: TR_m2_56_ancestoroath_out
+mesh: x\ex_gg_gateswitch_01.nif

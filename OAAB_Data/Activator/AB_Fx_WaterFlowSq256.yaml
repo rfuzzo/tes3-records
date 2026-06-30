@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: AB_Fx_WaterFlowSq256
+name: ''
+script: AB_SoundWaterLayer_s
+mesh: OAAB\e\water_sqflow256.nif

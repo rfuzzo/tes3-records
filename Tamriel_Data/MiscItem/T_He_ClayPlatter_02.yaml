@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_He_ClayPlatter_02
+name: Clay Platter
+script: ''
+mesh: sum\m\sum_misc_clay_pltr_02.nif
+icon: sum\m\sum_misc_clay_pltr_02.dds
+data:
+  weight: 3.0
+  value: 5
+  flags: ''

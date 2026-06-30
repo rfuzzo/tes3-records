@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4-491_act_sound_steam
+name: Sound_Steam
+script: Sound_Steam
+mesh: EditorMarker.NIF

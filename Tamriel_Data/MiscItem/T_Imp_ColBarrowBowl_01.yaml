@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_ColBarrowBowl_01
+name: Ancient Bronze Bowl
+script: ''
+mesh: pc\m\pc_misc_cbar_bowl.nif
+icon: pc\m\pc_misc_cbar_bowl.dds
+data:
+  weight: 4.0
+  value: 40
+  flags: ''

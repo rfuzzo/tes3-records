@@ -1,0 +1,17 @@
+type: Clothing
+flags: ''
+id: T_De_Ep_SkirtNarsisWatch_01
+name: Expensive Skirt
+script: ''
+mesh: tr\c\tr_c_skirt_narsisw_gnd.nif
+icon: tr\c\tr_c_narsis_w_skirt.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Groin
+  male_bodypart: T_C_DeNarsisWatchSkirt01_G
+  female_bodypart: ''
+data:
+  clothing_type: Skirt
+  weight: 2.0
+  value: 20
+  enchantment: 40

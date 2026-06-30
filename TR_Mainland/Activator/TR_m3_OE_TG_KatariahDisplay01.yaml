@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_OE_TG_KatariahDisplay01
+name: ''
+script: TR_m3_OE_TG_KatariahDisp01_SCP
+mesh: x\ex_imp_mooring_01.nif

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_Hlaalu2_TorchRing
+name: A Torch Ring
+script: TR_m7_Hlaalu2_SecretDoor2
+mesh: f\furn_com_torch_ring_01.nif

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Imp_SetCyr_SignShopClothes_02
+name: ''
+script: SignRotate
+mesh: pc\f\pc_furn_sign_cloth_02.nif

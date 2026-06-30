@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: dwrv_chest_arrows_bolts
+name: Ornate Dwemer Chest
+script: ''
+mesh: o\contain_dwrv_chest10.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 80
+  - iron bolt
+- - 20
+  - silver bolt
+- - 60
+  - iron arrow
+- - 10
+  - ebony arrow

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Com_SetSky_SignWayHragg_01
+name: Hraggstad
+script: ''
+mesh: sky\x\sky_act_rsign_hragg1.nif

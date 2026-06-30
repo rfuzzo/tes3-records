@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_Ashir_Ahat_Note
+name: Note To Quester
+script: ''
+mesh: tr\tr_note_pin.nif
+icon: default icon.dds
+enchanting: ''
+text: ideally these beartraps shouldn't harm the rogue wizards/cheese daedra too easily. maybe a magic trap of some kind could be an alternative if possible
+data:
+  weight: 0.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 0

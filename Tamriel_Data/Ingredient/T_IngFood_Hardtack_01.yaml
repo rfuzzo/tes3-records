@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_Hardtack_01
+name: Hardtack
+script: ''
+mesh: pi\n\pi_ing_hardtack.nif
+icon: pi\n\pi_ing_hardtack.dds
+data:
+  weight: 0.2
+  value: 1
+  effects:
+  - RestoreFatigue
+  - None
+  - None
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

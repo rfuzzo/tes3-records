@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: expensive_amulet_02
+name: Expensive Amulet
+script: ''
+mesh: c\Amulet_Expensive_2.NIF
+icon: c\tx_amulet_expens2.tga
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 30
+  enchantment: 150

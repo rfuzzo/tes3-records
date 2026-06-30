@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Imp_ColLamellar_BracerR_01
+name: Colovian Lamellar Right Bracer
+script: ''
+mesh: pc\a\pc_a_cololam_brc_gnd.nif
+icon: pc\a\pc_a_cololam_bracer.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: RightWrist
+  male_bodypart: T_A_ImpColLamellarBracer_W
+  female_bodypart: ''
+data:
+  armor_type: RightBracer
+  weight: 4.5
+  value: 85
+  health: 105
+  enchantment: 160
+  armor_rating: 18

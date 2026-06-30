@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m3_q_Kha_ninthbarrier_belt
+name: Ninth Barrier Belt
+script: ''
+mesh: c\C_belt_Exquisite_1.NIF
+icon: c\tx_belt_exquisite01.tga
+enchanting: TR_m3_q_Kha_ninthbarrier_en
+biped_objects: []
+data:
+  clothing_type: Belt
+  weight: 1.0
+  value: 800
+  enchantment: 400

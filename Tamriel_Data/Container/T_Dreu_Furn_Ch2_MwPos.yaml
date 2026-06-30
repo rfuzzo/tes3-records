@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: T_Dreu_Furn_Ch2_MwPos
+name: Chest
+script: ''
+mesh: tr\o\tr_furn_dreu_chest_02.nif
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - T_Mw_Random_PosDunmer01NC
+- - 5
+  - random gold

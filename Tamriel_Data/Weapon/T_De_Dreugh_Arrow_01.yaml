@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_De_Dreugh_Arrow_01
+name: Dreugh Arrow
+script: ''
+mesh: tr\w\tr_w_dreugh_arrow.nif
+icon: tr\w\tr_w_dreugh_arrow.dds
+enchanting: ''
+data:
+  weight: 0.1
+  value: 10
+  weapon_type: Arrow
+  health: 10
+  speed: 1.0
+  reach: 1.0
+  enchantment: 21
+  chop_min: 1
+  chop_max: 5
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

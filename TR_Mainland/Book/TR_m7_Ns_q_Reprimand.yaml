@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_Ns_q_Reprimand
+name: Alvynu Llervas' Reprimand
+script: ''
+mesh: m\Text_Scroll_01.NIF
+icon: m\Tx_scroll_open_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nDels,<BR>\r\n<BR>\r\nIt is your job to handle all official documents personally. Your negligence is completely unacceptable. Do not let this happen again!<BR>\r\n<BR>\r\nAlvynu Llervas, Steward of Narsis<BR>"
+data:
+  weight: 0.2
+  value: 5
+  book_type: Scroll
+  skill: None
+  enchantment: 0

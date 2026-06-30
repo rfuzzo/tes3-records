@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_RR_BorderBlockGate
+name: Heavy Gate
+script: TR_m4_RR_BorderBlockScript
+mesh: TR\x\TR_ex_portcullis_01.nif

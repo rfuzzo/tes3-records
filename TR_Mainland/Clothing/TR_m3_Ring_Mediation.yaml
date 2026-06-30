@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: TR_m3_Ring_Mediation
+name: Ring of Mediation
+script: ''
+mesh: c\C_Ring_expensive_3.NIF
+icon: c\tx_ring_expensive03.tga
+enchanting: almsivi intervention_en
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 132
+  enchantment: 150

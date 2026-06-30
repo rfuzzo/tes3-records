@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_sc_m2-i2-437-Tri_boneforge
+name: Bonewalker Forge Contract
+script: ''
+mesh: m\Text_Parchment_01.nif
+icon: m\Tx_parchment_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>[This is one of the copies of the contract which acknowledged the work of the Bonewalker Smithy in Necrom as a holy instrument of the Tribunal Temple.]<BR>\r\n<BR>By the Mercy, Mastery and Mystery of the most holy Triune, <BR>\r\n<BR>The Tribunal Temple agrees that the Bonewalker Smithy in Necrom operates in accordance with the ancient beliefs of the people of Morrowind and is hereby sanctioned by the thrice-blessed ALMSIVI to conduct its duty in their name and to the glory of all faithful mer. The methods of the forge are arcane and mysterious, holy procedures originating from ancient times and are necessary to protect the sacred burial grounds and catacombs of the Holy City of the Dead, Necrom. The Smithy is hereby free to create and maintain a certain number of the undead guardians known as bonewalkers, the number of which shall be determined by the high administration of the Tribunal Temple.<BR>\r\n<BR>We tell you this as the eternal truth that is ALMSIVI.<BR>"
+data:
+  weight: 1.0
+  value: 150
+  book_type: Scroll
+  skill: None
+  enchantment: 100

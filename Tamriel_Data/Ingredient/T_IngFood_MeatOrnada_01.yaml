@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_MeatOrnada_01
+name: Ornada Meat
+script: ''
+mesh: TR\n\TR_Ing_Ornada_Meat.nif
+icon: TR\n\TR_Ing_Ornada_Meat.dds
+data:
+  weight: 0.5
+  value: 5
+  effects:
+  - RestoreFatigue
+  - ResistPoison
+  - DamageAttribute
+  - DrainAttribute
+  skills:
+  - None
+  - None
+  - Block
+  - Block
+  attributes:
+  - None
+  - None
+  - Strength
+  - Agility

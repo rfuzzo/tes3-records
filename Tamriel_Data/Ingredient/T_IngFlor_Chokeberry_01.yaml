@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_Chokeberry_01
+name: Chokeberry
+script: ''
+mesh: pc\n\PC_Ing_CBerry.nif
+icon: pc\n\pc_tx_ingred_cberry.dds
+data:
+  weight: 0.2
+  value: 1
+  effects:
+  - Poison
+  - FortifyHealth
+  - DisintegrateWeapon
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

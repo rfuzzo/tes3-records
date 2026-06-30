@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: TR_m4-313_Chest_Jeweler
+name: Small Chest
+script: ''
+mesh: o\Contain_chest_small_02.NIF
+encumbrance: 25.0
+container_flags: IS_BASE
+inventory:
+- - 3
+  - l_m_amulets
+- - 3
+  - l_m_rings

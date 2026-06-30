@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: dwrv_closet00_arms
+name: Steel Closet
+script: ''
+mesh: o\contain_dwrv_closet00.nif
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - l_m_armor

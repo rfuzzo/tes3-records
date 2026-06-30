@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_Lyco_01
+name: Lycoae
+script: ''
+mesh: pc\n\pc_ing_lycovine_01.nif
+icon: pc\n\pc_tx_ingred_lyco.dds
+data:
+  weight: 0.1
+  value: 2
+  effects:
+  - RestoreFatigue
+  - RestoreAttribute
+  - Burden
+  - None
+  skills:
+  - None
+  - Block
+  - None
+  - None
+  attributes:
+  - None
+  - Luck
+  - None
+  - None

@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Imp_Et_Amulet_Hailstorm
+name: Hailstorm Charm
+script: ''
+mesh: pc\c\pc_c_etamulet_01b.nif
+icon: pc\c\pc_c_etamulet_01b.dds
+enchanting: T_Use_FrostTarget
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 200
+  enchantment: 600

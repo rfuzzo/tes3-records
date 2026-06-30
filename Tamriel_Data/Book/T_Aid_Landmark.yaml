@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Aid_Landmark
+name: Quest Landmark
+script: ''
+mesh: tr\tr_editormarker_landmark.nif
+icon: default icon.dds
+enchanting: ''
+text: ''
+data:
+  weight: 0.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 0

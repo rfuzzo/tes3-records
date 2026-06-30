@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_q_TheRiftDeskItem4
+name: paper
+script: TR_m3_q_TheRiftFloodDisable
+mesh: m\Misc_paper_plain_01.nif
+icon: m\Tx_paper_plain_01.tga
+enchanting: ''
+text: ''
+data:
+  weight: 1.0
+  value: 3
+  book_type: Scroll
+  skill: None
+  enchantment: 50

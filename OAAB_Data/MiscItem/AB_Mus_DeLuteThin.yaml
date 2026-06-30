@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Mus_DeLuteThin
+name: Thin Lute
+script: ''
+mesh: OAAB\m\MusDeLuteThin.nif
+icon: OAAB\m\musDeLuteThin.dds
+data:
+  weight: 1.5
+  value: 5
+  flags: ''

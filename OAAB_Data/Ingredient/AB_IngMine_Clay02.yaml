@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: AB_IngMine_Clay02
+name: Clay
+script: ''
+mesh: OAAB\n\potteryclaylump02.nif
+icon: OAAB\n\potteryclaylump02.tga
+data:
+  weight: 10.0
+  value: 2
+  effects:
+  - Burden
+  - CurePoison
+  - None
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

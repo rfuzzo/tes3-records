@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_M7_Note_CollapsedRuin
+name: Smuggler's Letter
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>\r\nSomething about this place puts me on edge but finding it was a godsend. We are close enough to the highway that getting here is no issue. Also, those superstitious natives think the place is cursed or something. That just means we are less likely to get unwanted visitors.<BR>\r\n<BR>\r\nIt would be a lot nicer if Falvard was not keeping me up at night with his digging down the hall. I keep hearing that damn Nord moving around down there. He says he was not digging last night but I know he's lying. He thinks there might be something valuable to be found from this Divines-forsaken place. If he does manage to clear the passage, at least we will have more room to spread out. Maybe then I can sleep.<BR>"
+data:
+  weight: 1.5
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

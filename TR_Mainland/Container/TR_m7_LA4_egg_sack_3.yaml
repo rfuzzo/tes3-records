@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_m7_LA4_egg_sack_3
+name: Kwama Egg Sack
+script: TR_m7_LA4_eggmine_stage5_sc
+mesh: o\contain_egg_kwama00.NIF
+encumbrance: 0.0
+container_flags: ORGANIC | IS_BASE
+inventory:
+- - 1
+  - food_kwama_egg_02

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Dwe_DngRuin_GearBox_01
+name: Strange Dwemer Machine
+script: T_ScObj_Dwe_GearBox
+mesh: tr\f\tr_act_dwe_gearbox.nif

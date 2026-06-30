@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_EEC_Wagon
+name: Attacked Wagon
+script: TR_m7_EEC_deadguar_scr
+mesh: tr\f\tr_furn_wood_wagon_o.nif

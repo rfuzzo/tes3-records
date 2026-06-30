@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: belt of fortitude
+name: Belt of Fortitude
+script: ''
+mesh: c\C_belt_Common_5.NIF
+icon: c\tx_belt_common05.tga
+enchanting: fortitude_en
+biped_objects: []
+data:
+  clothing_type: Belt
+  weight: 1.0
+  value: 6
+  enchantment: 10

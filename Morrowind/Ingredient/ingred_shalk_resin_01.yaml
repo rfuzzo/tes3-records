@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_shalk_resin_01
+name: Shalk Resin
+script: ''
+mesh: n\Ingred_Shalk_Resin_01.nif
+icon: n\Tx_shalk_resin_01.tga
+data:
+  weight: 0.1
+  value: 50
+  effects:
+  - DrainFatigue
+  - FortifyHealth
+  - DrainAttribute
+  - FortifyAttribute
+  skills:
+  - Block
+  - Block
+  - Block
+  - Block
+  attributes:
+  - Strength
+  - Strength
+  - Personality
+  - Speed

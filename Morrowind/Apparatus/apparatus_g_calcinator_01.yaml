@@ -1,0 +1,12 @@
+type: Apparatus
+flags: ''
+id: apparatus_g_calcinator_01
+name: Grandmaster's Calcinator
+script: ''
+mesh: m\App_G_Calcinator_01.nif
+icon: m\Tx_calcinator_04.tga
+data:
+  apparatus_type: Calcinator
+  quality: 1.5
+  weight: 8.0
+  value: 4000

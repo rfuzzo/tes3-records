@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: TR_m7_q_HH_LlananuSealed
+name: Llananu's Report
+script: TR_m7_HH_LlananuReport
+mesh: m\Text_paper_roll_01.nif
+icon: m\Tx_paper_roll_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>\r\nAgents of Indoil Ilvi have engaged with key factions in Almas Thirr. It has been\r\ngathered that their goal was to assess loyalties and secure strategic partnerships.<BR>\r\n<BR>\r\nA House Indoril agent was tailed to a meeting with a known member of the Fighter's\r\nGuild in Almas Thirr. It is believed the guild will be working against Hlaalu interests.<BR>\r\n<BR>\r\nFurther surveillance of Fighter's Guild members is recommended.<BR>\r\n<BR>\r\nAdditionally, multiple meetings between the Temple Ordinators of Almas Thirr and\r\nIndoril operatives were observed. These encounters appear to focus on maintaining\r\nthe traditional values of the Tribunal Temple, and reports suggest that the Ordinators\r\nare showing a renewed interest in the political dynamics within the region.<BR>\r\n<BR>\r\nPrudence advises that their engagement be closely monitored, as it could have significant repercussions for House Hlaalu.<BR>\r\n<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

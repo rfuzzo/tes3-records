@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_News_Echo_33
+name: MYSTERY POISONING UNDER FORTUNA
+script: T_ScNews_Bellman_Paper
+mesh: tr\m\tr_text_note_nar_news.nif
+icon: tr\m\tr_text_note_nar_news.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\n<IMG SRC=\"TR\\tr_echo_512_256.dds\" WIDTH=\"348\" HEIGHT=\"168\"><BR>\r\n\r\n<DIV ALIGN=\"CENTER\">\r\nMYSTERY POISONING UNDER FORTUNA<BR><BR>\r\n<DIV ALIGN=\"LEFT\">\r\nInvestigators have been left baffled after the private rooms and office of the Narsis Fortuna casino were found filled with poison gas, its inhabitants -- several leading members of the Camonna Tong, the former owners of the establishment -- all dead.<BR><BR>\r\nThe incident was first discovered when a merry gambler from the casino proper, just above the poison flooded offices, reported \"a sudden dizziness, followed by a severe cough.\" The following expedition into the offices, still simmering with deadly toxic gas, resulted in the injury of one Hlaalu guard, who had inhaled too much; though thankfully they were able to be saved, and the room eventually cleared of poison by trained professionals.<BR><BR>\r\nWhere the gas could have possibly come from is currently unknown. The new owners of the Narsis Fortuna, who mysteriously inherited it from the Camonna Tong and who wish to stay anonymous, have proposed that the incident was \"a simple but unfortunate gas leak\" and that \"these things happen.\" Yet more disturbing, this mystery gas' particular alchemical origins cannot be deciphered by Narsis' best alchemists either -- \"its substance is unlike anything ever seen -- on Tamriel anyway,\" they said.<BR><BR>\r\nPerhaps we, loyal citizens of Narsis and Great House Hlaalu, should simply allow the proper authorities to work and discover the cause of this tragedy, and in the meantime it would be wise for us all to mourn the unfortunate and brutal loss of a great many friends and kin in the Tong, taken from us by this strange poison.<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

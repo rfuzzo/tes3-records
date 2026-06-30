@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_cot_i4-260-hla
+name: Moldy Cot
+script: Bed_Standard
+mesh: f\furn_cot00.nif

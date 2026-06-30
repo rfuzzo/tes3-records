@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: TR_m4_Veranzaris_Chest
+name: Wooden Chest
+script: ''
+mesh: o\contain_chest10.nif
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - Misc_SoulGem_Common
+- - 3
+  - Misc_SoulGem_Lesser
+- - 1
+  - TR_m4_Veranzaris_Book_Blessings
+- - 1
+  - sc_thirdbarrier

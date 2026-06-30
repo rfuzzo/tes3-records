@@ -1,0 +1,21 @@
+type: Container
+flags: ''
+id: TR_m3_CuriaVaultChest
+name: Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 500
+  - Gold_001
+- - 1
+  - T_Mw_Random_Gems
+- - 12
+  - T_Mw_Random_OreGold
+- - 75
+  - random gold
+- - 30
+  - random gold_lev_15
+- - 15
+  - random gold_lev_20

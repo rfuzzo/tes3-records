@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_CyrCom_Var_Bl1BandGC1
+name: Barrel
+script: ''
+mesh: o\Contain_barrel_01.NIF
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 7
+  - T_Cyr_Lvl_BanditGoodsGC

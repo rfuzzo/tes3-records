@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: Belt of Northern Knuck Knuck
+name: Belt of Northern Knuck Knuck
+script: ''
+mesh: c\C_belt_Extravagant_2.NIF
+icon: c\tx_belt_extravagant02.tga
+enchanting: knuckle luck_en
+biped_objects: []
+data:
+  clothing_type: Belt
+  weight: 1.0
+  value: 65
+  enchantment: 100

@@ -1,0 +1,11 @@
+type: Container
+flags: PERSISTENT
+id: TR_m7_AI_JNS_6_SackS
+name: Small Sack
+script: ''
+mesh: TR\o\TR_contain_small_sack.nif
+encumbrance: 20.0
+container_flags: IS_BASE
+inventory:
+- - 3
+  - T_Mw_Random_Minerals

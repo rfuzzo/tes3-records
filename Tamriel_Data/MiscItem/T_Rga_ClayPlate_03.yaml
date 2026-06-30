@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Rga_ClayPlate_03
+name: Clay Plate
+script: ''
+mesh: hf\m\hf_misc_rga_ClPlate_03.nif
+icon: hf\m\hf_misc_rga_ClPlate_03.dds
+data:
+  weight: 0.8
+  value: 1
+  flags: ''

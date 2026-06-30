@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m2_He_books_edheldur
+name: Edheldur's Rookery
+script: SignRotate
+mesh: TR\f\TR_act_sign_books_01.nif

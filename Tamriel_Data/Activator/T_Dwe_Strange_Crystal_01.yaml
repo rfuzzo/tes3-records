@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: T_Dwe_Strange_Crystal_01
+name: Strange Crystal
+script: ''
+mesh: tr\i\tr_act_dwe_bthalcrystl.nif

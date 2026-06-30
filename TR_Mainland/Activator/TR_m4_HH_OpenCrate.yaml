@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_HH_OpenCrate
+name: ''
+script: TR_m4_HH_GreefCrate
+mesh: f\furn_crate_open_01.nif

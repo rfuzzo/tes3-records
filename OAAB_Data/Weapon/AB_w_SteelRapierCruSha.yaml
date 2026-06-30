@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_SteelRapierCruSha
+name: Cruel Shardlunger
+script: ''
+mesh: OAAB\w\w_rapier_steel.nif
+icon: OAAB\w\w_rapsteel.dds
+enchanting: cruel shard_en
+data:
+  weight: 15.0
+  value: 46
+  weapon_type: LongBladeOneHand
+  health: 990
+  speed: 1.55
+  reach: 1.1
+  enchantment: 50
+  chop_min: 3
+  chop_max: 8
+  slash_min: 3
+  slash_max: 9
+  thrust_min: 5
+  thrust_max: 20
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

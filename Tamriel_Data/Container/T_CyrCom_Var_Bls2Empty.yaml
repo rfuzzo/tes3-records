@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: T_CyrCom_Var_Bls2Empty
+name: Wooden Barrels
+script: ''
+mesh: tr\o\tr_cont_barrels_r_02.nif
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory: []

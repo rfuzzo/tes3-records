@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: bk_BriefHistoryofWood
+name: No-h's Picture Book of Wood
+script: ''
+mesh: m\Text_Quarto_03.nif
+icon: m\Tx_quarto_03.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nWood is pretty <BR>\r\nWood is nice<BR>\r\nIf one looks good <BR>\r\nI'll make it twice!<BR>\r\n<BR>\r\n[Upon reaching the last page of the book, the words 'Boat Ack', are seen scrawled about the margin in a vandalistic manner.]<BR>\r\n"
+data:
+  weight: 4.0
+  value: 10
+  book_type: Book
+  skill: None
+  enchantment: 0

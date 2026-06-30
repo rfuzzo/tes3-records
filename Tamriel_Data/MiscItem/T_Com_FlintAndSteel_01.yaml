@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_FlintAndSteel_01
+name: Flint and Steel
+script: ''
+mesh: tr\m\tr_misc_flintnsteel01.nif
+icon: tr\m\tr_misc_flintnsteel01.dds
+data:
+  weight: 1.0
+  value: 30
+  flags: ''

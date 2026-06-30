@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: AB_sc_BlankQuality
+name: Quality Scroll
+script: ''
+mesh: OAAB\m\scrollQuality.nif
+icon: OAAB\m\scroll_quality.tga
+enchanting: ''
+text: ''
+data:
+  weight: 0.2
+  value: 15
+  book_type: Scroll
+  skill: None
+  enchantment: 180

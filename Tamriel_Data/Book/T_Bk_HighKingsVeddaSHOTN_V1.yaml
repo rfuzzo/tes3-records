@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_HighKingsVeddaSHOTN_V1
+name: High King's Vedda Book One
+script: ''
+mesh: Sky\m\sky_book_basic_14.nif
+icon: Sky\m\tx_book_basic_13.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nHigh King's Vedda<BR>\r\nBook One<BR><BR>\r\n<IMG SRC=\"sky\\Sky_Bk_HighKingsVedda_one.dds\" WIDTH=\"240\" HEIGHT=\"240\">\r\n<BR> <DIV ALIGN=\"LEFT\"> <BR>\r\nI. LET it be known that all writing is but a reflection of the Voice, murky and warped. Kyne's truth is in the throats of Her Children.\r\n<BR>\r\nII. The shape of the World is this:\r\n<BR>\r\nIII. The essence of life is Breath, Wind and the Voice, for so was Man breathed upon the land by Kyne and so does Man bear a fraction of that Breath within their breast.\r\n<BR>\r\nIV. Man is of the Sky, a Child, whose truest expression is to be as the firmament: wild, mighty and all-encompassing. The Children of the Sky have a birthright to this land, and all others are interlopers. They were not breathed.\r\n<BR>\r\nV. The shape of the World is this:\r\n<BR>\r\nVI. There must always be Something, and there must always be Nothing, for which has meaning without the other?\r\n<BR>\r\nVII. Something sits below, ever creating and the death of the wild spirit. Look farther down than you can, and consider the depth of existence.\r\n<BR>\r\nVIII. Nothing rests above, ever destroying and the death of the living body. Look farther up than you can, and consider the vastness of oblivion.\r\n<BR>\r\nIX. Their place of meeting is the Sky, and it contains all possibility. Look around at all that you can, and be joyful.\r\n<BR>\r\nX. The shape of the World is this:\r\n<BR>\r\nXI. All will be destroyed. ALDUIN is the Dragon, and the Dragon does not eat His tail.\r\n<BR>\r\nXII. The cycle of the Kalpa, of destruction and creation, of Nothing and Something, is all that exists in perpetuity.\r\n<BR>\r\nMeditate on this: Hope is eaten by the Dragon, and so there is no Hope. Act now, then, and with certainty forge the world.\r\n<BR> <BR>\r\n"
+data:
+  weight: 3.0
+  value: 300
+  book_type: Book
+  skill: None
+  enchantment: 0

@@ -1,0 +1,19 @@
+type: Light
+flags: PERSISTENT
+id: azura ring light
+name: ''
+script: ''
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 512
+  color:
+  - 214
+  - 181
+  - 105
+  - 0
+  flags: PULSE

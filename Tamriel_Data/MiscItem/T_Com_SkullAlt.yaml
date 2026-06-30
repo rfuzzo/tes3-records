@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Com_SkullAlt
+name: Skull
+script: ''
+mesh: f\Furn_bone_skull_01.nif
+icon: tr\m\tr_misc_skull_alt.dds
+data:
+  weight: 0.5
+  value: 0
+  flags: ''

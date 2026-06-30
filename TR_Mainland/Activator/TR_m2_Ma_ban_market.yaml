@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m2_Ma_ban_market
+name: Marog Market
+script: OutsideBanner
+mesh: f\Furn_bannerD_goods_01.nif

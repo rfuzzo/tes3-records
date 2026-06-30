@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: TR_M2S7_Basket_Pearl01
+name: Basket
+script: ''
+mesh: o\Contain_Com_Basket_01.nif
+encumbrance: 0.0
+container_flags: IS_BASE
+inventory:
+- - 3
+  - ingred_pearl_01

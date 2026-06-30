@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m7_NVA5_plat_lrg
+name: ''
+script: TR_m7_NVA_Stage5
+mesh: x\Ex_common_plat_LRG.NIF

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngSpice_Curcuma_01
+name: Turmeric Powder
+script: ''
+mesh: pc\n\pc_ing_curcuma.nif
+icon: pc\n\pc_ingred_curcuma.dds
+data:
+  weight: 0.1
+  value: 40
+  effects:
+  - RestoreFatigue
+  - WeaknessToFire
+  - DamageAttribute
+  - ResistParalysis
+  skills:
+  - None
+  - None
+  - Block
+  - None
+  attributes:
+  - None
+  - None
+  - Strength
+  - None

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_rat_meat_01
+name: Rat Meat
+script: ''
+mesh: n\Ingred_Rat_Meat_01.nif
+icon: n\Tx_rat_meat_01.tga
+data:
+  weight: 1.0
+  value: 1
+  effects:
+  - DrainMagicka
+  - Paralyze
+  - CurePoison
+  - ResistPoison
+  skills:
+  - Block
+  - Block
+  - Block
+  - Block
+  attributes:
+  - Strength
+  - Strength
+  - Strength
+  - Strength

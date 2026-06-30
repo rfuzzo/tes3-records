@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: AB_Info_StencilHoles
+name: InfoBox - Stencil Based Holes
+script: ''
+mesh: OAAB\h\marker_info.nif
+icon: OAAB\h\marker_info.tga
+enchanting: ''
+text: "These objects feature \"Stencil-based holes\" which allow them to create holes/cavities inside other objects - pits in the ground, cracks in the walls etc.\r\n\r\nKeep in mind that for this to work, the \"hole\" object itself must be placed in the world AFTER the object it's positioned on.\r\n\r\nSimilarly, any object you'd want to position inside the hole should be placed in the world AFTER the \"hole\" object.\r\n\r\nThese objects are for the visual effect only - they don't affect the collisions (you won't be able to pass or fall \"through\" the cavity) and dont allow Player to interact with any objects placed inside."
+data:
+  weight: 0.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 100

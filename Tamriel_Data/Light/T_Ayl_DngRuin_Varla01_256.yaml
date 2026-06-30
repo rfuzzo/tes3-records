@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: T_Ayl_DngRuin_Varla01_256
+name: Varla Stone
+script: T_ScObj_VarlaStoneCyr
+mesh: pc\m\pc_misc_varla_01.nif
+icon: pc\m\pc_misc_varla_01I.dds
+sound: ''
+data:
+  weight: 10.0
+  value: 1400
+  time: -1
+  radius: 256
+  color:
+  - 255
+  - 255
+  - 234
+  - 0
+  flags: CAN_CARRY

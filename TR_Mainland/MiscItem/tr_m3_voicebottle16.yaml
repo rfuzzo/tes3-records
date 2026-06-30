@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: tr_m3_voicebottle16
+name: '"Mad Telvanni Wizard"'
+script: ''
+mesh: m\Misc_pot_blue_01.NIF
+icon: m\Tx_pot_blue_01.tga
+data:
+  weight: 2.5
+  value: 0
+  flags: ''

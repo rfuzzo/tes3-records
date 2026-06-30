@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_ComPaintFrame02
+name: Frame
+script: ''
+mesh: OAAB\m\com_paint_fram_02.nif
+icon: OAAB\m\com_paint_fram_02.tga
+data:
+  weight: 4.5
+  value: 15
+  flags: ''

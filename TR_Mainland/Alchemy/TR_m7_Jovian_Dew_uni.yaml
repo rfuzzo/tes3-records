@@ -1,0 +1,36 @@
+type: Alchemy
+flags: ''
+id: TR_m7_Jovian_Dew_uni
+name: Theurgy Dew
+script: ''
+mesh: tr\m\tr_flask_greydust.nif
+icon: tr\m\tr_m_greydust_01.dds
+effects:
+- magic_effect: CureCommonDisease
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 1
+  min_magnitude: 1
+  max_magnitude: 1
+- magic_effect: CureBlightDisease
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 1
+  min_magnitude: 1
+  max_magnitude: 1
+- magic_effect: SpellAbsorption
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 100
+  min_magnitude: 100
+  max_magnitude: 100
+data:
+  weight: 1.0
+  value: 3000
+  flags: ''

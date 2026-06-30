@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m2_kmlz_Dfz_Lava2
+name: ''
+script: lava
+mesh: i\In_lava_1024.NIF

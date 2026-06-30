@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_AndoG_Inventory1
+name: Court Inventory
+script: ''
+mesh: pc\m\pc_bk_book_01_open.nif
+icon: pc\m\pc_bk_book_01_open.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n[This book is filled with rows of numbers, an inventory of court records, and detailed accounts of the distribution of these records to the clerks, barristers, scribes, and Imperial Magistrate of Bal Foyen.]<BR>"
+data:
+  weight: 2.0
+  value: 2
+  book_type: Book
+  skill: None
+  enchantment: 0

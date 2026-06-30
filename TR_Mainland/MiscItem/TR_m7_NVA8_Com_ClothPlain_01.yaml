@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m7_NVA8_Com_ClothPlain_01
+name: Cloth
+script: TR_m7_NVA_Stage8_Persist
+mesh: Sky\m\Sky_Misc_Cloth_01.nif
+icon: Sky\m\Tx_Misc_Cloth_01.dds
+data:
+  weight: 1.0
+  value: 1
+  flags: ''

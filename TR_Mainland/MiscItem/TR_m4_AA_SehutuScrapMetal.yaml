@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m4_AA_SehutuScrapMetal
+name: Finely Tuned Scrap Metal
+script: TR_m4_AA_q_SehutuScrapMetal
+mesh: sky\f\sky_furn_irod_01.nif
+icon: TR\m\TR_misc_steel_piece_04.dds
+data:
+  weight: 2.0
+  value: 0
+  flags: ''

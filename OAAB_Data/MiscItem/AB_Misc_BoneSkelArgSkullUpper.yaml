@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_BoneSkelArgSkullUpper
+name: Skull
+script: ''
+mesh: OAAB\m\skelSkullArgUpper.nif
+icon: OAAB\m\skelSkullArgUpper.tga
+data:
+  weight: 0.3
+  value: 1
+  flags: ''

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_Music_Sudahk
+name: Sudahk
+script: ''
+mesh: tr\m\tr_misc_de_sudahk.nif
+icon: tr\m\tr_misc_de_sudahk.dds
+data:
+  weight: 20.0
+  value: 200
+  flags: ''

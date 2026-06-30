@@ -1,0 +1,36 @@
+type: Alchemy
+flags: ''
+id: T_Imp_Drink_WineSurilieBr_01
+name: Surilie Brothers
+script: ''
+mesh: pc\m\PC_Misc_Wine_04.nif
+icon: pc\m\pc_wine_04.dds
+effects:
+- magic_effect: DamageFatigue
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 10
+  min_magnitude: 10
+  max_magnitude: 10
+- magic_effect: Silence
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 20
+  min_magnitude: 1
+  max_magnitude: 1
+- magic_effect: FortifySkill
+  skill: Speechcraft
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 30
+  min_magnitude: 10
+  max_magnitude: 10
+data:
+  weight: 1.0
+  value: 60
+  flags: ''

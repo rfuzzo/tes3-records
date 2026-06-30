@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_trama_root_01
+name: Trama Root
+script: ''
+mesh: n\Ingred_Trama_Root_01.nif
+icon: n\Tx_trama_root_01.tga
+data:
+  weight: 0.1
+  value: 10
+  effects:
+  - RestoreAttribute
+  - Levitate
+  - DrainMagicka
+  - DrainAttribute
+  skills:
+  - Block
+  - Block
+  - Block
+  - Block
+  attributes:
+  - Willpower
+  - Strength
+  - Strength
+  - Speed

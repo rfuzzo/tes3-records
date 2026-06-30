@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Nor_UNI_SnowDrakePelt
+name: Snow Drake's Pelt
+script: ''
+mesh: a\A_Bear2_Cuirass_GND.NIF
+icon: A\Tx_Bear2_Cuirass.dds
+enchanting: T_Use_SnowDrakePelt_UNI
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: A_Bear2_cuirass
+  female_bodypart: A_Bear2_skinf
+data:
+  armor_type: Cuirass
+  weight: 27.0
+  value: 30000
+  health: 900
+  enchantment: 1350
+  armor_rating: 65

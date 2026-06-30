@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: AB_IngCrea_TwilightMembrane
+name: Winged Twilight Membrane
+script: ''
+mesh: OAAB\n\twilight_membrane.nif
+icon: OAAB\n\twilight_membrane.dds
+data:
+  weight: 1.0
+  value: 50
+  effects:
+  - Chameleon
+  - Levitate
+  - DamageHealth
+  - SlowFall
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

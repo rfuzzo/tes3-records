@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_Milkthistle_01
+name: Milk Thistle Flower
+script: ''
+mesh: pc\n\pc_ingred_milk_thistle.nif
+icon: pc\n\pc_tx_ingred_milkth.dds
+data:
+  weight: 0.1
+  value: 1
+  effects:
+  - ResistFrost
+  - FortifyHealth
+  - FortifyAttribute
+  - DrainFatigue
+  skills:
+  - None
+  - None
+  - Block
+  - None
+  attributes:
+  - None
+  - None
+  - Endurance
+  - None

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: PERSISTENT
+id: misc_com_metal_plate_07_UNI1
+name: Plate
+script: ''
+mesh: m\Misc_Com_Metal_Plate_07.NIF
+icon: m\Misc_Com_Metal_Plate_07.tga
+data:
+  weight: 1.0
+  value: 1
+  flags: ''

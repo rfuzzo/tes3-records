@@ -1,0 +1,29 @@
+type: Container
+flags: ''
+id: chest_small_mororurg2
+name: Small Chest
+script: ''
+mesh: o\Contain_chest_small_02.NIF
+encumbrance: 25.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - ingred_muck_01
+- - 3
+  - ingred_moon_sugar_01
+- - 1
+  - ingred_pearl_01
+- - 2
+  - ingred_racer_plumes_01
+- - 2
+  - ingred_rat_meat_01
+- - 2
+  - ingred_scrap_metal_01
+- - 1
+  - ingred_scrib_jelly_01
+- - 1
+  - ingred_vampire_dust_01
+- - 3
+  - ingred_wickwheat_01
+- - 1
+  - ingred_sload_soap_01

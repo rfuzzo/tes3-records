@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3-718 FG Note
+name: ATTENTION!
+script: ''
+mesh: m\Text_Parchment_02.NIF
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"990000\"><BR>\r\n\r\nATTENTION!<BR>\r\n\r\n\r\n\r\nAll Guild members are hereby reminded:<BR>\r\n\r\n<BR>\r\n\r\n<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\"> <BR>\r\n\r\n\r\n\r\nUpon using the training area, each member is to clean up all blood spilled from his or her own body. No exceptions! Contrary to what many seem to believe, unconsciousness is not an acceptable excuse! <BR>\r\n\r\n<BR>\r\n\r\nIf any issues arise, please bring them to the attention of Guild management -- myself and Foedus.<BR>\r\n\r\n<BR>\r\n\r\n\r\n\r\n-Sharnoga <BR>\r\n"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

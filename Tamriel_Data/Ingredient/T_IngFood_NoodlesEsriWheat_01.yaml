@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFood_NoodlesEsriWheat_01
+name: Noodles
+script: ''
+mesh: pi\n\pi_ing_noodleswheat.nif
+icon: pi\n\pi_ing_noodleswheat.dds
+data:
+  weight: 0.3
+  value: 2
+  effects:
+  - RestoreFatigue
+  - FortifyFatigue
+  - None
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_OE_MG_PuzzleJournal7
+name: Potelie Sincel's Geode Log
+script: TR_m3_OE_MG_PuzzleJournal_sc
+mesh: pc\m\pc_bk_letter_05.nif
+icon: pc\m\pc_m_letter_05.dds
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nPotelie Sincel's Log - Geode<BR>\r\n<BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\nEntry 1<BR>\r\nIt's freezing in here. Fortunately there was a pair of gloves on one of the shelves. It's better with them, but I'm still cold. I might have to resort to these terribly smelly fur armors that those barbaric Nords love to wear.<BR>\r\n<BR>\r\nEntry 2<BR>\r\nI heard a noise further down and sneaked there to see what it was... An Atronach! Luckily, it didn't see me. I don't possess spells or scrolls strong enough to beat a foe like that. I need to find some truly powerful magic before coming here again.<BR>\r\n<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

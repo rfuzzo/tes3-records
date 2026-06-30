@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_HrCom_Var_Sk2Pos
+name: Cloth Sack
+script: ''
+mesh: hr\o\hr_contain_sack_02.nif
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 4
+  - T_Hr_Random_Pos

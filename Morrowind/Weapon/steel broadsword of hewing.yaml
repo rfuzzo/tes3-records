@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: steel broadsword of hewing
+name: Steel Broadsword of Hewing
+script: ''
+mesh: w\W_Broadsword_leafblade.nif
+icon: w\Tx_Broadsword_leafbladed.tga
+enchanting: dynamic hewing_en
+data:
+  weight: 12.0
+  value: 75
+  weapon_type: LongBladeOneHand
+  health: 900
+  speed: 1.25
+  reach: 1.0
+  enchantment: 50
+  chop_min: 4
+  chop_max: 14
+  slash_min: 2
+  slash_max: 14
+  thrust_min: 2
+  thrust_max: 14
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

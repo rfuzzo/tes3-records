@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Imp_Ep_Amulet_PoisonTouch
+name: Amulet of Poison Touch
+script: ''
+mesh: pc\c\pc_c_epamulet_02.nif
+icon: pc\c\pc_c_epamulet_02.dds
+enchanting: T_Use_Poisonbeak
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 75
+  enchantment: 150

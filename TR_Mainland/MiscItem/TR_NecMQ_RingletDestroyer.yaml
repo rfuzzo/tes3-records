@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_NecMQ_RingletDestroyer
+name: The Destroyer's Ringlet
+script: ''
+mesh: tr\m\tr_m_sulringlet_01.nif
+icon: tr\m\tr_m_sulringlet_01.dds
+data:
+  weight: 0.1
+  value: 2
+  flags: ''

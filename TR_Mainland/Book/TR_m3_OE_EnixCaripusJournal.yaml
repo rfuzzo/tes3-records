@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_OE_EnixCaripusJournal
+name: Enix Caripus' Journal
+script: ''
+mesh: m\Text_Octavo_03.NIF
+icon: m\Tx_octavo_03.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[A journal belonging to a \"Enix Caripus\". The entries are scant and unremarkable.]<BR>\r\n<BR>\r\n"
+data:
+  weight: 2.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 0

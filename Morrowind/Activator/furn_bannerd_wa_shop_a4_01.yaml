@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: furn_bannerd_wa_shop_a4_01
+name: 'Galen Berer: Armorer'
+script: OutsideBanner
+mesh: f\Furn_bannerD_WA_shop_01.NIF

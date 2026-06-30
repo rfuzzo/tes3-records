@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: lucan_scriptholder
+name: Lucan Scriptholder
+script: lucan_ostorius
+mesh: f\Furn_banner_hlaalu_01.nif

@@ -1,0 +1,31 @@
+type: Armor
+flags: ''
+id: T_Imp_Silver_Greaves_01
+name: Imperial Silver Greaves
+script: ''
+mesh: tr\a\tr_a_silver_greav_GND.nif
+icon: tr\a\tr_a_silver_greaves.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Groin
+  male_bodypart: T_A_ImpSilverGreaves01_G
+  female_bodypart: ''
+- biped_object_type: LeftUpperLeg
+  male_bodypart: T_A_ImpSilverGreaves01_UL
+  female_bodypart: ''
+- biped_object_type: RightUpperLeg
+  male_bodypart: T_A_ImpSilverGreaves01_UL
+  female_bodypart: ''
+- biped_object_type: LeftKnee
+  male_bodypart: T_A_ImpSilverGreaves01_K
+  female_bodypart: ''
+- biped_object_type: RightKnee
+  male_bodypart: T_A_ImpSilverGreaves01_K
+  female_bodypart: ''
+data:
+  armor_type: Greaves
+  weight: 17.0
+  value: 140
+  health: 180
+  enchantment: 25
+  armor_rating: 18

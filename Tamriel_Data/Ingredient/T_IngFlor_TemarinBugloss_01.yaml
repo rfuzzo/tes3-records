@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_TemarinBugloss_01
+name: Temarin Bugloss Flower
+script: ''
+mesh: pi\n\pi_ing_bugloss.nif
+icon: pi\n\pi_ing_bugloss.dds
+data:
+  weight: 0.2
+  value: 2
+  effects:
+  - ResistPoison
+  - FortifyFatigue
+  - CurePoison
+  - None
+  skills:
+  - Block
+  - None
+  - None
+  - None
+  attributes:
+  - Intelligence
+  - None
+  - None
+  - None

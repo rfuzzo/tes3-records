@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m4_TG_BaseUpdateActivator_01
+name: TG Base Improvement Activator
+script: TR_m4_TG_BaseImprovements_scp
+mesh: EditorMarker.NIF

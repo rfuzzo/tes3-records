@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_DwrvKnife
+name: Dwarven Throwing Knife
+script: ''
+mesh: OAAB\w\dwe_knife.nif
+icon: OAAB\w\dwe_knife.dds
+enchanting: ''
+data:
+  weight: 0.2
+  value: 15
+  weapon_type: MarksmanThrown
+  health: 60
+  speed: 1.0
+  reach: 1.0
+  enchantment: 10
+  chop_min: 1
+  chop_max: 5
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

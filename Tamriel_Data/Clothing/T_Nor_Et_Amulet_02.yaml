@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Nor_Et_Amulet_02
+name: Extravagant Amulet
+script: ''
+mesh: sky\c\sky_amulet_extrvg_02.nif
+icon: sky\c\tx_amulet_extrvg_02.dds
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 120
+  enchantment: 600

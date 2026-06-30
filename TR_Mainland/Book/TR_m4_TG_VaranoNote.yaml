@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_TG_VaranoNote
+name: Orders from V.V.
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nGo to Bthuangthuv. If you don't hear from me and see that pesky rat %PCName, kill them all.<BR> <BR>\r\nV.V.\r\n<BR>\r\n\r\n"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

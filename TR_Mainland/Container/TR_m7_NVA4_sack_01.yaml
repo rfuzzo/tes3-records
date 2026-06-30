@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: TR_m7_NVA4_sack_01
+name: Sack
+script: TR_m7_NVA_Stage4_Persist
+mesh: o\Contain_Com_Sack_01.NIF
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory: []

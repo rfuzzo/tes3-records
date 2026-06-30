@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_JulianiteNumberSpells
+name: Julianite Number-Spells
+script: ''
+mesh: pc\m\PC_bk_Book_21.nif
+icon: pc\m\pc_bk_book_21.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nJulianite Number-Spells<BR>\r\n\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\n1.<BR>\r\nWithin the heart of men there lives the number called one, the irrelevant I.<BR>\r\n<BR>\r\n2.<BR>\r\nTwo is the number that lives in their heads,<BR>\r\ncalled fear that drives men forward,<BR>\r\nand endeavor, the virtue of saints.<BR>\r\n<BR>\r\n3.<BR>\r\nFear is made of the number three,<BR>\r\nfear of the strong, who usurp,<BR>\r\nfear of the weak, who desire,<BR>\r\nand fear of the self, most unreliable of all.<BR>\r\n<BR>\r\n4.<BR>\r\nFour things endeavor,<BR>\r\nthe fire desires,<BR>\r\nthe waters thirst for memory,<BR>\r\nthe air longs for him who is lost,<BR>\r\nthe forest untamed is a great devourer.<BR>\r\n<BR>\r\n5.<BR>\r\nFive times was man betrayed,<BR>\r\nby the spirits unwilling, only themselves,<BR>\r\nby the courts of regret, who cursed the telling of stories,<BR>\r\nby the golden usurpers, name-thieves,<BR>\r\nby the singularites, the breakers of bells,<BR>\r\nand in the hour unsung, which is yet to come.<BR>\r\n<BR>\r\n6.<BR>\r\nThe engine of the world feeds on the number is six things,<BR>\r\nthe song of the people,<BR>\r\nthe silk that they weave,<BR>\r\ntheir dreams unstringed,<BR>\r\ntheir children reborn,<BR>\r\nthe blood that they spill,<BR>\r\nthe names they lose and learn again.<BR>\r\n<BR>\r\n7.<BR>\r\nThe nature of things is fixed and unchanging, save for these seven mysteries,<BR>\r\nthe slave who becomes queen,<BR>\r\nthe covenants of saints,<BR>\r\nthe solace of the moth,<BR>\r\nthe evil lamp of tigers,<BR>\r\nthe moment broken,<BR>\r\nthe submission of serpents,<BR>\r\nthe road that leads to the sacred places.<BR>\r\n<BR>\r\n8.<BR>\r\nEight is the number of your inheritance,<BR>\r\nthe hours and minutes,<BR>\r\nthe circle of endings,<BR>\r\nthe grain and the rice,<BR>\r\nthe lashing wind,<BR>\r\nthe rapture,<BR>\r\nthe mercy of justice,<BR>\r\nthe coin and its value,<BR>\r\nand the word of knowing, through which we may come to understand.<BR>\r\n<BR> \r\n\r\n"
+data:
+  weight: 3.0
+  value: 200
+  book_type: Book
+  skill: Mysticism
+  enchantment: 0

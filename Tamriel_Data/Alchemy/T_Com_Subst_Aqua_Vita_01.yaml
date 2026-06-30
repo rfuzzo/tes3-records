@@ -1,0 +1,28 @@
+type: Alchemy
+flags: ''
+id: T_Com_Subst_Aqua_Vita_01
+name: Aqua Vita
+script: ''
+mesh: hr\m\al_aqua_vitae.nif
+icon: hr\m\al_aqua_vitae.dds
+effects:
+- magic_effect: ResistCommonDisease
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 30
+  max_magnitude: 30
+- magic_effect: WeaknessToFire
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 60
+  min_magnitude: 30
+  max_magnitude: 30
+data:
+  weight: 1.0
+  value: 125
+  flags: ''

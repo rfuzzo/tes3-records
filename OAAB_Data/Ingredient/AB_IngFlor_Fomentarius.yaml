@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: AB_IngFlor_Fomentarius
+name: Blistering Fomentarius
+script: ''
+mesh: OAAB\n\ing_fomentarius01.nif
+icon: OAAB\n\n_fomentarius01.dds
+data:
+  weight: 0.5
+  value: 3
+  effects:
+  - Blind
+  - DrainFatigue
+  - CureCommonDisease
+  - Burden
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

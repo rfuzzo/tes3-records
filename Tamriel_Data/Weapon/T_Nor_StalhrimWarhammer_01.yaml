@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Nor_StalhrimWarhammer_01
+name: Stalhrim Warhammer
+script: ''
+mesh: tr\w\tr_w_ice_whammer.nif
+icon: tr\w\tr_w_ice_whammer.dds
+enchanting: ''
+data:
+  weight: 90.0
+  value: 45000
+  weapon_type: BluntTwoClose
+  health: 8200
+  speed: 1.0
+  reach: 1.5
+  enchantment: 50
+  chop_min: 1
+  chop_max: 74
+  slash_min: 1
+  slash_max: 80
+  thrust_min: 1
+  thrust_max: 4
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

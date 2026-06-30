@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_OE_raathim_tomb_crank
+name: Crank
+script: TR_m3-591_raathim_crank
+mesh: f\Act_m_sewer_crank_01.nif

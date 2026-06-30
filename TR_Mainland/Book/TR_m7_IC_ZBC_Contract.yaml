@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_IC_ZBC_Contract
+name: ZBC Bug Musk Contract
+script: ''
+mesh: m\Text_Scroll_01.NIF
+icon: m\Tx_scroll_open_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[The contract appears to be made out of promises and business jargon. It has been signed by Disela and there is a space to be signed by the recepient. It is to be presented upon delivery of the promised goods.]<BR>\r\n<BR>\r\n"
+data:
+  weight: 0.2
+  value: 100
+  book_type: Scroll
+  skill: None
+  enchantment: 0

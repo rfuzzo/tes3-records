@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: AB_sc_BlankExclusive
+name: Exclusive Scroll
+script: ''
+mesh: OAAB\m\scrollExclusive.nif
+icon: OAAB\m\scroll_exclusive.tga
+enchanting: ''
+text: ''
+data:
+  weight: 0.2
+  value: 50
+  book_type: Scroll
+  skill: None
+  enchantment: 600

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: sc_piratetreasure
+name: Pirate Captain's Note
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nNear the mighty sun's great stone,<br>\r\nAn arch marks withered flesh and bone.<br>\r\nAnd at the base you'll know sweet luck,<br>\r\nIf dig you will straight through the muck.<br>\r\n"
+data:
+  weight: 0.2
+  value: 50
+  book_type: Scroll
+  skill: None
+  enchantment: 0

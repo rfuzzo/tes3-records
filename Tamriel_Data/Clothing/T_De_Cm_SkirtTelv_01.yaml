@@ -1,0 +1,29 @@
+type: Clothing
+flags: ''
+id: T_De_Cm_SkirtTelv_01
+name: Common Telvanni Skirt
+script: ''
+mesh: tr\c\tr_c_skirt_telv_01gd.nif
+icon: tr\c\tr_c_skirt_telv_01.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Skirt
+  male_bodypart: T_C_DeCmSkirtTelv01_G
+  female_bodypart: ''
+- biped_object_type: RightUpperLeg
+  male_bodypart: ''
+  female_bodypart: ''
+- biped_object_type: LeftUpperLeg
+  male_bodypart: ''
+  female_bodypart: ''
+- biped_object_type: LeftKnee
+  male_bodypart: ''
+  female_bodypart: ''
+- biped_object_type: RightKnee
+  male_bodypart: ''
+  female_bodypart: ''
+data:
+  clothing_type: Skirt
+  weight: 2.0
+  value: 4
+  enchantment: 20

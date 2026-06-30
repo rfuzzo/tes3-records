@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3-501 BunkHouseRecord
+name: Guest record
+script: ''
+mesh: m\Text_Octavo_open_03.nif
+icon: m\Tx_octavo_open_03.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This book records the name and background of each guest that stays at the bunkhouse, along with brief notes on their behavior. The bunkhouse reserves the right to pass on the information contained within to the Imperial Legion.]<BR>\r\n"
+data:
+  weight: 3.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 0

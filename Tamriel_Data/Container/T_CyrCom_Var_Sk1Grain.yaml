@@ -1,0 +1,13 @@
+type: Container
+flags: ''
+id: T_CyrCom_Var_Sk1Grain
+name: Sack
+script: ''
+mesh: o\Contain_Com_Sack_01.NIF
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory:
+- - 5
+  - T_Cyr_Random_FlorIronrye
+- - 4
+  - T_Cyr_Random_FlorWheat

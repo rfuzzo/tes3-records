@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_scalesDeEbonySkew
+name: Frosted Ebony Scales
+script: ''
+mesh: OAAB\m\scalesDeEbonySkew.nif
+icon: OAAB\m\scalesDeEbonySkew.dds
+data:
+  weight: 5.5
+  value: 150
+  flags: ''

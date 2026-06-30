@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_Bk_UNI_AlessianDoctrinesPC
+name: The Alessian Doctrines
+script: ''
+mesh: pc\m\pc_bk_book_19.nif
+icon: pc\m\pc_bk_book_19.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>THE ALESSIAN DOCTRINES<BR>\r\n<BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n[This appears to be a complete edition of the Alessian Doctrines, the legal codes and prophecies written by the prophet Marukh during the First Era. These revelations are considered both blasphemous and dangerous, and to possess them or proclaim their contents is harshly punished under Imperial Law.]<BR>\r\n<BR>\r\n<DIV ALIGN=\"CENTER\">\r\n<IMG SRC=\"pc\\pc_marukh.dds\" WIDTH=\"256\" HEIGHT=\"256\"><BR>\r\n"
+data:
+  weight: 10.0
+  value: 50000
+  book_type: Book
+  skill: None
+  enchantment: 0

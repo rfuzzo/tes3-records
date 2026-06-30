@@ -1,0 +1,44 @@
+type: Alchemy
+flags: ''
+id: T_De_Drink_PunavitResin_01
+name: Punavit Residue
+script: ''
+mesh: tr\m\TR_Ind_Velk_Resin01.nif
+icon: tr\m\TR_ind_velk_resin01.dds
+effects:
+- magic_effect: Sanctuary
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 90
+  min_magnitude: 50
+  max_magnitude: 50
+- magic_effect: WeaknessToMagicka
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 90
+  min_magnitude: 30
+  max_magnitude: 30
+- magic_effect: Sound
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 90
+  min_magnitude: 50
+  max_magnitude: 50
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Endurance
+  range: OnSelf
+  area: 0
+  duration: 90
+  min_magnitude: 30
+  max_magnitude: 30
+data:
+  weight: 0.4
+  value: 2000
+  flags: ''

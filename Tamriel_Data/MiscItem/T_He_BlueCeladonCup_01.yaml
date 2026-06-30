@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_He_BlueCeladonCup_01
+name: Blue Celadon Cup
+script: ''
+mesh: sum\m\sum_misc_celb_cup_01.nif
+icon: sum\m\sum_misc_celb_cup_01.dds
+data:
+  weight: 1.5
+  value: 6
+  flags: ''

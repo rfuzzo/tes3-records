@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_bk_m2_i2-437-tri_chronicle
+name: Temple Administration Chronicle
+script: ''
+mesh: TR\m\TR_book_closed06_AA.NIF
+icon: TR\m\TR_book_closed06_AA.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR><BR>\r\n[This book is an old chronicle describing everyday events, tasks and business of the Temple in Necrom.]<BR>\r\n\r\n"
+data:
+  weight: 2.0
+  value: 15
+  book_type: Book
+  skill: None
+  enchantment: 0

@@ -1,0 +1,12 @@
+type: Apparatus
+flags: ''
+id: apparatus_g_mortar_01
+name: Grandmaster's Mortar and Pestle
+script: ''
+mesh: m\Misc_mortarpestle_G_01.nif
+icon: m\Tx_mortarpestle_G_01.tga
+data:
+  apparatus_type: MortarAndPestle
+  quality: 1.5
+  weight: 2.0
+  value: 4000

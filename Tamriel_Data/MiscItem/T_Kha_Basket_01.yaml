@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Kha_Basket_01
+name: Basket
+script: ''
+mesh: els\m\els_misc_basket_01.nif
+icon: els\m\els_misc_basket_01.dds
+data:
+  weight: 2.0
+  value: 5
+  flags: ''

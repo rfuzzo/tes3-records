@@ -1,0 +1,35 @@
+type: Clothing
+flags: ''
+id: T_De_Cm_ShirtDres_03
+name: Common Shirt
+script: ''
+mesh: tr\c\tr_c_shirt_com_d03_gnd.nif
+icon: tr\c\tr_com_shirt_d03.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: T_C_DeCmShirtDres03_C
+  female_bodypart: ''
+- biped_object_type: LeftUpperArm
+  male_bodypart: T_C_DeCmShirtDres03_UA
+  female_bodypart: ''
+- biped_object_type: RightUpperArm
+  male_bodypart: T_C_DeCmShirtDres03_UA
+  female_bodypart: ''
+- biped_object_type: LeftForearm
+  male_bodypart: T_C_DeCmShirtDres03_Fa
+  female_bodypart: ''
+- biped_object_type: RightForearm
+  male_bodypart: T_C_DeCmShirtDres03_Fa
+  female_bodypart: ''
+- biped_object_type: RightWrist
+  male_bodypart: T_C_DeCmShirtDres03_W
+  female_bodypart: ''
+- biped_object_type: LeftWrist
+  male_bodypart: T_C_DeCmShirtDres03_W
+  female_bodypart: ''
+data:
+  clothing_type: Shirt
+  weight: 2.0
+  value: 5
+  enchantment: 20

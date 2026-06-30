@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_DeBlueGlassCup_01
+name: Blue Glass Cup
+script: ''
+mesh: OAAB\m\misc_blue_glass_cup.nif
+icon: OAAB\m\misc_blue_glass_cup.dds
+data:
+  weight: 1.0
+  value: 1
+  flags: ''

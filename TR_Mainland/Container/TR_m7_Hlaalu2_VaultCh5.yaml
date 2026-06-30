@@ -1,0 +1,23 @@
+type: Container
+flags: ''
+id: TR_m7_Hlaalu2_VaultCh5
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 200
+  - Gold_001
+- - 6
+  - T_IngMine_Sapphire_01
+- - 5
+  - T_Mw_Random_Gems
+- - 3
+  - T_Mw_Random_ScrollsLvl3
+- - 1
+  - T_Mw_Random_WeaponsEbony
+- - 1
+  - l_m_armor_shields
+- - 1500
+  - random gold

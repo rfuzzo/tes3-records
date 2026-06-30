@@ -1,0 +1,28 @@
+type: Alchemy
+flags: ''
+id: T_Com_SPotion_L_Blind
+name: Spoiled Potion of Light
+script: ''
+mesh: m\Misc_Potion_Quality_01.nif
+icon: m\Tx_potion_quality_01.tga
+effects:
+- magic_effect: Light
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 5
+  min_magnitude: 100
+  max_magnitude: 100
+- magic_effect: Blind
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 40
+  min_magnitude: 100
+  max_magnitude: 100
+data:
+  weight: 0.5
+  value: 10
+  flags: ''

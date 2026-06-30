@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_q_AG_GhostMarker
+name: ''
+script: TR_m4_q_AG_summonCheck_sc
+mesh: EditorMarker.NIF

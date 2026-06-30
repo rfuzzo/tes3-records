@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: AB_o_ComCoffinMisc
+name: Coffin
+script: ''
+mesh: OAAB\u\coffinWood.nif
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - AB_lvl_BonesAll
+- - 2
+  - AB_lvl_Gold001
+- - 1
+  - AB_lvl_LootSpecial
+- - 1
+  - AB_lvl_c_Jewelry

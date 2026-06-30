@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_QyC_Et_Amulet_01
+name: Extravagant Amulet
+script: ''
+mesh: pi\m\pi_c_qc_amulet_03.nif
+icon: pi\c\pi_c_qc_amulet_03.dds
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 120
+  enchantment: 600

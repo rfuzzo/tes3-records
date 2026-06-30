@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: TR_m3_Bosvau_crate3
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - bonemold_boots
+- - 1
+  - bonemold_bracer_left
+- - 1
+  - bonemold_chuzei_helm
+- - 1
+  - bonemold_greaves

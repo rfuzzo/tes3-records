@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: T_CyrImp_FurnR_Display1
+name: Display Case
+script: T_ScObj_DisplayCaseImp1
+mesh: pc\f\pc_furn_com_r_displ_01.nif
+encumbrance: 0.0
+container_flags: IS_BASE
+inventory: []

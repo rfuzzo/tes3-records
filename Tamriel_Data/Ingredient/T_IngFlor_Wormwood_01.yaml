@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_Wormwood_01
+name: Wormwood Leaves
+script: ''
+mesh: pc\n\pc_ing_wormw.nif
+icon: pc\n\pc_tx_ingred_wormw.dds
+data:
+  weight: 0.1
+  value: 4
+  effects:
+  - FortifyFatigue
+  - Invisibility
+  - DamageHealth
+  - DamageMagicka
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

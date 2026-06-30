@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2_ledger4_i2-77-tri
+name: Necrom Excise Ledger
+script: ''
+mesh: TR\m\TR_book_closed06_AA.NIF
+icon: TR\m\TR_book_closed06_AA.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This book shows all taxes paid by ferrymen carrying bodies of the deceased for burial.]<BR>\r\n<BR>\r\n"
+data:
+  weight: 2.0
+  value: 0
+  book_type: Book
+  skill: None
+  enchantment: 100

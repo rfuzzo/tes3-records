@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: active_dae_mephala
+name: Shrine to Mephala
+script: DaedraMephala
+mesh: x\Ex_DAE_Azura.NIF

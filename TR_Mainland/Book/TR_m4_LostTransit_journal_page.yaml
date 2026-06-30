@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_LostTransit_journal_page
+name: Torn Journal Page
+script: TR_m4_LostTransit_jrnlpage_sc
+mesh: m\Text_Note_02.nif
+icon: m\Tx_note_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This page looks to be torn from a journal. Amidst unfinished sentences and crossed out lines you can decipher the following.]<BR>\r\n<BR>\r\nI have found the exsanguinated body of the missing son and am writing this as the flames consume it. In the morning I will track the vampire that did this into the ashlands. Once it has been destroyed I will bring its dust and his ashes back to his parents, but I cannot stand to face them in my failure.\r\n<BR>\r\n"
+data:
+  weight: 0.1
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

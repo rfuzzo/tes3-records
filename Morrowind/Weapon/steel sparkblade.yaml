@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: steel sparkblade
+name: Steel Sparkblade
+script: ''
+mesh: w\W_shortsword00.nif
+icon: w\Tx_Shortsword01.tga
+enchanting: cruel spark_en
+data:
+  weight: 8.0
+  value: 55
+  weapon_type: ShortBladeOneHand
+  health: 750
+  speed: 2.5
+  reach: 1.0
+  enchantment: 40
+  chop_min: 5
+  chop_max: 10
+  slash_min: 5
+  slash_max: 10
+  thrust_min: 6
+  thrust_max: 12
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

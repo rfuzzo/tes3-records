@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: TR_m3_Kha_Chest_05
+name: Daedric Chest
+script: TR_m3_Kha_DaeChestCont_05_Sc
+mesh: o\contain_daedric_chest_01.nif
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - TR_m3_Kha_10_Key
+- - 1
+  - TR_m3_Kha_Methats'_Key
+- - 1
+  - T_Dae_UNI_LMethatsPauldron
+- - 1
+  - T_Dae_UNI_RMethatsPauldron

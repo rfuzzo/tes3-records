@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_DeEbonyCup_01
+name: Frosted Ebony Cup
+script: ''
+mesh: OAAB\m\misc_ebony_cup.nif
+icon: OAAB\m\misc_ebony_cup.dds
+data:
+  weight: 3.0
+  value: 240
+  flags: ''

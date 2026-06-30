@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: TR_m7_SH09_DR01_chest
+name: Large Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 437
+  - Gold_001
+- - 2
+  - T_Com_MetalPieceSilver_03
+- - 1
+  - T_De_Ebony_Cup_01
+- - 2
+  - T_Mw_Random_Gems

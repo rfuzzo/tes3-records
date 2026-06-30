@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_BarracudaSteak_01
+name: Barracuda Steak
+script: ''
+mesh: pi\n\pi_ing_barracudasteak.nif
+icon: pi\n\pi_ing_barracudasteak.dds
+data:
+  weight: 1.5
+  value: 8
+  effects:
+  - RestoreFatigue
+  - None
+  - None
+  - None
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

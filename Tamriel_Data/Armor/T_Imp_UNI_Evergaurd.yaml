@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Imp_UNI_Evergaurd
+name: Everguard
+script: ''
+mesh: a\A_Shield_Imperial.nif
+icon: a\Tx_Imperial_shield.tga
+enchanting: T_Const_Everguard_en
+biped_objects:
+- biped_object_type: Shield
+  male_bodypart: a_shield_imperial
+  female_bodypart: ''
+data:
+  armor_type: Shield
+  weight: 14.0
+  value: 7800
+  health: 320
+  enchantment: 0
+  armor_rating: 16

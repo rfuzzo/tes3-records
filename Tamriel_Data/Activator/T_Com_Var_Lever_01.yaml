@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Com_Var_Lever_01
+name: Lever
+script: ''
+mesh: pc\f\pc_furn_switch_01.nif

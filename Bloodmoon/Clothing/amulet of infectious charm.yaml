@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: amulet of infectious charm
+name: Amulet of Infectious Charm
+script: ''
+mesh: c\Amulet_Expensive_3.nif
+icon: c\tx_amulet_expens3.tga
+enchanting: infectious charm_en
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 20
+  enchantment: 150

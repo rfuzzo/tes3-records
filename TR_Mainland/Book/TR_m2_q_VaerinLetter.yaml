@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2_q_VaerinLetter
+name: Letter to Dralothas Omothran
+script: ''
+mesh: m\Text_Parchment_01.nif
+icon: m\Tx_parchment_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nTo Dralothas Omothran, alleged Lord of Tel Mothrivra:<BR>\r\n<BR>\r\nYou're next.<BR>\r\n<BR>\r\nMaster Vaerin, the Lord of Alt Bosara and esteemed Councilor of the Parliament of Bugs<BR>\r\n<BR>"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 100

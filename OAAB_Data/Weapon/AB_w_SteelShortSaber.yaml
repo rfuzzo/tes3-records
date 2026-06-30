@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: AB_w_SteelShortSaber
+name: Steel Short Saber
+script: ''
+mesh: OAAB\w\w_noble_guard_sword.nif
+icon: OAAB\w\w_noble_guard_sword.dds
+enchanting: ''
+data:
+  weight: 9.0
+  value: 430
+  weapon_type: ShortBladeOneHand
+  health: 1150
+  speed: 1.2
+  reach: 1.0
+  enchantment: 65
+  chop_min: 3
+  chop_max: 22
+  slash_min: 4
+  slash_max: 18
+  thrust_min: 3
+  thrust_max: 9
+  flags: ''

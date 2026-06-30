@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m4_i4-95_key_chest
+name: Vonos Arendas' Key
+script: ''
+mesh: TR\m\TR_Key_DD11.NIF
+icon: TR\m\TR_Key_DD11.dds
+data:
+  weight: 0.0
+  value: 10
+  flags: KEY

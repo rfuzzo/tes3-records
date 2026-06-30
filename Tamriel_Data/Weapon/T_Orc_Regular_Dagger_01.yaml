@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Orc_Regular_Dagger_01
+name: Orcish Dagger
+script: ''
+mesh: tr\w\tr_w_orcish_dagger.nif
+icon: tr\w\tr_w_orcish_dagger.dds
+enchanting: ''
+data:
+  weight: 4.0
+  value: 600
+  weapon_type: ShortBladeOneHand
+  health: 1000
+  speed: 2.25
+  reach: 1.0
+  enchantment: 60
+  chop_min: 3
+  chop_max: 11
+  slash_min: 3
+  slash_max: 13
+  thrust_min: 7
+  thrust_max: 18
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

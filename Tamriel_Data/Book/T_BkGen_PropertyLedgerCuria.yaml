@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: T_BkGen_PropertyLedgerCuria
+name: Property Ledger
+script: ''
+mesh: pc\m\PC_bk_Book_01.nif
+icon: pc\m\pc_bk_book_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n[This document features tables on the various regional holdings owned by the Curia.\r\nIts ledgers detail information pertaining to estimated property value, maintenance costs\r\nand profits among other subjects of relevance. ]<BR>"
+data:
+  weight: 2.0
+  value: 2
+  book_type: Book
+  skill: None
+  enchantment: 0

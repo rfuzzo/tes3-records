@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Glb_Var_DustPuffFX_02
+name: ''
+script: T_ScObj_DeleteAfter1700ms
+mesh: tr\f\tr_act_dust_puff_01.nif

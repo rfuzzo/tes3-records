@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: Misc_DE_glass_green_01
+name: Green Glass
+script: ''
+mesh: m\Misc_glass_green_01.NIF
+icon: m\Tx_glass_green_01.tga
+data:
+  weight: 2.0
+  value: 1
+  flags: ''

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_Bountynote_Runat
+name: 'Bounty: The Kagouti Tusks'
+script: TR_m4_And_Bountynote_Runat
+mesh: m\Text_Parchment_01.NIF
+icon: m\Tx_parchment_01.tga
+enchanting: ''
+text: "<BR>\r\n<DIV ALIGN=\"CENTER\">\r\nBOUNTY NOTICE:\r\n<BR>\r\n<DIV ALIGN=\"left\">\r\nBy order of Janonia Melitus, Imperial Magistrate of Bal Foyen, and under the authority of the Ruby Throne,\r\n<BR>\r\nLet it be known that the criminal band known as\r\n<BR>\r\n<DIV ALIGN=\"center\">\r\nTHE KAGOUTI TUSKS\r\n<BR>\r\n<DIV ALIGN=\"left\">\r\nare wanted dead for the crimes of extortion, robbery and banditry.<BR>\r\n<BR>\r\nReward is 600 septims. Report to Agronak gro-Dumag at Bal Foyen's Imperial Commission for more information.\r\n<BR>\r\n<BR>\r\n<IMG SRC=\"PC\\pc_waxseal_empire.dds\" WIDTH=\"96\" HEIGHT=\"96\"><BR>"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

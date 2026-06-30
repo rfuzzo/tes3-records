@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: steel wakizashi
+name: Steel Wakizashi
+script: ''
+mesh: w\W_Wakizashi.nif
+icon: w\Tx_Wakazashi.tga
+enchanting: ''
+data:
+  weight: 10.0
+  value: 48
+  weapon_type: ShortBladeOneHand
+  health: 600
+  speed: 2.25
+  reach: 1.0
+  enchantment: 45
+  chop_min: 8
+  chop_max: 11
+  slash_min: 7
+  slash_max: 12
+  thrust_min: 2
+  thrust_max: 7
+  flags: ''

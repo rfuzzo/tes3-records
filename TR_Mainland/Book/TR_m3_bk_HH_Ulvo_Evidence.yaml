@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_bk_HH_Ulvo_Evidence
+name: Note from Diveru
+script: TR_m3_HH_Ulvo_EvidenceSc
+mesh: m\Text_Note_02.nif
+icon: m\Tx_note_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nI've found the stud velk your buyer was after. Take your crew to Kadanuran and I'll send someone to corral the animal for you. I expect payment as agreed, Gols. Contact me as soon as the deal is done.<BR>\r\n<BR>\r\nDiveru<BR>\r\n<BR>\r\n\r\n"
+data:
+  weight: 0.5
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 100

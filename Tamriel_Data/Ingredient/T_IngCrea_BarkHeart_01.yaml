@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_BarkHeart_01
+name: Bark Heart
+script: ''
+mesh: sky\n\sky_barkheart.nif
+icon: sky\n\sky_tx_ing_BarkHeart.dds
+data:
+  weight: 0.5
+  value: 40
+  effects:
+  - NightEye
+  - RestoreAttribute
+  - DrainMagicka
+  - RestoreFatigue
+  skills:
+  - None
+  - Block
+  - None
+  - None
+  attributes:
+  - None
+  - Willpower
+  - None
+  - None

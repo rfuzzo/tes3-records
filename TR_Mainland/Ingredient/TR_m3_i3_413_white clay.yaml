@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: TR_m3_i3_413_white clay
+name: White Clay
+script: ''
+mesh: n\Ingred_Blonemeal_01.nif
+icon: n\Tx_bonemeal_01.tga
+data:
+  weight: 1.0
+  value: 2
+  effects:
+  - RestoreAttribute
+  - Telekinesis
+  - DrainFatigue
+  - DrainAttribute
+  skills:
+  - Block
+  - None
+  - None
+  - Block
+  attributes:
+  - Agility
+  - None
+  - None
+  - Personality

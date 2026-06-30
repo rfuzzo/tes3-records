@@ -1,0 +1,23 @@
+type: Container
+flags: ''
+id: crate_02_thorek_shortsw
+name: Crate
+script: ''
+mesh: o\Contain_crate_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - -2
+  - steel shortsword
+- - -2
+  - imperial shortsword
+- - -4
+  - iron shortsword
+- - -1
+  - silver shortsword
+- - -4
+  - chitin shortsword
+- - -4
+  - iron tanto
+- - -2
+  - steel tanto

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m4-471_key_door
+name: Dwemer door key
+script: ''
+mesh: tr\m\tr_key_dd25.nif
+icon: tr\m\tr_key_dd25.dds
+data:
+  weight: 0.0
+  value: 1
+  flags: KEY

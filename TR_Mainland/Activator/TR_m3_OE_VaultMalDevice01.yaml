@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m3_OE_VaultMalDevice01
+name: ''
+script: TR_m3_OE_VaultApparatusSCP
+mesh: m\misc_dwrv_artifact50.nif

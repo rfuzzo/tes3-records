@@ -1,0 +1,27 @@
+type: Container
+flags: ''
+id: crate_02_thorek_longswo
+name: Crate
+script: ''
+mesh: o\Contain_crate_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - -4
+  - iron longsword
+- - -1
+  - silver longsword
+- - -2
+  - steel longsword
+- - -4
+  - nordic broadsword
+- - -4
+  - iron saber
+- - -4
+  - iron broadsword
+- - -2
+  - steel broadsword
+- - -2
+  - steel saber
+- - -4
+  - chitin shortsword

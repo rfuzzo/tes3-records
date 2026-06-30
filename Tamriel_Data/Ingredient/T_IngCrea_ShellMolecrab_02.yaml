@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngCrea_ShellMolecrab_02
+name: Small Mole Crab Shell
+script: ''
+mesh: TR\n\TR_Ing_mcrabshell_02.nif
+icon: TR\n\TR_Ing_molecrab_02.dds
+data:
+  weight: 1.0
+  value: 1
+  effects:
+  - Shield
+  - DrainMagicka
+  - DrainHealth
+  - Sanctuary
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

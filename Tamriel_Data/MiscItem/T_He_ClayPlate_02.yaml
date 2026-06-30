@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_He_ClayPlate_02
+name: Clay Plate
+script: ''
+mesh: sum\m\sum_misc_clay_plat_02.nif
+icon: sum\m\sum_misc_clay_plat_02.dds
+data:
+  weight: 2.0
+  value: 2
+  flags: ''

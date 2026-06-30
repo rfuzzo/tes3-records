@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2_q_6_ForgedLetter2
+name: Missive from Merlador
+script: ''
+mesh: m\Text_Parchment_01.NIF
+icon: m\Tx_parchment_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[The letter goes on to decline the proposition of Trela Varesi in a most polite, and effusively praising, manner.]<BR>\r\n<BR>\r\nSigned<BR>\r\nMerlador<BR>\r\n<BR>\r\n"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

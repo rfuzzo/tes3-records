@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Qy_Bronze_Waraxe_01
+name: Quey Bronze War Axe
+script: ''
+mesh: pi\w\pi_w_bronze_waraxe.nif
+icon: pi\w\pi_w_bronze_waraxe.dds
+enchanting: ''
+data:
+  weight: 24.0
+  value: 275
+  weapon_type: AxeOneHand
+  health: 940
+  speed: 1.25
+  reach: 1.0
+  enchantment: 110
+  chop_min: 1
+  chop_max: 22
+  slash_min: 1
+  slash_max: 12
+  thrust_min: 1
+  thrust_max: 3
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

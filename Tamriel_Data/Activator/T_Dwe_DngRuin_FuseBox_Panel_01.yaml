@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: T_Dwe_DngRuin_FuseBox_Panel_01
+name: Dwemer Tube Panel
+script: T_ScObj_Dwe_FuseBox
+mesh: tr\f\tr_act_dwe_fuse_pnl.nif

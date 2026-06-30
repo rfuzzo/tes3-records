@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_ShiSha_HH_Mirara
+name: Inspection Report
+script: ''
+mesh: m\Text_Parchment_02.nif
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\">\r\nAccording to the insceptors, five crates containing skooma and moon sugar were brought over the border by a Dark Elf woman.<BR>\r\n<BR>\r\nThe descriptions mentioned:<BR>\r\nMedium length white hair,<BR>\r\nAverage height,<BR>\r\nRed eyes,<BR>\r\nNo jewelry,<BR>\r\nBracers made of alit hide, no other armor pieces,<BR>\r\nPurely black Dark Elven style shirt and pants,<BR>\r\nLilac shoes,<BR>\r\nNative Dark Elven accent,<BR>\r\n<BR>\r\nThe suspect is likely to be headed to Shipal-Sharai.\r\n<BR>"
+data:
+  weight: 0.1
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

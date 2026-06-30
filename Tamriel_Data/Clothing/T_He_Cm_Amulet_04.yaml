@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_He_Cm_Amulet_04
+name: Common Amulet
+script: ''
+mesh: sum\c\sum_c_cmamulet_04.nif
+icon: sum\c\sum_c_cmamulet_04.dds
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 2
+  enchantment: 15

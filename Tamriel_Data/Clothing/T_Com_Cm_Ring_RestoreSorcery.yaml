@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Com_Cm_Ring_RestoreSorcery
+name: Ring of Restore Sorcery
+script: ''
+mesh: c\c_ring_common05.nif
+icon: c\tx_ring_common05.dds
+enchanting: T_Use_RestoreSorcery
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 150
+  enchantment: 100

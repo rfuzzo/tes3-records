@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_HrBre_FurnM_Cb1Empty
+name: Cupboard
+script: ''
+mesh: hr\o\hr_furn_bre_m_cbrd01.nif
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Glb_Empty

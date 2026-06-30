@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: T_MwCom_Var_BsS1Empty
+name: Basket
+script: ''
+mesh: TR\o\TR_cont_com_basket01.nif
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory: []

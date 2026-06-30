@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_We_BonewarePlate_01
+name: Boneware Plate
+script: ''
+mesh: VA\m\va_m_We_plate.nif
+icon: va\m\va_m_We_plate.dds
+data:
+  weight: 0.8
+  value: 2
+  flags: ''

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_De_Ebony_GSword_01
+name: Ebony Greatsword
+script: ''
+mesh: tr\w\tr_w_ebony_gsword.nif
+icon: tr\w\tr_w_ebony_gsword.dds
+enchanting: ''
+data:
+  weight: 67.0
+  value: 45000
+  weapon_type: LongBladeTwoClose
+  health: 5300
+  speed: 1.25
+  reach: 1.0
+  enchantment: 175
+  chop_min: 1
+  chop_max: 54
+  slash_min: 1
+  slash_max: 47
+  thrust_min: 1
+  thrust_max: 32
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

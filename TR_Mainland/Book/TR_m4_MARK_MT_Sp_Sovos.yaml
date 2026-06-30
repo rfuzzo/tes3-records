@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_MARK_MT_Sp_Sovos
+name: Sovos Horaren
+script: ''
+mesh: tr\tr_editormarker_npc.nif
+icon: ''
+enchanting: ''
+text: "Sovos Horaren ends up back in his family's manor if you convince him to return to Bal Foyen in the Morag Tong special duty.\r\nNPC ID: TR_m4_Sovos Horaren\r\nPositionCell in script TR_m4_MT_Sp_Gulmon_ScMoveSovos"
+data:
+  weight: 1.0
+  value: 1
+  book_type: Book
+  skill: None
+  enchantment: 100

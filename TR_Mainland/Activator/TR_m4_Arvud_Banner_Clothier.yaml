@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_Arvud_Banner_Clothier
+name: 'Mels Berano: Clothier'
+script: OutsideBanner
+mesh: f\Furn_bannerD_clothing_01.NIF

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Bre_SilverCandlestick_01
+name: Silver Candlestick
+script: ''
+mesh: hr\m\hr_m_silv_cndl01.nif
+icon: hr\m\hr_m_silv_cndl01.dds
+data:
+  weight: 3.0
+  value: 17
+  flags: ''

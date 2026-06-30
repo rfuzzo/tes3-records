@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m4_q_IceSpike_weap
+name: Ice Spike
+script: ''
+mesh: w\W_silver_Shortsword.nif
+icon: w\Tx_Shortsword_Silver.tga
+enchanting: dire frost_en
+data:
+  weight: 6.0
+  value: 120
+  weapon_type: ShortBladeOneHand
+  health: 600
+  speed: 2.5
+  reach: 1.0
+  enchantment: 36
+  chop_min: 5
+  chop_max: 7
+  slash_min: 5
+  slash_max: 7
+  thrust_min: 6
+  thrust_max: 9
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE | SILVER

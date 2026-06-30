@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: tramaroot_04
+name: Trama Root
+script: ''
+mesh: o\Contain_tramaroot_04.NIF
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - random_trama_root

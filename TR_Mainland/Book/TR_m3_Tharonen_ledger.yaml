@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m3_Tharonen_ledger
+name: Tharonen Family Ledger
+script: ''
+mesh: m\Text_Octavo_open_03.nif
+icon: m\Tx_octavo_open_03.tga
+enchanting: ''
+text: "[This ledger contains records of the financial affairs of the Tharonen family, detailing various investments and estates.]<BR>\r\n<BR>\r\n"
+data:
+  weight: 2.0
+  value: 0
+  book_type: Book
+  skill: Mercantile
+  enchantment: 20

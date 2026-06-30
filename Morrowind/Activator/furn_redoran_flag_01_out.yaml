@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: furn_redoran_flag_01_out
+name: House Redoran
+script: OutsideBanner
+mesh: f\Furn_redoran_flag_01.NIF

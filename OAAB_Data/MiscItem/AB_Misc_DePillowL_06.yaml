@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_DePillowL_06
+name: Exquisite Pillow
+script: ''
+mesh: OAAB\m\m_pillow_long_06.nif
+icon: OAAB\m\m_pillow_long_06.dds
+data:
+  weight: 1.0
+  value: 50
+  flags: ''

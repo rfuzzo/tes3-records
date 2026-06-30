@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_MwCom_FurnM_Dw1FCloth
+name: Drawers
+script: ''
+mesh: tr\o\tr_furn_com_drawers_01.nif
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory:
+- - 4
+  - random_expensive_de_fclothes_02

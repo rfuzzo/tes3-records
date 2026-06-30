@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Bre_Bottle_08
+name: Jar
+script: ''
+mesh: hr\m\hr_misc_bottle_08.nif
+icon: hr\m\hr_misc_bottle_08.dds
+data:
+  weight: 1.0
+  value: 1
+  flags: ''

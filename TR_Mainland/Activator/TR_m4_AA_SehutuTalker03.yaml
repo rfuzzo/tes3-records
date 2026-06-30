@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m4_AA_SehutuTalker03
+name: ''
+script: TR_m4_AA_SehutuTalk03_scp
+mesh: EditorMarker.NIF

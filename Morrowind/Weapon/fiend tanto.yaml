@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: fiend tanto
+name: Fiend Tanto
+script: ''
+mesh: w\W_Tanto.nif
+icon: w\Tx_Tanto.tga
+enchanting: fiend_tanto_en
+data:
+  weight: 4.0
+  value: 3000
+  weapon_type: ShortBladeOneHand
+  health: 500
+  speed: 2.25
+  reach: 1.0
+  enchantment: 50
+  chop_min: 5
+  chop_max: 6
+  slash_min: 5
+  slash_max: 6
+  thrust_min: 6
+  thrust_max: 6
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

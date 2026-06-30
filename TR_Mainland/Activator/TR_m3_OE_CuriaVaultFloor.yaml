@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m3_OE_CuriaVaultFloor
+name: ''
+script: ''
+mesh: tr\i\tr_imp_curiavaultfloor.nif

@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_SheggoShelf_01
+name: Sheggo's Shelf
+script: ''
+mesh: tr\n\tr_ing_sheggshelf_01.nif
+icon: tr\n\tr_ing_shegg_shelf_01.dds
+data:
+  weight: 0.5
+  value: 1
+  effects:
+  - NightEye
+  - DrainAttribute
+  - Chameleon
+  - ResistPoison
+  skills:
+  - None
+  - Block
+  - None
+  - Block
+  attributes:
+  - None
+  - Personality
+  - None
+  - Personality

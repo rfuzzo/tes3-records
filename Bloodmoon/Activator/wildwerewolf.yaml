@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: wildwerewolf
+name: ''
+script: sprigganeffect
+mesh: were_morph.NIF

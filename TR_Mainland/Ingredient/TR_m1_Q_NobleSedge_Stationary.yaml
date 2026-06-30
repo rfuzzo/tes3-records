@@ -1,0 +1,25 @@
+type: Ingredient
+flags: PERSISTENT
+id: TR_m1_Q_NobleSedge_Stationary
+name: Noble Sedge Flowers Offering
+script: TR_m1_Q_RGirthOfferingScript_NS
+mesh: n\Ingred_noble_sedge_01.NIF
+icon: n\Tx_noble_sedge_01.dds
+data:
+  weight: 1.0
+  value: 1
+  effects:
+  - DamageHealth
+  - RestoreAttribute
+  - Poison
+  - FortifyAttribute
+  skills:
+  - None
+  - Block
+  - None
+  - Block
+  attributes:
+  - None
+  - Agility
+  - None
+  - Agility

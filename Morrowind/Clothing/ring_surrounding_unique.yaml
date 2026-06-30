@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: ring_surrounding_unique
+name: Ring of Surroundings
+script: ''
+mesh: c\C_art_Ring_surrounding.NIF
+icon: c\C_ring_surround.tga
+enchanting: chameleon dance
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 12000
+  enchantment: 100

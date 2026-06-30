@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_Bk_BuffleheadLog
+name: Logbook of the Bufflehead
+script: TR_m4_Bk_BuffleheadLog_scp
+mesh: tr\m\tr_book_notebk_03.nif
+icon: tr\m\tr_book_closed_ntbk03.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<BR>\r\n[This is the logbook of the Bufflehead, a patrol ship of the Imperial Coastguard. Most entries are brief and uninteresting, but one report from few weeks ago stands out. It reads:] <BR>\r\n<BR>\r\n<BR>\r\nMORNDAS, two hours after sundown; north of Teyn. Run-in with a catboat cast adrift, lanterns darkened. Vessel identified as belonging to Verenduin, a known smuggler. No souls onboard. Anchor missing; otherwise in good condition. No cargo apart from one empty crate labeled \"good mazte\" in smuggler's code. Reason for abandonment unclear. No other things of note. <BR>"
+data:
+  weight: 0.5
+  value: 10
+  book_type: Book
+  skill: None
+  enchantment: 0

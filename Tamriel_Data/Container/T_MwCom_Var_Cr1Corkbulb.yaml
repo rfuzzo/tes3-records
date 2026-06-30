@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_MwCom_Var_Cr1Corkbulb
+name: Crate
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 20
+  - random_corkbulb_root

@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_Mw_Flora_SheggShelf03
+name: Sheggo's Shelf
+script: ''
+mesh: tr\o\tr_flora_sheggshelf_03.nif
+encumbrance: 0.0
+container_flags: ORGANIC | RESPAWNS | IS_BASE
+inventory:
+- - 1
+  - T_Mw_Random_FlorSheggoShelf01

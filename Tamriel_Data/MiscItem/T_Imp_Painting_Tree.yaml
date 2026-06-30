@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_Imp_Painting_Tree
+name: A Pelican on the Driftwood
+script: ''
+mesh: pi\m\PI_M_Painting_Tree.nif
+icon: pi\m\PI_M_Painting_Tree.dds
+data:
+  weight: 6.0
+  value: 200
+  flags: ''

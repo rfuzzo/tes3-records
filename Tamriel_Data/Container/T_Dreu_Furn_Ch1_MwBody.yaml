@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: T_Dreu_Furn_Ch1_MwBody
+name: Chest
+script: ''
+mesh: tr\o\tr_furn_dreu_chest_01.nif
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - T_Glb_Random_HumanParts
+- - 2
+  - T_Mw_Random_Skull
+- - 10
+  - random gold

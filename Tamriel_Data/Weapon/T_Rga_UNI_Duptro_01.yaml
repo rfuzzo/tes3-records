@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Rga_UNI_Duptro_01
+name: Duptro
+script: ''
+mesh: sky\w\sky_w_orich_sword_01.nif
+icon: sky\w\sky_w_orich_sword_01.dds
+enchanting: ''
+data:
+  weight: 22.0
+  value: 100000
+  weapon_type: LongBladeOneHand
+  health: 2400
+  speed: 1.35
+  reach: 1.0
+  enchantment: 360
+  chop_min: 2
+  chop_max: 52
+  slash_min: 1
+  slash_max: 52
+  thrust_min: 3
+  thrust_max: 40
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

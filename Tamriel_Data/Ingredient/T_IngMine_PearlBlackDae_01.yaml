@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngMine_PearlBlackDae_01
+name: Black Pearl
+script: BILL_MarksDaedraSummon
+mesh: TR\n\TR_Ing_pearlblack_mm.NIF
+icon: TR\n\TR_Ing_pearlblack_mm.dds
+data:
+  weight: 0.2
+  value: 150
+  effects:
+  - Silence
+  - WaterBreathing
+  - DamageAttribute
+  - FortifyAttribute
+  skills:
+  - None
+  - None
+  - Block
+  - Block
+  attributes:
+  - None
+  - None
+  - Endurance
+  - Personality

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_BoneSkelArgTail
+name: Tail
+script: ''
+mesh: OAAB\m\skelTailArg.nif
+icon: OAAB\m\skelTailArg.tga
+data:
+  weight: 2.0
+  value: 1
+  flags: ''

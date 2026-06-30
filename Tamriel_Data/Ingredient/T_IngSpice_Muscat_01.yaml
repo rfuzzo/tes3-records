@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngSpice_Muscat_01
+name: Muscat
+script: ''
+mesh: pc\n\pc_ing_muscat.nif
+icon: pc\n\pc_ingred_muscat.dds
+data:
+  weight: 0.1
+  value: 30
+  effects:
+  - DrainFatigue
+  - Blind
+  - Levitate
+  - WeaknessToPoison
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

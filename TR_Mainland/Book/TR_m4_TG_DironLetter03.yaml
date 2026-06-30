@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m4_TG_DironLetter03
+name: Scandalous Letter, III
+script: ''
+mesh: m\Text_Parchment_02.nif
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This isn't really a letter as much it is a collection of little doodles depicting two figures engaged in various acrobatic activities with little to no clothes on. An arrow pointing at one of the figures, drawn with comically large anatomy, reads 'Vermie'. Another arrow reads 'my sweet Dervara'.]<BR>\r\n<BR>"
+data:
+  weight: 0.05
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

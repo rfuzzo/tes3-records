@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: T_SkyCom_Furn_ChHv1WpnRg
+name: Chest
+script: ''
+mesh: Sky\o\Sky_Cont_Chest_04_01.nif
+encumbrance: 250.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - T_Sky_Lvl_WeaponsDagger
+- - 1
+  - T_Sky_Lvl_WeaponsSaber
+- - 1
+  - T_Sky_Lvl_WeaponsSword
+- - 20
+  - T_Sky_Lvl_WeaponsThrowingknives

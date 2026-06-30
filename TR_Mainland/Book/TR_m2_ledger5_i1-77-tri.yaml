@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m2_ledger5_i1-77-tri
+name: Necrom Storage Ledger
+script: ''
+mesh: TR\m\TR_book_closed_i14_AY.nif
+icon: TR\m\TR_book_closed_i14_AY.dds
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This ledger contains a storage manifest which details all cargo in storage.]<BR>"
+data:
+  weight: 2.0
+  value: 30
+  book_type: Book
+  skill: None
+  enchantment: 100

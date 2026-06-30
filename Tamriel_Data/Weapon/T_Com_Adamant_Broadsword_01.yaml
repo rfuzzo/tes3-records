@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Com_Adamant_Broadsword_01
+name: Adamantium Broadsword
+script: ''
+mesh: TR\w\TR_w_adamant_bsword.NIF
+icon: TR\w\TR_w_adamant_bsword.dds
+enchanting: ''
+data:
+  weight: 18.0
+  value: 1000
+  weapon_type: LongBladeOneHand
+  health: 1900
+  speed: 1.35
+  reach: 1.0
+  enchantment: 100
+  chop_min: 4
+  chop_max: 25
+  slash_min: 2
+  slash_max: 24
+  thrust_min: 2
+  thrust_max: 24
+  flags: ''

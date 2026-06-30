@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_PurpleGlassBowl_02
+name: Fine Glass Bowl
+script: ''
+mesh: tr\m\tr_misc_purpg_bowl02.nif
+icon: tr\m\tr_misc_purpg_bowl02.dds
+data:
+  weight: 4.0
+  value: 35
+  flags: ''

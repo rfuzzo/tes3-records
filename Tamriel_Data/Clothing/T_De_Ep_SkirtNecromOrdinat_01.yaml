@@ -1,0 +1,17 @@
+type: Clothing
+flags: ''
+id: T_De_Ep_SkirtNecromOrdinat_01
+name: Ordinator in Mourning Skirt
+script: ''
+mesh: TR\c\TR_C_nec_Skirt_ord_GND.nif
+icon: TR\c\tr_c_necrom_skirt.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Groin
+  male_bodypart: T_C_DeEpSkirtNecromOrdinat01_G
+  female_bodypart: ''
+data:
+  clothing_type: Skirt
+  weight: 4.0
+  value: 30
+  enchantment: 50

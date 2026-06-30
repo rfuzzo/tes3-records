@@ -1,0 +1,31 @@
+type: Armor
+flags: ''
+id: T_De_IndChevAram_Greaves_01
+name: Chev-Aram Chitin Greaves
+script: ''
+mesh: tr\a\tr_a_chevaram_grv_gnd.nif
+icon: tr\a\tr_a_chevaram_greav_01.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Groin
+  male_bodypart: T_A_DeIndChevAramGreaves01_G
+  female_bodypart: ''
+- biped_object_type: LeftUpperLeg
+  male_bodypart: T_A_DeIndChevAramGreaves01_UL
+  female_bodypart: ''
+- biped_object_type: RightUpperLeg
+  male_bodypart: T_A_DeIndChevAramGreaves01_UL
+  female_bodypart: ''
+- biped_object_type: LeftKnee
+  male_bodypart: T_A_DeIndChevAramGreaves01_K
+  female_bodypart: ''
+- biped_object_type: RightKnee
+  male_bodypart: T_A_DeIndChevAramGreaves01_K
+  female_bodypart: ''
+data:
+  armor_type: Greaves
+  weight: 5.4
+  value: 40
+  health: 100
+  enchantment: 13
+  armor_rating: 14

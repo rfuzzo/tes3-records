@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: TR_m7_Rotkeeper
+name: Rotkeeper
+script: ''
+mesh: tr\w\tr_w_adamant_dagger.nif
+icon: tr\w\tr_w_adamant_dagger.dds
+enchanting: TR_m7_Rotkeeper_en
+data:
+  weight: 9.0
+  value: 8900
+  weapon_type: ShortBladeOneHand
+  health: 850
+  speed: 2.5
+  reach: 1.0
+  enchantment: 45
+  chop_min: 6
+  chop_max: 10
+  slash_min: 6
+  slash_max: 10
+  thrust_min: 1
+  thrust_max: 13
+  flags: ''

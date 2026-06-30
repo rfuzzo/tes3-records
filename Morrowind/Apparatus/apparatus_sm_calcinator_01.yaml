@@ -1,0 +1,12 @@
+type: Apparatus
+flags: ''
+id: apparatus_sm_calcinator_01
+name: SecretMaster's Calcinator
+script: ''
+mesh: m\App_S_Calcinator_01.nif
+icon: m\Tx_calcinator_05.tga
+data:
+  apparatus_type: Calcinator
+  quality: 2.0
+  weight: 6.0
+  value: 3200

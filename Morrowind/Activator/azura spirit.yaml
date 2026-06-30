@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: azura spirit
+name: ''
+script: AzuraEnd
+mesh: r\Azura.NIF

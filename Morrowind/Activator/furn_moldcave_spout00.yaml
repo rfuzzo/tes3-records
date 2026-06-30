@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: furn_moldcave_spout00
+name: Water Spout
+script: Sound_Water_Spout
+mesh: f\furn_moldcave_spout00.NIF

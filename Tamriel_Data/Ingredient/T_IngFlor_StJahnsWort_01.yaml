@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngFlor_StJahnsWort_01
+name: St. Jahn's Wort Flowers
+script: ''
+mesh: pc\n\PC_Ingred_SJW.nif
+icon: pc\n\pc_tx_ingred_sjw.dds
+data:
+  weight: 0.1
+  value: 5
+  effects:
+  - ResistShock
+  - DamageHealth
+  - CurePoison
+  - Chameleon
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

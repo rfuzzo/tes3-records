@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: Ex_Vivec_waterfall_05
+name: ''
+script: Sound_Water_Spout
+mesh: x\Ex_Vivec_waterfall_05.NIF

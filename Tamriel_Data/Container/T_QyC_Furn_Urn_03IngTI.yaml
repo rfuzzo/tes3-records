@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: T_QyC_Furn_Urn_03IngTI
+name: Urn
+script: ''
+mesh: pi\o\pi_cont_qc_urn_03.nif
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - 4
+  - T_PI_Random_IngredientTI

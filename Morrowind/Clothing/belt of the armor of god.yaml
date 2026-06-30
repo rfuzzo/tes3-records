@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: belt of the armor of god
+name: Belt of the Armor of God
+script: ''
+mesh: c\C_belt_Expensive_2.NIF
+icon: c\tx_belt_expensive02.tga
+enchanting: armor of god_en
+biped_objects: []
+data:
+  clothing_type: Belt
+  weight: 1.0
+  value: 33
+  enchantment: 70

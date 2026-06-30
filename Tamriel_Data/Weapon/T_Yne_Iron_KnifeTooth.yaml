@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Yne_Iron_KnifeTooth
+name: Ynesai Iron Tooth Knife
+script: ''
+mesh: pi\w\pi_w_yiron_knifetooth.nif
+icon: pi\w\pi_w_yiron_knifetooth.dds
+enchanting: ''
+data:
+  weight: 1.0
+  value: 17
+  weapon_type: ShortBladeOneHand
+  health: 272
+  speed: 2.5
+  reach: 1.0
+  enchantment: 25
+  chop_min: 2
+  chop_max: 4
+  slash_min: 2
+  slash_max: 4
+  thrust_min: 2
+  thrust_max: 4
+  flags: ''

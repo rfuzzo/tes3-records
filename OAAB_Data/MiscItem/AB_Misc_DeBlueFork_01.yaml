@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: AB_Misc_DeBlueFork_01
+name: Fork
+script: ''
+mesh: OAAB\m\misc_blue_fork.nif
+icon: OAAB\m\misc_blue_fork.dds
+data:
+  weight: 1.0
+  value: 4
+  flags: ''

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: bk_yellowbook426
+name: Yellow Book of 3E 426
+script: yellowBookScript
+mesh: m\Text_Octavo_01.NIF
+icon: m\Tx_octavo_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nYellow Book of Great House Hlaalu<BR>\r\n<BR>\r\nCouncilors of House Hlaalu<BR>\r\nVvardenfell District<BR>\r\nImperial Era 426<BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\nMistress Velanda Omani, by Grace of Almsivi, Honored Councilor of Hlaalu Council, Vvardenfell District, Free Trader, Lord of Omani Plantation, Elmas Island, East Vivec, District of Vvardenfell, Province of Morrowind<BR>\r\n<BR>\r\nMaster Dram Bero, by Grace of Almsivi, Honored Councilor of Hlaalu Council, Vvardenfell District, Free Trader, Gentleman of No Fixed Residence, Vivec, District of Vvardenfell, Province of Morrowind<BR>\r\n<BR>\r\nMaster Crassius Curio, by Grace of Almsivi, Honored Councilor of Hlaalu Council, Vvardenfell District, Free Trader, Curio Manor, Hlaalu Compound, Vivec, District of Vvardenfell, Province of Morrowind<BR>\r\n<BR>\r\nMaster Yngling Half-Troll , by Grace of Almsivi, Honored Councilor of Hlaalu Council, Vvardenfell District, Free Trader, Yngling Manor, Canton of St. Olms, Vivec, District of Vvardenfell, Province of Morrowind<BR>\r\n<BR>\r\nMistress Nevena Ules, by Grace of Almsivi, Honored Councilor of Hlaalu Council, Vvardenfell District, Free Trader, Ules Manor, Suran, Ascadian Isles, Bal Ur, District of Vvardenfell, Province of Morrowind<BR>\r\n<DIV ALIGN=\"CENTER\"><BR>\r\nCouncil Affairs of Note<BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\nKing Hlaalu Athyn Llethan, High Councilor and Lord of Morrowind, grants relief to merchants complaining of high tariffs on imported alcoholic beverages.<BR>\r\n<BR>\r\nThe council is pleased to report a reduction in the incidence of theft and violent crime in the Hlaalu House Districts, thanks to the vigilance of the Legions and stern sentences by the magistrates. The council laments the unfortunate disturbances of the public peace resulting from the increasingly aggressive competition between the Thieves Guild and the Camonna Tong for control of the black markets.<BR>\r\n<BR>\r\nA minor tax revolt in Balmora was suppressed without undue harm to life and property. The council sent deputations to the Duke to express their concerns over the high tax rates and the injurious effect of high tariffs on trade.<BR>\r\n<BR>\r\n"
+data:
+  weight: 3.0
+  value: 20
+  book_type: Book
+  skill: None
+  enchantment: 0

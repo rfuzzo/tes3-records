@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m3_OE_MG_EnchBroom
+name: Enchanted Broom
+script: TR_m3_OE_MG_BroomScript
+mesh: m\Misc_Com_Broom_01.NIF
+icon: m\Misc_Com_Broom_01.tga
+data:
+  weight: 3.0
+  value: 50
+  flags: ''

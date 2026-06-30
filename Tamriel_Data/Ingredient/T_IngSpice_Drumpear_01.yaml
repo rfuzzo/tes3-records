@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: T_IngSpice_Drumpear_01
+name: Ground Drumpear Seeds
+script: ''
+mesh: tr\n\tr_ing_drumpear_ground.nif
+icon: tr\n\tr_ing_drump_grnd.dds
+data:
+  weight: 0.1
+  value: 35
+  effects:
+  - RestoreAttribute
+  - FireShield
+  - RestoreFatigue
+  - None
+  skills:
+  - Block
+  - None
+  - None
+  - None
+  attributes:
+  - Luck
+  - None
+  - None
+  - None

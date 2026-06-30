@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: Gold_Dae_cursed_001
+name: Gold
+script: BILL_MarksDaedraSummon
+mesh: m\Gold_001.NIF
+icon: m\Tx_Gold_001.tga
+data:
+  weight: 0.0
+  value: 1
+  flags: ''

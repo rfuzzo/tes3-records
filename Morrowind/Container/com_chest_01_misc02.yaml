@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: com_chest_01_misc02
+name: Low Quality Chest
+script: ''
+mesh: o\Contain_Com_Chest_01.NIF
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - expensive_amulet_01
+- - 1
+  - common_ring_01
+- - 1
+  - common_robe_02_r
+- - 1
+  - expensive_belt_02
+- - 1
+  - common_shoes_02

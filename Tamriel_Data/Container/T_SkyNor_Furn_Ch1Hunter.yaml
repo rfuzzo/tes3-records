@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: T_SkyNor_Furn_Ch1Hunter
+name: Chest
+script: ''
+mesh: Sky\o\Sky_Cont_Chest_06_01.nif
+encumbrance: 250.0
+container_flags: IS_BASE
+inventory:
+- - 35
+  - T_Sky_Lvl_MissilesArrow
+- - 1
+  - T_Sky_Lvl_WeaponsBow
+- - 4
+  - T_Sky_Random_Fur&Bone
+- - 1
+  - T_Sky_Random_MiscKnife

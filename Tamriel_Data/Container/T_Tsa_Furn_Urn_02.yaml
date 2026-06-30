@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: T_Tsa_Furn_Urn_02
+name: Urn
+script: ''
+mesh: pi\o\tsa_cont_urn_02.nif
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory: []

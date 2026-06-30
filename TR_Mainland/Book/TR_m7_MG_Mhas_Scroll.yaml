@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_MG_Mhas_Scroll
+name: Scroll of Mhas' Rescue
+script: TR_m7_Ns_MG_Mhas_Scroll_sc
+mesh: m\text_scroll_01.nif
+icon: m\tx_scroll_open_01.tga
+enchanting: ''
+text: <DIV ALIGN="center"><FONT COLOR="000000" SIZE="2" FACE="Daedric">MHAS VATHOR</FONT><BR>
+data:
+  weight: 0.2
+  value: 100
+  book_type: Scroll
+  skill: None
+  enchantment: 0

@@ -1,0 +1,20 @@
+type: Clothing
+flags: ''
+id: TR_m1_Long_fingers
+name: Longfingers
+script: ''
+mesh: TR\c\TR_c_exp_glove_02_GND.nif
+icon: TR\c\TR_c_exp_glove_02.tga
+enchanting: TR_m1_Longfingers
+biped_objects:
+- biped_object_type: LeftHand
+  male_bodypart: T_C_ComEpGlove02_Ha
+  female_bodypart: ''
+- biped_object_type: LeftWrist
+  male_bodypart: ''
+  female_bodypart: ''
+data:
+  clothing_type: LeftGlove
+  weight: 0.5
+  value: 250
+  enchantment: 0

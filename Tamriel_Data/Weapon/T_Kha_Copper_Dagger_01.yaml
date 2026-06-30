@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: T_Kha_Copper_Dagger_01
+name: Copper Dagger
+script: ''
+mesh: els\w\els_w_copper_dagger.nif
+icon: els\w\els_w_copper_dagger.tga
+enchanting: ''
+data:
+  weight: 4.0
+  value: 20
+  weapon_type: ShortBladeOneHand
+  health: 340
+  speed: 2.5
+  reach: 1.0
+  enchantment: 25
+  chop_min: 4
+  chop_max: 6
+  slash_min: 4
+  slash_max: 6
+  thrust_min: 5
+  thrust_max: 6
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

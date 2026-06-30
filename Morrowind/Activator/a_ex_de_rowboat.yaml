@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: a_ex_de_rowboat
+name: Rowboat
+script: Float
+mesh: x\Ex_De_Rowboat.NIF

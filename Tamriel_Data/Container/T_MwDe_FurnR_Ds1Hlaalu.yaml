@@ -1,0 +1,27 @@
+type: Container
+flags: ''
+id: T_MwDe_FurnR_Ds1Hlaalu
+name: Desk
+script: ''
+mesh: TR\o\TR_De_R_Desk01.NIF
+encumbrance: 75.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - T_Mw_Random_BooksHlaalu
+- - 1
+  - T_Mw_Random_ClutterDesk
+- - 2
+  - T_Mw_Random_Gems
+- - 3
+  - T_Mw_Random_PosDunmer01
+- - 10
+  - random gold
+- - 10
+  - random gold_lev_05
+- - 10
+  - random gold_lev_10
+- - 10
+  - random gold_lev_15
+- - 10
+  - random gold_lev_20

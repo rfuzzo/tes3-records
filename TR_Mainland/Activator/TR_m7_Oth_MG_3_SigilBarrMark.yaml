@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: TR_m7_Oth_MG_3_SigilBarrMark
+name: ''
+script: TR_m7_Oth_MG_3_ScSigilBarrMark
+mesh: editormarker.nif

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: iron flameslayer
+name: Iron Flameslayer
+script: ''
+mesh: w\W_Iron_Claymore.nif
+icon: w\Tx_Claymore.tga
+enchanting: flame_enu
+data:
+  weight: 27.0
+  value: 100
+  weapon_type: LongBladeTwoClose
+  health: 1400
+  speed: 1.25
+  reach: 1.0
+  enchantment: 70
+  chop_min: 1
+  chop_max: 24
+  slash_min: 1
+  slash_max: 21
+  thrust_min: 1
+  thrust_max: 14
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: Colony Terrain_rock_BM_61_T2
+name: ''
+script: ColonyServSmithDisable
+mesh: f\Terrain_rock_BM_61.nif

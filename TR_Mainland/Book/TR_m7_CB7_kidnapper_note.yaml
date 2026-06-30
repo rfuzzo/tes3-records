@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: TR_m7_CB7_kidnapper_note
+name: Note from G.M.
+script: ''
+mesh: m\Text_Parchment_01.NIF
+icon: m\Tx_parchment_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nPhinis!<BR>\r\n<BR>\r\nWhen I said I needed a Dunmer for my experiments, I meant a live one! The last one your henchman brought me was so cut up that he died before I could even run a simple test. I hope you didn't expect me to pay for him.<BR>\r\n<BR>\r\nFind me another one, and soon! If your gang manages to catch two or three, even better.<BR>\r\n<BR>\r\nAnd no more Khajiit for now!<BR>\r\n<BR>\r\nG.M.\r\n<BR>\r\n"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

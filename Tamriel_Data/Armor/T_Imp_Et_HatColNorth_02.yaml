@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: T_Imp_Et_HatColNorth_02
+name: Extravagant Colovian Hat
+script: ''
+mesh: pc\c\PC_Col_U_Hat_N1_02G.nif
+icon: pc\c\PC_Col_U_Hat_N1_02I.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Hair
+  male_bodypart: T_C_ImpEtHatColNorth02_Hr
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 2.0
+  value: 50
+  health: 100
+  enchantment: 200
+  armor_rating: 7

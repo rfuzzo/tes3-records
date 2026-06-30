@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: TR_m3_q_TheRiftPortal
+name: ''
+script: TR_m3_q_TheRiftPortalScript
+mesh: EditorMarker.nif

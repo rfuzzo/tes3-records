@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: TR_m1_Q50_GO2_FineThread
+name: Spool of Fine Thread
+script: ''
+mesh: m\Misc_spool_01.NIF
+icon: m\Tx_spool_01.tga
+data:
+  weight: 0.5
+  value: 3
+  flags: ''

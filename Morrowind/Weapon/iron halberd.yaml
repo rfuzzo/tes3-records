@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: iron halberd
+name: Iron Halberd
+script: ''
+mesh: w\W_halberd_iron.nif
+icon: w\Tx_halberd_iron.tga
+enchanting: ''
+data:
+  weight: 14.0
+  value: 40
+  weapon_type: SpearTwoWide
+  health: 700
+  speed: 1.0
+  reach: 1.8
+  enchantment: 50
+  chop_min: 1
+  chop_max: 3
+  slash_min: 1
+  slash_max: 3
+  thrust_min: 5
+  thrust_max: 20
+  flags: ''

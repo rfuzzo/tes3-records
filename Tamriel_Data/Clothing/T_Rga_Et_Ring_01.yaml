@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: T_Rga_Et_Ring_01
+name: Extravagant Ring
+script: ''
+mesh: hf\c\hf_ring_extravagant_01.nif
+icon: hf\c\hf_c_etring_01.dds
+enchanting: ''
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 120
+  enchantment: 600

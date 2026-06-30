@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: T_De_WoodenScrib_01
+name: Wooden Scrib
+script: ''
+mesh: tr\m\tr_de_wooden_scrib_01.nif
+icon: tr\m\tr_de_wooden_scrib_01.dds
+data:
+  weight: 3.0
+  value: 13
+  flags: ''

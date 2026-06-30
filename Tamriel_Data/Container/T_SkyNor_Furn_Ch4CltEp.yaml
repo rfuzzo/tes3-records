@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: T_SkyNor_Furn_Ch4CltEp
+name: Chest
+script: ''
+mesh: sky\o\sky_cont_chest_08_01.nif
+encumbrance: 250.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - T_Sky_Random_ClothingMid
+- - 1
+  - T_Sky_Random_ClothingPantsMid
+- - 1
+  - T_Sky_Random_ClothingShirtsMid

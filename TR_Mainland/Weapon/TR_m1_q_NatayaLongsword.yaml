@@ -1,0 +1,23 @@
+type: Weapon
+flags: PERSISTENT
+id: TR_m1_q_NatayaLongsword
+name: Blightcutter
+script: TR_m1_q_Natayasword
+mesh: TR\w\TR_w_chitin_lsword.NIF
+icon: TR\w\TR_w_chitin_lsword.tga
+enchanting: ''
+data:
+  weight: 9.0
+  value: 26
+  weapon_type: LongBladeOneHand
+  health: 650
+  speed: 1.4
+  reach: 1.0
+  enchantment: 40
+  chop_min: 1
+  chop_max: 10
+  slash_min: 1
+  slash_max: 14
+  thrust_min: 3
+  thrust_max: 12
+  flags: ''
