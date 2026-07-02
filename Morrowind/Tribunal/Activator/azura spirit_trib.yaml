@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: azura spirit_trib
+name: ''
+script: TribEnd
+mesh: r\Azura.NIF

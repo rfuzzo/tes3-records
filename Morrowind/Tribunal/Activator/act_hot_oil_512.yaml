@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: act_hot_oil_512
+name: ''
+script: SothaHotOil
+mesh: i\act_hot_oil_512.NIF

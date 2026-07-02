@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: Shrine Cleanse
+name: ''
+script: ''
+mesh: In_OM_shrineFX.NIF

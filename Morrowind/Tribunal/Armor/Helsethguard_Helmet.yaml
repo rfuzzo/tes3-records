@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: Helsethguard_Helmet
+name: Royal Guard Helm
+script: ''
+mesh: a\A_HelsethGuard_Helm.NIF
+icon: a\Tx_HelsethGuard_helmet.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: Head
+  male_bodypart: A_HelsethGuard_Helm
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 4.0
+  value: 550
+  health: 550
+  enchantment: 300
+  armor_rating: 55

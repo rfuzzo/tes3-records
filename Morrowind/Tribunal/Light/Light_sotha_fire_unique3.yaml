@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: Light_sotha_fire_unique3
+name: ''
+script: ''
+mesh: l\Light_Fire.NIF
+icon: ''
+sound: Fire 50
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 300
+  color:
+  - 255
+  - 140
+  - 40
+  - 0
+  flags: DYNAMIC | FIRE | FLICKER_SLOW

@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: shrine_trigger
+name: ''
+script: trigger_spells
+mesh: x\Ex_T_rock_coastal_01.nif

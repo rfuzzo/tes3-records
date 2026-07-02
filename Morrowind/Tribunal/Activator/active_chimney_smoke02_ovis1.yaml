@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: active_chimney_smoke02_ovis1
+name: ''
+script: ''
+mesh: chimney_smoke02.NIF

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: adamantium_mace
+name: Adamantium Mace
+script: ''
+mesh: w\W_Adamantium_Mace.NIF
+icon: w\Tx_w_Adtium_Mace.dds
+enchanting: ''
+data:
+  weight: 23.0
+  value: 1000
+  weapon_type: BluntOneHand
+  health: 2800
+  speed: 1.0
+  reach: 1.0
+  enchantment: 100
+  chop_min: 5
+  chop_max: 20
+  slash_min: 5
+  slash_max: 20
+  thrust_min: 1
+  thrust_max: 5
+  flags: ''

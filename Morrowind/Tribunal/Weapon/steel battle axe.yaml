@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: steel battle axe
+name: Steel Battle Axe
+script: ''
+mesh: w\W_steel_battleaxe.nif
+icon: w\Tx_steel_battleaxe.tga
+enchanting: ''
+data:
+  weight: 30.0
+  value: 100
+  weapon_type: AxeTwoHand
+  health: 1800
+  speed: 1.0
+  reach: 1.0
+  enchantment: 55
+  chop_min: 1
+  chop_max: 36
+  slash_min: 1
+  slash_max: 27
+  thrust_min: 1
+  thrust_max: 4
+  flags: ''

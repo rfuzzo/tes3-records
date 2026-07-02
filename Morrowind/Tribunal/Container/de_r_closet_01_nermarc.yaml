@@ -1,0 +1,29 @@
+type: Container
+flags: ''
+id: de_r_closet_01_nermarc
+name: Closet
+script: ''
+mesh: o\Contain_De_Closet_01.NIF
+encumbrance: 300.0
+container_flags: IS_BASE
+inventory:
+- - -2
+  - l_m_enchantitem_redoran_rank4
+- - -2
+  - l_m_enchantitem_redoran_rank6
+- - -2
+  - l_m_enchantitem_redoran_rank8
+- - -2
+  - l_m_enchantitem_hlaalu_rank4
+- - -2
+  - l_m_enchantitem_hlaalu_rank6
+- - -2
+  - l_m_enchantitem_imperial_rank0
+- - -2
+  - l_m_enchantitem_telvanni_rank8
+- - -2
+  - l_m_enchantitem_telvanni_rank6
+- - -2
+  - l_m_enchantitem_temple_rank6
+- - -2
+  - l_m_enchantitem_temple_rank4

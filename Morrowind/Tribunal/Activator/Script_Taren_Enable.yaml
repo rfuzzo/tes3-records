@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: Script_Taren_Enable
+name: Script_Taren_Enable
+script: tarenEnableScript
+mesh: EditorMarker.NIF

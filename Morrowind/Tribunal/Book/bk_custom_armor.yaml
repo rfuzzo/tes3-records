@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: bk_custom_armor
+name: Custom Armor Price List
+script: ''
+mesh: m\Text_Parchment_01.NIF
+icon: m\Tx_parchment_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n<DIV ALIGN=\"CENTER\"><BR>\r\nYOUR LIFE<BR>\r\nDEPENDS ON IT!<BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\nWhen your life is on the line, you demand the very best.<BR>\r\n<BR>\r\nAnd the very best is...<BR>\r\n<DIV ALIGN=\"CENTER\"><BR>\r\nCUSTOM ARMOR<BR>\r\nBY BOLS INDALEN<BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\nHand-crafted glass, adamantium, and ebony armors, custom-fitted to your frame, provide the very best protection. For generations, the Indalen family have provided custom armors for the greatest nobles and warriors of Mournhold -- and at a price you can afford.<BR>\r\n<BR>\r\nYou provide the materials and pay for our peerless craftsmanship... and in 24 hours, you can be wearing your very own custom armor.<BR>\r\n<BR>\r\n<BR>\r\nMATERIALS AND PRICE LIST<BR>\r\n<BR>\r\nEBONY ARMORS<BR>\r\nEbony Cuirass: 30 raw ebony and 24500 gold<BR>\r\nEbony Left Pauldron: 21 raw ebony and 16800 gold<BR>\r\nEbony Right Pauldron: 21 raw ebony and 16800 gold<BR>\r\nEbony Left Bracer: 12 raw ebony and 7000 gold<BR>\r\nEbony Right Bracer: 12 raw ebony and 7000 gold<BR>\r\nEbony Greaves: 18 raw ebony and 15400 gold<BR>\r\nEbony Boots: 9 raw ebony and 7000 gold<BR>\r\nEbony Helm: 12 raw ebony and 10500 gold<BR>\r\n<BR>\r\nGLASS ARMORS<BR>\r\nGlass Cuirass: 30 raw glass and 19600 gold<BR>\r\nGlass Left Pauldron: 21 raw glass and 13400 gold<BR>\r\nGlass Right Pauldron: 21 raw glass and 13400 gold<BR>\r\nGlass Left Bracer: 12 raw glass and 5600 gold<BR>\r\nGlass Right Bracer: 12 raw glass and 5600 gold<BR>\r\nGlass Greaves: 18 raw glass and 12300 gold<BR>\r\nGlass Boots: 9 raw glass and 5600 gold<BR>\r\nGlass Helm: 12 raw glass and 8400 gold<BR>\r\n<BR>\r\nADAMANTIUM ARMORS<BR>\r\nAdamantium Cuirass: 10 adamantium ore and 6000 gold<BR>\r\nAdamantium Left Pauldron: 7 adamantium ore and 500 gold<BR>\r\nAdamantium Right Pauldron: 7 adamantium ore and 500 gold<BR>\r\nAdamantium Left Bracer: 4 adamantium ore and 600 gold<BR>\r\nAdamantium Right Bracer: 4 adamantium ore and 600 gold<BR>\r\nAdamantium Greaves: 6 adamantium ore and 6000 gold<BR>\r\nAdamantium Boots: 3 adamantium ore and 4200 gold<BR>\r\nAdamantium Helm: 4 adamantium ore and 3000 gold<BR>\r\n"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

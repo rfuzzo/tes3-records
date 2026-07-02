@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: bk_Teran_invoice
+name: Invoice
+script: ''
+mesh: m\Text_Parchment_02.nif
+icon: m\Tx_parchment_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nFinished repairing the floor today. Please pay what you owe. Remember, I can let the goblin loose just as easily as I trapped him.\r\n\r\n<BR>\r\n"
+data:
+  weight: 0.2
+  value: 10
+  book_type: Scroll
+  skill: None
+  enchantment: 0

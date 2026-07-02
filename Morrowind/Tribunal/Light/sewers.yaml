@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: sewers
+name: ''
+script: ''
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 512
+  color:
+  - 211
+  - 123
+  - 44
+  - 0
+  flags: ''

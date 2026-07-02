@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: bonemold_cuirass
+name: Bonemold Cuirass
+script: ''
+mesh: a\A_Bonemold_cuirass_GND.nif
+icon: a\TX_Bonemold_cuirass.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: a_bonemold_cuirass_c
+  female_bodypart: ''
+data:
+  armor_type: Cuirass
+  weight: 24.0
+  value: 350
+  health: 480
+  enchantment: 160
+  armor_rating: 16

@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: Ex_gg_particles_01_bbot1
+name: ''
+script: ''
+mesh: x\Ex_gg_particles_01.NIF

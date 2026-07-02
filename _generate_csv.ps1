@@ -38,6 +38,11 @@ function Get-FieldValue {
 }
 
 $root = Get-Item -LiteralPath $RootPath
+$outDir = Join-Path $root.FullName '_out'
+if (-not (Test-Path -LiteralPath $outDir -PathType Container)) {
+    New-Item -ItemType Directory -Path $outDir | Out-Null
+}
+
 $mainFolders = Get-ChildItem -LiteralPath $root.FullName -Directory
 
 foreach ($mainFolder in $mainFolders) {
@@ -55,7 +60,7 @@ foreach ($mainFolder in $mainFolders) {
         }
 
         $csvName = '{0}_{1}.csv' -f $mainFolder.Name, $subFolder.Name
-        $csvPath = Join-Path -Path $subFolder.FullName -ChildPath $csvName
+        $csvPath = Join-Path -Path $outDir -ChildPath $csvName
 
         # Always produce a CSV for each subfolder, even when no YAML files are present.
         @($rows) | Select-Object id, name, tags | Export-Csv -LiteralPath $csvPath -NoTypeInformation -Encoding utf8

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: active_tikitorch_UNI
+name: Burned Out Torch
+script: waterstate_torchenable
+mesh: x\Furn_tikitorch_out.nif

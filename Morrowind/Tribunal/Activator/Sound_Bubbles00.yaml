@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: Sound_Bubbles00
+name: Sound_Bubbles
+script: Sound_Bubbles
+mesh: EditorMarker.NIF

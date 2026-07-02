@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: Ingred_sweetpulp_01
+name: Sweetpulp
+script: ''
+mesh: n\Ingred_sweetpulp_01.NIF
+icon: n\Tx_sweetpulp_01.dds
+data:
+  weight: 1.0
+  value: 1
+  effects:
+  - Paralyze
+  - Levitate
+  - ResistParalysis
+  - RestoreHealth
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

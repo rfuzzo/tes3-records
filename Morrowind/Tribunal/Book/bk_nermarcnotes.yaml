@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: bk_nermarcnotes
+name: Private Notes -- DO NOT READ
+script: ''
+mesh: m\Text_Octavo_05.nif
+icon: m\Tx_book_04.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[Between scrawled calculations and indecipherable symbols, very little can be made of this text, save the signature:  \"Elbert Nermarc\"]<BR>"
+data:
+  weight: 3.0
+  value: 20
+  book_type: Book
+  skill: None
+  enchantment: 0

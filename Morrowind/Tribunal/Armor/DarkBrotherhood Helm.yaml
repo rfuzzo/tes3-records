@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: DarkBrotherhood Helm
+name: Dark Brotherhood Helm
+script: ''
+mesh: a\A_DarkBrotherhood_Helmet.NIF
+icon: a\Tx_DarkBrotherhood_helm.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: Head
+  male_bodypart: A_DarkBrotherhood_Helmet
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 1.0
+  value: 200
+  health: 300
+  enchantment: 175
+  armor_rating: 30

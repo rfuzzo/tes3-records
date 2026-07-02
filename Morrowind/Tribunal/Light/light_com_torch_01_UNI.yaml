@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: light_com_torch_01_UNI
+name: ''
+script: waterstate_torchdisable
+mesh: l\Light_Com_Torch_01.NIF
+icon: ''
+sound: Fire 40
+data:
+  weight: 0.0
+  value: 5
+  time: -1
+  radius: 256
+  color:
+  - 206
+  - 130
+  - 79
+  - 0
+  flags: DYNAMIC | FLICKER | FIRE

@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: urn_02_food
+name: Urn
+script: ''
+mesh: o\Contain_urn_02.NIF
+encumbrance: 100.0
+container_flags: IS_BASE
+inventory:
+- - 4
+  - random_de_cheapfood_01_ne

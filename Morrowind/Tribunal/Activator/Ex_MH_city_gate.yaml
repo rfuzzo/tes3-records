@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: Ex_MH_city_gate
+name: Mournhold Gates
+script: MHCityGates
+mesh: x\Ex_MH_Palace_gate.NIF

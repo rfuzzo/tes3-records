@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: dwemer_satchel00
+name: Dwemer Satchel Pack
+script: ''
+mesh: m\dwemer_satchel00.NIF
+icon: m\misc_dwe_satchel00.dds
+data:
+  weight: 10.0
+  value: 50
+  flags: ''

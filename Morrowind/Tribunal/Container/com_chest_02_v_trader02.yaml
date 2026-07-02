@@ -1,0 +1,45 @@
+type: Container
+flags: ''
+id: com_chest_02_v_trader02
+name: Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 500.0
+container_flags: IS_BASE
+inventory:
+- - -100
+  - steel bolt
+- - -100
+  - steel arrow
+- - -50
+  - steel throwing knife
+- - -50
+  - steel throwing star
+- - -2
+  - random_armor_iron
+- - -3
+  - random_iron_weapon
+- - -3
+  - random_de_shirt
+- - -3
+  - random_de_pants
+- - -2
+  - random_de_shoes_common
+- - -4
+  - random_com_kitchenware
+- - -3
+  - random_armor_netch_leather
+- - -4
+  - random_armor_fur
+- - -2
+  - random_de_blueware_01
+- - -3
+  - torch
+- - 1
+  - p_drain_luck_q
+- - 1
+  - p_drain_magicka_q
+- - -2
+  - p_restore_health_b
+- - -2
+  - p_restore_fatigue_b

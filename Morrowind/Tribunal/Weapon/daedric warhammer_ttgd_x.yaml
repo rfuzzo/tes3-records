@@ -1,0 +1,23 @@
+type: Weapon
+flags: PERSISTENT
+id: daedric warhammer_ttgd_x
+name: Veloth's Judgement
+script: MuseumVelothJudgment
+mesh: w\W_warhammer_daedric.nif
+icon: w\Tx_warhammer_daedric.tga
+enchanting: veloth's judgement_unique
+data:
+  weight: 96.0
+  value: 30000
+  weapon_type: BluntTwoClose
+  health: 8000
+  speed: 1.0
+  reach: 1.5
+  enchantment: 165
+  chop_min: 1
+  chop_max: 70
+  slash_min: 1
+  slash_max: 60
+  thrust_min: 1
+  thrust_max: 4
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: PERSISTENT
+id: misc_dwrv_goblet00_uni
+name: Ornate Dwemer Goblet
+script: ''
+mesh: m\misc_dwrv_goblet00.nif
+icon: m\misc_dwrv_goblet00.tga
+data:
+  weight: 4.0
+  value: 20
+  flags: ''

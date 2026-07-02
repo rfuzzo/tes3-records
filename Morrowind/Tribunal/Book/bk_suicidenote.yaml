@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: bk_suicidenote
+name: For Shara, on my death
+script: ''
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nMy dearest love,<BR>\r\nI have failed you. But how? I brought you sacks of comberry, crates of fine clothes, and chests of gold. But still you spurn my affections. I killed the trader who robbed you and still you refuse me. I have sat by your house day after day, rain or sun, waiting for a hint of your affection, but to no avail. I grow weary of this life. Since you have not yet arrived here to meet me, I can only assume the worst - that I will never feel your soft arms around me or watch you sleep without having to fear the guards that now patrol your land. <BR>\r\n<BR>\r\nGoodbye my darling. Think of me fondly and often. And without reaching for your knife.\r\n<BR>\r\n\r\n\r\n\r\n"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

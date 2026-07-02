@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: In_moldboulder01_UNI
+name: ''
+script: cryptboulderScript
+mesh: i\in_moldboulder00.nif

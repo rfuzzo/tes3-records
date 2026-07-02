@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: act_sotha_red00
+name: ''
+script: sothalightScript
+mesh: i\act_sotha_red.NIF

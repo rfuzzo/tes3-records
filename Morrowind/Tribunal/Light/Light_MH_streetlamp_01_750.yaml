@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: Light_MH_streetlamp_01_750
+name: ''
+script: ''
+mesh: l\Ex_MH_streetlamp_01.NIF
+icon: ''
+sound: Fire 40
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 750
+  color:
+  - 255
+  - 140
+  - 40
+  - 0
+  flags: DYNAMIC | FIRE | FLICKER_SLOW

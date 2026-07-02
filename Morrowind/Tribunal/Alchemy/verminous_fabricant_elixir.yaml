@@ -1,0 +1,20 @@
+type: Alchemy
+flags: ''
+id: verminous_fabricant_elixir
+name: Verminous Fabricant Elixir
+script: ''
+mesh: m\Misc_Fabricant_Elixir.NIF
+icon: m\Tx_fabricant_elixir.dds
+effects:
+- magic_effect: FortifyAttribute
+  skill: None
+  attribute: Speed
+  range: OnSelf
+  area: 0
+  duration: 10
+  min_magnitude: 10
+  max_magnitude: 10
+data:
+  weight: 5.0
+  value: 100
+  flags: ''

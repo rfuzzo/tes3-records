@@ -1,0 +1,4 @@
+type: Static
+flags: PERSISTENT
+id: light_bar2_OUT_unique
+mesh: f\furn_chandelier_burnedout.NIF

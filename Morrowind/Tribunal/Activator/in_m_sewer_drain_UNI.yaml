@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: in_m_sewer_drain_UNI
+name: Sewer Drain
+script: drowned
+mesh: i\in_m_sewer_drain_01.NIF

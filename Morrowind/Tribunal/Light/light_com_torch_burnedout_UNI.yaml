@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: light_com_torch_burnedout_UNI
+name: ''
+script: waterstate_torchenable
+mesh: l\Light_Com_Torch_01.NIF
+icon: l\Light_Com_Torch_01.dds
+sound: ''
+data:
+  weight: 0.0
+  value: 1
+  time: 0
+  radius: 16
+  color:
+  - 0
+  - 0
+  - 0
+  - 0
+  flags: CAN_CARRY | OFF_BY_DEFAULT

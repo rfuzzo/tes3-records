@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: goblin_club
+name: Goblin Club
+script: ''
+mesh: w\W_Goblin_Club.NIF
+icon: w\Tx_w_Goblin_Club.dds
+enchanting: ''
+data:
+  weight: 25.0
+  value: 3000
+  weapon_type: BluntOneHand
+  health: 500
+  speed: 1.5
+  reach: 1.0
+  enchantment: 100
+  chop_min: 1
+  chop_max: 60
+  slash_min: 1
+  slash_max: 60
+  thrust_min: 1
+  thrust_max: 5
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

@@ -1,0 +1,19 @@
+type: Armor
+flags: PERSISTENT
+id: goblin_shield_durgok_uni
+name: Goblin Buckler
+script: ''
+mesh: w\W_Goblin_Shield.NIF
+icon: w\Tx_w_Goblin_Shield.dds
+enchanting: durgok's shield
+biped_objects:
+- biped_object_type: Shield
+  male_bodypart: shield_goblin
+  female_bodypart: ''
+data:
+  armor_type: Shield
+  weight: 5.0
+  value: 1000
+  health: 500
+  enchantment: 100
+  armor_rating: 20

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: misc_dwrv_prox_mine
+name: Strange Device
+script: proximityMine
+mesh: m\misc_dwrv_artifact50.nif

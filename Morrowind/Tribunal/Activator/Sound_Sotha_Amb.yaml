@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: Sound_Sotha_Amb
+name: Sound_Sotha_Amb
+script: Sound_SothaAmbient
+mesh: EditorMarker.NIF

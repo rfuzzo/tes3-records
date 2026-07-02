@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: Ingred_scrib_cabbage_01
+name: Scrib Cabbage
+script: ''
+mesh: n\Ingred_scrib_cabbage_01.NIF
+icon: n\Tx_scrib_cabbage_01.dds
+data:
+  weight: 1.0
+  value: 1
+  effects:
+  - DrainAttribute
+  - DamageHealth
+  - RestoreAttribute
+  - FortifyAttribute
+  skills:
+  - Block
+  - None
+  - Block
+  - Block
+  attributes:
+  - Intelligence
+  - None
+  - Agility
+  - Agility

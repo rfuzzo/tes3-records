@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: act_black_load03
+name: Dark Crevice
+script: passageScript
+mesh: i\In_Lava_Blacksquare.nif

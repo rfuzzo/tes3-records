@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: act_sotha_collide
+name: ''
+script: ''
+mesh: i\act_sotha_collide00.NIF

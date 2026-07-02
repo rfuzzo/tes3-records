@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: rock_adam_mold17
+name: Raw Adamantium
+script: ''
+mesh: i\Contain_rock_Am_17.NIF
+encumbrance: 0.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - random_adamantium

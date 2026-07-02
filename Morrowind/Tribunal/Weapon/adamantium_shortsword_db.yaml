@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: adamantium_shortsword_db
+name: Adamantium Jinkblade of Wounds
+script: ''
+mesh: w\W_Adamantium_ShortSword.NIF
+icon: w\Tx_w_Adtium_Shortsword.dds
+enchanting: db_poison
+data:
+  weight: 20.0
+  value: 1500
+  weapon_type: ShortBladeOneHand
+  health: 900
+  speed: 2.0
+  reach: 1.0
+  enchantment: 1200
+  chop_min: 7
+  chop_max: 15
+  slash_min: 7
+  slash_max: 15
+  thrust_min: 7
+  thrust_max: 20
+  flags: ''

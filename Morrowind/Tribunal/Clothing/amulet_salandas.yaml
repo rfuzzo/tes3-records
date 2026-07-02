@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: amulet_salandas
+name: Suldreni's Amulet
+script: ''
+mesh: c\Amulet_Extravagant_2.NIF
+icon: c\tx_amulet_extrav2.tga
+enchanting: amulet_salandas_en
+biped_objects: []
+data:
+  clothing_type: Amulet
+  weight: 1.0
+  value: 130
+  enchantment: 600

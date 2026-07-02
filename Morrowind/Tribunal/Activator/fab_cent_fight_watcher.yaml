@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: fab_cent_fight_watcher
+name: ''
+script: fab_cent_fight_watch
+mesh: EditorMarker.NIF

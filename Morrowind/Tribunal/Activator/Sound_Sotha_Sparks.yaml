@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: Sound_Sotha_Sparks
+name: ''
+script: Sound_Dwemer_Ambient
+mesh: EditorMarker.NIF

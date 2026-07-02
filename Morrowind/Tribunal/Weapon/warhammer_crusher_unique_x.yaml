@@ -1,0 +1,23 @@
+type: Weapon
+flags: PERSISTENT
+id: warhammer_crusher_unique_x
+name: Skull Crusher
+script: MuseumSkullCrusher
+mesh: w\W_art_warhammer_crusher.NIF
+icon: w\W_warhammer_crusher.tga
+enchanting: skullcrusher_en
+data:
+  weight: 15.0
+  value: 48000
+  weapon_type: BluntOneHand
+  health: 8000
+  speed: 1.0
+  reach: 1.0
+  enchantment: 600
+  chop_min: 10
+  chop_max: 60
+  slash_min: 10
+  slash_max: 50
+  thrust_min: 7
+  thrust_max: 10
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

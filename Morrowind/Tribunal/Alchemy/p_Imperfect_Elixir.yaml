@@ -1,0 +1,36 @@
+type: Alchemy
+flags: ''
+id: p_Imperfect_Elixir
+name: Elixir of the Imperfect
+script: ''
+mesh: m\Misc_Fabricant_Elixir.NIF
+icon: m\Tx_fabricant_elixir.dds
+effects:
+- magic_effect: RestoreHealth
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 15
+  min_magnitude: 20
+  max_magnitude: 20
+- magic_effect: RestoreFatigue
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 15
+  min_magnitude: 20
+  max_magnitude: 20
+- magic_effect: RestoreMagicka
+  skill: None
+  attribute: None
+  range: OnSelf
+  area: 0
+  duration: 15
+  min_magnitude: 20
+  max_magnitude: 20
+data:
+  weight: 1.0
+  value: 661
+  flags: AUTO_CALCULATE

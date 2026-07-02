@@ -1,0 +1,23 @@
+type: Clothing
+flags: ''
+id: Helseth's Robe
+name: Frostguard Robe
+script: ''
+mesh: c\C_M_Helseth_Robe_GND.NIF
+icon: c\Tx_robe_Helseth.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: C_M_Helseth_Robe
+  female_bodypart: ''
+- biped_object_type: LeftAnkle
+  male_bodypart: ''
+  female_bodypart: ''
+- biped_object_type: RightAnkle
+  male_bodypart: ''
+  female_bodypart: ''
+data:
+  clothing_type: Robe
+  weight: 3.0
+  value: 78
+  enchantment: 10

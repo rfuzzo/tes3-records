@@ -1,0 +1,23 @@
+type: Clothing
+flags: PERSISTENT
+id: robe_lich_unique_x
+name: Robe of the Lich
+script: MuseumRobeLich
+mesh: c\C_M_Robe_Liche_GND.NIF
+icon: c\Tx_C_Liche_Robe.dds
+enchanting: robe_lich_en
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: C_M_Robe_Liche
+  female_bodypart: ''
+- biped_object_type: LeftAnkle
+  male_bodypart: ''
+  female_bodypart: ''
+- biped_object_type: RightAnkle
+  male_bodypart: ''
+  female_bodypart: ''
+data:
+  clothing_type: Robe
+  weight: 8.0
+  value: 22000
+  enchantment: 100

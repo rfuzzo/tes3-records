@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: act_flora_treedead_MH_02
+name: ''
+script: treedeadScript
+mesh: f\flora_treedead_MH_02.NIF

@@ -1,0 +1,28 @@
+type: Armor
+flags: ''
+id: Indoril_MH_Guard_boots
+name: Her Hand's Boots
+script: ''
+mesh: a\A_AlmIndoril_Boot_GND.NIF
+icon: a\Tx_AlmIndoril_boots.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: LeftFoot
+  male_bodypart: A_AlmIndoril_boots
+  female_bodypart: ''
+- biped_object_type: RightFoot
+  male_bodypart: A_AlmIndoril_boots
+  female_bodypart: ''
+- biped_object_type: LeftAnkle
+  male_bodypart: ''
+  female_bodypart: ''
+- biped_object_type: RightAnkle
+  male_bodypart: ''
+  female_bodypart: ''
+data:
+  armor_type: Boots
+  weight: 60.0
+  value: 15000
+  health: 700
+  enchantment: 200
+  armor_rating: 70

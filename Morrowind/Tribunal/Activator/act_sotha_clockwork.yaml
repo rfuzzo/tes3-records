@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: act_sotha_clockwork
+name: ''
+script: Sound_SothaGears
+mesh: i\act_sotha_clockwork.NIF

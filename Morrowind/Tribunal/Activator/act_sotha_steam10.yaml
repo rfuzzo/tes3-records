@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: act_sotha_steam10
+name: ''
+script: sothasteam2Script
+mesh: i\act_sotha_steam00.NIF

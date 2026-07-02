@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: Ingred_nirthfly_stalks_01
+name: Nirthfly Stalks
+script: ''
+mesh: n\Ingred_nirthfly_stalks_01.NIF
+icon: n\Tx_nirthfly_stalks_01.dds
+data:
+  weight: 1.0
+  value: 1
+  effects:
+  - DamageHealth
+  - FortifyAttribute
+  - RestoreAttribute
+  - DrainAttribute
+  skills:
+  - None
+  - Block
+  - Block
+  - Block
+  attributes:
+  - None
+  - Speed
+  - Speed
+  - Speed

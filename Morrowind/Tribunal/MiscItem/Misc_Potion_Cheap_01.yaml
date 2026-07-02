@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: Misc_Potion_Cheap_01
+name: ''
+script: ''
+mesh: m\Misc_Potion_Cheap_01.nif
+icon: ''
+data:
+  weight: 0.0
+  value: 0
+  flags: ''

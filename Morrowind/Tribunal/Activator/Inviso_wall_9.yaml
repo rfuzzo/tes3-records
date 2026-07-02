@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: Inviso_wall_9
+name: ''
+script: ''
+mesh: EditorMarker_box_01.NIF

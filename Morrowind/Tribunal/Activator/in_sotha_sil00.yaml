@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: in_sotha_sil00
+name: Sotha Sil
+script: Sotha_SothaSil
+mesh: i\in_sotha_sil00.NIF

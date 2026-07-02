@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: ebony shortsword_soscean
+name: Soscean's Shortsword
+script: ''
+mesh: w\W_Shortsword_Ebony.nif
+icon: w\Tx_Shortsword_Ebony.tga
+enchanting: sword_soscean_en
+data:
+  weight: 16.0
+  value: 11000
+  weapon_type: ShortBladeOneHand
+  health: 1200
+  speed: 2.0
+  reach: 1.0
+  enchantment: 100
+  chop_min: 10
+  chop_max: 20
+  slash_min: 10
+  slash_max: 22
+  thrust_min: 15
+  thrust_max: 25
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

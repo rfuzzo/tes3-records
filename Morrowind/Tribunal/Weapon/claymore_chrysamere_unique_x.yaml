@@ -1,0 +1,23 @@
+type: Weapon
+flags: PERSISTENT
+id: claymore_chrysamere_unique_x
+name: Chrysamere
+script: MuseumChrysamere
+mesh: w\W_art_claymore_chrys.NIF
+icon: w\W_claymore_chrys.tga
+enchanting: chrysamere_en
+data:
+  weight: 60.0
+  value: 95000
+  weapon_type: LongBladeTwoClose
+  health: 6000
+  speed: 1.25
+  reach: 1.0
+  enchantment: 500
+  chop_min: 5
+  chop_max: 70
+  slash_min: 5
+  slash_max: 60
+  thrust_min: 5
+  thrust_max: 40
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

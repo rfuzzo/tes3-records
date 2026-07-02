@@ -1,0 +1,23 @@
+type: Weapon
+flags: PERSISTENT
+id: mace of molag bal_unique_x
+name: Mace of Molag Bal
+script: MuseumMaceMolagBal
+mesh: w\W_Art_MolagBal_Mace.NIF
+icon: w\tx_Art_MolagBal_mace.tga
+enchanting: mace of molag bal_en
+data:
+  weight: 45.0
+  value: 25000
+  weapon_type: BluntOneHand
+  health: 4000
+  speed: 1.3
+  reach: 1.0
+  enchantment: 150
+  chop_min: 3
+  chop_max: 30
+  slash_min: 3
+  slash_max: 35
+  thrust_min: 1
+  thrust_max: 4
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

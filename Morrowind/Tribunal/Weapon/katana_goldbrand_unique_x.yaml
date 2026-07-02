@@ -1,0 +1,23 @@
+type: Weapon
+flags: PERSISTENT
+id: katana_goldbrand_unique_x
+name: Goldbrand
+script: MuseumGoldbrand
+mesh: w\W_art_katana_goldbrand.NIF
+icon: w\W_katana_goldbrand.tga
+enchanting: goldbrand
+data:
+  weight: 40.0
+  value: 150000
+  weapon_type: LongBladeOneHand
+  health: 4500
+  speed: 1.5
+  reach: 1.0
+  enchantment: 700
+  chop_min: 10
+  chop_max: 50
+  slash_min: 10
+  slash_max: 45
+  thrust_min: 10
+  thrust_max: 25
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

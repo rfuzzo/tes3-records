@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: furn_dwrv_beltdrive
+name: ''
+script: Sound_Machinery
+mesh: f\furn_dwrv_beltdrive00.nif

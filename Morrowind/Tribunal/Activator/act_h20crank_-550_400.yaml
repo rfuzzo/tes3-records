@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: act_h20crank_-550_400
+name: Crank
+script: changeWater_-550_400
+mesh: f\Act_m_sewer_crank_01.nif

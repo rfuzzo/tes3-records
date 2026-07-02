@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: act_plague_rock2
+name: ''
+script: PlagueRock2
+mesh: i\in_mold_rock_07.nif

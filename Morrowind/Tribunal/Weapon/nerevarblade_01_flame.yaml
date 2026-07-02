@@ -1,0 +1,23 @@
+type: Weapon
+flags: PERSISTENT
+id: nerevarblade_01_flame
+name: Trueflame
+script: bladeScript
+mesh: w\W_NerevarBlade_flame.NIF
+icon: w\W_Nerevar_Blade_Fire.dds
+enchanting: nerevar_blade
+data:
+  weight: 20.0
+  value: 150000
+  weapon_type: LongBladeOneHand
+  health: 2000
+  speed: 1.0
+  reach: 1.0
+  enchantment: 100
+  chop_min: 20
+  chop_max: 75
+  slash_min: 45
+  slash_max: 60
+  thrust_min: 4
+  thrust_max: 40
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

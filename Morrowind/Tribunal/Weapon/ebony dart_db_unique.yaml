@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: ebony dart_db_unique
+name: A Carved Ebony Dart
+script: ''
+mesh: w\W_Dart_ebony.NIF
+icon: w\tx_dart_ebony.tga
+enchanting: ''
+data:
+  weight: 0.4
+  value: 2000
+  weapon_type: MarksmanThrown
+  health: 60
+  speed: 1.0
+  reach: 1.0
+  enchantment: 30
+  chop_min: 2
+  chop_max: 10
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

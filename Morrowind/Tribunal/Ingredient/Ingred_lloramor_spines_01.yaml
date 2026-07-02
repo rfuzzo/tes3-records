@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: Ingred_lloramor_spines_01
+name: Lloramor Spines
+script: ''
+mesh: n\Ingred_lloramor_spines_01.NIF
+icon: n\Tx_lloramor_spines_01.dds
+data:
+  weight: 1.0
+  value: 1
+  effects:
+  - SpellAbsorption
+  - Invisibility
+  - Poison
+  - DetectEnchantment
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

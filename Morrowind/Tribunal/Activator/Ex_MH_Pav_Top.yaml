@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: Ex_MH_Pav_Top
+name: ''
+script: fab_attack_disable
+mesh: x\Ex_MH_Pav_Top.NIF

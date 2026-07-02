@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: writ_Hloggar
+name: Royal Writ of Execution
+script: ''
+mesh: m\Text_paper_roll_01.nif
+icon: m\Tx_paper_roll_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nHloggar the Bloody<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR><BR>\r\nThe afore-mentioned personage has been marked for honorable execution in the name of King Hlaalu Helseth. The Bearer of this non-disputable document has official sanctioned license to kill the afore-mentioned personage.<BR>\r\n<BR>"
+data:
+  weight: 0.2
+  value: 1
+  book_type: Scroll
+  skill: None
+  enchantment: 0

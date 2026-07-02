@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: act_dwe_cavein00
+name: Collapsed Rocks
+script: cavein_script
+mesh: i\act_dwe_cavein00.NIF

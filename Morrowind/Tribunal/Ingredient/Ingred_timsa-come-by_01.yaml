@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: Ingred_timsa-come-by_01
+name: Timsa-Come-By flowers
+script: ''
+mesh: n\Ingred_timsa-come-by_01.NIF
+icon: n\Tx_timsa-come-by_01.dds
+data:
+  weight: 1.0
+  value: 1
+  effects:
+  - Dispel
+  - ResistParalysis
+  - DrainMagicka
+  - RestoreAttribute
+  skills:
+  - None
+  - None
+  - None
+  - Block
+  attributes:
+  - None
+  - None
+  - None
+  - Endurance

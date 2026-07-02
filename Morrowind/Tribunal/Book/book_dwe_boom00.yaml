@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: book_dwe_boom00
+name: Old Dwemer Book
+script: ''
+mesh: m\Text_Octavo_open_02.NIF
+icon: m\Tx_octavo_open_02.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This book appears to be written in an unknown Dwemer language. From the schematics, it appears to be a manual on combustibles and fire safety.]<BR>\r\n\r\n"
+data:
+  weight: 3.0
+  value: 100
+  book_type: Book
+  skill: None
+  enchantment: 0

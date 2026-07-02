@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: furn_dwrv_dynamo
+name: ''
+script: Sound_Machinery
+mesh: f\furn_dwrv_dynamo00.nif

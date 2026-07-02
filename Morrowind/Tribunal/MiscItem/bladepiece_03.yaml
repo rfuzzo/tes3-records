@@ -1,0 +1,11 @@
+type: MiscItem
+flags: PERSISTENT | BLOCKED
+id: bladepiece_03
+name: Broken Dwemer Blade Piece
+script: ''
+mesh: w\W_NerevarBladeRight.NIF
+icon: w\Tx_W_NerevarBladeRight.dds
+data:
+  weight: 1.0
+  value: 250
+  flags: ''

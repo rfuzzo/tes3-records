@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: silver dagger_othril_unique
+name: Othril Dagger
+script: ''
+mesh: w\W_silver_dagger.nif
+icon: w\Tx_silver_dagger.tga
+enchanting: ''
+data:
+  weight: 2.2
+  value: 500
+  weapon_type: ShortBladeOneHand
+  health: 500
+  speed: 2.5
+  reach: 1.0
+  enchantment: 20
+  chop_min: 4
+  chop_max: 7
+  slash_min: 4
+  slash_max: 7
+  thrust_min: 5
+  thrust_max: 8
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

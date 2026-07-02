@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: Bipolar Blade
+name: BiPolar Blade
+script: ''
+mesh: w\W_Art_Bipolar_Blade.NIF
+icon: w\tx_bipolar_blade.tga
+enchanting: bipolar blade_en
+data:
+  weight: 42.0
+  value: 40000
+  weapon_type: LongBladeTwoClose
+  health: 4300
+  speed: 1.25
+  reach: 1.0
+  enchantment: 45
+  chop_min: 5
+  chop_max: 61
+  slash_min: 1
+  slash_max: 50
+  thrust_min: 1
+  thrust_max: 35
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

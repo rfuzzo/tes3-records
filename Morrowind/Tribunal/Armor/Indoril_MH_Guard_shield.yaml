@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: Indoril_MH_Guard_shield
+name: Her Hand's Shield
+script: ''
+mesh: a\Shield_AmIndoril.NIF
+icon: a\Tx_Shield_AlmIndoril.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Shield
+  male_bodypart: shield_indoril_almalexia
+  female_bodypart: ''
+data:
+  armor_type: Shield
+  weight: 17.0
+  value: 2500
+  health: 350
+  enchantment: 500
+  armor_rating: 55

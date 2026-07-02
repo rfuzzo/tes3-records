@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: Furn_shrine_Veloth_cure_01
+name: Shrine of St. Veloth
+script: shrineVeloth
+mesh: f\Furn_shrine_veloth_01.NIF

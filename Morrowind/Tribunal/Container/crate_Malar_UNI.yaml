@@ -1,0 +1,27 @@
+type: Container
+flags: ''
+id: crate_Malar_UNI
+name: Malar's Stuff
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - black dart
+- - 1
+  - steel dart
+- - 1
+  - adamantium boots
+- - 2
+  - ingred_diamond_01
+- - 1
+  - ingred_emerald_01
+- - 3
+  - ingred_ruby_01
+- - 15
+  - random gold
+- - 25
+  - Gold_001
+- - 1
+  - Misc_SoulGem_Greater

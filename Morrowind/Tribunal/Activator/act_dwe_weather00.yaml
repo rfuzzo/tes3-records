@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: act_dwe_weather00
+name: ''
+script: tr_weathmachine
+mesh: i\act_dwe_weather00.NIF

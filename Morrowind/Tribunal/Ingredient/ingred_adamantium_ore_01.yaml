@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: ingred_adamantium_ore_01
+name: Adamantium Ore
+script: ''
+mesh: n\Ingred_raw_adam.NIF
+icon: n\tx_adamantium.dds
+data:
+  weight: 50.0
+  value: 300
+  effects:
+  - Burden
+  - RestoreMagicka
+  - Poison
+  - Reflect
+  skills:
+  - None
+  - None
+  - None
+  - None
+  attributes:
+  - None
+  - None
+  - None
+  - None

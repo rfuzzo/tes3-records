@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: Sound_MournEnv1
+name: Sound_MournEnv1
+script: Sound_MournEnv
+mesh: EditorMarker.NIF

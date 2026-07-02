@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: furn_dwrv_fitting40
+name: ''
+script: Sound_Steam
+mesh: f\furn_dwrv_fitting40.nif

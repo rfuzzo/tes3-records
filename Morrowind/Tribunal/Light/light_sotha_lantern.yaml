@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: light_sotha_lantern
+name: ''
+script: ''
+mesh: l\Light_De_Lantern_08.NIF
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 320
+  color:
+  - 0
+  - 147
+  - 255
+  - 0
+  flags: DYNAMIC | FLICKER_SLOW

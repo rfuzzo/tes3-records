@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: Gravedigger
+name: Gravedigger
+script: ''
+mesh: w\W_Dai-katana_daedric.nif
+icon: w\Tx_dai-katana_daedric.tga
+enchanting: Flensing
+data:
+  weight: 60.0
+  value: 120000
+  weapon_type: LongBladeTwoClose
+  health: 7200
+  speed: 1.35
+  reach: 1.0
+  enchantment: 210
+  chop_min: 1
+  chop_max: 70
+  slash_min: 1
+  slash_max: 62
+  thrust_min: 1
+  thrust_max: 40
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

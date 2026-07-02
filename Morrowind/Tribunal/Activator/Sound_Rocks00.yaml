@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: Sound_Rocks00
+name: Sound_Rocks
+script: Sound_Rock_Crumble
+mesh: EditorMarker.NIF

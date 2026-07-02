@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: imperial cuirass_armor
+name: Imperial Steel Cuirass
+script: LegionUniform
+mesh: a\A_Imperial_M_Cuirass_GND.nif
+icon: a\Tx_Imperial_curaiss.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: imperial cuirass
+  female_bodypart: A_Imperial_C_Female
+data:
+  armor_type: Cuirass
+  weight: 29.0
+  value: 150
+  health: 460
+  enchantment: 200
+  armor_rating: 16

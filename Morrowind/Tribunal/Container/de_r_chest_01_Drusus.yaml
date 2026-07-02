@@ -1,0 +1,15 @@
+type: Container
+flags: BLOCKED
+id: de_r_chest_01_Drusus
+name: Drusus Gratus' Chest
+script: ''
+mesh: o\Contain_De_Chest_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 4
+  - potion_comberry_wine_01
+- - 2
+  - potion_cyro_brandy_01
+- - 4
+  - Potion_Local_Brew_01

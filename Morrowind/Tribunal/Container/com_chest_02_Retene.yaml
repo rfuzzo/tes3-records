@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: com_chest_02_Retene
+name: Chest
+script: ''
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 3
+  - random_book_skill
+- - -5
+  - random_book_dunmer
+- - -5
+  - random_book_imperial_dunmer
+- - -5
+  - random_book_imperial_hlaalu
+- - -3
+  - random_book_wizard_all

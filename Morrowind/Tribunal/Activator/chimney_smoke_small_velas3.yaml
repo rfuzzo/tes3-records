@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: chimney_smoke_small_velas3
+name: ''
+script: ''
+mesh: chimney_smoke_small.NIF

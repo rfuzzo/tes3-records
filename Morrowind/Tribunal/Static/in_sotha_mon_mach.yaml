@@ -1,0 +1,4 @@
+type: Static
+flags: PERSISTENT
+id: in_sotha_mon_mach
+mesh: i\in_sotha_mon_mach.NIF

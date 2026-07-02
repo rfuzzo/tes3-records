@@ -1,0 +1,4 @@
+type: Static
+flags: PERSISTENT
+id: ex_gg_fence_01_bbot
+mesh: x\Ex_GG_fence_01.NIF

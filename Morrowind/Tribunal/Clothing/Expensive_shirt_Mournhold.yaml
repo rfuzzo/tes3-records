@@ -1,0 +1,35 @@
+type: Clothing
+flags: ''
+id: Expensive_shirt_Mournhold
+name: Expensive Shirt
+script: ''
+mesh: c\C_M_Shirt_Mournhold_GND.NIF
+icon: c\Tx_Mournhold_cuirass.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: C_M_Shirt_Mournhold_Chest
+  female_bodypart: ''
+- biped_object_type: LeftUpperArm
+  male_bodypart: C_M_Shirt_Mournhold_UA
+  female_bodypart: ''
+- biped_object_type: RightUpperArm
+  male_bodypart: C_M_Shirt_Mournhold_UA
+  female_bodypart: ''
+- biped_object_type: LeftForearm
+  male_bodypart: C_M_Shirt_Mournhold_F
+  female_bodypart: ''
+- biped_object_type: RightForearm
+  male_bodypart: C_M_Shirt_Mournhold_F
+  female_bodypart: ''
+- biped_object_type: LeftWrist
+  male_bodypart: C_M_Shirt_Mournhold_W
+  female_bodypart: ''
+- biped_object_type: RightWrist
+  male_bodypart: C_M_Shirt_Mournhold_W
+  female_bodypart: ''
+data:
+  clothing_type: Shirt
+  weight: 1.0
+  value: 1
+  enchantment: 100

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: act_sotha_lever11a
+name: Rusted lever
+script: SothaLever11
+mesh: i\act_sotha_lever.NIF

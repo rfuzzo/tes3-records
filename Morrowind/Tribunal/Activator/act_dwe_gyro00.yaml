@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: act_dwe_gyro00
+name: ''
+script: Sound_Power_Thrum
+mesh: i\act_dwe_gyro00.NIF

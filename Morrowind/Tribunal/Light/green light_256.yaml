@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: green light_256
+name: ''
+script: ''
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 1
+  time: -1
+  radius: 256
+  color:
+  - 2
+  - 136
+  - 99
+  - 0
+  flags: ''

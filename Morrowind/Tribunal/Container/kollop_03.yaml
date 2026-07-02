@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: kollop_03
+name: Small Kollop
+script: ''
+mesh: f\furn_shell20.nif
+encumbrance: 0.0
+container_flags: ORGANIC | IS_BASE
+inventory: []

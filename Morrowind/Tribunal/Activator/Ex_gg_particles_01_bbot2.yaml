@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: Ex_gg_particles_01_bbot2
+name: ''
+script: gateSound
+mesh: x\Ex_gg_particles_01.NIF

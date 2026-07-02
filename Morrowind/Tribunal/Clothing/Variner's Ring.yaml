@@ -1,0 +1,14 @@
+type: Clothing
+flags: ''
+id: Variner's Ring
+name: Variner's Ring
+script: ''
+mesh: c\C_Ring_expensive_2.nif
+icon: c\tx_ring_expensive02.tga
+enchanting: love_en
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 1.0
+  value: 100
+  enchantment: 100

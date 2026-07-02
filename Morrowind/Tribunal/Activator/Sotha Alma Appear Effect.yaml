@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: Sotha Alma Appear Effect
+name: ''
+script: ''
+mesh: Amalexia_summon.NIF

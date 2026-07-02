@@ -1,0 +1,15 @@
+type: Book
+flags: PERSISTENT
+id: bk_ahnia
+name: Note to Ahnia
+script: AhniaNote
+mesh: m\Text_Note_01.nif
+icon: m\Tx_note_01.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nAhnia,<BR>\r\nI've tried so hard, and yet no one has any interest in this blasted book. Perhaps if anyone could READ it, it might sell as well as the scrolls do. If I can't get rid of it soon, I'm returning it to you. I don't want to hold on to it for too much longer, or else people might suspect something.<BR>\r\n<BR>\r\n\r\n"
+data:
+  weight: 0.2
+  value: 0
+  book_type: Scroll
+  skill: None
+  enchantment: 0

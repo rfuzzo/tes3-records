@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: a_light_dw_neon
+name: ''
+script: TelVosTeleport1
+mesh: l\light_dwrv_neon00.nif

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: iron mace
+name: Iron Mace
+script: ''
+mesh: w\w_mace_iron.nif
+icon: w\tx_mace_iron.tga
+enchanting: ''
+data:
+  weight: 15.0
+  value: 24
+  weapon_type: BluntOneHand
+  health: 1200
+  speed: 1.3
+  reach: 1.0
+  enchantment: 50
+  chop_min: 1
+  chop_max: 12
+  slash_min: 1
+  slash_max: 12
+  thrust_min: 1
+  thrust_max: 2
+  flags: ''

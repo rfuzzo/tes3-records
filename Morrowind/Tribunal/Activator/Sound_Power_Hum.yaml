@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: Sound_Power_Hum
+name: Sound_Power_Hum
+script: Sound_Power_Thrum
+mesh: EditorMarker.NIF

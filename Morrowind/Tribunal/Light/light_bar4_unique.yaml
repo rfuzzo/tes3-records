@@ -1,0 +1,19 @@
+type: Light
+flags: PERSISTENT
+id: light_bar4_unique
+name: ''
+script: ''
+mesh: l\Light_Com_Chandelier_05.NIF
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 512
+  color:
+  - 251
+  - 248
+  - 191
+  - 0
+  flags: DYNAMIC | FIRE | FLICKER_SLOW

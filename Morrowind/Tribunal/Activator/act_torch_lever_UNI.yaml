@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: act_torch_lever_UNI
+name: Torch Lever
+script: torch_lever
+mesh: i\act_torch_lever.nif

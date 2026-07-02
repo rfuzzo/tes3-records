@@ -1,0 +1,23 @@
+type: Weapon
+flags: PERSISTENT
+id: Mace of Slurring_x
+name: Mace of Slurring
+script: MuseumMaceSlurring
+mesh: w\W_Art_MaceofSlurring.NIF
+icon: w\tx_maceofslurring.tga
+enchanting: mace_slurring_en
+data:
+  weight: 23.0
+  value: 20000
+  weapon_type: BluntOneHand
+  health: 3500
+  speed: 1.5
+  reach: 1.0
+  enchantment: 300
+  chop_min: 8
+  chop_max: 28
+  slash_min: 8
+  slash_max: 28
+  thrust_min: 1
+  thrust_max: 6
+  flags: ''

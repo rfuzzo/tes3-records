@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: Key_Gatekeeper
+name: Gatekeeper's Key
+script: ''
+mesh: m\Key_Standard_01.nif
+icon: m\Tx_key_standard_01.tga
+data:
+  weight: 1.0
+  value: 1
+  flags: KEY

@@ -1,0 +1,14 @@
+type: Clothing
+flags: PERSISTENT
+id: ring_phynaster_unique_x
+name: Ring of Phynaster
+script: MuseumRingPhynaster
+mesh: c\C_art_Ring_phynaster.NIF
+icon: c\C_ring_phynaster.tga
+enchanting: phynaster's barrier
+biped_objects: []
+data:
+  clothing_type: Ring
+  weight: 0.1
+  value: 18000
+  enchantment: 100

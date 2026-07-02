@@ -1,0 +1,19 @@
+type: Armor
+flags: PERSISTENT
+id: dwemer_shield_battle_unique
+name: Dwemer Battle Shield
+script: ''
+mesh: a\A_dwemer_shield_battle.NIF
+icon: a\A_Nerevar_B_Shield.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Shield
+  male_bodypart: A_dwemer_shield_battle
+  female_bodypart: ''
+data:
+  armor_type: Shield
+  weight: 15.0
+  value: 510
+  health: 400
+  enchantment: 500
+  armor_rating: 20

@@ -1,0 +1,17 @@
+type: Clothing
+flags: ''
+id: expensive_skirt_Mournhold
+name: Expensive Skirt
+script: ''
+mesh: c\C_Skirt_Mournhold_GND.NIF
+icon: c\Tx_Mournhold_Skirt.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Groin
+  male_bodypart: C_Skirt_Mournhold
+  female_bodypart: ''
+data:
+  clothing_type: Skirt
+  weight: 2.0
+  value: 15
+  enchantment: 75

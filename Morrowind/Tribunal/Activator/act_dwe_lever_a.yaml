@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: act_dwe_lever_a
+name: Dwemer Lever
+script: tr_weathlev1
+mesh: i\act_dwe_lever00.NIF

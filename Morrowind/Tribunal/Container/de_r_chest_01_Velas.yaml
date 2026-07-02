@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: de_r_chest_01_Velas
+name: Chest
+script: ''
+mesh: o\Contain_De_Chest_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 2
+  - random_expensive_de_fclothes_02
+- - 5
+  - p_restore_health_e
+- - 5
+  - p_restore_magicka_e
+- - 5
+  - p_fortify_intelligence_e
+- - 5
+  - p_fortify_luck_e

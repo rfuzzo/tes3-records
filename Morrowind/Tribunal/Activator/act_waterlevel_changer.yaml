@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: act_waterlevel_changer
+name: ''
+script: fluctuateWaterLevel
+mesh: EditorMarker.NIF

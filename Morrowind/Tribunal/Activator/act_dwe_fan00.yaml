@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: act_dwe_fan00
+name: ''
+script: Sound_Dwemer_Fan
+mesh: i\act_dwe_fan00.NIF

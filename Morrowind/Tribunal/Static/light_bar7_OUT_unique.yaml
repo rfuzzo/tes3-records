@@ -1,0 +1,4 @@
+type: Static
+flags: PERSISTENT
+id: light_bar7_OUT_unique
+mesh: l\Light_lamp_burnedout.NIF

@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: dreugh_shield
+name: Dreugh Shield
+script: ''
+mesh: a\Shield_dreugh.NIF
+icon: a\tx_shield_dreugh.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: Shield
+  male_bodypart: shield_dreugh
+  female_bodypart: ''
+data:
+  armor_type: Shield
+  weight: 13.5
+  value: 2550
+  health: 800
+  enchantment: 450
+  armor_rating: 40

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: EditorMarker_box_02
+name: ''
+script: ExitBlockMessage
+mesh: x\EditorMarker_box_02.NIF

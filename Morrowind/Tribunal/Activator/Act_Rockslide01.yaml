@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: Act_Rockslide01
+name: ''
+script: rockslide
+mesh: i\Act_rockslide01.NIF

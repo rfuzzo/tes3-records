@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: Ingred_meadow_rye_01
+name: Meadow Rye
+script: ''
+mesh: n\Ingred_meadow_rye_01.NIF
+icon: n\Tx_meadow_rye_01.dds
+data:
+  weight: 1.0
+  value: 1
+  effects:
+  - FortifyAttribute
+  - DamageHealth
+  - RestoreAttribute
+  - DrainAttribute
+  skills:
+  - Block
+  - None
+  - Block
+  - Block
+  attributes:
+  - Speed
+  - None
+  - Speed
+  - Speed

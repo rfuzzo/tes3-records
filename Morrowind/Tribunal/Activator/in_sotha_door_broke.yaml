@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: in_sotha_door_broke
+name: Bashed Door
+script: ''
+mesh: i\in_sotha_door_broke.NIF

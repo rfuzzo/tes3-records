@@ -1,0 +1,15 @@
+type: Container
+flags: ''
+id: chest_small_02_silverwa
+name: Small Chest
+script: ''
+mesh: o\Contain_chest_small_02.NIF
+encumbrance: 25.0
+container_flags: IS_BASE
+inventory:
+- - 6
+  - misc_com_silverware_fork
+- - 6
+  - misc_com_silverware_knife
+- - 6
+  - misc_com_silverware_spoon

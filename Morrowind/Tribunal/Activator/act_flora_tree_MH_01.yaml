@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: act_flora_tree_MH_01
+name: ''
+script: treeliveScript
+mesh: f\flora_tree_MH_01.NIF

@@ -1,0 +1,25 @@
+type: Armor
+flags: ''
+id: imperial_chain_greaves
+name: Imperial Chain Greaves
+script: ''
+mesh: a\A_M_ImperialChain_Gr_GND.nif
+icon: a\Tx_ImperialChain_Greaves.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: Groin
+  male_bodypart: a_m_imperialchain_gr_g
+  female_bodypart: ''
+- biped_object_type: LeftUpperLeg
+  male_bodypart: a_m_imperialchain_gr_ul
+  female_bodypart: ''
+- biped_object_type: RightUpperLeg
+  male_bodypart: a_m_imperialchain_gr_ul
+  female_bodypart: ''
+data:
+  armor_type: Greaves
+  weight: 10.0
+  value: 50
+  health: 200
+  enchantment: 70
+  armor_rating: 20

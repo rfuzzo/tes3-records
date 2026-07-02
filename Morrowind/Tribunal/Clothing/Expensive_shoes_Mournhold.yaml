@@ -1,0 +1,20 @@
+type: Clothing
+flags: ''
+id: Expensive_shoes_Mournhold
+name: Expensive Shoes
+script: ''
+mesh: c\C_shoes_Mournhold_GND.NIF
+icon: c\Tx_Mournhold_Shoes.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: LeftFoot
+  male_bodypart: C_shoes_Mournhold
+  female_bodypart: ''
+- biped_object_type: RightFoot
+  male_bodypart: C_shoes_Mournhold
+  female_bodypart: ''
+data:
+  clothing_type: Shoes
+  weight: 3.0
+  value: 10
+  enchantment: 50

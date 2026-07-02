@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: stendar_hammer_unique
+name: Stendarr's Hammer
+script: ''
+mesh: w\W_StendarsHammer.NIF
+icon: w\tx_w_StendarsHammer.dds
+enchanting: stendarr_hammer_en
+data:
+  weight: 1000.0
+  value: 130000
+  weapon_type: BluntTwoClose
+  health: 100
+  speed: 1.0
+  reach: 1.0
+  enchantment: 100
+  chop_min: 20
+  chop_max: 100
+  slash_min: 10
+  slash_max: 80
+  thrust_min: 8
+  thrust_max: 10
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

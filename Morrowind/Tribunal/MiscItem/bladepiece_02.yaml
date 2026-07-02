@@ -1,0 +1,11 @@
+type: MiscItem
+flags: PERSISTENT
+id: bladepiece_02
+name: Broken Dwemer Blade Piece
+script: ''
+mesh: w\W_NerevarBladeLeft.NIF
+icon: w\Tx_W_NerevarBladeLeft.dds
+data:
+  weight: 1.0
+  value: 250
+  flags: ''

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: Misc_Com_Redware_Cup
+name: Cup
+script: ''
+mesh: m\Misc_Redware_Cup.NIF
+icon: m\Misc_Redware_Cup.tga
+data:
+  weight: 2.0
+  value: 5
+  flags: ''

@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: addamantium_helm
+name: Adamantium Helm
+script: ''
+mesh: A\A_adamantium_helm.nif
+icon: A\TX_adamantium_helm.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Hair
+  male_bodypart: A_adamantium_helm
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 4.0
+  value: 5000
+  health: 900
+  enchantment: 500
+  armor_rating: 70

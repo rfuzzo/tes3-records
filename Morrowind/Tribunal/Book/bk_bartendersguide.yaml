@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: bk_bartendersguide
+name: Hanin's Wake
+script: ''
+mesh: m\Text_Quarto_03.nif
+icon: m\Tx_quarto_03.tga
+enchanting: ''
+text: "<DIV ALIGN=\"LEFT\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n...and upon that year of the Reign of Wulfharth and his Son's, the Magnificence that was Mordrin Hanin ended in this world. Representative of Ashalmawia, Maelkashishi and Ald Sotha gathered in a great host at the vastness of Assurnabitashpi. Even Hilbongard and Dorach Gusal were lured from their Forge, and for a time the Fires of Anudnabia were silent.<BR>\r\n<BR>\r\nAnd thus on the Ninth Day of Mourning, many slaves and enemies were sacrificed and the Cup of Passage was mixed according to the direction of Hanin's Formulae:<BR>\r\n<BR>\r\n  2 Parts Blood of Traitors<BR>\r\n  1 Part Heart of Daedra<BR>\r\n  1 Part mixed Bittergreen Petals, Void Salts, Green Lichens and Bonemeal<BR>\r\n  1 Part Moonsugar<BR>\r\n  5 Parts Flin<BR>\r\n<BR>\r\nCombine Blood, Heart, Moonsugar in Large Ebony Alembic. Heat fire fed by Bones of Traitors. Condense vapors into a large Ebony flask. For a hot drink, strain contents through Scamp Skin and mix with Flin in large mug, slowly stirring with a glass rod. For a chilled drink, mix in flask with pure Skyrim Ice and shake vigorously. Strain through Winged Twilight membrane and served in gem encrusted goblet.<BR>\r\n<BR>\r\nThe wake was considered a great success as the beverage killed a great many guests and thus Mordrin Hanin was supplied with companions in the next world.<BR>\r\n<BR>\r\n"
+data:
+  weight: 6.0
+  value: 10
+  book_type: Book
+  skill: None
+  enchantment: 0

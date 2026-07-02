@@ -1,0 +1,23 @@
+type: Weapon
+flags: PERSISTENT
+id: dagger_fang_unique_x
+name: Fang of Haynekhtnamet
+script: MuseumDaggerFang
+mesh: w\W_art_dagger_fang.NIF
+icon: w\W_dagger_fang.tga
+enchanting: haynekhtnamet's wrath
+data:
+  weight: 5.0
+  value: 32000
+  weapon_type: ShortBladeOneHand
+  health: 5500
+  speed: 2.5
+  reach: 1.0
+  enchantment: 450
+  chop_min: 11
+  chop_max: 20
+  slash_min: 11
+  slash_max: 20
+  thrust_min: 13
+  thrust_max: 30
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

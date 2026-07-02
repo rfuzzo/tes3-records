@@ -1,0 +1,23 @@
+type: Weapon
+flags: PERSISTENT
+id: glass dagger_symmachus_unique_x
+name: Dagger of Symmachus
+script: MuseumDagSym
+mesh: w\W_dagger_glass.nif
+icon: w\tx_dagger_glass.tga
+enchanting: dagger_symmachus_en
+data:
+  weight: 1.4
+  value: 9000
+  weapon_type: ShortBladeOneHand
+  health: 3000
+  speed: 2.7
+  reach: 1.0
+  enchantment: 120
+  chop_min: 12
+  chop_max: 17
+  slash_min: 13
+  slash_max: 16
+  thrust_min: 13
+  thrust_max: 13
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

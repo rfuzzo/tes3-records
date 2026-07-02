@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: act_plague_starter
+name: ''
+script: PlagueWarning
+mesh: EditorMarker.NIF

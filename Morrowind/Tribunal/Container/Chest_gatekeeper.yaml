@@ -1,0 +1,17 @@
+type: Container
+flags: ''
+id: Chest_gatekeeper
+name: Gatekeeper's Chest
+script: ''
+mesh: o\Contain_chest_small_01.nif
+encumbrance: 0.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - p_night-eye_c
+- - 1
+  - potion_skooma_01
+- - 1
+  - Key_Gatekeeper
+- - 25
+  - Gold_001

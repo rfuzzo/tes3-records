@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: trapProjectile
+name: ''
+script: trapProjScript
+mesh: w\magic_target_dst.NIF

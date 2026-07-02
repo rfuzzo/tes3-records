@@ -1,0 +1,23 @@
+type: Weapon
+flags: PERSISTENT
+id: bladepiece_01
+name: Odd Dwemer Weapon
+script: ''
+mesh: w\W_NerevarBladeMiddle.NIF
+icon: w\Tx_W_NerevarBladeMiddle.dds
+enchanting: ''
+data:
+  weight: 35.0
+  value: 600
+  weapon_type: LongBladeOneHand
+  health: 100
+  speed: 1.25
+  reach: 1.0
+  enchantment: 100
+  chop_min: 12
+  chop_max: 12
+  slash_min: 15
+  slash_max: 15
+  thrust_min: 15
+  thrust_max: 15
+  flags: ''

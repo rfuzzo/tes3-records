@@ -1,0 +1,4 @@
+type: Static
+flags: PERSISTENT
+id: Active_MH_Forcefield_01
+mesh: f\Active_MH_Forcefield.NIF

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: Script_PlayScript
+name: Script_PlayScript
+script: playScript
+mesh: EditorMarker.NIF

@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: book_dwe_power_con00
+name: Old Dwemer Book
+script: ''
+mesh: m\Text_Quarto_03.NIF
+icon: m\Tx_quarto_03.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\n[This book appears to be written in an unknown Dwemer language. From the schematics, it appears to be a manual on machina power consumption.]<BR>\r\n\r\n"
+data:
+  weight: 3.0
+  value: 150
+  book_type: Book
+  skill: None
+  enchantment: 0

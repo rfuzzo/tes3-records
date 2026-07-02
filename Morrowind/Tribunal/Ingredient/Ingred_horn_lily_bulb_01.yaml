@@ -1,0 +1,25 @@
+type: Ingredient
+flags: ''
+id: Ingred_horn_lily_bulb_01
+name: Horn Lily Bulb
+script: ''
+mesh: n\Ingred_horn_lily_bulb_01.NIF
+icon: n\Tx_horn_lily_bulb_01.dds
+data:
+  weight: 1.0
+  value: 1
+  effects:
+  - ResistParalysis
+  - DrainHealth
+  - RestoreAttribute
+  - RestoreAttribute
+  skills:
+  - None
+  - None
+  - Block
+  - Block
+  attributes:
+  - None
+  - None
+  - Strength
+  - Endurance

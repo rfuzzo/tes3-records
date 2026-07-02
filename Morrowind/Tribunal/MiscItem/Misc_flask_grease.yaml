@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: Misc_flask_grease
+name: Jar of grease
+script: ''
+mesh: m\Misc_Potion_Cheap_01.nif
+icon: m\Tx_potion_cheap_01.tga
+data:
+  weight: 2.0
+  value: 15
+  flags: ''

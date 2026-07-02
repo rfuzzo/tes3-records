@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: Ex_MH_Pav_BStatue_02
+name: ''
+script: fab_attack_enable
+mesh: x\Ex_MH_Pav_BStatue_02.NIF

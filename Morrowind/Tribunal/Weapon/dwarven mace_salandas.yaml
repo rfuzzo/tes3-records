@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: dwarven mace_salandas
+name: Suldreni's Mace
+script: ''
+mesh: w\W_Dwemer_mace.nif
+icon: w\Tx_Dwemer_mace.tga
+enchanting: mace_salandas_en
+data:
+  weight: 15.0
+  value: 360
+  weapon_type: BluntOneHand
+  health: 3000
+  speed: 1.5
+  reach: 1.0
+  enchantment: 50
+  chop_min: 6
+  chop_max: 19
+  slash_min: 6
+  slash_max: 19
+  thrust_min: 1
+  thrust_max: 2
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

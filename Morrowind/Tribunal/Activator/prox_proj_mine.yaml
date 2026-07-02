@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: prox_proj_mine
+name: Proximity Projectile Mine
+script: projectileMine
+mesh: m\misc_dwrv_artifact00.nif

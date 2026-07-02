@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: indoril helmet
+name: Indoril Helmet
+script: OrdinatorUniform
+mesh: a\A_Indoril_M_Helmet.nif
+icon: a\Tx_Indoril_helmet.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: Head
+  male_bodypart: indoril hlelmet
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 4.5
+  value: 3000
+  health: 450
+  enchantment: 225
+  armor_rating: 45

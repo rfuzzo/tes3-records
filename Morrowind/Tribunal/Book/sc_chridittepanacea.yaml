@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: sc_chridittepanacea
+name: Scroll of Chriditte's Panacea
+script: ''
+mesh: m\text_scroll_01.nif
+icon: m\tx_scroll_open_01.tga
+enchanting: sc_chridittespanacea_en
+text: <DIV ALIGN="center"><FONT COLOR="000000" SIZE="2" FACE="Daedric">THE  SOUL OF ANOTHER IS PAINED. INVOKE AND RELEASE HIM FROM ANGUISH AND SUFFERING</FONT><BR>
+data:
+  weight: 0.2
+  value: 161
+  book_type: Scroll
+  skill: None
+  enchantment: 0

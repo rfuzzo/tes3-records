@@ -1,0 +1,23 @@
+type: Container
+flags: ''
+id: crate_Andren_UNI
+name: Andren's - Keep Out!
+script: ''
+mesh: o\Contain_crate_01.NIF
+encumbrance: 200.0
+container_flags: IS_BASE
+inventory:
+- - 1
+  - black dart
+- - 1
+  - steel dart
+- - 15
+  - random gold
+- - 1
+  - misc_de_drum_01
+- - 1
+  - misc_de_tankard_01
+- - 2
+  - misc_skull00
+- - 3
+  - misc_skull10

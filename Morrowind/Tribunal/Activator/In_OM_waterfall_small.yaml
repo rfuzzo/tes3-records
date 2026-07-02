@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: In_OM_waterfall_small
+name: ''
+script: Sound_Water_Spout
+mesh: i\In_OM_waterfall_small.NIF

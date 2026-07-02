@@ -1,0 +1,11 @@
+type: Container
+flags: ''
+id: Flora_plant_01
+name: Horn Lily
+script: ''
+mesh: o\flora_plant_01.NIF
+encumbrance: 0.0
+container_flags: ORGANIC | IS_BASE
+inventory:
+- - 2
+  - random_bulbs

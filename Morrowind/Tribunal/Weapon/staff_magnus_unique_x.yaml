@@ -1,0 +1,23 @@
+type: Weapon
+flags: PERSISTENT
+id: staff_magnus_unique_x
+name: Staff of Magnus
+script: MuseumStaffMagnus
+mesh: w\W_art_staff_magnus.NIF
+icon: w\W_staff_magnus.tga
+enchanting: Wrath of Magnus
+data:
+  weight: 10.0
+  value: 210000
+  weapon_type: BluntTwoWide
+  health: 4000
+  speed: 1.75
+  reach: 1.8
+  enchantment: 400
+  chop_min: 5
+  chop_max: 15
+  slash_min: 1
+  slash_max: 10
+  thrust_min: 5
+  thrust_max: 15
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: Ebony Scimitar
+name: Ebony Scimitar
+script: ''
+mesh: w\W_Ebony_Scimitar.NIF
+icon: w\tx_ebony_scimitar.tga
+enchanting: ''
+data:
+  weight: 40.0
+  value: 15000
+  weapon_type: LongBladeOneHand
+  health: 3000
+  speed: 1.35
+  reach: 1.0
+  enchantment: 800
+  chop_min: 2
+  chop_max: 27
+  slash_min: 1
+  slash_max: 43
+  thrust_min: 3
+  thrust_max: 34
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE

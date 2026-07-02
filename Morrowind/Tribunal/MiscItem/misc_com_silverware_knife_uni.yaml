@@ -1,0 +1,11 @@
+type: MiscItem
+flags: PERSISTENT
+id: misc_com_silverware_knife_uni
+name: Knife
+script: ''
+mesh: m\Misc_Com_Silverware_Knife.NIF
+icon: m\Misc_Com_Silverware_Knife.tga
+data:
+  weight: 1.0
+  value: 6
+  flags: ''

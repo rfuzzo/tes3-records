@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: act_sotha_powertubes
+name: ''
+script: ''
+mesh: i\act_sotha_powertubes.NIF

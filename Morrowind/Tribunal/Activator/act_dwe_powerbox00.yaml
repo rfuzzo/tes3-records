@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: act_dwe_powerbox00
+name: Dwemer Junction Box
+script: powerboxScript
+mesh: i\act_dwe_powerbox00.NIF

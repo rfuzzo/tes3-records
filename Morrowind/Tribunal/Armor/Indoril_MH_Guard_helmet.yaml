@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: Indoril_MH_Guard_helmet
+name: Her Hand's Helmet
+script: OrdinatorUniform
+mesh: a\A_AlmIndoril_Helmet.NIF
+icon: a\Tx_AlmIndoril_helmet.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: Head
+  male_bodypart: A_AlmIndoril_Helmet
+  female_bodypart: ''
+data:
+  armor_type: Helmet
+  weight: 15.0
+  value: 12000
+  health: 700
+  enchantment: 650
+  armor_rating: 75

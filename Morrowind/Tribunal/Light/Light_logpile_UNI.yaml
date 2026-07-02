@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: Light_logpile_UNI
+name: ''
+script: waterstate_torchdisable
+mesh: l\Light_logpile.NIF
+icon: ''
+sound: Fire 40
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 128
+  color:
+  - 223
+  - 137
+  - 100
+  - 0
+  flags: FIRE | FLICKER_SLOW

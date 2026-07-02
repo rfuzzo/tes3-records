@@ -1,0 +1,22 @@
+type: Armor
+flags: ''
+id: fur_pauldron_left
+name: Nordic Fur Left Pauldron
+script: ''
+mesh: a\A_NordicFur_Pauldron_GND.nif
+icon: a\Tx_NordicFur_pauldron.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: LeftUpperArm
+  male_bodypart: a_nordicfur_pauldron_ua
+  female_bodypart: ''
+- biped_object_type: LeftPauldron
+  male_bodypart: a_nordicfur_pauldron_cl
+  female_bodypart: ''
+data:
+  armor_type: LeftPauldron
+  weight: 3.0
+  value: 12
+  health: 50
+  enchantment: 10
+  armor_rating: 5

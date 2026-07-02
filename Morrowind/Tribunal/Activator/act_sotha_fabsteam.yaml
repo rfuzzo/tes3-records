@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: act_sotha_fabsteam
+name: ''
+script: ''
+mesh: i\act_sotha_fabsteam.NIF

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: Sound_Temple
+name: Sound_Temple
+script: Sound_MournTempleAm
+mesh: EditorMarker.NIF
