@@ -18,7 +18,13 @@ the full data of every record.
     `source`) that the browser loads once (~400 KB gzipped),
   - `site/data/shards/<Source>__<Type>.json` — the full records, lazy-loaded
     only when you open a record's detail view,
-  - `site/data/meta.json` — sources, record types and counts.
+  - `site/data/meta.json` — sources, record types and counts,
+  - `site/data/icons/**.png` — DDS/TGA files from `icons/` converted for
+    browsers. Records whose `icon` field resolves to a file in `icons/`
+    (matched case-insensitively, ignoring the `.tga`/`.dds` extension) show
+    the icon in the detail panel. Drop more icons into `icons/` — mirroring
+    the game's `Icons\` folder layout — and they are picked up on the next
+    build.
 - `site/` — a dependency-free HTML/JS/CSS single-page app. All searching and
   filtering happens client-side, so it works on GitHub Pages without any
   server.

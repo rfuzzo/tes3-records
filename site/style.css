@@ -138,6 +138,15 @@ tr.selected mark { color: #fff; }
 }
 #detail-close:hover { color: var(--text); }
 
+.rec-head { display: flex; gap: 0.8rem; align-items: center; }
+.rec-icon {
+  flex-shrink: 0;
+  image-rendering: pixelated;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 4px;
+}
 .detail-pane h2 { margin: 0 0 0.1rem; font-size: 1.15rem; color: var(--accent); overflow-wrap: anywhere; }
 .detail-pane .rec-id { color: var(--text-dim); font-size: 0.82rem; overflow-wrap: anywhere; }
 .detail-pane .rec-links { margin: 0.55rem 0 0.8rem; font-size: 0.82rem; }

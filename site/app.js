@@ -240,12 +240,17 @@ function renderRecord(rec, source, type) {
   const ghUrl = `https://github.com/${state.meta.repo}/blob/main/` +
     rec._file.split("/").map(encodeURIComponent).join("/");
 
-  let html = `<h2>${escapeHtml(rec.name || rec.id)}</h2>` +
+  const icon = rec._icon
+    ? `<img class="rec-icon" src="data/${rec._icon.split("/").map(encodeURIComponent).join("/")}" alt="" width="64" height="64">`
+    : "";
+  let html = `<div class="rec-head">${icon}<div>` +
+    `<h2>${escapeHtml(rec.name || rec.id)}</h2>` +
     `<div class="rec-id">${escapeHtml(rec.id)} · ${escapeHtml(type)} · ${escapeHtml(source)}</div>` +
+    `</div></div>` +
     `<div class="rec-links"><a href="${ghUrl}" target="_blank" rel="noopener">View YAML on GitHub ↗</a></div>` +
     `<table class="kv"><tbody>`;
 
-  const skip = new Set(["id", "name", "type", "_file", "text", "data"]);
+  const skip = new Set(["id", "name", "type", "_file", "_icon", "text", "data"]);
   for (const [k, v] of Object.entries(rec)) {
     if (skip.has(k) || v === "" || v === null) continue;
     html += kvRow(k, v);

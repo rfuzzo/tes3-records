@@ -6,6 +6,12 @@ Walks every ``<Source>/<RecordType>/*.yaml`` file in the repository and writes:
   site/data/meta.json                  sources, record types and counts
   site/data/index.json                 compact search index [id, name, type, source]
   site/data/shards/<Source>__<Type>.json   full records keyed by id (lazy-loaded)
+  site/data/icons/<path>.png           icons/ DDS/TGA files converted for browsers
+
+Records whose ``icon`` field resolves to a file under ``icons/`` get an
+``_icon`` key with the browser path. Game icon paths are case-insensitive and
+often name ``.tga`` while the shipped file is ``.dds``, so matching is done on
+the lowercased path without extension.
 
 Usage: python3 scripts/build_site_data.py [--root REPO_ROOT] [--out SITE_DIR]
 """
@@ -23,6 +29,11 @@ try:
 except ImportError:  # pure-python fallback
     from yaml import SafeLoader
 
+try:
+    from PIL import Image
+except ImportError:
+    Image = None
+
 # Top-level folders that contain record dumps. Morrowind nests the two
 # expansions, which we surface as sources of their own.
 SOURCE_DIRS = {
@@ -36,6 +47,44 @@ SOURCE_DIRS = {
 
 # Folders inside a source dir that are sources themselves, not record types.
 NESTED_SOURCES = {"Tribunal", "Bloodmoon"}
+
+
+def icon_key(icon_field: str) -> str:
+    """Normalize a record icon path ('pc\\n\\Foo.TGA') to a lookup key."""
+    key = icon_field.replace("\\", "/").strip().strip("/").lower()
+    return key.rsplit(".", 1)[0] if "." in key.rsplit("/", 1)[-1] else key
+
+
+def convert_icons(root: Path, out_dir: Path):
+    """Convert icons/**.dds|tga to PNG; return {key: browser path}."""
+    icons_dir = root / "icons"
+    converted = {}
+    if not icons_dir.is_dir():
+        return converted
+    if Image is None:
+        print("warning: Pillow not installed, skipping icon conversion",
+              file=sys.stderr)
+        return converted
+
+    # .dds files win over same-named .tga; sorted() puts them first.
+    sources = sorted(p for p in icons_dir.rglob("*")
+                     if p.suffix.lower() in (".dds", ".tga"))
+    failures = 0
+    for src in sources:
+        key = src.relative_to(icons_dir).with_suffix("").as_posix().lower()
+        if key in converted:
+            continue
+        dest = out_dir / f"{key}.png"
+        try:
+            if not dest.exists() or dest.stat().st_mtime < src.stat().st_mtime:
+                with Image.open(src) as im:
+                    dest.parent.mkdir(parents=True, exist_ok=True)
+                    im.convert("RGBA").save(dest, "PNG", optimize=True)
+            converted[key] = f"icons/{key}.png"
+        except Exception:
+            failures += 1
+    print(f"icons: converted {len(converted)} ({failures} unreadable)")
+    return converted
 
 
 def load_record(path: Path):
@@ -63,6 +112,8 @@ def main() -> int:
     shard_dir = data_dir / "shards"
     shard_dir.mkdir(parents=True, exist_ok=True)
 
+    icons = convert_icons(root, data_dir / "icons")
+
     index = []           # [id, name, type, source]
     shards = {}          # shard key -> {id: record}
     counts = {}          # source -> count
@@ -89,6 +140,11 @@ def main() -> int:
                 rid = str(record.get("id") or yaml_file.stem)
                 name = str(record.get("name") or "")
                 record["_file"] = yaml_file.relative_to(root).as_posix()
+                icon = record.get("icon")
+                if icon and isinstance(icon, str):
+                    path = icons.get(icon_key(icon))
+                    if path:
+                        record["_icon"] = path
                 shard[rid] = record
                 index.append([rid, name, rtype, source])
                 counts[source] = counts.get(source, 0) + 1
