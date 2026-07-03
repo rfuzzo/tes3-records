@@ -1,2 +1,45 @@
 # tes3-records
-record dump for morrowind
+
+Record dump for Morrowind, Tribunal, Bloodmoon, [Tamriel_Data](https://www.nexusmods.com/morrowind/mods/44537),
+[TR_Mainland](https://www.nexusmods.com/morrowind/mods/42145) and
+[OAAB_Data](https://www.nexusmods.com/morrowind/mods/49042), one YAML file per
+record, organized as `<Source>/<RecordType>/<id>.yaml`.
+
+## Search website
+
+The repository ships a static search site (GitHub Pages) that lets you search
+all ~55,000 records by name or id, filter by source and record type, and view
+the full data of every record.
+
+### How it works
+
+- `scripts/build_site_data.py` walks all YAML records and generates:
+  - `site/data/index.json` — a compact search index (`id`, `name`, `type`,
+    `source`) that the browser loads once (~400 KB gzipped),
+  - `site/data/shards/<Source>__<Type>.json` — the full records, lazy-loaded
+    only when you open a record's detail view,
+  - `site/data/meta.json` — sources, record types and counts.
+- `site/` — a dependency-free HTML/JS/CSS single-page app. All searching and
+  filtering happens client-side, so it works on GitHub Pages without any
+  server.
+- `.github/workflows/pages.yml` — rebuilds the database and deploys the site
+  to GitHub Pages on every push to `main`. Generated data is never committed.
+
+### Enabling GitHub Pages (one-time setup)
+
+In the repository settings, go to **Settings → Pages** and set
+**Source** to **GitHub Actions**. The next push to `main` (or a manual run of
+the *Deploy search site to GitHub Pages* workflow) publishes the site at
+`https://rfuzzo.github.io/tes3-records/`.
+
+### Running locally
+
+```sh
+pip install pyyaml
+python3 scripts/build_site_data.py   # writes site/data/ (~30 s)
+cd site && python3 -m http.server    # open http://localhost:8000
+```
+
+## Regenerating the CSV dumps
+
+`_generate_csv.ps1` writes per-source/per-type `id,name` CSVs into `_out/`.

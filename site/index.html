@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>TES3 Records — Morrowind record search</title>
+  <meta name="description" content="Search the game records of Morrowind, Tribunal, Bloodmoon, Tamriel_Data, TR_Mainland and OAAB_Data.">
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%93%9C%3C/text%3E%3C/svg%3E">
+</head>
+<body>
+  <header>
+    <h1>📜 TES3 Records</h1>
+    <p class="subtitle">
+      Search the records of <strong>Morrowind</strong>, <strong>Tribunal</strong>, <strong>Bloodmoon</strong>,
+      <strong>Tamriel_Data</strong>, <strong>TR_Mainland</strong> and <strong>OAAB_Data</strong>
+      &middot; <a href="https://github.com/rfuzzo/tes3-records" target="_blank" rel="noopener">GitHub</a>
+    </p>
+  </header>
+
+  <main>
+    <section class="controls">
+      <input id="search" type="search" placeholder="Search by name or id… (e.g. glass throwing star)"
+             autocomplete="off" autofocus>
+      <div class="filter-row">
+        <div class="filter-group" id="source-filters" aria-label="Filter by source"></div>
+      </div>
+      <div class="filter-row">
+        <div class="filter-group" id="type-filters" aria-label="Filter by record type"></div>
+      </div>
+      <div id="status" role="status">Loading index…</div>
+    </section>
+
+    <section class="content">
+      <div class="results-pane">
+        <table id="results">
+          <thead>
+            <tr>
+              <th data-sort="name">Name</th>
+              <th data-sort="id">ID</th>
+              <th data-sort="type">Type</th>
+              <th data-sort="source">Source</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+        <button id="show-more" hidden>Show more</button>
+      </div>
+
+      <aside class="detail-pane" id="detail" hidden>
+        <button id="detail-close" title="Close" aria-label="Close detail panel">×</button>
+        <div id="detail-body"></div>
+      </aside>
+    </section>
+  </main>
+
+  <footer>
+    <span id="meta-info"></span>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
