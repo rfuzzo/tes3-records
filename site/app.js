@@ -89,8 +89,16 @@ function syncChips() {
 
 /* ---------- search ---------- */
 
+/* "wood" matches name or id; "name:wood" / "id:wood" restrict the field. */
+function parseTerms(query) {
+  return query.toLowerCase().split(/\s+/).filter(Boolean).map((t) => {
+    const m = /^(name|id):(.*)$/.exec(t);
+    return m && m[2] ? { field: m[1], text: m[2] } : { field: null, text: t };
+  }).filter((t) => t.text);
+}
+
 function runSearch() {
-  const terms = state.query.toLowerCase().split(/\s+/).filter(Boolean);
+  const terms = parseTerms(state.query);
   const bySource = state.sources.size > 0;
   const byType = state.types.size > 0;
   const scored = [];
@@ -124,15 +132,17 @@ function runSearch() {
     `${state.records.length.toLocaleString()} records match`;
 }
 
-/* All terms must match name or id; higher score = better placement. */
+/* All terms must match; higher score = better placement. */
 function scoreRecord(lname, lid, terms) {
   let total = 0;
-  for (const t of terms) {
+  for (const { field, text: t } of terms) {
     let s = -1;
-    const ni = lname.indexOf(t);
-    if (ni === 0) s = lname.length === t.length ? 100 : 80;
-    else if (ni > 0) s = lname[ni - 1] === " " ? 60 : 40;
-    if (s < 0) {
+    if (field !== "id") {
+      const ni = lname.indexOf(t);
+      if (ni === 0) s = lname.length === t.length ? 100 : 80;
+      else if (ni > 0) s = lname[ni - 1] === " " ? 60 : 40;
+    }
+    if (s < 0 && field !== "name") {
       const ii = lid.indexOf(t);
       if (ii === 0) s = lid.length === t.length ? 90 : 70;
       else if (ii > 0) s = 30;
@@ -147,7 +157,7 @@ function scoreRecord(lname, lid, terms) {
 
 function renderMore() {
   const frag = document.createDocumentFragment();
-  const terms = state.query.toLowerCase().split(/\s+/).filter(Boolean);
+  const terms = parseTerms(state.query).map((t) => t.text);
   const end = Math.min(state.shown + PAGE_SIZE, state.results.length);
   for (let i = state.shown; i < end; i++) {
     const [id, name, type, source] = state.results[i];
