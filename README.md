@@ -53,12 +53,17 @@ cd site && python3 -m http.server    # open http://localhost:8000
 ### Tagging items
 
 `scripts/tag_records.py` fills the `tags` column of the Armor / Ingredient /
-MiscItem / Weapon CSVs with descriptive Morrowind tags derived from each
-record's name (e.g. *Chitin War Axe* → `Weapon, Axe, War Axe, Chitin`;
-*Coda Flower* → `Ingredient, Plant, Flower`). It encodes weapon/armor types,
-materials, cultures, and an ingredient category taxonomy (Plant / Creature /
-Mineral / Food / Spice / Dye). The rules are keyword-based, so extend the
-dictionaries at the top of the script to refine tags.
+MiscItem / Weapon CSVs with descriptive Morrowind tags (e.g.
+*Chitin War Axe* → `Weapon, Axe, One-Handed, War Axe, Chitin`;
+*Coda Flower* → `Ingredient, Plant, Flower`).
+
+Weapon and armor type tags are read from the authoritative YAML records —
+`data.weapon_type` for weapons, and `data.armor_type` plus the engine's
+weight-class formula (weight vs a per-slot base weight) for the armor
+Light/Medium/Heavy class, so e.g. *Ebony Mail* is correctly `Medium`. Materials,
+cultures, the specific weapon type, ingredient categories (Plant / Creature /
+Mineral / Food / Spice / Dye) and misc categories are keyword-derived from the
+name — extend the dictionaries at the top of the script to refine those.
 
 ```sh
 python3 scripts/tag_records.py           # tag all target CSVs

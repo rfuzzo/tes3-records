@@ -2,11 +2,13 @@
 """Fill the ``tags`` column of the Armor / Ingredient / MiscItem / Weapon CSVs
 in ``_out/`` with descriptive tags, in a Morrowind context.
 
-Tags are derived from each record's name (and, for Tamriel_Data ingredients,
-the id prefix taxonomy T_IngFlor/Food/Crea/Mine/Spice/Dye). The rules encode
-Morrowind item vocabulary: weapon and armor names carry their type + material,
-so those tag richly; ingredients get a category (Plant/Creature/Mineral/Food/
-Spice/Dye) plus a subtype; misc items get a functional category.
+For weapons and armor the authoritative type comes from the YAML record:
+``data.weapon_type`` for weapons, and ``data.armor_type`` plus the engine's
+weight-class formula (weight vs a per-slot base) for the armor Light/Medium/
+Heavy class. Materials/cultures, the specific weapon type (e.g. "War Axe"),
+ingredient categories and misc categories are derived from the record name;
+Tamriel_Data ingredients also use their id prefix taxonomy (T_IngFlor/Food/
+Crea/Mine/Spice/Dye).
 
 Because ``_generate_csv.ps1`` rewrites these CSVs with an empty tags column,
 re-run this script after regenerating to repopulate the tags.
@@ -20,7 +22,63 @@ import re
 import sys
 from pathlib import Path
 
+import yaml
+try:
+    from yaml import CSafeLoader as SafeLoader
+except ImportError:  # pure-python fallback
+    from yaml import SafeLoader
+
 TARGET_TYPES = ("Armor", "Ingredient", "MiscItem", "Weapon")
+
+# --- authoritative weapon/armor fields from the YAML records -----------------
+# Morrowind's weapon_type enum -> (broad class, hand/ammo tag).
+WEAPON_TYPE_MAP = {
+    "ShortBladeOneHand": ("Short Blade", "One-Handed"),
+    "LongBladeOneHand": ("Long Blade", "One-Handed"),
+    "LongBladeTwoClose": ("Long Blade", "Two-Handed"),
+    "BluntOneHand": ("Blunt", "One-Handed"),
+    "BluntTwoClose": ("Blunt", "Two-Handed"),
+    "BluntTwoWide": ("Blunt", "Two-Handed"),
+    "AxeOneHand": ("Axe", "One-Handed"),
+    "AxeTwoHand": ("Axe", "Two-Handed"),
+    "SpearTwoWide": ("Spear", "Two-Handed"),
+    "MarksmanBow": ("Marksman", "Bow"),
+    "MarksmanCrossbow": ("Marksman", "Crossbow"),
+    "MarksmanThrown": ("Marksman", "Thrown"),
+    "Arrow": ("Ammunition", "Arrow"),
+    "Bolt": ("Ammunition", "Bolt"),
+}
+
+# armor_type enum -> (slot tag, side tag or None).
+ARMOR_SLOT_MAP = {
+    "Helmet": ("Helmet", None), "Cuirass": ("Cuirass", None),
+    "Greaves": ("Greaves", None), "Boots": ("Boots", None),
+    "Shield": ("Shield", None),
+    "LeftPauldron": ("Pauldron", "Left"), "RightPauldron": ("Pauldron", "Right"),
+    "LeftGauntlet": ("Gauntlet", "Left"), "RightGauntlet": ("Gauntlet", "Right"),
+    "LeftBracer": ("Bracer", "Left"), "RightBracer": ("Bracer", "Right"),
+}
+
+# Weight-class formula (Morrowind engine): an armor piece is Light if its weight
+# is <= base*0.6, Medium if <= base*0.9, else Heavy; base is a per-slot GMST.
+# Bracers share the gauntlet base. (Verified against the vanilla records.)
+ARMOR_BASE_WEIGHT = {
+    "Helmet": 5, "Cuirass": 30, "LeftPauldron": 10, "RightPauldron": 10,
+    "Greaves": 15, "Boots": 20, "LeftGauntlet": 5, "RightGauntlet": 5,
+    "LeftBracer": 5, "RightBracer": 5, "Shield": 15,
+}
+F_LIGHT_MAX, F_MED_MAX = 0.6, 0.9
+
+
+def armor_weight_class(slot, weight):
+    base = ARMOR_BASE_WEIGHT.get(slot)
+    if base is None or weight is None:
+        return None
+    if weight <= base * F_LIGHT_MAX:
+        return "Light"
+    if weight <= base * F_MED_MAX:
+        return "Medium"
+    return "Heavy"
 
 
 def word(kw: str) -> re.Pattern:
@@ -62,17 +120,6 @@ DESCRIPTORS = compile_pairs([
     ("argonian", "Argonian"), ("khajiit", "Khajiit"),
     ("redguard", "Redguard"), ("breton", "Breton"),
 ])
-
-# Materials that map to a Morrowind armor skill class (conservative — only the
-# ones whose class is unambiguous in the base game).
-ARMOR_CLASS = {
-    "Iron": "Heavy", "Steel": "Heavy", "Silver": "Heavy", "Dwemer": "Heavy",
-    "Ebony": "Heavy", "Daedric": "Heavy", "Indoril": "Heavy",
-    "Bonemold": "Medium", "Orcish": "Medium", "Nordic": "Medium",
-    "Adamantium": "Medium", "Dreugh": "Medium", "Chainmail": "Medium",
-    "Netch Leather": "Light", "Chitin": "Light", "Glass": "Light",
-    "Fur": "Light", "Leather": "Light",
-}
 
 # --- weapons: (keyword, specific type, broad class) --------------------------
 WEAPON_RAW = [
@@ -328,9 +375,14 @@ def dedup(tags):
     return out
 
 
-def tag_weapon(rid, name):
+def tag_weapon(rid, name, record):
     lc = name.lower()
     tags = ["Weapon"]
+    # Authoritative type from the record; fall back to the name if absent.
+    wtype = (record.get("data") or {}).get("weapon_type") if record else None
+    if wtype in WEAPON_TYPE_MAP:
+        broad, hand = WEAPON_TYPE_MAP[wtype]
+        tags += [broad, hand]
     hit = find_first(lc, WEAPON_TYPES) or find_first(lc, WEAPON_LOOSE)
     if hit:
         tags += [hit[2], hit[1]]  # broad class, specific type
@@ -340,27 +392,30 @@ def tag_weapon(rid, name):
     return dedup(tags)
 
 
-def tag_armor(rid, name):
+def tag_armor(rid, name, record):
     lc = name.lower()
     tags = ["Armor"]
-    mats = descriptors_for(lc)
-    cls = next((ARMOR_CLASS[m] for m in mats if m in ARMOR_CLASS), None)
+    data = (record.get("data") or {}) if record else {}
+    slot = data.get("armor_type")
+    cls = armor_weight_class(slot, data.get("weight"))
     if cls:
         tags.append(cls)
-    hit = find_first(lc, ARMOR_SLOTS)
-    if hit:
-        tags.append(hit[1])
-    if word("left").search(lc) or word("l").search(lc):
-        tags.append("Left")
-    elif word("right").search(lc) or word("r").search(lc):
-        tags.append("Right")
-    tags += mats
+    if slot in ARMOR_SLOT_MAP:
+        slot_tag, side = ARMOR_SLOT_MAP[slot]
+        tags.append(slot_tag)
+        if side:
+            tags.append(side)
+    else:  # no record slot — fall back to the name
+        hit = find_first(lc, ARMOR_SLOTS)
+        if hit:
+            tags.append(hit[1])
+    tags += descriptors_for(lc)
     if UNIQUE_RE.search(rid):
         tags.append("Unique")
     return dedup(tags)
 
 
-def tag_ingredient(rid, name):
+def tag_ingredient(rid, name, record=None):
     lc = name.lower()
     tags = ["Ingredient"]
     category = None
@@ -385,7 +440,7 @@ def tag_ingredient(rid, name):
     return dedup(tags)
 
 
-def tag_misc(rid, name):
+def tag_misc(rid, name, record=None):
     lc = name.lower()
     tags = ["MiscItem"]
     if lc.strip() == "gold":
@@ -404,19 +459,35 @@ TAGGERS = {
 }
 
 
-def process(path: Path, rtype: str, check: bool) -> int:
+def load_record(root: Path, source: str, rtype: str, rid: str):
+    """Load a record's YAML (weapons/armor need the authoritative fields)."""
+    path = root / source / rtype / f"{rid}.yaml"
+    if not path.is_file():
+        return None
+    try:
+        with path.open(encoding="utf-8") as fh:
+            data = yaml.load(fh, Loader=SafeLoader)
+        return data if isinstance(data, dict) else None
+    except yaml.YAMLError:
+        return None
+
+
+def process(path: Path, root: Path, rtype: str, check: bool) -> int:
     with path.open(encoding="utf-8-sig", newline="") as fh:
         rows = list(csv.reader(fh))
     if not rows:
         return 0
     header, body = rows[0], rows[1:]
     tagger = TAGGERS[rtype]
+    source = path.stem[: -(len(rtype) + 1)]  # "Morrowind_Weapon" -> "Morrowind"
+    needs_record = rtype in ("Weapon", "Armor")
     changed = 0
     for row in body:
         if len(row) < 3:
             row += [""] * (3 - len(row))
         rid, name = row[0], row[1]
-        tags = ", ".join(tagger(rid, name))
+        record = load_record(root, source, rtype, rid) if needs_record else None
+        tags = ", ".join(tagger(rid, name, record))
         if row[2] != tags:
             changed += 1
         row[2] = tags
@@ -443,7 +514,7 @@ def main() -> int:
                       if path.stem.endswith("_" + t)), None)
         if rtype is None:
             continue
-        n = process(path, rtype, args.check)
+        n = process(path, args.root, rtype, args.check)
         total += n
         print(f"{path.name:32} {rtype:10} {n:5d} rows tagged")
     verb = "would change" if args.check else "tagged"
