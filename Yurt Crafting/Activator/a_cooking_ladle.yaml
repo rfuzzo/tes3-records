@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: a_cooking_ladle
+name: ''
+script: a_yurt_fire_cooking_scr
+mesh: M\misc_com_iron_ladle.nif

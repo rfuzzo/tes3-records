@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: a_fire_cooking
+name: Cookfire
+script: a_yurt_fire_cooking_act_scr
+mesh: f\furn_de_firepit.nif

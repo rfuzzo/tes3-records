@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: a_yurt_ext_01_n
+name: Yurt
+script: a_yurt_world_scr_n
+mesh: ian\ian_yurt_ext_night.nif

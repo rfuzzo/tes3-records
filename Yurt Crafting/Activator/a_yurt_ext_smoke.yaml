@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: a_yurt_ext_smoke
+name: ''
+script: a_yurt_ext_smoke_scr
+mesh: chimney_smoke_small.NIF

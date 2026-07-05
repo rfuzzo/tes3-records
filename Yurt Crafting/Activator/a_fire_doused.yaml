@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: a_fire_doused
+name: Fire Pit
+script: a_yurt_fire_doused_scr
+mesh: f\furn_de_firepit.nif

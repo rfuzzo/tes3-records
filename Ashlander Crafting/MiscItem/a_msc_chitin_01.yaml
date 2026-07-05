@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: a_msc_chitin_01
+name: Chitin Fragment
+script: ''
+mesh: ian\ian_chitin_01.nif
+icon: ian\tx_ian_chitin_01.dds
+data:
+  weight: 0.5
+  value: 100
+  flags: ''

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: a_wp_chitin_star_02
+name: Ashlander Scout Throwing Star
+script: ''
+mesh: w\W_Chitin_star.NIF
+icon: w\tx_chitin_star.tga
+enchanting: ''
+data:
+  weight: 0.1
+  value: 10
+  weapon_type: MarksmanThrown
+  health: 50
+  speed: 1.25
+  reach: 1.0
+  enchantment: 10
+  chop_min: 3
+  chop_max: 4
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: SILVER

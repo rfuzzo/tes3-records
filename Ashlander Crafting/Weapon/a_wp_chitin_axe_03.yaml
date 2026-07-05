@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: a_wp_chitin_axe_03
+name: Mabrigash War Axe
+script: ''
+mesh: w\W_Chitin_Axe.nif
+icon: w\Tx_chitin_warAxe.tga
+enchanting: ''
+data:
+  weight: 8.0
+  value: 80
+  weapon_type: AxeOneHand
+  health: 840
+  speed: 1.5
+  reach: 1.0
+  enchantment: 500
+  chop_min: 1
+  chop_max: 30
+  slash_min: 1
+  slash_max: 14
+  thrust_min: 1
+  thrust_max: 4
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE | SILVER

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: a_yurt_weather_sound
+name: ''
+script: ''
+mesh: EditorMarker.NIF

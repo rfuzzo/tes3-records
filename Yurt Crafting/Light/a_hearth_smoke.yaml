@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: a_hearth_smoke
+name: ''
+script: a_yurt_ext_smoke_scr
+mesh: l\Light_Fire.NIF
+icon: ''
+sound: Fire 50
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 100
+  color:
+  - 255
+  - 140
+  - 40
+  - 0
+  flags: DYNAMIC | FIRE | FLICKER_SLOW

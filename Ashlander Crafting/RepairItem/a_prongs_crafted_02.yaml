@@ -1,0 +1,12 @@
+type: RepairItem
+flags: ''
+id: a_prongs_crafted_02
+name: Journeyman Repair Prongs
+script: ''
+mesh: m\misc_prongs00.nif
+icon: m\misc_prongs00.tga
+data:
+  weight: 2.0
+  value: 15
+  uses: 35
+  quality: 0.5

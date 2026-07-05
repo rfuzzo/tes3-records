@@ -1,0 +1,12 @@
+type: RepairItem
+flags: ''
+id: a_prongs_crafted_03
+name: Master Repair Prongs
+script: ''
+mesh: m\misc_prongs00.nif
+icon: m\misc_prongs00.tga
+data:
+  weight: 1.5
+  value: 30
+  uses: 45
+  quality: 0.5

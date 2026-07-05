@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: a_wp_chitin_sword_03
+name: Erabenimsun Shortsword
+script: ''
+mesh: w\W_Shortsword_chitin.nif
+icon: w\Tx_chitin_shortsword.tga
+enchanting: ''
+data:
+  weight: 3.0
+  value: 300
+  weapon_type: ShortBladeOneHand
+  health: 740
+  speed: 2.25
+  reach: 1.0
+  enchantment: 100
+  chop_min: 5
+  chop_max: 12
+  slash_min: 6
+  slash_max: 15
+  thrust_min: 6
+  thrust_max: 10
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE | SILVER

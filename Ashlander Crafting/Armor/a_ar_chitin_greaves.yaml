@@ -1,0 +1,25 @@
+type: Armor
+flags: ''
+id: a_ar_chitin_greaves
+name: Dark Chitin Greaves
+script: ''
+mesh: ian\ian_chitin_leg_01_g.nif
+icon: ian\tx_ian_chitin_legs_01.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Groin
+  male_bodypart: a_bp_chitin_g_greaves
+  female_bodypart: ''
+- biped_object_type: LeftUpperLeg
+  male_bodypart: a_bp_chitin_ul_greaves
+  female_bodypart: ''
+- biped_object_type: RightUpperLeg
+  male_bodypart: a_bp_chitin_ul_greaves
+  female_bodypart: ''
+data:
+  armor_type: Greaves
+  weight: 6.0
+  value: 900
+  health: 200
+  enchantment: 1800
+  armor_rating: 25

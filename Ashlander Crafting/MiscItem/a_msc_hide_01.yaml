@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: a_msc_hide_01
+name: Cured Hide
+script: ''
+mesh: ian\ian_hide_01.nif
+icon: n\tx_alit_hide_01.dds
+data:
+  weight: 1.0
+  value: 30
+  flags: ''

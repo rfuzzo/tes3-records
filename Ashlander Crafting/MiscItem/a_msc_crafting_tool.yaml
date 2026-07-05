@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: a_msc_crafting_tool
+name: Crafting Tool
+script: a_crafting_tool_scr
+mesh: M\misc_prongs00.nif
+icon: m\misc_prongs00.dds
+data:
+  weight: 1.0
+  value: 15
+  flags: ''

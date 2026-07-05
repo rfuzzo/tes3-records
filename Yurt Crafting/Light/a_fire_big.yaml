@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: a_fire_big
+name: Hearthfire
+script: a_yurt_fire_hearth_act_scr
+mesh: l\Furn_De_Firepit_F.NIF
+icon: ian\ian_hearthfire_ico.tga
+sound: Fire 50
+data:
+  weight: 0.0
+  value: 0
+  time: 0
+  radius: 128
+  color:
+  - 245
+  - 140
+  - 50
+  - 0
+  flags: DYNAMIC | CAN_CARRY | FIRE | FLICKER_SLOW

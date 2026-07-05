@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: a_wp_chitin_dagger_02
+name: Ashlander Hunter Dagger
+script: ''
+mesh: w\W_dagger_chitin.nif
+icon: w\Tx_chitin_dagger.tga
+enchanting: ''
+data:
+  weight: 1.5
+  value: 50
+  weapon_type: ShortBladeOneHand
+  health: 380
+  speed: 2.0
+  reach: 1.0
+  enchantment: 50
+  chop_min: 3
+  chop_max: 5
+  slash_min: 4
+  slash_max: 6
+  thrust_min: 6
+  thrust_max: 6
+  flags: SILVER

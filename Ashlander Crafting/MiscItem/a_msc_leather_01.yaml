@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: a_msc_leather_01
+name: Tanned Leather
+script: ''
+mesh: ian\ian_leather_01.nif
+icon: n\tx_scamp_skin_01.dds
+data:
+  weight: 1.0
+  value: 60
+  flags: ''

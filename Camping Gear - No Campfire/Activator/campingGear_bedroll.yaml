@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: campingGear_bedroll
+name: Bedroll
+script: campingGear_bedroll_script
+mesh: ashfall\bedroll_ashl.nif

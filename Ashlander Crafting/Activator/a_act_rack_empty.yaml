@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: a_act_rack_empty
+name: Tanning Rack
+script: a_rack_world_empty_scr
+mesh: ian\ian_rack_empty_02.nif

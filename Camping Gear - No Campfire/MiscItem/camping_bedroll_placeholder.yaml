@@ -1,0 +1,11 @@
+type: MiscItem
+flags: PERSISTENT
+id: camping_bedroll_placeholder
+name: Bedroll
+script: camping_placeholder_script
+mesh: misty\m\bedroll.nif
+icon: misty\m\bedroll_t_icon.tga
+data:
+  weight: 1.0
+  value: 50
+  flags: ''

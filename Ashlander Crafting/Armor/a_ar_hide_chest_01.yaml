@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: a_ar_hide_chest_01
+name: Hide Jerkin
+script: ''
+mesh: c\c_m_shirt_gnd_commonl02.nif
+icon: ian\tx_ian_hide_jerkin_01.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: a_bp_hide_chest_m_01
+  female_bodypart: a_bp_hide_chest_f_01
+data:
+  armor_type: Cuirass
+  weight: 7.0
+  value: 40
+  health: 150
+  enchantment: 500
+  armor_rating: 5

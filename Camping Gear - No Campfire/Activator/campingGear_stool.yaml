@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: campingGear_stool
+name: ''
+script: campingGear_stool_script
+mesh: f\furn_de_ex_stool_02.nif

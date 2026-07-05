@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: a_ar_leather_chest_01
+name: Hardened Leather Cuirass
+script: ''
+mesh: ian\ian_leather_armor_01_g.nif
+icon: a\tx_dreugh_cuirass.tga
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: a_bp_leather_chest_01
+  female_bodypart: ''
+data:
+  armor_type: Cuirass
+  weight: 10.0
+  value: 300
+  health: 400
+  enchantment: 2000
+  armor_rating: 20

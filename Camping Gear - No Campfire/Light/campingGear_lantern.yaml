@@ -1,0 +1,19 @@
+type: Light
+flags: PERSISTENT
+id: campingGear_lantern
+name: ''
+script: campingGear_lantern_script
+mesh: l\light_com_lantern_02.nif
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 100
+  time: -1
+  radius: 256
+  color:
+  - 245
+  - 140
+  - 40
+  - 0
+  flags: DYNAMIC | FIRE | FLICKER_SLOW

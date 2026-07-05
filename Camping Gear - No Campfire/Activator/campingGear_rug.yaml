@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: campingGear_rug
+name: ''
+script: campingGear_rug_script
+mesh: f\Furn_rug_02.NIF

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: a_wp_chitin_sword_02
+name: Ashlander Scout Shortsword
+script: ''
+mesh: w\W_Shortsword_chitin.nif
+icon: w\Tx_chitin_shortsword.tga
+enchanting: ''
+data:
+  weight: 3.5
+  value: 50
+  weapon_type: ShortBladeOneHand
+  health: 640
+  speed: 2.0
+  reach: 1.0
+  enchantment: 30
+  chop_min: 4
+  chop_max: 10
+  slash_min: 5
+  slash_max: 11
+  thrust_min: 6
+  thrust_max: 7
+  flags: SILVER

@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: a_msc_tanner_knife
+name: Tanner's Knife
+script: ''
+mesh: ian\ian_tanner_knife.nif
+icon: m\Misc_Com_Wood_Knife.tga
+data:
+  weight: 0.2
+  value: 10
+  flags: ''

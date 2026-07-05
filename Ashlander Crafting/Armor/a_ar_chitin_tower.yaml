@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: a_ar_chitin_tower
+name: Dark Chitin Tower Shield
+script: ''
+mesh: ian\ian_chitin_tower_01.nif
+icon: ian\tx_ian_chitin_tower.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Shield
+  male_bodypart: a_bp_chitin_towershield
+  female_bodypart: ''
+data:
+  armor_type: Shield
+  weight: 7.0
+  value: 2500
+  health: 500
+  enchantment: 3000
+  armor_rating: 40

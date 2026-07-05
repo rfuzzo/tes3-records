@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: a_cooking_pot
+name: Cooking Pot
+script: a_cooking_pot_scr
+mesh: M\misc_com_bucket_metal.nif

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: a_banner_brown
+name: ''
+script: a_yurt_banner_brown_scr
+mesh: i\in_ashl_tent_banner_15.nif

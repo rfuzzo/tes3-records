@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: a_ar_leather_glove_left_01
+name: Leather Left Glove
+script: ''
+mesh: c\c_glove_common1_gnd.nif
+icon: c\tx_glove_common1.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: LeftHand
+  male_bodypart: a_bp_leather_glove_01
+  female_bodypart: ''
+data:
+  armor_type: LeftGauntlet
+  weight: 1.5
+  value: 20
+  health: 40
+  enchantment: 1000
+  armor_rating: 5

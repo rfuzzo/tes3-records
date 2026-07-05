@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: a_table_02
+name: ''
+script: a_yurt_table_scr
+mesh: f\furn_de_ex_table_02.nif

@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: a_wp_chitin_club_02
+name: Ashlander Herder Club
+script: ''
+mesh: w\W_chitin_club.nif
+icon: w\Tx_chitin_club.tga
+enchanting: ''
+data:
+  weight: 5.0
+  value: 30
+  weapon_type: BluntOneHand
+  health: 420
+  speed: 1.5
+  reach: 1.0
+  enchantment: 100
+  chop_min: 4
+  chop_max: 6
+  slash_min: 3
+  slash_max: 3
+  thrust_min: 2
+  thrust_max: 3
+  flags: SILVER

@@ -1,0 +1,12 @@
+type: RepairItem
+flags: ''
+id: a_prongs_crafted_01
+name: Apprentice Repair Prongs
+script: ''
+mesh: m\misc_prongs00.nif
+icon: m\misc_prongs00.tga
+data:
+  weight: 2.5
+  value: 6
+  uses: 25
+  quality: 0.5

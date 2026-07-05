@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: a_yurt_door_locator
+name: ''
+script: a_yurt_door_locator_scr
+mesh: EditorMarker.NIF

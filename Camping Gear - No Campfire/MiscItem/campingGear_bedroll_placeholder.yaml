@@ -1,0 +1,11 @@
+type: MiscItem
+flags: PERSISTENT
+id: campingGear_bedroll_placeholder
+name: Camping Gear
+script: campingGear_placeholder_script
+mesh: misty\m\bedroll.nif
+icon: misty\m\bedroll_t_icon.tga
+data:
+  weight: 1.0
+  value: 500
+  flags: ''

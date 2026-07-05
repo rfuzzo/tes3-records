@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: a_log_04
+name: ''
+script: a_yurt_fire_hearth_scr
+mesh: f\Furn_log_04.nif

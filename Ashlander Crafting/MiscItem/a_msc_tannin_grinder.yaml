@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: a_msc_tannin_grinder
+name: Tannin Grinder
+script: a_tannin_grinder_scr
+mesh: M\misc_mortarpestle_01.nif
+icon: m\tx_mortarpestle_01.dds
+data:
+  weight: 1.0
+  value: 15
+  flags: ''

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: a_table_01
+name: Worktable
+script: a_worktable_act_scr
+mesh: f\furn_de_ex_table_02.nif

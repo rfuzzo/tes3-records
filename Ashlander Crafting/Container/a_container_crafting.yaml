@@ -1,0 +1,19 @@
+type: Container
+flags: ''
+id: a_container_crafting
+name: Wooden Chest
+script: ''
+mesh: o\Contain_Com_Chest_01.NIF
+encumbrance: 150.0
+container_flags: IS_BASE
+inventory:
+- - 10
+  - a_list_crafting
+- - 1
+  - a_msc_crafting_tool
+- - 1
+  - a_msc_tanner_knife
+- - 1
+  - a_msc_tannin_grinder
+- - 1
+  - a_msc_tanning_rack

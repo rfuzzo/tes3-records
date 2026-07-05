@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: a_wp_bonemold_bow_02
+name: Ashlander War Bow
+script: ''
+mesh: w\W_longbow_bonemold.NIF
+icon: w\tx_longbow_bonemold.tga
+enchanting: ''
+data:
+  weight: 6.0
+  value: 350
+  weapon_type: MarksmanBow
+  health: 800
+  speed: 1.0
+  reach: 1.0
+  enchantment: 400
+  chop_min: 1
+  chop_max: 35
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: SILVER

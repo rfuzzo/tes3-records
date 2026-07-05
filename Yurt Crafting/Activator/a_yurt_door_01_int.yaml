@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: a_yurt_door_01_int
+name: Door
+script: a_yurt_door_01_int_scr
+mesh: i\in_ashl_door_02.nif

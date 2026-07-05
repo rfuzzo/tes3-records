@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: a_msc_tanning_rack
+name: Tanning Rack
+script: a_rack_misc_scr
+mesh: ian\ian_rack_empty.nif
+icon: ian\ian_rack2_ico.tga
+data:
+  weight: 5.0
+  value: 10
+  flags: ''

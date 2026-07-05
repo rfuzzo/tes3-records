@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: campingGear_lantern_off
+name: ''
+script: campingGear_lantern_script_off
+mesh: f\lantern_02_off.nif

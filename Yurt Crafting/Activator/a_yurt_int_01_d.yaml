@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: a_yurt_int_01_d
+name: ''
+script: a_yurt_int_scr_d
+mesh: ian\ian_yurt_int_day.nif

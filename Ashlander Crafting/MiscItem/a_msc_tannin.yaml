@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: a_msc_tannin
+name: Vegetable Tannin
+script: ''
+mesh: m\Misc_Com_Bottle_14.NIF
+icon: m\Misc_Com_Bottle_14.tga
+data:
+  weight: 1.0
+  value: 10
+  flags: ''

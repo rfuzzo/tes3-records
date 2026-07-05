@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: a_bedroll_01
+name: Bedroll
+script: a_yurt_bedroll_scr
+mesh: f\Active_De_Bedroll.NIF

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: a_act_teleporter
+name: Teleporter
+script: a_rack_teleport
+mesh: EditorMarker.NIF

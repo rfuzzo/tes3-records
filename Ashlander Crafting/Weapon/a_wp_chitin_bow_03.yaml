@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: a_wp_chitin_bow_03
+name: Ashkhan Short Bow
+script: ''
+mesh: w\W_shortbow_chitin.NIF
+icon: w\tx_shortbow_chitin.tga
+enchanting: ''
+data:
+  weight: 1.0
+  value: 80
+  weapon_type: MarksmanBow
+  health: 800
+  speed: 1.0
+  reach: 1.0
+  enchantment: 300
+  chop_min: 1
+  chop_max: 20
+  slash_min: 0
+  slash_max: 1
+  thrust_min: 0
+  thrust_max: 1
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE | SILVER

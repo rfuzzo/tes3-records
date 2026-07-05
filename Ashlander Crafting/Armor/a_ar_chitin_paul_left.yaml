@@ -1,0 +1,22 @@
+type: Armor
+flags: ''
+id: a_ar_chitin_paul_left
+name: Dark Chitin Left Pauldron
+script: ''
+mesh: ian\ian_chitin_paul_ua_01.nif
+icon: ian\tx_ian_chitin_paul_l.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: LeftUpperArm
+  male_bodypart: a_bp_chitin_ua_pauldron
+  female_bodypart: ''
+- biped_object_type: LeftPauldron
+  male_bodypart: a_bp_chitin_pauldron_cl
+  female_bodypart: ''
+data:
+  armor_type: LeftPauldron
+  weight: 2.5
+  value: 400
+  health: 200
+  enchantment: 1000
+  armor_rating: 20

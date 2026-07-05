@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: a_chest_01
+name: Chest
+script: a_yurt_chest_scr
+mesh: o\Contain_Com_Chest_02.NIF
+encumbrance: 500.0
+container_flags: IS_BASE
+inventory: []

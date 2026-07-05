@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: a_yurt_misc_20
+name: Packed Yurt
+script: a_yurt_misc_scr
+mesh: m\Misc_de_drum_02.NIF
+icon: ian\ian_packed_yurt_ico.tga
+data:
+  weight: 20.0
+  value: 1
+  flags: ''

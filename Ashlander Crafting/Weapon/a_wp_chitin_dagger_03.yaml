@@ -1,0 +1,23 @@
+type: Weapon
+flags: ''
+id: a_wp_chitin_dagger_03
+name: Ahemmusa Dagger
+script: ''
+mesh: w\W_dagger_chitin.nif
+icon: w\Tx_chitin_dagger.tga
+enchanting: ''
+data:
+  weight: 1.0
+  value: 100
+  weapon_type: ShortBladeOneHand
+  health: 480
+  speed: 2.25
+  reach: 1.0
+  enchantment: 100
+  chop_min: 3
+  chop_max: 7
+  slash_min: 5
+  slash_max: 8
+  thrust_min: 10
+  thrust_max: 10
+  flags: IGNORES_NORMAL_WEAPON_RESISTANCE | SILVER

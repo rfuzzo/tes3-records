@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: a_cooking_grille
+name: ''
+script: a_yurt_fire_cooking_scr
+mesh: f\furn_grill_01.nif

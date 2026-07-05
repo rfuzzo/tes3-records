@@ -1,0 +1,15 @@
+type: Book
+flags: ''
+id: a_bk_ashlander_crafting
+name: Ashlander Crafting Tradition
+script: ''
+mesh: m\Text_Quarto_04.NIF
+icon: m\Tx_quarto_04.tga
+enchanting: ''
+text: "<DIV ALIGN=\"CENTER\"><FONT COLOR=\"000000\" SIZE=\"3\" FACE=\"Magic Cards\"><BR>\r\nThe Ashlander Crafting Tradition<BR>\r\nby Jeanette Sitte<BR><BR>\r\n<DIV ALIGN=\"LEFT\"><BR>\r\n<BR>\r\nThe nomadic Ashlanders of Vvardenfell perpetuate a long-held tradition of not only hunting and gathering, but also of the crafting of armor and weapons with the hides, chitin, and resin they collect from their prey.<BR>\r\n<BR>\r\nAshlanders live an ascetic life, and very little goes to waste. Most Ashlander camps will have a tanning rack where hides are hung to dry and cured with saltrice. This cured hide is often crafted into simple armor.<BR>\r\n<BR>\r\nAlternatively, the cured hide may be left on the tanning rack and tanned into leather. This requires a tanning knife and vegetable tannin. Vegetable tannin is crafted from grinding corkbulb root, hackle-lo leaves, or trama root in a stone bowl. The resulting leather is used to make higher quality armor than that made with cured hide.<BR>\r\n<BR>\r\nTheir highest quality leather is hardened leather, which is produced by applying resin to the leather on the rack. Resin is most often procured from shalk. This hardened leather is used to craft their strongest leather armor, stronger than most chitin armor.<BR>\r\n<BR>\r\nEach part of this process - curing hide, crafting hide armor, tanning leather, crafting leather armor, hardening leather, and finally crafting hardened leather armor - requires an ever-increasing armorer skill for a strong chance of success.<BR>\r\n<BR>\r\nAshlanders aslo craft chitin armor from chitin fragments gotten from kwama workers and warriors, and shalk. Skilled crafters may also craft a special dark chitin armor that is far stronger than normal chitin. This is the most complicated armor Ashlanders produce, and requires a high armorer skill for a reasonable chance of success.<BR>\r\n<BR>\r\nIn addition to armor, Ashlanders craft their own chitin and bonemold weapons. The more skilled the crafter is, the better quality weapon will result.<BR>\r\n<BR>\r\nThe crafting is performed with a special crafting tool not found in the more civilized areas of Vvardenfell. Ashlanders have also proven adept at crafting repair tools from scrap metal found in Dwemer ruins scattered throughout the island.<BR>\r\n<BR>\r\n"
+data:
+  weight: 3.0
+  value: 10
+  book_type: Book
+  skill: Armorer
+  enchantment: 0

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: a_water_jug
+name: Water Keg
+script: a_water_keg_scr
+mesh: M\misc_com_bottle_07.nif

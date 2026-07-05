@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: a_msc_hard_leather_01
+name: Hardened Leather
+script: ''
+mesh: ian\ian_leather_01.nif
+icon: ian\tx_ian_hard_leather_ico.dds
+data:
+  weight: 1.0
+  value: 100
+  flags: ''

@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: a_yurt_smoke_locator
+name: ''
+script: a_yurt_smoke_locator_scr
+mesh: EditorMarker.NIF

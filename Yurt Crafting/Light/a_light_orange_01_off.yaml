@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: a_light_orange_01_off
+name: Lamp
+script: a_yurt_light_orange_off_scr
+mesh: ian\ian_lamp_orange_off.nif
+icon: l\light_de_lantern_06.dds
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: 0
+  radius: 16
+  color:
+  - 0
+  - 0
+  - 0
+  - 0
+  flags: CAN_CARRY

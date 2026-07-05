@@ -1,0 +1,11 @@
+type: MiscItem
+flags: ''
+id: a_yurt_misc
+name: Yurt Crafting Kit
+script: a_yurt_kit_misc_scr
+mesh: m\Misc_de_drum_02.NIF
+icon: ian\tx_ian_yurt_kit_ico.dds
+data:
+  weight: 5.0
+  value: 40
+  flags: ''

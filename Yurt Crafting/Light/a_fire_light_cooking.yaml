@@ -1,0 +1,19 @@
+type: Light
+flags: ''
+id: a_fire_light_cooking
+name: ''
+script: a_yurt_fire_cooking_scr
+mesh: ''
+icon: ''
+sound: ''
+data:
+  weight: 0.0
+  value: 0
+  time: -1
+  radius: 64
+  color:
+  - 255
+  - 140
+  - 40
+  - 0
+  flags: FLICKER_SLOW

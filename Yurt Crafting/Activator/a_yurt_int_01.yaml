@@ -1,0 +1,6 @@
+type: Activator
+flags: ''
+id: a_yurt_int_01
+name: ''
+script: a_yurt_int_scr_n
+mesh: i\in_ashl_tent_02.nif

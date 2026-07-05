@@ -1,0 +1,6 @@
+type: Activator
+flags: PERSISTENT
+id: campingGear_tent
+name: ''
+script: campingGear_tent_script
+mesh: ashfall\tent_canv_r_nb.nif

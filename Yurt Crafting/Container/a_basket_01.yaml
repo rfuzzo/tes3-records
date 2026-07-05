@@ -1,0 +1,9 @@
+type: Container
+flags: ''
+id: a_basket_01
+name: Basket
+script: a_yurt_basket_large_scr
+mesh: o\Contain_Com_Basket_01.NIF
+encumbrance: 50.0
+container_flags: IS_BASE
+inventory: []

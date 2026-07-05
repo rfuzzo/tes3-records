@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: a_ar_leather_chest_02
+name: Leather Jerkin
+script: ''
+mesh: ian\ian_leather_armor_02_g.nif
+icon: ian\tx_ian_leath_jerkin_01.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: Chest
+  male_bodypart: a_bp_leather_chest_m_02
+  female_bodypart: a_bp_leather_chest_f_02
+data:
+  armor_type: Cuirass
+  weight: 6.0
+  value: 50
+  health: 200
+  enchantment: 1000
+  armor_rating: 6

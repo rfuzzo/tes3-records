@@ -1,0 +1,19 @@
+type: Armor
+flags: ''
+id: a_ar_leather_band_01
+name: Leather Headband
+script: ''
+mesh: ian\ian_leather_band_01_g.nif
+icon: ian\tx_ian_leather_band_ico.dds
+enchanting: ''
+biped_objects:
+- biped_object_type: RightPauldron
+  male_bodypart: a_bp_leather_band_01
+  female_bodypart: ''
+data:
+  armor_type: RightPauldron
+  weight: 0.5
+  value: 20
+  health: 40
+  enchantment: 5000
+  armor_rating: 1
