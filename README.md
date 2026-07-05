@@ -49,3 +49,21 @@ cd site && python3 -m http.server    # open http://localhost:8000
 ## Regenerating the CSV dumps
 
 `_generate_csv.ps1` writes per-source/per-type `id,name` CSVs into `_out/`.
+
+### Tagging items
+
+`scripts/tag_records.py` fills the `tags` column of the Armor / Ingredient /
+MiscItem / Weapon CSVs with descriptive Morrowind tags derived from each
+record's name (e.g. *Chitin War Axe* → `Weapon, Axe, War Axe, Chitin`;
+*Coda Flower* → `Ingredient, Plant, Flower`). It encodes weapon/armor types,
+materials, cultures, and an ingredient category taxonomy (Plant / Creature /
+Mineral / Food / Spice / Dye). The rules are keyword-based, so extend the
+dictionaries at the top of the script to refine tags.
+
+```sh
+python3 scripts/tag_records.py           # tag all target CSVs
+python3 scripts/tag_records.py --check    # report what would change, write nothing
+```
+
+`_generate_csv.ps1` rewrites the CSVs with an empty tags column, so re-run the
+tagger after regenerating.
