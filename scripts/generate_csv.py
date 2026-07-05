@@ -29,7 +29,7 @@ except ImportError:  # pure-python fallback
 NESTED_SOURCES = {"Morrowind": ("Tribunal", "Bloodmoon")}
 
 # Top-level directories that are not record sources.
-SKIP_DIRS = {"_out", "site", "scripts"}
+SKIP_DIRS = {"_out", "site", "scripts", "icons"}
 
 
 def read_row(yaml_file: Path):
