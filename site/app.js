@@ -4,11 +4,12 @@
 
 const PAGE_SIZE = 200;
 const state = {
-  records: [],      // [id, name, type, source, lowerName, lowerId]
+  records: [],      // [id, name, type, source, tags, lowerName, lowerId]
   meta: null,
   query: "",
   sources: new Set(),
   types: new Set(),
+  tags: new Set(),
   results: [],
   shown: 0,
   sortKey: null,    // null = relevance
@@ -36,7 +37,8 @@ async function boot() {
     ]);
     state.meta = meta;
     state.records = index.records.map((r) => {
-      r.push(r[1].toLowerCase(), r[0].toLowerCase());
+      if (r.length < 5) r.push([]);           // tags column (older index)
+      r.push(r[1].toLowerCase(), r[0].toLowerCase());  // -> [5]=lname, [6]=lid
       return r;
     });
     $("#meta-info").textContent =
@@ -64,6 +66,20 @@ function buildFilters() {
   for (const [type, count] of Object.entries(state.meta.types)) {
     typeBox.appendChild(makeChip(type, count, state.types));
   }
+  const tagBox = $("#tag-filters");
+  const tags = state.meta.tags || {};
+  for (const [tag, count] of Object.entries(tags)) {
+    tagBox.appendChild(makeChip(tag, count, state.tags));
+  }
+  $("#tag-count").textContent = Object.keys(tags).length;
+  // Live-filter the (long) list of tag chips by substring.
+  $("#tag-search").addEventListener("input", (e) => {
+    const q = e.target.value.trim().toLowerCase();
+    tagBox.querySelectorAll(".chip").forEach((c) => {
+      c.hidden = q && !c.dataset.value.toLowerCase().includes(q) &&
+                 !c.classList.contains("active");
+    });
+  });
 }
 
 function makeChip(label, count, set) {
@@ -85,6 +101,9 @@ function syncChips() {
     c.classList.toggle("active", state.sources.has(c.dataset.value)));
   document.querySelectorAll("#type-filters .chip").forEach((c) =>
     c.classList.toggle("active", state.types.has(c.dataset.value)));
+  document.querySelectorAll("#tag-filters .chip").forEach((c) =>
+    c.classList.toggle("active", state.tags.has(c.dataset.value)));
+  if (state.tags.size) $("#tag-details").open = true;
 }
 
 /* ---------- search ---------- */
@@ -101,14 +120,17 @@ function runSearch() {
   const terms = parseTerms(state.query);
   const bySource = state.sources.size > 0;
   const byType = state.types.size > 0;
+  const tagFilters = [...state.tags];
   const scored = [];
 
   for (const rec of state.records) {
     if (bySource && !state.sources.has(rec[3])) continue;
     if (byType && !state.types.has(rec[2])) continue;
+    // A record must carry every selected tag (AND).
+    if (tagFilters.length && !tagFilters.every((t) => rec[4].includes(t))) continue;
     let score = 0;
     if (terms.length) {
-      score = scoreRecord(rec[4], rec[5], terms);
+      score = scoreRecord(rec[5], rec[6], terms);
       if (score < 0) continue;
     }
     scored.push([score, rec]);
@@ -119,9 +141,9 @@ function runSearch() {
     const dir = state.sortAsc ? 1 : -1;
     scored.sort((a, b) => dir * a[1][k].localeCompare(b[1][k]));
   } else if (terms.length) {
-    scored.sort((a, b) => b[0] - a[0] || a[1][4].localeCompare(b[1][4]));
+    scored.sort((a, b) => b[0] - a[0] || a[1][5].localeCompare(b[1][5]));
   } else {
-    scored.sort((a, b) => a[1][4].localeCompare(b[1][4]));
+    scored.sort((a, b) => a[1][5].localeCompare(b[1][5]));
   }
 
   state.results = scored.map((s) => s[1]);
@@ -247,10 +269,16 @@ function renderRecord(rec, source, type) {
     `<h2>${escapeHtml(rec.name || rec.id)}</h2>` +
     `<div class="rec-id">${escapeHtml(rec.id)} · ${escapeHtml(type)} · ${escapeHtml(source)}</div>` +
     `</div></div>` +
-    `<div class="rec-links"><a href="${ghUrl}" target="_blank" rel="noopener">View YAML on GitHub ↗</a></div>` +
-    `<table class="kv"><tbody>`;
+    `<div class="rec-links"><a href="${ghUrl}" target="_blank" rel="noopener">View YAML on GitHub ↗</a></div>`;
 
-  const skip = new Set(["id", "name", "type", "_file", "_icon", "text", "data"]);
+  if (Array.isArray(rec._tags) && rec._tags.length) {
+    html += `<div class="rec-tags">` + rec._tags.map((t) =>
+      `<button class="tag-badge" data-tag="${escapeHtml(t)}">${escapeHtml(t)}</button>`
+    ).join("") + `</div>`;
+  }
+  html += `<table class="kv"><tbody>`;
+
+  const skip = new Set(["id", "name", "type", "_file", "_icon", "_tags", "text", "data"]);
   for (const [k, v] of Object.entries(rec)) {
     if (skip.has(k) || v === "" || v === null) continue;
     html += kvRow(k, v);
@@ -268,6 +296,14 @@ function renderRecord(rec, source, type) {
     html += `<div class="book-text">${escapeHtml(stripHtmlTags(String(rec.text)))}</div>`;
   }
   detailBody.innerHTML = html;
+  // Clicking a tag badge adds it to the tag filter.
+  detailBody.querySelectorAll(".tag-badge").forEach((b) =>
+    b.addEventListener("click", () => {
+      state.tags.add(b.dataset.tag);
+      syncChips();
+      runSearch();
+      writeHash();
+    }));
 }
 
 function kvRow(key, value) {
@@ -305,6 +341,7 @@ function writeHash() {
   if (state.query) p.set("q", state.query);
   if (state.sources.size) p.set("src", [...state.sources].join(","));
   if (state.types.size) p.set("type", [...state.types].join(","));
+  if (state.tags.size) p.set("tag", [...state.tags].join(","));
   if (state.selected) p.set("r", state.selected);
   const h = p.toString();
   history.replaceState(null, "", h ? "#" + h : location.pathname);
@@ -319,6 +356,8 @@ function readHash() {
   (p.get("src") || "").split(",").filter(Boolean).forEach((s) => state.sources.add(s));
   state.types.clear();
   (p.get("type") || "").split(",").filter(Boolean).forEach((t) => state.types.add(t));
+  state.tags.clear();
+  (p.get("tag") || "").split(",").filter(Boolean).forEach((t) => state.tags.add(t));
   state.selected = p.get("r") || null;
   syncChips();
 }

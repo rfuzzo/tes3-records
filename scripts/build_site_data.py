@@ -17,6 +17,7 @@ Usage: python3 scripts/build_site_data.py [--root REPO_ROOT] [--out SITE_DIR]
 """
 
 import argparse
+import csv
 import json
 import sys
 import time
@@ -47,6 +48,27 @@ SOURCE_DIRS = {
 
 # Folders inside a source dir that are sources themselves, not record types.
 NESTED_SOURCES = {"Tribunal", "Bloodmoon"}
+
+# Record types whose _out/<Source>_<Type>.csv carries a tags column.
+TAGGED_TYPES = ("Armor", "Ingredient", "MiscItem", "Weapon")
+
+
+def load_tags(root: Path):
+    """Read the tags columns of the _out CSVs into {(source, type, id): [tag]}."""
+    out_dir = root / "_out"
+    tags = {}
+    if not out_dir.is_dir():
+        return tags
+    for rtype in TAGGED_TYPES:
+        for csv_path in sorted(out_dir.glob(f"*_{rtype}.csv")):
+            source = csv_path.stem[: -(len(rtype) + 1)]  # Foo_Weapon -> Foo
+            with csv_path.open(encoding="utf-8-sig", newline="") as fh:
+                for row in csv.DictReader(fh):
+                    tag_list = [t.strip() for t in (row.get("tags") or "").split(",")
+                                if t.strip()]
+                    if tag_list:
+                        tags[(source, rtype, row["id"])] = tag_list
+    return tags
 
 
 def icon_key(icon_field: str) -> str:
@@ -113,11 +135,13 @@ def main() -> int:
     shard_dir.mkdir(parents=True, exist_ok=True)
 
     icons = convert_icons(root, data_dir / "icons")
+    tag_lookup = load_tags(root)
 
-    index = []           # [id, name, type, source]
+    index = []           # [id, name, type, source, tags]
     shards = {}          # shard key -> {id: record}
     counts = {}          # source -> count
     type_counts = {}     # type -> count
+    tag_counts = {}      # tag -> count
     errors = []
     started = time.time()
 
@@ -145,8 +169,13 @@ def main() -> int:
                     path = icons.get(icon_key(icon))
                     if path:
                         record["_icon"] = path
+                tags = tag_lookup.get((source, rtype, rid), [])
+                if tags:
+                    record["_tags"] = tags
+                    for t in tags:
+                        tag_counts[t] = tag_counts.get(t, 0) + 1
                 shard[rid] = record
-                index.append([rid, name, rtype, source])
+                index.append([rid, name, rtype, source, tags])
                 counts[source] = counts.get(source, 0) + 1
                 type_counts[rtype] = type_counts.get(rtype, 0) + 1
         print(f"{source}: {counts.get(source, 0)} records")
@@ -165,6 +194,8 @@ def main() -> int:
         "total": len(index),
         "sources": {s: counts.get(s, 0) for s in SOURCE_DIRS},
         "types": dict(sorted(type_counts.items())),
+        # Tags sorted by frequency (descending) so the UI can show common first.
+        "tags": dict(sorted(tag_counts.items(), key=lambda kv: (-kv[1], kv[0]))),
         "repo": "rfuzzo/tes3-records",
         "parse_errors": errors,
     }

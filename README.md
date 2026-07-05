@@ -8,8 +8,8 @@ record, organized as `<Source>/<RecordType>/<id>.yaml`.
 ## Search website
 
 The repository ships a static search site (GitHub Pages) that lets you search
-all ~55,000 records by name or id, filter by source and record type, and view
-the full data of every record.
+all ~55,000 records by name or id, filter by source, record type and item tag
+(e.g. `Chitin` + `Cuirass`), and view the full data of every record.
 
 ### How it works
 
@@ -18,7 +18,9 @@ the full data of every record.
     `source`) that the browser loads once (~400 KB gzipped),
   - `site/data/shards/<Source>__<Type>.json` — the full records, lazy-loaded
     only when you open a record's detail view,
-  - `site/data/meta.json` — sources, record types and counts,
+  - `site/data/meta.json` — sources, record types, tags and counts. Item tags
+    come from the `_out` CSVs (see [Tagging items](#tagging-items)); they are
+    attached to each record and exposed as a filter facet on the site,
   - `site/data/icons/**.png` — DDS/TGA files from `icons/` converted for
     browsers. Records whose `icon` field resolves to a file in `icons/`
     (matched case-insensitively, ignoring the `.tga`/`.dds` extension) show

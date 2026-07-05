@@ -29,6 +29,11 @@
       <div class="filter-row">
         <div class="filter-group" id="type-filters" aria-label="Filter by record type"></div>
       </div>
+      <details class="filter-row" id="tag-details">
+        <summary>Filter by tag <span class="dim">(<span id="tag-count">0</span> tags · weapons, armor, ingredients &amp; misc items)</span></summary>
+        <input id="tag-search" type="search" placeholder="Filter tags… (e.g. chitin, cuirass, heavy)" autocomplete="off">
+        <div class="filter-group" id="tag-filters" aria-label="Filter by tag"></div>
+      </details>
       <div id="status" role="status">Loading index…</div>
     </section>
 
