@@ -164,6 +164,7 @@ WEAPON_RAW = [
     ("sickle", "Sickle", "Blade"), ("scythe", "Scythe", "Blade"),
     ("cudgel", "Cudgel", "Blunt"), ("cane", "Cane", "Blunt"),
     ("rod", "Rod", "Blunt"), ("pick", "Pick", "Blunt"),
+    ("shovel", "Shovel", "Blunt"),
     ("bow", "Bow", "Marksman"), ("blade", "Blade", "Blade"),
 ]
 WEAPON_TYPES = [(word(k), s, b) for k, s, b in WEAPON_RAW]
@@ -201,7 +202,7 @@ MISC_CATS = compile_pairs([
     ("jug", "Tableware"), ("flask", "Tableware"), ("bottle", "Tableware"),
     ("kettle", "Tableware"), ("pot", "Tableware"), ("pan", "Tableware"),
     ("ladle", "Utensil"), ("fork", "Utensil"), ("spoon", "Utensil"),
-    ("knife", "Utensil"), ("silverware", "Utensil"), ("utensil", "Utensil"),
+    ("knife", "Knife"), ("silverware", "Utensil"), ("utensil", "Utensil"),
     ("candle", "Lighting"), ("lantern", "Lighting"), ("lamp", "Lighting"),
     ("soul gem", "Soul Gem"),
     ("ingot", "Metal"), ("ore", "Ore"),
@@ -224,8 +225,8 @@ MISC_CATS = compile_pairs([
     ("cloth", "Cloth"), ("rag", "Cloth"), ("towel", "Cloth"),
     ("coherer", "Dwemer Artifact"), ("cog", "Dwemer Artifact"),
     ("gear", "Dwemer Artifact"), ("tube", "Dwemer Artifact"),
-    ("scales", "Tool"), ("hammer", "Tool"), ("tongs", "Tool"),
-    ("saw", "Tool"), ("shovel", "Tool"), ("pick", "Tool"),
+    ("scales", "Tool"), ("hammer", "Hammer"), ("tongs", "Tool"),
+    ("saw", "Tool"), ("shovel", "Shovel"), ("pick", "Tool"),
     ("nail", "Tool"), ("pin", "Tool"), ("needle", "Tool"), ("pipe", "Tool"),
     ("dust", "Powder"), ("powder", "Powder"),
     ("coin", "Coin"), ("septim", "Coin"), ("drake", "Coin"),
@@ -380,12 +381,18 @@ def tag_weapon(rid, name, record):
     tags = ["Weapon"]
     # Authoritative type from the record; fall back to the name if absent.
     wtype = (record.get("data") or {}).get("weapon_type") if record else None
-    if wtype in WEAPON_TYPE_MAP:
+    authoritative = wtype in WEAPON_TYPE_MAP
+    if authoritative:
         broad, hand = WEAPON_TYPE_MAP[wtype]
         tags += [broad, hand]
     hit = find_first(lc, WEAPON_TYPES) or find_first(lc, WEAPON_LOOSE)
     if hit:
-        tags += [hit[2], hit[1]]  # broad class, specific type
+        # The record's weapon_type is the authoritative broad class; only take
+        # the specific type from the name so it can't contradict (e.g. a
+        # "Shovel" the engine classes as a spear shouldn't also read "Blunt").
+        if not authoritative:
+            tags.append(hit[2])  # broad class from the name
+        tags.append(hit[1])      # specific type
     tags += descriptors_for(lc)
     if UNIQUE_RE.search(rid):
         tags.append("Unique")
