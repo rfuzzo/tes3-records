@@ -459,17 +459,30 @@ TAGGERS = {
 }
 
 
+# Expansions folded into a source, in DLC-overrides-base priority order.
+NESTED_DIRS = {"Morrowind": ("Bloodmoon", "Tribunal")}
+
+
 def load_record(root: Path, source: str, rtype: str, rid: str):
-    """Load a record's YAML (weapons/armor need the authoritative fields)."""
-    path = root / source / rtype / f"{rid}.yaml"
-    if not path.is_file():
-        return None
-    try:
-        with path.open(encoding="utf-8") as fh:
-            data = yaml.load(fh, Loader=SafeLoader)
-        return data if isinstance(data, dict) else None
-    except yaml.YAMLError:
-        return None
+    """Load a record's YAML (weapons/armor need the authoritative fields).
+
+    Morrowind records may live in the base folder or in the Tribunal/Bloodmoon
+    expansion folders; a DLC record wins over a base one with the same id.
+    """
+    candidates = [root / source / nested / rtype / f"{rid}.yaml"
+                  for nested in NESTED_DIRS.get(source, ())]
+    candidates.append(root / source / rtype / f"{rid}.yaml")
+    for path in candidates:
+        if not path.is_file():
+            continue
+        try:
+            with path.open(encoding="utf-8") as fh:
+                data = yaml.load(fh, Loader=SafeLoader)
+            if isinstance(data, dict):
+                return data
+        except yaml.YAMLError:
+            return None
+    return None
 
 
 def process(path: Path, root: Path, rtype: str, check: bool) -> int:
