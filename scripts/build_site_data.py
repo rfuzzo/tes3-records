@@ -35,19 +35,24 @@ try:
 except ImportError:
     Image = None
 
-# Top-level folders that contain record dumps. Morrowind nests the two
-# expansions, which we surface as sources of their own.
-SOURCE_DIRS = {
-    "Morrowind": "Morrowind",
-    "Tribunal": "Morrowind/Tribunal",
-    "Bloodmoon": "Morrowind/Bloodmoon",
-    "Tamriel_Data": "Tamriel_Data",
-    "TR_Mainland": "TR_Mainland",
-    "OAAB_Data": "OAAB_Data",
-}
+# (display source, directory) pairs walked in order. The Tribunal and Bloodmoon
+# expansions are folded into the Morrowind source; walking base -> Tribunal ->
+# Bloodmoon means that when an id exists in more than one, the later (DLC)
+# record overrides the earlier, matching the game's plugin load order.
+SOURCE_DIRS = [
+    ("Morrowind", "Morrowind"),
+    ("Morrowind", "Morrowind/Tribunal"),
+    ("Morrowind", "Morrowind/Bloodmoon"),
+    ("Tamriel_Data", "Tamriel_Data"),
+    ("TR_Mainland", "TR_Mainland"),
+    ("OAAB_Data", "OAAB_Data"),
+]
 
-# Folders inside a source dir that are sources themselves, not record types.
-NESTED_SOURCES = {"Tribunal", "Bloodmoon"}
+# Distinct display sources, in UI order.
+SOURCES = ["Morrowind", "Tamriel_Data", "TR_Mainland", "OAAB_Data"]
+
+# Subfolders of the Morrowind dir that are separate source dirs, not record types.
+NESTED_DIRS = {"Tribunal", "Bloodmoon"}
 
 # Record types whose _out/<Source>_<Type>.csv carries a tags column.
 TAGGED_TYPES = ("Armor", "Ingredient", "MiscItem", "Weapon")
@@ -133,6 +138,8 @@ def main() -> int:
     data_dir = site_dir / "data"
     shard_dir = data_dir / "shards"
     shard_dir.mkdir(parents=True, exist_ok=True)
+    for stale in shard_dir.glob("*.json"):  # drop shards from a previous run
+        stale.unlink()
 
     icons = convert_icons(root, data_dir / "icons")
     tag_lookup = load_tags(root)
@@ -145,24 +152,23 @@ def main() -> int:
     errors = []
     started = time.time()
 
-    for source, rel in SOURCE_DIRS.items():
+    overrides = 0
+    for source, rel in SOURCE_DIRS:
         src_dir = root / rel
         if not src_dir.is_dir():
             print(f"warning: missing source dir {src_dir}", file=sys.stderr)
             continue
         for type_dir in sorted(p for p in src_dir.iterdir() if p.is_dir()):
             rtype = type_dir.name
-            if source == "Morrowind" and rtype in NESTED_SOURCES:
-                continue
-            shard_key = f"{source}__{rtype}"
-            shard = shards.setdefault(shard_key, {})
+            if rel == "Morrowind" and rtype in NESTED_DIRS:
+                continue  # walked separately, still under the Morrowind source
+            shard = shards.setdefault(f"{source}__{rtype}", {})
             for yaml_file in sorted(type_dir.glob("*.yaml")):
                 record = load_record(yaml_file)
                 if record is None:
                     errors.append(str(yaml_file.relative_to(root)))
                     continue
                 rid = str(record.get("id") or yaml_file.stem)
-                name = str(record.get("name") or "")
                 record["_file"] = yaml_file.relative_to(root).as_posix()
                 icon = record.get("icon")
                 if icon and isinstance(icon, str):
@@ -172,18 +178,29 @@ def main() -> int:
                 tags = tag_lookup.get((source, rtype, rid), [])
                 if tags:
                     record["_tags"] = tags
-                    for t in tags:
-                        tag_counts[t] = tag_counts.get(t, 0) + 1
+                if rid in shard:  # DLC record overriding a base one
+                    overrides += 1
                 shard[rid] = record
-                index.append([rid, name, rtype, source, tags])
-                counts[source] = counts.get(source, 0) + 1
-                type_counts[rtype] = type_counts.get(rtype, 0) + 1
-        print(f"{source}: {counts.get(source, 0)} records")
 
+    # Build the index/counts from the deduped shards, so DLC overrides are
+    # reflected and each effective record is listed exactly once.
     for shard_key, shard in shards.items():
+        source, rtype = shard_key.rsplit("__", 1)
         out = shard_dir / f"{shard_key}.json"
         out.write_text(json.dumps(shard, ensure_ascii=False, separators=(",", ":")),
                        encoding="utf-8")
+        for rid, record in shard.items():
+            tags = record.get("_tags", [])
+            index.append([rid, str(record.get("name") or ""), rtype, source, tags])
+            counts[source] = counts.get(source, 0) + 1
+            type_counts[rtype] = type_counts.get(rtype, 0) + 1
+            for t in tags:
+                tag_counts[t] = tag_counts.get(t, 0) + 1
+
+    for source in SOURCES:
+        print(f"{source}: {counts.get(source, 0)} records")
+    if overrides:
+        print(f"{overrides} base records overridden by Tribunal/Bloodmoon")
 
     (data_dir / "index.json").write_text(
         json.dumps({"records": index}, ensure_ascii=False, separators=(",", ":")),
@@ -192,7 +209,7 @@ def main() -> int:
     meta = {
         "generated": time.strftime("%Y-%m-%d %H:%M:%S UTC", time.gmtime()),
         "total": len(index),
-        "sources": {s: counts.get(s, 0) for s in SOURCE_DIRS},
+        "sources": {s: counts.get(s, 0) for s in SOURCES},
         "types": dict(sorted(type_counts.items())),
         # Tags sorted by frequency (descending) so the UI can show common first.
         "tags": dict(sorted(tag_counts.items(), key=lambda kv: (-kv[1], kv[0]))),
