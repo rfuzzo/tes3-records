@@ -50,7 +50,18 @@ cd site && python3 -m http.server    # open http://localhost:8000
 
 ## Regenerating the CSV dumps
 
-`_generate_csv.ps1` writes per-source/per-type `id,name` CSVs into `_out/`.
+The records are first extracted from the game plugins with `tes3util` (see the
+comment in `scripts/generate.py`), then:
+
+```sh
+python3 scripts/generate.py       # fold the Tribunal/Bloodmoon folders into Morrowind/
+python3 scripts/generate_csv.py   # write per-source/per-type id,name CSVs into _out/
+python3 scripts/tag_records.py     # fill the tags column (see below)
+```
+
+`scripts/generate_csv.py` folds the Tribunal/Bloodmoon expansions into the
+Morrowind CSVs (a DLC record overrides a base one with the same id) and leaves
+the `tags` column empty for the tagger to fill.
 
 ### Tagging items
 
@@ -72,5 +83,5 @@ python3 scripts/tag_records.py           # tag all target CSVs
 python3 scripts/tag_records.py --check    # report what would change, write nothing
 ```
 
-`_generate_csv.ps1` rewrites the CSVs with an empty tags column, so re-run the
-tagger after regenerating.
+`scripts/generate_csv.py` rewrites the CSVs with an empty tags column, so re-run
+the tagger after regenerating.

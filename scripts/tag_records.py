@@ -10,7 +10,7 @@ ingredient categories and misc categories are derived from the record name;
 Tamriel_Data ingredients also use their id prefix taxonomy (T_IngFlor/Food/
 Crea/Mine/Spice/Dye).
 
-Because ``_generate_csv.ps1`` rewrites these CSVs with an empty tags column,
+Because ``scripts/generate_csv.py`` rewrites these CSVs with an empty tags column,
 re-run this script after regenerating to repopulate the tags.
 
 Usage: python3 scripts/tag_records.py [--root REPO_ROOT] [--check]
