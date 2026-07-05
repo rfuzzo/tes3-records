@@ -8,8 +8,8 @@ record, organized as `<Source>/<RecordType>/<id>.yaml`.
 ## Search website
 
 The repository ships a static search site (GitHub Pages) that lets you search
-all ~55,000 records by name or id, filter by source and record type, and view
-the full data of every record.
+all ~55,000 records by name or id, filter by source, record type and item tag
+(e.g. `Chitin` + `Cuirass`), and view the full data of every record.
 
 ### How it works
 
@@ -18,7 +18,9 @@ the full data of every record.
     `source`) that the browser loads once (~400 KB gzipped),
   - `site/data/shards/<Source>__<Type>.json` — the full records, lazy-loaded
     only when you open a record's detail view,
-  - `site/data/meta.json` — sources, record types and counts,
+  - `site/data/meta.json` — sources, record types, tags and counts. Item tags
+    come from the `_out` CSVs (see [Tagging items](#tagging-items)); they are
+    attached to each record and exposed as a filter facet on the site,
   - `site/data/icons/**.png` — DDS/TGA files from `icons/` converted for
     browsers. Records whose `icon` field resolves to a file in `icons/`
     (matched case-insensitively, ignoring the `.tga`/`.dds` extension) show
@@ -49,3 +51,26 @@ cd site && python3 -m http.server    # open http://localhost:8000
 ## Regenerating the CSV dumps
 
 `_generate_csv.ps1` writes per-source/per-type `id,name` CSVs into `_out/`.
+
+### Tagging items
+
+`scripts/tag_records.py` fills the `tags` column of the Armor / Ingredient /
+MiscItem / Weapon CSVs with descriptive Morrowind tags (e.g.
+*Chitin War Axe* → `Weapon, Axe, One-Handed, War Axe, Chitin`;
+*Coda Flower* → `Ingredient, Plant, Flower`).
+
+Weapon and armor type tags are read from the authoritative YAML records —
+`data.weapon_type` for weapons, and `data.armor_type` plus the engine's
+weight-class formula (weight vs a per-slot base weight) for the armor
+Light/Medium/Heavy class, so e.g. *Ebony Mail* is correctly `Medium`. Materials,
+cultures, the specific weapon type, ingredient categories (Plant / Creature /
+Mineral / Food / Spice / Dye) and misc categories are keyword-derived from the
+name — extend the dictionaries at the top of the script to refine those.
+
+```sh
+python3 scripts/tag_records.py           # tag all target CSVs
+python3 scripts/tag_records.py --check    # report what would change, write nothing
+```
+
+`_generate_csv.ps1` rewrites the CSVs with an empty tags column, so re-run the
+tagger after regenerating.
