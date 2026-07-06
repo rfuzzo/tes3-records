@@ -35,24 +35,33 @@ try:
 except ImportError:
     Image = None
 
-# (display source, directory) pairs walked in order. The Tribunal and Bloodmoon
-# expansions are folded into the Morrowind source; walking base -> Tribunal ->
+# Top-level directories that are not record sources.
+SKIP_DIRS = {"_out", "site", "scripts", "icons"}
+
+# Subfolders of the Morrowind dir that are separate source dirs, not record
+# types. They are folded into the Morrowind source; walking base -> Tribunal ->
 # Bloodmoon means that when an id exists in more than one, the later (DLC)
 # record overrides the earlier, matching the game's plugin load order.
-SOURCE_DIRS = [
-    ("Morrowind", "Morrowind"),
-    ("Morrowind", "Morrowind/Tribunal"),
-    ("Morrowind", "Morrowind/Bloodmoon"),
-    ("Tamriel_Data", "Tamriel_Data"),
-    ("TR_Mainland", "TR_Mainland"),
-    ("OAAB_Data", "OAAB_Data"),
-]
+NESTED_DIRS = ("Tribunal", "Bloodmoon")
 
-# Distinct display sources, in UI order.
-SOURCES = ["Morrowind", "Tamriel_Data", "TR_Mainland", "OAAB_Data"]
 
-# Subfolders of the Morrowind dir that are separate source dirs, not record types.
-NESTED_DIRS = {"Tribunal", "Bloodmoon"}
+def discover_sources(root: Path):
+    """Return ([(display_source, rel_dir), ...], [display_source, ...]).
+
+    Every top-level folder is a source (so new ESP dumps are picked up without
+    editing this script); Morrowind additionally folds in its Tribunal and
+    Bloodmoon expansion subfolders.
+    """
+    source_dirs, sources = [], []
+    for d in sorted(p for p in root.iterdir() if p.is_dir()
+                    and p.name not in SKIP_DIRS and not p.name.startswith(".")):
+        sources.append(d.name)
+        source_dirs.append((d.name, d.name))
+        if d.name == "Morrowind":
+            for nested in NESTED_DIRS:
+                if (d / nested).is_dir():
+                    source_dirs.append((d.name, f"{d.name}/{nested}"))
+    return source_dirs, sources
 
 # Record types whose _out/<Source>_<Type>.csv carries a tags column.
 TAGGED_TYPES = ("Armor", "Ingredient", "MiscItem", "Weapon")
@@ -143,6 +152,7 @@ def main() -> int:
 
     icons = convert_icons(root, data_dir / "icons")
     tag_lookup = load_tags(root)
+    source_dirs, sources = discover_sources(root)
 
     index = []           # [id, name, type, source, tags]
     shards = {}          # shard key -> {id: record}
@@ -153,7 +163,7 @@ def main() -> int:
     started = time.time()
 
     overrides = 0
-    for source, rel in SOURCE_DIRS:
+    for source, rel in source_dirs:
         src_dir = root / rel
         if not src_dir.is_dir():
             print(f"warning: missing source dir {src_dir}", file=sys.stderr)
@@ -197,7 +207,7 @@ def main() -> int:
             for t in tags:
                 tag_counts[t] = tag_counts.get(t, 0) + 1
 
-    for source in SOURCES:
+    for source in sources:
         print(f"{source}: {counts.get(source, 0)} records")
     if overrides:
         print(f"{overrides} base records overridden by Tribunal/Bloodmoon")
@@ -209,7 +219,7 @@ def main() -> int:
     meta = {
         "generated": time.strftime("%Y-%m-%d %H:%M:%S UTC", time.gmtime()),
         "total": len(index),
-        "sources": {s: counts.get(s, 0) for s in SOURCES},
+        "sources": {s: counts.get(s, 0) for s in sources},
         "types": dict(sorted(type_counts.items())),
         # Tags sorted by frequency (descending) so the UI can show common first.
         "tags": dict(sorted(tag_counts.items(), key=lambda kv: (-kv[1], kv[0]))),
