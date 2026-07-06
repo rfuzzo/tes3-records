@@ -15,6 +15,9 @@ blood:
 boar:
   - T_IngFood_MeatBoar_02
 bread:
+  - T_IngFood_Bread_01
+  - T_IngFood_Bread_02
+  - T_IngFood_Bread_03
   - T_IngFood_BreadColovian_01
   - T_IngFood_BreadColovian_02
   - T_IngFood_BreadDeshaan_01
@@ -34,9 +37,6 @@ bread:
   - T_IngFood_BreadRedguard_01
   - T_IngFood_BreadRedguard_02
   - T_IngFood_BreadRedguard_03
-  - T_IngFood_Bread_01
-  - T_IngFood_Bread_02
-  - T_IngFood_Bread_03
   - T_IngFood_UNI_ChocoMuffin
 butterfly:
   - T_IngCrea_ButterflyWingCyr_01
@@ -112,8 +112,8 @@ creature:
   - T_IngCrea_DuskyParrotfish_01
   - T_IngCrea_DWyrmGland
   - T_IngCrea_EmbalmingPaste_01
-  - T_IngCrea_EyestarDae_01
   - T_IngCrea_Eyestar_01
+  - T_IngCrea_EyestarDae_01
   - T_IngCrea_FlyMusk_01
   - T_IngCrea_FrogEye_01
   - T_IngCrea_FrostTrollPelt_01
@@ -203,8 +203,8 @@ creature:
   - T_IngCrea_YethResin_01
 crystal:
   - T_IngMine_IceCrystal_01
-  - T_IngMine_RockCrystalDae_01
   - T_IngMine_Rockcrystal_01
+  - T_IngMine_RockCrystalDae_01
 durzog:
   - T_IngCrea_DurzogHide_01
 dust:
@@ -235,8 +235,8 @@ egg:
 eye:
   - T_IngCrea_AtavisticEye_01
   - T_IngCrea_DaedricBatEye_01
-  - T_IngMine_KhajiitEyeDae_01
   - T_IngMine_KhajiitEye_01
+  - T_IngMine_KhajiitEyeDae_01
 feather:
   - T_IngCrea _StridentBirdFeath_01
   - T_IngCrea_AebisFeathers_01
@@ -251,8 +251,8 @@ flower:
   - T_IngFlor_ArrowrootFlower_01
   - T_IngFlor_Bearclaw_01
   - T_IngFlor_BjoulsaeRose_01
-  - T_IngFlor_BlackrosePetalDae_01
   - T_IngFlor_BlackrosePetal_01
+  - T_IngFlor_BlackrosePetalDae_01
   - T_IngFlor_BloodlilyFlower_01
   - T_IngFlor_BloodlilyPod_01
   - T_IngFlor_Cowbell_01
@@ -272,8 +272,8 @@ flower:
   - T_IngFlor_MorningGlory_01
   - T_IngFlor_Oleander_01
   - T_IngFlor_Persarine_01
-  - T_IngFlor_RedrosePetalDae_01
   - T_IngFlor_RedrosePetal_01
+  - T_IngFlor_RedrosePetalDae_01
   - T_IngFlor_Shadowfly_01
   - T_IngFlor_SnowBlossom_01
   - T_IngFlor_SomberWidow_01
@@ -289,10 +289,13 @@ flower:
   - T_IngMine_RoseQuartz_01
 food:
   - T_IngFood_AltachiPear_01
-  - T_IngFood_AppleSkyrim_01
   - T_IngFood_Apple_01
+  - T_IngFood_AppleSkyrim_01
   - T_IngFood_Blackberry_01
   - T_IngFood_Blueberry_01
+  - T_IngFood_Bread_01
+  - T_IngFood_Bread_02
+  - T_IngFood_Bread_03
   - T_IngFood_BreadBretonLong_01
   - T_IngFood_BreadBretonLong_02
   - T_IngFood_BreadBretonLong_03
@@ -315,9 +318,6 @@ food:
   - T_IngFood_BreadRedguard_01
   - T_IngFood_BreadRedguard_02
   - T_IngFood_BreadRedguard_03
-  - T_IngFood_Bread_01
-  - T_IngFood_Bread_02
-  - T_IngFood_Bread_03
   - T_IngFood_BridethornBerry_01
   - T_IngFood_Cake_01
   - T_IngFood_Carrot_01
@@ -339,12 +339,12 @@ food:
   - T_IngFood_Fig_Dried_01
   - T_IngFood_FishBrowntrout_01
   - T_IngFood_FishChrysophant_01
-  - T_IngFood_FishCodDried_01
   - T_IngFood_FishCod_01
+  - T_IngFood_FishCodDried_01
   - T_IngFood_FishLeaperTail_01
   - T_IngFood_FishLongfinFilet_01
-  - T_IngFood_FishPikeperch_01
   - T_IngFood_FishPike_01
+  - T_IngFood_FishPikeperch_01
   - T_IngFood_FishSalmon_01
   - T_IngFood_FishSlaughterDried_01
   - T_IngFood_FishSlaughterDried_02
@@ -356,9 +356,9 @@ food:
   - T_IngFood_Garlic_01
   - T_IngFood_Gooseb01
   - T_IngFood_Gorapple_01
-  - T_IngFood_GrapeWrothgarian_01
   - T_IngFood_Grape_01
   - T_IngFood_Grape_02
+  - T_IngFood_GrapeWrothgarian_01
   - T_IngFood_Hardtack_01
   - T_IngFood_Honey_01
   - T_IngFood_Indureta_01
@@ -401,8 +401,8 @@ food:
   - T_IngFood_PorridgePalm_01
   - T_IngFood_Potato_01
   - T_IngFood_Radish_01
-  - T_IngFood_RiceCake_01
   - T_IngFood_Rice_01
+  - T_IngFood_RiceCake_01
   - T_IngFood_RiverstriderEgg_01
   - T_IngFood_Scone_01
   - T_IngFood_ScribPie_01
@@ -438,39 +438,39 @@ fur:
   - T_IngCrea_GoatPelt_01
   - T_IngCrea_Muskratfur_01
 gem:
-  - T_IngMine_AmberDae_01
   - T_IngMine_Amber_01
-  - T_IngMine_AmethystDae_01
+  - T_IngMine_AmberDae_01
   - T_IngMine_Amethyst_01
+  - T_IngMine_AmethystDae_01
   - T_IngMine_Ametrine_01
   - T_IngMine_DiamondBlue_01
   - T_IngMine_DiamondDeTomb_01
   - T_IngMine_DiamondRed_01
   - T_IngMine_EmeraldDeTomb_01
   - T_IngMine_FireOpal_01
-  - T_IngMine_GarnetDae_01
   - T_IngMine_Garnet_01
-  - T_IngMine_MoonstoneDae_01
+  - T_IngMine_GarnetDae_01
   - T_IngMine_Moonstone_01
+  - T_IngMine_MoonstoneDae_01
   - T_IngMine_Onyx_01
-  - T_IngMine_OpalDae_01
   - T_IngMine_Opal_01
-  - T_IngMine_PearlBlackDae_01
+  - T_IngMine_OpalDae_01
   - T_IngMine_PearlBlack_01
-  - T_IngMine_PearlBlueDae_01
+  - T_IngMine_PearlBlackDae_01
   - T_IngMine_PearlBlue_01
+  - T_IngMine_PearlBlueDae_01
   - T_IngMine_PearlDeTomb_01
   - T_IngMine_PearlKardesh_01
-  - T_IngMine_PearlPinkDae_01
   - T_IngMine_PearlPink_01
-  - T_IngMine_PeridotDae_01
+  - T_IngMine_PearlPinkDae_01
   - T_IngMine_Peridot_01
+  - T_IngMine_PeridotDae_01
   - T_IngMine_RubyDeTomb_01
-  - T_IngMine_SapphireDae_01
   - T_IngMine_Sapphire_01
+  - T_IngMine_SapphireDae_01
+  - T_IngMine_Topaz_01
   - T_IngMine_TopazBlue_01
   - T_IngMine_TopazDae_01
-  - T_IngMine_Topaz_01
 goat:
   - T_IngCrea_GoatPelt_01
   - T_IngFood_MeatGoat_01
@@ -548,8 +548,8 @@ ingredient:
   - T_IngCrea_DuskyParrotfish_01
   - T_IngCrea_DWyrmGland
   - T_IngCrea_EmbalmingPaste_01
-  - T_IngCrea_EyestarDae_01
   - T_IngCrea_Eyestar_01
+  - T_IngCrea_EyestarDae_01
   - T_IngCrea_FlyMusk_01
   - T_IngCrea_FrogEye_01
   - T_IngCrea_FrostTrollPelt_01
@@ -648,8 +648,8 @@ ingredient:
   - T_IngFlor_AloeVeraPulp_01
   - T_IngFlor_AnemicTwinstipe_01
   - T_IngFlor_Aquilegia_01
-  - T_IngFlor_ArrowrootFlower_01
   - T_IngFlor_Arrowroot_01
+  - T_IngFlor_ArrowrootFlower_01
   - T_IngFlor_Ashdew_01
   - T_IngFlor_AspyrTea_01
   - T_IngFlor_Asteria_01
@@ -657,8 +657,8 @@ ingredient:
   - T_IngFlor_BertpodSlice_01
   - T_IngFlor_Bitterstar_01
   - T_IngFlor_BjoulsaeRose_01
-  - T_IngFlor_BlackrosePetalDae_01
   - T_IngFlor_BlackrosePetal_01
+  - T_IngFlor_BlackrosePetalDae_01
   - T_IngFlor_BlacksporeCap_01
   - T_IngFlor_Bleakbell_01
   - T_IngFlor_Bleakstar_01
@@ -760,16 +760,16 @@ ingredient:
   - T_IngFlor_Mindcap_01
   - T_IngFlor_Mistletoe_01
   - T_IngFlor_MonardaSeed_01
-  - T_IngFlor_MonkshoodRootPulp_01
   - T_IngFlor_Monkshood_01
+  - T_IngFlor_MonkshoodRootPulp_01
   - T_IngFlor_Moosebite_01
   - T_IngFlor_MorningGlory_01
   - T_IngFlor_Motherwort_01
   - T_IngFlor_MountainDamask
   - T_IngFlor_Mustard_01
   - T_IngFlor_NgopRoot_01
-  - T_IngFlor_NightshadeDae_01
   - T_IngFlor_Nightshade_01
+  - T_IngFlor_NightshadeDae_01
   - T_IngFlor_Nirnroot_01
   - T_IngFlor_NoddingStreakwort
   - T_IngFlor_Oleander_01
@@ -790,8 +790,8 @@ ingredient:
   - T_IngFlor_RedCoral_01
   - T_IngFlor_RedGreenPepper_01
   - T_IngFlor_Redpoppy_01
-  - T_IngFlor_RedrosePetalDae_01
   - T_IngFlor_RedrosePetal_01
+  - T_IngFlor_RedrosePetalDae_01
   - T_IngFlor_RockburstClaw_01
   - T_IngFlor_RockburstPod_01
   - T_IngFlor_RougeCamillea_01
@@ -861,10 +861,13 @@ ingredient:
   - T_IngFlor_YuinRoot_01
   - T_IngFlor_ZukomaBlossom_01
   - T_IngFood_AltachiPear_01
-  - T_IngFood_AppleSkyrim_01
   - T_IngFood_Apple_01
+  - T_IngFood_AppleSkyrim_01
   - T_IngFood_Blackberry_01
   - T_IngFood_Blueberry_01
+  - T_IngFood_Bread_01
+  - T_IngFood_Bread_02
+  - T_IngFood_Bread_03
   - T_IngFood_BreadBretonLong_01
   - T_IngFood_BreadBretonLong_02
   - T_IngFood_BreadBretonLong_03
@@ -887,9 +890,6 @@ ingredient:
   - T_IngFood_BreadRedguard_01
   - T_IngFood_BreadRedguard_02
   - T_IngFood_BreadRedguard_03
-  - T_IngFood_Bread_01
-  - T_IngFood_Bread_02
-  - T_IngFood_Bread_03
   - T_IngFood_BridethornBerry_01
   - T_IngFood_Cake_01
   - T_IngFood_Carrot_01
@@ -911,12 +911,12 @@ ingredient:
   - T_IngFood_Fig_Dried_01
   - T_IngFood_FishBrowntrout_01
   - T_IngFood_FishChrysophant_01
-  - T_IngFood_FishCodDried_01
   - T_IngFood_FishCod_01
+  - T_IngFood_FishCodDried_01
   - T_IngFood_FishLeaperTail_01
   - T_IngFood_FishLongfinFilet_01
-  - T_IngFood_FishPikeperch_01
   - T_IngFood_FishPike_01
+  - T_IngFood_FishPikeperch_01
   - T_IngFood_FishSalmon_01
   - T_IngFood_FishSlaughterDried_01
   - T_IngFood_FishSlaughterDried_02
@@ -928,9 +928,9 @@ ingredient:
   - T_IngFood_Garlic_01
   - T_IngFood_Gooseb01
   - T_IngFood_Gorapple_01
-  - T_IngFood_GrapeWrothgarian_01
   - T_IngFood_Grape_01
   - T_IngFood_Grape_02
+  - T_IngFood_GrapeWrothgarian_01
   - T_IngFood_Hardtack_01
   - T_IngFood_Honey_01
   - T_IngFood_Indureta_01
@@ -973,8 +973,8 @@ ingredient:
   - T_IngFood_PorridgePalm_01
   - T_IngFood_Potato_01
   - T_IngFood_Radish_01
-  - T_IngFood_RiceCake_01
   - T_IngFood_Rice_01
+  - T_IngFood_RiceCake_01
   - T_IngFood_RiverstriderEgg_01
   - T_IngFood_Scone_01
   - T_IngFood_ScribPie_01
@@ -999,17 +999,17 @@ ingredient:
   - T_IngMine_Agate_02
   - T_IngMine_Agate_03
   - T_IngMine_Agate_04
-  - T_IngMine_AmberDae_01
   - T_IngMine_Amber_01
-  - T_IngMine_AmethystDae_01
+  - T_IngMine_AmberDae_01
   - T_IngMine_Amethyst_01
+  - T_IngMine_AmethystDae_01
   - T_IngMine_Ametrine_01
   - T_IngMine_Antimony_01
-  - T_IngMine_AquamarineDae_01
   - T_IngMine_Aquamarine_01
+  - T_IngMine_AquamarineDae_01
   - T_IngMine_Arsenic_01
-  - T_IngMine_BloodstoneDae_01
   - T_IngMine_Bloodstone_01
+  - T_IngMine_BloodstoneDae_01
   - T_IngMine_CaputMortuum_01
   - T_IngMine_Chalk_01
   - T_IngMine_Charcoal_01
@@ -1022,29 +1022,29 @@ ingredient:
   - T_IngMine_FireOpal_01
   - T_IngMine_Flashgrit_01
   - T_IngMine_FoolsGold_01
-  - T_IngMine_GarnetDae_01
   - T_IngMine_Garnet_01
+  - T_IngMine_GarnetDae_01
   - T_IngMine_IceCrystal_01
   - T_IngMine_Jade_01
-  - T_IngMine_JetDae_01
   - T_IngMine_Jet_01
-  - T_IngMine_KhajiitEyeDae_01
+  - T_IngMine_JetDae_01
   - T_IngMine_KhajiitEye_01
+  - T_IngMine_KhajiitEyeDae_01
   - T_IngMine_LapisLazuli_01
   - T_IngMine_Lodestone_01
   - T_IngMine_LunarCaustic_01
   - T_IngMine_Malouchite_01
-  - T_IngMine_MoonstoneDae_01
   - T_IngMine_Moonstone_01
+  - T_IngMine_MoonstoneDae_01
   - T_IngMine_Onyx_01
-  - T_IngMine_OpalDae_01
   - T_IngMine_Opal_01
+  - T_IngMine_OpalDae_01
   - T_IngMine_OreBitterstone_01
   - T_IngMine_OreBrass_01
   - T_IngMine_OreCobalt_01
   - T_IngMine_OreCopper_01
-  - T_IngMine_OreGoldDae_01
   - T_IngMine_OreGold_01
+  - T_IngMine_OreGoldDae_01
   - T_IngMine_OreIron_01
   - T_IngMine_OreLead_01
   - T_IngMine_OreMercury_01
@@ -1056,35 +1056,35 @@ ingredient:
   - T_IngMine_OreSulfur_01
   - T_IngMine_OreTin_01
   - T_IngMine_OreZinc_01
-  - T_IngMine_PearlBlackDae_01
   - T_IngMine_PearlBlack_01
-  - T_IngMine_PearlBlueDae_01
+  - T_IngMine_PearlBlackDae_01
   - T_IngMine_PearlBlue_01
+  - T_IngMine_PearlBlueDae_01
   - T_IngMine_PearlDeTomb_01
   - T_IngMine_PearlKardesh_01
-  - T_IngMine_PearlPinkDae_01
   - T_IngMine_PearlPink_01
-  - T_IngMine_PeridotDae_01
+  - T_IngMine_PearlPinkDae_01
   - T_IngMine_Peridot_01
+  - T_IngMine_PeridotDae_01
   - T_IngMine_Realgar_01
-  - T_IngMine_RockCrystalDae_01
   - T_IngMine_Rockcrystal_01
+  - T_IngMine_RockCrystalDae_01
   - T_IngMine_RoseQuartz_01
   - T_IngMine_RubyDeTomb_01
   - T_IngMine_Salt_01
-  - T_IngMine_SapphireDae_01
   - T_IngMine_Sapphire_01
+  - T_IngMine_SapphireDae_01
   - T_IngMine_SmokyQuartz_01
   - T_IngMine_Spellstone_01
-  - T_IngMine_SpinelDae_01
   - T_IngMine_Spinel_01
-  - T_IngMine_TektiteDae_01
+  - T_IngMine_SpinelDae_01
   - T_IngMine_Tektite_01
+  - T_IngMine_TektiteDae_01
+  - T_IngMine_Topaz_01
   - T_IngMine_TopazBlue_01
   - T_IngMine_TopazDae_01
-  - T_IngMine_Topaz_01
-  - T_IngMine_TurquoiseDae_01
   - T_IngMine_Turquoise_01
+  - T_IngMine_TurquoiseDae_01
   - T_IngSpice_Anise_01
   - T_IngSpice_Cardamon_01
   - T_IngSpice_Cinnamon_01
@@ -1137,8 +1137,8 @@ meat:
   - T_IngCrea_SturgeonMeat_01
   - T_IngFlor_Coconut_01
   - T_IngFood_FishBrowntrout_01
-  - T_IngFood_FishPikeperch_01
   - T_IngFood_FishPike_01
+  - T_IngFood_FishPikeperch_01
   - T_IngFood_FishSalmon_01
   - T_IngFood_MeatAlit_01
   - T_IngFood_MeatBoar_02
@@ -1163,17 +1163,17 @@ mineral:
   - T_IngMine_Agate_02
   - T_IngMine_Agate_03
   - T_IngMine_Agate_04
-  - T_IngMine_AmberDae_01
   - T_IngMine_Amber_01
-  - T_IngMine_AmethystDae_01
+  - T_IngMine_AmberDae_01
   - T_IngMine_Amethyst_01
+  - T_IngMine_AmethystDae_01
   - T_IngMine_Ametrine_01
   - T_IngMine_Antimony_01
-  - T_IngMine_AquamarineDae_01
   - T_IngMine_Aquamarine_01
+  - T_IngMine_AquamarineDae_01
   - T_IngMine_Arsenic_01
-  - T_IngMine_BloodstoneDae_01
   - T_IngMine_Bloodstone_01
+  - T_IngMine_BloodstoneDae_01
   - T_IngMine_CaputMortuum_01
   - T_IngMine_Chalk_01
   - T_IngMine_Charcoal_01
@@ -1186,29 +1186,29 @@ mineral:
   - T_IngMine_FireOpal_01
   - T_IngMine_Flashgrit_01
   - T_IngMine_FoolsGold_01
-  - T_IngMine_GarnetDae_01
   - T_IngMine_Garnet_01
+  - T_IngMine_GarnetDae_01
   - T_IngMine_IceCrystal_01
   - T_IngMine_Jade_01
-  - T_IngMine_JetDae_01
   - T_IngMine_Jet_01
-  - T_IngMine_KhajiitEyeDae_01
+  - T_IngMine_JetDae_01
   - T_IngMine_KhajiitEye_01
+  - T_IngMine_KhajiitEyeDae_01
   - T_IngMine_LapisLazuli_01
   - T_IngMine_Lodestone_01
   - T_IngMine_LunarCaustic_01
   - T_IngMine_Malouchite_01
-  - T_IngMine_MoonstoneDae_01
   - T_IngMine_Moonstone_01
+  - T_IngMine_MoonstoneDae_01
   - T_IngMine_Onyx_01
-  - T_IngMine_OpalDae_01
   - T_IngMine_Opal_01
+  - T_IngMine_OpalDae_01
   - T_IngMine_OreBitterstone_01
   - T_IngMine_OreBrass_01
   - T_IngMine_OreCobalt_01
   - T_IngMine_OreCopper_01
-  - T_IngMine_OreGoldDae_01
   - T_IngMine_OreGold_01
+  - T_IngMine_OreGoldDae_01
   - T_IngMine_OreIron_01
   - T_IngMine_OreLead_01
   - T_IngMine_OreMercury_01
@@ -1220,35 +1220,35 @@ mineral:
   - T_IngMine_OreSulfur_01
   - T_IngMine_OreTin_01
   - T_IngMine_OreZinc_01
-  - T_IngMine_PearlBlackDae_01
   - T_IngMine_PearlBlack_01
-  - T_IngMine_PearlBlueDae_01
+  - T_IngMine_PearlBlackDae_01
   - T_IngMine_PearlBlue_01
+  - T_IngMine_PearlBlueDae_01
   - T_IngMine_PearlDeTomb_01
   - T_IngMine_PearlKardesh_01
-  - T_IngMine_PearlPinkDae_01
   - T_IngMine_PearlPink_01
-  - T_IngMine_PeridotDae_01
+  - T_IngMine_PearlPinkDae_01
   - T_IngMine_Peridot_01
+  - T_IngMine_PeridotDae_01
   - T_IngMine_Realgar_01
-  - T_IngMine_RockCrystalDae_01
   - T_IngMine_Rockcrystal_01
+  - T_IngMine_RockCrystalDae_01
   - T_IngMine_RoseQuartz_01
   - T_IngMine_RubyDeTomb_01
   - T_IngMine_Salt_01
-  - T_IngMine_SapphireDae_01
   - T_IngMine_Sapphire_01
+  - T_IngMine_SapphireDae_01
   - T_IngMine_SmokyQuartz_01
   - T_IngMine_Spellstone_01
-  - T_IngMine_SpinelDae_01
   - T_IngMine_Spinel_01
-  - T_IngMine_TektiteDae_01
+  - T_IngMine_SpinelDae_01
   - T_IngMine_Tektite_01
+  - T_IngMine_TektiteDae_01
+  - T_IngMine_Topaz_01
   - T_IngMine_TopazBlue_01
   - T_IngMine_TopazDae_01
-  - T_IngMine_Topaz_01
-  - T_IngMine_TurquoiseDae_01
   - T_IngMine_Turquoise_01
+  - T_IngMine_TurquoiseDae_01
 moth:
   - T_IngCrea_MoonMothWing_01
   - T_IngCrea_MothWingCyr_02
@@ -1281,8 +1281,8 @@ ore:
   - T_IngMine_OreBrass_01
   - T_IngMine_OreCobalt_01
   - T_IngMine_OreCopper_01
-  - T_IngMine_OreGoldDae_01
   - T_IngMine_OreGold_01
+  - T_IngMine_OreGoldDae_01
   - T_IngMine_OreIron_01
   - T_IngMine_OreLead_01
   - T_IngMine_OreOrichalcum_01
@@ -1314,8 +1314,8 @@ plant:
   - T_IngFlor_AloeVeraPulp_01
   - T_IngFlor_AnemicTwinstipe_01
   - T_IngFlor_Aquilegia_01
-  - T_IngFlor_ArrowrootFlower_01
   - T_IngFlor_Arrowroot_01
+  - T_IngFlor_ArrowrootFlower_01
   - T_IngFlor_Ashdew_01
   - T_IngFlor_AspyrTea_01
   - T_IngFlor_Asteria_01
@@ -1323,8 +1323,8 @@ plant:
   - T_IngFlor_BertpodSlice_01
   - T_IngFlor_Bitterstar_01
   - T_IngFlor_BjoulsaeRose_01
-  - T_IngFlor_BlackrosePetalDae_01
   - T_IngFlor_BlackrosePetal_01
+  - T_IngFlor_BlackrosePetalDae_01
   - T_IngFlor_BlacksporeCap_01
   - T_IngFlor_Bleakbell_01
   - T_IngFlor_Bleakstar_01
@@ -1426,16 +1426,16 @@ plant:
   - T_IngFlor_Mindcap_01
   - T_IngFlor_Mistletoe_01
   - T_IngFlor_MonardaSeed_01
-  - T_IngFlor_MonkshoodRootPulp_01
   - T_IngFlor_Monkshood_01
+  - T_IngFlor_MonkshoodRootPulp_01
   - T_IngFlor_Moosebite_01
   - T_IngFlor_MorningGlory_01
   - T_IngFlor_Motherwort_01
   - T_IngFlor_MountainDamask
   - T_IngFlor_Mustard_01
   - T_IngFlor_NgopRoot_01
-  - T_IngFlor_NightshadeDae_01
   - T_IngFlor_Nightshade_01
+  - T_IngFlor_NightshadeDae_01
   - T_IngFlor_Nirnroot_01
   - T_IngFlor_NoddingStreakwort
   - T_IngFlor_Oleander_01
@@ -1456,8 +1456,8 @@ plant:
   - T_IngFlor_RedCoral_01
   - T_IngFlor_RedGreenPepper_01
   - T_IngFlor_Redpoppy_01
-  - T_IngFlor_RedrosePetalDae_01
   - T_IngFlor_RedrosePetal_01
+  - T_IngFlor_RedrosePetalDae_01
   - T_IngFlor_RockburstClaw_01
   - T_IngFlor_RockburstPod_01
   - T_IngFlor_RougeCamillea_01

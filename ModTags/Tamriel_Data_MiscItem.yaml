@@ -168,21 +168,21 @@ cloth:
   - T_Bre_Clothbolt_01
   - T_Bre_Clothbolt_02
   - T_Bre_Clothbolt_03
-  - T_Com_ClothBrownFolded_01
   - T_Com_ClothBrown_01
-  - T_Com_ClothGreenFolded_01
+  - T_Com_ClothBrownFolded_01
   - T_Com_ClothGreen_01
-  - T_Com_ClothPlainFolded_01
+  - T_Com_ClothGreenFolded_01
   - T_Com_ClothPlain_01
   - T_Com_ClothPlain_02
-  - T_Com_ClothPurpleFolded_01
+  - T_Com_ClothPlainFolded_01
   - T_Com_ClothPurple_01
+  - T_Com_ClothPurpleFolded_01
   - T_Com_ClothRag_01
   - T_Com_ClothRag_02
-  - T_Com_ClothRedFolded_01
   - T_Com_ClothRed_01
-  - T_Com_ClothYellowFolded_01
+  - T_Com_ClothRedFolded_01
   - T_Com_ClothYellow_01
+  - T_Com_ClothYellowFolded_01
   - T_Com_Sheet_01
   - T_Com_Sheet_02
   - T_Com_Sheet_03
@@ -205,10 +205,9 @@ cloth:
   - T_Nor_Clothbolt_02
   - T_Nor_Clothbolt_03
 clutter:
-  - tr_misc_exp_compass
   - T_Arg_WoodenJar_01
-  - T_Arg_WoodenMatRolled_01
   - T_Arg_WoodenMat_01
+  - T_Arg_WoodenMatRolled_01
   - T_Ayl_ClayJar_01
   - T_Ayl_ClayJar_02
   - T_Ayl_DWelkyndInv_01
@@ -240,13 +239,13 @@ clutter:
   - T_Com_BallLeather
   - T_Com_BallWoodBrown
   - T_Com_BallWoodRed
-  - T_Com_BookendPoor_01
-  - T_Com_BookendRich_01
   - T_Com_Book_Burned_01
   - T_Com_Book_Ruin_01
   - T_Com_Book_Ruin_02
   - T_Com_Book_Ruin_03
   - T_Com_Book_Ruin_04
+  - T_Com_BookendPoor_01
+  - T_Com_BookendRich_01
   - T_Com_Breadpaddle_01a
   - T_Com_Breadpaddle_01b
   - T_Com_Breadpaddle_02a
@@ -274,8 +273,8 @@ clutter:
   - T_Com_CoppetTeapot_01
   - T_Com_Cork
   - T_Com_Corkscrew
-  - T_Com_CrystalBallStand_01
   - T_Com_CrystalBall_01
+  - T_Com_CrystalBallStand_01
   - T_Com_CuttingBoard_01
   - T_Com_CuttingBoard_02
   - T_Com_CuttingBoard_03
@@ -303,6 +302,7 @@ clutter:
   - T_Com_Map_Tamriel_01
   - T_Com_MetalBlank_01
   - T_Com_Misc_Seal
+  - T_Com_Paint_Palette_01
   - T_Com_Paintbrush_01
   - T_Com_Paintbrush_02
   - T_Com_Paintbrush_03
@@ -311,7 +311,6 @@ clutter:
   - T_Com_Paintbrush_04G
   - T_Com_Paintbrush_04R
   - T_Com_Paintbrush_04Y
-  - T_Com_Paint_Palette_01
   - T_Com_Pincushion_01
   - T_Com_Pulley_01
   - T_Com_PumiceStone_01
@@ -354,12 +353,12 @@ clutter:
   - T_Com_WoodClamp_01
   - T_Com_WoodTray_a01
   - T_Com_Worms_01
+  - T_Cr_GoblinWhistle_01
+  - T_Cr_UNI_SeadrakeEgg
   - T_Cre_MinoTool_01
   - T_Cre_MinoTool_02
   - T_Cre_MinoTool_03
   - T_Cre_MinoTool_04
-  - T_Cr_GoblinWhistle_01
-  - T_Cr_UNI_SeadrakeEgg
   - T_Dae_UNI_SanguinesRose
   - T_De_Abacus_01
   - T_De_BlueGlassBowel_01
@@ -496,9 +495,9 @@ clutter:
   - T_Dwe_ExplodoEye_01
   - T_Dwe_ExplodoFlaps_01
   - T_Dwe_ExplodoRotors_01
-  - T_Dwe_ParchmentRoll_Blnk01
   - T_Dwe_Parchment_Blnk01
   - T_Dwe_Parchment_Blnk02
+  - T_Dwe_ParchmentRoll_Blnk01
   - T_Dwe_Rubber_01
   - T_Dwe_Schematic01
   - T_Dwe_Schematic02
@@ -631,8 +630,8 @@ clutter:
   - T_Nor_IronwoodLog_01
   - T_Nor_IronwoodLog_02
   - T_Nor_PotionBagEmptyPoor_01
-  - T_Nor_SkiPole_01
   - T_Nor_Ski_01
+  - T_Nor_SkiPole_01
   - T_Nor_UNI_Penumbra_01
   - T_Qy_BronzeLadel
   - T_Qy_Dice_01
@@ -643,12 +642,12 @@ clutter:
   - T_Rga_CompassExp_01
   - T_Rga_Crucible_01
   - T_Rga_Die_01
-  - T_Rga_HookahTubing_01
-  - T_Rga_HookahTubing_02
-  - T_Rga_HookahTubing_03
   - T_Rga_Hookah_01
   - T_Rga_Hookah_02
   - T_Rga_Hookah_03
+  - T_Rga_HookahTubing_01
+  - T_Rga_HookahTubing_02
+  - T_Rga_HookahTubing_03
   - T_Rga_Inkwell_01
   - T_Rga_MemoryStone_01
   - T_We_Basiliskhide_01
@@ -659,6 +658,7 @@ clutter:
   - T_Yne_StoneTeapot
   - T_Yne_WoodenChopstick_01
   - T_Yne_WoodenTeapot_01
+  - tr_misc_exp_compass
 coin:
   - T_Ayl_CoinBig_01
   - T_Ayl_CoinGold_01
@@ -725,14 +725,14 @@ decoration:
   - T_Nor_IronwoodVase_02
   - T_Nor_SilverVase_01
   - T_Nor_SilverVase_02
-  - T_QyC_ShellwareVase_01
-  - T_QyC_ShellwareVase_02
-  - T_QyK_CeramicVase_01
-  - T_QyK_CeramicVase_02
   - T_Qy_BronzeVase_01
   - T_Qy_BronzeVase_02
   - T_Qy_BronzeVase_03
   - T_Qy_RedGlassVase
+  - T_QyC_ShellwareVase_01
+  - T_QyC_ShellwareVase_02
+  - T_QyK_CeramicVase_01
+  - T_QyK_CeramicVase_02
   - T_Rga_PorcelainVase_01
   - T_Rga_PorcelainVase_02
   - T_Rga_PorcelainVase_03
@@ -750,15 +750,14 @@ dwemer:
   - T_Dwe_ExplodoEye_01
   - T_Dwe_ExplodoFlaps_01
   - T_Dwe_ExplodoRotors_01
-  - T_Dwe_ParchmentRoll_Blnk01
   - T_Dwe_Parchment_Blnk01
   - T_Dwe_Parchment_Blnk02
+  - T_Dwe_ParchmentRoll_Blnk01
   - T_Dwe_Rubber_01
   - T_Dwe_Wire_01
 dwemer artifact:
   - T_Dwe_CohererPowered_01
 ebony:
-  - T_De_EbonyInkwell_01
   - T_De_Ebony_Bowl_01
   - T_De_Ebony_Bowl_02
   - T_De_Ebony_Cup_01
@@ -769,6 +768,7 @@ ebony:
   - T_De_Ebony_Plate_01
   - T_De_Ebony_Platter_01
   - T_De_Ebony_Spoon_01
+  - T_De_EbonyInkwell_01
   - T_De_ScalesEbony_01
   - T_De_ScalesEbony_02
 fur:
@@ -790,10 +790,10 @@ furnishing:
   - T_Imp_PillowSilk_01
   - T_Imp_PillowVelvetRed_01
   - T_Nor_PillowWool_01
+  - T_Rga_Pillow_01
   - T_Rga_PillowDec_01
   - T_Rga_PillowDec_02
   - T_Rga_PillowDec_03
-  - T_Rga_Pillow_01
 gem:
   - T_Dae_GemHero_01
   - T_Dae_MagickaResartus_01
@@ -1096,11 +1096,11 @@ knife:
   - T_Nor_WoodenKnife_01b
   - T_Nor_WoodenKnife_02a
   - T_Nor_WoodenKnife_02b
-  - T_QyC_ShellwareKnife
-  - T_QyK_CeramicKnife
   - T_Qy_BronzeKnife
   - T_Qy_PalmwoodKnife
   - T_Qy_RedGlassKnife
+  - T_QyC_ShellwareKnife
+  - T_QyK_CeramicKnife
   - T_Rga_ClayCutlery_03
   - T_Rga_PorcelainCutlery_02
   - T_Rga_WoodCutlery_03
@@ -1130,7 +1130,6 @@ metal:
   - T_Com_MetalPieceSilver_03
   - T_Com_MetalPieceSteel_01
 miscitem:
-  - tr_misc_exp_compass
   - T_Arg_CeramicBottle_01
   - T_Arg_CeramicBottle_02
   - T_Arg_CeramicCup_01
@@ -1158,8 +1157,8 @@ miscitem:
   - T_Arg_WoodenKettle_01
   - T_Arg_WoodenKnife_01
   - T_Arg_WoodenLadle_01
-  - T_Arg_WoodenMatRolled_01
   - T_Arg_WoodenMat_01
+  - T_Arg_WoodenMatRolled_01
   - T_Arg_WoodenPitcher_01
   - T_Arg_WoodenPlate_01
   - T_Arg_WoodenPlatter_01
@@ -1324,13 +1323,13 @@ miscitem:
   - T_Com_BallWoodBrown
   - T_Com_BallWoodRed
   - T_Com_Bone
-  - T_Com_BookendPoor_01
-  - T_Com_BookendRich_01
   - T_Com_Book_Burned_01
   - T_Com_Book_Ruin_01
   - T_Com_Book_Ruin_02
   - T_Com_Book_Ruin_03
   - T_Com_Book_Ruin_04
+  - T_Com_BookendPoor_01
+  - T_Com_BookendRich_01
   - T_Com_BottleRed_01
   - T_Com_BottleRed_02
   - T_Com_BottleRed_03
@@ -1365,21 +1364,21 @@ miscitem:
   - T_Com_Chisel_02
   - T_Com_Chisel_03
   - T_Com_Cleet_01
-  - T_Com_ClothBrownFolded_01
   - T_Com_ClothBrown_01
-  - T_Com_ClothGreenFolded_01
+  - T_Com_ClothBrownFolded_01
   - T_Com_ClothGreen_01
-  - T_Com_ClothPlainFolded_01
+  - T_Com_ClothGreenFolded_01
   - T_Com_ClothPlain_01
   - T_Com_ClothPlain_02
-  - T_Com_ClothPurpleFolded_01
+  - T_Com_ClothPlainFolded_01
   - T_Com_ClothPurple_01
+  - T_Com_ClothPurpleFolded_01
   - T_Com_ClothRag_01
   - T_Com_ClothRag_02
-  - T_Com_ClothRedFolded_01
   - T_Com_ClothRed_01
-  - T_Com_ClothYellowFolded_01
+  - T_Com_ClothRedFolded_01
   - T_Com_ClothYellow_01
+  - T_Com_ClothYellowFolded_01
   - T_Com_CoatofArms_01
   - T_Com_CoconutBowl_01
   - T_Com_CoconutBowl_02
@@ -1396,8 +1395,8 @@ miscitem:
   - T_Com_CoppetTeapot_01
   - T_Com_Cork
   - T_Com_Corkscrew
-  - T_Com_CrystalBallStand_01
   - T_Com_CrystalBall_01
+  - T_Com_CrystalBallStand_01
   - T_Com_CuttingBoard_01
   - T_Com_CuttingBoard_02
   - T_Com_CuttingBoard_03
@@ -1476,9 +1475,10 @@ miscitem:
   - T_Com_MetalPieceSilver_03
   - T_Com_MetalPieceSteel_01
   - T_Com_Misc_Seal
+  - T_Com_Nail_01
   - T_Com_Nails_01
   - T_Com_Nails_02
-  - T_Com_Nail_01
+  - T_Com_Paint_Palette_01
   - T_Com_Paintbrush_01
   - T_Com_Paintbrush_02
   - T_Com_Paintbrush_03
@@ -1487,6 +1487,7 @@ miscitem:
   - T_Com_Paintbrush_04G
   - T_Com_Paintbrush_04R
   - T_Com_Paintbrush_04Y
+  - T_Com_Paintpot_01
   - T_Com_PaintpotB_01
   - T_Com_PaintpotB_02
   - T_Com_PaintpotG_01
@@ -1495,8 +1496,6 @@ miscitem:
   - T_Com_PaintpotR_02
   - T_Com_PaintpotY_01
   - T_Com_PaintpotY_02
-  - T_Com_Paintpot_01
-  - T_Com_Paint_Palette_01
   - T_Com_Paper_Blue_01
   - T_Com_Paper_Green_01
   - T_Com_Paper_Purple_01
@@ -1549,18 +1548,18 @@ miscitem:
   - T_Com_ShellClam_02aOpen
   - T_Com_ShellClam_02b
   - T_Com_ShellClam_02bOpen
-  - T_Com_ShellCockleFragment_01
-  - T_Com_ShellCockleFragment_02
-  - T_Com_ShellCockleFragment_03
-  - T_Com_ShellCockleFragment_04
-  - T_Com_ShellCockleFragment_05
-  - T_Com_ShellCockleFragment_06
   - T_Com_ShellCockle_01
   - T_Com_ShellCockle_02
   - T_Com_ShellCockle_03
   - T_Com_ShellCockle_04
   - T_Com_ShellCockle_05
   - T_Com_ShellCockle_06
+  - T_Com_ShellCockleFragment_01
+  - T_Com_ShellCockleFragment_02
+  - T_Com_ShellCockleFragment_03
+  - T_Com_ShellCockleFragment_04
+  - T_Com_ShellCockleFragment_05
+  - T_Com_ShellCockleFragment_06
   - T_Com_ShellConch
   - T_Com_ShellKollop_01
   - T_Com_ShellKollop_01Half
@@ -1640,12 +1639,12 @@ miscitem:
   - T_Com_WoodSpoon_c02
   - T_Com_WoodTray_a01
   - T_Com_Worms_01
+  - T_Cr_GoblinWhistle_01
+  - T_Cr_UNI_SeadrakeEgg
   - T_Cre_MinoTool_01
   - T_Cre_MinoTool_02
   - T_Cre_MinoTool_03
   - T_Cre_MinoTool_04
-  - T_Cr_GoblinWhistle_01
-  - T_Cr_UNI_SeadrakeEgg
   - T_Dae_GemHero_01
   - T_Dae_MagickaResartus_01
   - T_Dae_UNI_FlaskLillandril
@@ -1741,7 +1740,6 @@ miscitem:
   - T_De_ClayCup01
   - T_De_ClayFlask01
   - T_De_CoiledRope_01
-  - T_De_EbonyInkwell_01
   - T_De_Ebony_Bowl_01
   - T_De_Ebony_Bowl_02
   - T_De_Ebony_Cup_01
@@ -1752,6 +1750,7 @@ miscitem:
   - T_De_Ebony_Plate_01
   - T_De_Ebony_Platter_01
   - T_De_Ebony_Spoon_01
+  - T_De_EbonyInkwell_01
   - T_De_FishingNet_01
   - T_De_Glass_Rod_01
   - T_De_GoldCoinGhost_05
@@ -1828,8 +1827,8 @@ miscitem:
   - T_De_Painting_UNI_Queen
   - T_De_Painting_UNI_Symmachus
   - T_De_Painting_UNI_Wife
-  - T_De_PanScribPie_02
   - T_De_Pan_01
+  - T_De_PanScribPie_02
   - T_De_PeachGlassCup_01
   - T_De_Placemat_01
   - T_De_PunavitAshJar_01
@@ -1853,12 +1852,12 @@ miscitem:
   - T_De_PurpleGlassPot_02
   - T_De_PurpleGlassSpoon_01
   - T_De_RedwarePlatter_01
-  - T_De_ScalesEbony_01
-  - T_De_ScalesEbony_02
   - T_De_Scales_01
   - T_De_Scales_02
   - T_De_Scales_03
   - T_De_Scales_04
+  - T_De_ScalesEbony_01
+  - T_De_ScalesEbony_02
   - T_De_StonewareBowl_01
   - T_De_StonewareBowl_02
   - T_De_StonewareBowl_03
@@ -1909,9 +1908,9 @@ miscitem:
   - T_Dwe_ExplodoEye_01
   - T_Dwe_ExplodoFlaps_01
   - T_Dwe_ExplodoRotors_01
-  - T_Dwe_ParchmentRoll_Blnk01
   - T_Dwe_Parchment_Blnk01
   - T_Dwe_Parchment_Blnk02
+  - T_Dwe_ParchmentRoll_Blnk01
   - T_Dwe_Rubber_01
   - T_Dwe_Schematic01
   - T_Dwe_Schematic02
@@ -2388,8 +2387,8 @@ miscitem:
   - T_Nor_SilverPlate_03
   - T_Nor_SilverVase_01
   - T_Nor_SilverVase_02
-  - T_Nor_SkiPole_01
   - T_Nor_Ski_01
+  - T_Nor_SkiPole_01
   - T_Nor_StonewareBowl_01
   - T_Nor_StonewareCup_01
   - T_Nor_StonewareFlask_01
@@ -2449,35 +2448,6 @@ miscitem:
   - T_Nor_WoodenTankard_01b
   - T_Orc_Drum_01
   - T_Orc_UngorthBottle_01
-  - T_QyC_ShellwareBowl_01
-  - T_QyC_ShellwareBowl_02
-  - T_QyC_ShellwareBowl_03
-  - T_QyC_ShellwareCup_01
-  - T_QyC_ShellwareCup_02
-  - T_QyC_ShellwareFork
-  - T_QyC_ShellwareKnife
-  - T_QyC_ShellwarePitcher
-  - T_QyC_ShellwarePlate_01
-  - T_QyC_ShellwarePlate_02
-  - T_QyC_ShellwarePlate_03
-  - T_QyC_ShellwarePlatter
-  - T_QyC_ShellwareSpoon
-  - T_QyC_ShellwareVase_01
-  - T_QyC_ShellwareVase_02
-  - T_QyK_CeramicBowl_01
-  - T_QyK_CeramicBowl_02
-  - T_QyK_CeramicBowl_03
-  - T_QyK_CeramicCup_01
-  - T_QyK_CeramicCup_02
-  - T_QyK_CeramicFork
-  - T_QyK_CeramicKnife
-  - T_QyK_CeramicPitcher
-  - T_QyK_CeramicPlate_01
-  - T_QyK_CeramicPlate_02
-  - T_QyK_CeramicPlatter
-  - T_QyK_CeramicSpoon
-  - T_QyK_CeramicVase_01
-  - T_QyK_CeramicVase_02
   - T_Qy_Bottle_01a
   - T_Qy_Bottle_01b
   - T_Qy_Bottle_01c
@@ -2530,6 +2500,35 @@ miscitem:
   - T_Qy_RedGlassPlatter
   - T_Qy_RedGlassSpoon
   - T_Qy_RedGlassVase
+  - T_QyC_ShellwareBowl_01
+  - T_QyC_ShellwareBowl_02
+  - T_QyC_ShellwareBowl_03
+  - T_QyC_ShellwareCup_01
+  - T_QyC_ShellwareCup_02
+  - T_QyC_ShellwareFork
+  - T_QyC_ShellwareKnife
+  - T_QyC_ShellwarePitcher
+  - T_QyC_ShellwarePlate_01
+  - T_QyC_ShellwarePlate_02
+  - T_QyC_ShellwarePlate_03
+  - T_QyC_ShellwarePlatter
+  - T_QyC_ShellwareSpoon
+  - T_QyC_ShellwareVase_01
+  - T_QyC_ShellwareVase_02
+  - T_QyK_CeramicBowl_01
+  - T_QyK_CeramicBowl_02
+  - T_QyK_CeramicBowl_03
+  - T_QyK_CeramicCup_01
+  - T_QyK_CeramicCup_02
+  - T_QyK_CeramicFork
+  - T_QyK_CeramicKnife
+  - T_QyK_CeramicPitcher
+  - T_QyK_CeramicPlate_01
+  - T_QyK_CeramicPlate_02
+  - T_QyK_CeramicPlatter
+  - T_QyK_CeramicSpoon
+  - T_QyK_CeramicVase_01
+  - T_QyK_CeramicVase_02
   - T_Rea_Shaker_01
   - T_Rea_Woodwork_01
   - T_Rga_Basket_01
@@ -2586,19 +2585,19 @@ miscitem:
   - T_Rga_GlasswareBowl_01
   - T_Rga_GlasswareBowl_02
   - T_Rga_GlasswarePlate_01
+  - T_Rga_Hookah_01
+  - T_Rga_Hookah_02
+  - T_Rga_Hookah_03
   - T_Rga_HookahTongs_01
   - T_Rga_HookahTubing_01
   - T_Rga_HookahTubing_02
   - T_Rga_HookahTubing_03
-  - T_Rga_Hookah_01
-  - T_Rga_Hookah_02
-  - T_Rga_Hookah_03
   - T_Rga_Inkwell_01
   - T_Rga_MemoryStone_01
+  - T_Rga_Pillow_01
   - T_Rga_PillowDec_01
   - T_Rga_PillowDec_02
   - T_Rga_PillowDec_03
-  - T_Rga_Pillow_01
   - T_Rga_Pitcher_01
   - T_Rga_PorcelainBowl_01
   - T_Rga_PorcelainBowl_02
@@ -2706,6 +2705,7 @@ miscitem:
   - T_Yne_WoodenPot_01
   - T_Yne_WoodenSpoon_01
   - T_Yne_WoodenTeapot_01
+  - tr_misc_exp_compass
 ordinator:
   - T_De_CardHortInd_04
   - T_De_CardMiscInd_04
@@ -2799,18 +2799,18 @@ shell:
   - T_Com_ShellClam_02aOpen
   - T_Com_ShellClam_02b
   - T_Com_ShellClam_02bOpen
-  - T_Com_ShellCockleFragment_01
-  - T_Com_ShellCockleFragment_02
-  - T_Com_ShellCockleFragment_03
-  - T_Com_ShellCockleFragment_04
-  - T_Com_ShellCockleFragment_05
-  - T_Com_ShellCockleFragment_06
   - T_Com_ShellCockle_01
   - T_Com_ShellCockle_02
   - T_Com_ShellCockle_03
   - T_Com_ShellCockle_04
   - T_Com_ShellCockle_05
   - T_Com_ShellCockle_06
+  - T_Com_ShellCockleFragment_01
+  - T_Com_ShellCockleFragment_02
+  - T_Com_ShellCockleFragment_03
+  - T_Com_ShellCockleFragment_04
+  - T_Com_ShellCockleFragment_05
+  - T_Com_ShellCockleFragment_06
   - T_Com_ShellConch
   - T_Com_ShellKollop_01
   - T_Com_ShellKollop_01Half
@@ -3089,6 +3089,7 @@ tableware:
   - T_Com_IronPot_02
   - T_Com_IronPot_03
   - T_Com_Nails_02
+  - T_Com_Paintpot_01
   - T_Com_PaintpotB_01
   - T_Com_PaintpotB_02
   - T_Com_PaintpotG_01
@@ -3097,7 +3098,6 @@ tableware:
   - T_Com_PaintpotR_02
   - T_Com_PaintpotY_01
   - T_Com_PaintpotY_02
-  - T_Com_Paintpot_01
   - T_Com_PotionBottle_01
   - T_Com_PotionBottle_02
   - T_Com_PotionBottle_03
@@ -3440,25 +3440,6 @@ tableware:
   - T_Nor_WoodenTankard_01a
   - T_Nor_WoodenTankard_01b
   - T_Orc_UngorthBottle_01
-  - T_QyC_ShellwareBowl_01
-  - T_QyC_ShellwareBowl_02
-  - T_QyC_ShellwareBowl_03
-  - T_QyC_ShellwareCup_01
-  - T_QyC_ShellwareCup_02
-  - T_QyC_ShellwarePitcher
-  - T_QyC_ShellwarePlate_01
-  - T_QyC_ShellwarePlate_02
-  - T_QyC_ShellwarePlate_03
-  - T_QyC_ShellwarePlatter
-  - T_QyK_CeramicBowl_01
-  - T_QyK_CeramicBowl_02
-  - T_QyK_CeramicBowl_03
-  - T_QyK_CeramicCup_01
-  - T_QyK_CeramicCup_02
-  - T_QyK_CeramicPitcher
-  - T_QyK_CeramicPlate_01
-  - T_QyK_CeramicPlate_02
-  - T_QyK_CeramicPlatter
   - T_Qy_Bottle_01a
   - T_Qy_Bottle_01b
   - T_Qy_Bottle_01c
@@ -3495,6 +3476,25 @@ tableware:
   - T_Qy_RedGlassPlate_01
   - T_Qy_RedGlassPlate_02
   - T_Qy_RedGlassPlatter
+  - T_QyC_ShellwareBowl_01
+  - T_QyC_ShellwareBowl_02
+  - T_QyC_ShellwareBowl_03
+  - T_QyC_ShellwareCup_01
+  - T_QyC_ShellwareCup_02
+  - T_QyC_ShellwarePitcher
+  - T_QyC_ShellwarePlate_01
+  - T_QyC_ShellwarePlate_02
+  - T_QyC_ShellwarePlate_03
+  - T_QyC_ShellwarePlatter
+  - T_QyK_CeramicBowl_01
+  - T_QyK_CeramicBowl_02
+  - T_QyK_CeramicBowl_03
+  - T_QyK_CeramicCup_01
+  - T_QyK_CeramicCup_02
+  - T_QyK_CeramicPitcher
+  - T_QyK_CeramicPlate_01
+  - T_QyK_CeramicPlate_02
+  - T_QyK_CeramicPlatter
   - T_Rga_BlackwareBowl_01
   - T_Rga_BlackwareCup_01
   - T_Rga_Bottle_01
@@ -3619,8 +3619,8 @@ telvanni:
   - T_De_Painting_Tel_10
   - T_De_TelvanniTankard_01
 tool:
-  - T_Com_Nails_01
   - T_Com_Nail_01
+  - T_Com_Nails_01
   - T_Com_Pipe_01
   - T_Com_Pipe_02
   - T_Com_Saw_01
@@ -3630,12 +3630,12 @@ tool:
   - T_Com_ScalesBrass_01
   - T_Com_ScalesBrass_02
   - T_De_HackloPipe_01
-  - T_De_ScalesEbony_01
-  - T_De_ScalesEbony_02
   - T_De_Scales_01
   - T_De_Scales_02
   - T_De_Scales_03
   - T_De_Scales_04
+  - T_De_ScalesEbony_01
+  - T_De_ScalesEbony_02
   - T_He_DirenniScales_01
   - T_Imp_ColPipeCob_01
   - T_Imp_GoldScales_01
@@ -3780,16 +3780,16 @@ utensil:
   - T_Nor_WoodenSpoon_03b
   - T_Nor_WoodenSpoon_04a
   - T_Nor_WoodenSpoon_04b
-  - T_QyC_ShellwareFork
-  - T_QyC_ShellwareSpoon
-  - T_QyK_CeramicFork
-  - T_QyK_CeramicSpoon
   - T_Qy_BronzeFork
   - T_Qy_BronzeSpoon
   - T_Qy_PalmwoodFork
   - T_Qy_PalmwoodSpoon
   - T_Qy_RedGlassFork
   - T_Qy_RedGlassSpoon
+  - T_QyC_ShellwareFork
+  - T_QyC_ShellwareSpoon
+  - T_QyK_CeramicFork
+  - T_QyK_CeramicSpoon
   - T_Rga_ClayCutlery_01
   - T_Rga_ClayCutlery_02
   - T_Rga_PorcelainCutlery_01
@@ -3817,8 +3817,8 @@ wood:
   - T_Arg_WoodenKettle_01
   - T_Arg_WoodenKnife_01
   - T_Arg_WoodenLadle_01
-  - T_Arg_WoodenMatRolled_01
   - T_Arg_WoodenMat_01
+  - T_Arg_WoodenMatRolled_01
   - T_Arg_WoodenPitcher_01
   - T_Arg_WoodenPlate_01
   - T_Arg_WoodenPlatter_01

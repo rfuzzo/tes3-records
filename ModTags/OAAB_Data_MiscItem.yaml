@@ -85,34 +85,34 @@ clutter:
   - AB_Misc_BoneSkelArgTail
   - AB_Misc_BoneSkelArmL
   - AB_Misc_BoneSkelArmR
-  - AB_Misc_BoneSkelArmUpperL.1
   - AB_Misc_BoneSkelArmUpperL
-  - AB_Misc_BoneSkelArmUpperR.1
+  - AB_Misc_BoneSkelArmUpperL.1
   - AB_Misc_BoneSkelArmUpperR
-  - AB_Misc_BoneSkelArmWristL.1
+  - AB_Misc_BoneSkelArmUpperR.1
   - AB_Misc_BoneSkelArmWristL
-  - AB_Misc_BoneSkelArmWristR.1
+  - AB_Misc_BoneSkelArmWristL.1
   - AB_Misc_BoneSkelArmWristR
-  - AB_Misc_BoneSkelFootL.1
+  - AB_Misc_BoneSkelArmWristR.1
   - AB_Misc_BoneSkelFootL
-  - AB_Misc_BoneSkelFootR.1
+  - AB_Misc_BoneSkelFootL.1
   - AB_Misc_BoneSkelFootR
-  - AB_Misc_BoneSkelHandL.1
+  - AB_Misc_BoneSkelFootR.1
   - AB_Misc_BoneSkelHandL
-  - AB_Misc_BoneSkelHandR.1
+  - AB_Misc_BoneSkelHandL.1
   - AB_Misc_BoneSkelHandR
+  - AB_Misc_BoneSkelHandR.1
   - AB_Misc_BoneSkelKhaFoot
   - AB_Misc_BoneSkelKhaTail
   - AB_Misc_BoneSkelLegL
   - AB_Misc_BoneSkelLegR
-  - AB_Misc_BoneSkelLegShinL.1
   - AB_Misc_BoneSkelLegShinL
-  - AB_Misc_BoneSkelLegShinR.1
+  - AB_Misc_BoneSkelLegShinL.1
   - AB_Misc_BoneSkelLegShinR
-  - AB_Misc_BoneSkelLegUpperL.1
+  - AB_Misc_BoneSkelLegShinR.1
   - AB_Misc_BoneSkelLegUpperL
-  - AB_Misc_BoneSkelLegUpperR.1
+  - AB_Misc_BoneSkelLegUpperL.1
   - AB_Misc_BoneSkelLegUpperR
+  - AB_Misc_BoneSkelLegUpperR.1
   - AB_Misc_BoneSkelPelvis
   - AB_Misc_BoneSkelRibs
   - AB_Misc_BoneSkelSkullJaw
@@ -343,17 +343,17 @@ furnishing:
   - AB_Misc_DePillowL_04
   - AB_Misc_DePillowL_05
   - AB_Misc_DePillowL_06
-  - AB_Misc_DePillowSilk_01
   - AB_Misc_DePillowS_01
   - AB_Misc_DePillowS_02
   - AB_Misc_DePillowS_03
   - AB_Misc_DePillowS_04
   - AB_Misc_DePillowS_05
   - AB_Misc_DePillowS_06
+  - AB_Misc_DePillowSilk_01
 glass:
+  - AB_Misc_DeBlueGlass_01
   - AB_Misc_DeBlueGlassBowl_01
   - AB_Misc_DeBlueGlassCup_01
-  - AB_Misc_DeBlueGlass_01
   - AB_Misc_DeBluePlate_01
   - AB_Misc_DeCrGlassBowl_01
   - AB_Misc_DeCrGlassCup_01
@@ -457,34 +457,34 @@ miscitem:
   - AB_Misc_BoneSkelArgTail
   - AB_Misc_BoneSkelArmL
   - AB_Misc_BoneSkelArmR
-  - AB_Misc_BoneSkelArmUpperL.1
   - AB_Misc_BoneSkelArmUpperL
-  - AB_Misc_BoneSkelArmUpperR.1
+  - AB_Misc_BoneSkelArmUpperL.1
   - AB_Misc_BoneSkelArmUpperR
-  - AB_Misc_BoneSkelArmWristL.1
+  - AB_Misc_BoneSkelArmUpperR.1
   - AB_Misc_BoneSkelArmWristL
-  - AB_Misc_BoneSkelArmWristR.1
+  - AB_Misc_BoneSkelArmWristL.1
   - AB_Misc_BoneSkelArmWristR
-  - AB_Misc_BoneSkelFootL.1
+  - AB_Misc_BoneSkelArmWristR.1
   - AB_Misc_BoneSkelFootL
-  - AB_Misc_BoneSkelFootR.1
+  - AB_Misc_BoneSkelFootL.1
   - AB_Misc_BoneSkelFootR
-  - AB_Misc_BoneSkelHandL.1
+  - AB_Misc_BoneSkelFootR.1
   - AB_Misc_BoneSkelHandL
-  - AB_Misc_BoneSkelHandR.1
+  - AB_Misc_BoneSkelHandL.1
   - AB_Misc_BoneSkelHandR
+  - AB_Misc_BoneSkelHandR.1
   - AB_Misc_BoneSkelKhaFoot
   - AB_Misc_BoneSkelKhaTail
   - AB_Misc_BoneSkelLegL
   - AB_Misc_BoneSkelLegR
-  - AB_Misc_BoneSkelLegShinL.1
   - AB_Misc_BoneSkelLegShinL
-  - AB_Misc_BoneSkelLegShinR.1
+  - AB_Misc_BoneSkelLegShinL.1
   - AB_Misc_BoneSkelLegShinR
-  - AB_Misc_BoneSkelLegUpperL.1
+  - AB_Misc_BoneSkelLegShinR.1
   - AB_Misc_BoneSkelLegUpperL
-  - AB_Misc_BoneSkelLegUpperR.1
+  - AB_Misc_BoneSkelLegUpperL.1
   - AB_Misc_BoneSkelLegUpperR
+  - AB_Misc_BoneSkelLegUpperR.1
   - AB_Misc_BoneSkelPelvis
   - AB_Misc_BoneSkelRibs
   - AB_Misc_BoneSkelSkullGhoul
@@ -540,15 +540,15 @@ miscitem:
   - AB_Misc_ComArtPaintSumm02
   - AB_Misc_ComArtPaintVale01
   - AB_Misc_ComArtPaintVale02
+  - AB_Misc_ComBottle_01
+  - AB_Misc_ComBottle_02
+  - AB_Misc_ComBottle_03
   - AB_Misc_ComBottleR01
   - AB_Misc_ComBottleR02
   - AB_Misc_ComBottleR03
   - AB_Misc_ComBottleR04
   - AB_Misc_ComBottleR05
   - AB_Misc_ComBottleR06
-  - AB_Misc_ComBottle_01
-  - AB_Misc_ComBottle_02
-  - AB_Misc_ComBottle_03
   - AB_Misc_ComBucket01Hang
   - AB_Misc_ComCard01
   - AB_Misc_ComCard02
@@ -623,9 +623,9 @@ miscitem:
   - AB_Misc_DeBlueFlask_01
   - AB_Misc_DeBlueFlask_02
   - AB_Misc_DeBlueFork_01
+  - AB_Misc_DeBlueGlass_01
   - AB_Misc_DeBlueGlassBowl_01
   - AB_Misc_DeBlueGlassCup_01
-  - AB_Misc_DeBlueGlass_01
   - AB_Misc_DeBlueInkwell_01
   - AB_Misc_DeBlueKnife_01
   - AB_Misc_DeBluePlate_01
@@ -676,13 +676,13 @@ miscitem:
   - AB_Misc_DePillowL_04
   - AB_Misc_DePillowL_05
   - AB_Misc_DePillowL_06
-  - AB_Misc_DePillowSilk_01
   - AB_Misc_DePillowS_01
   - AB_Misc_DePillowS_02
   - AB_Misc_DePillowS_03
   - AB_Misc_DePillowS_04
   - AB_Misc_DePillowS_05
   - AB_Misc_DePillowS_06
+  - AB_Misc_DePillowSilk_01
   - AB_Misc_DeRedGlassBowl_01
   - AB_Misc_DeRedGlassCup_01
   - AB_Misc_DeRedGlassFlask_01
@@ -872,15 +872,15 @@ tableware:
   - AB_Misc_BottleBrkGrnTop
   - AB_Misc_BottleBrkRedBot
   - AB_Misc_BottleBrkRedTop
+  - AB_Misc_ComBottle_01
+  - AB_Misc_ComBottle_02
+  - AB_Misc_ComBottle_03
   - AB_Misc_ComBottleR01
   - AB_Misc_ComBottleR02
   - AB_Misc_ComBottleR03
   - AB_Misc_ComBottleR04
   - AB_Misc_ComBottleR05
   - AB_Misc_ComBottleR06
-  - AB_Misc_ComBottle_01
-  - AB_Misc_ComBottle_02
-  - AB_Misc_ComBottle_03
   - AB_Misc_ComCopperKettle01
   - AB_Misc_ComCopperPan01
   - AB_Misc_ComCopperPot01

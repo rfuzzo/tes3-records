@@ -57,8 +57,6 @@ armor:
   - T_Com_Chain_Cuirass_01
   - T_Com_Chain_Cuirass_02
   - T_Com_Chain_Cuirass_03
-  - T_Com_Cm_HatClothCoif_01
-  - T_Com_Cm_HatClothCoif_02
   - T_Com_Cm_Hat_01
   - T_Com_Cm_Hat_02
   - T_Com_Cm_Hat_03
@@ -66,8 +64,9 @@ armor:
   - T_Com_Cm_Hat_05
   - T_Com_Cm_Hat_06
   - T_Com_Cm_Hat_Haggling
+  - T_Com_Cm_HatClothCoif_01
+  - T_Com_Cm_HatClothCoif_02
   - T_Com_Eq_Hat_01
-  - T_Com_Et_HatClothCoif_01
   - T_Com_Et_Hat_01
   - T_Com_Et_Hat_02
   - T_Com_Et_Hat_03
@@ -75,13 +74,9 @@ armor:
   - T_Com_Et_Hat_05
   - T_Com_Et_Hat_Foresight
   - T_Com_Et_Hat_Imperious
+  - T_Com_Et_HatClothCoif_01
   - T_Com_FoolsHat_01
   - T_Com_FoolsHat_02
-  - T_Com_IronSkull_PauldronL_01
-  - T_Com_IronSkull_PauldronR_01
-  - T_Com_IronSpike_Helm_01
-  - T_Com_IronSpike_PauldronL_01
-  - T_Com_IronSpike_PauldronR_01
   - T_Com_Iron_Boots_01
   - T_Com_Iron_Boots_02
   - T_Com_Iron_BracerL_01
@@ -102,8 +97,11 @@ armor:
   - T_Com_Iron_PauldronL_02
   - T_Com_Iron_PauldronR_01
   - T_Com_Iron_PauldronR_02
-  - T_Com_SteelSpike_PauldronL_01
-  - T_Com_SteelSpike_PauldronR_01
+  - T_Com_IronSkull_PauldronL_01
+  - T_Com_IronSkull_PauldronR_01
+  - T_Com_IronSpike_Helm_01
+  - T_Com_IronSpike_PauldronL_01
+  - T_Com_IronSpike_PauldronR_01
   - T_Com_Steel_Boots_Consuming
   - T_Com_Steel_Boots_Creeping
   - T_Com_Steel_Boots_Glacial
@@ -150,6 +148,8 @@ armor:
   - T_Com_Steel_PauldronR_MonkeyApp
   - T_Com_Steel_PauldronR_Sacred
   - T_Com_Steel_PauldronR_WinterWin
+  - T_Com_SteelSpike_PauldronL_01
+  - T_Com_SteelSpike_PauldronR_01
   - T_Com_UNI_HandOfGlory_Helnim
   - T_Com_UNI_Requiem
   - T_Cr_Goblin_Helm_01
@@ -162,8 +162,8 @@ armor:
   - T_Dae_Alternate_GauntletL_01
   - T_Dae_Alternate_GauntletR_01
   - T_Dae_Alternate_Greaves_01
-  - T_Dae_Alternate_HelmOpen_01
   - T_Dae_Alternate_Helm_01
+  - T_Dae_Alternate_HelmOpen_01
   - T_Dae_Alternate_PauldronL_01
   - T_Dae_Alternate_PauldronR_01
   - T_Dae_Gold_Boots_01
@@ -212,36 +212,13 @@ armor:
   - T_De_AlitHide_BracerR_01
   - T_De_AlitHide_Cuirass_01
   - T_De_AlitHide_Greaves_01
-  - T_De_AlitHide_HelmOpen_01
   - T_De_AlitHide_Helm_01
+  - T_De_AlitHide_HelmOpen_01
   - T_De_AlitHide_PauldronL_01
   - T_De_AlitHide_PauldronR_01
   - T_De_AlitHide_Shield_01
   - T_De_AlitHide_TowerShield_01
   - T_De_AlmaRula_Helm_UNI
-  - T_De_BonemoldKragen_Helm_01
-  - T_De_BonemoldKrage_Boots_01
-  - T_De_BonemoldKrage_Cuirass_01
-  - T_De_BonemoldKrage_GauntletL_01
-  - T_De_BonemoldKrage_GauntletR_01
-  - T_De_BonemoldKrage_Greaves_01
-  - T_De_BonemoldKrage_Helm_01
-  - T_De_BonemoldKrage_PauldronL_01
-  - T_De_BonemoldKrage_PauldronR_01
-  - T_De_BonemoldMarad_Cuirass_01
-  - T_De_BonemoldMarad_Helm_01
-  - T_De_BonemoldMarad_Helm_02
-  - T_De_BonemoldMarad_PauldronL_01
-  - T_De_BonemoldMarad_PauldronR_01
-  - T_De_BonemoldMarad_Shield_01
-  - T_De_BonemoldSacred_Boots_01
-  - T_De_BonemoldSacred_Cuirass_01
-  - T_De_BonemoldSacred_GauntL_01
-  - T_De_BonemoldSacred_GauntR_01
-  - T_De_BonemoldSacred_Helm_01
-  - T_De_BonemoldSacred_PauldL_01
-  - T_De_BonemoldSacred_PauldR_01
-  - T_De_BonemoldSammas_Helm_01
   - T_De_Bonemold_Chuzei_Boots
   - T_De_Bonemold_Chuzei_Boots_E
   - T_De_Bonemold_Chuzei_BracerL
@@ -283,6 +260,29 @@ armor:
   - T_De_Bonemold_Water_Helm
   - T_De_Bonemold_Water_PauldL
   - T_De_Bonemold_Water_PauldR
+  - T_De_BonemoldKrage_Boots_01
+  - T_De_BonemoldKrage_Cuirass_01
+  - T_De_BonemoldKrage_GauntletL_01
+  - T_De_BonemoldKrage_GauntletR_01
+  - T_De_BonemoldKrage_Greaves_01
+  - T_De_BonemoldKrage_Helm_01
+  - T_De_BonemoldKrage_PauldronL_01
+  - T_De_BonemoldKrage_PauldronR_01
+  - T_De_BonemoldKragen_Helm_01
+  - T_De_BonemoldMarad_Cuirass_01
+  - T_De_BonemoldMarad_Helm_01
+  - T_De_BonemoldMarad_Helm_02
+  - T_De_BonemoldMarad_PauldronL_01
+  - T_De_BonemoldMarad_PauldronR_01
+  - T_De_BonemoldMarad_Shield_01
+  - T_De_BonemoldSacred_Boots_01
+  - T_De_BonemoldSacred_Cuirass_01
+  - T_De_BonemoldSacred_GauntL_01
+  - T_De_BonemoldSacred_GauntR_01
+  - T_De_BonemoldSacred_Helm_01
+  - T_De_BonemoldSacred_PauldL_01
+  - T_De_BonemoldSacred_PauldR_01
+  - T_De_BonemoldSammas_Helm_01
   - T_De_CanyonWatch_Boots_01
   - T_De_CanyonWatch_BracerL_01
   - T_De_CanyonWatch_BracerR_01
@@ -353,8 +353,8 @@ armor:
   - T_De_Dreugh_PauldronR_01
   - T_De_Dreugh_PauldronR_Swim
   - T_De_Dreugh_Shield_Swim
-  - T_De_Ebony_HelmOpen_01
   - T_De_Ebony_Helm_02
+  - T_De_Ebony_HelmOpen_01
   - T_De_Ep_HatTelv_01
   - T_De_Ep_HatTelv_02
   - T_De_Ep_HatTelv_03
@@ -364,6 +364,7 @@ armor:
   - T_De_Ex_HatTelv_02
   - T_De_FiendCephalopodHelm_01
   - T_De_FiendMoleCrabHelm_01
+  - T_De_Glass_Helm_Closed_01
   - T_De_GlassGilded_Boots_01
   - T_De_GlassGilded_BracerL_01
   - T_De_GlassGilded_BracerR_01
@@ -372,7 +373,6 @@ armor:
   - T_De_GlassGilded_Helm_01
   - T_De_GlassGilded_PauldronL_01
   - T_De_GlassGilded_PauldronR_01
-  - T_De_Glass_Helm_Closed_01
   - T_De_Guarskin_Boots_01
   - T_De_Guarskin_BracerL_01
   - T_De_Guarskin_BracerR_01
@@ -421,8 +421,8 @@ armor:
   - T_De_KagoutiHide_BracerR_01
   - T_De_KagoutiHide_Cuirass_01
   - T_De_KagoutiHide_Greaves_01
-  - T_De_KagoutiHide_HelmOpen_01
   - T_De_KagoutiHide_Helm_01
+  - T_De_KagoutiHide_HelmOpen_01
   - T_De_KagoutiHide_PauldronL_01
   - T_De_KagoutiHide_PauldronR_01
   - T_De_KagoutiHide_Shield_01
@@ -464,15 +464,15 @@ armor:
   - T_De_Necrom_PauldronL_01
   - T_De_Necrom_PauldronR_01
   - T_De_Necrom_Shield_01
-  - T_De_NetchRogue_Cuirass_01
-  - T_De_NetchRogue_Helm_01
-  - T_De_NetchRogue_Helm_02
-  - T_De_NetchStalker_Helm_01
   - T_De_Netch_Cuirass_01
   - T_De_Netch_Cuirass_02
   - T_De_Netch_Cuirass_03
   - T_De_Netch_Helm_01
   - T_De_Netch_Helm_02
+  - T_De_NetchRogue_Cuirass_01
+  - T_De_NetchRogue_Helm_01
+  - T_De_NetchRogue_Helm_02
+  - T_De_NetchStalker_Helm_01
   - T_De_Ordinator_Greaves_01
   - T_De_RedBonemold_HelmOpen_01
   - T_De_RedHeroBonemold_Cuirass_01
@@ -601,6 +601,9 @@ armor:
   - T_Imp_AlessianBrnz_PauldronL_01
   - T_Imp_AlessianBrnz_PauldronR_01
   - T_Imp_AlessianBrnz_TShield_01
+  - T_Imp_Chain_Boots_01
+  - T_Imp_Chain_GauntletL_01
+  - T_Imp_Chain_GauntletR_02
   - T_Imp_Chainmail_cuirass_01
   - T_Imp_Chainmail_cuirass_02
   - T_Imp_Chainmail_cuirass_03
@@ -609,9 +612,6 @@ armor:
   - T_Imp_Chainmail_Helm_02
   - T_Imp_Chainmail_Helm_03
   - T_Imp_Chainmail_Helm_04
-  - T_Imp_Chain_Boots_01
-  - T_Imp_Chain_GauntletL_01
-  - T_Imp_Chain_GauntletR_02
   - T_Imp_Cm_BootsCol_01
   - T_Imp_Cm_BootsCol_02
   - T_Imp_Cm_BootsCol_03
@@ -696,8 +696,8 @@ armor:
   - T_Imp_ColLamellar_BracerR_01
   - T_Imp_ColLamellar_Cuirass_01
   - T_Imp_ColLamellar_Greaves_01
-  - T_Imp_ColLamellar_HelmOpen_01
   - T_Imp_ColLamellar_Helm_01
+  - T_Imp_ColLamellar_HelmOpen_01
   - T_Imp_ColLamellar_MaskHelm_01
   - T_Imp_ColLamellar_MaskHelm_02
   - T_Imp_ColLamellar_PauldronL_01
@@ -823,11 +823,11 @@ armor:
   - T_Imp_Ebony_PauldronL
   - T_Imp_Ebony_PauldronR
   - T_Imp_Ebony_ShieldTower_01
+  - T_Imp_Ep_Hat_02
   - T_Imp_Ep_HatColWest_01
   - T_Imp_Ep_HatColWest_02
   - T_Imp_Ep_HatColWest_03
   - T_Imp_Ep_HatColWest_04
-  - T_Imp_Ep_Hat_02
   - T_Imp_Et_HatColNorth_01
   - T_Imp_Et_HatColNorth_02
   - T_Imp_Et_HatColNorth_03
@@ -847,8 +847,8 @@ armor:
   - T_Imp_Gold_PauldronL_02
   - T_Imp_Gold_PauldronR_01
   - T_Imp_Gold_PauldronR_02
-  - T_Imp_Gold_ShieldBuckler_01
   - T_Imp_Gold_Shield_01
+  - T_Imp_Gold_ShieldBuckler_01
   - T_Imp_GuardSutch_Cuirass_01
   - T_Imp_GuardSutch_GauntletL_01
   - T_Imp_GuardSutch_GauntletR_01
@@ -861,10 +861,10 @@ armor:
   - T_Imp_GuardTown1_GauntletL_01
   - T_Imp_GuardTown1_GauntletR_01
   - T_Imp_GuardTown1_Greaves_01
+  - T_Imp_GuardTown1_Helm_01
   - T_Imp_GuardTown1_HelmAnv_01
   - T_Imp_GuardTown1_HelmStr_01
   - T_Imp_GuardTown1_HelmSut_01
-  - T_Imp_GuardTown1_Helm_01
   - T_Imp_GuardTown1_PauldrL_01
   - T_Imp_GuardTown1_PauldrR_01
   - T_Imp_GuardTown1_ShieldAnv_01
@@ -873,10 +873,10 @@ armor:
   - T_Imp_GuardTown2_GauntletL_01
   - T_Imp_GuardTown2_GauntletR_01
   - T_Imp_GuardTown2_Greaves_01
+  - T_Imp_GuardTown2_Helm_01
   - T_Imp_GuardTown2_HelmArt_01
   - T_Imp_GuardTown2_HelmBru_01
   - T_Imp_GuardTown2_HelmCho_01
-  - T_Imp_GuardTown2_Helm_01
   - T_Imp_GuardTown2_PauldrL_01
   - T_Imp_GuardTown2_PauldrR_01
   - T_Imp_GuardTown3_Boots_01
@@ -884,10 +884,10 @@ armor:
   - T_Imp_GuardTown3_GauntletL_01
   - T_Imp_GuardTown3_GauntletR_01
   - T_Imp_GuardTown3_Greaves_01
+  - T_Imp_GuardTown3_Helm_01
   - T_Imp_GuardTown3_HelmKva_01
   - T_Imp_GuardTown3_HelmSar_01
   - T_Imp_GuardTown3_HelmSkn_01
-  - T_Imp_GuardTown3_Helm_01
   - T_Imp_GuardTown3_PauldrL_01
   - T_Imp_GuardTown3_PauldrR_01
   - T_Imp_Mananaut_Helm_01
@@ -1014,6 +1014,14 @@ armor:
   - T_Nor_Companion_Helm_01
   - T_Nor_Companion_PauldronL_01
   - T_Nor_Companion_PauldronR_01
+  - T_Nor_Guard_Boots_01
+  - T_Nor_Guard_Cuirass_01
+  - T_Nor_Guard_GauntletL_01
+  - T_Nor_Guard_GauntletR_01
+  - T_Nor_Guard_Greaves_01
+  - T_Nor_Guard_Helm_01
+  - T_Nor_Guard_PauldronL_01
+  - T_Nor_Guard_PauldronR_01
   - T_Nor_GuardFalkr_Boots_01
   - T_Nor_GuardFalkr_BracerL_01
   - T_Nor_GuardFalkr_BracerR_01
@@ -1025,17 +1033,7 @@ armor:
   - T_Nor_GuardFalkr_PauldronR_01
   - T_Nor_GuardFalkr_Shield_01
   - T_Nor_GuardFalkr_TowerShield_01
-  - T_Nor_Guard_Boots_01
-  - T_Nor_Guard_Cuirass_01
-  - T_Nor_Guard_GauntletL_01
-  - T_Nor_Guard_GauntletR_01
-  - T_Nor_Guard_Greaves_01
-  - T_Nor_Guard_Helm_01
-  - T_Nor_Guard_PauldronL_01
-  - T_Nor_Guard_PauldronR_01
   - T_Nor_HornedLeather_Helm_01
-  - T_Nor_Ironwood_Shield_01
-  - T_Nor_Ironwood_Shield_02
   - T_Nor_Iron_Boots_01
   - T_Nor_Iron_Boots_Leap
   - T_Nor_Iron_Cuirass_Wintery
@@ -1044,6 +1042,8 @@ armor:
   - T_Nor_Iron_Greaves_01
   - T_Nor_Iron_PauldronL_01
   - T_Nor_Iron_PauldronR_01
+  - T_Nor_Ironwood_Shield_01
+  - T_Nor_Ironwood_Shield_02
   - T_Nor_Leather1_BarcerL_01
   - T_Nor_Leather1_BarcerR_01
   - T_Nor_Leather1_Boots_01
@@ -1066,9 +1066,9 @@ armor:
   - T_Nor_Ringmail_Cuirass_01
   - T_Nor_Ringmail_Greaves_01
   - T_Nor_Ringmail_Greaves_02
+  - T_Nor_Ringmail_Helm_Closed
   - T_Nor_Ringmail_Helmet_01
   - T_Nor_Ringmail_Helmet_02
-  - T_Nor_Ringmail_Helm_Closed
   - T_Nor_Ringmail_PauldronL_02
   - T_Nor_Ringmail_PauldronR_02
   - T_Nor_Sabrecat_Helm_01
@@ -1110,15 +1110,18 @@ armor:
   - T_Nor_Trollbone_Greaves_Vigor
   - T_Nor_Trollbone_PauldronL_01
   - T_Nor_Trollbone_PauldronR_01
-  - T_Nor_UNIHornedLeather_Helm
   - T_Nor_UNI_DCultMask_01
   - T_Nor_UNI_Kvisahjaelmur
   - T_Nor_UNI_PredatorsGrace
   - T_Nor_UNI_SnowDrakePelt
   - T_Nor_UNI_TargeBlooded
+  - T_Nor_UNIHornedLeather_Helm
   - T_Nor_Wolf_Helm_Black_01
   - T_Nor_Wolf_Helm_Red_01
   - T_Nor_Wolf_Helm_White_01
+  - T_Nor_Wood_Shield_01
+  - T_Nor_Wood_Shield_02
+  - T_Nor_Wood_Shield_03
   - T_Nor_Wood_ShieldBuckler_01
   - T_Nor_Wood_ShieldBuckler_02
   - T_Nor_Wood_ShieldBuckler_03
@@ -1127,9 +1130,6 @@ armor:
   - T_Nor_Wood_ShieldBuckler_06
   - T_Nor_Wood_ShieldBuckler_07
   - T_Nor_Wood_ShieldBuckler_08
-  - T_Nor_Wood_Shield_01
-  - T_Nor_Wood_Shield_02
-  - T_Nor_Wood_Shield_03
   - T_Orc_Leather_Boots_01
   - T_Orc_Leather_Cuirass_01
   - T_Orc_Leather_GauntletL_01
@@ -1147,6 +1147,8 @@ armor:
   - T_QC_Shellmold_Helm_01
   - T_QC_Shellmold_PauldL_01
   - T_QC_Shellmold_PauldR_01
+  - T_Qy_Ngalom_BracerL_UNI
+  - T_Qy_Ngalom_BracerR_UNI
   - T_QyC_Shellmold_Boots_01
   - T_QyC_Shellmold_BracerL_01
   - T_QyC_Shellmold_BracerR_01
@@ -1163,8 +1165,6 @@ armor:
   - T_QyK_Manatee_Helm_01
   - T_QyK_Manatee_PauldronL_01
   - T_QyK_Manatee_PauldronR_01
-  - T_Qy_Ngalom_BracerL_UNI
-  - T_Qy_Ngalom_BracerR_UNI
   - T_Rea_Leather_Hat_01
   - T_Rea_Leather_Hat_Witchery
   - T_Rea_UNI_FeatherCrown
@@ -1185,14 +1185,6 @@ armor:
   - T_Rga_CrownGuard1_PauldronL_01
   - T_Rga_CrownGuard1_PauldronR_01
   - T_Rga_Ep_Headdress_01
-  - T_Rga_IronLamellar_Boots_01
-  - T_Rga_IronLamellar_Bracer_L_01
-  - T_Rga_IronLamellar_Bracer_R_01
-  - T_Rga_IronLamellar_Cuirass_01
-  - T_Rga_IronLamellar_Greaves_01
-  - T_Rga_IronLamellar_Helm_01
-  - T_Rga_IronLamellar_Pauld_L_01
-  - T_Rga_IronLamellar_Pauld_R_01
   - T_Rga_Iron_Boots_01
   - T_Rga_Iron_Boots_02
   - T_Rga_Iron_BracerL_01
@@ -1209,6 +1201,14 @@ armor:
   - T_Rga_Iron_PauldronL_02
   - T_Rga_Iron_PauldronR_01
   - T_Rga_Iron_PauldronR_02
+  - T_Rga_IronLamellar_Boots_01
+  - T_Rga_IronLamellar_Bracer_L_01
+  - T_Rga_IronLamellar_Bracer_R_01
+  - T_Rga_IronLamellar_Cuirass_01
+  - T_Rga_IronLamellar_Greaves_01
+  - T_Rga_IronLamellar_Helm_01
+  - T_Rga_IronLamellar_Pauld_L_01
+  - T_Rga_IronLamellar_Pauld_R_01
   - T_Rga_Lamellar_Bracer_L_01
   - T_Rga_Lamellar_Bracer_R_01
   - T_Rga_Lamellar_Cuirass
@@ -1230,21 +1230,6 @@ armor:
   - T_We_Wenbone_PauldronR_01
   - T_We_Wenbone_ShieldTow_01
 bonemold:
-  - T_De_BonemoldKragen_Helm_01
-  - T_De_BonemoldKrage_Boots_01
-  - T_De_BonemoldKrage_Cuirass_01
-  - T_De_BonemoldKrage_GauntletL_01
-  - T_De_BonemoldKrage_GauntletR_01
-  - T_De_BonemoldKrage_Greaves_01
-  - T_De_BonemoldKrage_Helm_01
-  - T_De_BonemoldKrage_PauldronL_01
-  - T_De_BonemoldKrage_PauldronR_01
-  - T_De_BonemoldMarad_Cuirass_01
-  - T_De_BonemoldMarad_Helm_01
-  - T_De_BonemoldMarad_PauldronL_01
-  - T_De_BonemoldMarad_PauldronR_01
-  - T_De_BonemoldMarad_Shield_01
-  - T_De_BonemoldSammas_Helm_01
   - T_De_Bonemold_Chuzei_Boots
   - T_De_Bonemold_Chuzei_BracerL
   - T_De_Bonemold_Chuzei_BracerR
@@ -1278,6 +1263,21 @@ bonemold:
   - T_De_Bonemold_Water_Helm
   - T_De_Bonemold_Water_PauldL
   - T_De_Bonemold_Water_PauldR
+  - T_De_BonemoldKrage_Boots_01
+  - T_De_BonemoldKrage_Cuirass_01
+  - T_De_BonemoldKrage_GauntletL_01
+  - T_De_BonemoldKrage_GauntletR_01
+  - T_De_BonemoldKrage_Greaves_01
+  - T_De_BonemoldKrage_Helm_01
+  - T_De_BonemoldKrage_PauldronL_01
+  - T_De_BonemoldKrage_PauldronR_01
+  - T_De_BonemoldKragen_Helm_01
+  - T_De_BonemoldMarad_Cuirass_01
+  - T_De_BonemoldMarad_Helm_01
+  - T_De_BonemoldMarad_PauldronL_01
+  - T_De_BonemoldMarad_PauldronR_01
+  - T_De_BonemoldMarad_Shield_01
+  - T_De_BonemoldSammas_Helm_01
   - T_De_CanyonWatch_Boots_01
   - T_De_CanyonWatch_BracerL_01
   - T_De_CanyonWatch_BracerR_01
@@ -1333,13 +1333,13 @@ boots:
   - T_Dae_UNI_BootsOfPeace_01
   - T_Dae_UNI_BootsSaviorsHide
   - T_De_AlitHide_Boots_01
-  - T_De_BonemoldKrage_Boots_01
-  - T_De_BonemoldSacred_Boots_01
   - T_De_Bonemold_Chuzei_Boots
   - T_De_Bonemold_Chuzei_Boots_E
   - T_De_Bonemold_Stone_Boots
   - T_De_Bonemold_Ulvra_Boots
   - T_De_Bonemold_Water_Boots
+  - T_De_BonemoldKrage_Boots_01
+  - T_De_BonemoldSacred_Boots_01
   - T_De_CanyonWatch_Boots_01
   - T_De_DaedricHide_Boots_01
   - T_De_DresBonemold_Boots_01
@@ -1413,8 +1413,8 @@ boots:
   - T_Mao_Scale_Boots_01
   - T_Nor_Bearskin_Boots_01
   - T_Nor_Companion_Boots_01
-  - T_Nor_GuardFalkr_Boots_01
   - T_Nor_Guard_Boots_01
+  - T_Nor_GuardFalkr_Boots_01
   - T_Nor_Iron_Boots_01
   - T_Nor_Iron_Boots_Leap
   - T_Nor_Leather1_Boots_01
@@ -1432,9 +1432,9 @@ boots:
   - T_QyK_Manatee_Boots_01
   - T_Rea_Wormmouth_Boots_01
   - T_Rga_CrownGuard1_Boots_01
-  - T_Rga_IronLamellar_Boots_01
   - T_Rga_Iron_Boots_01
   - T_Rga_Iron_Boots_02
+  - T_Rga_IronLamellar_Boots_01
   - T_We_Wenbone_Boots_01
 bracer:
   - T_Ayl_Saliache_BracerL_01
@@ -1542,20 +1542,20 @@ bracer:
   - T_Nor_Trollbone_BracerR_01
   - T_QC_Shellmold_BracerL_01
   - T_QC_Shellmold_BracerR_01
+  - T_Qy_Ngalom_BracerL_UNI
+  - T_Qy_Ngalom_BracerR_UNI
   - T_QyC_Shellmold_BracerL_01
   - T_QyC_Shellmold_BracerR_01
   - T_QyK_Manatee_BracerL_01
   - T_QyK_Manatee_BracerR_01
-  - T_Qy_Ngalom_BracerL_UNI
-  - T_Qy_Ngalom_BracerR_UNI
   - T_Rea_Wormmouth_BracerL_01
   - T_Rea_Wormmouth_BracerR_01
-  - T_Rga_IronLamellar_Bracer_L_01
-  - T_Rga_IronLamellar_Bracer_R_01
   - T_Rga_Iron_BracerL_01
   - T_Rga_Iron_BracerL_02
   - T_Rga_Iron_BracerR_01
   - T_Rga_Iron_BracerR_02
+  - T_Rga_IronLamellar_Bracer_L_01
+  - T_Rga_IronLamellar_Bracer_R_01
   - T_Rga_Lamellar_Bracer_L_01
   - T_Rga_Lamellar_Bracer_R_01
   - T_We_Wenbone_BracerL_01
@@ -1582,6 +1582,9 @@ chainmail:
   - T_Com_Chain_Cuirass_01
   - T_Com_Chain_Cuirass_02
   - T_Com_Chain_Cuirass_03
+  - T_Imp_Chain_Boots_01
+  - T_Imp_Chain_GauntletL_01
+  - T_Imp_Chain_GauntletR_02
   - T_Imp_Chainmail_cuirass_01
   - T_Imp_Chainmail_cuirass_02
   - T_Imp_Chainmail_cuirass_03
@@ -1590,9 +1593,6 @@ chainmail:
   - T_Imp_Chainmail_Helm_02
   - T_Imp_Chainmail_Helm_03
   - T_Imp_Chainmail_Helm_04
-  - T_Imp_Chain_Boots_01
-  - T_Imp_Chain_GauntletL_01
-  - T_Imp_Chain_GauntletR_02
   - T_Nor_Ringmail_Boots_01
   - T_Nor_Ringmail_Boots_02
   - T_Nor_Ringmail_BracerL_02
@@ -1600,9 +1600,9 @@ chainmail:
   - T_Nor_Ringmail_Cuirass_01
   - T_Nor_Ringmail_Greaves_01
   - T_Nor_Ringmail_Greaves_02
+  - T_Nor_Ringmail_Helm_Closed
   - T_Nor_Ringmail_Helmet_01
   - T_Nor_Ringmail_Helmet_02
-  - T_Nor_Ringmail_Helm_Closed
   - T_Nor_Ringmail_PauldronL_02
   - T_Nor_Ringmail_PauldronR_02
   - T_Rga_CrownGuard1_Boots_01
@@ -1750,8 +1750,8 @@ colovian:
   - T_Imp_ColLamellar_BracerR_01
   - T_Imp_ColLamellar_Cuirass_01
   - T_Imp_ColLamellar_Greaves_01
-  - T_Imp_ColLamellar_HelmOpen_01
   - T_Imp_ColLamellar_Helm_01
+  - T_Imp_ColLamellar_HelmOpen_01
   - T_Imp_ColLamellar_MaskHelm_01
   - T_Imp_ColLamellar_MaskHelm_02
   - T_Imp_ColLamellar_PauldronL_01
@@ -1842,14 +1842,14 @@ cuirass:
   - T_Dae_Alternate_Cuirass_01
   - T_Dae_Gold_Cuirass_01
   - T_De_AlitHide_Cuirass_01
-  - T_De_BonemoldKrage_Cuirass_01
-  - T_De_BonemoldMarad_Cuirass_01
-  - T_De_BonemoldSacred_Cuirass_01
   - T_De_Bonemold_Chuzei_Cuirass
   - T_De_Bonemold_Chuzei_Cuirass_E
   - T_De_Bonemold_Stone_Cuirass
   - T_De_Bonemold_Ulvra_Cuirass
   - T_De_Bonemold_Water_Cuirass
+  - T_De_BonemoldKrage_Cuirass_01
+  - T_De_BonemoldMarad_Cuirass_01
+  - T_De_BonemoldSacred_Cuirass_01
   - T_De_CanyonWatch_Cuirass_01
   - T_De_DaedricHide_Cuirass_01
   - T_De_DresBonemold_Cuirass_01
@@ -1865,10 +1865,10 @@ cuirass:
   - T_De_NativeEbony_Cuirass_01
   - T_De_Necrom_Cuirass_01
   - T_De_Necrom_Cuirass_02
-  - T_De_NetchRogue_Cuirass_01
   - T_De_Netch_Cuirass_01
   - T_De_Netch_Cuirass_02
   - T_De_Netch_Cuirass_03
+  - T_De_NetchRogue_Cuirass_01
   - T_De_RedHeroBonemold_Cuirass_01
   - T_De_RedMastBonemold_Cuirass_01
   - T_De_RedoranWatchman_Cuirass
@@ -1935,8 +1935,8 @@ cuirass:
   - T_Imp_UNI_Shadowweave
   - T_Mao_Scale_Cuirass_01
   - T_Nor_Companion_Cuirass_01
-  - T_Nor_GuardFalkr_Cuirass_01
   - T_Nor_Guard_Cuirass_01
+  - T_Nor_GuardFalkr_Cuirass_01
   - T_Nor_Iron_Cuirass_Wintery
   - T_Nor_Leather1_Cuirass_01
   - T_Nor_ReaRoy_Cuirass_01
@@ -1952,9 +1952,9 @@ cuirass:
   - T_QyK_Manatee_Cuirass_01
   - T_Rea_Wormmouth_Cuirass_01
   - T_Rga_CrownGuard1_Cuirass_01
-  - T_Rga_IronLamellar_Cuirass_01
   - T_Rga_Iron_Cuirass_01
   - T_Rga_Iron_Cuirass_02
+  - T_Rga_IronLamellar_Cuirass_01
   - T_Rga_Lamellar_Cuirass
   - T_Rga_Lamellar_Cuirass_B
   - T_Rga_Lamellar_Cuirass_G
@@ -1967,8 +1967,8 @@ daedric:
   - T_Dae_Alternate_GauntletL_01
   - T_Dae_Alternate_GauntletR_01
   - T_Dae_Alternate_Greaves_01
-  - T_Dae_Alternate_HelmOpen_01
   - T_Dae_Alternate_Helm_01
+  - T_Dae_Alternate_HelmOpen_01
   - T_Dae_Alternate_PauldronL_01
   - T_Dae_Alternate_PauldronR_01
   - T_Dae_Lord_Boots_01
@@ -2017,8 +2017,8 @@ dwemer:
   - T_Dwe_Scrap_Pauldron_L
   - T_Dwe_Scrap_Pauldron_R
 ebony:
-  - T_De_Ebony_HelmOpen_01
   - T_De_Ebony_Helm_02
+  - T_De_Ebony_HelmOpen_01
   - T_De_NativeEbony_Boots_01
   - T_De_NativeEbony_Cuirass_01
   - T_De_NativeEbony_GauntletL_01
@@ -2085,16 +2085,16 @@ gauntlet:
   - T_Dae_UNI_GauntletOfPoor_R
   - T_Dae_UNI_LGauntSaviorsHide
   - T_Dae_UNI_RGauntSaviorsHide
-  - T_De_BonemoldKrage_GauntletL_01
-  - T_De_BonemoldKrage_GauntletR_01
-  - T_De_BonemoldSacred_GauntL_01
-  - T_De_BonemoldSacred_GauntR_01
   - T_De_Bonemold_Stone_GauntletL
   - T_De_Bonemold_Stone_GauntletR
   - T_De_Bonemold_Ulvra_BracerL
   - T_De_Bonemold_Ulvra_BracerR
   - T_De_Bonemold_Water_BracerL
   - T_De_Bonemold_Water_BracerR
+  - T_De_BonemoldKrage_GauntletL_01
+  - T_De_BonemoldKrage_GauntletR_01
+  - T_De_BonemoldSacred_GauntL_01
+  - T_De_BonemoldSacred_GauntR_01
   - T_De_DaedricHide_GauntletL_01
   - T_De_DaedricHide_GauntletR_01
   - T_De_DresBonemold_GauntletL_01
@@ -2177,6 +2177,7 @@ gauntlet:
   - T_Orc_Leather_GauntletL_01
   - T_Orc_Leather_GauntletR_01
 glass:
+  - T_De_Glass_Helm_Closed_01
   - T_De_GlassGilded_Boots_01
   - T_De_GlassGilded_BracerL_01
   - T_De_GlassGilded_BracerR_01
@@ -2185,7 +2186,6 @@ glass:
   - T_De_GlassGilded_Helm_01
   - T_De_GlassGilded_PauldronL_01
   - T_De_GlassGilded_PauldronR_01
-  - T_De_Glass_Helm_Closed_01
   - T_He_AltmerGlass_Boots_01
   - T_He_AltmerGlass_Cuirass_01
   - T_He_AltmerGlass_Greaves_01
@@ -2218,8 +2218,8 @@ gold:
   - T_Imp_Gold_PauldronL_02
   - T_Imp_Gold_PauldronR_01
   - T_Imp_Gold_PauldronR_02
-  - T_Imp_Gold_ShieldBuckler_01
   - T_Imp_Gold_Shield_01
+  - T_Imp_Gold_ShieldBuckler_01
 greaves:
   - T_Ayl_Saliache_Greaves_01
   - T_Com_Bound_Greaves_01
@@ -2233,12 +2233,12 @@ greaves:
   - T_Dae_Gold_Greaves_01
   - T_Dae_UNI_GreavesSaviorsHide
   - T_De_AlitHide_Greaves_01
-  - T_De_BonemoldKrage_Greaves_01
   - T_De_Bonemold_Chuzei_Greaves
   - T_De_Bonemold_Chuzei_Greaves_E
   - T_De_Bonemold_Stone_Greaves
   - T_De_Bonemold_Ulvra_Greaves
   - T_De_Bonemold_Water_Greaves
+  - T_De_BonemoldKrage_Greaves_01
   - T_De_CanyonWatch_Greaves_01
   - T_De_DaedricHide_Greaves_01
   - T_De_DresBonemold_Greaves_01
@@ -2302,8 +2302,8 @@ greaves:
   - T_Mao_Scale_Greaves_01
   - T_Nor_Bearskin_Greaves_01
   - T_Nor_Companion_Greaves_01
-  - T_Nor_GuardFalkr_Greaves_01
   - T_Nor_Guard_Greaves_01
+  - T_Nor_GuardFalkr_Greaves_01
   - T_Nor_Iron_Greaves_01
   - T_Nor_Leather1_Greaves_01
   - T_Nor_Ringmail_Greaves_01
@@ -2319,9 +2319,9 @@ greaves:
   - T_QyK_Manatee_Greaves_01
   - T_Rea_Wormmouth_Greaves_01
   - T_Rga_CrownGuard1_Greaves_01
-  - T_Rga_IronLamellar_Greaves_01
   - T_Rga_Iron_Greaves_01
   - T_Rga_Iron_Greaves_02
+  - T_Rga_IronLamellar_Greaves_01
   - T_We_Wenbone_Greaves_01
 heavy:
   - T_Bre_TourneyHeater_Shield_FG
@@ -2352,11 +2352,6 @@ heavy:
   - T_Bre_WoodenHeater_Shield_15
   - T_Bre_WoodenHeater_Shield_Gn
   - T_Bre_WoodenHeater_Shield_Rose
-  - T_Com_IronSkull_PauldronL_01
-  - T_Com_IronSkull_PauldronR_01
-  - T_Com_IronSpike_Helm_01
-  - T_Com_IronSpike_PauldronL_01
-  - T_Com_IronSpike_PauldronR_01
   - T_Com_Iron_Boots_01
   - T_Com_Iron_Boots_02
   - T_Com_Iron_BracerL_01
@@ -2377,8 +2372,11 @@ heavy:
   - T_Com_Iron_PauldronL_02
   - T_Com_Iron_PauldronR_01
   - T_Com_Iron_PauldronR_02
-  - T_Com_SteelSpike_PauldronL_01
-  - T_Com_SteelSpike_PauldronR_01
+  - T_Com_IronSkull_PauldronL_01
+  - T_Com_IronSkull_PauldronR_01
+  - T_Com_IronSpike_Helm_01
+  - T_Com_IronSpike_PauldronL_01
+  - T_Com_IronSpike_PauldronR_01
   - T_Com_Steel_Boots_Consuming
   - T_Com_Steel_Boots_Creeping
   - T_Com_Steel_Boots_Glacial
@@ -2425,6 +2423,8 @@ heavy:
   - T_Com_Steel_PauldronR_MonkeyApp
   - T_Com_Steel_PauldronR_Sacred
   - T_Com_Steel_PauldronR_WinterWin
+  - T_Com_SteelSpike_PauldronL_01
+  - T_Com_SteelSpike_PauldronR_01
   - T_Com_UNI_HandOfGlory_Helnim
   - T_Com_UNI_Requiem
   - T_Dae_Alternate_Boots_01
@@ -2433,8 +2433,8 @@ heavy:
   - T_Dae_Alternate_GauntletL_01
   - T_Dae_Alternate_GauntletR_01
   - T_Dae_Alternate_Greaves_01
-  - T_Dae_Alternate_HelmOpen_01
   - T_Dae_Alternate_Helm_01
+  - T_Dae_Alternate_HelmOpen_01
   - T_Dae_Alternate_PauldronL_01
   - T_Dae_Alternate_PauldronR_01
   - T_Dae_Lord_Boots_01
@@ -2458,8 +2458,8 @@ heavy:
   - T_Dae_UNI_LMethatsPauldron
   - T_Dae_UNI_RMethatsPauldron
   - T_De_AlmaRula_Helm_UNI
-  - T_De_Ebony_HelmOpen_01
   - T_De_Ebony_Helm_02
+  - T_De_Ebony_HelmOpen_01
   - T_De_HvChit_Boots
   - T_De_HvChit_Cuirass
   - T_De_HvChit_Gauntlet_L
@@ -2630,22 +2630,22 @@ heavy:
   - T_Imp_Gold_PauldronR_02
   - T_Imp_Gold_Shield_01
   - T_Imp_GuardTown1_Boots_01
+  - T_Imp_GuardTown1_Helm_01
   - T_Imp_GuardTown1_HelmAnv_01
   - T_Imp_GuardTown1_HelmStr_01
   - T_Imp_GuardTown1_HelmSut_01
-  - T_Imp_GuardTown1_Helm_01
+  - T_Imp_GuardTown2_Helm_01
   - T_Imp_GuardTown2_HelmArt_01
   - T_Imp_GuardTown2_HelmBru_01
   - T_Imp_GuardTown2_HelmCho_01
-  - T_Imp_GuardTown2_Helm_01
   - T_Imp_GuardTown3_Boots_01
   - T_Imp_GuardTown3_GauntletL_01
   - T_Imp_GuardTown3_GauntletR_01
   - T_Imp_GuardTown3_Greaves_01
+  - T_Imp_GuardTown3_Helm_01
   - T_Imp_GuardTown3_HelmKva_01
   - T_Imp_GuardTown3_HelmSar_01
   - T_Imp_GuardTown3_HelmSkn_01
-  - T_Imp_GuardTown3_Helm_01
   - T_Imp_Militia_Boots_01
   - T_Imp_Militia_Greaves_01
   - T_Imp_Militia_Helm_01
@@ -2733,14 +2733,6 @@ heavy:
   - T_Nor_Trollbone_PauldronR_01
   - T_Nor_UNI_Kvisahjaelmur
   - T_Nor_UNI_TargeBlooded
-  - T_Rga_IronLamellar_Boots_01
-  - T_Rga_IronLamellar_Bracer_L_01
-  - T_Rga_IronLamellar_Bracer_R_01
-  - T_Rga_IronLamellar_Cuirass_01
-  - T_Rga_IronLamellar_Greaves_01
-  - T_Rga_IronLamellar_Helm_01
-  - T_Rga_IronLamellar_Pauld_L_01
-  - T_Rga_IronLamellar_Pauld_R_01
   - T_Rga_Iron_Boots_01
   - T_Rga_Iron_Boots_02
   - T_Rga_Iron_BracerL_01
@@ -2757,14 +2749,20 @@ heavy:
   - T_Rga_Iron_PauldronL_02
   - T_Rga_Iron_PauldronR_01
   - T_Rga_Iron_PauldronR_02
+  - T_Rga_IronLamellar_Boots_01
+  - T_Rga_IronLamellar_Bracer_L_01
+  - T_Rga_IronLamellar_Bracer_R_01
+  - T_Rga_IronLamellar_Cuirass_01
+  - T_Rga_IronLamellar_Greaves_01
+  - T_Rga_IronLamellar_Helm_01
+  - T_Rga_IronLamellar_Pauld_L_01
+  - T_Rga_IronLamellar_Pauld_R_01
 helmet:
   - T_Ayl_Saliache_Helm_01
   - T_Bre_BjoulsaeFur_Helm_01
   - T_Bre_Ep_HatWizard_01
   - T_Bre_Ep_HatWizard_02
   - T_Com_Adamant_Helm_01
-  - T_Com_Cm_HatClothCoif_01
-  - T_Com_Cm_HatClothCoif_02
   - T_Com_Cm_Hat_01
   - T_Com_Cm_Hat_02
   - T_Com_Cm_Hat_03
@@ -2772,8 +2770,9 @@ helmet:
   - T_Com_Cm_Hat_05
   - T_Com_Cm_Hat_06
   - T_Com_Cm_Hat_Haggling
+  - T_Com_Cm_HatClothCoif_01
+  - T_Com_Cm_HatClothCoif_02
   - T_Com_Eq_Hat_01
-  - T_Com_Et_HatClothCoif_01
   - T_Com_Et_Hat_01
   - T_Com_Et_Hat_02
   - T_Com_Et_Hat_03
@@ -2781,15 +2780,16 @@ helmet:
   - T_Com_Et_Hat_05
   - T_Com_Et_Hat_Foresight
   - T_Com_Et_Hat_Imperious
+  - T_Com_Et_HatClothCoif_01
   - T_Com_FoolsHat_01
   - T_Com_FoolsHat_02
-  - T_Com_IronSpike_Helm_01
   - T_Com_Iron_Helm_01
   - T_Com_Iron_Helm_02
   - T_Com_Iron_Helm_03
   - T_Com_Iron_Helm_04
   - T_Com_Iron_Helm_Open
   - T_Com_Iron_Helm_Open_02
+  - T_Com_IronSpike_Helm_01
   - T_Com_Steel_Helm_01
   - T_Com_Steel_Helm_Despair
   - T_Com_Steel_Helm_Open_01
@@ -2798,8 +2798,8 @@ helmet:
   - T_Com_Steel_Helm_TongueWyrm
   - T_Com_Steel_Helm_WindingRoad
   - T_Cr_Goblin_Helm_01
-  - T_Dae_Alternate_HelmOpen_01
   - T_Dae_Alternate_Helm_01
+  - T_Dae_Alternate_HelmOpen_01
   - T_Dae_Gold_Helm_01
   - T_Dae_Lord_Helm_01
   - T_Dae_Regular_HelmAberration_01
@@ -2811,21 +2811,21 @@ helmet:
   - T_Dae_UNI_HelmLightWithin_01
   - T_Dae_UNI_HelmSaviorsHide
   - T_Dae_UNI_Polyhedrascope_01
-  - T_De_AlitHide_HelmOpen_01
   - T_De_AlitHide_Helm_01
+  - T_De_AlitHide_HelmOpen_01
   - T_De_AlmaRula_Helm_UNI
-  - T_De_BonemoldKragen_Helm_01
-  - T_De_BonemoldKrage_Helm_01
-  - T_De_BonemoldMarad_Helm_01
-  - T_De_BonemoldMarad_Helm_02
-  - T_De_BonemoldSacred_Helm_01
-  - T_De_BonemoldSammas_Helm_01
   - T_De_Bonemold_Chuzei_Helm_E
   - T_De_Bonemold_HelmOpen_01
   - T_De_Bonemold_HelmRider_01
   - T_De_Bonemold_Stone_Helm
   - T_De_Bonemold_Ulvra_Helm
   - T_De_Bonemold_Water_Helm
+  - T_De_BonemoldKrage_Helm_01
+  - T_De_BonemoldKragen_Helm_01
+  - T_De_BonemoldMarad_Helm_01
+  - T_De_BonemoldMarad_Helm_02
+  - T_De_BonemoldSacred_Helm_01
+  - T_De_BonemoldSammas_Helm_01
   - T_De_CanyonWatch_Helm_01
   - T_De_Caravaner_Helm_01
   - T_De_Chitin_HelmOpen_01
@@ -2859,8 +2859,8 @@ helmet:
   - T_De_Dreugh_Helm_Closed
   - T_De_Dreugh_Hunter_Helm_01
   - T_De_Dreugh_Hunter_Helm_02
-  - T_De_Ebony_HelmOpen_01
   - T_De_Ebony_Helm_02
+  - T_De_Ebony_HelmOpen_01
   - T_De_Ep_HatTelv_01
   - T_De_Ep_HatTelv_02
   - T_De_Ep_HatTelv_03
@@ -2870,8 +2870,8 @@ helmet:
   - T_De_Ex_HatTelv_02
   - T_De_FiendCephalopodHelm_01
   - T_De_FiendMoleCrabHelm_01
-  - T_De_GlassGilded_Helm_01
   - T_De_Glass_Helm_Closed_01
+  - T_De_GlassGilded_Helm_01
   - T_De_Guarskin_Helm_01
   - T_De_Guarskin_Helm_02
   - T_De_Guarskin_Helm_03
@@ -2879,19 +2879,19 @@ helmet:
   - T_De_IndBonemold_HelmSaviour_01
   - T_De_IndChevAram_Helm_01
   - T_De_IndChevAram_Helm_02
-  - T_De_KagoutiHide_HelmOpen_01
   - T_De_KagoutiHide_Helm_01
+  - T_De_KagoutiHide_HelmOpen_01
   - T_De_NarsisWatch_Helm_01
   - T_De_NativeEbony_HelmClosed_01
   - T_De_NativeEbony_HelmClosed_02
   - T_De_NativeEbony_HelmOpen_01
   - T_De_NativeEbony_HelmOpen_02
   - T_De_Necrom_Helm_01
+  - T_De_Netch_Helm_01
+  - T_De_Netch_Helm_02
   - T_De_NetchRogue_Helm_01
   - T_De_NetchRogue_Helm_02
   - T_De_NetchStalker_Helm_01
-  - T_De_Netch_Helm_01
-  - T_De_Netch_Helm_02
   - T_De_RedBonemold_HelmOpen_01
   - T_De_RedHeroBonemold_Helm_01
   - T_De_RedHeroBonemold_Helm_02
@@ -2934,8 +2934,8 @@ helmet:
   - T_Imp_ColIron2_Helm_01
   - T_Imp_ColIron_Helmet_01
   - T_Imp_ColIron_Helmet_02
-  - T_Imp_ColLamellar_HelmOpen_01
   - T_Imp_ColLamellar_Helm_01
+  - T_Imp_ColLamellar_HelmOpen_01
   - T_Imp_ColLamellar_MaskHelm_01
   - T_Imp_ColLamellar_MaskHelm_02
   - T_Imp_ColLeather_Helm_01
@@ -2959,11 +2959,11 @@ helmet:
   - T_Imp_Ebony_Helmet_02b
   - T_Imp_Ebony_Helmet_03
   - T_Imp_Ebony_Helmet_03b
+  - T_Imp_Ep_Hat_02
   - T_Imp_Ep_HatColWest_01
   - T_Imp_Ep_HatColWest_02
   - T_Imp_Ep_HatColWest_03
   - T_Imp_Ep_HatColWest_04
-  - T_Imp_Ep_Hat_02
   - T_Imp_Et_HatColNorth_01
   - T_Imp_Et_HatColNorth_02
   - T_Imp_Et_HatColNorth_03
@@ -2972,18 +2972,18 @@ helmet:
   - T_Imp_Gold_Helm_01
   - T_Imp_Gold_Helm_02
   - T_Imp_GuardSutch_Helm_01
+  - T_Imp_GuardTown1_Helm_01
   - T_Imp_GuardTown1_HelmAnv_01
   - T_Imp_GuardTown1_HelmStr_01
   - T_Imp_GuardTown1_HelmSut_01
-  - T_Imp_GuardTown1_Helm_01
+  - T_Imp_GuardTown2_Helm_01
   - T_Imp_GuardTown2_HelmArt_01
   - T_Imp_GuardTown2_HelmBru_01
   - T_Imp_GuardTown2_HelmCho_01
-  - T_Imp_GuardTown2_Helm_01
+  - T_Imp_GuardTown3_Helm_01
   - T_Imp_GuardTown3_HelmKva_01
   - T_Imp_GuardTown3_HelmSar_01
   - T_Imp_GuardTown3_HelmSkn_01
-  - T_Imp_GuardTown3_Helm_01
   - T_Imp_Mananaut_Helm_01
   - T_Imp_Militia_Helm_01
   - T_Imp_MothHerder_Helmet_01
@@ -3007,15 +3007,15 @@ helmet:
   - T_Nor_Bearskin_Helm_01
   - T_Nor_Bearskin_Helm_Hiber
   - T_Nor_Companion_Helm_01
+  - T_Nor_Guard_Helm_01
   - T_Nor_GuardFalkr_Helm_01
   - T_Nor_GuardFalkr_Helm_02
-  - T_Nor_Guard_Helm_01
   - T_Nor_HornedLeather_Helm_01
   - T_Nor_Leather1_Helm_01
   - T_Nor_ReaRoy_Helm_01
+  - T_Nor_Ringmail_Helm_Closed
   - T_Nor_Ringmail_Helmet_01
   - T_Nor_Ringmail_Helmet_02
-  - T_Nor_Ringmail_Helm_Closed
   - T_Nor_Sabrecat_Helm_01
   - T_Nor_Sabrecat_Helm_02
   - T_Nor_Sabrecat_Helm_Sight
@@ -3024,9 +3024,9 @@ helmet:
   - T_Nor_Toadscale_Helm_02
   - T_Nor_Toadscale_Helm_03
   - T_Nor_Toadscale_Helm_04
-  - T_Nor_UNIHornedLeather_Helm
   - T_Nor_UNI_DCultMask_01
   - T_Nor_UNI_Kvisahjaelmur
+  - T_Nor_UNIHornedLeather_Helm
   - T_Nor_Wolf_Helm_Black_01
   - T_Nor_Wolf_Helm_Red_01
   - T_Nor_Wolf_Helm_White_01
@@ -3042,9 +3042,9 @@ helmet:
   - T_Rea_Wormmouth_Helm_Poison
   - T_Rga_CrownGuard1_Helm_01
   - T_Rga_Ep_Headdress_01
-  - T_Rga_IronLamellar_Helm_01
   - T_Rga_Iron_Helm_01
   - T_Rga_Iron_Helm_02
+  - T_Rga_IronLamellar_Helm_01
   - T_Rga_Lamellar_Helm
   - T_Rga_Lamellar_Helm_B
   - T_Rga_Lamellar_Helm_G
@@ -3128,11 +3128,6 @@ indoril:
   - T_De_Ordinator_Greaves_01
   - T_De_UNI_FacelessHelm
 iron:
-  - T_Com_IronSkull_PauldronL_01
-  - T_Com_IronSkull_PauldronR_01
-  - T_Com_IronSpike_Helm_01
-  - T_Com_IronSpike_PauldronL_01
-  - T_Com_IronSpike_PauldronR_01
   - T_Com_Iron_Boots_01
   - T_Com_Iron_Boots_02
   - T_Com_Iron_BracerL_01
@@ -3153,6 +3148,11 @@ iron:
   - T_Com_Iron_PauldronL_02
   - T_Com_Iron_PauldronR_01
   - T_Com_Iron_PauldronR_02
+  - T_Com_IronSkull_PauldronL_01
+  - T_Com_IronSkull_PauldronR_01
+  - T_Com_IronSpike_Helm_01
+  - T_Com_IronSpike_PauldronL_01
+  - T_Com_IronSpike_PauldronR_01
   - T_Imp_ColIron1_Boots_01
   - T_Imp_ColIron1_Boots_02
   - T_Imp_ColIron1_Boots_03
@@ -3208,14 +3208,6 @@ iron:
   - T_Nor_Iron_Greaves_01
   - T_Nor_Iron_PauldronL_01
   - T_Nor_Iron_PauldronR_01
-  - T_Rga_IronLamellar_Boots_01
-  - T_Rga_IronLamellar_Bracer_L_01
-  - T_Rga_IronLamellar_Bracer_R_01
-  - T_Rga_IronLamellar_Cuirass_01
-  - T_Rga_IronLamellar_Greaves_01
-  - T_Rga_IronLamellar_Helm_01
-  - T_Rga_IronLamellar_Pauld_L_01
-  - T_Rga_IronLamellar_Pauld_R_01
   - T_Rga_Iron_Boots_01
   - T_Rga_Iron_Boots_02
   - T_Rga_Iron_BracerL_01
@@ -3232,14 +3224,22 @@ iron:
   - T_Rga_Iron_PauldronL_02
   - T_Rga_Iron_PauldronR_01
   - T_Rga_Iron_PauldronR_02
+  - T_Rga_IronLamellar_Boots_01
+  - T_Rga_IronLamellar_Bracer_L_01
+  - T_Rga_IronLamellar_Bracer_R_01
+  - T_Rga_IronLamellar_Cuirass_01
+  - T_Rga_IronLamellar_Greaves_01
+  - T_Rga_IronLamellar_Helm_01
+  - T_Rga_IronLamellar_Pauld_L_01
+  - T_Rga_IronLamellar_Pauld_R_01
 lamellar:
   - T_Imp_ColLamellar_Boots_01
   - T_Imp_ColLamellar_BracerL_01
   - T_Imp_ColLamellar_BracerR_01
   - T_Imp_ColLamellar_Cuirass_01
   - T_Imp_ColLamellar_Greaves_01
-  - T_Imp_ColLamellar_HelmOpen_01
   - T_Imp_ColLamellar_Helm_01
+  - T_Imp_ColLamellar_HelmOpen_01
   - T_Imp_ColLamellar_PauldronL_01
   - T_Imp_ColLamellar_PauldronR_01
   - T_Rga_IronLamellar_Boots_01
@@ -3261,15 +3261,15 @@ lamellar:
   - T_Rga_Lamellar_Helm_G
   - T_Rga_Lamellar_Helm_Y
 leather:
-  - T_De_NetchRogue_Cuirass_01
-  - T_De_NetchRogue_Helm_01
-  - T_De_NetchRogue_Helm_02
-  - T_De_NetchStalker_Helm_01
   - T_De_Netch_Cuirass_01
   - T_De_Netch_Cuirass_02
   - T_De_Netch_Cuirass_03
   - T_De_Netch_Helm_01
   - T_De_Netch_Helm_02
+  - T_De_NetchRogue_Cuirass_01
+  - T_De_NetchRogue_Helm_01
+  - T_De_NetchRogue_Helm_02
+  - T_De_NetchStalker_Helm_01
   - T_Imp_Cm_BootsCol_01
   - T_Imp_Cm_BootsCol_02
   - T_Imp_Cm_BootsCol_03
@@ -3334,13 +3334,12 @@ left:
   - T_Ayl_Saliache_BracerL_01
   - T_Ayl_Saliache_PauldronL_01
   - T_Com_Bound_PauldronL_01
-  - T_Com_IronSkull_PauldronL_01
-  - T_Com_IronSpike_PauldronL_01
   - T_Com_Iron_BracerL_01
   - T_Com_Iron_BracerL_02
   - T_Com_Iron_PauldronL_01
   - T_Com_Iron_PauldronL_02
-  - T_Com_SteelSpike_PauldronL_01
+  - T_Com_IronSkull_PauldronL_01
+  - T_Com_IronSpike_PauldronL_01
   - T_Com_Steel_GauntletL_RainFire
   - T_Com_Steel_GauntletL_Scathing
   - T_Com_Steel_GauntletL_Summer
@@ -3352,6 +3351,7 @@ left:
   - T_Com_Steel_PauldronL_MonkeyApp
   - T_Com_Steel_PauldronL_Sacred
   - T_Com_Steel_PauldronL_WinterWin
+  - T_Com_SteelSpike_PauldronL_01
   - T_Cr_Goblin_PauldronL_01
   - T_Dae_Alternate_GauntletL_01
   - T_Dae_Alternate_PauldronL_01
@@ -3367,11 +3367,6 @@ left:
   - T_Dae_UNI_LPauldSaviorsHide
   - T_De_AlitHide_BracerL_01
   - T_De_AlitHide_PauldronL_01
-  - T_De_BonemoldKrage_GauntletL_01
-  - T_De_BonemoldKrage_PauldronL_01
-  - T_De_BonemoldMarad_PauldronL_01
-  - T_De_BonemoldSacred_GauntL_01
-  - T_De_BonemoldSacred_PauldL_01
   - T_De_Bonemold_Chuzei_BracerL
   - T_De_Bonemold_Chuzei_BracerL_E
   - T_De_Bonemold_Chuzei_PauldL
@@ -3382,6 +3377,11 @@ left:
   - T_De_Bonemold_Ulvra_PauldL
   - T_De_Bonemold_Water_BracerL
   - T_De_Bonemold_Water_PauldL
+  - T_De_BonemoldKrage_GauntletL_01
+  - T_De_BonemoldKrage_PauldronL_01
+  - T_De_BonemoldMarad_PauldronL_01
+  - T_De_BonemoldSacred_GauntL_01
+  - T_De_BonemoldSacred_PauldL_01
   - T_De_CanyonWatch_BracerL_01
   - T_De_CanyonWatch_PauldronL_01
   - T_De_Chitin_PauldrL_01
@@ -3531,10 +3531,10 @@ left:
   - T_Nor_Bearskin_PauldronL_01
   - T_Nor_Companion_GauntletL_01
   - T_Nor_Companion_PauldronL_01
-  - T_Nor_GuardFalkr_BracerL_01
-  - T_Nor_GuardFalkr_PauldronL_01
   - T_Nor_Guard_GauntletL_01
   - T_Nor_Guard_PauldronL_01
+  - T_Nor_GuardFalkr_BracerL_01
+  - T_Nor_GuardFalkr_PauldronL_01
   - T_Nor_Iron_GauntletL_01
   - T_Nor_Iron_PauldronL_01
   - T_Nor_Leather1_BarcerL_01
@@ -3555,20 +3555,20 @@ left:
   - T_Orc_Leather_PauldronL_01
   - T_QC_Shellmold_BracerL_01
   - T_QC_Shellmold_PauldL_01
+  - T_Qy_Ngalom_BracerL_UNI
   - T_QyC_Shellmold_BracerL_01
   - T_QyC_Shellmold_PauldL_01
   - T_QyK_Manatee_BracerL_01
   - T_QyK_Manatee_PauldronL_01
-  - T_Qy_Ngalom_BracerL_UNI
   - T_Rea_Wormmouth_BracerL_01
   - T_Rea_Wormmouth_PauldronL_01
   - T_Rga_CrownGuard1_PauldronL_01
-  - T_Rga_IronLamellar_Bracer_L_01
-  - T_Rga_IronLamellar_Pauld_L_01
   - T_Rga_Iron_BracerL_01
   - T_Rga_Iron_BracerL_02
   - T_Rga_Iron_PauldronL_01
   - T_Rga_Iron_PauldronL_02
+  - T_Rga_IronLamellar_Bracer_L_01
+  - T_Rga_IronLamellar_Pauld_L_01
   - T_Rga_Lamellar_Bracer_L_01
   - T_We_Wenbone_BracerL_01
   - T_We_Wenbone_PauldronL_01
@@ -3588,8 +3588,6 @@ light:
   - T_Com_Bound_Greaves_01
   - T_Com_Bound_PauldronL_01
   - T_Com_Bound_PauldronR_01
-  - T_Com_Cm_HatClothCoif_01
-  - T_Com_Cm_HatClothCoif_02
   - T_Com_Cm_Hat_01
   - T_Com_Cm_Hat_02
   - T_Com_Cm_Hat_03
@@ -3597,8 +3595,9 @@ light:
   - T_Com_Cm_Hat_05
   - T_Com_Cm_Hat_06
   - T_Com_Cm_Hat_Haggling
+  - T_Com_Cm_HatClothCoif_01
+  - T_Com_Cm_HatClothCoif_02
   - T_Com_Eq_Hat_01
-  - T_Com_Et_HatClothCoif_01
   - T_Com_Et_Hat_01
   - T_Com_Et_Hat_02
   - T_Com_Et_Hat_03
@@ -3606,6 +3605,7 @@ light:
   - T_Com_Et_Hat_05
   - T_Com_Et_Hat_Foresight
   - T_Com_Et_Hat_Imperious
+  - T_Com_Et_HatClothCoif_01
   - T_Com_FoolsHat_01
   - T_Com_FoolsHat_02
   - T_Cr_Goblin_Helm_01
@@ -3628,8 +3628,8 @@ light:
   - T_De_AlitHide_BracerR_01
   - T_De_AlitHide_Cuirass_01
   - T_De_AlitHide_Greaves_01
-  - T_De_AlitHide_HelmOpen_01
   - T_De_AlitHide_Helm_01
+  - T_De_AlitHide_HelmOpen_01
   - T_De_AlitHide_PauldronL_01
   - T_De_AlitHide_PauldronR_01
   - T_De_AlitHide_Shield_01
@@ -3684,6 +3684,7 @@ light:
   - T_De_Ex_HatTelv_02
   - T_De_FiendCephalopodHelm_01
   - T_De_FiendMoleCrabHelm_01
+  - T_De_Glass_Helm_Closed_01
   - T_De_GlassGilded_Boots_01
   - T_De_GlassGilded_BracerL_01
   - T_De_GlassGilded_BracerR_01
@@ -3692,7 +3693,6 @@ light:
   - T_De_GlassGilded_Helm_01
   - T_De_GlassGilded_PauldronL_01
   - T_De_GlassGilded_PauldronR_01
-  - T_De_Glass_Helm_Closed_01
   - T_De_IndChevAram_Boots_01
   - T_De_IndChevAram_BracerL_01
   - T_De_IndChevAram_BracerR_01
@@ -3707,8 +3707,8 @@ light:
   - T_De_KagoutiHide_BracerR_01
   - T_De_KagoutiHide_Cuirass_01
   - T_De_KagoutiHide_Greaves_01
-  - T_De_KagoutiHide_HelmOpen_01
   - T_De_KagoutiHide_Helm_01
+  - T_De_KagoutiHide_HelmOpen_01
   - T_De_KagoutiHide_PauldronL_01
   - T_De_KagoutiHide_PauldronR_01
   - T_De_KagoutiHide_Shield_01
@@ -3721,15 +3721,15 @@ light:
   - T_De_Molecrab_Greaves_01
   - T_De_Molecrab_PauldronL_01
   - T_De_Molecrab_PauldronR_01
-  - T_De_NetchRogue_Cuirass_01
-  - T_De_NetchRogue_Helm_01
-  - T_De_NetchRogue_Helm_02
-  - T_De_NetchStalker_Helm_01
   - T_De_Netch_Cuirass_01
   - T_De_Netch_Cuirass_02
   - T_De_Netch_Cuirass_03
   - T_De_Netch_Helm_01
   - T_De_Netch_Helm_02
+  - T_De_NetchRogue_Cuirass_01
+  - T_De_NetchRogue_Helm_01
+  - T_De_NetchRogue_Helm_02
+  - T_De_NetchStalker_Helm_01
   - T_De_RedoranWatchman_Boots
   - T_De_RedoranWatchman_Cuirass
   - T_De_RedoranWatchman_GauntletL
@@ -3845,11 +3845,11 @@ light:
   - T_Imp_Ebonweave_Helm_02
   - T_Imp_Ebonweave_PauldronL_01
   - T_Imp_Ebonweave_PauldronR_01
+  - T_Imp_Ep_Hat_02
   - T_Imp_Ep_HatColWest_01
   - T_Imp_Ep_HatColWest_02
   - T_Imp_Ep_HatColWest_03
   - T_Imp_Ep_HatColWest_04
-  - T_Imp_Ep_Hat_02
   - T_Imp_Et_HatColNorth_01
   - T_Imp_Et_HatColNorth_02
   - T_Imp_Et_HatColNorth_03
@@ -3903,8 +3903,8 @@ light:
   - T_Nor_Leather1_Helm_01
   - T_Nor_Leather1_PauldL_01
   - T_Nor_Leather1_PauldR_01
-  - T_Nor_UNIHornedLeather_Helm
   - T_Nor_UNI_PredatorsGrace
+  - T_Nor_UNIHornedLeather_Helm
   - T_Nor_Wolf_Helm_Black_01
   - T_Nor_Wolf_Helm_Red_01
   - T_Nor_Wolf_Helm_White_01
@@ -3924,6 +3924,8 @@ light:
   - T_Orc_Leather_Helm_01
   - T_Orc_Leather_PauldronL_01
   - T_Orc_Leather_PauldronR_01
+  - T_Qy_Ngalom_BracerL_UNI
+  - T_Qy_Ngalom_BracerR_UNI
   - T_QyK_Manatee_Boots_01
   - T_QyK_Manatee_BracerL_01
   - T_QyK_Manatee_BracerR_01
@@ -3932,8 +3934,6 @@ light:
   - T_QyK_Manatee_Helm_01
   - T_QyK_Manatee_PauldronL_01
   - T_QyK_Manatee_PauldronR_01
-  - T_Qy_Ngalom_BracerL_UNI
-  - T_Qy_Ngalom_BracerR_UNI
   - T_Rea_Leather_Hat_01
   - T_Rea_Leather_Hat_Witchery
   - T_Rea_UNI_FeatherCrown
@@ -3971,29 +3971,6 @@ medium:
   - T_Dae_Gold_PauldronR_01
   - T_Dae_UNI_BootsOfAtronach
   - T_Dae_UNI_Polyhedrascope_01
-  - T_De_BonemoldKragen_Helm_01
-  - T_De_BonemoldKrage_Boots_01
-  - T_De_BonemoldKrage_Cuirass_01
-  - T_De_BonemoldKrage_GauntletL_01
-  - T_De_BonemoldKrage_GauntletR_01
-  - T_De_BonemoldKrage_Greaves_01
-  - T_De_BonemoldKrage_Helm_01
-  - T_De_BonemoldKrage_PauldronL_01
-  - T_De_BonemoldKrage_PauldronR_01
-  - T_De_BonemoldMarad_Cuirass_01
-  - T_De_BonemoldMarad_Helm_01
-  - T_De_BonemoldMarad_Helm_02
-  - T_De_BonemoldMarad_PauldronL_01
-  - T_De_BonemoldMarad_PauldronR_01
-  - T_De_BonemoldMarad_Shield_01
-  - T_De_BonemoldSacred_Boots_01
-  - T_De_BonemoldSacred_Cuirass_01
-  - T_De_BonemoldSacred_GauntL_01
-  - T_De_BonemoldSacred_GauntR_01
-  - T_De_BonemoldSacred_Helm_01
-  - T_De_BonemoldSacred_PauldL_01
-  - T_De_BonemoldSacred_PauldR_01
-  - T_De_BonemoldSammas_Helm_01
   - T_De_Bonemold_Chuzei_Boots
   - T_De_Bonemold_Chuzei_Boots_E
   - T_De_Bonemold_Chuzei_BracerL
@@ -4035,6 +4012,29 @@ medium:
   - T_De_Bonemold_Water_Helm
   - T_De_Bonemold_Water_PauldL
   - T_De_Bonemold_Water_PauldR
+  - T_De_BonemoldKrage_Boots_01
+  - T_De_BonemoldKrage_Cuirass_01
+  - T_De_BonemoldKrage_GauntletL_01
+  - T_De_BonemoldKrage_GauntletR_01
+  - T_De_BonemoldKrage_Greaves_01
+  - T_De_BonemoldKrage_Helm_01
+  - T_De_BonemoldKrage_PauldronL_01
+  - T_De_BonemoldKrage_PauldronR_01
+  - T_De_BonemoldKragen_Helm_01
+  - T_De_BonemoldMarad_Cuirass_01
+  - T_De_BonemoldMarad_Helm_01
+  - T_De_BonemoldMarad_Helm_02
+  - T_De_BonemoldMarad_PauldronL_01
+  - T_De_BonemoldMarad_PauldronR_01
+  - T_De_BonemoldMarad_Shield_01
+  - T_De_BonemoldSacred_Boots_01
+  - T_De_BonemoldSacred_Cuirass_01
+  - T_De_BonemoldSacred_GauntL_01
+  - T_De_BonemoldSacred_GauntR_01
+  - T_De_BonemoldSacred_Helm_01
+  - T_De_BonemoldSacred_PauldL_01
+  - T_De_BonemoldSacred_PauldR_01
+  - T_De_BonemoldSammas_Helm_01
   - T_De_CanyonWatch_Boots_01
   - T_De_CanyonWatch_BracerL_01
   - T_De_CanyonWatch_BracerR_01
@@ -4163,6 +4163,9 @@ medium:
   - T_Dwe_Scrap_Pauldron_L
   - T_Dwe_Scrap_Pauldron_R
   - T_Glb_Var_DecapitationHelm
+  - T_Imp_Chain_Boots_01
+  - T_Imp_Chain_GauntletL_01
+  - T_Imp_Chain_GauntletR_02
   - T_Imp_Chainmail_cuirass_01
   - T_Imp_Chainmail_cuirass_02
   - T_Imp_Chainmail_cuirass_03
@@ -4171,9 +4174,6 @@ medium:
   - T_Imp_Chainmail_Helm_02
   - T_Imp_Chainmail_Helm_03
   - T_Imp_Chainmail_Helm_04
-  - T_Imp_Chain_Boots_01
-  - T_Imp_Chain_GauntletL_01
-  - T_Imp_Chain_GauntletR_02
   - T_Imp_ColBronzeOld_Helm_01
   - T_Imp_ColIron2_Boots_01
   - T_Imp_ColIron2_BracerL_01
@@ -4188,8 +4188,8 @@ medium:
   - T_Imp_ColLamellar_BracerR_01
   - T_Imp_ColLamellar_Cuirass_01
   - T_Imp_ColLamellar_Greaves_01
-  - T_Imp_ColLamellar_HelmOpen_01
   - T_Imp_ColLamellar_Helm_01
+  - T_Imp_ColLamellar_HelmOpen_01
   - T_Imp_ColLamellar_MaskHelm_01
   - T_Imp_ColLamellar_MaskHelm_02
   - T_Imp_ColLamellar_PauldronL_01
@@ -4264,6 +4264,14 @@ medium:
   - T_Nor_Companion_Greaves_01
   - T_Nor_Companion_PauldronL_01
   - T_Nor_Companion_PauldronR_01
+  - T_Nor_Guard_Boots_01
+  - T_Nor_Guard_Cuirass_01
+  - T_Nor_Guard_GauntletL_01
+  - T_Nor_Guard_GauntletR_01
+  - T_Nor_Guard_Greaves_01
+  - T_Nor_Guard_Helm_01
+  - T_Nor_Guard_PauldronL_01
+  - T_Nor_Guard_PauldronR_01
   - T_Nor_GuardFalkr_Boots_01
   - T_Nor_GuardFalkr_BracerL_01
   - T_Nor_GuardFalkr_BracerR_01
@@ -4275,14 +4283,6 @@ medium:
   - T_Nor_GuardFalkr_PauldronR_01
   - T_Nor_GuardFalkr_Shield_01
   - T_Nor_GuardFalkr_TowerShield_01
-  - T_Nor_Guard_Boots_01
-  - T_Nor_Guard_Cuirass_01
-  - T_Nor_Guard_GauntletL_01
-  - T_Nor_Guard_GauntletR_01
-  - T_Nor_Guard_Greaves_01
-  - T_Nor_Guard_Helm_01
-  - T_Nor_Guard_PauldronL_01
-  - T_Nor_Guard_PauldronR_01
   - T_Nor_Ironwood_Shield_01
   - T_Nor_Ironwood_Shield_02
   - T_Nor_Ringmail_Boots_01
@@ -4292,9 +4292,9 @@ medium:
   - T_Nor_Ringmail_Cuirass_01
   - T_Nor_Ringmail_Greaves_01
   - T_Nor_Ringmail_Greaves_02
+  - T_Nor_Ringmail_Helm_Closed
   - T_Nor_Ringmail_Helmet_01
   - T_Nor_Ringmail_Helmet_02
-  - T_Nor_Ringmail_Helm_Closed
   - T_Nor_Ringmail_PauldronL_02
   - T_Nor_Ringmail_PauldronR_02
   - T_Nor_Sabrecat_Helm_01
@@ -4368,15 +4368,15 @@ medium:
   - T_We_Wenbone_PauldronR_01
   - T_We_Wenbone_ShieldTow_01
 netch leather:
-  - T_De_NetchRogue_Cuirass_01
-  - T_De_NetchRogue_Helm_01
-  - T_De_NetchRogue_Helm_02
-  - T_De_NetchStalker_Helm_01
   - T_De_Netch_Cuirass_01
   - T_De_Netch_Cuirass_02
   - T_De_Netch_Cuirass_03
   - T_De_Netch_Helm_01
   - T_De_Netch_Helm_02
+  - T_De_NetchRogue_Cuirass_01
+  - T_De_NetchRogue_Helm_01
+  - T_De_NetchRogue_Helm_02
+  - T_De_NetchStalker_Helm_01
 nordic:
   - T_Nor_Ancient_Shield
   - T_Nor_Bearskin_Boots_01
@@ -4408,9 +4408,9 @@ nordic:
   - T_Nor_Ringmail_Cuirass_01
   - T_Nor_Ringmail_Greaves_01
   - T_Nor_Ringmail_Greaves_02
+  - T_Nor_Ringmail_Helm_Closed
   - T_Nor_Ringmail_Helmet_01
   - T_Nor_Ringmail_Helmet_02
-  - T_Nor_Ringmail_Helm_Closed
   - T_Nor_Ringmail_PauldronL_02
   - T_Nor_Ringmail_PauldronR_02
   - T_Nor_Trollbone_Boots_01
@@ -4427,16 +4427,14 @@ pauldron:
   - T_Ayl_Saliache_PauldronR_01
   - T_Com_Bound_PauldronL_01
   - T_Com_Bound_PauldronR_01
-  - T_Com_IronSkull_PauldronL_01
-  - T_Com_IronSkull_PauldronR_01
-  - T_Com_IronSpike_PauldronL_01
-  - T_Com_IronSpike_PauldronR_01
   - T_Com_Iron_PauldronL_01
   - T_Com_Iron_PauldronL_02
   - T_Com_Iron_PauldronR_01
   - T_Com_Iron_PauldronR_02
-  - T_Com_SteelSpike_PauldronL_01
-  - T_Com_SteelSpike_PauldronR_01
+  - T_Com_IronSkull_PauldronL_01
+  - T_Com_IronSkull_PauldronR_01
+  - T_Com_IronSpike_PauldronL_01
+  - T_Com_IronSpike_PauldronR_01
   - T_Com_Steel_PauldronL_01
   - T_Com_Steel_PauldronL_02
   - T_Com_Steel_PauldronL_03
@@ -4451,6 +4449,8 @@ pauldron:
   - T_Com_Steel_PauldronR_MonkeyApp
   - T_Com_Steel_PauldronR_Sacred
   - T_Com_Steel_PauldronR_WinterWin
+  - T_Com_SteelSpike_PauldronL_01
+  - T_Com_SteelSpike_PauldronR_01
   - T_Cr_Goblin_PauldronL_01
   - T_Cr_Goblin_PauldronR_01
   - T_Dae_Alternate_PauldronL_01
@@ -4467,12 +4467,6 @@ pauldron:
   - T_Dae_UNI_RPauldSaviorsHide
   - T_De_AlitHide_PauldronL_01
   - T_De_AlitHide_PauldronR_01
-  - T_De_BonemoldKrage_PauldronL_01
-  - T_De_BonemoldKrage_PauldronR_01
-  - T_De_BonemoldMarad_PauldronL_01
-  - T_De_BonemoldMarad_PauldronR_01
-  - T_De_BonemoldSacred_PauldL_01
-  - T_De_BonemoldSacred_PauldR_01
   - T_De_Bonemold_Chuzei_PauldL
   - T_De_Bonemold_Chuzei_PauldL_E
   - T_De_Bonemold_Chuzei_PauldR
@@ -4483,6 +4477,12 @@ pauldron:
   - T_De_Bonemold_Ulvra_PauldR
   - T_De_Bonemold_Water_PauldL
   - T_De_Bonemold_Water_PauldR
+  - T_De_BonemoldKrage_PauldronL_01
+  - T_De_BonemoldKrage_PauldronR_01
+  - T_De_BonemoldMarad_PauldronL_01
+  - T_De_BonemoldMarad_PauldronR_01
+  - T_De_BonemoldSacred_PauldL_01
+  - T_De_BonemoldSacred_PauldR_01
   - T_De_CanyonWatch_PauldronL_01
   - T_De_CanyonWatch_PauldronR_01
   - T_De_Chitin_PauldrL_01
@@ -4631,10 +4631,10 @@ pauldron:
   - T_Nor_Bearskin_PauldronR_01
   - T_Nor_Companion_PauldronL_01
   - T_Nor_Companion_PauldronR_01
-  - T_Nor_GuardFalkr_PauldronL_01
-  - T_Nor_GuardFalkr_PauldronR_01
   - T_Nor_Guard_PauldronL_01
   - T_Nor_Guard_PauldronR_01
+  - T_Nor_GuardFalkr_PauldronL_01
+  - T_Nor_GuardFalkr_PauldronR_01
   - T_Nor_Iron_PauldronL_01
   - T_Nor_Iron_PauldronR_01
   - T_Nor_Leather1_PauldL_01
@@ -4663,12 +4663,12 @@ pauldron:
   - T_Rea_Wormmouth_PauldronR_01
   - T_Rga_CrownGuard1_PauldronL_01
   - T_Rga_CrownGuard1_PauldronR_01
-  - T_Rga_IronLamellar_Pauld_L_01
-  - T_Rga_IronLamellar_Pauld_R_01
   - T_Rga_Iron_PauldronL_01
   - T_Rga_Iron_PauldronL_02
   - T_Rga_Iron_PauldronR_01
   - T_Rga_Iron_PauldronR_02
+  - T_Rga_IronLamellar_Pauld_L_01
+  - T_Rga_IronLamellar_Pauld_R_01
   - T_We_Wenbone_PauldronL_01
   - T_We_Wenbone_PauldronR_01
 redguard:
@@ -4713,13 +4713,12 @@ right:
   - T_Ayl_Saliache_BracerR_01
   - T_Ayl_Saliache_PauldronR_01
   - T_Com_Bound_PauldronR_01
-  - T_Com_IronSkull_PauldronR_01
-  - T_Com_IronSpike_PauldronR_01
   - T_Com_Iron_BracerR_01
   - T_Com_Iron_BracerR_02
   - T_Com_Iron_PauldronR_01
   - T_Com_Iron_PauldronR_02
-  - T_Com_SteelSpike_PauldronR_01
+  - T_Com_IronSkull_PauldronR_01
+  - T_Com_IronSpike_PauldronR_01
   - T_Com_Steel_GauntletR_RainFire
   - T_Com_Steel_GauntletR_Scathing
   - T_Com_Steel_GauntletR_Summer
@@ -4731,6 +4730,7 @@ right:
   - T_Com_Steel_PauldronR_MonkeyApp
   - T_Com_Steel_PauldronR_Sacred
   - T_Com_Steel_PauldronR_WinterWin
+  - T_Com_SteelSpike_PauldronR_01
   - T_Com_UNI_HandOfGlory_Helnim
   - T_Cr_Goblin_PauldronR_01
   - T_Dae_Alternate_GauntletR_01
@@ -4747,11 +4747,6 @@ right:
   - T_Dae_UNI_RPauldSaviorsHide
   - T_De_AlitHide_BracerR_01
   - T_De_AlitHide_PauldronR_01
-  - T_De_BonemoldKrage_GauntletR_01
-  - T_De_BonemoldKrage_PauldronR_01
-  - T_De_BonemoldMarad_PauldronR_01
-  - T_De_BonemoldSacred_GauntR_01
-  - T_De_BonemoldSacred_PauldR_01
   - T_De_Bonemold_Chuzei_BracerR
   - T_De_Bonemold_Chuzei_BracerR_E
   - T_De_Bonemold_Chuzei_PauldR
@@ -4762,6 +4757,11 @@ right:
   - T_De_Bonemold_Ulvra_PauldR
   - T_De_Bonemold_Water_BracerR
   - T_De_Bonemold_Water_PauldR
+  - T_De_BonemoldKrage_GauntletR_01
+  - T_De_BonemoldKrage_PauldronR_01
+  - T_De_BonemoldMarad_PauldronR_01
+  - T_De_BonemoldSacred_GauntR_01
+  - T_De_BonemoldSacred_PauldR_01
   - T_De_CanyonWatch_BracerR_01
   - T_De_CanyonWatch_PauldronR_01
   - T_De_Chitin_PauldrR_01
@@ -4911,10 +4911,10 @@ right:
   - T_Nor_Bearskin_PauldronR_01
   - T_Nor_Companion_GauntletR_01
   - T_Nor_Companion_PauldronR_01
-  - T_Nor_GuardFalkr_BracerR_01
-  - T_Nor_GuardFalkr_PauldronR_01
   - T_Nor_Guard_GauntletR_01
   - T_Nor_Guard_PauldronR_01
+  - T_Nor_GuardFalkr_BracerR_01
+  - T_Nor_GuardFalkr_PauldronR_01
   - T_Nor_Iron_GauntletR_01
   - T_Nor_Iron_PauldronR_01
   - T_Nor_Leather1_BarcerR_01
@@ -4935,20 +4935,20 @@ right:
   - T_Orc_Leather_PauldronR_01
   - T_QC_Shellmold_BracerR_01
   - T_QC_Shellmold_PauldR_01
+  - T_Qy_Ngalom_BracerR_UNI
   - T_QyC_Shellmold_BracerR_01
   - T_QyC_Shellmold_PauldR_01
   - T_QyK_Manatee_BracerR_01
   - T_QyK_Manatee_PauldronR_01
-  - T_Qy_Ngalom_BracerR_UNI
   - T_Rea_Wormmouth_BracerR_01
   - T_Rea_Wormmouth_PauldronR_01
   - T_Rga_CrownGuard1_PauldronR_01
-  - T_Rga_IronLamellar_Bracer_R_01
-  - T_Rga_IronLamellar_Pauld_R_01
   - T_Rga_Iron_BracerR_01
   - T_Rga_Iron_BracerR_02
   - T_Rga_Iron_PauldronR_01
   - T_Rga_Iron_PauldronR_02
+  - T_Rga_IronLamellar_Bracer_R_01
+  - T_Rga_IronLamellar_Pauld_R_01
   - T_Rga_Lamellar_Bracer_R_01
   - T_We_Wenbone_BracerR_01
   - T_We_Wenbone_PauldronR_01
@@ -5012,8 +5012,8 @@ shield:
   - T_Dwe_Regular_ShieldTower_01
   - T_Imp_AlessianBrnz_TShield_01
   - T_Imp_Ebony_ShieldTower_01
-  - T_Imp_Gold_ShieldBuckler_01
   - T_Imp_Gold_Shield_01
+  - T_Imp_Gold_ShieldBuckler_01
   - T_Imp_GuardSutch_ShieldTow_01
   - T_Imp_GuardTown1_ShieldAnv_01
   - T_Imp_RdDmTmp_Shield_01
@@ -5032,6 +5032,9 @@ shield:
   - T_Nor_Toadscale_Shield_01
   - T_Nor_Toadscale_Shield_02
   - T_Nor_UNI_TargeBlooded
+  - T_Nor_Wood_Shield_01
+  - T_Nor_Wood_Shield_02
+  - T_Nor_Wood_Shield_03
   - T_Nor_Wood_ShieldBuckler_01
   - T_Nor_Wood_ShieldBuckler_02
   - T_Nor_Wood_ShieldBuckler_03
@@ -5040,9 +5043,6 @@ shield:
   - T_Nor_Wood_ShieldBuckler_06
   - T_Nor_Wood_ShieldBuckler_07
   - T_Nor_Wood_ShieldBuckler_08
-  - T_Nor_Wood_Shield_01
-  - T_Nor_Wood_Shield_02
-  - T_Nor_Wood_Shield_03
   - T_Rga_Alikr_Buckler
   - T_Rga_Wicker_Shield
   - T_We_Wenbone_ShieldTow_01
@@ -5059,8 +5059,6 @@ silver:
   - T_Imp_Silver_PauldronL_01
   - T_Imp_Silver_PauldronR_01
 steel:
-  - T_Com_SteelSpike_PauldronL_01
-  - T_Com_SteelSpike_PauldronR_01
   - T_Com_Steel_Cuirass_01
   - T_Com_Steel_Cuirass_02
   - T_Com_Steel_Cuirass_03
@@ -5074,6 +5072,8 @@ steel:
   - T_Com_Steel_PauldronR_01
   - T_Com_Steel_PauldronR_02
   - T_Com_Steel_PauldronR_03
+  - T_Com_SteelSpike_PauldronL_01
+  - T_Com_SteelSpike_PauldronR_01
   - T_Imp_ColSteel1_Boots_01
   - T_Imp_ColSteel1_Boots_02
   - T_Imp_ColSteel1_Boots_03
@@ -5141,22 +5141,22 @@ steel:
   - T_Imp_ColSteel_PauldronR_03
   - T_Imp_ColSteel_PauldronR_04
   - T_Imp_GuardTown1_Boots_01
+  - T_Imp_GuardTown1_Helm_01
   - T_Imp_GuardTown1_HelmAnv_01
   - T_Imp_GuardTown1_HelmStr_01
   - T_Imp_GuardTown1_HelmSut_01
-  - T_Imp_GuardTown1_Helm_01
+  - T_Imp_GuardTown2_Helm_01
   - T_Imp_GuardTown2_HelmArt_01
   - T_Imp_GuardTown2_HelmBru_01
   - T_Imp_GuardTown2_HelmCho_01
-  - T_Imp_GuardTown2_Helm_01
   - T_Imp_GuardTown3_Boots_01
   - T_Imp_GuardTown3_GauntletL_01
   - T_Imp_GuardTown3_GauntletR_01
   - T_Imp_GuardTown3_Greaves_01
+  - T_Imp_GuardTown3_Helm_01
   - T_Imp_GuardTown3_HelmKva_01
   - T_Imp_GuardTown3_HelmSar_01
   - T_Imp_GuardTown3_HelmSkn_01
-  - T_Imp_GuardTown3_Helm_01
   - T_Imp_Militia_Boots_01
   - T_Imp_Militia_Greaves_01
   - T_Imp_Militia_Helm_01
