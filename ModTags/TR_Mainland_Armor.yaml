@@ -1,7 +1,7 @@
 armor:
   - TR_a-m2-56-gashcrown
-  - TR_Alandro_towershield
   - TR_a_i3-737_Tarons_Reach
+  - TR_Alandro_towershield
   - TR_Firemoth_Scrap_Helmet_En
   - TR_i2-235_bonemold_towershield
   - TR_i2-235_dragonscale_tower
@@ -17,13 +17,13 @@ armor:
   - TR_m1_Ench_Shield_i62
   - TR_m1_Ench_Shield_i62_free
   - TR_m1_Ench_Towershield
-  - TR_m1_FWMG_BootsOfCapacity
   - TR_m1_FW_WizardRestraintL
   - TR_m1_FW_WizardRestraintR
+  - TR_m1_FWMG_BootsOfCapacity
+  - TR_m1_g_boots_jump
   - TR_m1_GalanBrandtCuirass
   - TR_m1_Goblin_Trophy
   - TR_m1_GrazgobShield
-  - TR_m1_g_boots_jump
   - TR_m1_molecrab_cuirass_protect
   - TR_m1_q_GadavesGreaves
   - TR_m1_q_RanShield1
@@ -57,9 +57,9 @@ armor:
   - TR_m3-718 Decorative Armor
   - TR_m3-758_a_tadrils_temper
   - TR_m3_A8_rickshaw_helm
+  - TR_m3_a_antumbral_shield_uni
   - TR_m3_AT_MG07_helm
   - TR_m3_AT_MGBonus_cuirass
-  - TR_m3_a_antumbral_shield_uni
   - TR_m3_Brother_IndorilHelm
   - TR_m3_calcius_mail_uni
   - TR_m3_EEC_Bearish
@@ -91,10 +91,10 @@ armor:
   - TR_m3_steel_fireheart_i3-647
   - TR_m4-476_hartwigs_grip
   - TR_m4-518_spellweavers_skins
-  - TR_m4_AndothTGThreeEyedHelm
-  - TR_m4_Ando_MG_Polyhedrascope
   - TR_m4_A_AlverLegBrace
   - TR_m4_a_Atsiru-Din_Shield_uni
+  - TR_m4_Ando_MG_Polyhedrascope
+  - TR_m4_AndothTGThreeEyedHelm
   - TR_m4_Bal_VelynCuirass
   - TR_m4_Bal_VunalBoots
   - TR_m4_Bal_VunalCuirass
@@ -131,8 +131,8 @@ armor:
   - TR_m4_UshuDimmuCrown_01
   - TR_m4_UshuDimmuCrown_02
   - TR_m4_vesidur_helm
-  - TR_m7_AldIuvalJNS_Helm
   - TR_m7_a_Kababu_shield
+  - TR_m7_AldIuvalJNS_Helm
   - TR_m7_BenthicMail
   - TR_m7_CrownShalpar
   - TR_m7_Cuirass_Ethala
@@ -147,11 +147,11 @@ armor:
   - TR_m7_JNS_KVatraHelmOpen
   - TR_m7_Mansit_Nur_Helm
   - TR_m7_masque_of_dibella
+  - TR_m7_Narsis_JanusCuirass
   - TR_m7_NarsisFG_nightshield
   - TR_m7_NarsisMH_FirstStrike
   - TR_m7_NarsisMH_Mint_Gauntlet_l
   - TR_m7_NarsisMH_Mint_Gauntlet_r
-  - TR_m7_Narsis_JanusCuirass
   - TR_m7_Ns_IL_2_Helm
   - TR_m7_Ns_IL_7_PauldronL
   - TR_m7_Ns_IL_7_PauldronR
@@ -261,8 +261,8 @@ cuirass:
   - TR_m7_BenthicMail
   - TR_m7_Cuirass_Ethala
   - TR_m7_Havenmail
-  - TR_m7_NarsisMH_FirstStrike
   - TR_m7_Narsis_JanusCuirass
+  - TR_m7_NarsisMH_FirstStrike
   - TR_m7_Ns_JNS_4_CuirReward
   - TR_m7_Ns_Ralvam_Cuirass
   - TR_m7_Ns_SandweaverCuirass
@@ -364,10 +364,10 @@ heavy:
   - TR_m4_steel_cuirass_MM_b
   - TR_m7_CrownShalpar
   - TR_m7_DwemerBootsReflexes
+  - TR_m7_Narsis_JanusCuirass
   - TR_m7_NarsisFG_nightshield
   - TR_m7_NarsisMH_Mint_Gauntlet_l
   - TR_m7_NarsisMH_Mint_Gauntlet_r
-  - TR_m7_Narsis_JanusCuirass
   - TR_m7_Ns_IL_7_PauldronL
   - TR_m7_Ns_IL_7_PauldronR
   - TR_m7_Ns_Ralvam_Boots
@@ -401,8 +401,8 @@ helmet:
   - TR_m3_MT_intuition
   - TR_m3_OE_TG_KatariahDisp01
   - TR_m3_speaker_helm
-  - TR_m4_AndothTGThreeEyedHelm
   - TR_m4_Ando_MG_Polyhedrascope
+  - TR_m4_AndothTGThreeEyedHelm
   - TR_m4_Bal_VunalHelm
   - TR_m4_olmshelm_i4-261-hla
   - TR_m4_orcish_helmofbattle_uni
@@ -465,14 +465,14 @@ left:
   - TR_m7_sharai_09_gauntlet_unique
   - TR_ow09_orc_left_pauldron
 light:
-  - TR_Alandro_towershield
   - TR_a_i3-737_Tarons_Reach
+  - TR_Alandro_towershield
   - TR_i2-235_goblin_shield
   - TR_m1_C_Eyeball88_Helm
   - TR_m1_Ench_Towershield
   - TR_m1_FWMG_BootsOfCapacity
-  - TR_m1_Goblin_Trophy
   - TR_m1_g_boots_jump
+  - TR_m1_Goblin_Trophy
   - TR_m1_molecrab_cuirass_protect
   - TR_m2_a_Crabwalker_boots
   - TR_m2_a_explorer_boots
@@ -488,8 +488,8 @@ light:
   - TR_m3_q_ST_Honns_3
   - TR_m3_q_ST_Honns_4
   - TR_m4-518_spellweavers_skins
-  - TR_m4_AndothTGThreeEyedHelm
   - TR_m4_a_Atsiru-Din_Shield_uni
+  - TR_m4_AndothTGThreeEyedHelm
   - TR_m4_Bal_VelynCuirass
   - TR_m4_Bal_VunalBoots
   - TR_m4_Bal_VunalCuirass
@@ -573,8 +573,8 @@ medium:
   - TR_m4_TT_OrcNoCuirass
   - TR_m4_TT_OrcNoGreaves
   - TR_m4_TT_OrcNoHelm
-  - TR_m7_AldIuvalJNS_Helm
   - TR_m7_a_Kababu_shield
+  - TR_m7_AldIuvalJNS_Helm
   - TR_m7_BenthicMail
   - TR_m7_Havenmail
   - TR_m7_Iuval_Reman_Helm

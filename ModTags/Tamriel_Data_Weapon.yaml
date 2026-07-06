@@ -103,6 +103,16 @@ ammunition:
   - T_Nor_Orn_Arrow_01
   - T_Nor_Orn_Bolt_01
   - T_Orc_Orcish_Arrow
+  - T_Qy_Bronze_Arrow_01
+  - T_Qy_Bronze_Bolt_01
+  - T_Qy_Intense_FlameArrow
+  - T_Qy_Intense_FlameBolt
+  - T_Qy_Intense_ShardArrow
+  - T_Qy_Intense_ShardBolt
+  - T_Qy_Intense_SparkArrow
+  - T_Qy_Intense_SparkBolt
+  - T_Qy_Intense_ViperArrow
+  - T_Qy_Intense_ViperBolt
   - T_QyC_Bleak_FlameArrow
   - T_QyC_Bleak_FrostArrow
   - T_QyC_Bleak_SparkArrow
@@ -128,16 +138,6 @@ ammunition:
   - T_QyK_grim_viperbolt
   - T_QyK_Obsidian_Arrow_01
   - T_QyK_Obsidian_Bolt_01
-  - T_Qy_Bronze_Arrow_01
-  - T_Qy_Bronze_Bolt_01
-  - T_Qy_Intense_FlameArrow
-  - T_Qy_Intense_FlameBolt
-  - T_Qy_Intense_ShardArrow
-  - T_Qy_Intense_ShardBolt
-  - T_Qy_Intense_SparkArrow
-  - T_Qy_Intense_SparkBolt
-  - T_Qy_Intense_ViperArrow
-  - T_Qy_Intense_ViperBolt
   - T_We_Bone_Arrow_01
   - T_We_Wenbone_Arrow_01
 arrow:
@@ -188,6 +188,11 @@ arrow:
   - T_Nor_Ice_Arrow_01
   - T_Nor_Orn_Arrow_01
   - T_Orc_Orcish_Arrow
+  - T_Qy_Bronze_Arrow_01
+  - T_Qy_Intense_FlameArrow
+  - T_Qy_Intense_ShardArrow
+  - T_Qy_Intense_SparkArrow
+  - T_Qy_Intense_ViperArrow
   - T_QyC_Bleak_FlameArrow
   - T_QyC_Bleak_FrostArrow
   - T_QyC_Bleak_SparkArrow
@@ -203,11 +208,6 @@ arrow:
   - T_QyK_grim_sparkarrow
   - T_QyK_grim_viperarrow
   - T_QyK_Obsidian_Arrow_01
-  - T_Qy_Bronze_Arrow_01
-  - T_Qy_Intense_FlameArrow
-  - T_Qy_Intense_ShardArrow
-  - T_Qy_Intense_SparkArrow
-  - T_Qy_Intense_ViperArrow
   - T_We_Bone_Arrow_01
   - T_We_Wenbone_Arrow_01
 ashlander:
@@ -301,20 +301,20 @@ axe:
   - T_Nor_UNI_GodsbloodAxe
   - T_Nor_UNI_RagnidAxe
   - T_Orc_Regular_BattleAxe_01
-  - T_Orc_Regular_WarAxeThooted_01
   - T_Orc_Regular_Waraxe_01
+  - T_Orc_Regular_WarAxeThooted_01
   - T_Orc_UNI_OrlukhsCleaver
-  - T_QyC_Chitin_FlameAxe
-  - T_QyC_Chitin_ShardAxe
-  - T_QyC_Chitin_SparkAxe
-  - T_QyC_Chitin_ViperAxe
-  - T_QyC_Chitin_WarAxe_01
   - T_Qy_Bronze_BattleAxe_01
   - T_Qy_Bronze_Waraxe_01
   - T_Qy_Intense_FlameAxe
   - T_Qy_Intense_ShardAxe
   - T_Qy_Intense_SparkAxe
   - T_Qy_Intense_ViperAxe
+  - T_QyC_Chitin_FlameAxe
+  - T_QyC_Chitin_ShardAxe
+  - T_QyC_Chitin_SparkAxe
+  - T_QyC_Chitin_ViperAxe
+  - T_QyC_Chitin_WarAxe_01
   - T_Rea_Regular_WarAxe_01
   - T_Rea_Regular_WarAxe_Bonesplitt
   - T_Rea_Regular_WarAxe_Harrier
@@ -390,6 +390,10 @@ blade:
   - T_Imp_Legion_Shortsword_Shock
   - T_Imp_UNI_BladeOfKenes
   - T_Imp_Vampyrum_Shortsword_Leech
+  - T_Qy_Intense_FlameBlade
+  - T_Qy_Intense_ShardBlade
+  - T_Qy_Intense_SparkBlade
+  - T_Qy_Intense_ViperBlade
   - T_QyC_Bleak_FlameBlade
   - T_QyC_Bleak_ShardBlade
   - T_QyC_Bleak_SparkBlade
@@ -399,10 +403,6 @@ blade:
   - T_QyK_grim_sparkblade
   - T_QyK_grim_viperblade
   - T_QyK_Obsidian_Jinkblade_01
-  - T_Qy_Intense_FlameBlade
-  - T_Qy_Intense_ShardBlade
-  - T_Qy_Intense_SparkBlade
-  - T_Qy_Intense_ViperBlade
   - T_Yne_Iron_ShortswordFlame
   - T_Yne_Iron_ShortswordShard
   - T_Yne_Iron_ShortswordSpark
@@ -448,10 +448,10 @@ blunt:
   - T_Com_Steel_Morningstar_Blessed
   - T_Com_Steel_Morningstar_Frost
   - T_Com_Steel_Morningstar_Shock
-  - T_Com_Steel_StaffReckoning_01
   - T_Com_Steel_Staff_Dancing
   - T_Com_Steel_Staff_Gaze
   - T_Com_Steel_Staff_Purpose
+  - T_Com_Steel_StaffReckoning_01
   - T_Com_Steel_Truncheon_01
   - T_Com_Steel_Truncheon_Beatdown
   - T_Com_Steel_Truncheon_Paralysis
@@ -519,14 +519,16 @@ blunt:
   - T_De_Glass_Vipermace_01
   - T_De_Glass_Vipermauler_01
   - T_De_Glass_Warhammer_01
-  - T_De_Indoril_Mace_01
   - T_De_Ind_BellHammer_01
+  - T_De_Indoril_Mace_01
   - T_De_UNI_AlmaRulaGavel
   - T_De_UNI_CroizerSentinel
   - T_De_UNI_Malletchite_TR
   - T_De_UNI_StaffFounder
   - T_De_UNI_StaffRoris
   - T_De_UNI_StaffVeloth
+  - T_De_Wooden_Staff_01
+  - T_De_Wooden_Staff_02
   - T_De_Wooden_StaffOChastening_01
   - T_De_Wooden_StaffOChastening_02
   - T_De_Wooden_StaffOfAncestor_01
@@ -541,8 +543,6 @@ blunt:
   - T_De_Wooden_StaffOfShaming_02
   - T_De_Wooden_StaffOfWar_01
   - T_De_Wooden_StaffOfWar_02
-  - T_De_Wooden_Staff_01
-  - T_De_Wooden_Staff_02
   - T_Dreu_UNI_ScepterOfViolation
   - T_Dwe_Regular_Club_01
   - T_Dwe_Regular_Greatmace_01
@@ -614,8 +614,6 @@ blunt:
   - T_Orc_regular_club_01
   - T_Orc_Regular_Mace_01
   - T_Orc_Regular_Staff_01
-  - T_QyC_Chitin_Club_01
-  - T_QyC_shellmold_club
   - T_Qy_Bronze_Club_01
   - T_Qy_Bronze_Mace_01
   - T_Qy_Bronze_Staff_01
@@ -628,6 +626,8 @@ blunt:
   - T_Qy_Intense_SparkMauler
   - T_Qy_Intense_ViperMace
   - T_Qy_Intense_ViperMauler
+  - T_QyC_Chitin_Club_01
+  - T_QyC_shellmold_club
   - T_Rea_Regular_Warhammer_01
   - T_UNI_Com_Wood_Club_01
   - T_We_Wenbone_Club_01
@@ -674,6 +674,11 @@ bolt:
   - T_Imp_Silver_Bolt_DirePoisonCl
   - T_Imp_Silver_Bolt_DireShocksph
   - T_Nor_Orn_Bolt_01
+  - T_Qy_Bronze_Bolt_01
+  - T_Qy_Intense_FlameBolt
+  - T_Qy_Intense_ShardBolt
+  - T_Qy_Intense_SparkBolt
+  - T_Qy_Intense_ViperBolt
   - T_QyC_fierce_flamebolt
   - T_QyC_fierce_shardbolt
   - T_QyC_fierce_sparkbolt
@@ -684,11 +689,6 @@ bolt:
   - T_QyK_grim_sparkbolt
   - T_QyK_grim_viperbolt
   - T_QyK_Obsidian_Bolt_01
-  - T_Qy_Bronze_Bolt_01
-  - T_Qy_Intense_FlameBolt
-  - T_Qy_Intense_ShardBolt
-  - T_Qy_Intense_SparkBolt
-  - T_Qy_Intense_ViperBolt
 bone:
   - T_Yne_Iron_KnifeBone
 bonemold:
@@ -723,9 +723,9 @@ bow:
   - T_Nor_Silver_Bow_01
   - T_Nor_UNI_Manhunt_TR
   - T_Orc_Regular_Bow_01
+  - T_Qy_Bronze_Bow_01
   - T_QyC_Chitin_Shortbow_01
   - T_QyC_shellmold_bow
-  - T_Qy_Bronze_Bow_01
   - T_Rga_UNI_snakebow
   - T_We_Wenbone_Bow_01
 broadsword:
@@ -740,7 +740,6 @@ broadsword:
   - T_Dae_Regular_Broadsword_01
   - T_De_Glass_Broadsword_01
   - T_Dwe_Regular_Broadsword_01
-  - T_Imp_Legion_BroadswordBroke_01
   - T_Imp_Legion_Broadsword_01
   - T_Imp_Legion_Broadsword_02
   - T_Imp_Legion_Broadsword_03
@@ -748,6 +747,7 @@ broadsword:
   - T_Imp_Legion_Broadsword_Firmam
   - T_Imp_Legion_Broadsword_Uncert
   - T_Imp_Legion_Broadsword_Unnatur
+  - T_Imp_Legion_BroadswordBroke_01
   - T_Imp_Reman_Broadsword_01
   - T_Imp_Silver_Broadsword_01
   - T_Nor_Ancient_Broadsword_01
@@ -873,9 +873,9 @@ club:
   - T_Nor_Orn_Club_01
   - T_Nor_Trollbone_Club_01
   - T_Orc_regular_club_01
+  - T_Qy_Bronze_Club_01
   - T_QyC_Chitin_Club_01
   - T_QyC_shellmold_club
-  - T_Qy_Bronze_Club_01
   - T_UNI_Com_Wood_Club_01
   - T_We_Wenbone_Club_01
   - T_Yne_Iron_SpikeClub
@@ -893,11 +893,11 @@ crossbow:
   - T_Dae_Regular_Crossbow_01
   - T_De_Chitin_Crossbow
   - T_De_Ebony_Crossbow_01
+  - T_Dwe_Regular_Crossbow_Acc
+  - T_Dwe_Regular_Crossbow_Evan
   - T_Dwe_Regular_CrossbowFix_01
   - T_Dwe_Regular_CrossbowFix_Acc
   - T_Dwe_Regular_CrossbowFix_Evan
-  - T_Dwe_Regular_Crossbow_Acc
-  - T_Dwe_Regular_Crossbow_Evan
   - T_Imp_Legion_Crossbow_01
   - T_Imp_Legion_Crossbow_Pursuit
   - T_Orc_Regular_Crossbow_01
@@ -957,12 +957,12 @@ dagger:
   - T_Imp_Legion_Dagger_01
   - T_Imp_Legion_Dagger_02
   - T_Imp_Legion_Dagger_Patrol
-  - T_Imp_Silver_DaggerBroken_01
   - T_Imp_Silver_Dagger_01
   - T_Imp_Silver_Dagger_02
   - T_Imp_Silver_Dagger_AugGreenWis
   - T_Imp_Silver_Dagger_AugStalk
   - T_Imp_Silver_Dagger_Prowess
+  - T_Imp_Silver_DaggerBroken_01
   - T_Imp_Silver_Shortsword_AugSWis
   - T_Imp_Templar_Dagger_01
   - T_Imp_Vampyrum_Dagger_01
@@ -974,9 +974,9 @@ dagger:
   - T_Nor_Var_WerewolfboneDagger_01
   - T_Orc_Regular_Dagger_01
   - T_Orc_Regular_Dagger_02
+  - T_Qy_Bronze_Dagger_01
   - T_QyC_Chitin_Dagger_01
   - T_QyK_Obsidian_Dagger_01
-  - T_Qy_Bronze_Dagger_01
   - T_Rga_Alik_Dagger_01
   - T_We_Wenbone_Dagger_01
   - T_Yne_Iron_Dagger
@@ -1020,10 +1020,10 @@ dart:
   - T_Kha_Copper_Dart_01
   - T_Nor_Orn_Dart_01
   - T_Orc_Regular_Dart_01
+  - T_Qy_Bronze_Dart_01
   - T_QyC_Chitin_Dart_01
   - T_QyC_shellmold_dart
   - T_QyK_Obsidian_Dart_01
-  - T_Qy_Bronze_Dart_01
   - T_We_Wenbone_Dart_01
   - T_Yne_Iron_Dart
   - T_Yne_Iron_DartHeavy
@@ -1290,11 +1290,11 @@ imperial:
   - T_Imp_Templar_Waraxe_01
   - T_Imp_Templar_Warhammer_01
 indoril:
+  - T_De_Ind_BellHammer_01
   - T_De_Indoril_Halberd_01
   - T_De_Indoril_Mace_01
   - T_De_Indoril_Scimitar_01
   - T_De_Indoril_Spear_01
-  - T_De_Ind_BellHammer_01
   - T_De_UNI_Indoril_Breath_Gorne
 iron:
   - T_Com_Iron_Broadsword_01
@@ -1836,11 +1836,11 @@ marksman:
   - T_De_UNI_Dreugh_Dart_01
   - T_De_UNI_Dreugh_Knife_01
   - T_De_UNI_Dreugh_Star_01
+  - T_Dwe_Regular_Crossbow_Acc
+  - T_Dwe_Regular_Crossbow_Evan
   - T_Dwe_Regular_CrossbowFix_01
   - T_Dwe_Regular_CrossbowFix_Acc
   - T_Dwe_Regular_CrossbowFix_Evan
-  - T_Dwe_Regular_Crossbow_Acc
-  - T_Dwe_Regular_Crossbow_Evan
   - T_Dwe_Regular_Dart_01
   - T_Dwe_Regular_Dart_Shock
   - T_Dwe_Regular_Junkstar
@@ -1887,6 +1887,14 @@ marksman:
   - T_Orc_Regular_Dart_01
   - T_Orc_Regular_ThrowingKnife_01
   - T_Orc_Regular_ThrowingStar_01
+  - T_Qy_Bronze_Bow_01
+  - T_Qy_Bronze_Dart_01
+  - T_Qy_Bronze_ThrowingKnife_01
+  - T_Qy_Bronze_ThrowingStar_01
+  - T_Qy_Intense_FlameStar
+  - T_Qy_Intense_ShardStar
+  - T_Qy_Intense_SparkStar
+  - T_Qy_Intense_ViperStar
   - T_QyC_Bleak_FlameStar
   - T_QyC_Bleak_ShardStar
   - T_QyC_Bleak_SparkStar
@@ -1909,14 +1917,6 @@ marksman:
   - T_QyK_Obsidian_Dart_01
   - T_QyK_Obsidian_Knife_01
   - T_QyK_Obsidian_Star_01
-  - T_Qy_Bronze_Bow_01
-  - T_Qy_Bronze_Dart_01
-  - T_Qy_Bronze_ThrowingKnife_01
-  - T_Qy_Bronze_ThrowingStar_01
-  - T_Qy_Intense_FlameStar
-  - T_Qy_Intense_ShardStar
-  - T_Qy_Intense_SparkStar
-  - T_Qy_Intense_ViperStar
   - T_Rga_UNI_snakebow
   - T_We_Wenbone_Bow_01
   - T_We_Wenbone_Dart_01
@@ -1973,10 +1973,10 @@ nordic:
   - T_Nor_Orn_WarAxe_01
   - T_Nor_Orn_Warhammer_01
   - T_Nor_Orn_Warhammer_02
-  - T_Nor_SilverSpear_01
   - T_Nor_Silver_Bow_01
   - T_Nor_Silver_Claw_01
   - T_Nor_Silver_Seax_01
+  - T_Nor_SilverSpear_01
   - T_Nor_Steel_Spear_01
   - T_Nor_Steel_Waraxe_01
   - T_Nor_Steel_WarHammer_01
@@ -2250,7 +2250,6 @@ one-handed:
   - T_Imp_Barrow_Axe_01
   - T_Imp_Barrow_Sword_01
   - T_Imp_Col_House_Sword_01
-  - T_Imp_Legion_BroadswordBroke_01
   - T_Imp_Legion_Broadsword_01
   - T_Imp_Legion_Broadsword_02
   - T_Imp_Legion_Broadsword_03
@@ -2262,6 +2261,7 @@ one-handed:
   - T_Imp_Legion_Broadsword_Shock
   - T_Imp_Legion_Broadsword_Uncert
   - T_Imp_Legion_Broadsword_Unnatur
+  - T_Imp_Legion_BroadswordBroke_01
   - T_Imp_Legion_Club_01
   - T_Imp_Legion_Dagger_01
   - T_Imp_Legion_Dagger_02
@@ -2279,12 +2279,12 @@ one-handed:
   - T_Imp_Legion_Saber_Frost
   - T_Imp_Legion_Saber_Poison
   - T_Imp_Legion_Saber_Shock
-  - T_Imp_Legion_ShortswordBroke_01
   - T_Imp_Legion_Shortsword_01
   - T_Imp_Legion_Shortsword_Fire
   - T_Imp_Legion_Shortsword_Frost
   - T_Imp_Legion_Shortsword_Poison
   - T_Imp_Legion_Shortsword_Shock
+  - T_Imp_Legion_ShortswordBroke_01
   - T_Imp_Legion_Tanto_01
   - T_Imp_Legion_Wakizashi_01
   - T_Imp_Legion_WarAxe_01
@@ -2297,12 +2297,12 @@ one-handed:
   - T_Imp_Reman_Mace_01
   - T_Imp_Reman_Shortsword_01
   - T_Imp_Silver_Broadsword_01
-  - T_Imp_Silver_DaggerBroken_01
   - T_Imp_Silver_Dagger_01
   - T_Imp_Silver_Dagger_02
   - T_Imp_Silver_Dagger_AugGreenWis
   - T_Imp_Silver_Dagger_AugStalk
   - T_Imp_Silver_Dagger_Prowess
+  - T_Imp_Silver_DaggerBroken_01
   - T_Imp_Silver_Katana_01
   - T_Imp_Silver_Longsword_AugGoldW
   - T_Imp_Silver_Longsword_AugSurpr
@@ -2401,6 +2401,28 @@ one-handed:
   - T_Orc_Regular_Mace_01
   - T_Orc_Regular_shortsword_01
   - T_Orc_Regular_Waraxe_01
+  - T_Qy_Bronze_Club_01
+  - T_Qy_Bronze_Dagger_01
+  - T_Qy_Bronze_Mace_01
+  - T_Qy_Bronze_Scimitar_01
+  - T_Qy_Bronze_Shortsword_01
+  - T_Qy_Bronze_Waraxe_01
+  - T_Qy_Intense_FlameBlade
+  - T_Qy_Intense_FlameMace
+  - T_Qy_Intense_FlameScythe
+  - T_Qy_Intense_FlameSword
+  - T_Qy_Intense_ShardBlade
+  - T_Qy_Intense_ShardMace
+  - T_Qy_Intense_ShardScythe
+  - T_Qy_Intense_ShardSword
+  - T_Qy_Intense_SparkBlade
+  - T_Qy_Intense_SparkMace
+  - T_Qy_Intense_SparkScythe
+  - T_Qy_Intense_SparkSword
+  - T_Qy_Intense_ViperBlade
+  - T_Qy_Intense_ViperMace
+  - T_Qy_Intense_ViperScythe
+  - T_Qy_Intense_ViperSword
   - T_QyC_Bleak_FlameBlade
   - T_QyC_Bleak_FlameSword
   - T_QyC_Bleak_ShardBlade
@@ -2424,28 +2446,6 @@ one-handed:
   - T_QyK_grim_viperblade
   - T_QyK_Obsidian_Dagger_01
   - T_QyK_Obsidian_Jinkblade_01
-  - T_Qy_Bronze_Club_01
-  - T_Qy_Bronze_Dagger_01
-  - T_Qy_Bronze_Mace_01
-  - T_Qy_Bronze_Scimitar_01
-  - T_Qy_Bronze_Shortsword_01
-  - T_Qy_Bronze_Waraxe_01
-  - T_Qy_Intense_FlameBlade
-  - T_Qy_Intense_FlameMace
-  - T_Qy_Intense_FlameScythe
-  - T_Qy_Intense_FlameSword
-  - T_Qy_Intense_ShardBlade
-  - T_Qy_Intense_ShardMace
-  - T_Qy_Intense_ShardScythe
-  - T_Qy_Intense_ShardSword
-  - T_Qy_Intense_SparkBlade
-  - T_Qy_Intense_SparkMace
-  - T_Qy_Intense_SparkScythe
-  - T_Qy_Intense_SparkSword
-  - T_Qy_Intense_ViperBlade
-  - T_Qy_Intense_ViperMace
-  - T_Qy_Intense_ViperScythe
-  - T_Qy_Intense_ViperSword
   - T_Rea_Regular_WarAxe_01
   - T_Rea_Regular_WarAxe_Bonesplitt
   - T_Rea_Regular_WarAxe_Harrier
@@ -2527,8 +2527,8 @@ orcish:
   - T_Orc_Regular_Staff_01
   - T_Orc_Regular_ThrowingKnife_01
   - T_Orc_Regular_ThrowingStar_01
-  - T_Orc_Regular_WarAxeThooted_01
   - T_Orc_Regular_Waraxe_01
+  - T_Orc_Regular_WarAxeThooted_01
 pick:
   - T_Com_Iron_Warpick_01
   - T_Com_Iron_Warpick_Viper
@@ -2715,21 +2715,21 @@ short blade:
   - T_Imp_Legion_Dagger_01
   - T_Imp_Legion_Dagger_02
   - T_Imp_Legion_Dagger_Patrol
-  - T_Imp_Legion_ShortswordBroke_01
   - T_Imp_Legion_Shortsword_01
   - T_Imp_Legion_Shortsword_Fire
   - T_Imp_Legion_Shortsword_Frost
   - T_Imp_Legion_Shortsword_Poison
   - T_Imp_Legion_Shortsword_Shock
+  - T_Imp_Legion_ShortswordBroke_01
   - T_Imp_Legion_Tanto_01
   - T_Imp_Legion_Wakizashi_01
   - T_Imp_Reman_Shortsword_01
-  - T_Imp_Silver_DaggerBroken_01
   - T_Imp_Silver_Dagger_01
   - T_Imp_Silver_Dagger_02
   - T_Imp_Silver_Dagger_AugGreenWis
   - T_Imp_Silver_Dagger_AugStalk
   - T_Imp_Silver_Dagger_Prowess
+  - T_Imp_Silver_DaggerBroken_01
   - T_Imp_Silver_Shortsword_AugSwim
   - T_Imp_Silver_Shortsword_AugSWis
   - T_Imp_Silver_Tanto_01
@@ -2770,6 +2770,16 @@ short blade:
   - T_Orc_Regular_Dagger_01
   - T_Orc_Regular_Dagger_02
   - T_Orc_Regular_shortsword_01
+  - T_Qy_Bronze_Dagger_01
+  - T_Qy_Bronze_Shortsword_01
+  - T_Qy_Intense_FlameBlade
+  - T_Qy_Intense_FlameSword
+  - T_Qy_Intense_ShardBlade
+  - T_Qy_Intense_ShardSword
+  - T_Qy_Intense_SparkBlade
+  - T_Qy_Intense_SparkSword
+  - T_Qy_Intense_ViperBlade
+  - T_Qy_Intense_ViperSword
   - T_QyC_Bleak_FlameBlade
   - T_QyC_Bleak_FlameSword
   - T_QyC_Bleak_ShardBlade
@@ -2786,16 +2796,6 @@ short blade:
   - T_QyK_grim_viperblade
   - T_QyK_Obsidian_Dagger_01
   - T_QyK_Obsidian_Jinkblade_01
-  - T_Qy_Bronze_Dagger_01
-  - T_Qy_Bronze_Shortsword_01
-  - T_Qy_Intense_FlameBlade
-  - T_Qy_Intense_FlameSword
-  - T_Qy_Intense_ShardBlade
-  - T_Qy_Intense_ShardSword
-  - T_Qy_Intense_SparkBlade
-  - T_Qy_Intense_SparkSword
-  - T_Qy_Intense_ViperBlade
-  - T_Qy_Intense_ViperSword
   - T_Rea_UNI_Voidknife
   - T_Rga_Alik_Dagger_01
   - T_Rga_Cera_SSword_01
@@ -2842,8 +2842,8 @@ shortsword:
   - T_De_Glass_Shortsword_02
   - T_He_Direnni_Shortsword_01
   - T_Imp_Barrow_Sword_01
-  - T_Imp_Legion_ShortswordBroke_01
   - T_Imp_Legion_Shortsword_01
+  - T_Imp_Legion_ShortswordBroke_01
   - T_Imp_Reman_Shortsword_01
   - T_Imp_Silver_Shortsword_AugSwim
   - T_Imp_Templar_Shortsword_01
@@ -2856,8 +2856,8 @@ shortsword:
   - T_Nor_Silver_Shortsword_Danswyr
   - T_Nor_StalhrimShortsword_01
   - T_Orc_Regular_shortsword_01
-  - T_QyC_Chitin_Shortsword_01
   - T_Qy_Bronze_Shortsword_01
+  - T_QyC_Chitin_Shortsword_01
   - T_Rga_Cera_SSword_01
   - T_We_Wenbone_Shortsword_01
   - T_Yne_Iron_Shortsword
@@ -2888,10 +2888,10 @@ silver:
   - T_Imp_Silver_2HMace
   - T_Imp_Silver_Battleaxe_01
   - T_Imp_Silver_Broadsword_01
-  - T_Imp_Silver_DaggerBroken_01
   - T_Imp_Silver_Dagger_01
   - T_Imp_Silver_Dagger_02
   - T_Imp_Silver_Dagger_Prowess
+  - T_Imp_Silver_DaggerBroken_01
   - T_Imp_Silver_DaiKatana_01
   - T_Imp_Silver_GSword_01
   - T_Imp_Silver_Halberd_01
@@ -2919,12 +2919,12 @@ silver:
   - T_Imp_Silver_Truncheon_Judgment
   - T_Imp_Silver_Wakizashi_01
   - T_Imp_Silver_Warhammer_01
-  - T_Nor_SilverSpear_01
   - T_Nor_Silver_Bow_01
   - T_Nor_Silver_Claw_01
   - T_Nor_Silver_Dagger_Danswyrm
   - T_Nor_Silver_Seax_01
   - T_Nor_Silver_Shortsword_Danswyr
+  - T_Nor_SilverSpear_01
 sixth house:
   - T_De_6th_Arrow_01
   - T_De_6th_Dagger_01
@@ -3034,6 +3034,11 @@ spear:
   - T_Orc_Regular_Longspear_01
   - T_Orc_Regular_Spear_01
   - T_Orc_Regular_Spear_02
+  - T_Qy_Bronze_Spear_01
+  - T_Qy_Intense_FlameSkewer
+  - T_Qy_Intense_ShardSkewer
+  - T_Qy_Intense_SparkSkewer
+  - T_Qy_Intense_ViperSkewer
   - T_QyC_Chitin_FlameSkewer
   - T_QyC_Chitin_ShardSkewer
   - T_QyC_Chitin_SparkSkewer
@@ -3045,11 +3050,6 @@ spear:
   - T_QyK_grim_viperskewer
   - T_QyK_Obsidian_Spear_01
   - T_QyK_UNI_Obsidian_Eflerath
-  - T_Qy_Bronze_Spear_01
-  - T_Qy_Intense_FlameSkewer
-  - T_Qy_Intense_ShardSkewer
-  - T_Qy_Intense_SparkSkewer
-  - T_Qy_Intense_ViperSkewer
   - T_Rea_Regular_Halberd_01
   - T_Rea_Regular_Halberd_Bloodlett
   - T_Rga_FishingSpear_01
@@ -3081,10 +3081,10 @@ staff:
   - T_Com_Silver_Staff_Peace
   - T_Com_Silver_Staff_Shaming
   - T_Com_Silver_Staff_War
-  - T_Com_Steel_StaffReckoning_01
   - T_Com_Steel_Staff_Dancing
   - T_Com_Steel_Staff_Gaze
   - T_Com_Steel_Staff_Purpose
+  - T_Com_Steel_StaffReckoning_01
   - T_Com_UNI_Chimere_Staff
   - T_Com_UNI_Clarentavious_Staff
   - T_Com_UNI_StaffCustodian
@@ -3112,6 +3112,8 @@ staff:
   - T_De_UNI_StaffFounder
   - T_De_UNI_StaffRoris
   - T_De_UNI_StaffVeloth
+  - T_De_Wooden_Staff_01
+  - T_De_Wooden_Staff_02
   - T_De_Wooden_StaffOChastening_01
   - T_De_Wooden_StaffOChastening_02
   - T_De_Wooden_StaffOfAncestor_01
@@ -3126,8 +3128,6 @@ staff:
   - T_De_Wooden_StaffOfShaming_02
   - T_De_Wooden_StaffOfWar_01
   - T_De_Wooden_StaffOfWar_02
-  - T_De_Wooden_Staff_01
-  - T_De_Wooden_Staff_02
   - T_Dwe_Regular_Staff_01
   - T_Dwe_Regular_Staff_02
   - T_He_Direnni_Staff_01
@@ -3242,14 +3242,14 @@ sword:
   - T_Imp_Vampyrum_GSword_01
   - T_Imp_Vampyrum_Longsword_Leech
   - T_Nor_Orn_Broadsword_Frostbitt
-  - T_QyC_Bleak_FlameSword
-  - T_QyC_Bleak_ShardSword
-  - T_QyC_Bleak_SparkSword
-  - T_QyC_Bleak_ViperSword
   - T_Qy_Intense_FlameSword
   - T_Qy_Intense_ShardSword
   - T_Qy_Intense_SparkSword
   - T_Qy_Intense_ViperSword
+  - T_QyC_Bleak_FlameSword
+  - T_QyC_Bleak_ShardSword
+  - T_QyC_Bleak_SparkSword
+  - T_QyC_Bleak_ViperSword
   - T_Rga_Steel_Axesword_01
   - T_Yne_Iron_LongswordFlame
   - T_Yne_Iron_LongswordShard
@@ -3297,9 +3297,9 @@ throwing knife:
   - T_Kha_Copper_ThrowingKnife_01
   - T_Nor_Orn_ThrowingKnife_01
   - T_Orc_Regular_ThrowingKnife_01
+  - T_Qy_Bronze_ThrowingKnife_01
   - T_QyC_Chitin_ThrowingKnife_01
   - T_QyK_Obsidian_Knife_01
-  - T_Qy_Bronze_ThrowingKnife_01
   - T_We_Wenbone_Knife_01
   - T_Yne_Iron_ThrowingKnife
 throwing star:
@@ -3336,6 +3336,11 @@ throwing star:
   - T_Imp_Silver_ThrowingStar_DrPoi
   - T_Imp_Silver_ThrowingStar_DrShk
   - T_Orc_Regular_ThrowingStar_01
+  - T_Qy_Bronze_ThrowingStar_01
+  - T_Qy_Intense_FlameStar
+  - T_Qy_Intense_ShardStar
+  - T_Qy_Intense_SparkStar
+  - T_Qy_Intense_ViperStar
   - T_QyC_Bleak_FlameStar
   - T_QyC_Bleak_ShardStar
   - T_QyC_Bleak_SparkStar
@@ -3351,11 +3356,6 @@ throwing star:
   - T_QyK_grim_sparkstar
   - T_QyK_grim_viperstar
   - T_QyK_Obsidian_Star_01
-  - T_Qy_Bronze_ThrowingStar_01
-  - T_Qy_Intense_FlameStar
-  - T_Qy_Intense_ShardStar
-  - T_Qy_Intense_SparkStar
-  - T_Qy_Intense_ViperStar
   - T_We_Wenbone_Star_01
   - T_Yne_Iron_ThrowingStar
 thrown:
@@ -3451,6 +3451,13 @@ thrown:
   - T_Orc_Regular_Dart_01
   - T_Orc_Regular_ThrowingKnife_01
   - T_Orc_Regular_ThrowingStar_01
+  - T_Qy_Bronze_Dart_01
+  - T_Qy_Bronze_ThrowingKnife_01
+  - T_Qy_Bronze_ThrowingStar_01
+  - T_Qy_Intense_FlameStar
+  - T_Qy_Intense_ShardStar
+  - T_Qy_Intense_SparkStar
+  - T_Qy_Intense_ViperStar
   - T_QyC_Bleak_FlameStar
   - T_QyC_Bleak_ShardStar
   - T_QyC_Bleak_SparkStar
@@ -3471,13 +3478,6 @@ thrown:
   - T_QyK_Obsidian_Dart_01
   - T_QyK_Obsidian_Knife_01
   - T_QyK_Obsidian_Star_01
-  - T_Qy_Bronze_Dart_01
-  - T_Qy_Bronze_ThrowingKnife_01
-  - T_Qy_Bronze_ThrowingStar_01
-  - T_Qy_Intense_FlameStar
-  - T_Qy_Intense_ShardStar
-  - T_Qy_Intense_SparkStar
-  - T_Qy_Intense_ViperStar
   - T_We_Wenbone_Dart_01
   - T_We_Wenbone_Knife_01
   - T_We_Wenbone_Star_01
@@ -3552,10 +3552,10 @@ two-handed:
   - T_Com_Steel_Spear_Fox
   - T_Com_Steel_Spear_RainFire
   - T_Com_Steel_Spear_Snares
-  - T_Com_Steel_StaffReckoning_01
   - T_Com_Steel_Staff_Dancing
   - T_Com_Steel_Staff_Gaze
   - T_Com_Steel_Staff_Purpose
+  - T_Com_Steel_StaffReckoning_01
   - T_Com_UNI_Bloodrust
   - T_Com_UNI_Chimere_Staff
   - T_Com_UNI_Clarentavious_Staff
@@ -3658,9 +3658,9 @@ two-handed:
   - T_De_Glass_Viperskewer_01
   - T_De_Glass_Viperslayer_01
   - T_De_Glass_Warhammer_01
+  - T_De_Ind_BellHammer_01
   - T_De_Indoril_Halberd_01
   - T_De_Indoril_Spear_01
-  - T_De_Ind_BellHammer_01
   - T_De_UNI_AlmaRulaGavel
   - T_De_UNI_CroizerSentinel
   - T_De_UNI_Malletchite_TR
@@ -3669,6 +3669,8 @@ two-handed:
   - T_De_UNI_StaffRoris
   - T_De_UNI_StaffVeloth
   - T_De_Var_EggminerHook_01
+  - T_De_Wooden_Staff_01
+  - T_De_Wooden_Staff_02
   - T_De_Wooden_StaffOChastening_01
   - T_De_Wooden_StaffOChastening_02
   - T_De_Wooden_StaffOfAncestor_01
@@ -3683,8 +3685,6 @@ two-handed:
   - T_De_Wooden_StaffOfShaming_02
   - T_De_Wooden_StaffOfWar_01
   - T_De_Wooden_StaffOfWar_02
-  - T_De_Wooden_Staff_01
-  - T_De_Wooden_Staff_02
   - T_Dwe_Regular_Greatmace_01
   - T_Dwe_Regular_Longspear_01
   - T_Dwe_Regular_Spear_Retribut
@@ -3806,17 +3806,6 @@ two-handed:
   - T_Orc_Regular_Staff_01
   - T_Orc_Regular_WarAxeThooted_01
   - T_Orc_UNI_OrlukhsCleaver
-  - T_QyC_Chitin_FlameSkewer
-  - T_QyC_Chitin_ShardSkewer
-  - T_QyC_Chitin_SparkSkewer
-  - T_QyC_Chitin_Spear_01
-  - T_QyC_Chitin_ViperSkewer
-  - T_QyK_grim_flameskewer
-  - T_QyK_grim_shardskewer
-  - T_QyK_grim_sparkskewer
-  - T_QyK_grim_viperskewer
-  - T_QyK_Obsidian_Spear_01
-  - T_QyK_UNI_Obsidian_Eflerath
   - T_Qy_Bronze_BattleAxe_01
   - T_Qy_Bronze_GreatScimitar_01
   - T_Qy_Bronze_Spear_01
@@ -3834,6 +3823,17 @@ two-handed:
   - T_Qy_Intense_ViperAxe
   - T_Qy_Intense_ViperMauler
   - T_Qy_Intense_ViperSkewer
+  - T_QyC_Chitin_FlameSkewer
+  - T_QyC_Chitin_ShardSkewer
+  - T_QyC_Chitin_SparkSkewer
+  - T_QyC_Chitin_Spear_01
+  - T_QyC_Chitin_ViperSkewer
+  - T_QyK_grim_flameskewer
+  - T_QyK_grim_shardskewer
+  - T_QyK_grim_sparkskewer
+  - T_QyK_grim_viperskewer
+  - T_QyK_Obsidian_Spear_01
+  - T_QyK_UNI_Obsidian_Eflerath
   - T_Rea_Regular_Halberd_01
   - T_Rea_Regular_Halberd_Bloodlett
   - T_Rea_Regular_Warhammer_01
@@ -4001,8 +4001,8 @@ war axe:
   - T_Nor_Steel_Waraxe_01
   - T_Orc_Regular_BattleAxe_01
   - T_Orc_Regular_Waraxe_01
-  - T_QyC_Chitin_WarAxe_01
   - T_Qy_Bronze_Waraxe_01
+  - T_QyC_Chitin_WarAxe_01
   - T_Rea_Regular_WarAxe_01
   - T_Rga_Alik_Waraxe_01
   - T_Rga_Yoku_Waraxe_01
@@ -4294,10 +4294,10 @@ weapon:
   - T_Com_Steel_Spear_Fox
   - T_Com_Steel_Spear_RainFire
   - T_Com_Steel_Spear_Snares
-  - T_Com_Steel_StaffReckoning_01
   - T_Com_Steel_Staff_Dancing
   - T_Com_Steel_Staff_Gaze
   - T_Com_Steel_Staff_Purpose
+  - T_Com_Steel_StaffReckoning_01
   - T_Com_Steel_Star_Delight
   - T_Com_Steel_Star_Fickle
   - T_Com_Steel_Star_RivenStars
@@ -4573,11 +4573,11 @@ weapon:
   - T_De_Glass_Vipersword_01
   - T_De_Glass_Wakizashi_01
   - T_De_Glass_Warhammer_01
+  - T_De_Ind_BellHammer_01
   - T_De_Indoril_Halberd_01
   - T_De_Indoril_Mace_01
   - T_De_Indoril_Scimitar_01
   - T_De_Indoril_Spear_01
-  - T_De_Ind_BellHammer_01
   - T_DE_MoragTong_Blade_01
   - T_De_RedHero_CeremonialBlade_01
   - T_De_Throwingknife_01
@@ -4599,6 +4599,8 @@ weapon:
   - T_De_UNI_SwordNotHeld
   - T_De_UNI_TreasureWoodSword
   - T_De_Var_EggminerHook_01
+  - T_De_Wooden_Staff_01
+  - T_De_Wooden_Staff_02
   - T_De_Wooden_StaffOChastening_01
   - T_De_Wooden_StaffOChastening_02
   - T_De_Wooden_StaffOfAncestor_01
@@ -4613,8 +4615,6 @@ weapon:
   - T_De_Wooden_StaffOfShaming_02
   - T_De_Wooden_StaffOfWar_01
   - T_De_Wooden_StaffOfWar_02
-  - T_De_Wooden_Staff_01
-  - T_De_Wooden_Staff_02
   - T_Dreu_UNI_AbysmalBlade
   - T_Dreu_UNI_ScepterOfViolation
   - T_Dwe_Regular_Arrow_01
@@ -4622,11 +4622,11 @@ weapon:
   - T_Dwe_Regular_Bolt_Jink
   - T_Dwe_Regular_Broadsword_01
   - T_Dwe_Regular_Club_01
+  - T_Dwe_Regular_Crossbow_Acc
+  - T_Dwe_Regular_Crossbow_Evan
   - T_Dwe_Regular_CrossbowFix_01
   - T_Dwe_Regular_CrossbowFix_Acc
   - T_Dwe_Regular_CrossbowFix_Evan
-  - T_Dwe_Regular_Crossbow_Acc
-  - T_Dwe_Regular_Crossbow_Evan
   - T_Dwe_Regular_Dagger_01
   - T_Dwe_Regular_Dart_01
   - T_Dwe_Regular_Dart_Shock
@@ -4664,7 +4664,6 @@ weapon:
   - T_Imp_Legion_Arrow_01
   - T_Imp_Legion_Battleaxe_01
   - T_Imp_Legion_Bolt_01
-  - T_Imp_Legion_BroadswordBroke_01
   - T_Imp_Legion_Broadsword_01
   - T_Imp_Legion_Broadsword_02
   - T_Imp_Legion_Broadsword_03
@@ -4676,6 +4675,7 @@ weapon:
   - T_Imp_Legion_Broadsword_Shock
   - T_Imp_Legion_Broadsword_Uncert
   - T_Imp_Legion_Broadsword_Unnatur
+  - T_Imp_Legion_BroadswordBroke_01
   - T_Imp_Legion_Claymore_01
   - T_Imp_Legion_Claymore_Fire
   - T_Imp_Legion_Claymore_Frost
@@ -4711,12 +4711,12 @@ weapon:
   - T_Imp_Legion_Saber_Frost
   - T_Imp_Legion_Saber_Poison
   - T_Imp_Legion_Saber_Shock
-  - T_Imp_Legion_ShortswordBroke_01
   - T_Imp_Legion_Shortsword_01
   - T_Imp_Legion_Shortsword_Fire
   - T_Imp_Legion_Shortsword_Frost
   - T_Imp_Legion_Shortsword_Poison
   - T_Imp_Legion_Shortsword_Shock
+  - T_Imp_Legion_ShortswordBroke_01
   - T_Imp_Legion_Spear_01
   - T_Imp_Legion_Spear_Fire
   - T_Imp_Legion_Spear_Frost
@@ -4755,12 +4755,12 @@ weapon:
   - T_Imp_Silver_Broadsword_01
   - T_Imp_Silver_Claymore_AugFleet
   - T_Imp_Silver_Claymore_AugWis
-  - T_Imp_Silver_DaggerBroken_01
   - T_Imp_Silver_Dagger_01
   - T_Imp_Silver_Dagger_02
   - T_Imp_Silver_Dagger_AugGreenWis
   - T_Imp_Silver_Dagger_AugStalk
   - T_Imp_Silver_Dagger_Prowess
+  - T_Imp_Silver_DaggerBroken_01
   - T_Imp_Silver_DaiKatana_01
   - T_Imp_Silver_Dart_DireFirestrm
   - T_Imp_Silver_Dart_DireFrostBst
@@ -4915,12 +4915,12 @@ weapon:
   - T_Nor_Orn_Warhammer_01
   - T_Nor_Orn_Warhammer_02
   - T_Nor_Regular_Longsword_01
-  - T_Nor_SilverSpear_01
   - T_Nor_Silver_Bow_01
   - T_Nor_Silver_Claw_01
   - T_Nor_Silver_Dagger_Danswyrm
   - T_Nor_Silver_Seax_01
   - T_Nor_Silver_Shortsword_Danswyr
+  - T_Nor_SilverSpear_01
   - T_Nor_StalhrimBattleAxe_01
   - T_Nor_StalhrimBroadsword_01
   - T_Nor_StalhrimClaymore_01
@@ -4972,9 +4972,66 @@ weapon:
   - T_Orc_Regular_Staff_01
   - T_Orc_Regular_ThrowingKnife_01
   - T_Orc_Regular_ThrowingStar_01
-  - T_Orc_Regular_WarAxeThooted_01
   - T_Orc_Regular_Waraxe_01
+  - T_Orc_Regular_WarAxeThooted_01
   - T_Orc_UNI_OrlukhsCleaver
+  - T_Qy_Bronze_Arrow_01
+  - T_Qy_Bronze_BattleAxe_01
+  - T_Qy_Bronze_Bolt_01
+  - T_Qy_Bronze_Bow_01
+  - T_Qy_Bronze_Club_01
+  - T_Qy_Bronze_Dagger_01
+  - T_Qy_Bronze_Dart_01
+  - T_Qy_Bronze_GreatScimitar_01
+  - T_Qy_Bronze_Mace_01
+  - T_Qy_Bronze_Scimitar_01
+  - T_Qy_Bronze_Shortsword_01
+  - T_Qy_Bronze_Spear_01
+  - T_Qy_Bronze_Staff_01
+  - T_Qy_Bronze_ThrowingKnife_01
+  - T_Qy_Bronze_ThrowingStar_01
+  - T_Qy_Bronze_Waraxe_01
+  - T_Qy_Bronze_Warhammer_01
+  - T_Qy_Intense_FlameArrow
+  - T_Qy_Intense_FlameAxe
+  - T_Qy_Intense_FlameBlade
+  - T_Qy_Intense_FlameBolt
+  - T_Qy_Intense_FlameMace
+  - T_Qy_Intense_FlameMauler
+  - T_Qy_Intense_FlameScythe
+  - T_Qy_Intense_FlameSkewer
+  - T_Qy_Intense_FlameStar
+  - T_Qy_Intense_FlameSword
+  - T_Qy_Intense_ShardArrow
+  - T_Qy_Intense_ShardAxe
+  - T_Qy_Intense_ShardBlade
+  - T_Qy_Intense_ShardBolt
+  - T_Qy_Intense_ShardMace
+  - T_Qy_Intense_ShardMauler
+  - T_Qy_Intense_ShardScythe
+  - T_Qy_Intense_ShardSkewer
+  - T_Qy_Intense_ShardStar
+  - T_Qy_Intense_ShardSword
+  - T_Qy_Intense_SparkArrow
+  - T_Qy_Intense_SparkAxe
+  - T_Qy_Intense_SparkBlade
+  - T_Qy_Intense_SparkBolt
+  - T_Qy_Intense_SparkMace
+  - T_Qy_Intense_SparkMauler
+  - T_Qy_Intense_SparkScythe
+  - T_Qy_Intense_SparkSkewer
+  - T_Qy_Intense_SparkStar
+  - T_Qy_Intense_SparkSword
+  - T_Qy_Intense_ViperArrow
+  - T_Qy_Intense_ViperAxe
+  - T_Qy_Intense_ViperBlade
+  - T_Qy_Intense_ViperBolt
+  - T_Qy_Intense_ViperMace
+  - T_Qy_Intense_ViperMauler
+  - T_Qy_Intense_ViperScythe
+  - T_Qy_Intense_ViperSkewer
+  - T_Qy_Intense_ViperStar
+  - T_Qy_Intense_ViperSword
   - T_QyC_Bleak_FlameArrow
   - T_QyC_Bleak_FlameBlade
   - T_QyC_Bleak_FlameStar
@@ -5056,63 +5113,6 @@ weapon:
   - T_QyK_Obsidian_Spear_01
   - T_QyK_Obsidian_Star_01
   - T_QyK_UNI_Obsidian_Eflerath
-  - T_Qy_Bronze_Arrow_01
-  - T_Qy_Bronze_BattleAxe_01
-  - T_Qy_Bronze_Bolt_01
-  - T_Qy_Bronze_Bow_01
-  - T_Qy_Bronze_Club_01
-  - T_Qy_Bronze_Dagger_01
-  - T_Qy_Bronze_Dart_01
-  - T_Qy_Bronze_GreatScimitar_01
-  - T_Qy_Bronze_Mace_01
-  - T_Qy_Bronze_Scimitar_01
-  - T_Qy_Bronze_Shortsword_01
-  - T_Qy_Bronze_Spear_01
-  - T_Qy_Bronze_Staff_01
-  - T_Qy_Bronze_ThrowingKnife_01
-  - T_Qy_Bronze_ThrowingStar_01
-  - T_Qy_Bronze_Waraxe_01
-  - T_Qy_Bronze_Warhammer_01
-  - T_Qy_Intense_FlameArrow
-  - T_Qy_Intense_FlameAxe
-  - T_Qy_Intense_FlameBlade
-  - T_Qy_Intense_FlameBolt
-  - T_Qy_Intense_FlameMace
-  - T_Qy_Intense_FlameMauler
-  - T_Qy_Intense_FlameScythe
-  - T_Qy_Intense_FlameSkewer
-  - T_Qy_Intense_FlameStar
-  - T_Qy_Intense_FlameSword
-  - T_Qy_Intense_ShardArrow
-  - T_Qy_Intense_ShardAxe
-  - T_Qy_Intense_ShardBlade
-  - T_Qy_Intense_ShardBolt
-  - T_Qy_Intense_ShardMace
-  - T_Qy_Intense_ShardMauler
-  - T_Qy_Intense_ShardScythe
-  - T_Qy_Intense_ShardSkewer
-  - T_Qy_Intense_ShardStar
-  - T_Qy_Intense_ShardSword
-  - T_Qy_Intense_SparkArrow
-  - T_Qy_Intense_SparkAxe
-  - T_Qy_Intense_SparkBlade
-  - T_Qy_Intense_SparkBolt
-  - T_Qy_Intense_SparkMace
-  - T_Qy_Intense_SparkMauler
-  - T_Qy_Intense_SparkScythe
-  - T_Qy_Intense_SparkSkewer
-  - T_Qy_Intense_SparkStar
-  - T_Qy_Intense_SparkSword
-  - T_Qy_Intense_ViperArrow
-  - T_Qy_Intense_ViperAxe
-  - T_Qy_Intense_ViperBlade
-  - T_Qy_Intense_ViperBolt
-  - T_Qy_Intense_ViperMace
-  - T_Qy_Intense_ViperMauler
-  - T_Qy_Intense_ViperScythe
-  - T_Qy_Intense_ViperSkewer
-  - T_Qy_Intense_ViperStar
-  - T_Qy_Intense_ViperSword
   - T_Rea_Regular_Halberd_01
   - T_Rea_Regular_Halberd_Bloodlett
   - T_Rea_Regular_WarAxe_01
@@ -5229,6 +5229,8 @@ wood:
   - T_Com_Wood_Staff_Ancestors
   - T_Com_Wood_Staff_Reckoning
   - T_De_UNI_TreasureWoodSword
+  - T_De_Wooden_Staff_01
+  - T_De_Wooden_Staff_02
   - T_De_Wooden_StaffOChastening_01
   - T_De_Wooden_StaffOChastening_02
   - T_De_Wooden_StaffOfAncestor_01
@@ -5243,8 +5245,6 @@ wood:
   - T_De_Wooden_StaffOfShaming_02
   - T_De_Wooden_StaffOfWar_01
   - T_De_Wooden_StaffOfWar_02
-  - T_De_Wooden_Staff_01
-  - T_De_Wooden_Staff_02
   - T_UNI_Com_Wood_Club_01
 ynesai:
   - T_Yne_Iron_ ThrowingNeedle_01

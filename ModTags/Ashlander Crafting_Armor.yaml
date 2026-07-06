@@ -1,0 +1,100 @@
+armor:
+  - a_ar_chitin_boots
+  - a_ar_chitin_bracer_left_01
+  - a_ar_chitin_bracer_right_01
+  - a_ar_chitin_cuirass
+  - a_ar_chitin_greaves
+  - a_ar_chitin_paul_left
+  - a_ar_chitin_paul_right
+  - a_ar_chitin_tower
+  - a_ar_hide_boots_01
+  - a_ar_hide_bracer_left_01
+  - a_ar_hide_bracer_right_01
+  - a_ar_hide_chest_01
+  - a_ar_leather_band_01
+  - a_ar_leather_boots_01
+  - a_ar_leather_bracer_left_01
+  - a_ar_leather_bracer_right_01
+  - a_ar_leather_chest_01
+  - a_ar_leather_chest_02
+  - a_ar_leather_glove_left_01
+  - a_ar_leather_glove_right_01
+boots:
+  - a_ar_chitin_boots
+  - a_ar_hide_boots_01
+  - a_ar_leather_boots_01
+bracer:
+  - a_ar_chitin_bracer_left_01
+  - a_ar_chitin_bracer_right_01
+  - a_ar_hide_bracer_left_01
+  - a_ar_hide_bracer_right_01
+  - a_ar_leather_bracer_left_01
+  - a_ar_leather_bracer_right_01
+chitin:
+  - a_ar_chitin_boots
+  - a_ar_chitin_bracer_left_01
+  - a_ar_chitin_bracer_right_01
+  - a_ar_chitin_cuirass
+  - a_ar_chitin_greaves
+  - a_ar_chitin_paul_left
+  - a_ar_chitin_paul_right
+  - a_ar_chitin_tower
+cuirass:
+  - a_ar_chitin_cuirass
+  - a_ar_hide_chest_01
+  - a_ar_leather_chest_01
+  - a_ar_leather_chest_02
+gauntlet:
+  - a_ar_leather_glove_left_01
+  - a_ar_leather_glove_right_01
+greaves:
+  - a_ar_chitin_greaves
+leather:
+  - a_ar_leather_band_01
+  - a_ar_leather_boots_01
+  - a_ar_leather_bracer_left_01
+  - a_ar_leather_bracer_right_01
+  - a_ar_leather_chest_01
+  - a_ar_leather_chest_02
+  - a_ar_leather_glove_left_01
+  - a_ar_leather_glove_right_01
+left:
+  - a_ar_chitin_bracer_left_01
+  - a_ar_chitin_paul_left
+  - a_ar_hide_bracer_left_01
+  - a_ar_leather_bracer_left_01
+  - a_ar_leather_glove_left_01
+light:
+  - a_ar_chitin_boots
+  - a_ar_chitin_bracer_left_01
+  - a_ar_chitin_bracer_right_01
+  - a_ar_chitin_cuirass
+  - a_ar_chitin_greaves
+  - a_ar_chitin_paul_left
+  - a_ar_chitin_paul_right
+  - a_ar_chitin_tower
+  - a_ar_hide_boots_01
+  - a_ar_hide_bracer_left_01
+  - a_ar_hide_bracer_right_01
+  - a_ar_hide_chest_01
+  - a_ar_leather_band_01
+  - a_ar_leather_boots_01
+  - a_ar_leather_bracer_left_01
+  - a_ar_leather_bracer_right_01
+  - a_ar_leather_chest_01
+  - a_ar_leather_chest_02
+  - a_ar_leather_glove_left_01
+  - a_ar_leather_glove_right_01
+pauldron:
+  - a_ar_chitin_paul_left
+  - a_ar_chitin_paul_right
+  - a_ar_leather_band_01
+right:
+  - a_ar_chitin_bracer_right_01
+  - a_ar_chitin_paul_right
+  - a_ar_hide_bracer_right_01
+  - a_ar_leather_band_01
+  - a_ar_leather_bracer_right_01
+  - a_ar_leather_glove_right_01
+shield:
+  - a_ar_chitin_tower

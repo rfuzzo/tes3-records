@@ -56,8 +56,8 @@ clutter:
   - TR_m3_Kha_SY_hand
   - TR_m3_OE_CuriaVaultArmisticeCl
   - TR_m3_OE_CuriaVaultArmisticeSc
-  - TR_m3_OE_MGGemReward
   - TR_m3_OE_MG_EnchBroom
+  - TR_m3_OE_MGGemReward
   - TR_m3_q_A3_Distance_Finder
   - TR_m3_q_bloodstone
   - TR_m3_q_bloodstone_actv
@@ -95,8 +95,8 @@ clutter:
   - TR_m4_AA_SehutuScrapMetal
   - TR_m4_AA_UvaynJewelryBag_01
   - TR_m4_AA_UvaynJewelryBag_02
-  - TR_m4_AndoHH_RottenEgg
   - TR_m4_Ando_MG_WeirGateLens
+  - TR_m4_AndoHH_RottenEgg
   - TR_m4_armun_ganahiru_hide
   - TR_m4_FG_CliffracerWhistle
   - TR_m4_KassadPackage
@@ -174,8 +174,8 @@ dwemer:
   - TR_m1_q_AttackPiece3
   - TR_m1_q_AttackPiece4
   - TR_m2_dwrv_artifact70_01
-  - TR_m2_kmlz_ChefB_Coherer
   - TR_m2_kmlz_Chef_Key1
+  - TR_m2_kmlz_ChefB_Coherer
   - TR_m2_kmlz_Mfug_Key
   - TR_m2_plans_i2-307
   - TR_m2_q_32_fake_coherer
@@ -325,9 +325,9 @@ key:
   - TR_key_divayth03
   - TR_key_divayth04
   - TR_key_divayth05
+  - TR_key_i3-686
   - TR_key_i3-686-Cellar
   - TR_key_i3-686-prison
-  - TR_key_i3-686
   - TR_key_i3-730_satkey
   - TR_key_i4-398_Old_key
   - TR_key_i4_284
@@ -442,8 +442,8 @@ key:
   - TR_m2_231_key_guardtower
   - TR_m2_231_key_Tomaril
   - TR_m2_A9_Savani_key
-  - TR_M2_bthangthmuzand_key
   - TR_m2_Bthang_key2
+  - TR_M2_bthangthmuzand_key
   - TR_m2_DrolarManor_key
   - TR_m2_enduur_key_chest
   - TR_m2_i274_key_daegrottochest
@@ -471,17 +471,17 @@ key:
   - TR_m2_key_Edhryn
   - TR_m2_Key_EndrTomb
   - TR_m2_key_gilan_tower
-  - TR_m2_Key_HeCounc
   - TR_m2_key_He_Prison
+  - TR_m2_Key_HeCounc
   - TR_m2_key_i1-77-tri
   - TR_M2_key_i352_priest
   - TR_m2_key_i385
   - TR_m2_key_i391-1
   - TR_m2_key_i391-2
   - TR_m2_key_Lucien
-  - TR_m2_key_MalkKey
   - TR_m2_key_Ma_Prison
   - TR_m2_key_Ma_Slaves
+  - TR_m2_key_MalkKey
   - TR_m2_key_Melris
   - TR_m2_Key_NeriathChest
   - TR_m2_Key_NeriathTomb
@@ -522,7 +522,6 @@ key:
   - TR_m3-758_key
   - TR_m3-770_key_CE
   - TR_m3_Aim_LighthouseKey
-  - TR_m3_ATPrison_cellkey
   - TR_m3_AT_18_TributeKey
   - TR_m3_AT_Key_Adranibaal
   - TR_m3_AT_Key_Alynu
@@ -563,6 +562,7 @@ key:
   - TR_m3_AT_MiddleArmorerKey_1
   - TR_m3_AT_NLighthouseKey
   - TR_m3_AT_TailorsKey_1
+  - TR_m3_ATPrison_cellkey
   - TR_m3_Bosmoracap_key
   - TR_m3_BrewChestKey
   - TR_m3_deskkey_i392
@@ -608,8 +608,8 @@ key:
   - TR_m3_Kha_Key_06
   - TR_m3_Kha_Methats'_Key
   - TR_m3_Kha_Vedas_Key
-  - TR_m3_labkey_i3-274-ind
   - TR_m3_LA_HengorKey
+  - TR_m3_labkey_i3-274-ind
   - TR_m3_LlandoraFalavelKey
   - TR_m3_LlothinChestKey
   - TR_m3_MassanudDoorKey
@@ -698,6 +698,13 @@ key:
   - TR_m4_AA_Tomb_1_Key
   - TR_m4_AA_VelTower1_Key
   - TR_m4_AldErf_Key
+  - TR_m4_And_Temple_Coff_Key
+  - TR_m4_And_Temple_Key
+  - TR_m4_Ando_i4-87_ChKey
+  - TR_m4_Ando_i4-87_DoorKey
+  - TR_m4_Ando_Key_WharfHideout
+  - TR_m4_Ando_ManorE_Key_01
+  - TR_m4_Ando_ManorE_Key_02
   - TR_m4_AndoG_key1
   - TR_m4_AndoG_key2
   - TR_m4_AndoG_key3
@@ -706,13 +713,6 @@ key:
   - TR_m4_andoport_records
   - TR_m4_Andoth_AndasSewerKey
   - TR_m4_AndoWestHouseC_Key
-  - TR_m4_Ando_i4-87_ChKey
-  - TR_m4_Ando_i4-87_DoorKey
-  - TR_m4_Ando_Key_WharfHideout
-  - TR_m4_Ando_ManorE_Key_01
-  - TR_m4_Ando_ManorE_Key_02
-  - TR_m4_And_Temple_Coff_Key
-  - TR_m4_And_Temple_Key
   - TR_m4_arenakey_i4-261-hla
   - TR_m4_AT42Intercession_Key1
   - TR_m4_Bal_ArvsShadanKey
@@ -761,16 +761,16 @@ key:
   - TR_m4_key_ngelfltingth
   - TR_m4_key_olmsAT1
   - TR_m4_key_OlthanTomb
-  - TR_m4_key_OranPlantationStorage
   - TR_m4_key_oran_slave
   - TR_m4_key_oran_vault
+  - TR_m4_key_OranPlantationStorage
   - TR_m4_key_RamaranBasement
   - TR_m4_key_RamaranCell
   - TR_m4_key_rethil_slave
   - TR_m4_key_sathes_barnalo
   - TR_m4_key_SlaveSavrethi
-  - TR_m4_key_teynleuchtturm
   - TR_m4_key_teyn_contraband
+  - TR_m4_key_teynleuchtturm
   - TR_m4_key_Tur_Julan_Sanctum
   - TR_m4_key_vathras_manor
   - TR_m4_key_vathras_slave
@@ -798,13 +798,13 @@ key:
   - TR_m4_VM_Cave_5_key
   - TR_m4_VM_Daedric_Ruin_1_key
   - TR_m4_vys-assanud_key
-  - TR_m7_adavrincellkey
-  - TR_m7_AdavrinMineKeySlave
   - TR_m7_Adavrin_KeyCell
   - TR_m7_Adavrin_KeyManor
   - TR_m7_Adavrin_KeySlave
   - TR_m7_Adavrin_KeyVault1
   - TR_m7_Adavrin_KeyVault2
+  - TR_m7_adavrincellkey
+  - TR_m7_AdavrinMineKeySlave
   - TR_m7_AI_KeyCounil
   - TR_m7_AI_KeyDelath
   - TR_m7_AI_KeyKogotel
@@ -855,6 +855,7 @@ key:
   - TR_m7_HK_key_tiger_antonius
   - TR_m7_HK_key_tiger_prison
   - TR_m7_HK_key_tollhouse
+  - TR_m7_HL_FG_Q5_SlaveKey
   - TR_m7_Hlaalu2_GeneralKey
   - TR_m7_Hlaalu2_GuestKey
   - TR_m7_Hlaalu2_VaultKey_01
@@ -863,7 +864,6 @@ key:
   - TR_m7_HlaaluEggMine_key_slaves
   - TR_m7_Hlan_Oek_3_Key
   - TR_m7_hlan_trade_vault_key
-  - TR_m7_HL_FG_Q5_SlaveKey
   - TR_m7_HO_AsaniSerdimapalKey
   - TR_m7_HO_BelvisDarethranKey
   - TR_m7_HO_BeronOmoranKey
@@ -894,6 +894,18 @@ key:
   - TR_m7_Kaladryon_ChambersKey
   - TR_m7_Kalk_Vault_Key_01
   - TR_m7_KassapuKey
+  - TR_m7_key_adavrin_vault
+  - TR_m7_Key_AviloBasement
+  - TR_m7_key_EdalvelSlaveKey
+  - TR_m7_key_HilfridDibella
+  - TR_m7_key_HO_Sewers_E
+  - TR_m7_key_IbbiSuenSlave
+  - TR_m7_key_kaladryon
+  - TR_m7_Key_Narsis_87
+  - TR_M7_Key_Nim_01
+  - TR_m7_Key_ShiSha_Mine
+  - TR_m7_key_teloseras_vault
+  - TR_m7_key_TV4Tomb2
   - TR_m7_KeyArenFarm
   - TR_m7_KeyBaryonPlantationManor
   - TR_m7_KeyBaryonPlantationSlave
@@ -924,18 +936,6 @@ key:
   - TR_m7_KeyVedranoSlave
   - TR_m7_KeyVirdad
   - TR_m7_KeyYansumanmusSlaves
-  - TR_m7_key_adavrin_vault
-  - TR_m7_Key_AviloBasement
-  - TR_m7_key_EdalvelSlaveKey
-  - TR_m7_key_HilfridDibella
-  - TR_m7_key_HO_Sewers_E
-  - TR_m7_key_IbbiSuenSlave
-  - TR_m7_key_kaladryon
-  - TR_m7_Key_Narsis_87
-  - TR_M7_Key_Nim_01
-  - TR_m7_Key_ShiSha_Mine
-  - TR_m7_key_teloseras_vault
-  - TR_m7_key_TV4Tomb2
   - TR_m7_Kunashpat_Key
   - TR_m7_LA4_Tomb_1_Key
   - TR_m7_LA6_Tomb_1_Key_Bone
@@ -945,7 +945,6 @@ key:
   - TR_m7_Naemunbatashpi_Ritual_Key
   - TR_m7_Narsis74_cells
   - TR_m7_narsis74_sewerkey
-  - TR_m7_NarsisTower54_BasementKey
   - TR_m7_Narsis_83_key
   - TR_m7_Narsis_93_key
   - TR_m7_Narsis_FortunaRoom1key
@@ -1151,12 +1150,13 @@ key:
   - TR_m7_Narsis_QuadrilleStorage
   - TR_m7_Narsis_WFSw_Key
   - TR_m7_Narsis_ZenChapel_key1
+  - TR_m7_NarsisTower54_BasementKey
   - TR_m7_Ns_FG_4_KeyNayalimmu
   - TR_m7_Ns_MG_ReactorKey
   - TR_m7_Ns_StageFright_KeyRoom
-  - TR_m7_NumberRooms_WW_Key
   - TR_m7_Number_Room_Jail_Key
   - TR_m7_Number_Room_Key_01
+  - TR_m7_NumberRooms_WW_Key
   - TR_m7_Othm_GovernorKey
   - TR_m7_Othm_HelvalKey
   - TR_m7_Othm_HighWallKey
@@ -1175,14 +1175,14 @@ key:
   - TR_m7_q_HR_AldIuval_key_shojata
   - TR_m7_Remyon_Key
   - TR_m7_RivulFarm_Key
-  - TR_m7_SadranoManorKey
-  - TR_m7_SadranoSlaveKey
   - TR_m7_sad_key_droryn
   - TR_m7_sad_key_llanel
   - TR_m7_sad_key_renil
   - TR_m7_sad_key_sadras
   - TR_m7_sad_key_vulam
   - TR_m7_sad_key_zhirasha
+  - TR_m7_SadranoManorKey
+  - TR_m7_SadranoSlaveKey
   - TR_m7_SamoriFarm_Key
   - TR_m7_Sarahu_Key
   - TR_m7_SelesRanch_storage
@@ -1191,6 +1191,7 @@ key:
   - TR_m7_SH01_Mine3_key_slaves
   - TR_m7_SH08_Cave_2_Key
   - TR_m7_SH09_DR01_key
+  - TR_m7_SH_KeyKrenTomb
   - TR_m7_Sharai_KeyAbandApartment
   - TR_m7_Sharai_KeyAbandonedStore
   - TR_m7_Sharai_KeyAvilo
@@ -1212,7 +1213,6 @@ key:
   - TR_m7_Sharai_KeyRedWings
   - TR_m7_Sharai_KeySamalsi
   - TR_m7_Sharai_KeyWarehouse
-  - TR_m7_SH_KeyKrenTomb
   - TR_m7_Sinsi_Key
   - TR_m7_SM_key_GalasChest
   - TR_m7_SM_key_TestSubject
@@ -1236,11 +1236,11 @@ key:
   - TR_m7_UH_HlerynPanicKey
   - TR_m7_UH_HlerynVaultKey
   - TR_m7_Ussiran_KeyNind
-  - TR_m7_Vandirelyon_Cell_Key
-  - TR_m7_Vandirelyon_Key
-  - TR_m7_Vandir_KeyEntrance
   - TR_m7_Vandir_Key_1
   - TR_m7_Vandir_Key_2
+  - TR_m7_Vandir_KeyEntrance
+  - TR_m7_Vandirelyon_Cell_Key
+  - TR_m7_Vandirelyon_Key
   - TR_m7_Vedas_KeyPlantation
   - TR_m7_Vedas_KeySlave
   - TR_m7_Vedas_KeyWarehouse
@@ -1314,9 +1314,9 @@ miscitem:
   - TR_key_divayth03
   - TR_key_divayth04
   - TR_key_divayth05
+  - TR_key_i3-686
   - TR_key_i3-686-Cellar
   - TR_key_i3-686-prison
-  - TR_key_i3-686
   - TR_key_i3-730_satkey
   - TR_key_i4-398_Old_key
   - TR_key_i4_284
@@ -1453,8 +1453,8 @@ miscitem:
   - TR_m2_231_key_guardtower
   - TR_m2_231_key_Tomaril
   - TR_m2_A9_Savani_key
-  - TR_M2_bthangthmuzand_key
   - TR_m2_Bthang_key2
+  - TR_M2_bthangthmuzand_key
   - TR_m2_DrolarManor_key
   - TR_m2_dwrv_artifact70_01
   - TR_m2_enduur_key_chest
@@ -1484,17 +1484,17 @@ miscitem:
   - TR_m2_key_Edhryn
   - TR_m2_Key_EndrTomb
   - TR_m2_key_gilan_tower
-  - TR_m2_Key_HeCounc
   - TR_m2_key_He_Prison
+  - TR_m2_Key_HeCounc
   - TR_m2_key_i1-77-tri
   - TR_M2_key_i352_priest
   - TR_m2_key_i385
   - TR_m2_key_i391-1
   - TR_m2_key_i391-2
   - TR_m2_key_Lucien
-  - TR_m2_key_MalkKey
   - TR_m2_key_Ma_Prison
   - TR_m2_key_Ma_Slaves
+  - TR_m2_key_MalkKey
   - TR_m2_key_Melris
   - TR_m2_Key_NeriathChest
   - TR_m2_Key_NeriathTomb
@@ -1502,9 +1502,9 @@ miscitem:
   - TR_m2_key_smugeler_LN
   - TR_m2_key_TelvLib
   - TR_m2_key_torvel
-  - TR_m2_kmlz_ChefB_Coherer
   - TR_m2_kmlz_Chef_Key1
   - TR_m2_kmlz_Chef_Key2
+  - TR_m2_kmlz_ChefB_Coherer
   - TR_m2_kmlz_Key1
   - TR_m2_kmlz_Key2
   - TR_m2_kmlz_Key3
@@ -1558,7 +1558,6 @@ miscitem:
   - TR_m3-758_key
   - TR_m3-770_key_CE
   - TR_m3_Aim_LighthouseKey
-  - TR_m3_ATPrison_cellkey
   - TR_m3_AT_18_TributeKey
   - TR_m3_AT_Key_Adranibaal
   - TR_m3_AT_Key_Alynu
@@ -1599,6 +1598,7 @@ miscitem:
   - TR_m3_AT_MiddleArmorerKey_1
   - TR_m3_AT_NLighthouseKey
   - TR_m3_AT_TailorsKey_1
+  - TR_m3_ATPrison_cellkey
   - TR_m3_blood_i1-453-aun
   - TR_m3_Bosmoracap_key
   - TR_m3_BrewChestKey
@@ -1658,8 +1658,8 @@ miscitem:
   - TR_m3_Kha_Methats'_Key
   - TR_m3_Kha_SY_hand
   - TR_m3_Kha_Vedas_Key
-  - TR_m3_labkey_i3-274-ind
   - TR_m3_LA_HengorKey
+  - TR_m3_labkey_i3-274-ind
   - TR_m3_LlandoraFalavelKey
   - TR_m3_LlothinChestKey
   - TR_m3_MassanudDoorKey
@@ -1685,7 +1685,6 @@ miscitem:
   - TR_m3_OE_key_barristers
   - TR_m3_OE_key_ETCensus
   - TR_m3_OE_Key_NibensWind
-  - TR_m3_OE_MGGemReward
   - TR_m3_OE_MG_AquariumKey
   - TR_m3_OE_MG_BedroomKey
   - TR_m3_OE_MG_CellarKey
@@ -1697,6 +1696,7 @@ miscitem:
   - TR_m3_OE_MG_InsideKey
   - TR_m3_OE_MG_PuzzleExitKey
   - TR_m3_OE_MG_StudyKey
+  - TR_m3_OE_MGGemReward
   - TR_m3_OE_PalaceVaultKey01
   - TR_m3_OE_Q_MissaGem
   - TR_m3_OE_Q_MissaGem2
@@ -1717,8 +1717,8 @@ miscitem:
   - TR_m3_q_OE_tokenbrass
   - TR_m3_q_OE_tokenwood
   - TR_m3_q_OE_Ulka_dice
-  - TR_m3_q_OE_UrienChest_key
   - TR_m3_q_OE_Urien_sword_01
+  - TR_m3_q_OE_UrienChest_key
   - TR_m3_q_TheRiftDeskItem6
   - TR_m3_q_TheRiftDeskItem7
   - TR_m3_q_TheRiftKey1
@@ -1735,14 +1735,14 @@ miscitem:
   - TR_m3_RD_key_Vault
   - TR_m3_RD_key_Warehouse
   - TR_m3_relic1_i3-559-ind
-  - TR_m3_Sanguine_Bottle02
-  - TR_m3_Sanguine_Bottle05
-  - TR_m3_Sanguine_Bottle06
   - TR_m3_Sa_KeyDelvas
   - TR_m3_Sa_KeyRurvynMine
   - TR_m3_Sa_MenasKey
   - TR_m3_Sa_supplieschestkey
   - TR_m3_Sa_supplypackage
+  - TR_m3_Sanguine_Bottle02
+  - TR_m3_Sanguine_Bottle05
+  - TR_m3_Sanguine_Bottle06
   - TR_m3_seedbag_i3-390-ind
   - TR_m3_ThirstySaint_Key1
   - TR_m3_tombkey_i3-472-ind
@@ -1808,19 +1808,8 @@ miscitem:
   - TR_m4_AA_UvaynJewelryBag_02
   - TR_m4_AA_VelTower1_Key
   - TR_m4_AldErf_Key
-  - TR_m4_AndoG_key1
-  - TR_m4_AndoG_key2
-  - TR_m4_AndoG_key3
-  - TR_m4_AndoG_key4
-  - TR_m4_AndoHH_RottenEgg
-  - TR_m4_andoport_contraband
-  - TR_m4_andoport_records
-  - TR_m4_AndothDweRuinMug01
-  - TR_m4_AndothDweRuinPillow01
-  - TR_m4_AndothDweRuinPlate01
-  - TR_m4_AndothDweRuinPlate02
-  - TR_m4_Andoth_AndasSewerKey
-  - TR_m4_AndoWestHouseC_Key
+  - TR_m4_And_Temple_Coff_Key
+  - TR_m4_And_Temple_Key
   - TR_m4_Ando_FaulerDoorNail
   - TR_m4_Ando_i4-87_ChKey
   - TR_m4_Ando_i4-87_DoorKey
@@ -1828,8 +1817,19 @@ miscitem:
   - TR_m4_Ando_ManorE_Key_01
   - TR_m4_Ando_ManorE_Key_02
   - TR_m4_Ando_MG_WeirGateLens
-  - TR_m4_And_Temple_Coff_Key
-  - TR_m4_And_Temple_Key
+  - TR_m4_AndoG_key1
+  - TR_m4_AndoG_key2
+  - TR_m4_AndoG_key3
+  - TR_m4_AndoG_key4
+  - TR_m4_AndoHH_RottenEgg
+  - TR_m4_andoport_contraband
+  - TR_m4_andoport_records
+  - TR_m4_Andoth_AndasSewerKey
+  - TR_m4_AndothDweRuinMug01
+  - TR_m4_AndothDweRuinPillow01
+  - TR_m4_AndothDweRuinPlate01
+  - TR_m4_AndothDweRuinPlate02
+  - TR_m4_AndoWestHouseC_Key
   - TR_m4_arenakey_i4-261-hla
   - TR_m4_armun_ganahiru_hide
   - TR_m4_AT42Intercession_Key1
@@ -1885,16 +1885,16 @@ miscitem:
   - TR_m4_key_ngelfltingth
   - TR_m4_key_olmsAT1
   - TR_m4_key_OlthanTomb
-  - TR_m4_key_OranPlantationStorage
   - TR_m4_key_oran_slave
   - TR_m4_key_oran_vault
+  - TR_m4_key_OranPlantationStorage
   - TR_m4_key_RamaranBasement
   - TR_m4_key_RamaranCell
   - TR_m4_key_rethil_slave
   - TR_m4_key_sathes_barnalo
   - TR_m4_key_SlaveSavrethi
-  - TR_m4_key_teynleuchtturm
   - TR_m4_key_teyn_contraband
+  - TR_m4_key_teynleuchtturm
   - TR_m4_key_Tur_Julan_Sanctum
   - TR_m4_key_vathras_manor
   - TR_m4_key_vathras_slave
@@ -1939,13 +1939,13 @@ miscitem:
   - TR_m4_VM_Cave_5_key
   - TR_m4_VM_Daedric_Ruin_1_key
   - TR_m4_vys-assanud_key
-  - TR_m7_adavrincellkey
-  - TR_m7_AdavrinMineKeySlave
   - TR_m7_Adavrin_KeyCell
   - TR_m7_Adavrin_KeyManor
   - TR_m7_Adavrin_KeySlave
   - TR_m7_Adavrin_KeyVault1
   - TR_m7_Adavrin_KeyVault2
+  - TR_m7_adavrincellkey
+  - TR_m7_AdavrinMineKeySlave
   - TR_m7_AHPicnicGoblet
   - TR_m7_AHPicnicLute
   - TR_m7_AHPicnicPlate
@@ -2006,6 +2006,7 @@ miscitem:
   - TR_m7_HK_key_tiger_antonius
   - TR_m7_HK_key_tiger_prison
   - TR_m7_HK_key_tollhouse
+  - TR_m7_HL_FG_Q5_SlaveKey
   - TR_m7_Hlaalu2_GeneralKey
   - TR_m7_Hlaalu2_GuestKey
   - TR_m7_Hlaalu2_VaultKey_01
@@ -2014,7 +2015,6 @@ miscitem:
   - TR_m7_HlaaluEggMine_key_slaves
   - TR_m7_Hlan_Oek_3_Key
   - TR_m7_hlan_trade_vault_key
-  - TR_m7_HL_FG_Q5_SlaveKey
   - tr_m7_HO_19 Hand
   - TR_m7_HO_AsaniSerdimapalKey
   - TR_m7_HO_BelvisDarethranKey
@@ -2046,6 +2046,18 @@ miscitem:
   - TR_m7_Kaladryon_ChambersKey
   - TR_m7_Kalk_Vault_Key_01
   - TR_m7_KassapuKey
+  - TR_m7_key_adavrin_vault
+  - TR_m7_Key_AviloBasement
+  - TR_m7_key_EdalvelSlaveKey
+  - TR_m7_key_HilfridDibella
+  - TR_m7_key_HO_Sewers_E
+  - TR_m7_key_IbbiSuenSlave
+  - TR_m7_key_kaladryon
+  - TR_m7_Key_Narsis_87
+  - TR_M7_Key_Nim_01
+  - TR_m7_Key_ShiSha_Mine
+  - TR_m7_key_teloseras_vault
+  - TR_m7_key_TV4Tomb2
   - TR_m7_KeyArenFarm
   - TR_m7_KeyBaryonPlantationManor
   - TR_m7_KeyBaryonPlantationSlave
@@ -2076,18 +2088,6 @@ miscitem:
   - TR_m7_KeyVedranoSlave
   - TR_m7_KeyVirdad
   - TR_m7_KeyYansumanmusSlaves
-  - TR_m7_key_adavrin_vault
-  - TR_m7_Key_AviloBasement
-  - TR_m7_key_EdalvelSlaveKey
-  - TR_m7_key_HilfridDibella
-  - TR_m7_key_HO_Sewers_E
-  - TR_m7_key_IbbiSuenSlave
-  - TR_m7_key_kaladryon
-  - TR_m7_Key_Narsis_87
-  - TR_M7_Key_Nim_01
-  - TR_m7_Key_ShiSha_Mine
-  - TR_m7_key_teloseras_vault
-  - TR_m7_key_TV4Tomb2
   - TR_m7_Kunashpat_Key
   - TR_m7_LA4_eggmine_pillow
   - TR_m7_LA4_Tomb_1_Key
@@ -2101,7 +2101,6 @@ miscitem:
   - TR_m7_Naemunbatashpi_Ritual_Key
   - TR_m7_Narsis74_cells
   - TR_m7_narsis74_sewerkey
-  - TR_m7_NarsisTower54_BasementKey
   - TR_m7_Narsis_83_key
   - TR_m7_Narsis_93_key
   - TR_m7_Narsis_FortunaRoom1key
@@ -2308,6 +2307,7 @@ miscitem:
   - TR_m7_Narsis_theater_map
   - TR_m7_Narsis_WFSw_Key
   - TR_m7_Narsis_ZenChapel_key1
+  - TR_m7_NarsisTower54_BasementKey
   - TR_m7_Ns_ArenaEbonyScale
   - TR_m7_Ns_ArenaGoldScale
   - TR_m7_Ns_ArenaIronScale
@@ -2326,14 +2326,14 @@ miscitem:
   - TR_m7_Ns_StageFright_DaraSkull
   - TR_m7_Ns_StageFright_KeyRoom
   - TR_m7_Ns_TT_Chavana1_Potion
-  - TR_m7_NumberRooms_WW_Key
   - TR_m7_Number_Room_Jail_Key
   - TR_m7_Number_Room_Key_01
-  - TR_m7_NVA1_4Gold_001
+  - TR_m7_NumberRooms_WW_Key
   - TR_m7_NVA1_4_bucket_01
   - TR_m7_NVA1_4_Com_Hammer_03
   - TR_m7_NVA1_4_Com_Nails_01
   - TR_m7_NVA1_4_Com_Saw_01
+  - TR_m7_NVA1_4Gold_001
   - TR_m7_NVA2_Gold_001
   - TR_m7_NVA3_Com_Hammer_03
   - TR_m7_NVA3_Com_Nails_01
@@ -2393,14 +2393,14 @@ miscitem:
   - TR_m7_q_scryingglass
   - TR_m7_Remyon_Key
   - TR_m7_RivulFarm_Key
-  - TR_m7_SadranoManorKey
-  - TR_m7_SadranoSlaveKey
   - TR_m7_sad_key_droryn
   - TR_m7_sad_key_llanel
   - TR_m7_sad_key_renil
   - TR_m7_sad_key_sadras
   - TR_m7_sad_key_vulam
   - TR_m7_sad_key_zhirasha
+  - TR_m7_SadranoManorKey
+  - TR_m7_SadranoSlaveKey
   - TR_m7_SamoriFarm_Key
   - TR_m7_Sarahu_Key
   - TR_m7_SelesRanch_storage
@@ -2413,6 +2413,7 @@ miscitem:
   - TR_M7_SH1_Tomb_1_Sevus
   - TR_M7_SH1_Tomb_1_Tharel
   - TR_M7_SH1_Tomb_1_Varusea
+  - TR_m7_SH_KeyKrenTomb
   - TR_m7_Sharai_KeyAbandApartment
   - TR_m7_Sharai_KeyAbandonedStore
   - TR_m7_Sharai_KeyAvilo
@@ -2435,7 +2436,6 @@ miscitem:
   - TR_m7_Sharai_KeySamalsi
   - TR_m7_Sharai_KeyWarehouse
   - TR_m7_ShiShaIL3_Waterskin_01
-  - TR_m7_SH_KeyKrenTomb
   - TR_m7_Sinsi_Key
   - TR_m7_SM_key_GalasChest
   - TR_m7_SM_key_TestSubject
@@ -2460,11 +2460,11 @@ miscitem:
   - TR_m7_UH_HlerynPanicKey
   - TR_m7_UH_HlerynVaultKey
   - TR_m7_Ussiran_KeyNind
-  - TR_m7_Vandirelyon_Cell_Key
-  - TR_m7_Vandirelyon_Key
-  - TR_m7_Vandir_KeyEntrance
   - TR_m7_Vandir_Key_1
   - TR_m7_Vandir_Key_2
+  - TR_m7_Vandir_KeyEntrance
+  - TR_m7_Vandirelyon_Cell_Key
+  - TR_m7_Vandirelyon_Key
   - TR_m7_Varla_MalaTor
   - TR_m7_Vedas_KeyPlantation
   - TR_m7_Vedas_KeySlave

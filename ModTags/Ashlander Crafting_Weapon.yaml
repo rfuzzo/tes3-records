@@ -1,0 +1,85 @@
+ashlander:
+  - a_wp_bonemold_bow_02
+  - a_wp_chitin_axe_02
+  - a_wp_chitin_bow_02
+  - a_wp_chitin_club_02
+  - a_wp_chitin_dagger_02
+  - a_wp_chitin_spear_02
+  - a_wp_chitin_star_02
+  - a_wp_chitin_sword_02
+axe:
+  - a_wp_chitin_axe_02
+  - a_wp_chitin_axe_03
+blunt:
+  - a_wp_chitin_club_02
+  - a_wp_chitin_club_03
+bow:
+  - a_wp_bonemold_bow_02
+  - a_wp_bonemold_bow_03
+  - a_wp_chitin_bow_02
+  - a_wp_chitin_bow_03
+club:
+  - a_wp_chitin_club_02
+  - a_wp_chitin_club_03
+dagger:
+  - a_wp_chitin_dagger_02
+  - a_wp_chitin_dagger_03
+marksman:
+  - a_wp_bonemold_bow_02
+  - a_wp_bonemold_bow_03
+  - a_wp_chitin_bow_02
+  - a_wp_chitin_bow_03
+  - a_wp_chitin_star_02
+  - a_wp_chitin_star_03
+one-handed:
+  - a_wp_chitin_axe_02
+  - a_wp_chitin_axe_03
+  - a_wp_chitin_club_02
+  - a_wp_chitin_club_03
+  - a_wp_chitin_dagger_02
+  - a_wp_chitin_dagger_03
+  - a_wp_chitin_sword_02
+  - a_wp_chitin_sword_03
+short blade:
+  - a_wp_chitin_dagger_02
+  - a_wp_chitin_dagger_03
+  - a_wp_chitin_sword_02
+  - a_wp_chitin_sword_03
+short bow:
+  - a_wp_chitin_bow_02
+  - a_wp_chitin_bow_03
+shortsword:
+  - a_wp_chitin_sword_02
+  - a_wp_chitin_sword_03
+spear:
+  - a_wp_chitin_spear_02
+  - a_wp_chitin_spear_03
+throwing star:
+  - a_wp_chitin_star_02
+  - a_wp_chitin_star_03
+thrown:
+  - a_wp_chitin_star_02
+  - a_wp_chitin_star_03
+two-handed:
+  - a_wp_chitin_spear_02
+  - a_wp_chitin_spear_03
+war axe:
+  - a_wp_chitin_axe_02
+  - a_wp_chitin_axe_03
+weapon:
+  - a_wp_bonemold_bow_02
+  - a_wp_bonemold_bow_03
+  - a_wp_chitin_axe_02
+  - a_wp_chitin_axe_03
+  - a_wp_chitin_bow_02
+  - a_wp_chitin_bow_03
+  - a_wp_chitin_club_02
+  - a_wp_chitin_club_03
+  - a_wp_chitin_dagger_02
+  - a_wp_chitin_dagger_03
+  - a_wp_chitin_spear_02
+  - a_wp_chitin_spear_03
+  - a_wp_chitin_star_02
+  - a_wp_chitin_star_03
+  - a_wp_chitin_sword_02
+  - a_wp_chitin_sword_03

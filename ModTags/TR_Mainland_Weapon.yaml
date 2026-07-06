@@ -80,9 +80,9 @@ blade:
   - TR_m4_splinter_blade
   - TR_m4_TG_IllegalJinkblade
   - TR_m4_TG_IllegalJinkblade02
-  - TR_m4_wretchedhewing
   - TR_m4_w_UvaynBlade_Uni
   - TR_m4_W_VirakDagger
+  - TR_m4_wretchedhewing
   - TR_m7_Daedric_Jinkblade
   - TR_m7_goblin_sword_UNI
   - TR_m7_HL_FG_Q6_Sword
@@ -143,8 +143,8 @@ blunt:
   - TR_m4_Agarinnustaff
   - TR_m4_AlsBavani_staff
   - TR_m4_And_Soul_Staff
-  - TR_m4_Ilvi_Tomb_Staff
   - TR_m4_IL_Hammer
+  - TR_m4_Ilvi_Tomb_Staff
   - TR_m4_JubalOrdaWarStaff
   - TR_m4_liskliss_staff_uni
   - TR_m4_q_mabrigash_staff
@@ -180,9 +180,9 @@ blunt:
   - TR_m7_q_Ns_IC6_InoStaff
   - TR_m7_q_SelviloMace
   - TR_m7_Rod_Ius_Agitated
+  - TR_m7_SH_Nor_Shardmace
   - TR_m7_Shatterwright
   - TR_m7_ShiSha_IL_Mace
-  - TR_m7_SH_Nor_Shardmace
   - TR_m7_supremacy
   - TR_m7_Tigercrab_Staff
   - TR_m7_w_HO_TT_crook
@@ -370,8 +370,8 @@ long blade:
   - TR_m1_q_RanSword2
   - TR_m1_SaberStraits
   - TR_m1_ShalathChampBlade
-  - TR_m1_TW_InsatiableSword
   - TR_m1_T_DralScimitar
+  - TR_m1_TW_InsatiableSword
   - TR_m1_w_dwarven _sunblade
   - TR_m1_w_edge of the abyss
   - TR_m1_w_fire_dsteel_claymore
@@ -417,8 +417,8 @@ long blade:
   - TR_m4_q_Nuccius_Lanette_w
   - TR_m4_q_sword_fake
   - TR_m4_splinter_blade
-  - TR_m4_SwordBorealis
   - TR_m4_sword_blackwoe
+  - TR_m4_SwordBorealis
   - TR_m4_TG_Wasp-Eater
   - TR_m4_TJ_Dae_GS_Cursed
   - TR_m4_wretchedhewing
@@ -428,13 +428,13 @@ long blade:
   - TR_m7_LustForSupremacy
   - TR_m7_Master_Longsword_uni
   - TR_m7_MicaryaDaiKatana
-  - TR_m7_NarsisFG_chrysalis
   - TR_m7_Narsis_theater_bsword
   - TR_m7_Narsis_theater_claym
+  - TR_m7_NarsisFG_chrysalis
   - TR_m7_Ns_EbScale_DaiKatana
-  - TR_m7_QorinueNajanDaikatana
   - TR_m7_q_Faithkeeper
   - TR_m7_q_Faithkeeper_AI
+  - TR_m7_QorinueNajanDaikatana
   - TR_m7_Savris_Sword
   - TR_m7_Savris_Sword_wield
   - TR_m7_SH10C1_Claymore
@@ -473,8 +473,8 @@ mace:
   - TR_m7_AI_JNS_5_MaceReward
   - TR_m7_HagarMace
   - TR_m7_q_SelviloMace
-  - TR_m7_ShiSha_IL_Mace
   - TR_m7_SH_Nor_Shardmace
+  - TR_m7_ShiSha_IL_Mace
 marksman:
   - TR_m1_w_bow_cheli
   - TR_m3-758_w_bthung_impaler
@@ -533,8 +533,8 @@ one-handed:
   - TR_m1_Q_tanto_murder_weapon
   - TR_m1_SaberStraits
   - TR_m1_Soulburn
-  - TR_m1_TW_InsatiableSword
   - TR_m1_T_DralScimitar
+  - TR_m1_TW_InsatiableSword
   - TR_m1_w_ebony_dagger_cursed
   - TR_m1_w_edge of the abyss
   - TR_m1_w_iron_saber_flame
@@ -629,13 +629,12 @@ one-handed:
   - TR_m4_RR_Jinkmace
   - TR_m4_shockbitedagger
   - TR_m4_splinter_blade
-  - TR_m4_SwordBorealis
   - TR_m4_sword_blackwoe
+  - TR_m4_SwordBorealis
   - TR_m4_TG_IllegalJinkblade
   - TR_m4_TG_IllegalJinkblade02
   - TR_m4_TJ_HungerFork
   - TR_m4_TT_RavurDagger
-  - TR_m4_wretchedhewing
   - TR_m4_w_AndasWakizashi
   - TR_m4_w_AralorMace
   - TR_m4_w_AurmazlKaariMace
@@ -645,6 +644,7 @@ one-handed:
   - TR_m4_w_UvaynBlade_Uni
   - TR_m4_w_Vabal-Ajunta_Club_uni
   - TR_m4_W_VirakDagger
+  - TR_m4_wretchedhewing
   - TR_m7_AI_JNS_5_MaceReward
   - TR_m7_AI_TT_Dagger
   - TR_m7_AldIuvalJNS_Sword
@@ -657,18 +657,18 @@ one-handed:
   - TR_m7_GurdGrinder
   - TR_m7_HagarMace
   - TR_m7_HH_EnarDagger
-  - TR_m7_HowlingBlade
   - tr_m7_HO_19  Fork
   - tr_m7_HO_19 Knife
   - tr_m7_HO_19 Spoon
+  - TR_m7_HowlingBlade
   - TR_m7_LA6_Tomb_1_Excarnation
   - TR_m7_LustForSupremacy
   - TR_m7_Master_Longsword_uni
   - TR_m7_Narsis25_DreughAxeBurden
   - TR_m7_Narsis25_GlassShardbiter
-  - TR_m7_NarsisFG_chrysalis
   - TR_m7_Narsis_theater_bsword
   - TR_m7_Narsis_theater_dag
+  - TR_m7_NarsisFG_chrysalis
   - TR_m7_Ns_FG_8_MacePara
   - TR_m7_Ns_HH_3_Club
   - TR_m7_Ns_JNS_2_SwordBreves
@@ -681,11 +681,11 @@ one-handed:
   - TR_m7_Rotkeeper
   - TR_m7_Savris_Sword
   - TR_m7_Savris_Sword_wield
+  - TR_m7_SH_Nor_Shardmace
   - TR_m7_Shadowfang
   - TR_m7_ShiSha_IL_Mace
   - TR_m7_ShiSha_IL_Saber
   - TR_m7_Shortsword_Ethala
-  - TR_m7_SH_Nor_Shardmace
   - TR_m7_SlaveTrouble_dagger
   - TR_m7_ThirilSaber
   - TR_m7_Vandir_JinkNerf
@@ -1058,9 +1058,9 @@ two-handed:
   - TR_m4_AlsBavani_staff
   - TR_m4_And_Soul_Staff
   - TR_m4_HH_crude_iron_spear
-  - TR_m4_Ilvi_Tomb_Staff
   - TR_m4_IL_Evidaxe
   - TR_m4_IL_Hammer
+  - TR_m4_Ilvi_Tomb_Staff
   - tr_m4_jocklance_uni
   - TR_m4_JubalOrdaWarStaff
   - TR_m4_liskliss_staff_uni
@@ -1085,8 +1085,8 @@ two-handed:
   - TR_m7_C_Ronik
   - TR_m7_DrorynTombCane
   - TR_m7_HH_AtranOranAxe
-  - TR_m7_Hlerynhul_7_Staff
   - TR_m7_HL_FG_Q6_Sword
+  - TR_m7_Hlerynhul_7_Staff
   - tr_m7_HO_19  FakeMuatra
   - tr_m7_HO_19 FakeStaffChaos
   - TR_m7_imprudent_summoning
@@ -1094,9 +1094,9 @@ two-handed:
   - TR_m7_Kundasirai_Halberd
   - TR_m7_LA6_Grotto_1_HermitStaff
   - TR_m7_MicaryaDaiKatana
-  - TR_m7_NarsisSecFam_Demolition
   - TR_m7_Narsis_theater_axe
   - TR_m7_Narsis_theater_claym
+  - TR_m7_NarsisSecFam_Demolition
   - TR_m7_Ns_BluntedSensesWH
   - TR_m7_Ns_EbScale_DaiKatana
   - TR_m7_Ns_HuscarlAxe
@@ -1107,12 +1107,12 @@ two-handed:
   - TR_m7_Ns_SkewerHalberd
   - TR_m7_Othrano_Staff_Satarat
   - TR_m7_perpetualthrusting
-  - TR_m7_QorinueNajanDaikatana
   - TR_m7_q_Faithkeeper
   - TR_m7_q_Faithkeeper_AI
   - TR_m7_q_Ns_IC6_InoStaff
   - TR_m7_q_PoisonHalberd
   - TR_m7_q_UssiranHalberd
+  - TR_m7_QorinueNajanDaikatana
   - TR_m7_Rod_Ius_Agitated
   - TR_m7_SH10C1_Claymore
   - 'TR_m7_Sharai_SGsword '
@@ -1229,9 +1229,9 @@ weapon:
   - TR_m1_ShalathChampBlade
   - TR_m1_Soulburn
   - TR_m1_SSoW_cursed_i62
+  - TR_m1_T_DralScimitar
   - TR_m1_TW_InsatiableSword
   - TR_m1_TW_MalignantFremitus
-  - TR_m1_T_DralScimitar
   - TR_m1_w_bow_cheli
   - TR_m1_w_Cloudburst
   - TR_m1_w_dwarven _sunblade
@@ -1369,18 +1369,18 @@ weapon:
   - TR_m4_Agarinnustaff
   - TR_m4_AlsBavani_arrow
   - TR_m4_AlsBavani_staff
-  - TR_m4_AndothDweParaDart
   - TR_m4_And_Soul_Staff
+  - TR_m4_AndothDweParaDart
   - TR_m4_aum_Borgrara_w
   - TR_m4_aum_Gulza_w
   - TR_m4_FalseEbony_Shardsword
   - TR_m4_frostfire_blade
   - TR_m4_HH_crude_iron_spear
   - TR_m4_HH_Farm_Trowel_Oran
-  - TR_m4_Ilvi_Tomb_Staff
   - TR_m4_IL_Evidaxe
   - TR_m4_IL_Hammer
   - TR_m4_IL_Royalsworditem
+  - TR_m4_Ilvi_Tomb_Staff
   - tr_m4_jocklance_uni
   - TR_m4_JubalOrdaWarStaff
   - TR_m4_liskliss_staff_uni
@@ -1405,8 +1405,8 @@ weapon:
   - TR_m4_shockbitedagger
   - TR_m4_splinter_blade
   - TR_m4_staff_i4-260-hla
-  - TR_m4_SwordBorealis
   - TR_m4_sword_blackwoe
+  - TR_m4_SwordBorealis
   - TR_m4_TG_IllegalJinkblade
   - TR_m4_TG_IllegalJinkblade02
   - TR_m4_TG_ThoriclesAxe
@@ -1417,7 +1417,6 @@ weapon:
   - TR_m4_TT_NalvsStaff
   - TR_m4_TT_RavurDagger
   - TR_m4_VM_Cave_5_Barbarian_Axe
-  - TR_m4_wretchedhewing
   - TR_m4_w_AndasWakizashi
   - TR_m4_w_AralorMace
   - TR_m4_w_Atsiru-Din_Spear_uni
@@ -1429,6 +1428,7 @@ weapon:
   - TR_m4_w_UvaynBlade_Uni
   - TR_m4_w_Vabal-Ajunta_Club_uni
   - TR_m4_W_VirakDagger
+  - TR_m4_wretchedhewing
   - TR_m7_AI_JNS_5_MaceReward
   - TR_m7_AI_TT_Dagger
   - TR_m7_AI_TT_Staff
@@ -1453,15 +1453,15 @@ weapon:
   - TR_m7_HH_Alvynu_4_Dart
   - TR_m7_HH_AtranOranAxe
   - TR_m7_HH_EnarDagger
-  - TR_m7_Hlerynhul_7_Staff
   - TR_m7_HL_FG_Q2_FalengarBow
   - TR_m7_HL_FG_Q6_Sword
-  - TR_m7_HowlingBlade
+  - TR_m7_Hlerynhul_7_Staff
   - tr_m7_HO_19  FakeMuatra
   - tr_m7_HO_19  Fork
   - tr_m7_HO_19 FakeStaffChaos
   - tr_m7_HO_19 Knife
   - tr_m7_HO_19 Spoon
+  - TR_m7_HowlingBlade
   - TR_m7_imprudent_summoning
   - TR_m7_Iuval_Coronati_Hammer
   - TR_m7_JNS_UddanuDaeCrossbow
@@ -1473,12 +1473,12 @@ weapon:
   - TR_m7_MicaryaDaiKatana
   - TR_m7_Narsis25_DreughAxeBurden
   - TR_m7_Narsis25_GlassShardbiter
-  - TR_m7_NarsisFG_chrysalis
-  - TR_m7_NarsisSecFam_Demolition
   - TR_m7_Narsis_theater_axe
   - TR_m7_Narsis_theater_bsword
   - TR_m7_Narsis_theater_claym
   - TR_m7_Narsis_theater_dag
+  - TR_m7_NarsisFG_chrysalis
+  - TR_m7_NarsisSecFam_Demolition
   - TR_m7_NasarChitinJav
   - TR_m7_Ns_BluntedSensesWH
   - TR_m7_Ns_EbScale_DaiKatana
@@ -1494,26 +1494,27 @@ weapon:
   - TR_m7_Ns_SkewerHalberd
   - TR_m7_Ns_StageFright_DagReward
   - TR_m7_NVA6_iron dagger
-  - TR_m7_Othrano_Staff_Satarat
   - TR_m7_Oth_BugDagger
+  - TR_m7_Othrano_Staff_Satarat
   - TR_m7_perpetualthrusting
-  - TR_m7_QorinueNajanDaikatana
   - TR_m7_q_Faithkeeper
   - TR_m7_q_Faithkeeper_AI
   - TR_m7_q_Kindheart
   - TR_m7_q_KrenSword
+  - TR_m7_q_Ns_IC6_InoStaff
   - TR_m7_q_NsTGBow
   - TR_m7_q_NsTGStars
-  - TR_m7_q_Ns_IC6_InoStaff
   - TR_m7_q_PoisonHalberd
   - TR_m7_q_SelviloMace
   - TR_m7_q_SteelPoisonArrow
   - TR_m7_q_UssiranHalberd
+  - TR_m7_QorinueNajanDaikatana
   - TR_m7_Rod_Ius_Agitated
   - TR_m7_Rotkeeper
   - TR_m7_Savris_Sword
   - TR_m7_Savris_Sword_wield
   - TR_m7_SH10C1_Claymore
+  - TR_m7_SH_Nor_Shardmace
   - TR_m7_Shadowfang
   - TR_m7_sharai_09_crossbow_unique
   - 'TR_m7_Sharai_SGsword '
@@ -1524,7 +1525,6 @@ weapon:
   - TR_m7_ShiSha_IL_Nagitana
   - TR_m7_ShiSha_IL_Saber
   - TR_m7_Shortsword_Ethala
-  - TR_m7_SH_Nor_Shardmace
   - TR_m7_SlaveTrouble_dagger
   - TR_m7_SpearTransWisdom
   - TR_m7_supremacy

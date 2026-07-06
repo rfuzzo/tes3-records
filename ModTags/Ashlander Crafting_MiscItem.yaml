@@ -1,0 +1,26 @@
+chitin:
+  - a_msc_chitin_01
+clutter:
+  - a_msc_chitin_01
+  - a_msc_crafting_tool
+  - a_msc_hard_leather_01
+  - a_msc_hide_01
+  - a_msc_leather_01
+  - a_msc_tannin
+  - a_msc_tannin_grinder
+  - a_msc_tanning_rack
+knife:
+  - a_msc_tanner_knife
+leather:
+  - a_msc_hard_leather_01
+  - a_msc_leather_01
+miscitem:
+  - a_msc_chitin_01
+  - a_msc_crafting_tool
+  - a_msc_hard_leather_01
+  - a_msc_hide_01
+  - a_msc_leather_01
+  - a_msc_tanner_knife
+  - a_msc_tannin
+  - a_msc_tannin_grinder
+  - a_msc_tanning_rack
