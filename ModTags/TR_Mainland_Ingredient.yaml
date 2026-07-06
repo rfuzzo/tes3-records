@@ -1,0 +1,254 @@
+bear:
+  - TR_m7_NVA8_ingred_bear_pelt
+  - TR_m7_NVA8_snowbear_pelt
+blood:
+  - TR_i3-685_OutlawsBlood
+bonemeal:
+  - TR_m2_q_38_ashbonemeal
+  - TR_m2_q_38_purebonemeal
+bread:
+  - TR_m7_AHPicnicBread_01
+  - TR_m7_AHPicnicBread_02
+bristleback:
+  - TR_m7_NVA8_boar_leather
+clay:
+  - TR_m3_i3_413_white clay
+crab:
+  - TR_m7_AHPicnicCrabMeat
+creature:
+  - TR_i3-685_OutlawsBlood
+  - TR_m1_ingred_ceph_shell_uni
+  - TR_m1_Q59_PR_disease_meat
+  - TR_m2_q_29_4_silk
+  - TR_m2_q_38_ectoplasm
+  - TR_m2_q_9_Eyestar_uni
+  - TR_m3_OE_q_HorseMeat
+  - TR_m3_OE_RatMeatPoison
+  - TR_m3_q_14_fish
+  - TR_m3_q_kwamasmuggle
+  - TR_m4_AA_SehutuHeart
+  - TR_m4_ing_rotten_guar_meat
+  - TR_m7_AHPicnicCrabMeat
+  - TR_m7_Kalk_Orc_Flesh
+  - TR_m7_NVA8_boar_leather
+  - TR_m7_NVA8_IngCrea_GoatPelt_01
+  - TR_m7_NVA8_ingred_bear_pelt
+  - TR_m7_NVA8_ingred_guar_hide_01
+  - TR_m7_NVA8_ingred_wolf_pelt
+  - TR_m7_NVA8_snowbear_pelt
+  - TR_m7_q_guarliver
+dust:
+  - TR_i3-591_ingred_RaathimAsh
+  - TR_m2_q_22_Dust
+ectoplasm:
+  - TR_m2_q_38_ectoplasm
+egg:
+  - TR_m3_q_kwamasmuggle
+eye:
+  - TR_m2_q_9_Eyestar_uni
+flesh:
+  - TR_m7_Kalk_Orc_Flesh
+flower:
+  - TR_m1_Q_BlackRose_Stationary
+  - TR_m1_Q_Ingred_BlackRose
+  - TR_m1_Q_Ingred_NobleSedge
+  - TR_m1_Q_NobleSedge_Stationary
+  - TR_m4_TJ_MoonshadowRose
+food:
+  - TR_m4_menaan_int_8_biscuit
+  - TR_m7_AHPicnicBread_01
+  - TR_m7_AHPicnicBread_02
+  - TR_m7_AHPicnicCabbage
+fur:
+  - TR_m7_NVA8_IngCrea_GoatPelt_01
+gem:
+  - TR_i3-280_ingred_cursed_diamond
+  - TR_i4-507_ingred_hla_pearl
+  - TR_m1_Ingred_Opal_i62
+  - TR_m1_Q_Ingred_Topaz
+  - TR_m1_Q_Topaz_Stationary
+  - TR_m3_nelyn_cursed_pearl
+  - TR_m3_q_A9_rewardemerald
+  - TR_m4_AA_Tomb_2_Emerald
+  - TR_m7_q_Ns_IC8_gem1
+  - TR_m7_q_Ns_IC8_gem2
+  - TR_m7_q_Ns_IC8_gem3
+  - TR_m7_q_Ns_IC8_gem4
+  - TR_m7_q_Ns_IC8_gem5
+  - TR_m7_q_Ns_IC8_gem6
+  - TR_m7_q_Ns_IC8_gem7
+  - TR_m7_q_Ns_IC8_gem8
+goat:
+  - TR_m7_NVA8_IngCrea_GoatPelt_01
+guar:
+  - TR_m4_ing_rotten_guar_meat
+  - TR_m7_NVA8_ingred_guar_hide_01
+  - TR_m7_q_guarliver
+heart:
+  - TR_m4_AA_SehutuHeart
+hide:
+  - TR_m7_NVA8_ingred_guar_hide_01
+horse:
+  - TR_m3_OE_q_HorseMeat
+ingredient:
+  - TR_i3-280_ingred_cursed_diamond
+  - TR_i3-591_ingred_RaathimAsh
+  - TR_i3-685_OutlawsBlood
+  - TR_i4-507_ingred_hla_pearl
+  - TR_m1_ingred_ceph_shell_uni
+  - TR_m1_Ingred_Opal_i62
+  - TR_m1_q51_ingred_BOmusk_UNI
+  - TR_m1_Q59_PR_disease_meat
+  - TR_m1_q67_Fa1_Seeds
+  - TR_m1_Q_BlackRose_Stationary
+  - TR_m1_Q_Ingred_BlackRose
+  - TR_m1_Q_Ingred_NobleSedge
+  - TR_m1_Q_Ingred_Topaz
+  - TR_m1_Q_NobleSedge_Stationary
+  - TR_m1_Q_Topaz_Stationary
+  - TR_m2_aztear_i2-383-ind
+  - TR_m2_meteor_i2-383-ind
+  - TR_m2_q_22_Dust
+  - TR_m2_q_29_4_silk
+  - TR_m2_q_38_ashbonemeal
+  - TR_m2_q_38_ectoplasm
+  - TR_m2_q_38_purebonemeal
+  - TR_m2_q_9_BGPetals
+  - TR_m2_q_9_Eyestar_uni
+  - TR_m3_i3_413_white clay
+  - TR_m3_nelyn_cursed_pearl
+  - TR_m3_OE_q_HorseMeat
+  - TR_m3_OE_RatMeatPoison
+  - TR_m3_OE_TG_Vomit
+  - TR_m3_q_14_fish
+  - TR_m3_q_A5_SmuggledEbony
+  - TR_m3_q_A9_rewardemerald
+  - TR_m3_q_kwamasmuggle
+  - TR_m3_q_OE_MG_Dae_Gems
+  - TR_m3_q_OE_MG_Dae_Sapphire
+  - TR_m3_TT_Dis_marshrootincense
+  - TR_m3_TT_JalorPowder
+  - TR_m3_TT_JalorPowder02
+  - TR_m4_AA_SehutuHeart
+  - TR_m4_AA_Tomb_2_Emerald
+  - TR_m4_ing_rotten_guar_meat
+  - TR_m4_menaan_int_8_biscuit
+  - TR_m4_q_AG_gift
+  - TR_m4_TJ_MoonshadowRose
+  - TR_m4_TT_SpawnBittergreen
+  - TR_m4_TT_SpawnHackleLo
+  - TR_m7_AHPicnicBread_01
+  - TR_m7_AHPicnicBread_02
+  - TR_m7_AHPicnicCabbage
+  - TR_m7_AHPicnicCrabMeat
+  - TR_m7_Dradivas_Stone
+  - TR_m7_Kalk_Evenfall_Sapphire
+  - TR_m7_Kalk_Orc_Flesh
+  - TR_m7_Ns_JNS_3_TombAD
+  - TR_m7_Ns_MG_Hemlock_01
+  - TR_m7_NVA8_boar_leather
+  - TR_m7_NVA8_IngCrea_GoatPelt_01
+  - TR_m7_NVA8_ingred_bear_pelt
+  - TR_m7_NVA8_ingred_guar_hide_01
+  - TR_m7_NVA8_ingred_wolf_pelt
+  - TR_m7_NVA8_snowbear_pelt
+  - TR_m7_q_guarliver
+  - TR_m7_q_Ns_IC8_gem1
+  - TR_m7_q_Ns_IC8_gem2
+  - TR_m7_q_Ns_IC8_gem3
+  - TR_m7_q_Ns_IC8_gem4
+  - TR_m7_q_Ns_IC8_gem5
+  - TR_m7_q_Ns_IC8_gem6
+  - TR_m7_q_Ns_IC8_gem7
+  - TR_m7_q_Ns_IC8_gem8
+  - TR_m7_q_Ns_IC8_gem9
+kwama:
+  - TR_m3_q_kwamasmuggle
+leaf:
+  - TR_m4_TT_SpawnHackleLo
+leather:
+  - TR_m7_NVA8_boar_leather
+meat:
+  - TR_m1_Q59_PR_disease_meat
+  - TR_m3_OE_q_HorseMeat
+  - TR_m3_OE_RatMeatPoison
+  - TR_m3_q_14_fish
+  - TR_m4_ing_rotten_guar_meat
+  - TR_m7_AHPicnicCrabMeat
+mineral:
+  - TR_i3-280_ingred_cursed_diamond
+  - TR_i3-591_ingred_RaathimAsh
+  - TR_i4-507_ingred_hla_pearl
+  - TR_m1_Ingred_Opal_i62
+  - TR_m1_Q_Ingred_Topaz
+  - TR_m1_Q_Topaz_Stationary
+  - TR_m2_meteor_i2-383-ind
+  - TR_m2_q_22_Dust
+  - TR_m2_q_38_ashbonemeal
+  - TR_m2_q_38_purebonemeal
+  - TR_m3_i3_413_white clay
+  - TR_m3_nelyn_cursed_pearl
+  - TR_m3_q_A5_SmuggledEbony
+  - TR_m3_q_A9_rewardemerald
+  - TR_m3_TT_JalorPowder
+  - TR_m3_TT_JalorPowder02
+  - TR_m4_AA_Tomb_2_Emerald
+  - TR_m7_Dradivas_Stone
+  - TR_m7_q_Ns_IC8_gem1
+  - TR_m7_q_Ns_IC8_gem2
+  - TR_m7_q_Ns_IC8_gem3
+  - TR_m7_q_Ns_IC8_gem4
+  - TR_m7_q_Ns_IC8_gem5
+  - TR_m7_q_Ns_IC8_gem6
+  - TR_m7_q_Ns_IC8_gem7
+  - TR_m7_q_Ns_IC8_gem8
+  - TR_m7_q_Ns_IC8_gem9
+ore:
+  - TR_m3_q_A5_SmuggledEbony
+  - TR_m7_q_Ns_IC8_gem9
+organ:
+  - TR_m7_q_guarliver
+pastry:
+  - TR_m4_menaan_int_8_biscuit
+pelt:
+  - TR_m7_NVA8_ingred_bear_pelt
+  - TR_m7_NVA8_ingred_wolf_pelt
+  - TR_m7_NVA8_snowbear_pelt
+petals:
+  - TR_m2_q_9_BGPetals
+  - TR_m4_TT_SpawnBittergreen
+plant:
+  - TR_m1_q67_Fa1_Seeds
+  - TR_m1_Q_BlackRose_Stationary
+  - TR_m1_Q_Ingred_BlackRose
+  - TR_m1_Q_Ingred_NobleSedge
+  - TR_m1_Q_NobleSedge_Stationary
+  - TR_m2_q_9_BGPetals
+  - TR_m3_TT_Dis_marshrootincense
+  - TR_m4_TJ_MoonshadowRose
+  - TR_m4_TT_SpawnBittergreen
+  - TR_m4_TT_SpawnHackleLo
+  - TR_m7_Ns_MG_Hemlock_01
+powder:
+  - TR_m3_TT_JalorPowder
+  - TR_m3_TT_JalorPowder02
+rat:
+  - TR_m1_Q59_PR_disease_meat
+  - TR_m3_OE_RatMeatPoison
+root:
+  - TR_m3_TT_Dis_marshrootincense
+seeds:
+  - TR_m1_q67_Fa1_Seeds
+  - TR_m7_Ns_MG_Hemlock_01
+shell:
+  - TR_m1_ingred_ceph_shell_uni
+silk:
+  - TR_m2_q_29_4_silk
+unique:
+  - TR_m1_ingred_ceph_shell_uni
+  - TR_m1_q51_ingred_BOmusk_UNI
+  - TR_m2_q_9_Eyestar_uni
+vegetable:
+  - TR_m7_AHPicnicCabbage
+wolf:
+  - TR_m7_NVA8_ingred_wolf_pelt

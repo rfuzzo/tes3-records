@@ -54,14 +54,31 @@ The records are first extracted from the game plugins with `tes3util` (see the
 comment in `scripts/generate.py`), then:
 
 ```sh
-python3 scripts/generate.py       # fold the Tribunal/Bloodmoon folders into Morrowind/
-python3 scripts/generate_csv.py   # write per-source/per-type id,name CSVs into _out/
-python3 scripts/tag_records.py     # fill the tags column (see below)
+python3 scripts/generate.py        # fold the Tribunal/Bloodmoon folders into Morrowind/
+python3 scripts/generate_csv.py    # write per-source/per-type id,name CSVs into _out/
+python3 scripts/tag_records.py      # fill the tags column (see below)
+python3 scripts/generate_modtags.py # write the ModTags/ tag maps (see below)
 ```
 
 `scripts/generate_csv.py` folds the Tribunal/Bloodmoon expansions into the
 Morrowind CSVs (a DLC record overrides a base one with the same id) and leaves
 the `tags` column empty for the tagger to fill.
+
+### Tag maps
+
+`scripts/generate_modtags.py` inverts each tagged CSV into
+`ModTags/<Source>_<Type>.yaml` — a map of tag → the record ids carrying that
+tag (tag keys lowercased), e.g.:
+
+```yaml
+axe:
+  - chitin war axe
+  - iron war axe
+shovel:
+  - misc_de_muck_shovel_01
+```
+
+Run it after `tag_records.py`, since it reads the CSVs' tags column.
 
 ### Tagging items
 

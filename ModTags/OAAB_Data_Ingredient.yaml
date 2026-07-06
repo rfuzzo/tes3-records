@@ -1,0 +1,270 @@
+bread:
+  - AB_IngFood_Bread01a
+  - AB_IngFood_Bread01b
+  - AB_IngFood_Bread02
+  - AB_IngFood_SaltriceBread
+clannfear:
+  - AB_IngCrea_ClannClaw_01
+claw:
+  - AB_IngCrea_ClannClaw_01
+clay:
+  - AB_IngMine_Clay01
+  - AB_IngMine_Clay02
+creature:
+  - AB_IngCrea_ClannClaw_01
+  - AB_IngCrea_DaeTeeth_01
+  - AB_IngCrea_DreughShell_01
+  - AB_IngCrea_GlowbugThoraxBlue
+  - AB_IngCrea_GlowbugThoraxGreen
+  - AB_IngCrea_GuarMeat_01
+  - AB_IngCrea_HorseMeat01
+  - AB_IngCrea_KwamaEggBlighted
+  - AB_IngCrea_KwamaPoison
+  - AB_IngCrea_LichDust
+  - AB_IngCrea_OgrimLard
+  - AB_IngCrea_SaintsHair
+  - AB_IngCrea_ScribShell_01
+  - AB_IngCrea_SfMeat_01
+  - AB_IngCrea_SpiderMilk
+  - AB_IngCrea_SpiderVenom
+  - AB_IngCrea_SprigganEar
+  - AB_IngCrea_SturgeonMeat01
+  - AB_IngCrea_SturgeonMeat02
+  - AB_IngCrea_SturgeonMeat03
+  - AB_IngCrea_TwilightMembrane
+  - AB_IngFood_KwamaEggCentCut
+  - AB_IngFood_KwamaEggCentWrap
+  - AB_IngFood_KwamaEggSpoilLarge
+  - AB_IngFood_KwamaEggSpoilSmall
+daedroth:
+  - AB_IngCrea_DaeTeeth_01
+dreugh:
+  - AB_IngCrea_DreughShell_01
+dust:
+  - AB_IngCrea_LichDust
+ear:
+  - AB_IngCrea_SprigganEar
+egg:
+  - AB_IngCrea_KwamaEggBlighted
+  - AB_IngFood_KwamaEggCentCut
+  - AB_IngFood_KwamaEggCentWrap
+  - AB_IngFood_KwamaEggSpoilLarge
+  - AB_IngFood_KwamaEggSpoilSmall
+fat:
+  - AB_IngCrea_OgrimLard
+food:
+  - AB_IngCrea_DungCake
+  - AB_IngCrea_SturgeonRoe
+  - AB_IngFlor_Pomegranate01
+  - AB_IngFlor_Pomegranate02
+  - AB_IngFood_Bread01a
+  - AB_IngFood_Bread01b
+  - AB_IngFood_Bread02
+  - AB_IngFood_ComJam
+  - AB_IngFood_DoughLump
+  - AB_IngFood_DoughRolled
+  - AB_IngFood_SaltriceBread
+  - AB_IngFood_SaltricePorridge
+  - AB_IngFood_ScuttlePie
+  - AB_IngFood_Sweetroll
+  - AB_IngFood_WickwheatDumpling
+fruit:
+  - AB_IngFlor_Pomegranate01
+  - AB_IngFlor_Pomegranate02
+gem:
+  - AB_IngMine_Amber_01
+  - AB_IngMine_Amethyst_01
+  - AB_IngMine_BlackPearl_01
+  - AB_IngMine_BlackTourmaline_01
+  - AB_IngMine_BlueDiamond
+  - AB_IngMine_Diopside_01
+  - AB_IngMine_Garnet_01
+  - AB_IngMine_GoldPearl_01
+  - AB_IngMine_Peridot_01
+  - AB_IngMine_RedDiamond
+  - AB_IngMine_Sapphire_01
+  - AB_IngMine_Topaz_01
+  - AB_IngMine_Tourmaline_01
+guar:
+  - AB_IngCrea_GuarMeat_01
+hair:
+  - AB_IngCrea_SaintsHair
+horse:
+  - AB_IngCrea_HorseMeat01
+ingredient:
+  - AB_IngCrea_ClannClaw_01
+  - AB_IngCrea_DaeTeeth_01
+  - AB_IngCrea_DreughShell_01
+  - AB_IngCrea_DungCake
+  - AB_IngCrea_GlowbugThoraxBlue
+  - AB_IngCrea_GlowbugThoraxGreen
+  - AB_IngCrea_GuarMeat_01
+  - AB_IngCrea_HorseMeat01
+  - AB_IngCrea_KwamaEggBlighted
+  - AB_IngCrea_KwamaPoison
+  - AB_IngCrea_LichDust
+  - AB_IngCrea_OgrimLard
+  - AB_IngCrea_SaintsHair
+  - AB_IngCrea_ScribShell_01
+  - AB_IngCrea_SfMeat_01
+  - AB_IngCrea_Silkgut
+  - AB_IngCrea_SpiderMilk
+  - AB_IngCrea_SpiderVenom
+  - AB_IngCrea_SprigganEar
+  - AB_IngCrea_SturgeonMeat01
+  - AB_IngCrea_SturgeonMeat02
+  - AB_IngCrea_SturgeonMeat03
+  - AB_IngCrea_SturgeonRoe
+  - AB_IngCrea_TwilightMembrane
+  - AB_IngFlor_BgSlime_01
+  - AB_IngFlor_Bloodgrass_01
+  - AB_IngFlor_Bloodgrass_02
+  - AB_IngFlor_BlueKanet_01
+  - AB_IngFlor_CinderSparkLichen_01
+  - AB_IngFlor_Dustcap
+  - AB_IngFlor_Fomentarius
+  - AB_IngFlor_GlMuscaria_01
+  - AB_IngFlor_Harrada_01
+  - AB_IngFlor_Harrada_02
+  - AB_IngFlor_Pomegranate01
+  - AB_IngFlor_Pomegranate02
+  - AB_IngFlor_Scypha
+  - AB_IngFlor_TelvanniResin
+  - AB_IngFlor_Urnula
+  - AB_IngFlor_ViMuscaria_01
+  - AB_IngFood_Bread01a
+  - AB_IngFood_Bread01b
+  - AB_IngFood_Bread02
+  - AB_IngFood_ComJam
+  - AB_IngFood_DoughLump
+  - AB_IngFood_DoughRolled
+  - AB_IngFood_KwamaEggCentCut
+  - AB_IngFood_KwamaEggCentWrap
+  - AB_IngFood_KwamaEggSpoilLarge
+  - AB_IngFood_KwamaEggSpoilSmall
+  - AB_IngFood_KwamaLoaf
+  - AB_IngFood_KwamaLoafSlice
+  - AB_IngFood_SaltriceBread
+  - AB_IngFood_SaltricePorridge
+  - AB_IngFood_ScuttlePie
+  - AB_IngFood_Sweetroll
+  - AB_IngFood_WickwheatDumpling
+  - AB_IngMine_Amber_01
+  - AB_IngMine_Amethyst_01
+  - AB_IngMine_BlackPearl_01
+  - AB_IngMine_BlackTourmaline_01
+  - AB_IngMine_BlueDiamond
+  - AB_IngMine_ChalkWhite
+  - AB_IngMine_Clay01
+  - AB_IngMine_Clay02
+  - AB_IngMine_Diopside_01
+  - AB_IngMine_Firejade_01
+  - AB_IngMine_Garnet_01
+  - AB_IngMine_GoldPearl_01
+  - AB_IngMine_Lodestone
+  - AB_IngMine_Obsidian_01
+  - AB_IngMine_Peridot_01
+  - AB_IngMine_RedDiamond
+  - AB_IngMine_Sapphire_01
+  - AB_IngMine_Sulphur
+  - AB_IngMine_Topaz_01
+  - AB_IngMine_Tourmaline_01
+kwama:
+  - AB_IngCrea_KwamaEggBlighted
+  - AB_IngCrea_KwamaPoison
+  - AB_IngFood_KwamaEggCentCut
+  - AB_IngFood_KwamaEggCentWrap
+  - AB_IngFood_KwamaEggSpoilLarge
+  - AB_IngFood_KwamaEggSpoilSmall
+lich:
+  - AB_IngCrea_LichDust
+lichen:
+  - AB_IngFlor_CinderSparkLichen_01
+meat:
+  - AB_IngCrea_GuarMeat_01
+  - AB_IngCrea_HorseMeat01
+  - AB_IngCrea_SfMeat_01
+  - AB_IngCrea_SturgeonMeat01
+  - AB_IngCrea_SturgeonMeat02
+  - AB_IngCrea_SturgeonMeat03
+membrane:
+  - AB_IngCrea_TwilightMembrane
+milk:
+  - AB_IngCrea_SpiderMilk
+mineral:
+  - AB_IngMine_Amber_01
+  - AB_IngMine_Amethyst_01
+  - AB_IngMine_BlackPearl_01
+  - AB_IngMine_BlackTourmaline_01
+  - AB_IngMine_BlueDiamond
+  - AB_IngMine_ChalkWhite
+  - AB_IngMine_Clay01
+  - AB_IngMine_Clay02
+  - AB_IngMine_Diopside_01
+  - AB_IngMine_Garnet_01
+  - AB_IngMine_GoldPearl_01
+  - AB_IngMine_Lodestone
+  - AB_IngMine_Obsidian_01
+  - AB_IngMine_Peridot_01
+  - AB_IngMine_RedDiamond
+  - AB_IngMine_Sapphire_01
+  - AB_IngMine_Sulphur
+  - AB_IngMine_Topaz_01
+  - AB_IngMine_Tourmaline_01
+mushroom:
+  - AB_IngFlor_Dustcap
+  - AB_IngFlor_Fomentarius
+  - AB_IngFlor_GlMuscaria_01
+  - AB_IngFlor_Scypha
+  - AB_IngFlor_Urnula
+  - AB_IngFlor_ViMuscaria_01
+pastry:
+  - AB_IngCrea_DungCake
+  - AB_IngFood_Sweetroll
+plant:
+  - AB_IngCrea_Silkgut
+  - AB_IngFlor_BgSlime_01
+  - AB_IngFlor_Bloodgrass_01
+  - AB_IngFlor_Bloodgrass_02
+  - AB_IngFlor_BlueKanet_01
+  - AB_IngFlor_CinderSparkLichen_01
+  - AB_IngFlor_Dustcap
+  - AB_IngFlor_Fomentarius
+  - AB_IngFlor_GlMuscaria_01
+  - AB_IngFlor_Harrada_01
+  - AB_IngFlor_Harrada_02
+  - AB_IngFlor_Scypha
+  - AB_IngFlor_TelvanniResin
+  - AB_IngFlor_Urnula
+  - AB_IngFlor_ViMuscaria_01
+resin:
+  - AB_IngFlor_TelvanniResin
+roe:
+  - AB_IngCrea_SturgeonRoe
+scrib:
+  - AB_IngCrea_ScribShell_01
+shell:
+  - AB_IngCrea_DreughShell_01
+  - AB_IngCrea_ScribShell_01
+slaughterfish:
+  - AB_IngCrea_SfMeat_01
+spider:
+  - AB_IngCrea_SpiderMilk
+  - AB_IngCrea_SpiderVenom
+spriggan:
+  - AB_IngCrea_SprigganEar
+sturgeon:
+  - AB_IngCrea_SturgeonMeat01
+  - AB_IngCrea_SturgeonMeat02
+  - AB_IngCrea_SturgeonMeat03
+  - AB_IngCrea_SturgeonRoe
+teeth:
+  - AB_IngCrea_DaeTeeth_01
+thorax:
+  - AB_IngCrea_GlowbugThoraxBlue
+  - AB_IngCrea_GlowbugThoraxGreen
+venom:
+  - AB_IngCrea_KwamaPoison
+  - AB_IngCrea_SpiderVenom
+winged twilight:
+  - AB_IngCrea_TwilightMembrane
